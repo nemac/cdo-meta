@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataTypeCollection totalCount="133" pageCount="2">
+  <dataType>
+    <id>ACMC</id>
+    <description>Average cloudiness midnight to midnight from 30-second ceilometer data (percent)</description>
+  </dataType>
+  <dataType>
+    <id>ACMH</id>
+    <description>Average cloudiness midnight to midnight from manual observations (percent)</description>
+  </dataType>
+  <dataType>
+    <id>ACSC</id>
+    <description>Average cloudiness sunrise to sunset from 30-second ceilometer data (percent)</description>
+  </dataType>
+  <dataType>
+    <id>ACSH</id>
+    <description>Average cloudiness sunrise to sunset from manual observations (percent)</description>
+  </dataType>
+  <dataType>
+    <id>AWND</id>
+    <description>Average daily wind speed (tenths of meters per second)</description>
+  </dataType>
+  <dataType>
+    <id>DAEV</id>
+    <description>Number of days included in the multiday evaporation total (MDEV)</description>
+  </dataType>
+  <dataType>
+    <id>DAPR</id>
+    <description>Number of days included in the multiday precipitation total (MDPR)</description>
+  </dataType>
+  <dataType>
+    <id>DASF</id>
+    <description>Number of days included in the multiday snow fall total (MDSF) </description>
+  </dataType>
+  <dataType>
+    <id>DATN</id>
+    <description>Number of days included in the multiday minimum temperature (MDTN)</description>
+  </dataType>
+  <dataType>
+    <id>DATX</id>
+    <description>Number of days included in the multiday maximum temperature (MDTX)</description>
+  </dataType>
+  <dataType>
+    <id>DAWM</id>
+    <description>Number of days included in the multiday wind movement (MDWM)</description>
+  </dataType>
+  <dataType>
+    <id>DWPR</id>
+    <description>Number of days with non-zero precipitation included in multiday precipitation total (MDPR)</description>
+  </dataType>
+  <dataType>
+    <id>EVAP</id>
+    <description>Evaporation of water from evaporation pan (tenths of mm)</description>
+  </dataType>
+  <dataType>
+    <id>FMTM</id>
+    <description>Time of fastest mile or fastest 1-minute wind (hours and minutes, i.e, HHMM)</description>
+  </dataType>
+  <dataType>
+    <id>FRGB</id>
+    <description>Base of frozen ground layer (cm)</description>
+  </dataType>
+  <dataType>
+    <id>FRGT</id>
+    <description>Top of frozen ground layer (cm)</description>
+  </dataType>
+  <dataType>
+    <id>FRTH</id>
+    <description>Thickness of frozen ground layer (cm)</description>
+  </dataType>
+  <dataType>
+    <id>GAHT</id>
+    <description>Difference between river and gauge height (cm)</description>
+  </dataType>
+  <dataType>
+    <id>MDEV</id>
+    <description>Multiday evaporation total (tenths of mm; use with DAEV)</description>
+  </dataType>
+  <dataType>
+    <id>MDPR</id>
+    <description>Multiday precipitation total (tenths of mm; use with DAPR and DWPR, if available)</description>
+  </dataType>
+  <dataType>
+    <id>MDSF</id>
+    <description>Multiday snowfall total </description>
+  </dataType>
+  <dataType>
+    <id>MDTN</id>
+    <description>Multiday minimum temperature (tenths of degrees C; use with DATN)</description>
+  </dataType>
+  <dataType>
+    <id>MDTX</id>
+    <description>Multiday maximum temperature (tenths of degress C; use with DATX)</description>
+  </dataType>
+  <dataType>
+    <id>MDWM</id>
+    <description>Multiday wind movement (km)</description>
+  </dataType>
+  <dataType>
+    <id>MNPN</id>
+    <description>Daily minimum temperature of water in an evaporation pan (tenths of degrees C)</description>
+  </dataType>
+  <dataType>
+    <id>MXPN</id>
+    <description>Daily maximum temperature of water in an evaporation pan (tenths of degrees C)</description>
+  </dataType>
+  <dataType>
+    <id>PGTM</id>
+    <description>Peak gust time (hours and minutes, i.e., HHMM)</description>
+  </dataType>
+  <dataType>
+    <id>PRCP</id>
+    <description>Precipitation (tenths of mm)</description>
+  </dataType>
+  <dataType>
+    <id>PSUN</id>
+    <description>Daily percent of possible sunshine (percent)</description>
+  </dataType>
+  <dataType>
+    <id>SN01</id>
+    <description>Minimum soil temperature (tenths of degrees C) with unknown cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN02</id>
+    <description>Minimum soil temperature (tenths of degrees C) with unknown cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN03</id>
+    <description>Minimum soil temperature (tenths of degrees C) with unknown cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN11</id>
+    <description>Minimum soil temperature (tenths of degrees C) with grass cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN12</id>
+    <description>Minimum soil temperature (tenths of degrees C) with grass cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN13</id>
+    <description>Minimum soil temperature (tenths of degrees C) with grass cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN14</id>
+    <description>Minimum soil temperature (tenths of degrees C) with grass cover at 50 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN21</id>
+    <description>Minimum soil temperature (tenths of degrees C) with fallow cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN22</id>
+    <description>Minimum soil temperature (tenths of degrees C) with fallow cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN23</id>
+    <description>Minimum soil temperature (tenths of degrees C) with fallow cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN31</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare ground cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN32</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare ground cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN33</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare ground cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN34</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare ground cover at 50 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN35</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare ground cover at 100 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN36</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare ground cover at 150 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN51</id>
+    <description>Minimum soil temperature (tenths of degrees C) with sod cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN52</id>
+    <description>Minimum soil temperature (tenths of degrees C) with sod cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN53</id>
+    <description>Minimum soil temperature (tenths of degrees C) with sod cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN54</id>
+    <description>Minimum soil temperature (tenths of degrees C) with sod cover at 50 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN55</id>
+    <description>Minimum soil temperature (tenths of degrees C) with sod cover at 100 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN56</id>
+    <description>Minimum soil temperature (tenths of degrees C) with sod cover at 150 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN61</id>
+    <description>Minimum soil temperature (tenths of degrees C) with straw multch cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN72</id>
+    <description>Minimum soil temperature (tenths of degrees C) with grass muck cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN81</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare muck cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN82</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare muck cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SN83</id>
+    <description>Minimum soil temperature (tenths of degrees C) with bare muck cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SNOW</id>
+    <description>Snowfall (mm)</description>
+  </dataType>
+  <dataType>
+    <id>SNWD</id>
+    <description>Snow depth (mm)</description>
+  </dataType>
+  <dataType>
+    <id>SX01</id>
+    <description>Maximum soil temperature (tenths of degrees C) with unknown cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX02</id>
+    <description>Maximum soil temperature (tenths of degrees C) with unknown cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX03</id>
+    <description>Maximum soil temperature (tenths of degrees C) with unknown cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX11</id>
+    <description>Maximum soil temperature (tenths of degrees C) with grass cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX12</id>
+    <description>Maximum soil temperature (tenths of degrees C) with grass cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX13</id>
+    <description>Maximum soil temperature (tenths of degrees C) with grass cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX14</id>
+    <description>Maximum soil temperature (tenths of degrees C) with grass cover at 50 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX15</id>
+    <description>Maximum soil temperature (tenths of degrees C) with grass cover at 100 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX17</id>
+    <description>Maximum soil temperature (tenths of degrees C) with grass cover at 180 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX21</id>
+    <description>Maximum soil temperature (tenths of degrees C) with fallow cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX22</id>
+    <description>Maximum soil temperature (tenths of degrees C) with fallow cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX23</id>
+    <description>Maximum soil temperature (tenths of degrees C) with fallow cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX31</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare ground cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX32</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare ground cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX33</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare ground cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX34</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare ground cover at 50 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX35</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare ground cover at 100 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX36</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare ground cover at 150 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX51</id>
+    <description>Maximum soil temperature (tenths of degrees C) with sod cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX52</id>
+    <description>Maximum soil temperature (tenths of degrees C) with sod cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX53</id>
+    <description>Maximum soil temperature (tenths of degrees C) with sod cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX54</id>
+    <description>Maximum soil temperature (tenths of degrees C) with sod cover at 50 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX55</id>
+    <description>Maximum soil temperature (tenths of degrees C) with sod cover at 100 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX56</id>
+    <description>Maximum soil temperature (tenths of degrees C) with sod cover at 150 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX61</id>
+    <description>Maximum soil temperature (tenths of degrees C) with straw multch cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX72</id>
+    <description>Maximum soil temperature (tenths of degrees C) with grass muck cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX81</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare muck cover at 5 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX82</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare muck cover at 10 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>SX83</id>
+    <description>Maximum soil temperature (tenths of degrees C) with bare muck cover at 20 cm depth</description>
+  </dataType>
+  <dataType>
+    <id>THIC</id>
+    <description>Thickness of ice on water (tenths of mm)</description>
+  </dataType>
+  <dataType>
+    <id>TMAX</id>
+    <description>Maximum temperature (tenths of degrees C)</description>
+  </dataType>
+  <dataType>
+    <id>TMIN</id>
+    <description>Minimum temperature (tenths of degrees C)</description>
+  </dataType>
+  <dataType>
+    <id>TOBS</id>
+    <description>Temperature at the time of observation (tenths of degrees C)</description>
+  </dataType>
+  <dataType>
+    <id>TSUN</id>
+    <description>Daily total sunshine (minutes)</description>
+  </dataType>
+  <dataType>
+    <id>WDF1</id>
+    <description>Direction of fastest 1-minute wind (degrees)</description>
+  </dataType>
+  <dataType>
+    <id>WDF2</id>
+    <description>Direction of fastest 2-minute wind (degrees)</description>
+  </dataType>
+  <dataType>
+    <id>WDF5</id>
+    <description>Direction of fastest 5-second wind (degrees)</description>
+  </dataType>
+  <dataType>
+    <id>WDFG</id>
+    <description>Direction of peak wind gust (degrees)</description>
+  </dataType>
+  <dataType>
+    <id>WDFI</id>
+    <description>Direction of highest instantaneous wind (degrees)</description>
+  </dataType>
+  <dataType>
+    <id>WDFM</id>
+    <description>Fastest mile wind direction (degrees)</description>
+  </dataType>
+  <dataType>
+    <id>WDMV</id>
+    <description>24-hour wind movement (km)</description>
+  </dataType>
+  <dataType>
+    <id>WESD</id>
+    <description>Water equivalent of snow on the ground (tenths of mm)</description>
+  </dataType>
+  <dataType>
+    <id>WESF</id>
+    <description>Water equivalent of snowfall (tenths of mm)</description>
+  </dataType>
+  <dataType>
+    <id>WSF1</id>
+    <description>Fastest 1-minute wind speed (tenths of meters per second)</description>
+  </dataType>
+  <dataType>
+    <id>WSF2</id>
+    <description>Fastest 2-minute wind speed (tenths of meters per second)</description>
+  </dataType>
+  <dataType>
+    <id>WSF5</id>
+    <description>Fastest 5-second wind speed (tenths of meters per second)</description>
+  </dataType>
+  <dataType>
+    <id>WSFG</id>
+    <description>Peak guest wind speed (tenths of meters per second)</description>
+  </dataType>
+  <dataType>
+    <id>WSFI</id>
+    <description>Highest instantaneous wind speed (tenths of meters per second)</description>
+  </dataType>
+  <dataType>
+    <id>WSFM</id>
+    <description>Fastest mile wind speed (tenths of meters per second)</description>
+  </dataType>
+  <dataType>
+    <id>WT01</id>
+    <description>Fog, ice fog, or freezing fog (may include heavy fog)</description>
+  </dataType>
+  <dataType>
+    <id>WT02</id>
+    <description>Heavy fog or heaving freezing fog (not always distinguished from fog)</description>
+  </dataType>
+  <dataType>
+    <id>WT03</id>
+    <description>Thunder</description>
+  </dataType>
+  <dataType>
+    <id>WT04</id>
+    <description>Ice pellets, sleet, snow pellets, or small hail" </description>
+  </dataType>
+  <dataType>
+    <id>WT05</id>
+    <description>Hail (may include small hail)</description>
+  </dataType>
+  <dataType>
+    <id>WT06</id>
+    <description>Glaze or rime </description>
+  </dataType>
+  <dataType>
+    <id>WT07</id>
+    <description>Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction</description>
+  </dataType>
+  <dataType>
+    <id>WT08</id>
+    <description>Smoke or haze </description>
+  </dataType>
+  <dataType>
+    <id>WT09</id>
+    <description>Blowing or drifting snow</description>
+  </dataType>
+  <dataType>
+    <id>WT10</id>
+    <description>Tornado, waterspout, or funnel cloud" </description>
+  </dataType>
+  <dataType>
+    <id>WT11</id>
+    <description>High or damaging winds</description>
+  </dataType>
+  <dataType>
+    <id>WT12</id>
+    <description>Blowing spray</description>
+  </dataType>
+  <dataType>
+    <id>WT13</id>
+    <description>Mist</description>
+  </dataType>
+  <dataType>
+    <id>WT14</id>
+    <description>Drizzle</description>
+  </dataType>
+  <dataType>
+    <id>WT15</id>
+    <description>Freezing drizzle </description>
+  </dataType>
+  <dataType>
+    <id>WT16</id>
+    <description>Rain (may include freezing rain, drizzle, and freezing drizzle)" </description>
+  </dataType>
+  <dataType>
+    <id>WT17</id>
+    <description>Freezing rain </description>
+  </dataType>
+  <dataType>
+    <id>WT18</id>
+    <description>Snow, snow pellets, snow grains, or ice crystals</description>
+  </dataType>
+  <dataType>
+    <id>WT19</id>
+    <description>Unknown source of precipitation </description>
+  </dataType>
+  <dataType>
+    <id>WT21</id>
+    <description>Ground fog </description>
+  </dataType>
+  <dataType>
+    <id>WT22</id>
+    <description>Ice fog or freezing fog</description>
+  </dataType>
+  <dataType>
+    <id>WV01</id>
+    <description>Fog, ice fog, or freezing fog (may include heavy fog)</description>
+  </dataType>
+  <dataType>
+    <id>WV03</id>
+    <description>Thunder</description>
+  </dataType>
+  <dataType>
+    <id>WV07</id>
+    <description>Ash, dust, sand, or other blowing obstruction</description>
+  </dataType>
+  <dataType>
+    <id>WV18</id>
+    <description>Snow or ice crystals</description>
+  </dataType>
+  <dataType>
+    <id>WV20</id>
+    <description>Rain or snow shower</description>
+  </dataType>
+</dataTypeCollection>

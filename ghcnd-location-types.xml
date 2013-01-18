@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<locationTypeCollection>
+  <locationType>
+    <id>CLIM_DIV</id>
+    <name>Climate Division</name>
+  </locationType>
+  <locationType>
+    <id>CLIM_REG</id>
+    <name>Climate Region</name>
+  </locationType>
+  <locationType>
+    <id>CNTRY</id>
+    <name>Country</name>
+  </locationType>
+  <locationType>
+    <id>CNTY</id>
+    <name>County</name>
+  </locationType>
+  <locationType>
+    <id>HYD_ACC</id>
+    <name>Hydrologic Accounting Unit</name>
+  </locationType>
+  <locationType>
+    <id>HYD_CAT</id>
+    <name>Hydrologic Cataloging Unit</name>
+  </locationType>
+  <locationType>
+    <id>HYD_REG</id>
+    <name>Hydrologic Region</name>
+  </locationType>
+  <locationType>
+    <id>HYD_SUB</id>
+    <name>Hydrologic Subregion</name>
+  </locationType>
+  <locationType>
+    <id>ST</id>
+    <name>State</name>
+  </locationType>
+  <locationType>
+    <id>ZIP</id>
+    <name>Zip Code</name>
+  </locationType>
+</locationTypeCollection>

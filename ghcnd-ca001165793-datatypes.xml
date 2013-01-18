@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataTypeCollection totalCount="6" pageCount="1">
+  <dataType>
+    <id>MDPR</id>
+    <description>Multiday precipitation total (tenths of mm; use with DAPR and DWPR, if available)</description>
+  </dataType>
+  <dataType>
+    <id>PRCP</id>
+    <description>Precipitation (tenths of mm)</description>
+  </dataType>
+  <dataType>
+    <id>SNOW</id>
+    <description>Snowfall (mm)</description>
+  </dataType>
+  <dataType>
+    <id>SNWD</id>
+    <description>Snow depth (mm)</description>
+  </dataType>
+  <dataType>
+    <id>TMAX</id>
+    <description>Maximum temperature (tenths of degrees C)</description>
+  </dataType>
+  <dataType>
+    <id>TMIN</id>
+    <description>Minimum temperature (tenths of degrees C)</description>
+  </dataType>
+</dataTypeCollection>

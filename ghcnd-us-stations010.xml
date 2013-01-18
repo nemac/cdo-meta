@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="10">
+  <station>
+    <id>GHCND:USC00130200</id>
+    <displayName>AMES 8 WSW, IA US</displayName>
+    <minDate>1964-11-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>42.0208</latitude>
+    <longitude>-93.7741</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130209</id>
+    <displayName>AMES EXPERIMENT STATION, IA US</displayName>
+    <minDate>1893-01-03</minDate>
+    <maxDate>1896-12-31</maxDate>
+    <latitude>42.034708</latitude>
+    <longitude>-93.61994</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9513</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094989</id>
+    <displayName>AMES MUNICIPAL AIRPORT, IA US</displayName>
+    <minDate>1996-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.99056</latitude>
+    <longitude>-93.61889</longitude>
+    <elevation>291.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00400137</id>
+    <displayName>AMES PLANTATION, TN US</displayName>
+    <minDate>1976-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.1131</latitude>
+    <longitude>-89.2122</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050228</id>
+    <displayName>AMES, CO US</displayName>
+    <minDate>1914-12-01</minDate>
+    <maxDate>1986-03-31</maxDate>
+    <latitude>37.86667</latitude>
+    <longitude>-107.88333</longitude>
+    <elevation>2651.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340215</id>
+    <displayName>AMES, OK US</displayName>
+    <minDate>1896-05-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>36.2483</latitude>
+    <longitude>-98.1883</longitude>
+    <elevation>364.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1512</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAT0012</id>
+    <displayName>AMESVILLE 0.7 WNW, OH US</displayName>
+    <minDate>2010-10-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4067</latitude>
+    <longitude>-81.9657</longitude>
+    <elevation>227.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAT0005</id>
+    <displayName>AMESVILLE 2.6 SE, OH US</displayName>
+    <minDate>2009-05-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.3722</latitude>
+    <longitude>-81.9231</longitude>
+    <elevation>234.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9731</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330141</id>
+    <displayName>AMESVILLE, OH US</displayName>
+    <minDate>1953-06-18</minDate>
+    <maxDate>1988-09-30</maxDate>
+    <latitude>39.4</latitude>
+    <longitude>-81.96667</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050231</id>
+    <displayName>AMETHYST, CO US</displayName>
+    <minDate>1907-09-01</minDate>
+    <maxDate>1909-05-31</maxDate>
+    <latitude>37.833333</latitude>
+    <longitude>-106.95</longitude>
+    <elevation>2730.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPH0026</id>
+    <displayName>AMHERST 1.27 NW, CO US</displayName>
+    <minDate>2004-04-09</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>40.6958</latitude>
+    <longitude>-102.1826</longitude>
+    <elevation>1128.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1534</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10buff015</id>
+    <displayName>AMHERST 3.1 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-11-11</maxDate>
+    <latitude>40.8477</latitude>
+    <longitude>-99.3277</longitude>
+    <elevation>718.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHHL0025</id>
+    <displayName>AMHERST 3.7 NNE, NH US</displayName>
+    <minDate>2009-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.9141</latitude>
+    <longitude>-71.6102</longitude>
+    <elevation>93</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5841</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190120</id>
+    <displayName>AMHERST, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3861</latitude>
+    <longitude>-72.5374</longitude>
+    <elevation>43.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9824</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470205</id>
+    <displayName>AMHERST, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1908-04-30</maxDate>
+    <latitude>44.46667</latitude>
+    <longitude>-89.28333</longitude>
+    <elevation>363.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9012</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320209</id>
+    <displayName>AMIDON, ND US</displayName>
+    <minDate>1920-11-01</minDate>
+    <maxDate>2012-03-19</maxDate>
+    <latitude>46.4819</latitude>
+    <longitude>-103.3222</longitude>
+    <elevation>887</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8239</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440193</id>
+    <displayName>AMISSVILLE, VA US</displayName>
+    <minDate>1943-07-01</minDate>
+    <maxDate>1982-10-31</maxDate>
+    <latitude>38.68333</latitude>
+    <longitude>-78.01667</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290377</id>
+    <displayName>AMISTAD 5 SSW, NM US</displayName>
+    <minDate>1925-04-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>35.8741</latitude>
+    <longitude>-103.1819</longitude>
+    <elevation>1354.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410225</id>
+    <displayName>AMISTAD DAM, TX US</displayName>
+    <minDate>1964-05-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>29.4608</latitude>
+    <longitude>-101.0286</longitude>
+    <elevation>352.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LATG0003</id>
+    <displayName>AMITE CITY 4.1 E, LA US</displayName>
+    <minDate>2008-07-18</minDate>
+    <maxDate>2012-02-19</maxDate>
+    <latitude>30.7401</latitude>
+    <longitude>-90.4407</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6372</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00160205</id>
+    <displayName>AMITE, LA US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2011-08-31</maxDate>
+    <latitude>30.7094</latitude>
+    <longitude>-90.525</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9764</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230143</id>
+    <displayName>AMITY 4 NE, MO US</displayName>
+    <minDate>1935-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8913</latitude>
+    <longitude>-94.36</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9321</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030150</id>
+    <displayName>AMITY, AR US</displayName>
+    <minDate>1896-09-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>34.2809</latitude>
+    <longitude>-93.4613</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CAMM</id>
+    <displayName>AMMO DUMP CALIFORNIA, CA US</displayName>
+    <minDate>2001-06-14</minDate>
+    <maxDate>2011-05-10</maxDate>
+    <latitude>33.3814</latitude>
+    <longitude>-117.2856</longitude>
+    <elevation>325.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBV0003</id>
+    <displayName>AMMON 0.7 N, ID US</displayName>
+    <minDate>2009-03-22</minDate>
+    <maxDate>2010-01-09</maxDate>
+    <latitude>43.4893</latitude>
+    <longitude>-111.9698</longitude>
+    <elevation>1441.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8197</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230147</id>
+    <displayName>AMORET, KS US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1926-12-31</maxDate>
+    <latitude>38.25</latitude>
+    <longitude>-94.633333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00220176</id>
+    <displayName>AMORY 4 W, MS US</displayName>
+    <minDate>1956-09-01</minDate>
+    <maxDate>1969-01-31</maxDate>
+    <latitude>33.98333</latitude>
+    <longitude>-88.55</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9259</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00220173</id>
+    <displayName>AMORY LOCK AND DAM A, MS US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0116</latitude>
+    <longitude>-88.4883</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9897</coverage>
+  </station>
+  <station>
+    <id>GHCND:AQC00914021</id>
+    <displayName>AMOULI TUTUILA, US</displayName>
+    <minDate>1955-04-01</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>-14.26667</latitude>
+    <longitude>-170.58333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300156</id>
+    <displayName>AMSTERDAM 2 SW, NY US</displayName>
+    <minDate>1959-02-19</minDate>
+    <maxDate>1970-12-21</maxDate>
+    <latitude>42.91667</latitude>
+    <longitude>-74.21667</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.487</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300159</id>
+    <displayName>AMSTERDAM LOCK 1O, NY US</displayName>
+    <minDate>1902-09-13</minDate>
+    <maxDate>1959-03-31</maxDate>
+    <latitude>42.91667</latitude>
+    <longitude>-74.13333</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230151</id>
+    <displayName>AMSTERDAM, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.35</latitude>
+    <longitude>-94.58333</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050242</id>
+    <displayName>AMY, CO US</displayName>
+    <minDate>1939-08-30</minDate>
+    <maxDate>1973-12-31</maxDate>
+    <latitude>38.88333</latitude>
+    <longitude>-103.65</longitude>
+    <elevation>1598.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8614</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350183</id>
+    <displayName>ANA RIVER, OR US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>1917-04-30</maxDate>
+    <latitude>43</latitude>
+    <longitude>-120.75</longitude>
+    <elevation>1280.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9698</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAVN0001</id>
+    <displayName>ANACOCO 13.7 SW, LA US</displayName>
+    <minDate>2008-02-29</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>31.1284</latitude>
+    <longitude>-93.5224</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5566</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTDL0001</id>
+    <displayName>ANACONDA 7.4 NW, MT US</displayName>
+    <minDate>2008-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.1661</latitude>
+    <longitude>-113.0853</longitude>
+    <elevation>1768.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240199</id>
+    <displayName>ANACONDA, MT US</displayName>
+    <minDate>1894-06-01</minDate>
+    <maxDate>2012-08-21</maxDate>
+    <latitude>46.1314</latitude>
+    <longitude>-112.9569</longitude>
+    <elevation>1609.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.465</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0008</id>
+    <displayName>ANACORTES 0.8 ESE, WA US</displayName>
+    <minDate>2008-08-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.489</latitude>
+    <longitude>-122.6116</longitude>
+    <elevation>65.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0016</id>
+    <displayName>ANACORTES 0.9 ESE, WA US</displayName>
+    <minDate>2010-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.4863</latitude>
+    <longitude>-122.6015</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0021</id>
+    <displayName>ANACORTES 1.3 NW, WA US</displayName>
+    <minDate>2010-03-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.5046</latitude>
+    <longitude>-122.6503</longitude>
+    <elevation>61.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9379</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0037</id>
+    <displayName>ANACORTES 1.7 WNW, WA US</displayName>
+    <minDate>2012-07-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>48.5017</latitude>
+    <longitude>-122.6635</longitude>
+    <elevation>61.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9613</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0030</id>
+    <displayName>ANACORTES 3.0 N, WA US</displayName>
+    <minDate>2011-01-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.5355</latitude>
+    <longitude>-122.6265</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6097</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0013</id>
+    <displayName>ANACORTES 3.4 SSE, WA US</displayName>
+    <minDate>2008-12-12</minDate>
+    <maxDate>2012-01-17</maxDate>
+    <latitude>48.4506</latitude>
+    <longitude>-122.5885</longitude>
+    <elevation>67.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.106</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0032</id>
+    <displayName>ANACORTES 4.7 SSW, WA US</displayName>
+    <minDate>2011-01-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.4268</latitude>
+    <longitude>-122.6576</longitude>
+    <elevation>101.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0001</id>
+    <displayName>ANACORTES 4.9 S, WA US</displayName>
+    <minDate>2008-05-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.42</latitude>
+    <longitude>-122.6142</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9647</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0025</id>
+    <displayName>ANACORTES 5.3 S, WA US</displayName>
+    <minDate>2010-05-26</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.4166</latitude>
+    <longitude>-122.6161</longitude>
+    <elevation>19.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6649</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450176</id>
+    <displayName>ANACORTES, WA US</displayName>
+    <minDate>1892-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.5119</latitude>
+    <longitude>-122.6136</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9374</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013751</id>
+    <displayName>ANACOSTIA NAS, VA US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1956-12-05</maxDate>
+    <latitude>38.85</latitude>
+    <longitude>-77.03333</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7103</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCD0011</id>
+    <displayName>ANADARKO 3.8 E, OK US</displayName>
+    <minDate>2010-12-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0719</latitude>
+    <longitude>-98.1769</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9807</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340224</id>
+    <displayName>ANADARKO, OK US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0619</latitude>
+    <longitude>-98.1988</longitude>
+    <elevation>356</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAOR0029</id>
+    <displayName>ANAHEIM 4.9 E, CA US</displayName>
+    <minDate>2011-11-04</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.847</latitude>
+    <longitude>-117.7871</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9816</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAOR0021</id>
+    <displayName>ANAHEIM 4.9 ENE, CA US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8632</latitude>
+    <longitude>-117.7918</longitude>
+    <elevation>90.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAOR0022</id>
+    <displayName>ANAHEIM HILLS 1.1 SE, CA US</displayName>
+    <minDate>2010-08-01</minDate>
+    <maxDate>2012-12-10</maxDate>
+    <latitude>33.835</latitude>
+    <longitude>-117.7621</longitude>
+    <elevation>268.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6083</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040192</id>
+    <displayName>ANAHEIM, CA US</displayName>
+    <minDate>1989-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.8647</latitude>
+    <longitude>-117.8425</longitude>
+    <elevation>102.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510145</id>
+    <displayName>ANAHOLA 1114, HI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2000-10-31</maxDate>
+    <latitude>22.13222</latitude>
+    <longitude>-159.30389</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCHM006</id>
+    <displayName>ANAHUAC 8.4 S, TX US</displayName>
+    <minDate>2009-11-29</minDate>
+    <maxDate>2012-06-16</maxDate>
+    <latitude>29.644</latitude>
+    <longitude>-94.6946</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TANA</id>
+    <displayName>ANAHUAC NWR TEXAS, TX US</displayName>
+    <minDate>1994-06-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>29.6692</latitude>
+    <longitude>-94.4383</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410235</id>
+    <displayName>ANAHUAC, TX US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7878</latitude>
+    <longitude>-94.6343</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500270</id>
+    <displayName>ANAKTUVUK AUTO, AK US</displayName>
+    <minDate>1953-07-09</minDate>
+    <maxDate>1973-09-09</maxDate>
+    <latitude>68.16667</latitude>
+    <longitude>-151.76667</longitude>
+    <elevation>640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4583</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130213</id>
+    <displayName>ANAMOSA 1 WNW, IA US</displayName>
+    <minDate>1937-05-01</minDate>
+    <maxDate>2011-05-25</maxDate>
+    <latitude>42.1117</latitude>
+    <longitude>-91.2933</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9723</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAJN0004</id>
+    <displayName>ANAMOSA 2.5 SSW, IA US</displayName>
+    <minDate>2007-08-20</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>42.0763</latitude>
+    <longitude>-91.3019</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130214</id>
+    <displayName>ANAMOSA 3 SSW, IA US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.0763</latitude>
+    <longitude>-91.3019</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450184</id>
+    <displayName>ANATONE, WA US</displayName>
+    <minDate>1912-08-31</minDate>
+    <maxDate>1981-11-30</maxDate>
+    <latitude>46.13333</latitude>
+    <longitude>-117.13333</longitude>
+    <elevation>1089.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240202</id>
+    <displayName>ANCENEY, MT US</displayName>
+    <minDate>1952-03-02</minDate>
+    <maxDate>1974-05-31</maxDate>
+    <latitude>45.65</latitude>
+    <longitude>-111.36667</longitude>
+    <elevation>1452.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8709</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290394</id>
+    <displayName>ANCHO, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>33.93333</latitude>
+    <longitude>-105.75</longitude>
+    <elevation>1866.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480228</id>
+    <displayName>ANCHOR DAM, WY US</displayName>
+    <minDate>1961-04-19</minDate>
+    <maxDate>1979-09-30</maxDate>
+    <latitude>43.66667</latitude>
+    <longitude>-108.83333</longitude>
+    <elevation>1969.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290396</id>
+    <displayName>ANCHOR MINE, NM US</displayName>
+    <minDate>1911-07-01</minDate>
+    <maxDate>1920-10-24</maxDate>
+    <latitude>36.76667</latitude>
+    <longitude>-105.33333</longitude>
+    <elevation>3109</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0028</id>
+    <displayName>ANCHORAGE 11.9 SSE, AK US</displayName>
+    <minDate>2008-11-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>61.0614</latitude>
+    <longitude>-149.7524</longitude>
+    <elevation>417.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7113</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYJF0001</id>
+    <displayName>ANCHORAGE 2.8 NE, KY US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.296</latitude>
+    <longitude>-85.5053</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0006</id>
+    <displayName>ANCHORAGE 2.8 SW, AK US</displayName>
+    <minDate>2007-05-09</minDate>
+    <maxDate>2008-03-11</maxDate>
+    <latitude>61.1934</latitude>
+    <longitude>-149.9682</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7662</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0030</id>
+    <displayName>ANCHORAGE 3.1 ESE, AK US</displayName>
+    <minDate>2008-11-28</minDate>
+    <maxDate>2012-10-02</maxDate>
+    <latitude>61.2059</latitude>
+    <longitude>-149.8112</longitude>
+    <elevation>40.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8384</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0012</id>
+    <displayName>ANCHORAGE 31.7 SE, AK US</displayName>
+    <minDate>2007-06-06</minDate>
+    <maxDate>2011-08-25</maxDate>
+    <latitude>60.9512</latitude>
+    <longitude>-149.1278</longitude>
+    <elevation>88.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8106</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500288</id>
+    <displayName>ANCHORAGE 4 ESE, AK US</displayName>
+    <minDate>1957-03-01</minDate>
+    <maxDate>1962-10-31</maxDate>
+    <latitude>61.2</latitude>
+    <longitude>-149.78333</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9561</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0001</id>
+    <displayName>ANCHORAGE 4.8 E, AK US</displayName>
+    <minDate>2007-04-07</minDate>
+    <maxDate>2010-04-22</maxDate>
+    <latitude>61.2047</latitude>
+    <longitude>-149.7563</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5576</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0036</id>
+    <displayName>ANCHORAGE 5.0 ESE, AK US</displayName>
+    <minDate>2009-01-03</minDate>
+    <maxDate>2012-05-02</maxDate>
+    <latitude>61.1925</latitude>
+    <longitude>-149.76</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.815</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0014</id>
+    <displayName>ANCHORAGE 5.1 SE, AK US</displayName>
+    <minDate>2007-07-02</minDate>
+    <maxDate>2008-10-31</maxDate>
+    <latitude>61.1606</latitude>
+    <longitude>-149.8067</longitude>
+    <elevation>60</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0003</id>
+    <displayName>ANCHORAGE 5.2 SE, AK US</displayName>
+    <minDate>2007-04-19</minDate>
+    <maxDate>2008-05-16</maxDate>
+    <latitude>61.1926</latitude>
+    <longitude>-149.7542</longitude>
+    <elevation>80.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4898</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0009</id>
+    <displayName>ANCHORAGE 6.4 ESE, AK US</displayName>
+    <minDate>2007-05-19</minDate>
+    <maxDate>2011-02-20</maxDate>
+    <latitude>61.1852</latitude>
+    <longitude>-149.7205</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2802</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0007</id>
+    <displayName>ANCHORAGE 8.6 SSE, AK US</displayName>
+    <minDate>2007-05-13</minDate>
+    <maxDate>2010-07-20</maxDate>
+    <latitude>61.1</latitude>
+    <longitude>-149.82</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6918</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0004</id>
+    <displayName>ANCHORAGE 8.7 SSE, AK US</displayName>
+    <minDate>2007-05-23</minDate>
+    <maxDate>2008-07-11</maxDate>
+    <latitude>61.1094</latitude>
+    <longitude>-149.7701</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2428</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0027</id>
+    <displayName>ANCHORAGE 9.7 SE, AK US</displayName>
+    <minDate>2008-11-13</minDate>
+    <maxDate>2009-06-18</maxDate>
+    <latitude>61.1039</latitude>
+    <longitude>-149.7296</longitude>
+    <elevation>349.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7569</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500272</id>
+    <displayName>ANCHORAGE ARCTIC AND INTERNATIONAL, AK US</displayName>
+    <minDate>2005-08-01</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>61.17472</latitude>
+    <longitude>-149.905</longitude>
+    <elevation>35.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8114</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500287</id>
+    <displayName>ANCHORAGE CHESTER CREEK, AK US</displayName>
+    <minDate>2004-07-01</minDate>
+    <maxDate>2004-10-31</maxDate>
+    <latitude>61.20444</latitude>
+    <longitude>-149.91056</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026401</id>
+    <displayName>ANCHORAGE ELMENDORF AFB, AK US</displayName>
+    <minDate>1947-01-14</minDate>
+    <maxDate>1997-09-30</maxDate>
+    <latitude>61.25306</latitude>
+    <longitude>-149.79361</longitude>
+    <elevation>64.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500275</id>
+    <displayName>ANCHORAGE FORECAST OFFICE, AK US</displayName>
+    <minDate>1998-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>61.1561</latitude>
+    <longitude>-149.9847</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500279</id>
+    <displayName>ANCHORAGE HILLSIDE, AK US</displayName>
+    <minDate>1993-07-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>61.11667</latitude>
+    <longitude>-149.73333</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2373</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026491</id>
+    <displayName>ANCHORAGE LAKE HOOD SEA PLANE BASE, AK US</displayName>
+    <minDate>1998-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>61.17806</latitude>
+    <longitude>-149.96639</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026409</id>
+    <displayName>ANCHORAGE MERRILL FIELD, AK US</displayName>
+    <minDate>1916-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>61.21694</latitude>
+    <longitude>-149.855</longitude>
+    <elevation>42.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500286</id>
+    <displayName>ANCHORAGE MIDTOWN, AK US</displayName>
+    <minDate>2000-10-12</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>61.19389</latitude>
+    <longitude>-149.88583</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026453</id>
+    <displayName>ANCHORAGE PARK STRIP, AK US</displayName>
+    <minDate>1964-01-01</minDate>
+    <maxDate>1973-06-30</maxDate>
+    <latitude>61.21667</latitude>
+    <longitude>-149.86667</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500284</id>
+    <displayName>ANCHORAGE RABBIT CREEK NUMBER 2, AK US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>61.0882</latitude>
+    <longitude>-149.7561</longitude>
+    <elevation>278.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9062</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026451</id>
+    <displayName>ANCHORAGE TED STEVENS INTERNATIONAL AIRPORT, AK US</displayName>
+    <minDate>1952-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>61.169</latitude>
+    <longitude>-150.0278</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500281</id>
+    <displayName>ANCHORAGE UPPER DEARMOUN, AK US</displayName>
+    <minDate>2005-12-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>61.1025</latitude>
+    <longitude>-149.7169</longitude>
+    <elevation>406.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150155</id>
+    <displayName>ANCHORAGE, KY US</displayName>
+    <minDate>1895-04-01</minDate>
+    <maxDate>1982-02-28</maxDate>
+    <latitude>38.26667</latitude>
+    <longitude>-85.53333</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALH0004</id>
+    <displayName>ANCIENT OAKS 2.3 WNW, PA US</displayName>
+    <minDate>2006-08-21</minDate>
+    <maxDate>2008-05-05</maxDate>
+    <latitude>40.5412</latitude>
+    <longitude>-75.6284</longitude>
+    <elevation>129.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7772</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0007</id>
+    <displayName>ANDALE 6.4 WSW, KS US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.7636</latitude>
+    <longitude>-97.7399</longitude>
+    <elevation>463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00010252</id>
+    <displayName>ANDALUSIA 3 W, AL US</displayName>
+    <minDate>1912-10-05</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.3071</latitude>
+    <longitude>-86.5226</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053843</id>
+    <displayName>ANDALUSIA OPP AIRPORT, AL US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>31.30889</latitude>
+    <longitude>-86.39389</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9064</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914025</id>
+    <displayName>ANDERSEN AFB GUAM, US</displayName>
+    <minDate>1953-01-01</minDate>
+    <maxDate>2002-11-30</maxDate>
+    <latitude>13.57611</latitude>
+    <longitude>144.92806</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAN0006</id>
+    <displayName>ANDERSON 0.4 N, SC US</displayName>
+    <minDate>2008-03-23</minDate>
+    <maxDate>2011-11-29</maxDate>
+    <latitude>34.5237</latitude>
+    <longitude>-82.6446</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1819</coverage>
+  </station>
+</stationCollection>

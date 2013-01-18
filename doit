@@ -22,16 +22,16 @@ sub xml_request {
 }
 
 # List of all datasets:
-# xml_request("datasets.xml",                         "datasets");
+#xml_request("datasets.xml",                         "datasets");
 
 # Details of a particular dataset (GHCND):
-# xml_request("ghcnd.xml",                            "datasets/GHCND");
+#xml_request("ghcnd.xml",                            "datasets/GHCND");
 
 # List of variables (datatypes) in the GHCND dataset:
-# xml_request("ghcnd-datatypes.xml",                  "datasets/GHCND/datatypes");
+#xml_request("ghcnd-datatypes.xml",                  "datasets/GHCND/datatypes");
 
 # List stations within GHCN-Daily (100 Stations per page limit):
-# xml_request("ghcnd-stations1.xml",                  "datasets/GHCND/stations");
+#xml_request("ghcnd-stations1.xml",                  "datasets/GHCND/stations",  "page=1");
 
 # List of location types for a particular dataset (GHCND):
 #xml_request("ghcnd-location-types.xml",                  "datasets/GHCND/locationtypes");
@@ -41,10 +41,14 @@ sub xml_request {
 #xml_request("ghcnd-cntry-locations2.xml",                  "datasets/GHCND/locationtypes/CNTRY/locations", "page=2");
 
 # List stations within FIPS:US location in GHCN-Daily (100 Stations per page limit):
-xml_request("ghcnd-us-stations1.xml",                  "datasets/GHCND/locations/FIPS:US/stations", "page=1");
+for ($i=11; $i<=461; ++$i) {
+    $p = sprintf("%03d", $i);
+    xml_request("ghcnd-us-stations$p.xml",                  "datasets/GHCND/locations/FIPS:US/stations", "page=$i");
+    sleep(1);
+}
 
 # List of datatypes available for a given station:
-# xml_request("ghcnd-ca001165793-datatypes.xml",      "datasets/GHCND/stations/GHCND:CA001165793/datatypes");
+#xml_request("ghcnd-ca001165793-datatypes.xml",      "datasets/GHCND/stations/GHCND:CA001165793/datatypes");
 
 # Displays info about a particular data type from a given station (subset of above?):
 # xml_request("tmax.xml",      "datasets/GHCND/stations/GHCND:CA001165793/datatypes/TMAX");

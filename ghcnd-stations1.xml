@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="489812" pageCount="4899" pageSize="100" page="1">
+  <station>
+    <id>GHCND:CA001165793</id>
+    <displayName>100 MILE HOUSE 6 NE, CA</displayName>
+    <minDate>1987-06-18</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>51.68</latitude>
+    <longitude>-121.22</longitude>
+    <elevation>928</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CA</id>
+      <displayName>Canada</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA001165791</id>
+    <displayName>100 MILE HOUSE, CA</displayName>
+    <minDate>1970-05-07</minDate>
+    <maxDate>1999-11-30</maxDate>
+    <latitude>51.65</latitude>
+    <longitude>-121.3</longitude>
+    <elevation>1059</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CA</id>
+      <displayName>Canada</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA00109E7R6</id>
+    <displayName>108 MILE HOUSE ABEL LAKE, CA</displayName>
+    <minDate>1987-07-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>51.7</latitude>
+    <longitude>-121.4</longitude>
+    <elevation>994</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CA</id>
+      <displayName>Canada</displayName>
+    </locationLabels>
+    <coverage>0.9536</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA001095821</id>
+    <displayName>150 MILE HOUSE 7 N, CA</displayName>
+    <minDate>1969-01-01</minDate>
+    <maxDate>1975-01-31</maxDate>
+    <latitude>52.22</latitude>
+    <longitude>-122</longitude>
+    <elevation>884</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CA</id>
+      <displayName>Canada</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA001095820</id>
+    <displayName>150 MILE HOUSE, CA</displayName>
+    <minDate>1947-10-19</minDate>
+    <maxDate>1963-09-30</maxDate>
+    <latitude>52.12</latitude>
+    <longitude>-121.93</longitude>
+    <elevation>738</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CA</id>
+      <displayName>Canada</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:KZ000035381</id>
+    <displayName>17 LET OKTYABRYA, KZ</displayName>
+    <minDate>1968-10-01</minDate>
+    <maxDate>1988-06-30</maxDate>
+    <latitude>50.2</latitude>
+    <longitude>70.3</longitude>
+    <elevation>370</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:KZ</id>
+      <displayName>Kazakhstan</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCM0007</id>
+    <displayName>19.8 SE COLDWATER, KS US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2008-12-31</maxDate>
+    <latitude>37.0571</latitude>
+    <longitude>-99.09</longitude>
+    <elevation>552.9</elevation>
+    <locationLabels>
+      <type>HYD_REG</type>
+      <id>HUC:11</id>
+      <displayName>Arkansas-White-Red Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_REG</type>
+      <id>CLIM:106</id>
+      <displayName>South Climate Region</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:20</id>
+      <displayName>Kansas</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_SUB</type>
+      <id>HUC:1106</id>
+      <displayName>Arkansas - Keystone Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:67029</id>
+      <displayName>Coldwater, KS 67029</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:20033</id>
+      <displayName>Comanche County, KS</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_ACC</type>
+      <id>HUC:110600</id>
+      <displayName>Arkansas - Keystone Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_DIV</type>
+      <id>CLIM:2008</id>
+      <displayName>South Central Kansas Climate Division</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:11060002</id>
+      <displayName>Upper Salt Fork Arkansas Hydrologic Unit</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000I3MI</id>
+    <displayName>3 MILE IDAHO, ID US</displayName>
+    <minDate>2001-06-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.3958</latitude>
+    <longitude>-112.1081</longitude>
+    <elevation>2019.3</elevation>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:16033</id>
+      <displayName>Clark County, ID</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_ACC</type>
+      <id>HUC:170402</id>
+      <displayName>Upper Snake Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_REG</type>
+      <id>CLIM:108</id>
+      <displayName>Northwest Climate Region</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:17040214</id>
+      <displayName>Beaver-Camas Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_SUB</type>
+      <id>HUC:1704</id>
+      <displayName>Upper Snake Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_DIV</type>
+      <id>CLIM:1610</id>
+      <displayName>Eastern Highlands Idaho Climate Division</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:83446</id>
+      <displayName>Spencer, ID 83446</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_REG</type>
+      <id>HUC:17</id>
+      <displayName>Pacific Northwest Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:16</id>
+      <displayName>Idaho</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8779</coverage>
+  </station>
+  <station>
+    <id>GHCND:KG000038619</id>
+    <displayName>50LET OKTYABRYA, KG</displayName>
+    <minDate>1977-01-01</minDate>
+    <maxDate>1991-06-30</maxDate>
+    <latitude>40.2</latitude>
+    <longitude>71.9</longitude>
+    <elevation>920</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:KG</id>
+      <displayName>Kyrgyzstan</displayName>
+    </locationLabels>
+    <coverage>0.9537</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA001167191</id>
+    <displayName>70 MILE HOUSE, CA</displayName>
+    <minDate>1974-05-01</minDate>
+    <maxDate>1987-06-30</maxDate>
+    <latitude>51.3</latitude>
+    <longitude>-121.4</longitude>
+    <elevation>1080</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CA</id>
+      <displayName>Canada</displayName>
+    </locationLabels>
+    <coverage>0.9553</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000BC83</id>
+    <displayName>83 MONUMENT WASHINGTON, CA</displayName>
+    <minDate>1985-07-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>49.0017</latitude>
+    <longitude>-120.6475</longitude>
+    <elevation>1979.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CA</id>
+      <displayName>Canada</displayName>
+    </locationLabels>
+    <coverage>0.8483</coverage>
+  </station>
+  <station>
+    <id>GHCND:IN003051800</id>
+    <displayName>A.F.CHABUA OBSERVATORY, IN</displayName>
+    <minDate>1975-02-01</minDate>
+    <maxDate>1981-12-31</maxDate>
+    <latitude>27.47</latitude>
+    <longitude>95.13</longitude>
+    <elevation>108</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:IN</id>
+      <displayName>India</displayName>
+    </locationLabels>
+    <coverage>0.7838</coverage>
+  </station>
+  <station>
+    <id>GHCND:NLE00113682</id>
+    <displayName>A12 CPP</displayName>
+    <minDate>2009-03-16</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>55.3992</latitude>
+    <longitude>3.8103</longitude>
+    <elevation>48</elevation>
+    <coverage>0.8835</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWB0019</id>
+    <displayName>AA9SH LAGRO 5.2 NW, IN US</displayName>
+    <minDate>2012-02-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8989</latitude>
+    <longitude>-85.7871</longitude>
+    <elevation>243.5</elevation>
+    <locationLabels>
+      <type>CLIM_REG</type>
+      <id>CLIM:103</id>
+      <displayName>Central Climate Region</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_REG</type>
+      <id>HUC:05</id>
+      <displayName>Ohio Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_DIV</type>
+      <id>CLIM:1802</id>
+      <displayName>North Central Indiana Climate Division</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_ACC</type>
+      <id>HUC:051201</id>
+      <displayName>Wabash Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:18169</id>
+      <displayName>Wabash County, IN</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:05120104</id>
+      <displayName>Eel Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:46990</id>
+      <displayName>Urbana, IN 46990</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:18</id>
+      <displayName>Indiana</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_SUB</type>
+      <id>HUC:0512</id>
+      <displayName>Wabash Hydrologic Unit</displayName>
+    </locationLabels>
+    <coverage>0.5686</coverage>
+  </station>
+  <station>
+    <id>GHCND:GME00120958</id>
+    <displayName>AACHEN ORSBACH, GM</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>50.7992</latitude>
+    <longitude>6.025</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:GM</id>
+      <displayName>Germany</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:GME00102316</id>
+    <displayName>AACHEN, GM</displayName>
+    <minDate>1891-01-01</minDate>
+    <maxDate>2011-06-30</maxDate>
+    <latitude>50.7839</latitude>
+    <longitude>6.095</longitude>
+    <elevation>202</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:GM</id>
+      <displayName>Germany</displayName>
+    </locationLabels>
+    <coverage>0.8755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510006</id>
+    <displayName>AAKUKUI 1007, HI US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>21.95</latitude>
+    <longitude>-159.43333</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:96766</id>
+      <displayName>Lihue, HI 96766</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:15007</id>
+      <displayName>Kauai County, HI</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:15</id>
+      <displayName>Hawaii</displayName>
+    </locationLabels>
+    <coverage>0.8621</coverage>
+  </station>
+  <station>
+    <id>GHCND:NLE00108960</id>
+    <displayName>AALSMEER, NL</displayName>
+    <minDate>1950-12-31</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>52.2642</latitude>
+    <longitude>4.7689</longitude>
+    <elevation>-4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:NL</id>
+      <displayName>Netherlands</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:NLE00108962</id>
+    <displayName>AALTEN, NL</displayName>
+    <minDate>1950-12-31</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>51.9117</latitude>
+    <longitude>6.5656</longitude>
+    <elevation>22</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:NL</id>
+      <displayName>Netherlands</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:WA007387890</id>
+    <displayName>AANDRUS, WA</displayName>
+    <minDate>1974-05-01</minDate>
+    <maxDate>1986-05-31</maxDate>
+    <latitude>-22.65</latitude>
+    <longitude>16.45</longitude>
+    <elevation>1600</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:WA</id>
+      <displayName>Namibia</displayName>
+    </locationLabels>
+    <coverage>0.8623</coverage>
+  </station>
+  <station>
+    <id>GHCND:SF002937000</id>
+    <displayName>AARDOORNS, SF</displayName>
+    <minDate>1916-07-01</minDate>
+    <maxDate>1981-01-31</maxDate>
+    <latitude>-28.67</latitude>
+    <longitude>26.4</longitude>
+    <elevation>1356</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:SF</id>
+      <displayName>South Africa</displayName>
+    </locationLabels>
+    <coverage>0.9615</coverage>
+  </station>
+  <station>
+    <id>GHCND:AQC00914000</id>
+    <displayName>AASUFOU, US</displayName>
+    <minDate>1980-01-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>-14.31667</latitude>
+    <longitude>-170.76667</longitude>
+    <elevation>408.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.841</coverage>
+  </station>
+  <station>
+    <id>GHCND:BR001847003</id>
+    <displayName>ABADIA DOS DOURADOS, BR</displayName>
+    <minDate>1946-06-18</minDate>
+    <maxDate>2000-12-31</maxDate>
+    <latitude>-18.49</latitude>
+    <longitude>-47.41</longitude>
+    <elevation>784</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:BR</id>
+      <displayName>Brazil</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:BR001945035</id>
+    <displayName>ABAETE, BR</displayName>
+    <minDate>1974-10-28</minDate>
+    <maxDate>2000-12-31</maxDate>
+    <latitude>-19.16</latitude>
+    <longitude>-45.44</longitude>
+    <elevation>565</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:BR</id>
+      <displayName>Brazil</displayName>
+    </locationLabels>
+    <coverage>0.9685</coverage>
+  </station>
+  <station>
+    <id>GHCND:BR000148010</id>
+    <displayName>ABAETETUBA, BR</displayName>
+    <minDate>1980-10-18</minDate>
+    <maxDate>1998-11-30</maxDate>
+    <latitude>-1.74</latitude>
+    <longitude>-48.86</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:BR</id>
+      <displayName>Brazil</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:CH000053192</id>
+    <displayName>ABAG QI, CH</displayName>
+    <minDate>1952-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.017</latitude>
+    <longitude>114.95</longitude>
+    <elevation>1128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:CH</id>
+      <displayName>China</displayName>
+    </locationLabels>
+    <coverage>0.9659</coverage>
+  </station>
+  <station>
+    <id>GHCND:JA000047409</id>
+    <displayName>ABASHIRI, JA</displayName>
+    <minDate>1951-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.017</latitude>
+    <longitude>144.283</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:JA</id>
+      <displayName>Japan</displayName>
+    </locationLabels>
+    <coverage>0.9279</coverage>
+  </station>
+  <station>
+    <id>GHCND:MX000011001</id>
+    <displayName>ABASOLO, MX</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1998-12-31</maxDate>
+    <latitude>20.45</latitude>
+    <longitude>-101.53</longitude>
+    <elevation>1760</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:MX</id>
+      <displayName>Mexico</displayName>
+    </locationLabels>
+    <coverage>0.9285</coverage>
+  </station>
+  <station>
+    <id>GHCND:GG000037506</id>
+    <displayName>ABASTUMANI, GG</displayName>
+    <minDate>1966-01-01</minDate>
+    <maxDate>1992-12-31</maxDate>
+    <latitude>41.717</latitude>
+    <longitude>42.833</longitude>
+    <elevation>1265</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:GG</id>
+      <displayName>Georgia</displayName>
+    </locationLabels>
+    <coverage>0.9846</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALHN0002</id>
+    <displayName>ABBEVILLE 10.8 NE, AL US</displayName>
+    <minDate>2009-06-14</minDate>
+    <maxDate>2011-06-09</maxDate>
+    <latitude>31.6974</latitude>
+    <longitude>-85.1513</longitude>
+    <elevation>72.8</elevation>
+    <locationLabels>
+      <type>HYD_SUB</type>
+      <id>HUC:0313</id>
+      <displayName>Apalachicola Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:01067</id>
+      <displayName>Henry County, AL</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_REG</type>
+      <id>CLIM:104</id>
+      <displayName>Southeast Climate Region</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_REG</type>
+      <id>HUC:03</id>
+      <displayName>South Atlantic-Gulf Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_ACC</type>
+      <id>HUC:031300</id>
+      <displayName>Apalachicola Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:01</id>
+      <displayName>Alabama</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:03130003</id>
+      <displayName>Middle Chattahoochee-Walter F. George R Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:36310</id>
+      <displayName>Abbeville, AL 36310</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_DIV</type>
+      <id>CLIM:0107</id>
+      <displayName>Coastal Plain Alabama Climate Division</displayName>
+    </locationLabels>
+    <coverage>0.3058</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSLY0004</id>
+    <displayName>ABBEVILLE 8.2 SE, MS US</displayName>
+    <minDate>2009-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4363</latitude>
+    <longitude>-89.3833</longitude>
+    <elevation>126.8</elevation>
+    <locationLabels>
+      <type>HYD_SUB</type>
+      <id>HUC:0803</id>
+      <displayName>Lower Mississippi - Yazoo Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_REG</type>
+      <id>CLIM:106</id>
+      <displayName>South Climate Region</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:28</id>
+      <displayName>Mississippi</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_REG</type>
+      <id>HUC:08</id>
+      <displayName>Lower Mississippi Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:28071</id>
+      <displayName>Lafayette County, MS</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:38655</id>
+      <displayName>Oxford, MS 38655</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:08030201</id>
+      <displayName>Little Tallahatchie Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_DIV</type>
+      <id>CLIM:2802</id>
+      <displayName>North Central Mississippi Climate Division</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_ACC</type>
+      <id>HUC:080302</id>
+      <displayName>Yazoo Hydrologic Unit</displayName>
+    </locationLabels>
+    <coverage>0.809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090006</id>
+    <displayName>ABBEVILLE RIVER, GA US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>31.9938</latitude>
+    <longitude>-83.309</longitude>
+    <elevation>74.1</elevation>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:13315</id>
+      <displayName>Wilcox County, GA</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_REG</type>
+      <id>HUC:03</id>
+      <displayName>South Atlantic-Gulf Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:31001</id>
+      <displayName>Abbeville, GA 31001</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_DIV</type>
+      <id>CLIM:1308</id>
+      <displayName>South Central Georgia Climate Division</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:03070104</id>
+      <displayName>Lower Ocmulgee Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_SUB</type>
+      <id>HUC:0307</id>
+      <displayName>Altamaha - St. Marys Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_ACC</type>
+      <id>HUC:030701</id>
+      <displayName>Altamaha Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:13</id>
+      <displayName>Georgia</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_REG</type>
+      <id>CLIM:104</id>
+      <displayName>Southeast Climate Region</displayName>
+    </locationLabels>
+    <coverage>0.9495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00010008</id>
+    <displayName>ABBEVILLE, AL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.5702</latitude>
+    <longitude>-85.2483</longitude>
+    <elevation>139</elevation>
+    <locationLabels>
+      <type>ZIP</type>
+      <id>ZIP:36310</id>
+      <displayName>Abbeville, AL 36310</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_SUB</type>
+      <id>HUC:0313</id>
+      <displayName>Apalachicola Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_REG</type>
+      <id>CLIM:104</id>
+      <displayName>Southeast Climate Region</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:03130004</id>
+      <displayName>Lower Chattahoochee Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CLIM_DIV</type>
+      <id>CLIM:0107</id>
+      <displayName>Coastal Plain Alabama Climate Division</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_REG</type>
+      <id>HUC:03</id>
+      <displayName>South Atlantic-Gulf Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>HYD_ACC</type>
+      <id>HUC:031300</id>
+      <displayName>Apalachicola Hydrologic Unit</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>CNTY</type>
+      <id>FIPS:01067</id>
+      <displayName>Henry County, AL</displayName>
+    </locationLabels>
+    <locationLabels>
+      <type>ST</type>
+      <id>FIPS:01</id>
+      <displayName>Alabama</displayName>
+    </locationLabels>
+    <coverage>0.9217</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090010</id>
+    <displayName>ABBEVILLE, GA US</displayName>
+    <minDate>1903-08-01</minDate>
+    <maxDate>2011-02-28</maxDate>
+    <latitude>31.938</latitude>
+    <longitude>-83.3077</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>HYD_CAT</type>
+      <id>HUC:03070104</id>
+      <displayName>Lower Ocmulgee Hydrologic Unit</displayName>
+    </locationLabels>
+    <coverage>0.7569</coverage>
+  </station>
+</stationCollection>

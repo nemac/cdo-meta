@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSetCollection totalCount="1" pageCount="1">
+  <dataSet>
+    <id>GHCND</id>
+    <name>Daily GHCND</name>
+    <description>GHCN-Daily</description>
+    <minDate>1763-01-01</minDate>
+    <maxDate>2013-01-17</maxDate>
+    <attributes>
+      <attribute>
+        <name>Measurement Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Quality Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>2</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Source Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>3</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Time of Observation</name>
+        <defaultValue>9999</defaultValue>
+        <indexNumber>4</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+</dataSetCollection>

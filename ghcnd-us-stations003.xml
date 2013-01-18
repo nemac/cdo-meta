@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="3">
+  <station>
+    <id>GHCND:USC00480027</id>
+    <displayName>AFTON, WY US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7291</latitude>
+    <longitude>-110.9297</longitude>
+    <elevation>1903.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDSL0008</id>
+    <displayName>AGAR 9.7 W, SD US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>44.8392</latitude>
+    <longitude>-100.27</longitude>
+    <elevation>577.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MAGA</id>
+    <displayName>AGASSIZ MINNESOTA, MN US</displayName>
+    <minDate>2002-11-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.5</latitude>
+    <longitude>-95.87</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9255</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215693</id>
+    <displayName>AGASSIZ REFUGE, MN US</displayName>
+    <minDate>1957-04-01</minDate>
+    <maxDate>1961-07-31</maxDate>
+    <latitude>48.3005</latitude>
+    <longitude>-95.9816</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210050</id>
+    <displayName>AGASSIZ REFUGE, MN US</displayName>
+    <minDate>1957-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.3005</latitude>
+    <longitude>-95.9816</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.93</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0034</id>
+    <displayName>AGATE 15 W, CO US</displayName>
+    <minDate>2005-03-01</minDate>
+    <maxDate>2005-07-08</maxDate>
+    <latitude>39.4484</latitude>
+    <longitude>-104.2218</longitude>
+    <elevation>1836.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9769</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250030</id>
+    <displayName>AGATE 3 E, NE US</displayName>
+    <minDate>1900-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.4244</latitude>
+    <longitude>-103.7347</longitude>
+    <elevation>1423.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6303</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050092</id>
+    <displayName>AGATE 3 SW, CO US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1953-01-31</maxDate>
+    <latitude>39.45</latitude>
+    <longitude>-103.93333</longitude>
+    <elevation>1670.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250035</id>
+    <displayName>AGATE 5 N, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2007-06-30</maxDate>
+    <latitude>42.508</latitude>
+    <longitude>-103.8108</longitude>
+    <elevation>1447.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.116</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0054</id>
+    <displayName>AGATE 6.2 SSW, CO US</displayName>
+    <minDate>2008-06-13</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>39.3885</latitude>
+    <longitude>-103.997</longitude>
+    <elevation>1677.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0047</id>
+    <displayName>AGATE 7.2 ESE, CO US</displayName>
+    <minDate>2006-07-09</minDate>
+    <maxDate>2007-12-05</maxDate>
+    <latitude>39.4167</latitude>
+    <longitude>-103.8335</longitude>
+    <elevation>1695.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3748</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0002</id>
+    <displayName>AGATE 8.6 SE, CO US</displayName>
+    <minDate>2001-05-18</minDate>
+    <maxDate>2011-10-27</maxDate>
+    <latitude>39.3782</latitude>
+    <longitude>-103.8134</longitude>
+    <elevation>1720</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NAGA</id>
+    <displayName>AGATE NEBRASKA, NE US</displayName>
+    <minDate>1997-07-03</minDate>
+    <maxDate>2011-05-11</maxDate>
+    <latitude>42.425</latitude>
+    <longitude>-103.7358</longitude>
+    <elevation>1325.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350054</id>
+    <displayName>AGENCY PLAINS, OR US</displayName>
+    <minDate>1913-03-01</minDate>
+    <maxDate>1919-09-18</maxDate>
+    <latitude>44.75</latitude>
+    <longitude>-121.25</longitude>
+    <elevation>720.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9536</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140073</id>
+    <displayName>AGENDA, KS US</displayName>
+    <minDate>1974-11-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>39.7134</latitude>
+    <longitude>-97.4516</longitude>
+    <elevation>424.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCY0006</id>
+    <displayName>AGNESS 6.4 NE, OR US</displayName>
+    <minDate>2008-11-04</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.6502</latitude>
+    <longitude>-124.0171</longitude>
+    <elevation>68.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OAGN</id>
+    <displayName>AGNESS OREGON, OR US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.5522</latitude>
+    <longitude>-124.0578</longitude>
+    <elevation>75.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250040</id>
+    <displayName>AGNEW, NE US</displayName>
+    <minDate>1942-08-01</minDate>
+    <maxDate>1957-06-30</maxDate>
+    <latitude>41.03333</latitude>
+    <longitude>-96.8</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7609</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012M26S</id>
+    <displayName>AGUA CANYON, UT US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.5167</latitude>
+    <longitude>-112.2667</longitude>
+    <elevation>2712.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9431</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410073</id>
+    <displayName>AGUA DULCE, TX US</displayName>
+    <minDate>1987-03-01</minDate>
+    <maxDate>1987-09-30</maxDate>
+    <latitude>27.78333</latitude>
+    <longitude>-97.9</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410077</id>
+    <displayName>AGUA FRIA, TX US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>29.548</latitude>
+    <longitude>-103.5863</longitude>
+    <elevation>999.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410081</id>
+    <displayName>AGUA NUEVA, TX US</displayName>
+    <minDate>1940-04-01</minDate>
+    <maxDate>1964-12-31</maxDate>
+    <latitude>26.9</latitude>
+    <longitude>-98.6</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00660105</id>
+    <displayName>AGUADILLA CITY, PR US</displayName>
+    <minDate>1899-05-01</minDate>
+    <maxDate>1903-04-30</maxDate>
+    <latitude>18.43333</latitude>
+    <longitude>-67.15</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040046</id>
+    <displayName>AGUANGA BERGMAN RANCH, CA US</displayName>
+    <minDate>1928-05-01</minDate>
+    <maxDate>1948-11-23</maxDate>
+    <latitude>33.41667</latitude>
+    <longitude>-116.91667</longitude>
+    <elevation>946.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9736</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040047</id>
+    <displayName>AGUANGA THOMSEN, CA US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1927-12-31</maxDate>
+    <latitude>33.416667</latitude>
+    <longitude>-116.866667</longitude>
+    <elevation>605.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5121</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020060</id>
+    <displayName>AGUILA, AZ US</displayName>
+    <minDate>1924-05-30</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>33.9433</latitude>
+    <longitude>-113.1875</longitude>
+    <elevation>659.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0027</id>
+    <displayName>AGUILAR .05 NNW, CO US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2005-03-21</maxDate>
+    <latitude>37.4084</latitude>
+    <longitude>-104.654</longitude>
+    <elevation>1962.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050105</id>
+    <displayName>AGUILAR 18 WSW, CO US</displayName>
+    <minDate>1998-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3169</latitude>
+    <longitude>-104.9504</longitude>
+    <elevation>2634.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0033</id>
+    <displayName>AGUILAR 7.2 WSW, CO US</displayName>
+    <minDate>2004-05-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.3593</latitude>
+    <longitude>-104.7734</longitude>
+    <elevation>2200</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050102</id>
+    <displayName>AGUILAR, CO US</displayName>
+    <minDate>1980-01-01</minDate>
+    <maxDate>2006-02-06</maxDate>
+    <latitude>37.4011</latitude>
+    <longitude>-104.6547</longitude>
+    <elevation>1950.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9679</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00660152</id>
+    <displayName>AGUIRRE, PR US</displayName>
+    <minDate>1955-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>17.9555</latitude>
+    <longitude>-66.2222</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9194</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00660147</id>
+    <displayName>AGUIRRE, PR US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1966-10-31</maxDate>
+    <latitude>17.96667</latitude>
+    <longitude>-66.21667</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9577</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200050</id>
+    <displayName>AHMEEK 1 SW, MI US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.292</latitude>
+    <longitude>-88.4209</longitude>
+    <elevation>331.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7518</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDCW0004</id>
+    <displayName>AHSAHKA 0.4 NNE, ID US</displayName>
+    <minDate>2009-03-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.5059</latitude>
+    <longitude>-116.3203</longitude>
+    <elevation>311.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450066</id>
+    <displayName>AHTANUM RANGER STATION, WA US</displayName>
+    <minDate>1936-06-11</minDate>
+    <maxDate>1945-08-31</maxDate>
+    <latitude>46.51667</latitude>
+    <longitude>-121.01667</longitude>
+    <elevation>946.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.485</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510040</id>
+    <displayName>AHUA UMI 75, HI US</displayName>
+    <minDate>1958-01-01</minDate>
+    <maxDate>1986-11-30</maxDate>
+    <latitude>19.63333</latitude>
+    <longitude>-155.78333</longitude>
+    <elevation>1591.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510033</id>
+    <displayName>AHUALOA HOMESTEADS, HI US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>1948-06-30</maxDate>
+    <latitude>20.06667</latitude>
+    <longitude>-155.51667</longitude>
+    <elevation>777.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510055</id>
+    <displayName>AHUIMANU LOOP 839.12, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.43194</latitude>
+    <longitude>-157.83722</longitude>
+    <elevation>74.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1128</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00660158</id>
+    <displayName>AIBONITO, PR US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.128</latitude>
+    <longitude>-66.2641</longitude>
+    <elevation>710.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7384</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510111</id>
+    <displayName>AIEA FIELD 625 761, HI US</displayName>
+    <minDate>1948-02-01</minDate>
+    <maxDate>1970-07-31</maxDate>
+    <latitude>21.41667</latitude>
+    <longitude>-157.95</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510100</id>
+    <displayName>AIEA FIELD 68 756, HI US</displayName>
+    <minDate>1948-02-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>21.4</latitude>
+    <longitude>-157.96667</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510115</id>
+    <displayName>AIEA FIELD 764A, HI US</displayName>
+    <minDate>1905-03-01</minDate>
+    <maxDate>1963-10-31</maxDate>
+    <latitude>21.38333</latitude>
+    <longitude>-157.93333</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510119</id>
+    <displayName>AIEA FIELD 86 766, HI US</displayName>
+    <minDate>1939-12-01</minDate>
+    <maxDate>1960-12-31</maxDate>
+    <latitude>21.38333</latitude>
+    <longitude>-157.91667</longitude>
+    <elevation>95.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8023</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510123</id>
+    <displayName>AIEA HEIGHTS 764.6, HI US</displayName>
+    <minDate>1982-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.3948</latitude>
+    <longitude>-157.9101</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0001</id>
+    <displayName>AIKEN 0.9 SSE, SC US</displayName>
+    <minDate>2008-02-28</minDate>
+    <maxDate>2011-09-22</maxDate>
+    <latitude>33.53</latitude>
+    <longitude>-81.72</longitude>
+    <elevation>153.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0023</id>
+    <displayName>AIKEN 1.0 SSW, SC US</displayName>
+    <minDate>2009-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.528</latitude>
+    <longitude>-81.735</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9073</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0020</id>
+    <displayName>AIKEN 1.1 S, SC US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5243</latitude>
+    <longitude>-81.7288</longitude>
+    <elevation>147.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00380072</id>
+    <displayName>AIKEN 2 E, SC US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.55</latitude>
+    <longitude>-81.6966</longitude>
+    <elevation>165.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8378</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0026</id>
+    <displayName>AIKEN 2.3 S, SC US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.5073</latitude>
+    <longitude>-81.7345</longitude>
+    <elevation>152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9049</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0015</id>
+    <displayName>AIKEN 2.7 NW, SC US</displayName>
+    <minDate>2008-11-30</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>33.5704</latitude>
+    <longitude>-81.7583</longitude>
+    <elevation>147.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4122</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00380074</id>
+    <displayName>AIKEN 5 SE, SC US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2008-11-01</maxDate>
+    <latitude>33.4925</latitude>
+    <longitude>-81.69583</longitude>
+    <elevation>150</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9082</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0018</id>
+    <displayName>AIKEN 7.2 NNE, SC US</displayName>
+    <minDate>2009-03-03</minDate>
+    <maxDate>2010-09-06</maxDate>
+    <latitude>33.6406</latitude>
+    <longitude>-81.6921</longitude>
+    <elevation>160.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6456</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0014</id>
+    <displayName>AIKEN 7.8 SSE, SC US</displayName>
+    <minDate>2008-10-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4438</latitude>
+    <longitude>-81.6584</longitude>
+    <elevation>102.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAK0016</id>
+    <displayName>AIKEN 8.1 SSE, SC US</displayName>
+    <minDate>2009-02-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4393</latitude>
+    <longitude>-81.6586</longitude>
+    <elevation>113.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090090</id>
+    <displayName>AILEY, GA US</displayName>
+    <minDate>1947-06-17</minDate>
+    <maxDate>1994-01-31</maxDate>
+    <latitude>32.18333</latitude>
+    <longitude>-82.56667</longitude>
+    <elevation>71.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00160045</id>
+    <displayName>AIMWELL FIRE TOWER, LA US</displayName>
+    <minDate>1982-10-01</minDate>
+    <maxDate>1985-05-31</maxDate>
+    <latitude>31.8</latitude>
+    <longitude>-91.96667</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10brow009</id>
+    <displayName>AINSWORTH 17.8 SSW, NE US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2010-10-17</maxDate>
+    <latitude>42.3171</latitude>
+    <longitude>-100.0112</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7483</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10brow008</id>
+    <displayName>AINSWORTH 18.7 SW, NE US</displayName>
+    <minDate>2009-06-21</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>42.3248</latitude>
+    <longitude>-100.061</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAWS0002</id>
+    <displayName>AINSWORTH 7.4 N, IA US</displayName>
+    <minDate>2007-08-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3964</latitude>
+    <longitude>-91.5411</longitude>
+    <elevation>219.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9292</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250050</id>
+    <displayName>AINSWORTH, NE US</displayName>
+    <minDate>1905-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.5522</latitude>
+    <longitude>-99.8555</longitude>
+    <elevation>765</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASP0021</id>
+    <displayName>AIRWAY HEIGHTS 0.5 N, WA US</displayName>
+    <minDate>2009-06-16</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>47.6521</latitude>
+    <longitude>-117.5828</longitude>
+    <elevation>726</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCW0005</id>
+    <displayName>AITKIN 6.8 WSW, MN US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.4832</latitude>
+    <longitude>-93.8308</longitude>
+    <elevation>384.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3765</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210059</id>
+    <displayName>AITKIN, MN US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.5257</latitude>
+    <longitude>-93.6674</longitude>
+    <elevation>370.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053168</id>
+    <displayName>AJO 29 S, AZ US</displayName>
+    <minDate>2010-09-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.9497</latitude>
+    <longitude>-112.8013</longitude>
+    <elevation>506.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020088</id>
+    <displayName>AJO WELL, AZ US</displayName>
+    <minDate>1940-02-01</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>32.45</latitude>
+    <longitude>-112.83333</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020080</id>
+    <displayName>AJO, AZ US</displayName>
+    <minDate>1914-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3698</latitude>
+    <longitude>-112.8599</longitude>
+    <elevation>533.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9695</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0034</id>
+    <displayName>AKRON .35 ENE, CO US</displayName>
+    <minDate>2003-03-26</minDate>
+    <maxDate>2006-07-05</maxDate>
+    <latitude>40.1625</latitude>
+    <longitude>-103.2083</longitude>
+    <elevation>1419.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0033</id>
+    <displayName>AKRON .61 NW, CO US</displayName>
+    <minDate>2003-04-17</minDate>
+    <maxDate>2006-09-07</maxDate>
+    <latitude>40.1667</latitude>
+    <longitude>-103.2225</longitude>
+    <elevation>1430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0064</id>
+    <displayName>AKRON 0.8 ESE, CO US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2012-10-04</maxDate>
+    <latitude>40.1586</latitude>
+    <longitude>-103.1972</longitude>
+    <elevation>1419.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0010</id>
+    <displayName>AKRON 1.0 NW, CO US</displayName>
+    <minDate>2000-03-16</minDate>
+    <maxDate>2006-03-31</maxDate>
+    <latitude>40.1708</latitude>
+    <longitude>-103.2203</longitude>
+    <elevation>1431</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0060</id>
+    <displayName>AKRON 1.1 ESE, CO US</displayName>
+    <minDate>2009-06-10</minDate>
+    <maxDate>2011-05-25</maxDate>
+    <latitude>40.1569</latitude>
+    <longitude>-103.1923</longitude>
+    <elevation>1410.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0016</id>
+    <displayName>AKRON 1.9NE, CO US</displayName>
+    <minDate>2003-05-08</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.1766</latitude>
+    <longitude>-103.1851</longitude>
+    <elevation>1403</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130089</id>
+    <displayName>AKRON 11 E, IA US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.83528</latitude>
+    <longitude>-96.34333</longitude>
+    <elevation>420.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8851</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0027</id>
+    <displayName>AKRON 12 SSE, CO US</displayName>
+    <minDate>2003-05-01</minDate>
+    <maxDate>2008-12-18</maxDate>
+    <latitude>39.9998</latitude>
+    <longitude>-103.1686</longitude>
+    <elevation>1419.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6129</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0015</id>
+    <displayName>AKRON 13 N, CO US</displayName>
+    <minDate>2002-06-15</minDate>
+    <maxDate>2004-11-18</maxDate>
+    <latitude>40.3545</latitude>
+    <longitude>-103.1587</longitude>
+    <elevation>1314.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1678</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0009</id>
+    <displayName>AKRON 13.5 NNE, CO US</displayName>
+    <minDate>2000-03-16</minDate>
+    <maxDate>2002-11-05</maxDate>
+    <latitude>40.3494</latitude>
+    <longitude>-103.11</longitude>
+    <elevation>1345.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.258</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0085</id>
+    <displayName>AKRON 2.4 S, NY US</displayName>
+    <minDate>2010-11-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.9852</latitude>
+    <longitude>-78.4863</longitude>
+    <elevation>251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8068</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0048</id>
+    <displayName>AKRON 23.7 SE, CO US</displayName>
+    <minDate>2004-06-17</minDate>
+    <maxDate>2009-05-26</maxDate>
+    <latitude>39.8879</latitude>
+    <longitude>-102.9405</longitude>
+    <elevation>1352.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0731</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSM0002</id>
+    <displayName>AKRON 3.1 E, OH US</displayName>
+    <minDate>2009-02-03</minDate>
+    <maxDate>2010-12-10</maxDate>
+    <latitude>41.0723</latitude>
+    <longitude>-81.4635</longitude>
+    <elevation>348.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6598</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSM0015</id>
+    <displayName>AKRON 3.6 ESE, OH US</displayName>
+    <minDate>2010-04-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.0652</latitude>
+    <longitude>-81.4557</longitude>
+    <elevation>339.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050109</id>
+    <displayName>AKRON 4 E, CO US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.155</latitude>
+    <longitude>-103.1416</longitude>
+    <elevation>1383.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.587</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0007</id>
+    <displayName>AKRON 4 E, CO US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>40.1551</latitude>
+    <longitude>-103.1439</longitude>
+    <elevation>1386.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0008</id>
+    <displayName>AKRON 4.4 SSE, NY US</displayName>
+    <minDate>2008-07-03</minDate>
+    <maxDate>2009-12-19</maxDate>
+    <latitude>42.9566</latitude>
+    <longitude>-78.4783</longitude>
+    <elevation>253.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6523</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200084</id>
+    <displayName>AKRON 7 NW, MI US</displayName>
+    <minDate>1997-07-01</minDate>
+    <maxDate>2003-12-31</maxDate>
+    <latitude>43.6097</latitude>
+    <longitude>-83.6336</longitude>
+    <elevation>179.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9217</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0047</id>
+    <displayName>AKRON 7.5 NNE, CO US</displayName>
+    <minDate>2004-05-02</minDate>
+    <maxDate>2011-06-12</maxDate>
+    <latitude>40.2529</latitude>
+    <longitude>-103.137</longitude>
+    <elevation>1384.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSM0014</id>
+    <displayName>AKRON 8.9 S, OH US</displayName>
+    <minDate>2010-04-05</minDate>
+    <maxDate>2012-01-20</maxDate>
+    <latitude>40.9534</latitude>
+    <longitude>-81.5239</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0025</id>
+    <displayName>AKRON 9 N, CO US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2005-04-30</maxDate>
+    <latitude>40.296</latitude>
+    <longitude>-103.2</longitude>
+    <elevation>1385.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094092</id>
+    <displayName>AKRON A 4 E, CO US</displayName>
+    <minDate>2009-06-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.1551</latitude>
+    <longitude>-103.1417</longitude>
+    <elevation>1384.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014895</id>
+    <displayName>AKRON CANTON REGIONAL AIRPORT, OH US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.91667</latitude>
+    <longitude>-81.43333</longitude>
+    <elevation>368.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014813</id>
+    <displayName>AKRON FULTON INTERNATIONAL AIRPORT, OH US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.0375</latitude>
+    <longitude>-81.46417</longitude>
+    <elevation>318.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014896</id>
+    <displayName>AKRON NAS, OH US</displayName>
+    <minDate>1952-01-01</minDate>
+    <maxDate>1957-10-15</maxDate>
+    <latitude>41.03333</latitude>
+    <longitude>-81.48333</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024015</id>
+    <displayName>AKRON WASHINGTON CO AIRPORT, CO US</displayName>
+    <minDate>1937-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.16667</latitude>
+    <longitude>-103.21667</longitude>
+    <elevation>1421.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130088</id>
+    <displayName>AKRON, IA US</displayName>
+    <minDate>1900-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8269</latitude>
+    <longitude>-96.5558</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6118</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300040</id>
+    <displayName>AKRON, NY US</displayName>
+    <minDate>1900-03-01</minDate>
+    <maxDate>1906-09-30</maxDate>
+    <latitude>43.016667</latitude>
+    <longitude>-78.5</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330061</id>
+    <displayName>AKRON, OH US</displayName>
+    <minDate>1970-10-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>41.08028</latitude>
+    <longitude>-81.51694</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8861</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330847</id>
+    <displayName>AKRON, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.15722</latitude>
+    <longitude>-81.56611</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500125</id>
+    <displayName>AKULURAK, AK US</displayName>
+    <minDate>1916-08-01</minDate>
+    <maxDate>1944-08-28</maxDate>
+    <latitude>62.5</latitude>
+    <longitude>-164.41667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.371</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0030</id>
+    <displayName>ALABASTER 1.6 N, AL US</displayName>
+    <minDate>2007-12-10</minDate>
+    <maxDate>2009-06-25</maxDate>
+    <latitude>33.25</latitude>
+    <longitude>-86.8282</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0019</id>
+    <displayName>ALABASTER 1.6 SSE, AL US</displayName>
+    <minDate>2007-10-26</minDate>
+    <maxDate>2009-01-28</maxDate>
+    <latitude>33.2045</latitude>
+    <longitude>-86.8172</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5466</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0034</id>
+    <displayName>ALABASTER 1.8 NW, AL US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2012-11-27</maxDate>
+    <latitude>33.2431</latitude>
+    <longitude>-86.8493</longitude>
+    <elevation>134.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3307</coverage>
+  </station>
+</stationCollection>

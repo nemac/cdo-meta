@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSetCollection totalCount="9" pageCount="1">
+  <dataSet>
+    <id>ANNUAL</id>
+    <name>Annual Summary</name>
+    <description>Annual Climatological Summary</description>
+    <minDate>1831-02-01</minDate>
+    <maxDate>2012-05-01</maxDate>
+    <attributes>
+      <attribute>
+        <name>Quality Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>2</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Number of Days</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>3</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Units</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>4</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Measurement Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>GHCND</id>
+    <name>Daily GHCND</name>
+    <description>GHCN-Daily</description>
+    <minDate>1763-01-01</minDate>
+    <maxDate>2013-01-17</maxDate>
+    <attributes>
+      <attribute>
+        <name>Quality Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>2</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Time of Observation</name>
+        <defaultValue>9999</defaultValue>
+        <indexNumber>4</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Source Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>3</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Measurement Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>GHCNDMS</id>
+    <name>Monthly Summaries GHCND</name>
+    <description>GHCND-Monthly Summaries</description>
+    <minDate>1763-01-01</minDate>
+    <maxDate>2012-09-01</maxDate>
+    <attributes>
+      <attribute>
+        <name>Consecutive Missing</name>
+        <defaultValue>0</defaultValue>
+        <indexNumber>2</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Missing</name>
+        <defaultValue>0</defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>NORMAL_ANN</id>
+    <name>Normals Annual/Seasonal</name>
+    <description>Annual and Seasonal Climate Normals</description>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2010-01-01</maxDate>
+    <attributes>
+      <attribute>
+        <name>Completeness Flag</name>
+        <description>Completeness flag based on the WMO normals classification</description>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>NORMAL_DLY</id>
+    <name>Normals Daily</name>
+    <description>Daily Climate Normals</description>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <attributes>
+      <attribute>
+        <name>Completeness Flag</name>
+        <description>Completeness flag based on the WMO normals classification</description>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>NORMAL_HLY</id>
+    <name>Normals Hourly</name>
+    <description>Hourly Climate Normals</description>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <attributes>
+      <attribute>
+        <name>Completeness Flag</name>
+        <description>Completeness flag based on the WMO normals classification</description>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>NORMAL_MLY</id>
+    <name>Normals Monthly</name>
+    <description>Monthly Climate Normals</description>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2010-12-01</maxDate>
+    <attributes>
+      <attribute>
+        <name>Completeness Flag</name>
+        <description>Completeness flag based on the WMO normals classification</description>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>PRECIP_15</id>
+    <name>Precipitation 15 Minute</name>
+    <description>15 Minute Precipitation</description>
+    <minDate>1970-05-12</minDate>
+    <maxDate>2011-12-01</maxDate>
+    <attributes>
+      <attribute>
+        <name>Quality Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>2</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Units</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>3</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Measurement Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+  <dataSet>
+    <id>PRECIP_HLY</id>
+    <name>Precipitation Hourly</name>
+    <description>Hourly Precipitation</description>
+    <minDate>1900-01-01</minDate>
+    <maxDate>2011-12-01</maxDate>
+    <attributes>
+      <attribute>
+        <name>Quality Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>2</indexNumber>
+      </attribute>
+      <attribute>
+        <name>Measurement Flag</name>
+        <defaultValue> </defaultValue>
+        <indexNumber>1</indexNumber>
+      </attribute>
+    </attributes>
+  </dataSet>
+</dataSetCollection>
