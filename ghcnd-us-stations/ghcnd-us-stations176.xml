@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="176">
+  <station>
+    <id>GHCND:USR0000LGUM</id>
+    <displayName>GUM SPRINGS LOUISIANA, LA US</displayName>
+    <minDate>2001-07-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>31.9</latitude>
+    <longitude>-92.7672</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9046</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353559</id>
+    <displayName>GUMBOOT, OR US</displayName>
+    <minDate>1909-11-01</minDate>
+    <maxDate>1921-12-31</maxDate>
+    <latitude>45.166667</latitude>
+    <longitude>-116.833333</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9775</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213417</id>
+    <displayName>GUNFLINT LAKE 10 NW, MN US</displayName>
+    <minDate>1951-08-27</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>48.1603</latitude>
+    <longitude>-90.8842</longitude>
+    <elevation>443.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213419</id>
+    <displayName>GUNFLINT LAKE, MN US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-08-21</maxDate>
+    <latitude>48.08333</latitude>
+    <longitude>-90.7</longitude>
+    <elevation>476.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5215</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423506</id>
+    <displayName>GUNLOCK POWERHOUSE, UT US</displayName>
+    <minDate>1930-01-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.2805</latitude>
+    <longitude>-113.7283</longitude>
+    <elevation>1252.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9506</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453410</id>
+    <displayName>GUNN S RANCH, WA US</displayName>
+    <minDate>1906-06-01</minDate>
+    <maxDate>1935-11-30</maxDate>
+    <latitude>48.516667</latitude>
+    <longitude>-120.3</longitude>
+    <elevation>813.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103902</id>
+    <displayName>GUNNELL GUARD STATION, ID US</displayName>
+    <minDate>1916-09-01</minDate>
+    <maxDate>1922-08-31</maxDate>
+    <latitude>42.1</latitude>
+    <longitude>-113.2</longitude>
+    <elevation>1793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1725</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0027</id>
+    <displayName>GUNNISON 0.3 SW, CO US</displayName>
+    <minDate>2008-06-18</minDate>
+    <maxDate>2011-04-22</maxDate>
+    <latitude>38.5425</latitude>
+    <longitude>-106.9312</longitude>
+    <elevation>2343</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9355</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0041</id>
+    <displayName>GUNNISON 0.8 NNW, CO US</displayName>
+    <minDate>2009-06-29</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>38.5556</latitude>
+    <longitude>-106.9313</longitude>
+    <elevation>2354</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0036</id>
+    <displayName>GUNNISON 0.8 W, CO US</displayName>
+    <minDate>2009-06-05</minDate>
+    <maxDate>2009-12-12</maxDate>
+    <latitude>38.5444</latitude>
+    <longitude>-106.9414</longitude>
+    <elevation>2340.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0034</id>
+    <displayName>GUNNISON 2.9 S, CO US</displayName>
+    <minDate>2009-06-04</minDate>
+    <maxDate>2012-09-27</maxDate>
+    <latitude>38.5036</latitude>
+    <longitude>-106.936</longitude>
+    <elevation>2347.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1708</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00053662</id>
+    <displayName>GUNNISON 3 SW, CO US</displayName>
+    <minDate>1893-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5254</latitude>
+    <longitude>-106.9672</longitude>
+    <elevation>2323.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9492</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0019</id>
+    <displayName>GUNNISON 3.2 N, CO US</displayName>
+    <minDate>2004-11-21</minDate>
+    <maxDate>2005-04-30</maxDate>
+    <latitude>38.5922</latitude>
+    <longitude>-106.9213</longitude>
+    <elevation>2386</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0033</id>
+    <displayName>GUNNISON 5.1 N, CO US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2009-10-15</maxDate>
+    <latitude>38.6183</latitude>
+    <longitude>-106.9284</longitude>
+    <elevation>2398.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0040</id>
+    <displayName>GUNNISON 6.6 N, CO US</displayName>
+    <minDate>2009-06-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6391</latitude>
+    <longitude>-106.9408</longitude>
+    <elevation>2420.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0014</id>
+    <displayName>GUNNISON 7.9 WSW, CO US</displayName>
+    <minDate>2004-11-26</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>38.5025</latitude>
+    <longitude>-107.0611</longitude>
+    <elevation>2371</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0029</id>
+    <displayName>GUNNISON 9.7 ESE, CO US</displayName>
+    <minDate>2008-06-23</minDate>
+    <maxDate>2009-10-14</maxDate>
+    <latitude>38.5131</latitude>
+    <longitude>-106.752</longitude>
+    <elevation>2420.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.263</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423514</id>
+    <displayName>GUNNISON, UT US</displayName>
+    <minDate>1956-03-03</minDate>
+    <maxDate>1990-04-30</maxDate>
+    <latitude>39.15</latitude>
+    <longitude>-111.81667</longitude>
+    <elevation>1568.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AGUN</id>
+    <displayName>GUNSIGHT ARIZONA, AZ US</displayName>
+    <minDate>1994-09-26</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.7044</latitude>
+    <longitude>-112.5833</longitude>
+    <elevation>1609.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CGUN</id>
+    <displayName>GUNSIGHT COLORADO, CO US</displayName>
+    <minDate>1987-10-16</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.2092</latitude>
+    <longitude>-106.3292</longitude>
+    <elevation>2566.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9619</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009F28S</id>
+    <displayName>GUNSIGHT PASS, WY US</displayName>
+    <minDate>1998-09-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.3833</latitude>
+    <longitude>-109.8667</longitude>
+    <elevation>2993.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503473</id>
+    <displayName>GUNSIGHT, AK US</displayName>
+    <minDate>1966-06-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>61.9</latitude>
+    <longitude>-147.3</longitude>
+    <elevation>901.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413822</id>
+    <displayName>GUNTER 5 S, TX US</displayName>
+    <minDate>1948-02-21</minDate>
+    <maxDate>2000-11-30</maxDate>
+    <latitude>33.375</latitude>
+    <longitude>-96.76111</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353562</id>
+    <displayName>GUNTER, OR US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.8</latitude>
+    <longitude>-123.46667</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9275</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMS0018</id>
+    <displayName>GUNTERSVILLE 1.2 S, AL US</displayName>
+    <minDate>2007-12-26</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>34.34</latitude>
+    <longitude>-86.2675</longitude>
+    <elevation>313</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063866</id>
+    <displayName>GUNTERSVILLE 2 SW, AL US</displayName>
+    <minDate>2006-05-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.3337</latitude>
+    <longitude>-86.3156</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMS0011</id>
+    <displayName>GUNTERSVILLE 2.0 ENE, AL US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3648</latitude>
+    <longitude>-86.2361</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9258</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMS0006</id>
+    <displayName>GUNTERSVILLE 2.2 SW, AL US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3306</latitude>
+    <longitude>-86.2925</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3285</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMS0005</id>
+    <displayName>GUNTERSVILLE 4.4 SW, AL US</displayName>
+    <minDate>2007-10-25</minDate>
+    <maxDate>2009-11-06</maxDate>
+    <latitude>34.32</latitude>
+    <longitude>-86.3335</longitude>
+    <elevation>199</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4798</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMS0029</id>
+    <displayName>GUNTERSVILLE 4.7 W, AL US</displayName>
+    <minDate>2011-12-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3562</latitude>
+    <longitude>-86.3525</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013583</id>
+    <displayName>GUNTERSVILLE DAM, AL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.43333</latitude>
+    <longitude>-86.4</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013575</id>
+    <displayName>GUNTERSVILLE NUMBER 2, AL US</displayName>
+    <minDate>1995-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3347</latitude>
+    <longitude>-86.3294</longitude>
+    <elevation>181.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013578</id>
+    <displayName>GUNTERSVILLE, AL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1966-01-02</maxDate>
+    <latitude>34.35</latitude>
+    <longitude>-86.3</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013573</id>
+    <displayName>GUNTERSVILLE, AL US</displayName>
+    <minDate>1904-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3344</latitude>
+    <longitude>-86.3297</longitude>
+    <elevation>176.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00223700</id>
+    <displayName>GUNTOWN, MS US</displayName>
+    <minDate>1980-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.4838</latitude>
+    <longitude>-88.7036</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00664276</id>
+    <displayName>GURABO SUBSTATION, PR US</displayName>
+    <minDate>1956-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.2583</latitude>
+    <longitude>-65.9922</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9868</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00664271</id>
+    <displayName>GURABO, PR US</displayName>
+    <minDate>1946-04-01</minDate>
+    <maxDate>1967-05-31</maxDate>
+    <latitude>18.25</latitude>
+    <longitude>-65.96667</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353570</id>
+    <displayName>GURDANE, OR US</displayName>
+    <minDate>1909-10-09</minDate>
+    <maxDate>1914-03-31</maxDate>
+    <latitude>45.2</latitude>
+    <longitude>-119.05</longitude>
+    <elevation>1066.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033074</id>
+    <displayName>GURDON, AR US</displayName>
+    <minDate>1948-06-12</minDate>
+    <maxDate>1986-07-31</maxDate>
+    <latitude>33.91667</latitude>
+    <longitude>-93.13333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9736</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chey019</id>
+    <displayName>GURLEY 1.3 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3264</latitude>
+    <longitude>-102.9948</longitude>
+    <elevation>1310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM157</id>
+    <displayName>GURLEY 2.3 SW, AL US</displayName>
+    <minDate>2007-10-18</minDate>
+    <maxDate>2009-05-22</maxDate>
+    <latitude>34.6842</latitude>
+    <longitude>-86.4056</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0002</id>
+    <displayName>GURLEY 2.7 S, AL US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6651</latitude>
+    <longitude>-86.3654</longitude>
+    <elevation>463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9516</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chey045</id>
+    <displayName>GURLEY 3.6 SE, NE US</displayName>
+    <minDate>2008-03-14</minDate>
+    <maxDate>2012-09-13</maxDate>
+    <latitude>41.2807</latitude>
+    <longitude>-102.9306</longitude>
+    <elevation>1289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6036</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM179</id>
+    <displayName>GURLEY 4.4 SW, AL US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2010-01-29</maxDate>
+    <latitude>34.6528</latitude>
+    <longitude>-86.4206</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8125</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chey002</id>
+    <displayName>GURLEY 6.0 SE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2638</latitude>
+    <longitude>-102.8855</longitude>
+    <elevation>1277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9846</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chey015</id>
+    <displayName>GURLEY 9.1 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-07-24</maxDate>
+    <latitude>41.2922</latitude>
+    <longitude>-102.8016</longitude>
+    <elevation>1256.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0042</id>
+    <displayName>GURNEE 1.6 W, IL US</displayName>
+    <minDate>2008-04-12</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>42.3778</latitude>
+    <longitude>-87.9674</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0008</id>
+    <displayName>GURNEE 2.5 NE, IL US</displayName>
+    <minDate>2007-02-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3972</latitude>
+    <longitude>-87.8962</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7676</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113736</id>
+    <displayName>GURNEE BOULEVARD STATION, IL US</displayName>
+    <minDate>1987-08-11</minDate>
+    <maxDate>1989-04-30</maxDate>
+    <latitude>42.36667</latitude>
+    <longitude>-87.9</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8553</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113738</id>
+    <displayName>GURNEE PUBLIC WORKS, IL US</displayName>
+    <minDate>1987-08-11</minDate>
+    <maxDate>2004-07-31</maxDate>
+    <latitude>42.36556</latitude>
+    <longitude>-87.95333</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473332</id>
+    <displayName>GURNEY, WI US</displayName>
+    <minDate>1952-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.4859</latitude>
+    <longitude>-90.4373</longitude>
+    <elevation>355.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025380</id>
+    <displayName>GUSTAVUS 2 NE, AK US</displayName>
+    <minDate>2012-07-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>58.4292</latitude>
+    <longitude>-135.6900</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025322</id>
+    <displayName>GUSTAVUS, AK US</displayName>
+    <minDate>1923-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>58.4111</latitude>
+    <longitude>-135.7089</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYTD0002</id>
+    <displayName>GUTHRIE 0.8 WNW, KY US</displayName>
+    <minDate>2008-02-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.6534</latitude>
+    <longitude>-87.184</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKLG0002</id>
+    <displayName>GUTHRIE 1.9 S, OK US</displayName>
+    <minDate>2006-10-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8128</latitude>
+    <longitude>-97.4299</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKLG0008</id>
+    <displayName>GUTHRIE 3.0 N, OK US</displayName>
+    <minDate>2008-04-12</minDate>
+    <maxDate>2012-07-02</maxDate>
+    <latitude>35.8833</latitude>
+    <longitude>-97.4226</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKLG0006</id>
+    <displayName>GUTHRIE 3.7 NNW, OK US</displayName>
+    <minDate>2007-11-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.893</latitude>
+    <longitude>-97.4424</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343820</id>
+    <displayName>GUTHRIE 4 WSW MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>35.84889</latitude>
+    <longitude>-97.47972</longitude>
+    <elevation>329.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9372</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKLG0004</id>
+    <displayName>GUTHRIE 4.9 SSE, OK US</displayName>
+    <minDate>2007-05-24</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.7712</latitude>
+    <longitude>-97.409</longitude>
+    <elevation>343.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AGUT</id>
+    <displayName>GUTHRIE ARIZONA, AZ US</displayName>
+    <minDate>1985-07-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>32.8819</latitude>
+    <longitude>-109.3092</longitude>
+    <elevation>1097.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9733</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133509</id>
+    <displayName>GUTHRIE CENTER, IA US</displayName>
+    <minDate>1895-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6686</latitude>
+    <longitude>-94.4972</longitude>
+    <elevation>327.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053913</id>
+    <displayName>GUTHRIE MUNICIPAL AIRPORT, OK US</displayName>
+    <minDate>1998-04-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.8517</latitude>
+    <longitude>-97.4142</longitude>
+    <elevation>325.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343830</id>
+    <displayName>GUTHRIE SOIL CONSERVATION SERVICE, OK US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.8</latitude>
+    <longitude>-97.41667</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9672</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343821</id>
+    <displayName>GUTHRIE, OK US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>35.8161</latitude>
+    <longitude>-97.395</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413828</id>
+    <displayName>GUTHRIE, TX US</displayName>
+    <minDate>1947-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.62667</latitude>
+    <longitude>-100.33694</longitude>
+    <elevation>536.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9072</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133517</id>
+    <displayName>GUTTENBERG LOCK AND DAM 10, IA US</displayName>
+    <minDate>1937-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7858</latitude>
+    <longitude>-91.0958</longitude>
+    <elevation>188.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9419</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013M06S</id>
+    <displayName>GUTZ PEAK, UT US</displayName>
+    <minDate>2004-08-26</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.4833</latitude>
+    <longitude>-113.9333</longitude>
+    <elevation>2078.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293750</id>
+    <displayName>GUY NEAR, NM US</displayName>
+    <minDate>1941-02-01</minDate>
+    <maxDate>1941-12-31</maxDate>
+    <latitude>36.816667</latitude>
+    <longitude>-103.433333</longitude>
+    <elevation>1737.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7156</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413831</id>
+    <displayName>GUYER, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.13333</latitude>
+    <longitude>-98.93333</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343836</id>
+    <displayName>GUYMON LEE RANCH, OK US</displayName>
+    <minDate>1947-08-02</minDate>
+    <maxDate>1958-07-31</maxDate>
+    <latitude>36.53333</latitude>
+    <longitude>-101.4</longitude>
+    <elevation>929.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003030</id>
+    <displayName>GUYMON MUNICIPAL AIRPORT, OK US</displayName>
+    <minDate>1998-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.68167</latitude>
+    <longitude>-101.50528</longitude>
+    <elevation>951.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343835</id>
+    <displayName>GUYMON, OK US</displayName>
+    <minDate>1909-05-22</minDate>
+    <maxDate>2010-07-08</maxDate>
+    <latitude>36.70278</latitude>
+    <longitude>-101.47806</longitude>
+    <elevation>935.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3742</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAT0002</id>
+    <displayName>GUYSVILLE 4.3 SE, OH US</displayName>
+    <minDate>2009-02-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2499</latitude>
+    <longitude>-81.8694</longitude>
+    <elevation>251.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAT0011</id>
+    <displayName>GUYSVILLE 6.5 SSW, OH US</displayName>
+    <minDate>2010-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1998</latitude>
+    <longitude>-81.9603</longitude>
+    <elevation>218.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6367</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAEF0002</id>
+    <displayName>GUYTON 1.9 S, GA US</displayName>
+    <minDate>2008-06-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2961</latitude>
+    <longitude>-81.4148</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8201</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAEF0007</id>
+    <displayName>GUYTON 3.4 S, GA US</displayName>
+    <minDate>2008-05-05</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>32.2864</latitude>
+    <longitude>-81.3954</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2218</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343848</id>
+    <displayName>GWENDALE, OK US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1894-07-31</maxDate>
+    <latitude>36.65</latitude>
+    <longitude>-95.233333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9497</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206744</id>
+    <displayName>GWINN 1 W, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-06-30</maxDate>
+    <latitude>46.2863</latitude>
+    <longitude>-87.4511</longitude>
+    <elevation>354.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5808</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203516</id>
+    <displayName>GWINN 1 W, MI US</displayName>
+    <minDate>1949-07-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.2863</latitude>
+    <longitude>-87.4511</longitude>
+    <elevation>354.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094836</id>
+    <displayName>GWINN K I SAWYER AFB, MI US</displayName>
+    <minDate>1956-10-08</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>46.35</latitude>
+    <longitude>-87.4</longitude>
+    <elevation>372.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9038</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203518</id>
+    <displayName>GWINN SHAG LAKE, MI US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.2643</latitude>
+    <longitude>-87.5149</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9174</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDBL0027</id>
+    <displayName>GWYNN OAK 1.2 SE, MD US</displayName>
+    <minDate>2010-07-12</minDate>
+    <maxDate>2011-10-14</maxDate>
+    <latitude>39.3172</latitude>
+    <longitude>-76.7167</longitude>
+    <elevation>128.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7826</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEG0030</id>
+    <displayName>GYPSUM 0.5 E, CO US</displayName>
+    <minDate>2011-11-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6441</latitude>
+    <longitude>-106.9385</longitude>
+    <elevation>1946.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.778</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEG0032</id>
+    <displayName>GYPSUM 1.5 SSW, CO US</displayName>
+    <minDate>2012-01-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6221</latitude>
+    <longitude>-106.9532</longitude>
+    <elevation>1981.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4365</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEG0029</id>
+    <displayName>GYPSUM 1.9 SSW, CO US</displayName>
+    <minDate>2011-07-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6166</latitude>
+    <longitude>-106.9563</longitude>
+    <elevation>1990.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8523</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEG0001</id>
+    <displayName>GYPSUM 3.0 SE, CO US</displayName>
+    <minDate>2003-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6102</latitude>
+    <longitude>-106.911</longitude>
+    <elevation>2144.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CGYP</id>
+    <displayName>GYPSUM COLORADO, CO US</displayName>
+    <minDate>1991-05-28</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.6953</latitude>
+    <longitude>-106.9731</longitude>
+    <elevation>2237.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9579</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00484169</id>
+    <displayName>H M RANCH, WY US</displayName>
+    <minDate>1951-06-16</minDate>
+    <maxDate>1955-11-30</maxDate>
+    <latitude>43.71667</latitude>
+    <longitude>-109.81667</longitude>
+    <elevation>2272</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512146</id>
+    <displayName>H S P A EXPERIMENTAL STATION 707, HI US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>1976-05-31</maxDate>
+    <latitude>21.3</latitude>
+    <longitude>-157.83333</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4501</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511270</id>
+    <displayName>HA S FARM 85.3, HI US</displayName>
+    <minDate>1907-02-01</minDate>
+    <maxDate>1977-10-31</maxDate>
+    <latitude>19.66667</latitude>
+    <longitude>-155.1</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2728</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043690</id>
+    <displayName>HABITAT, CA US</displayName>
+    <minDate>1987-03-01</minDate>
+    <maxDate>1988-12-19</maxDate>
+    <latitude>33.35</latitude>
+    <longitude>-116.01667</longitude>
+    <elevation>-25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053025</id>
+    <displayName>HACHITA 7 ESE, NM US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.8880</latitude>
+    <longitude>-108.2020</longitude>
+    <elevation>1417.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293775</id>
+    <displayName>HACHITA, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.9174</latitude>
+    <longitude>-108.3247</longitude>
+    <elevation>1374.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8908</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00664330</id>
+    <displayName>HACIENDA CONSTANZA, PR US</displayName>
+    <minDate>1969-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.1243</latitude>
+    <longitude>-67.053</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDN0012</id>
+    <displayName>HACKBERRY 3.8 NE, TX US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2009-10-22</maxDate>
+    <latitude>33.1879</latitude>
+    <longitude>-96.8708</longitude>
+    <elevation>187.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163981</id>
+    <displayName>HACKBERRY 4 NE, LA US</displayName>
+    <minDate>2001-05-01</minDate>
+    <maxDate>2005-10-31</maxDate>
+    <latitude>29.9872</latitude>
+    <longitude>-93.2694</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163979</id>
+    <displayName>HACKBERRY 8 SSW, LA US</displayName>
+    <minDate>1939-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.88944</latitude>
+    <longitude>-93.40194</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9357</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023788</id>
+    <displayName>HACKBERRY, AZ US</displayName>
+    <minDate>1913-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-113.73333</longitude>
+    <elevation>1092.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2125</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413841</id>
+    <displayName>HACKBERRY, TX US</displayName>
+    <minDate>1971-05-01</minDate>
+    <maxDate>1987-12-31</maxDate>
+    <latitude>33.93333</latitude>
+    <longitude>-100.13333</longitude>
+    <elevation>509</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8213</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00463798</id>
+    <displayName>HACKER VALLEY, WV US</displayName>
+    <minDate>1960-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6196</latitude>
+    <longitude>-80.3822</longitude>
+    <elevation>484.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+</stationCollection>

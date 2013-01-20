@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="328">
+  <station>
+    <id>GHCND:USC00296803</id>
+    <displayName>PICACHO, NM US</displayName>
+    <minDate>1951-05-18</minDate>
+    <maxDate>1978-10-31</maxDate>
+    <latitude>33.35</latitude>
+    <longitude>-105.13333</longitude>
+    <elevation>1537.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00187010</id>
+    <displayName>PICARDY, MD US</displayName>
+    <minDate>1927-04-01</minDate>
+    <maxDate>1973-03-31</maxDate>
+    <latitude>39.55</latitude>
+    <longitude>-78.51667</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9583</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSPR0002</id>
+    <displayName>PICAYUNE 2.5 E, MS US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2010-03-17</maxDate>
+    <latitude>30.524</latitude>
+    <longitude>-89.636</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00226924</id>
+    <displayName>PICAYUNE 4 NE, MS US</displayName>
+    <minDate>1997-09-01</minDate>
+    <maxDate>2005-12-31</maxDate>
+    <latitude>30.65222</latitude>
+    <longitude>-89.65222</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSPR0004</id>
+    <displayName>PICAYUNE 5.6 ENE, MS US</displayName>
+    <minDate>2009-04-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5514</latitude>
+    <longitude>-89.5871</longitude>
+    <elevation>36.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9552</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00226921</id>
+    <displayName>PICAYUNE, MS US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2011-09-07</maxDate>
+    <latitude>30.5216</latitude>
+    <longitude>-89.7083</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9453</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466991</id>
+    <displayName>PICKENS 1, WV US</displayName>
+    <minDate>1902-03-15</minDate>
+    <maxDate>1986-08-31</maxDate>
+    <latitude>38.66667</latitude>
+    <longitude>-80.21667</longitude>
+    <elevation>844.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9444</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0005</id>
+    <displayName>PICKENS 1.5 WSW, SC US</displayName>
+    <minDate>2008-06-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8756</latitude>
+    <longitude>-82.7323</longitude>
+    <elevation>313.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386836</id>
+    <displayName>PICKENS 2 N, SC US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>34.91667</latitude>
+    <longitude>-82.7</longitude>
+    <elevation>360</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466989</id>
+    <displayName>PICKENS 2 N, WV US</displayName>
+    <minDate>1994-12-01</minDate>
+    <maxDate>2011-10-01</maxDate>
+    <latitude>38.67889</latitude>
+    <longitude>-80.19583</longitude>
+    <elevation>877.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9447</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386839</id>
+    <displayName>PICKENS 2 SE, SC US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>34.86667</latitude>
+    <longitude>-82.68333</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466996</id>
+    <displayName>PICKENS 2, WV US</displayName>
+    <minDate>1939-10-01</minDate>
+    <maxDate>1951-04-30</maxDate>
+    <latitude>38.65</latitude>
+    <longitude>-80.21667</longitude>
+    <elevation>823.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466998</id>
+    <displayName>PICKENS 2, WV US</displayName>
+    <minDate>1986-10-01</minDate>
+    <maxDate>1989-06-30</maxDate>
+    <latitude>38.61667</latitude>
+    <longitude>-80.21667</longitude>
+    <elevation>1021.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9382</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467001</id>
+    <displayName>PICKENS 4 SSE, WV US</displayName>
+    <minDate>1989-12-01</minDate>
+    <maxDate>1994-09-30</maxDate>
+    <latitude>38.61667</latitude>
+    <longitude>-80.18333</longitude>
+    <elevation>1066.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386851</id>
+    <displayName>PICKENS 4 SSW, SC US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>34.81667</latitude>
+    <longitude>-82.73333</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386848</id>
+    <displayName>PICKENS 5 E, SC US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>34.88333</latitude>
+    <longitude>-82.61667</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386845</id>
+    <displayName>PICKENS 5 WNW, SC US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>34.9</latitude>
+    <longitude>-82.8</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9648</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386842</id>
+    <displayName>PICKENS 6 WSW, SC US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>34.85</latitude>
+    <longitude>-82.8</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0001</id>
+    <displayName>PICKENS 6.9 W, SC US</displayName>
+    <minDate>2008-03-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8977</latitude>
+    <longitude>-82.828</longitude>
+    <elevation>324.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0007</id>
+    <displayName>PICKENS 8.0 N, SC US</displayName>
+    <minDate>2009-02-21</minDate>
+    <maxDate>2011-07-29</maxDate>
+    <latitude>34.997</latitude>
+    <longitude>-82.7315</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0010</id>
+    <displayName>PICKENS 8.7 N, SC US</displayName>
+    <minDate>2010-09-15</minDate>
+    <maxDate>2012-03-26</maxDate>
+    <latitude>35.0076</latitude>
+    <longitude>-82.7292</longitude>
+    <elevation>364.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9106</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00226926</id>
+    <displayName>PICKENS, MS US</displayName>
+    <minDate>1948-04-13</minDate>
+    <maxDate>2011-12-06</maxDate>
+    <latitude>32.8863</latitude>
+    <longitude>-89.9775</longitude>
+    <elevation>72.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9386</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386830</id>
+    <displayName>PICKENS, SC US</displayName>
+    <minDate>1941-11-01</minDate>
+    <maxDate>1951-07-31</maxDate>
+    <latitude>34.88333</latitude>
+    <longitude>-82.7</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9233</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386831</id>
+    <displayName>PICKENS, SC US</displayName>
+    <minDate>1951-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8813</latitude>
+    <longitude>-82.7188</longitude>
+    <elevation>354.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016414</id>
+    <displayName>PICKENSVILLE, AL US</displayName>
+    <minDate>1940-02-17</minDate>
+    <maxDate>1977-04-30</maxDate>
+    <latitude>33.21667</latitude>
+    <longitude>-88.25</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHFF0005</id>
+    <displayName>PICKERINGTON 2.7 NNE, OH US</displayName>
+    <minDate>2009-12-31</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.9263</latitude>
+    <longitude>-82.7469</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407141</id>
+    <displayName>PICKETT STATE PARK, TN US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>36.5514</latitude>
+    <longitude>-84.7968</longitude>
+    <elevation>495.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8419</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011C02S</id>
+    <displayName>PICKFOOT CREEK, MT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.5833</latitude>
+    <longitude>-111.2667</longitude>
+    <elevation>2026.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206583</id>
+    <displayName>PICKFORD 3 NE, MI US</displayName>
+    <minDate>2005-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.1863</latitude>
+    <longitude>-84.3238</longitude>
+    <elevation>191.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPCG</id>
+    <displayName>PICKLE GULCH COLORADO, CO US</displayName>
+    <minDate>2000-05-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.8744</latitude>
+    <longitude>-105.5164</longitude>
+    <elevation>2859</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9374</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011K39S</id>
+    <displayName>PICKLE KEG, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.0167</latitude>
+    <longitude>-111.5833</longitude>
+    <elevation>2926.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256714</id>
+    <displayName>PICKRELL 2 NW, NE US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1957-08-31</maxDate>
+    <latitude>40.4</latitude>
+    <longitude>-96.75</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396574</id>
+    <displayName>PICKSTOWN, SD US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0688</latitude>
+    <longitude>-98.5325</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407156</id>
+    <displayName>PICKWICK LANDING DAM, TN US</displayName>
+    <minDate>1938-03-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.06667</latitude>
+    <longitude>-88.25</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666992</id>
+    <displayName>PICO DEL ESTE, PR US</displayName>
+    <minDate>1969-10-01</minDate>
+    <maxDate>2005-06-30</maxDate>
+    <latitude>18.27083</latitude>
+    <longitude>-65.75917</longitude>
+    <elevation>1051</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0041</id>
+    <displayName>PICTURE ROCKS 4.3 ESE, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3225</latitude>
+    <longitude>-111.1774</longitude>
+    <elevation>734.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9513</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417017</id>
+    <displayName>PIDCOKE, TX US</displayName>
+    <minDate>1974-01-01</minDate>
+    <maxDate>2008-01-31</maxDate>
+    <latitude>31.2788</latitude>
+    <longitude>-97.8883</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7021</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMCT0013</id>
+    <displayName>PIE TOWN 18.0 ESE, NM US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2011-03-21</maxDate>
+    <latitude>34.1711</latitude>
+    <longitude>-107.8606</longitude>
+    <elevation>2265</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296808</id>
+    <displayName>PIE TOWN, NM US</displayName>
+    <minDate>1936-07-01</minDate>
+    <maxDate>1953-04-30</maxDate>
+    <latitude>34.3</latitude>
+    <longitude>-108.13333</longitude>
+    <elevation>2364</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3852</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0025</id>
+    <displayName>PIEDMONT 1.0 NW, SD US</displayName>
+    <minDate>2011-01-19</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>44.2405</latitude>
+    <longitude>-103.4041</longitude>
+    <elevation>1090</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4095</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAAL0001</id>
+    <displayName>PIEDMONT 1.0 SE, CA US</displayName>
+    <minDate>2008-10-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8123</latitude>
+    <longitude>-122.216</longitude>
+    <elevation>113.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCN0007</id>
+    <displayName>PIEDMONT 3.2 ESE, OK US</displayName>
+    <minDate>2007-06-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.649</latitude>
+    <longitude>-97.7058</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336616</id>
+    <displayName>PIEDMONT LAKE, OH US</displayName>
+    <minDate>1949-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.18333</latitude>
+    <longitude>-81.21667</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.624</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446712</id>
+    <displayName>PIEDMONT RESEARCH STATION, VA US</displayName>
+    <minDate>1946-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2323</latitude>
+    <longitude>-78.1202</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467004</id>
+    <displayName>PIEDMONT, MD US</displayName>
+    <minDate>1914-04-01</minDate>
+    <maxDate>1966-06-30</maxDate>
+    <latitude>39.48333</latitude>
+    <longitude>-79.03333</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9662</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236675</id>
+    <displayName>PIEDMONT, MO US</displayName>
+    <minDate>1940-05-01</minDate>
+    <maxDate>1942-03-31</maxDate>
+    <latitude>37.15</latitude>
+    <longitude>-90.7</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347068</id>
+    <displayName>PIEDMONT, OK US</displayName>
+    <minDate>1989-10-01</minDate>
+    <maxDate>2009-11-30</maxDate>
+    <latitude>35.69056</latitude>
+    <longitude>-97.745</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046862</id>
+    <displayName>PIEDRA BLANCA GAGING, CA US</displayName>
+    <minDate>1959-09-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>34.56667</latitude>
+    <longitude>-119.16667</longitude>
+    <elevation>936</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046857</id>
+    <displayName>PIEDRA, CA US</displayName>
+    <minDate>1912-03-01</minDate>
+    <maxDate>1964-10-31</maxDate>
+    <latitude>36.8</latitude>
+    <longitude>-119.38333</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6824</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417020</id>
+    <displayName>PIERCE 1 E, TX US</displayName>
+    <minDate>1904-05-01</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>29.2353</latitude>
+    <longitude>-96.1816</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9159</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107047</id>
+    <displayName>PIERCE 2, ID US</displayName>
+    <minDate>1974-04-01</minDate>
+    <maxDate>1975-02-28</maxDate>
+    <latitude>47.48333</latitude>
+    <longitude>-115.8</longitude>
+    <elevation>939.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9072</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0121</id>
+    <displayName>PIERCE 2.5 SE, CO US</displayName>
+    <minDate>2001-04-22</minDate>
+    <maxDate>2004-04-10</maxDate>
+    <latitude>40.6157</latitude>
+    <longitude>-104.7167</longitude>
+    <elevation>1520</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4654</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10pier007</id>
+    <displayName>PIERCE 2.6 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2342</latitude>
+    <longitude>-97.5104</longitude>
+    <elevation>497.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9479</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10pier013</id>
+    <displayName>PIERCE 6.2 WSW, NE US</displayName>
+    <minDate>2010-11-02</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>42.1733</latitude>
+    <longitude>-97.64</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0128</id>
+    <displayName>PIERCE 6.9 W, CO US</displayName>
+    <minDate>2002-09-09</minDate>
+    <maxDate>2012-09-28</maxDate>
+    <latitude>40.622</latitude>
+    <longitude>-104.8898</longitude>
+    <elevation>1562.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0708</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10pier004</id>
+    <displayName>PIERCE 7.0 SSW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-05-31</maxDate>
+    <latitude>42.1037</latitude>
+    <longitude>-97.5746</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10pier008</id>
+    <displayName>PIERCE 9.1 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>42.2214</latitude>
+    <longitude>-97.6994</longitude>
+    <elevation>531</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8525</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPIE</id>
+    <displayName>PIERCE CALIFORNIA, CA US</displayName>
+    <minDate>1986-07-16</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.2461</latitude>
+    <longitude>-120.6422</longitude>
+    <elevation>1737.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7738</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236683</id>
+    <displayName>PIERCE CITY 4 NNE, MO US</displayName>
+    <minDate>1956-04-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>37</latitude>
+    <longitude>-93.98333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236681</id>
+    <displayName>PIERCE CITY, MO US</displayName>
+    <minDate>1895-03-01</minDate>
+    <maxDate>1895-09-30</maxDate>
+    <latitude>36.945895</latitude>
+    <longitude>-94.00021</longitude>
+    <elevation>370.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236678</id>
+    <displayName>PIERCE CITY, MO US</displayName>
+    <minDate>1940-04-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>36.9494</latitude>
+    <longitude>-94.0077</longitude>
+    <elevation>374.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026538</id>
+    <displayName>PIERCE FERRY 17 SSW, AZ US</displayName>
+    <minDate>1963-06-01</minDate>
+    <maxDate>1984-07-31</maxDate>
+    <latitude>35.88333</latitude>
+    <longitude>-114.08333</longitude>
+    <elevation>1175.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026536</id>
+    <displayName>PIERCE FERRY, AZ US</displayName>
+    <minDate>1948-10-01</minDate>
+    <maxDate>1952-06-30</maxDate>
+    <latitude>36.11667</latitude>
+    <longitude>-114</longitude>
+    <elevation>417.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003843</id>
+    <displayName>PIERCE FIELD AAFB, FL US</displayName>
+    <minDate>1949-09-20</minDate>
+    <maxDate>1956-01-30</maxDate>
+    <latitude>30.58333</latitude>
+    <longitude>-86.45</longitude>
+    <elevation>47.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2543</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IPIE</id>
+    <displayName>PIERCE IDAHO, ID US</displayName>
+    <minDate>1990-04-30</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.5</latitude>
+    <longitude>-115.8333</longitude>
+    <elevation>940.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6462</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107049</id>
+    <displayName>PIERCE RANGER STATION, ID US</displayName>
+    <minDate>1913-11-01</minDate>
+    <maxDate>1962-12-31</maxDate>
+    <latitude>46.5</latitude>
+    <longitude>-115.8</longitude>
+    <elevation>967.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107046</id>
+    <displayName>PIERCE, ID US</displayName>
+    <minDate>1963-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.4922</latitude>
+    <longitude>-115.8006</longitude>
+    <elevation>938.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9124</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256720</id>
+    <displayName>PIERCE, NE US</displayName>
+    <minDate>1948-09-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1958</latitude>
+    <longitude>-97.5205</longitude>
+    <elevation>484.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3605</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INKS0034</id>
+    <displayName>PIERCETON 2.5 NNE, IN US</displayName>
+    <minDate>2011-04-02</minDate>
+    <maxDate>2012-09-20</maxDate>
+    <latitude>41.2305</latitude>
+    <longitude>-85.6808</longitude>
+    <elevation>272.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHG0010</id>
+    <displayName>PIERRE 1.3 S, SD US</displayName>
+    <minDate>2009-03-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.3546</latitude>
+    <longitude>-100.3237</longitude>
+    <elevation>436.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHG0002</id>
+    <displayName>PIERRE 1.6 WSW, SD US</displayName>
+    <minDate>2007-06-06</minDate>
+    <maxDate>2009-08-15</maxDate>
+    <latitude>44.3607</latitude>
+    <longitude>-100.3491</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2095</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDSL0004</id>
+    <displayName>PIERRE 18.5 NNW, SD US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2009-08-31</maxDate>
+    <latitude>44.6266</latitude>
+    <longitude>-100.4455</longitude>
+    <elevation>508.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.398</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHG0012</id>
+    <displayName>PIERRE 2.5 NNE, SD US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.4081</latitude>
+    <longitude>-100.3064</longitude>
+    <elevation>527.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094085</id>
+    <displayName>PIERRE 24 S, SD US</displayName>
+    <minDate>2006-10-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.0194</latitude>
+    <longitude>-100.3530</longitude>
+    <elevation>647.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024025</id>
+    <displayName>PIERRE REGIONAL AIRPORT, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.3813</latitude>
+    <longitude>-100.2855</longitude>
+    <elevation>531</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9173</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00087070</id>
+    <displayName>PIERSON, FL US</displayName>
+    <minDate>1930-05-15</minDate>
+    <maxDate>1931-07-12</maxDate>
+    <latitude>29.016667</latitude>
+    <longitude>-81.466667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216479</id>
+    <displayName>PIERZ, MN US</displayName>
+    <minDate>1912-09-01</minDate>
+    <maxDate>1916-11-30</maxDate>
+    <latitude>45.966667</latitude>
+    <longitude>-94.1</longitude>
+    <elevation>354.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9323</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296812</id>
+    <displayName>PIETOWN 19 NE, NM US</displayName>
+    <minDate>1988-09-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>34.493</latitude>
+    <longitude>-107.8883</longitude>
+    <elevation>2426.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIHR0004</id>
+    <displayName>PIGEON 0.3 SSE, MI US</displayName>
+    <minDate>2011-05-21</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>43.8256</latitude>
+    <longitude>-83.2674</longitude>
+    <elevation>190.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7263</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407172</id>
+    <displayName>PIGEON FORGE, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.78333</latitude>
+    <longitude>-83.55</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216505</id>
+    <displayName>PIGEON RIVER BRIDGE, MN US</displayName>
+    <minDate>1924-08-01</minDate>
+    <maxDate>1950-06-30</maxDate>
+    <latitude>48</latitude>
+    <longitude>-89.7</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021C33S</id>
+    <displayName>PIGTAIL PEAK, WA US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.6167</latitude>
+    <longitude>-121.4167</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9393</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518051</id>
+    <displayName>PIIHONUA 89, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1981-09-30</maxDate>
+    <latitude>19.73333</latitude>
+    <longitude>-155.16667</longitude>
+    <elevation>527.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7344</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518052</id>
+    <displayName>PIIHONUA CAMP 5 88.4, HI US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>1993-09-30</maxDate>
+    <latitude>19.71667</latitude>
+    <longitude>-155.15</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPIK</id>
+    <displayName>PIKE CO LOOKOUT CALIFORNIA, CA US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>39.475</latitude>
+    <longitude>-121.2025</longitude>
+    <elevation>1132</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013A26S</id>
+    <displayName>PIKE CREEK, MT US</displayName>
+    <minDate>1976-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.3</latitude>
+    <longitude>-113.3333</longitude>
+    <elevation>1807.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8354</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469484</id>
+    <displayName>PIKE ISLAND LOCK AND DAM, WV US</displayName>
+    <minDate>1976-04-01</minDate>
+    <maxDate>1981-09-30</maxDate>
+    <latitude>40.1478</latitude>
+    <longitude>-80.7014</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469492</id>
+    <displayName>PIKE ISLAND LOCK AND DAM, WV US</displayName>
+    <minDate>1916-01-01</minDate>
+    <maxDate>1976-03-31</maxDate>
+    <latitude>40.1478</latitude>
+    <longitude>-80.7014</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467018</id>
+    <displayName>PIKE ISLAND LOCK AND DAM, WV US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1478</latitude>
+    <longitude>-80.7014</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00187015</id>
+    <displayName>PIKESVILLE POL BRKS, MD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1962-02-28</maxDate>
+    <latitude>39.38333</latitude>
+    <longitude>-76.71667</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336630</id>
+    <displayName>PIKETON AEC PUMP STATION, OH US</displayName>
+    <minDate>1942-07-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>39.0706</latitude>
+    <longitude>-83.0197</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9849</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0097</id>
+    <displayName>PIKEVIEW 0.7 WNW, CO US</displayName>
+    <minDate>2003-05-31</minDate>
+    <maxDate>2005-04-04</maxDate>
+    <latitude>38.8861</latitude>
+    <longitude>-104.7707</longitude>
+    <elevation>1955</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8148</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0085</id>
+    <displayName>PIKEVIEW 2.8 ESE, CO US</displayName>
+    <minDate>2003-06-08</minDate>
+    <maxDate>2006-08-21</maxDate>
+    <latitude>38.8656</latitude>
+    <longitude>-104.7111</longitude>
+    <elevation>1966.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3723</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0016</id>
+    <displayName>PIKEVILLE 10.3 N, TN US</displayName>
+    <minDate>2011-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7544</latitude>
+    <longitude>-85.1711</longitude>
+    <elevation>542.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0003</id>
+    <displayName>PIKEVILLE 12.5 NE, TN US</displayName>
+    <minDate>2008-12-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7524</latitude>
+    <longitude>-85.0597</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0007</id>
+    <displayName>PIKEVILLE 12.8 NE, TN US</displayName>
+    <minDate>2009-05-10</minDate>
+    <maxDate>2010-02-22</maxDate>
+    <latitude>35.7381</latitude>
+    <longitude>-85.0337</longitude>
+    <elevation>300.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0006</id>
+    <displayName>PIKEVILLE 13.2 NE, TN US</displayName>
+    <minDate>2009-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7539</latitude>
+    <longitude>-85.0452</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9016</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0014</id>
+    <displayName>PIKEVILLE 5.3 SW, TN US</displayName>
+    <minDate>2010-05-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.555</latitude>
+    <longitude>-85.2647</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7676</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0010</id>
+    <displayName>PIKEVILLE 5.4 N, TN US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.685</latitude>
+    <longitude>-85.2013</longitude>
+    <elevation>518.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9068</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0008</id>
+    <displayName>PIKEVILLE 5.4 NE, TN US</displayName>
+    <minDate>2009-07-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6503</latitude>
+    <longitude>-85.1164</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+</stationCollection>

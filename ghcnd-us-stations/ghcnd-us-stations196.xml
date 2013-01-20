@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="196">
+  <station>
+    <id>GHCND:USC00444101</id>
+    <displayName>HOPEWELL, VA US</displayName>
+    <minDate>1916-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.2992</latitude>
+    <longitude>-77.2775</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHPI</id>
+    <displayName>HOPI ARIZONA, AZ US</displayName>
+    <minDate>2002-08-09</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.8103</latitude>
+    <longitude>-110.2069</longitude>
+    <elevation>1885.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8792</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0081</id>
+    <displayName>HOPKINS 1.2 SSW, MN US</displayName>
+    <minDate>2011-12-14</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>44.9112</latitude>
+    <longitude>-93.4164</longitude>
+    <elevation>276.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3672</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCRC0030</id>
+    <displayName>HOPKINS 3.9 NNE, SC US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9574</latitude>
+    <longitude>-80.8578</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9257</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOND0006</id>
+    <displayName>HOPKINS 3.9 WSW, MO US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5358</latitude>
+    <longitude>-94.8879</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHPK</id>
+    <displayName>HOPKINS ARIZONA, AZ US</displayName>
+    <minDate>2001-10-11</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>31.6753</latitude>
+    <longitude>-110.88</longitude>
+    <elevation>2170.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9329</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153994</id>
+    <displayName>HOPKINSVILLE, KY US</displayName>
+    <minDate>1896-05-01</minDate>
+    <maxDate>2012-02-07</maxDate>
+    <latitude>36.8491</latitude>
+    <longitude>-87.5205</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9606</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHMR0030</id>
+    <displayName>HOPKINTON 2.9 E, NH US</displayName>
+    <minDate>2011-01-03</minDate>
+    <maxDate>2012-12-12</maxDate>
+    <latitude>43.1854</latitude>
+    <longitude>-71.6184</longitude>
+    <elevation>160.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274218</id>
+    <displayName>HOPKINTON LAKE, NH US</displayName>
+    <minDate>2011-01-03</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.189</latitude>
+    <longitude>-71.746</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMD0010</id>
+    <displayName>HOPLAND 2.4 WNW, CA US</displayName>
+    <minDate>2009-02-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9844</latitude>
+    <longitude>-123.158</longitude>
+    <elevation>175</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4858</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044097</id>
+    <displayName>HOPLAND 8 NE, CA US</displayName>
+    <minDate>1939-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.01667</latitude>
+    <longitude>-123</longitude>
+    <elevation>766</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3199</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHLD</id>
+    <displayName>HOPLAND CALIFORNIA, CA US</displayName>
+    <minDate>2001-10-04</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>39.0308</latitude>
+    <longitude>-123.0806</longitude>
+    <elevation>817.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9295</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044100</id>
+    <displayName>HOPLAND LARGO STATION, CA US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>1968-04-30</maxDate>
+    <latitude>39.01667</latitude>
+    <longitude>-123.11667</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033438</id>
+    <displayName>HOPPER, AR US</displayName>
+    <minDate>1948-06-12</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.3608</latitude>
+    <longitude>-93.6816</longitude>
+    <elevation>219.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAGH0010</id>
+    <displayName>HOQUIAM 6.7 NNW, WA US</displayName>
+    <minDate>2008-12-03</minDate>
+    <maxDate>2010-12-25</maxDate>
+    <latitude>47.0667</latitude>
+    <longitude>-123.9321</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094225</id>
+    <displayName>HOQUIAM BOWERMAN AIRPORT, WA US</displayName>
+    <minDate>1953-05-12</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.9727</latitude>
+    <longitude>-123.9302</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDCS0029</id>
+    <displayName>HORACE 9.3 SSE, ND US</displayName>
+    <minDate>2011-05-09</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>46.6356</latitude>
+    <longitude>-96.8221</longitude>
+    <elevation>280.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6531</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033442</id>
+    <displayName>HORATIO, AR US</displayName>
+    <minDate>1946-03-01</minDate>
+    <maxDate>2012-11-04</maxDate>
+    <latitude>33.9354</latitude>
+    <longitude>-94.3598</longitude>
+    <elevation>102.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414278</id>
+    <displayName>HORDS CREEK DAM, TX US</displayName>
+    <minDate>1953-07-01</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>31.8455</latitude>
+    <longitude>-99.5605</longitude>
+    <elevation>591.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10hami001</id>
+    <displayName>HORDVILLE 1.5 S, NE US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.0539</latitude>
+    <longitude>-97.8878</longitude>
+    <elevation>537.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10hami012</id>
+    <displayName>HORDVILLE 3.5 SE, NE US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>41.0348</latitude>
+    <longitude>-97.8459</longitude>
+    <elevation>524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6718</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414280</id>
+    <displayName>HORGER, TX US</displayName>
+    <minDate>1944-08-27</minDate>
+    <maxDate>1982-12-31</maxDate>
+    <latitude>31</latitude>
+    <longitude>-94.16667</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9697</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIDD0003</id>
+    <displayName>HORICON 2.1 ENE, WI US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4514</latitude>
+    <longitude>-88.5956</longitude>
+    <elevation>306.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473756</id>
+    <displayName>HORICON, WI US</displayName>
+    <minDate>1970-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4406</latitude>
+    <longitude>-88.6325</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXEP0034</id>
+    <displayName>HORIZON CITY 4.6 NW, TX US</displayName>
+    <minDate>2012-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.7206</latitude>
+    <longitude>-106.2411</longitude>
+    <elevation>1222.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9527</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYST0028</id>
+    <displayName>HORNELL 0.5 E, NY US</displayName>
+    <minDate>2009-10-31</minDate>
+    <maxDate>2011-04-06</maxDate>
+    <latitude>42.3257</latitude>
+    <longitude>-77.6509</longitude>
+    <elevation>346.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9541</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303983</id>
+    <displayName>HORNELL ALMOND DAM, NY US</displayName>
+    <minDate>1950-02-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3488</latitude>
+    <longitude>-77.7044</longitude>
+    <elevation>403.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9579</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512144</id>
+    <displayName>HORNER RESERVOIR 467.01, HI US</displayName>
+    <minDate>2001-10-01</minDate>
+    <maxDate>2004-04-30</maxDate>
+    <latitude>20.92639</latitude>
+    <longitude>-156.6525</longitude>
+    <elevation>391.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00464281</id>
+    <displayName>HORNER, WV US</displayName>
+    <minDate>1923-10-01</minDate>
+    <maxDate>1967-06-30</maxDate>
+    <latitude>38.98333</latitude>
+    <longitude>-80.36667</longitude>
+    <elevation>328.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233999</id>
+    <displayName>HORNERSVILLE, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0437</latitude>
+    <longitude>-90.1114</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3023</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133944</id>
+    <displayName>HORNICK 5 S, IA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.1558</latitude>
+    <longitude>-96.083</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9507</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244263</id>
+    <displayName>HORR, MT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1893-10-31</maxDate>
+    <latitude>45.05</latitude>
+    <longitude>-110.8667</longitude>
+    <elevation>1578.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IHSB</id>
+    <displayName>HORSE BUTTE IDAHO, ID US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.4172</latitude>
+    <longitude>-115.2278</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHOR</id>
+    <displayName>HORSE CAMP CANYON ARIZONA, AZ US</displayName>
+    <minDate>1987-06-19</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>32.9375</latitude>
+    <longitude>-110.4961</longitude>
+    <elevation>1231.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044113</id>
+    <displayName>HORSE CANYON, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>34.61667</latitude>
+    <longitude>-119.85</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYHT0001</id>
+    <displayName>HORSE CAVE 3.9 ESE, KY US</displayName>
+    <minDate>2008-02-19</minDate>
+    <maxDate>2010-01-24</maxDate>
+    <latitude>37.1609</latitude>
+    <longitude>-85.8411</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4193</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00484700</id>
+    <displayName>HORSE CREEK 2 NW, WY US</displayName>
+    <minDate>1955-12-07</minDate>
+    <maxDate>1978-02-28</maxDate>
+    <latitude>41.45</latitude>
+    <longitude>-105.23333</longitude>
+    <elevation>1925.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OHOR</id>
+    <displayName>HORSE CREEK OREGON, OR US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.9406</latitude>
+    <longitude>-122.4003</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00484695</id>
+    <displayName>HORSE CREEK, WY US</displayName>
+    <minDate>1911-04-01</minDate>
+    <maxDate>1914-09-30</maxDate>
+    <latitude>43.666667</latitude>
+    <longitude>-109.666667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453814</id>
+    <displayName>HORSE HEAVEN, WA US</displayName>
+    <minDate>1903-05-27</minDate>
+    <maxDate>1906-06-30</maxDate>
+    <latitude>46.1</latitude>
+    <longitude>-119.55</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9063</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HORS</id>
+    <displayName>HORSE HOLLOW COVE FORT 5 W UT, UT US</displayName>
+    <minDate>1990-09-10</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.6667</latitude>
+    <longitude>-112.6508</longitude>
+    <elevation>1831.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHOL</id>
+    <displayName>HORSE LAKE CALIFORNIA, CA US</displayName>
+    <minDate>1991-10-15</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.6306</latitude>
+    <longitude>-120.5028</longitude>
+    <elevation>1554.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0019L44S</id>
+    <displayName>HORSE MEADOW, CA US</displayName>
+    <minDate>2003-09-04</minDate>
+    <maxDate>2005-01-21</maxDate>
+    <latitude>38.8333</latitude>
+    <longitude>-119.8833</longitude>
+    <elevation>2630.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHMT</id>
+    <displayName>HORSE MOUNTAIN COLORADO, CO US</displayName>
+    <minDate>1991-05-28</minDate>
+    <maxDate>1997-06-03</maxDate>
+    <latitude>39.6919</latitude>
+    <longitude>-107.7719</longitude>
+    <elevation>2148.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294127</id>
+    <displayName>HORSE MOUNTAIN, NM US</displayName>
+    <minDate>1952-06-24</minDate>
+    <maxDate>1957-08-31</maxDate>
+    <latitude>34.01667</latitude>
+    <longitude>-108.1</longitude>
+    <elevation>2410.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HORR</id>
+    <displayName>HORSE RIDGE UTAH, UT US</displayName>
+    <minDate>1992-04-27</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.9336</latitude>
+    <longitude>-110.8617</longitude>
+    <elevation>2584.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011H21S</id>
+    <displayName>HORSE RIDGE, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.3167</latitude>
+    <longitude>-111.45</longitude>
+    <elevation>2487.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294129</id>
+    <displayName>HORSE SPRINGS, NM US</displayName>
+    <minDate>1900-01-06</minDate>
+    <maxDate>1938-08-31</maxDate>
+    <latitude>33.93333</latitude>
+    <longitude>-108.18333</longitude>
+    <elevation>2117.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHOR</id>
+    <displayName>HORSE THIEF SPRINGS CALIFORNIA, CA US</displayName>
+    <minDate>1991-09-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.7706</latitude>
+    <longitude>-115.9092</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9589</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354036</id>
+    <displayName>HORSEFLY, OR US</displayName>
+    <minDate>1907-06-01</minDate>
+    <maxDate>1908-10-31</maxDate>
+    <latitude>42.216667</latitude>
+    <longitude>-121.133333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCM0014</id>
+    <displayName>HORSEHEADS 0.7 W, NY US</displayName>
+    <minDate>2009-09-22</minDate>
+    <maxDate>2012-01-20</maxDate>
+    <latitude>42.1707</latitude>
+    <longitude>-76.8435</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCM0008</id>
+    <displayName>HORSEHEADS 1.5 SSE, NY US</displayName>
+    <minDate>2004-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.15</latitude>
+    <longitude>-76.8167</longitude>
+    <elevation>271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8243</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303986</id>
+    <displayName>HORSEHEADS, NY US</displayName>
+    <minDate>1942-08-01</minDate>
+    <maxDate>1944-10-31</maxDate>
+    <latitude>42.15</latitude>
+    <longitude>-76.833333</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9988</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0004</id>
+    <displayName>HORSESHOE BAY 1.1 WSW, TX US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2010-02-01</maxDate>
+    <latitude>30.5337</latitude>
+    <longitude>-98.3736</longitude>
+    <elevation>285.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0008</id>
+    <displayName>HORSESHOE BAY 1.9 NNW, TX US</displayName>
+    <minDate>2008-04-05</minDate>
+    <maxDate>2012-11-27</maxDate>
+    <latitude>30.5619</latitude>
+    <longitude>-98.3667</longitude>
+    <elevation>256.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.371</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0007</id>
+    <displayName>HORSESHOE BAY 2.7 S, TX US</displayName>
+    <minDate>2008-03-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4977</latitude>
+    <longitude>-98.3599</longitude>
+    <elevation>370</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9386</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0019</id>
+    <displayName>HORSESHOE BAY 2.7 W, TX US</displayName>
+    <minDate>2010-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.535</latitude>
+    <longitude>-98.4006</longitude>
+    <elevation>274</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0024</id>
+    <displayName>HORSESHOE BAY 3.1 W, TX US</displayName>
+    <minDate>2012-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5448</latitude>
+    <longitude>-98.4067</longitude>
+    <elevation>300.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0011</id>
+    <displayName>HORSESHOE BAY 4.5 WNW, TX US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.5567</latitude>
+    <longitude>-98.4269</longitude>
+    <elevation>259.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3468</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARIZ0001</id>
+    <displayName>HORSESHOE BEND 2.1 SSW, AR US</displayName>
+    <minDate>2009-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1961</latitude>
+    <longitude>-91.7594</longitude>
+    <elevation>199</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024182</id>
+    <displayName>HORSESHOE DAM, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.9825</latitude>
+    <longitude>-111.7138</longitude>
+    <elevation>615.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9814</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314246</id>
+    <displayName>HORSESHOE TVA 281, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1950-08-31</maxDate>
+    <latitude>35.383333</latitude>
+    <longitude>-82.566667</longitude>
+    <elevation>652.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0683</id>
+    <displayName>HORSETOOTH MOUNTAIN 3.2 NNW, CO US</displayName>
+    <minDate>2006-02-16</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>40.58</latitude>
+    <longitude>-105.22</longitude>
+    <elevation>2103.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1289</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143815</id>
+    <displayName>HORTON 2 NNE SOIL CONSERVATION SERVICE 5, KS US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.68333</latitude>
+    <longitude>-95.51667</longitude>
+    <elevation>338.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143814</id>
+    <displayName>HORTON 3 W, KS US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.66667</latitude>
+    <longitude>-95.58333</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8043</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIJC0010</id>
+    <displayName>HORTON 4.6 SE, MI US</displayName>
+    <minDate>2008-07-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0911</latitude>
+    <longitude>-84.4773</longitude>
+    <elevation>317.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8429</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143813</id>
+    <displayName>HORTON 6 NW SOIL CONSERVATION SERVICE 3, KS US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.73333</latitude>
+    <longitude>-95.6</longitude>
+    <elevation>331.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143812</id>
+    <displayName>HORTON 8 NW SOIL CONSERVATION SERVICE 2, KS US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.75</latitude>
+    <longitude>-95.61667</longitude>
+    <elevation>363</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IHPK</id>
+    <displayName>HORTON PEAK IDAHO, ID US</displayName>
+    <minDate>1985-07-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.9481</latitude>
+    <longitude>-114.7561</longitude>
+    <elevation>2560.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143810</id>
+    <displayName>HORTON, KS US</displayName>
+    <minDate>1891-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6678</latitude>
+    <longitude>-95.5199</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234008</id>
+    <displayName>HORTON, MO US</displayName>
+    <minDate>2003-07-01</minDate>
+    <maxDate>2012-12-04</maxDate>
+    <latitude>37.9455</latitude>
+    <longitude>-94.3613</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8633</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00464292</id>
+    <displayName>HORTON, WV US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>1935-12-31</maxDate>
+    <latitude>38.8</latitude>
+    <longitude>-80.45</longitude>
+    <elevation>865.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAJC0007</id>
+    <displayName>HOSCHTON 2.9 ESE, GA US</displayName>
+    <minDate>2008-10-14</minDate>
+    <maxDate>2012-07-12</maxDate>
+    <latitude>34.0701</latitude>
+    <longitude>-83.7183</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1411</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLB0003</id>
+    <displayName>HOSFORD 2.7 SW, FL US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.3518</latitude>
+    <longitude>-84.8174</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354042</id>
+    <displayName>HOSKINS, OR US</displayName>
+    <minDate>1943-12-01</minDate>
+    <maxDate>1954-08-31</maxDate>
+    <latitude>44.68333</latitude>
+    <longitude>-123.46667</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8075</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393990</id>
+    <displayName>HOSMER 1 E, SD US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>45.57972</latitude>
+    <longitude>-99.45944</longitude>
+    <elevation>579.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294141</id>
+    <displayName>HOSPAH, NM US</displayName>
+    <minDate>1943-09-01</minDate>
+    <maxDate>1948-12-03</maxDate>
+    <latitude>35.73333</latitude>
+    <longitude>-107.75</longitude>
+    <elevation>2385.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8053</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164398</id>
+    <displayName>HOSSTON, LA US</displayName>
+    <minDate>1940-01-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4507</latitude>
+    <longitude>-93.8371</longitude>
+    <elevation>75</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9587</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDFR0001</id>
+    <displayName>HOT SPRINGS 0.5 SSW, SD US</displayName>
+    <minDate>2007-07-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4265</latitude>
+    <longitude>-103.4841</longitude>
+    <elevation>1083</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033466</id>
+    <displayName>HOT SPRINGS 1 NNE, AR US</displayName>
+    <minDate>1875-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5129</latitude>
+    <longitude>-93.0487</longitude>
+    <elevation>190.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARGL0008</id>
+    <displayName>HOT SPRINGS 1.8 W, AR US</displayName>
+    <minDate>2009-09-05</minDate>
+    <maxDate>2010-05-31</maxDate>
+    <latitude>34.4951</latitude>
+    <longitude>-93.0827</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.461</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDFR0008</id>
+    <displayName>HOT SPRINGS 1.8 W, SD US</displayName>
+    <minDate>2007-07-24</minDate>
+    <maxDate>2010-12-23</maxDate>
+    <latitude>43.4367</latitude>
+    <longitude>-103.5167</longitude>
+    <elevation>1252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3139</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDFR0005</id>
+    <displayName>HOT SPRINGS 11.0 SSE, SD US</displayName>
+    <minDate>2007-07-09</minDate>
+    <maxDate>2009-01-04</maxDate>
+    <latitude>43.2792</latitude>
+    <longitude>-103.4225</longitude>
+    <elevation>1011</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3498</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDFR0003</id>
+    <displayName>HOT SPRINGS 17.0 SSE, SD US</displayName>
+    <minDate>2007-08-07</minDate>
+    <maxDate>2008-02-05</maxDate>
+    <latitude>43.215</latitude>
+    <longitude>-103.325</longitude>
+    <elevation>1029.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7322</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCS0002</id>
+    <displayName>HOT SPRINGS 17.6 WNW, SD US</displayName>
+    <minDate>2007-07-06</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>43.4942</latitude>
+    <longitude>-103.8203</longitude>
+    <elevation>1297.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3242</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314265</id>
+    <displayName>HOT SPRINGS 2, NC US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>1984-03-31</maxDate>
+    <latitude>35.9</latitude>
+    <longitude>-82.83333</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9093</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARGL0003</id>
+    <displayName>HOT SPRINGS 3.1 SW, AR US</displayName>
+    <minDate>2009-04-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4637</latitude>
+    <longitude>-93.0914</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2846</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDFR0002</id>
+    <displayName>HOT SPRINGS 3.7 WSW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2009-12-18</maxDate>
+    <latitude>43.4113</latitude>
+    <longitude>-103.548</longitude>
+    <elevation>1242.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394009</id>
+    <displayName>HOT SPRINGS 7 W, SD US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>43.43333</latitude>
+    <longitude>-103.6</longitude>
+    <elevation>1214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARHS0001</id>
+    <displayName>HOT SPRINGS 7.2 ESE, AR US</displayName>
+    <minDate>2009-04-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.4468</latitude>
+    <longitude>-92.939</longitude>
+    <elevation>108.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8602</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMS0007</id>
+    <displayName>HOT SPRINGS 8.4 SSW, NC US</displayName>
+    <minDate>2009-11-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7834</latitude>
+    <longitude>-82.8947</longitude>
+    <elevation>975.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8382</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARGL0001</id>
+    <displayName>HOT SPRINGS 8.4 WNW, AR US</displayName>
+    <minDate>2009-06-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.5119</latitude>
+    <longitude>-93.2011</longitude>
+    <elevation>141.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394010</id>
+    <displayName>HOT SPRINGS 9 SW, SD US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>1957-09-29</maxDate>
+    <latitude>43.3</latitude>
+    <longitude>-103.55</longitude>
+    <elevation>1000</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003962</id>
+    <displayName>HOT SPRINGS ASOS, AR US</displayName>
+    <minDate>1986-05-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.29</latitude>
+    <longitude>-93.06</longitude>
+    <elevation>163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MHOT</id>
+    <displayName>HOT SPRINGS MONTANA, MT US</displayName>
+    <minDate>1991-06-10</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.6156</latitude>
+    <longitude>-114.6694</longitude>
+    <elevation>902.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARGL0004</id>
+    <displayName>HOT SPRINGS VILLAGE 1.2 E, AR US</displayName>
+    <minDate>2009-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6647</latitude>
+    <longitude>-92.9792</longitude>
+    <elevation>281.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9117</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARSL0004</id>
+    <displayName>HOT SPRINGS VILLAGE 1.8 E, AR US</displayName>
+    <minDate>2009-05-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6607</latitude>
+    <longitude>-92.9693</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8105</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARGL0005</id>
+    <displayName>HOT SPRINGS VILLAGE 1.9 W, AR US</displayName>
+    <minDate>2009-06-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6642</latitude>
+    <longitude>-93.0338</longitude>
+    <elevation>291.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104369</id>
+    <displayName>HOT SPRINGS, ID US</displayName>
+    <minDate>1895-08-01</minDate>
+    <maxDate>1918-06-30</maxDate>
+    <latitude>42.8</latitude>
+    <longitude>-115.7</longitude>
+    <elevation>789.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244297</id>
+    <displayName>HOT SPRINGS, MT US</displayName>
+    <minDate>1969-08-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6</latitude>
+    <longitude>-114.68333</longitude>
+    <elevation>883.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6506</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="200">
+  <station>
+    <id>GHCND:USC00033544</id>
+    <displayName>HUNTSVILLE 1 SSW, AR US</displayName>
+    <minDate>1983-05-01</minDate>
+    <maxDate>2012-09-24</maxDate>
+    <latitude>36.07</latitude>
+    <longitude>-93.7522</longitude>
+    <elevation>543.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM170</id>
+    <displayName>HUNTSVILLE 1.1 NNW, AL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2009-01-27</maxDate>
+    <latitude>34.7217</latitude>
+    <longitude>-86.6364</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3319</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM183</id>
+    <displayName>HUNTSVILLE 1.1 SE, AL US</displayName>
+    <minDate>2007-11-13</minDate>
+    <maxDate>2008-09-20</maxDate>
+    <latitude>34.6942</latitude>
+    <longitude>-86.6156</longitude>
+    <elevation>188.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4185</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWK0003</id>
+    <displayName>HUNTSVILLE 11.5 WSW, TX US</displayName>
+    <minDate>2009-05-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6256</latitude>
+    <longitude>-95.7148</longitude>
+    <elevation>102.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWK0004</id>
+    <displayName>HUNTSVILLE 12.3 NE, TX US</displayName>
+    <minDate>2009-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8194</latitude>
+    <longitude>-95.3851</longitude>
+    <elevation>72.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWK0005</id>
+    <displayName>HUNTSVILLE 2.8 WSW, TX US</displayName>
+    <minDate>2011-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.702</latitude>
+    <longitude>-95.596</longitude>
+    <elevation>118.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9857</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333915</id>
+    <displayName>HUNTSVILLE 3 N, OH US</displayName>
+    <minDate>1948-12-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4803</latitude>
+    <longitude>-83.8131</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM032</id>
+    <displayName>HUNTSVILLE 3.9 ENE, AL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2008-07-10</maxDate>
+    <latitude>34.7264</latitude>
+    <longitude>-86.5631</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6015</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0041</id>
+    <displayName>HUNTSVILLE 3.9 N, AL US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2010-05-26</maxDate>
+    <latitude>34.7631</latitude>
+    <longitude>-86.618</longitude>
+    <elevation>236.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7043</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014068</id>
+    <displayName>HUNTSVILLE 4 SSE, AL US</displayName>
+    <minDate>1937-01-01</minDate>
+    <maxDate>1954-07-15</maxDate>
+    <latitude>34.7</latitude>
+    <longitude>-86.583333</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0003</id>
+    <displayName>HUNTSVILLE 4.0 E, AL US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6996</latitude>
+    <longitude>-86.5574</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM020</id>
+    <displayName>HUNTSVILLE 4.2 NE, AL US</displayName>
+    <minDate>2007-10-25</minDate>
+    <maxDate>2011-04-26</maxDate>
+    <latitude>34.7519</latitude>
+    <longitude>-86.5767</longitude>
+    <elevation>211.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2734</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0025</id>
+    <displayName>HUNTSVILLE 4.4 ENE, AL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7337</latitude>
+    <longitude>-86.5565</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9682</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWK0002</id>
+    <displayName>HUNTSVILLE 4.5 NNW, TX US</displayName>
+    <minDate>2009-04-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.7695</latitude>
+    <longitude>-95.5841</longitude>
+    <elevation>88.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3558</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM003</id>
+    <displayName>HUNTSVILLE 4.5 SE, AL US</displayName>
+    <minDate>2007-10-18</minDate>
+    <maxDate>2009-10-24</maxDate>
+    <latitude>34.6533</latitude>
+    <longitude>-86.5814</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM177</id>
+    <displayName>HUNTSVILLE 4.7 SE, AL US</displayName>
+    <minDate>2007-10-22</minDate>
+    <maxDate>2011-07-15</maxDate>
+    <latitude>34.6611</latitude>
+    <longitude>-86.5658</longitude>
+    <elevation>205.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM210</id>
+    <displayName>HUNTSVILLE 5.4 ENE, AL US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>34.7467</latitude>
+    <longitude>-86.5467</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2042</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0054</id>
+    <displayName>HUNTSVILLE 5.5 SE, AL US</displayName>
+    <minDate>2008-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.652</latitude>
+    <longitude>-86.5583</longitude>
+    <elevation>221</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9321</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0052</id>
+    <displayName>HUNTSVILLE 5.8 ENE, AL US</displayName>
+    <minDate>2007-12-02</minDate>
+    <maxDate>2009-08-11</maxDate>
+    <latitude>34.7278</latitude>
+    <longitude>-86.5289</longitude>
+    <elevation>488.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3215</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0028</id>
+    <displayName>HUNTSVILLE 5.8 ENE, AL US</displayName>
+    <minDate>2007-11-12</minDate>
+    <maxDate>2012-09-18</maxDate>
+    <latitude>34.7381</latitude>
+    <longitude>-86.5321</longitude>
+    <elevation>493.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3204</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0004</id>
+    <displayName>HUNTSVILLE 5.9 SE, AL US</displayName>
+    <minDate>2007-10-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.647</latitude>
+    <longitude>-86.553</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM207</id>
+    <displayName>HUNTSVILLE 6.2 ESE, AL US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6636</latitude>
+    <longitude>-86.5311</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0888</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0048</id>
+    <displayName>HUNTSVILLE 7.0 SE, AL US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6392</latitude>
+    <longitude>-86.5369</longitude>
+    <elevation>187.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0001</id>
+    <displayName>HUNTSVILLE 7.1 SE, AL US</displayName>
+    <minDate>2007-10-28</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>34.6362</latitude>
+    <longitude>-86.5364</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5346</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0047</id>
+    <displayName>HUNTSVILLE 7.2 SE, AL US</displayName>
+    <minDate>2007-11-14</minDate>
+    <maxDate>2012-12-11</maxDate>
+    <latitude>34.6447</latitude>
+    <longitude>-86.5267</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0010</id>
+    <displayName>HUNTSVILLE 7.2 SSE, AL US</displayName>
+    <minDate>2007-10-20</minDate>
+    <maxDate>2012-07-15</maxDate>
+    <latitude>34.6202</latitude>
+    <longitude>-86.559</longitude>
+    <elevation>277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0030</id>
+    <displayName>HUNTSVILLE 7.6 SSE, AL US</displayName>
+    <minDate>2007-10-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6136</latitude>
+    <longitude>-86.5555</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0020</id>
+    <displayName>HUNTSVILLE 7.8 SSE, AL US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2010-03-03</maxDate>
+    <latitude>34.6005</latitude>
+    <longitude>-86.5827</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5218</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0012</id>
+    <displayName>HUNTSVILLE 7.9 SSE, AL US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5999</latitude>
+    <longitude>-86.5813</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0029</id>
+    <displayName>HUNTSVILLE 8.2 SE, AL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2012-08-18</maxDate>
+    <latitude>34.6126</latitude>
+    <longitude>-86.5395</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWK0007</id>
+    <displayName>HUNTSVILLE 8.7 WNW, TX US</displayName>
+    <minDate>2011-05-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.7793</latitude>
+    <longitude>-95.6744</longitude>
+    <elevation>86.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003856</id>
+    <displayName>HUNTSVILLE INTERNATIONAL AIRPORT JONES FIELD, AL US</displayName>
+    <minDate>1958-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.64389</latitude>
+    <longitude>-86.78611</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424135</id>
+    <displayName>HUNTSVILLE MONASTERY, UT US</displayName>
+    <minDate>1976-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.2402</latitude>
+    <longitude>-111.713</longitude>
+    <elevation>1566.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053903</id>
+    <displayName>HUNTSVILLE MUNICIPAL AIRPORT, TX US</displayName>
+    <minDate>1997-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.74389</latitude>
+    <longitude>-95.58611</longitude>
+    <elevation>111.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424140</id>
+    <displayName>HUNTSVILLE SNOW BSN, UT US</displayName>
+    <minDate>1980-08-01</minDate>
+    <maxDate>1981-06-30</maxDate>
+    <latitude>41.21667</latitude>
+    <longitude>-111.85</longitude>
+    <elevation>2000.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8174</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014060</id>
+    <displayName>HUNTSVILLE SUBSTATION, AL US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.71667</latitude>
+    <longitude>-86.58333</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000THUN</id>
+    <displayName>HUNTSVILLE TEXAS, TX US</displayName>
+    <minDate>2000-12-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.45</latitude>
+    <longitude>-95.4</longitude>
+    <elevation>108.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9415</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033540</id>
+    <displayName>HUNTSVILLE, AR US</displayName>
+    <minDate>1894-07-01</minDate>
+    <maxDate>1982-09-30</maxDate>
+    <latitude>36.08333</latitude>
+    <longitude>-93.73333</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414382</id>
+    <displayName>HUNTSVILLE, TX US</displayName>
+    <minDate>1903-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.7065</latitude>
+    <longitude>-95.5421</longitude>
+    <elevation>150.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424123</id>
+    <displayName>HUNTSVILLE, UT US</displayName>
+    <minDate>1899-03-01</minDate>
+    <maxDate>1932-04-30</maxDate>
+    <latitude>41.266667</latitude>
+    <longitude>-111.783333</longitude>
+    <elevation>1554.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5242</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453858</id>
+    <displayName>HUNTSVILLE, WA US</displayName>
+    <minDate>1907-06-01</minDate>
+    <maxDate>1919-06-30</maxDate>
+    <latitude>46.3</latitude>
+    <longitude>-118.116667</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9549</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00324343</id>
+    <displayName>HURDSFIELD 8 SW, ND US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1997-06-30</maxDate>
+    <latitude>47.35</latitude>
+    <longitude>-100.01667</longitude>
+    <elevation>591.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043899</id>
+    <displayName>HURKEY CREEK PARK, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.6755</latitude>
+    <longitude>-116.6794</longitude>
+    <elevation>1338.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444185</id>
+    <displayName>HURLEY 1 SE, VA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.41667</latitude>
+    <longitude>-82.01667</longitude>
+    <elevation>302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA209</id>
+    <displayName>HURLEY 3.5 NNE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.9786</latitude>
+    <longitude>-93.4756</longitude>
+    <elevation>399</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444180</id>
+    <displayName>HURLEY 4 S, VA US</displayName>
+    <minDate>1999-04-01</minDate>
+    <maxDate>2009-12-04</maxDate>
+    <latitude>37.3652</latitude>
+    <longitude>-82.0561</longitude>
+    <elevation>331.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHUR</id>
+    <displayName>HURLEY CALIFORNIA, CA US</displayName>
+    <minDate>1995-01-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>37.0153</latitude>
+    <longitude>-119.5678</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9168</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473800</id>
+    <displayName>HURLEY, WI US</displayName>
+    <minDate>1987-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.4619</latitude>
+    <longitude>-90.1933</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHER0022</id>
+    <displayName>HURON 2.0 SE, OH US</displayName>
+    <minDate>2012-04-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3795</latitude>
+    <longitude>-82.5317</longitude>
+    <elevation>181.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHER0018</id>
+    <displayName>HURON 2.5 SSW, OH US</displayName>
+    <minDate>2012-03-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.3621</latitude>
+    <longitude>-82.5745</longitude>
+    <elevation>186.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9342</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHER0019</id>
+    <displayName>HURON 4.1 WNW, OH US</displayName>
+    <minDate>2012-04-09</minDate>
+    <maxDate>2012-11-02</maxDate>
+    <latitude>41.4203</latitude>
+    <longitude>-82.6341</longitude>
+    <elevation>179.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5721</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDBD0007</id>
+    <displayName>HURON 6.8 NNE, SD US</displayName>
+    <minDate>2011-03-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.4567</latitude>
+    <longitude>-98.174</longitude>
+    <elevation>400.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204006</id>
+    <displayName>HURON MOUNTAIN, MI US</displayName>
+    <minDate>1949-09-01</minDate>
+    <maxDate>1959-11-30</maxDate>
+    <latitude>46.88333</latitude>
+    <longitude>-87.86667</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014936</id>
+    <displayName>HURON REGIONAL AIRPORT, SD US</displayName>
+    <minDate>1881-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.3981</latitude>
+    <longitude>-98.2231</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044187</id>
+    <displayName>HURON, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>36.2</latitude>
+    <longitude>-120.1</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394132</id>
+    <displayName>HURON, SD US</displayName>
+    <minDate>1902-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3636</latitude>
+    <longitude>-98.1989</longitude>
+    <elevation>372.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1595</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTWG0009</id>
+    <displayName>HURRICANE 2.4 E, UT US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1576</latitude>
+    <longitude>-113.296</longitude>
+    <elevation>998.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTWG0003</id>
+    <displayName>HURRICANE 2.4 ENE, UT US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.1716</latitude>
+    <longitude>-113.2975</longitude>
+    <elevation>987.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6025</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVPT0004</id>
+    <displayName>HURRICANE 2.5 ENE, WV US</displayName>
+    <minDate>2009-05-04</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>38.451</latitude>
+    <longitude>-81.9745</longitude>
+    <elevation>212.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHUR</id>
+    <displayName>HURRICANE ARIZONA, AZ US</displayName>
+    <minDate>1994-09-26</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.6992</latitude>
+    <longitude>-113.2072</longitude>
+    <elevation>1659.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9617</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00324372</id>
+    <displayName>HURRICANE LAKE, ND US</displayName>
+    <minDate>2002-11-01</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>48.4602</latitude>
+    <longitude>-99.5322</longitude>
+    <elevation>475.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHP0010</id>
+    <displayName>HURRICANE MILLS 1.5 W, TN US</displayName>
+    <minDate>2007-11-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9032</latitude>
+    <longitude>-87.8191</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9086</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424150</id>
+    <displayName>HURRICANE, UT US</displayName>
+    <minDate>1911-12-06</minDate>
+    <maxDate>1941-02-25</maxDate>
+    <latitude>37.183333</latitude>
+    <longitude>-113.283333</longitude>
+    <elevation>999.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWM0003</id>
+    <displayName>HURST 0.2 SSE, IL US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2009-05-08</maxDate>
+    <latitude>37.833</latitude>
+    <longitude>-89.1427</longitude>
+    <elevation>123.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8213</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0070</id>
+    <displayName>HURST 0.8 W, TX US</displayName>
+    <minDate>2009-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8361</latitude>
+    <longitude>-97.1941</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9092</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414390</id>
+    <displayName>HURST SPRINGS, TX US</displayName>
+    <minDate>1963-04-05</minDate>
+    <maxDate>2009-11-30</maxDate>
+    <latitude>31.6544</latitude>
+    <longitude>-97.7086</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAPT0004</id>
+    <displayName>HURT 3.4 SSW, VA US</displayName>
+    <minDate>2010-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0504</latitude>
+    <longitude>-79.3242</longitude>
+    <elevation>235.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5508</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014080</id>
+    <displayName>HURTSBORO, AL US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>32.24639</latitude>
+    <longitude>-85.41417</longitude>
+    <elevation>122.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473820</id>
+    <displayName>HUSTISFORD, WI US</displayName>
+    <minDate>2005-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.34</latitude>
+    <longitude>-88.6005</longitude>
+    <elevation>263.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014085</id>
+    <displayName>HUSTLEVILLE, AL US</displayName>
+    <minDate>1959-09-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.31667</latitude>
+    <longitude>-86.16667</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKL0002</id>
+    <displayName>HUSUM 1.8 NE, WA US</displayName>
+    <minDate>2008-06-10</minDate>
+    <maxDate>2012-06-05</maxDate>
+    <latitude>45.82</latitude>
+    <longitude>-121.465</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNMC0003</id>
+    <displayName>HUTCHINSON 0.9 NNE, MN US</displayName>
+    <minDate>2010-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.898</latitude>
+    <longitude>-94.3723</longitude>
+    <elevation>325.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213962</id>
+    <displayName>HUTCHINSON 1 N, MN US</displayName>
+    <minDate>1893-09-01</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>44.909</latitude>
+    <longitude>-94.3674</longitude>
+    <elevation>333.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5711</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213965</id>
+    <displayName>HUTCHINSON 1 W, MN US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8978</latitude>
+    <longitude>-94.3719</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0020</id>
+    <displayName>HUTCHINSON 1.2 N, KS US</displayName>
+    <minDate>2008-03-22</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>38.0835</latitude>
+    <longitude>-97.9159</longitude>
+    <elevation>469.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2013</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143930</id>
+    <displayName>HUTCHINSON 10 SW, KS US</displayName>
+    <minDate>1953-05-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.9311</latitude>
+    <longitude>-98.0296</longitude>
+    <elevation>478.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0028</id>
+    <displayName>HUTCHINSON 2.1 NW, KS US</displayName>
+    <minDate>2007-09-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0902</latitude>
+    <longitude>-97.938</longitude>
+    <elevation>477</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9333</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0037</id>
+    <displayName>HUTCHINSON 2.2 SSW, KS US</displayName>
+    <minDate>2010-07-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0341</latitude>
+    <longitude>-97.9229</longitude>
+    <elevation>464.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7516</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0017</id>
+    <displayName>HUTCHINSON 3.0 SSE, KS US</displayName>
+    <minDate>2007-05-16</minDate>
+    <maxDate>2009-07-16</maxDate>
+    <latitude>38.0248</latitude>
+    <longitude>-97.896</longitude>
+    <elevation>459.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6772</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0036</id>
+    <displayName>HUTCHINSON 8.7 SW, KS US</displayName>
+    <minDate>2010-07-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9846</latitude>
+    <longitude>-98.0362</longitude>
+    <elevation>481.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013986</id>
+    <displayName>HUTCHINSON MUNICIPAL AIRPORT, KS US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.06528</latitude>
+    <longitude>-97.86056</longitude>
+    <elevation>470.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4208</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093905</id>
+    <displayName>HUTCHINSON NAS, KS US</displayName>
+    <minDate>1952-10-01</minDate>
+    <maxDate>1958-04-30</maxDate>
+    <latitude>37.91667</latitude>
+    <longitude>-97.9</longitude>
+    <elevation>479.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354114</id>
+    <displayName>HUTCHINSON RANCH, OR US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1961-09-30</maxDate>
+    <latitude>43.21667</latitude>
+    <longitude>-118.01667</longitude>
+    <elevation>1232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8087</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143921</id>
+    <displayName>HUTCHINSON RIVER, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1949-03-31</maxDate>
+    <latitude>38.038</latitude>
+    <longitude>-97.9336</longitude>
+    <elevation>464.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143929</id>
+    <displayName>HUTCHINSON, KS US</displayName>
+    <minDate>1975-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.09</latitude>
+    <longitude>-97.9125</longitude>
+    <elevation>469.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5085</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114312</id>
+    <displayName>HUTSONVILLE 1 NNW, IL US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.11667</latitude>
+    <longitude>-87.66667</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3019</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114317</id>
+    <displayName>HUTSONVILLE POWER PLANT, IL US</displayName>
+    <minDate>1946-05-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1138</latitude>
+    <longitude>-87.6563</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033556</id>
+    <displayName>HUTTIG LOCK AND DAM, AR US</displayName>
+    <minDate>1940-01-04</minDate>
+    <maxDate>1976-10-30</maxDate>
+    <latitude>33.03333</latitude>
+    <longitude>-92.08333</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7304</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033553</id>
+    <displayName>HUTTIG, AR US</displayName>
+    <minDate>1907-10-22</minDate>
+    <maxDate>1928-04-30</maxDate>
+    <latitude>33.033333</latitude>
+    <longitude>-92.183333</longitude>
+    <elevation>53.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9222</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0073</id>
+    <displayName>HUTTO 0.8 NNE, TX US</displayName>
+    <minDate>2009-06-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.5561</latitude>
+    <longitude>-97.5343</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0101</id>
+    <displayName>HUTTO 1.7 S, TX US</displayName>
+    <minDate>2011-04-20</minDate>
+    <maxDate>2012-05-16</maxDate>
+    <latitude>30.522</latitude>
+    <longitude>-97.5394</longitude>
+    <elevation>189.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4453</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0081</id>
+    <displayName>HUTTO 3.4 SSW, TX US</displayName>
+    <minDate>2009-10-07</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.5044</latitude>
+    <longitude>-97.5732</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044191</id>
+    <displayName>HYAMPOM, CA US</displayName>
+    <minDate>1912-06-01</minDate>
+    <maxDate>2004-05-31</maxDate>
+    <latitude>40.6161</latitude>
+    <longitude>-123.4566</longitude>
+    <elevation>389.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1372</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gran009</id>
+    <displayName>HYANNIS 0.4 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.9993</latitude>
+    <longitude>-101.7542</longitude>
+    <elevation>1135.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7242</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254102</id>
+    <displayName>HYANNIS 10 NE, NE US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-10-31</maxDate>
+    <latitude>42.1</latitude>
+    <longitude>-101.6</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5294</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10cher010</id>
+    <displayName>HYANNIS 13.7 N, NE US</displayName>
+    <minDate>2007-03-29</minDate>
+    <maxDate>2012-10-05</maxDate>
+    <latitude>42.198</latitude>
+    <longitude>-101.777</longitude>
+    <elevation>1146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254101</id>
+    <displayName>HYANNIS 5 N, NE US</displayName>
+    <minDate>1997-06-01</minDate>
+    <maxDate>2010-11-30</maxDate>
+    <latitude>42.0542</latitude>
+    <longitude>-101.756</longitude>
+    <elevation>1173.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094720</id>
+    <displayName>HYANNIS BARNSTABLE MUNICIPAL AIRPORT, MA US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.66861</latitude>
+    <longitude>-70.28</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193821</id>
+    <displayName>HYANNIS, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.6649</latitude>
+    <longitude>-70.3038</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8148</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254100</id>
+    <displayName>HYANNIS, NE US</displayName>
+    <minDate>1927-09-22</minDate>
+    <maxDate>1996-10-31</maxDate>
+    <latitude>42</latitude>
+    <longitude>-101.75</longitude>
+    <elevation>1149.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8862</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="207">
+  <station>
+    <id>GHCND:US1FLDV0033</id>
+    <displayName>JACKSONVILLE 10.0 WSW, FL US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3044</latitude>
+    <longitude>-81.8226</longitude>
+    <elevation>26.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0042</id>
+    <displayName>JACKSONVILLE 10.3 SW, FL US</displayName>
+    <minDate>2010-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.235</latitude>
+    <longitude>-81.7869</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9404</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0055</id>
+    <displayName>JACKSONVILLE 10.4 WNW, FL US</displayName>
+    <minDate>2011-07-17</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.4162</latitude>
+    <longitude>-81.8048</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9706</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0032</id>
+    <displayName>JACKSONVILLE 11.4 ESE, FL US</displayName>
+    <minDate>2008-08-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3144</latitude>
+    <longitude>-81.4676</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9567</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0044</id>
+    <displayName>JACKSONVILLE 11.4 SE, FL US</displayName>
+    <minDate>2010-08-01</minDate>
+    <maxDate>2012-06-16</maxDate>
+    <latitude>30.2293</latitude>
+    <longitude>-81.5079</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0036</id>
+    <displayName>JACKSONVILLE 11.6 ENE, FL US</displayName>
+    <minDate>2009-04-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3318</latitude>
+    <longitude>-81.4631</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9782</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0060</id>
+    <displayName>JACKSONVILLE 11.8 S, FL US</displayName>
+    <minDate>2012-06-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1649</latitude>
+    <longitude>-81.6379</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0037</id>
+    <displayName>JACKSONVILLE 11.9 N, FL US</displayName>
+    <minDate>2009-07-25</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.5042</latitude>
+    <longitude>-81.6204</longitude>
+    <elevation>10.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0051</id>
+    <displayName>JACKSONVILLE 12.0 SSE, FL US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.175</latitude>
+    <longitude>-81.5705</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0047</id>
+    <displayName>JACKSONVILLE 12.0 SSE, FL US</displayName>
+    <minDate>2010-08-17</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.1705</latitude>
+    <longitude>-81.5818</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9048</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0046</id>
+    <displayName>JACKSONVILLE 12.1 ESE, FL US</displayName>
+    <minDate>2010-08-15</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.3033</latitude>
+    <longitude>-81.4547</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9512</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0056</id>
+    <displayName>JACKSONVILLE 14.0 NE, FL US</displayName>
+    <minDate>2011-08-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4717</latitude>
+    <longitude>-81.4855</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4803</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114442</id>
+    <displayName>JACKSONVILLE 2 E, IL US</displayName>
+    <minDate>1895-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.73528</latitude>
+    <longitude>-90.21528</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114447</id>
+    <displayName>JACKSONVILLE 2, IL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7133</latitude>
+    <longitude>-90.2285</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0044</id>
+    <displayName>JACKSONVILLE 2.0 E, NC US</displayName>
+    <minDate>2011-11-03</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>34.7589</latitude>
+    <longitude>-77.3692</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8581</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALCN0007</id>
+    <displayName>JACKSONVILLE 2.8 SSE, AL US</displayName>
+    <minDate>2007-11-24</minDate>
+    <maxDate>2011-02-09</maxDate>
+    <latitude>33.7757</latitude>
+    <longitude>-85.7357</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5136</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0035</id>
+    <displayName>JACKSONVILLE 3.2 ESE, FL US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>30.3217</latitude>
+    <longitude>-81.6053</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7038</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0053</id>
+    <displayName>JACKSONVILLE 3.3 WSW, FL US</displayName>
+    <minDate>2011-07-10</minDate>
+    <maxDate>2012-03-13</maxDate>
+    <latitude>30.325</latitude>
+    <longitude>-81.7116</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCHK003</id>
+    <displayName>JACKSONVILLE 3.5 ENE, TX US</displayName>
+    <minDate>2008-06-28</minDate>
+    <maxDate>2009-03-26</maxDate>
+    <latitude>31.977</latitude>
+    <longitude>-95.2015</longitude>
+    <elevation>133.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0028</id>
+    <displayName>JACKSONVILLE 3.8 ESE, FL US</displayName>
+    <minDate>2008-05-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3157</latitude>
+    <longitude>-81.5985</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0059</id>
+    <displayName>JACKSONVILLE 4.2 NE, FL US</displayName>
+    <minDate>2012-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3758</latitude>
+    <longitude>-81.6047</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0046</id>
+    <displayName>JACKSONVILLE 5.0 E, NC US</displayName>
+    <minDate>2012-04-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.769</latitude>
+    <longitude>-77.3156</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9785</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0017</id>
+    <displayName>JACKSONVILLE 5.1 WSW, NC US</displayName>
+    <minDate>2011-03-24</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>34.7271</latitude>
+    <longitude>-77.4808</longitude>
+    <elevation>10.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0031</id>
+    <displayName>JACKSONVILLE 5.5 WSW, NC US</displayName>
+    <minDate>2011-04-16</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>34.7283</latitude>
+    <longitude>-77.4914</longitude>
+    <elevation>10.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8496</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0043</id>
+    <displayName>JACKSONVILLE 5.6 E, FL US</displayName>
+    <minDate>2010-06-06</minDate>
+    <maxDate>2012-11-04</maxDate>
+    <latitude>30.3433</latitude>
+    <longitude>-81.5645</longitude>
+    <elevation>11.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0003</id>
+    <displayName>JACKSONVILLE 5.9 SW, FL US</displayName>
+    <minDate>2007-10-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2765</latitude>
+    <longitude>-81.7304</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9398</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0001</id>
+    <displayName>JACKSONVILLE 6.2 ENE, FL US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2011-11-20</maxDate>
+    <latitude>30.3623</latitude>
+    <longitude>-81.5592</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0026</id>
+    <displayName>JACKSONVILLE 7.3 SW, FL US</displayName>
+    <minDate>2008-03-24</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.2608</latitude>
+    <longitude>-81.7444</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5416</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0002</id>
+    <displayName>JACKSONVILLE 7.5 E, FL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3366</latitude>
+    <longitude>-81.532</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8178</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0063</id>
+    <displayName>JACKSONVILLE 7.8 SW, FL US</displayName>
+    <minDate>2012-08-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2587</latitude>
+    <longitude>-81.7548</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9758</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0020</id>
+    <displayName>JACKSONVILLE 8.1 SSE, FL US</displayName>
+    <minDate>2007-11-25</minDate>
+    <maxDate>2010-06-03</maxDate>
+    <latitude>30.2216</latitude>
+    <longitude>-81.6183</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4252</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0004</id>
+    <displayName>JACKSONVILLE 8.4 SSE, FL US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2009-12-18</maxDate>
+    <latitude>30.2312</latitude>
+    <longitude>-81.5822</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4183</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0021</id>
+    <displayName>JACKSONVILLE 8.8 E, FL US</displayName>
+    <minDate>2007-11-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.356</latitude>
+    <longitude>-81.512</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0027</id>
+    <displayName>JACKSONVILLE 8.9 WSW, OR US</displayName>
+    <minDate>2008-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2763</latitude>
+    <longitude>-123.1386</longitude>
+    <elevation>520.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9788</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0011</id>
+    <displayName>JACKSONVILLE BEACH 3.7 WNW, FL US</displayName>
+    <minDate>2007-10-22</minDate>
+    <maxDate>2008-09-01</maxDate>
+    <latitude>30.2936</latitude>
+    <longitude>-81.4394</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4684</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0009</id>
+    <displayName>JACKSONVILLE BEACH 3.9 WNW, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.3025</latitude>
+    <longitude>-81.4396</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7771</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0008</id>
+    <displayName>JACKSONVILLE BEACH 4.2 WNW, FL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2008-08-25</maxDate>
+    <latitude>30.3043</latitude>
+    <longitude>-81.4432</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0019</id>
+    <displayName>JACKSONVILLE BEACH 4.4 WNW, FL US</displayName>
+    <minDate>2008-01-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3101</latitude>
+    <longitude>-81.4439</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9496</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0038</id>
+    <displayName>JACKSONVILLE BEACH 4.5 W, FL US</displayName>
+    <minDate>2009-08-23</minDate>
+    <maxDate>2011-09-23</maxDate>
+    <latitude>30.2744</latitude>
+    <longitude>-81.4567</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.311</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDV0024</id>
+    <displayName>JACKSONVILLE BEACH 4.5 W, FL US</displayName>
+    <minDate>2008-01-10</minDate>
+    <maxDate>2009-06-22</maxDate>
+    <latitude>30.2685</latitude>
+    <longitude>-81.4547</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084366</id>
+    <displayName>JACKSONVILLE BEACH, FL US</displayName>
+    <minDate>1944-07-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.2875</latitude>
+    <longitude>-81.39278</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9854</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093832</id>
+    <displayName>JACKSONVILLE CECIL FIELD NAS, FL US</displayName>
+    <minDate>1947-03-01</minDate>
+    <maxDate>1998-12-30</maxDate>
+    <latitude>30.21667</latitude>
+    <longitude>-81.88333</longitude>
+    <elevation>25.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053860</id>
+    <displayName>JACKSONVILLE CRAIG MUNICIPAL AIRPORT, FL US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.3361</latitude>
+    <longitude>-81.5147</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314471</id>
+    <displayName>JACKSONVILLE EOC, NC US</displayName>
+    <minDate>2004-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7966</latitude>
+    <longitude>-77.4008</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414524</id>
+    <displayName>JACKSONVILLE EXPERIMENTAL STATION, TX US</displayName>
+    <minDate>1897-08-17</minDate>
+    <maxDate>1963-12-31</maxDate>
+    <latitude>31.98333</latitude>
+    <longitude>-95.28333</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013889</id>
+    <displayName>JACKSONVILLE INTERNATIONAL AIRPORT, FL US</displayName>
+    <minDate>1938-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.495</latitude>
+    <longitude>-81.6936</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093837</id>
+    <displayName>JACKSONVILLE NAS, FL US</displayName>
+    <minDate>1945-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.23333</latitude>
+    <longitude>-81.66667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063890</id>
+    <displayName>JACKSONVILLE WHITEHOUSE NAVAL OUTLYING FIELD, FL US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>30.35028</latitude>
+    <longitude>-81.88306</longitude>
+    <elevation>30.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.854</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014209</id>
+    <displayName>JACKSONVILLE, AL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8256</latitude>
+    <longitude>-85.7812</longitude>
+    <elevation>185.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8053</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093852</id>
+    <displayName>JACKSONVILLE, FL US</displayName>
+    <minDate>1871-09-12</minDate>
+    <maxDate>1956-05-27</maxDate>
+    <latitude>30.33333</latitude>
+    <longitude>-81.65</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354216</id>
+    <displayName>JACKSONVILLE, OR US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1948-11-30</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-122.98333</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9868</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414525</id>
+    <displayName>JACKSONVILLE, TX US</displayName>
+    <minDate>1953-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.9622</latitude>
+    <longitude>-95.2736</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00434150</id>
+    <displayName>JACKSONVILLE, VT US</displayName>
+    <minDate>1889-01-01</minDate>
+    <maxDate>1911-11-30</maxDate>
+    <latitude>42.8</latitude>
+    <longitude>-72.816667</longitude>
+    <elevation>576.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8196</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0005K26S</id>
+    <displayName>JACKWHACKER GULCH, CO US</displayName>
+    <minDate>1998-09-24</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.5667</latitude>
+    <longitude>-105.8</longitude>
+    <elevation>3340.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024418</id>
+    <displayName>JACOB LAKE, AZ US</displayName>
+    <minDate>1916-08-01</minDate>
+    <maxDate>1987-10-30</maxDate>
+    <latitude>36.73333</latitude>
+    <longitude>-112.21667</longitude>
+    <elevation>2385.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3068</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204161</id>
+    <displayName>JACOBSVILLE, MI US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.0083</latitude>
+    <longitude>-88.4318</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054770</id>
+    <displayName>JAFFREY MUNICIPAL AIRPORT SILVER RANCH, NH US</displayName>
+    <minDate>1993-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.805</latitude>
+    <longitude>-72.00361</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274304</id>
+    <displayName>JAFFREY SILVER RANCH AIRPARK, NH US</displayName>
+    <minDate>2011-04-29</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.8088</latitude>
+    <longitude>-72.0053</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00664867</id>
+    <displayName>JAJOME ALTO, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.0716</latitude>
+    <longitude>-66.1427</longitude>
+    <elevation>719.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAER0002</id>
+    <displayName>JAKIN 7.4 NNW, GA US</displayName>
+    <minDate>2011-08-13</minDate>
+    <maxDate>2012-02-14</maxDate>
+    <latitude>31.1833</latitude>
+    <longitude>-85.0459</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLE0018</id>
+    <displayName>JAL 26.6 WNW, NM US</displayName>
+    <minDate>2008-03-22</minDate>
+    <maxDate>2011-06-16</maxDate>
+    <latitude>32.3106</latitude>
+    <longitude>-103.58</longitude>
+    <elevation>1125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294346</id>
+    <displayName>JAL, NM US</displayName>
+    <minDate>1919-03-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>32.1103</latitude>
+    <longitude>-103.1872</longitude>
+    <elevation>930.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8208</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAGT0001</id>
+    <displayName>JAMAICA 3.2 S, IA US</displayName>
+    <minDate>2007-07-31</minDate>
+    <maxDate>2012-05-28</maxDate>
+    <latitude>41.7991</latitude>
+    <longitude>-94.3093</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1003</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414531</id>
+    <displayName>JAMAICA BEACH, TX US</displayName>
+    <minDate>2002-01-01</minDate>
+    <maxDate>2008-09-04</maxDate>
+    <latitude>29.19667</latitude>
+    <longitude>-94.98833</longitude>
+    <elevation>1.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MASF0003</id>
+    <displayName>JAMAICA PLAIN 1.3 NE, MA US</displayName>
+    <minDate>2010-02-01</minDate>
+    <maxDate>2010-07-15</maxDate>
+    <latitude>42.3131</latitude>
+    <longitude>-71.0998</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9758</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193890</id>
+    <displayName>JAMAICA PLAIN, MA US</displayName>
+    <minDate>1962-08-15</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.3031</latitude>
+    <longitude>-71.124</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9009</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134202</id>
+    <displayName>JAMES 1 NE, IA US</displayName>
+    <minDate>1948-04-01</minDate>
+    <maxDate>2012-05-18</maxDate>
+    <latitude>42.5763</latitude>
+    <longitude>-96.3038</longitude>
+    <elevation>352.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3404</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCN0003</id>
+    <displayName>JAMES CITY 0.3 SSE, NC US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.0609</latitude>
+    <longitude>-77.0162</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCN0004</id>
+    <displayName>JAMES CITY 2.5 S, NC US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.03</latitude>
+    <longitude>-77.02</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9068</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCN0018</id>
+    <displayName>JAMES CITY 3.9 SSE, NC US</displayName>
+    <minDate>2011-03-24</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>35.0095</latitude>
+    <longitude>-77.0041</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414538</id>
+    <displayName>JAMES RIVER RANCH, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1975-12-31</maxDate>
+    <latitude>30.53333</latitude>
+    <longitude>-99.38333</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9074</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000VJAM</id>
+    <displayName>JAMES RIVER VIRGINIA, VA US</displayName>
+    <minDate>1997-03-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>37.25</latitude>
+    <longitude>-77.25</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8303</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSF0007</id>
+    <displayName>JAMESPORT 0.6 SSW, NY US</displayName>
+    <minDate>2007-11-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9364</latitude>
+    <longitude>-72.5778</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8779</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODV0002</id>
+    <displayName>JAMESPORT 1.3 ESE, MO US</displayName>
+    <minDate>2011-03-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9645</latitude>
+    <longitude>-93.7809</longitude>
+    <elevation>296.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0039</id>
+    <displayName>JAMESTOWN 0.3 S, IN US</displayName>
+    <minDate>2009-04-02</minDate>
+    <maxDate>2012-09-22</maxDate>
+    <latitude>39.9238</latitude>
+    <longitude>-86.6285</longitude>
+    <elevation>287.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3567</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0030</id>
+    <displayName>JAMESTOWN 1.6 E, IN US</displayName>
+    <minDate>2007-05-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9236</latitude>
+    <longitude>-86.5983</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCQ0012</id>
+    <displayName>JAMESTOWN 1.8 E, NY US</displayName>
+    <minDate>2010-11-07</minDate>
+    <maxDate>2012-10-29</maxDate>
+    <latitude>42.0957</latitude>
+    <longitude>-79.2013</longitude>
+    <elevation>463.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7095</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNFN0005</id>
+    <displayName>JAMESTOWN 13.7 S, TN US</displayName>
+    <minDate>2007-07-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2332</latitude>
+    <longitude>-84.9356</longitude>
+    <elevation>526.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364325</id>
+    <displayName>JAMESTOWN 2 NW, PA US</displayName>
+    <minDate>1931-10-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>41.4992</latitude>
+    <longitude>-80.4681</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9805</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0308</id>
+    <displayName>JAMESTOWN 2.0 N, CO US</displayName>
+    <minDate>2012-03-19</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.1457</latitude>
+    <longitude>-105.3905</longitude>
+    <elevation>2366.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9331</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0004</id>
+    <displayName>JAMESTOWN 2.3 WNW, IN US</displayName>
+    <minDate>2006-05-16</minDate>
+    <maxDate>2008-01-17</maxDate>
+    <latitude>39.9416</latitude>
+    <longitude>-86.6676</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8382</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCD0001</id>
+    <displayName>JAMESTOWN 2.4 NW, KS US</displayName>
+    <minDate>2006-11-29</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.625</latitude>
+    <longitude>-97.892</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1RINW0003</id>
+    <displayName>JAMESTOWN 2.6 NNW, RI US</displayName>
+    <minDate>2008-04-25</minDate>
+    <maxDate>2012-04-01</maxDate>
+    <latitude>41.5328</latitude>
+    <longitude>-71.3822</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6342</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNFN0007</id>
+    <displayName>JAMESTOWN 3.1 SE, TN US</displayName>
+    <minDate>2010-06-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4003</latitude>
+    <longitude>-84.8954</longitude>
+    <elevation>510.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5126</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0008</id>
+    <displayName>JAMESTOWN 3.2 NE, IN US</displayName>
+    <minDate>2006-03-08</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>39.9636</latitude>
+    <longitude>-86.5912</longitude>
+    <elevation>292</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054937</id>
+    <displayName>JAMESTOWN 38 WSW, ND US</displayName>
+    <minDate>2008-07-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.7702</latitude>
+    <longitude>-99.4778</longitude>
+    <elevation>585.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304207</id>
+    <displayName>JAMESTOWN 4 ENE, NY US</displayName>
+    <minDate>1960-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.11</latitude>
+    <longitude>-79.1591</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7328</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0012</id>
+    <displayName>JAMESTOWN 5.2 E, IN US</displayName>
+    <minDate>2005-10-16</minDate>
+    <maxDate>2006-11-18</maxDate>
+    <latitude>39.9318</latitude>
+    <longitude>-86.5298</longitude>
+    <elevation>295</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4662</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNFN0004</id>
+    <displayName>JAMESTOWN 6.7 NE, TN US</displayName>
+    <minDate>2007-06-30</minDate>
+    <maxDate>2009-04-14</maxDate>
+    <latitude>36.4938</latitude>
+    <longitude>-84.8413</longitude>
+    <elevation>505.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDSM0004</id>
+    <displayName>JAMESTOWN 7.9 WSW, ND US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.8505</latitude>
+    <longitude>-98.8402</longitude>
+    <elevation>468.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8041</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014919</id>
+    <displayName>JAMESTOWN MUNICIPAL AIRPORT, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.9258</latitude>
+    <longitude>-98.6691</longitude>
+    <elevation>455.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164590</id>
+    <displayName>JAMESTOWN NEAR SOIL CONSERVATION SERVICE 16, LA US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1943-11-17</maxDate>
+    <latitude>32.35</latitude>
+    <longitude>-93.15</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00324418</id>
+    <displayName>JAMESTOWN STATE HOSPITAL, ND US</displayName>
+    <minDate>1881-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.8844</latitude>
+    <longitude>-98.685</longitude>
+    <elevation>447.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304208</id>
+    <displayName>JAMESTOWN WATERWORKS, NY US</displayName>
+    <minDate>1962-11-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>42.11667</latitude>
+    <longitude>-79.23333</longitude>
+    <elevation>423.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124356</id>
+    <displayName>JAMESTOWN, IN US</displayName>
+    <minDate>1953-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9232</latitude>
+    <longitude>-86.5984</longitude>
+    <elevation>291.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6218</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144025</id>
+    <displayName>JAMESTOWN, KS US</displayName>
+    <minDate>1986-06-04</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>39.6147</latitude>
+    <longitude>-97.8563</longitude>
+    <elevation>418.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154208</id>
+    <displayName>JAMESTOWN, KY US</displayName>
+    <minDate>1971-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0055</latitude>
+    <longitude>-85.0616</longitude>
+    <elevation>271.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9107</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164592</id>
+    <displayName>JAMESTOWN, LA US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>32.3492</latitude>
+    <longitude>-93.2014</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9756</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304206</id>
+    <displayName>JAMESTOWN, NY US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>42.1</latitude>
+    <longitude>-79.25</longitude>
+    <elevation>424</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7656</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00384449</id>
+    <displayName>JAMESTOWN, SC US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.3</latitude>
+    <longitude>-79.66667</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8171</coverage>
+  </station>
+</stationCollection>

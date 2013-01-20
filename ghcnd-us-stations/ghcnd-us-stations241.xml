@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="241">
+  <station>
+    <id>GHCND:USC00304731</id>
+    <displayName>LIBERTY 1 NE, NY US</displayName>
+    <minDate>1898-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.8017</latitude>
+    <longitude>-74.74</longitude>
+    <elevation>481.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7074</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSAM0002</id>
+    <displayName>LIBERTY 1.0 WNW, MS US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.1637</latitude>
+    <longitude>-90.8179</longitude>
+    <elevation>100</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYCS0004</id>
+    <displayName>LIBERTY 1.1 SE, KY US</displayName>
+    <minDate>2010-09-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3053</latitude>
+    <longitude>-84.9183</longitude>
+    <elevation>334.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSV0001</id>
+    <displayName>LIBERTY 1.3 N, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2009-02-12</maxDate>
+    <latitude>41.8162</latitude>
+    <longitude>-74.7447</longitude>
+    <elevation>563.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9406</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0011</id>
+    <displayName>LIBERTY 1.5 SE, SC US</displayName>
+    <minDate>2010-10-22</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>34.7779</latitude>
+    <longitude>-82.6757</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6617</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCY0015</id>
+    <displayName>LIBERTY 1.7 NNW, MO US</displayName>
+    <minDate>2011-04-25</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>39.266</latitude>
+    <longitude>-94.4266</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0050</id>
+    <displayName>LIBERTY 15 SW, CO US</displayName>
+    <minDate>2000-05-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4915</latitude>
+    <longitude>-102.8229</longitude>
+    <elevation>1382</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9086</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125050</id>
+    <displayName>LIBERTY 3 SSE, IN US</displayName>
+    <minDate>1957-07-01</minDate>
+    <maxDate>2007-06-30</maxDate>
+    <latitude>39.5903</latitude>
+    <longitude>-84.9208</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gage018</id>
+    <displayName>LIBERTY 3.1 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2011-08-19</maxDate>
+    <latitude>40.0445</latitude>
+    <longitude>-96.5112</longitude>
+    <elevation>406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3434</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSMG0005</id>
+    <displayName>LIBERTY 3.2 WNW, KS US</displayName>
+    <minDate>2007-11-08</minDate>
+    <maxDate>2012-11-07</maxDate>
+    <latitude>37.1695</latitude>
+    <longitude>-95.654</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0003</id>
+    <displayName>LIBERTY 3.7 SE, SC US</displayName>
+    <minDate>2008-06-19</minDate>
+    <maxDate>2012-08-13</maxDate>
+    <latitude>34.7511</latitude>
+    <longitude>-82.6552</longitude>
+    <elevation>303.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5761</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00225070</id>
+    <displayName>LIBERTY 5 W, MS US</displayName>
+    <minDate>1949-05-01</minDate>
+    <maxDate>2006-02-28</maxDate>
+    <latitude>31.16306</latitude>
+    <longitude>-90.89444</longitude>
+    <elevation>105.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9591</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COYU0024</id>
+    <displayName>LIBERTY 5.5 NW, CO US</displayName>
+    <minDate>2000-05-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7041</latitude>
+    <longitude>-102.708</longitude>
+    <elevation>1289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9234</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSAM0001</id>
+    <displayName>LIBERTY 6.4 ENE, MS US</displayName>
+    <minDate>2008-08-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.196</latitude>
+    <longitude>-90.7008</longitude>
+    <elevation>97.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COYU0002</id>
+    <displayName>LIBERTY 7 SW, CO US</displayName>
+    <minDate>2000-04-22</minDate>
+    <maxDate>2007-10-22</maxDate>
+    <latitude>39.6161</latitude>
+    <longitude>-102.7445</longitude>
+    <elevation>1328</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5347</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0071</id>
+    <displayName>LIBERTY 7.5 SE, CO US</displayName>
+    <minDate>2000-05-15</minDate>
+    <maxDate>2003-03-20</maxDate>
+    <latitude>39.5487</latitude>
+    <longitude>-102.5879</longitude>
+    <elevation>1286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0981</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COYU0012</id>
+    <displayName>LIBERTY 9 NW, CO US</displayName>
+    <minDate>2000-05-23</minDate>
+    <maxDate>2005-08-12</maxDate>
+    <latitude>39.7666</latitude>
+    <longitude>-102.7004</longitude>
+    <elevation>1300.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2736</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA047</id>
+    <displayName>LIBERTY 9.4 NNE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.275</latitude>
+    <longitude>-94.2486</longitude>
+    <elevation>229.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0022</id>
+    <displayName>LIBERTY HILL 0.6 NNW, TX US</displayName>
+    <minDate>2007-09-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6713</latitude>
+    <longitude>-97.9283</longitude>
+    <elevation>317.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9717</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0030</id>
+    <displayName>LIBERTY HILL 1.3 NNE, TX US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2008-08-31</maxDate>
+    <latitude>30.682</latitude>
+    <longitude>-97.9122</longitude>
+    <elevation>323.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9077</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0023</id>
+    <displayName>LIBERTY HILL 2.0 NW, TX US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2010-07-08</maxDate>
+    <latitude>30.6803</latitude>
+    <longitude>-97.9508</longitude>
+    <elevation>315.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0110</id>
+    <displayName>LIBERTY HILL 4.3 ENE, TX US</displayName>
+    <minDate>2012-01-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6903</latitude>
+    <longitude>-97.8564</longitude>
+    <elevation>293.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5462</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0124</id>
+    <displayName>LIBERTY HILL 4.7 W, TX US</displayName>
+    <minDate>2012-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.663</latitude>
+    <longitude>-98.0008</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0109</id>
+    <displayName>LIBERTY HILL 5.2 SW, TX US</displayName>
+    <minDate>2011-11-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.6152</latitude>
+    <longitude>-97.9871</longitude>
+    <elevation>370.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165365</id>
+    <displayName>LIBERTY HILL, LA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1918-05-31</maxDate>
+    <latitude>32.31667</latitude>
+    <longitude>-92.91667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415202</id>
+    <displayName>LIBERTY HILL, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-11-30</maxDate>
+    <latitude>30.66667</latitude>
+    <longitude>-97.91667</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9013</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASP0035</id>
+    <displayName>LIBERTY LAKE 1.4 WNW, WA US</displayName>
+    <minDate>2011-12-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6606</latitude>
+    <longitude>-117.1118</longitude>
+    <elevation>694.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8854</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454660</id>
+    <displayName>LIBERTY RANGER STATION, WA US</displayName>
+    <minDate>1917-12-21</minDate>
+    <maxDate>1930-03-23</maxDate>
+    <latitude>47.25</latitude>
+    <longitude>-120.75</longitude>
+    <elevation>735.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3219</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0007</id>
+    <displayName>LIBERTY TWP 1.0 S, NJ US</displayName>
+    <minDate>2010-04-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.8522</latitude>
+    <longitude>-74.9494</longitude>
+    <elevation>288.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8564</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0002</id>
+    <displayName>LIBERTY TWP 1.7 WSW, NJ US</displayName>
+    <minDate>2008-02-02</minDate>
+    <maxDate>2012-11-18</maxDate>
+    <latitude>40.8549</latitude>
+    <longitude>-74.9815</longitude>
+    <elevation>142</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115054</id>
+    <displayName>LIBERTY, IL US</displayName>
+    <minDate>1951-11-07</minDate>
+    <maxDate>1973-12-31</maxDate>
+    <latitude>39.83333</latitude>
+    <longitude>-91.23333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154755</id>
+    <displayName>LIBERTY, KY US</displayName>
+    <minDate>1941-04-01</minDate>
+    <maxDate>2003-12-31</maxDate>
+    <latitude>37.25083</latitude>
+    <longitude>-84.93278</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234914</id>
+    <displayName>LIBERTY, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1927-11-30</maxDate>
+    <latitude>39.25</latitude>
+    <longitude>-94.416667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9006</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00385130</id>
+    <displayName>LIBERTY, SC US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>1925-12-31</maxDate>
+    <latitude>34.666667</latitude>
+    <longitude>-82.716667</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405216</id>
+    <displayName>LIBERTY, TN US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>1945-09-30</maxDate>
+    <latitude>36.03333</latitude>
+    <longitude>-85.95</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415196</id>
+    <displayName>LIBERTY, TX US</displayName>
+    <minDate>1903-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.0591</latitude>
+    <longitude>-94.7949</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0037</id>
+    <displayName>LIBERTYVILLE 0.8 SSW, IL US</displayName>
+    <minDate>2008-02-25</minDate>
+    <maxDate>2008-11-24</maxDate>
+    <latitude>42.2743</latitude>
+    <longitude>-87.9734</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0021</id>
+    <displayName>LIBERTYVILLE 1.6 SE, IL US</displayName>
+    <minDate>2007-06-03</minDate>
+    <maxDate>2009-06-20</maxDate>
+    <latitude>42.2667</latitude>
+    <longitude>-87.9443</longitude>
+    <elevation>203</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115059</id>
+    <displayName>LIBERTYVILLE, IL US</displayName>
+    <minDate>1992-09-01</minDate>
+    <maxDate>1997-12-31</maxDate>
+    <latitude>42.30972</latitude>
+    <longitude>-87.99083</longitude>
+    <elevation>219.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9297</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010D13S</id>
+    <displayName>LICK CREEK, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.5</latitude>
+    <longitude>-110.9667</longitude>
+    <elevation>2090.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8751</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405224</id>
+    <displayName>LICK CREEK, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.31667</latitude>
+    <longitude>-82.8</longitude>
+    <elevation>360</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0004</id>
+    <displayName>LICKING 2.6 NW, MO US</displayName>
+    <minDate>2006-08-10</minDate>
+    <maxDate>2008-03-20</maxDate>
+    <latitude>37.5175</latitude>
+    <longitude>-91.8987</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234919</id>
+    <displayName>LICKING 4 N, MO US</displayName>
+    <minDate>1936-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5544</latitude>
+    <longitude>-91.883</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234924</id>
+    <displayName>LICKING 7 W, MO US</displayName>
+    <minDate>1973-11-01</minDate>
+    <maxDate>1992-10-29</maxDate>
+    <latitude>37.51667</latitude>
+    <longitude>-91.98333</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1074</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODT0010</id>
+    <displayName>LICKING 7.3 ENE, MO US</displayName>
+    <minDate>2011-05-07</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>37.5238</latitude>
+    <longitude>-91.732</longitude>
+    <elevation>388.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264560</id>
+    <displayName>LIDA, NV US</displayName>
+    <minDate>1912-08-01</minDate>
+    <maxDate>1942-12-31</maxDate>
+    <latitude>37.45</latitude>
+    <longitude>-117.5</longitude>
+    <elevation>1859.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325186</id>
+    <displayName>LIDGERWOOD, ND US</displayName>
+    <minDate>1979-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.0725</latitude>
+    <longitude>-97.1461</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105275</id>
+    <displayName>LIFTON PUMPING STATION, ID US</displayName>
+    <minDate>1919-10-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.123</latitude>
+    <longitude>-111.3138</longitude>
+    <elevation>1806.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OLIG</id>
+    <displayName>LIGGET TABLE OREGON, OR US</displayName>
+    <minDate>1990-08-06</minDate>
+    <maxDate>1997-04-03</maxDate>
+    <latitude>44.0833</latitude>
+    <longitude>-120.0981</longitude>
+    <elevation>1280.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011H59S</id>
+    <displayName>LIGHTNING RIDGE, UT US</displayName>
+    <minDate>2004-07-19</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.3667</latitude>
+    <longitude>-111.4833</longitude>
+    <elevation>2503.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9332</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00085035</id>
+    <displayName>LIGNUMVITAE KEY, US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>24.9</latitude>
+    <longitude>-80.7</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415211</id>
+    <displayName>LIGON RANCH, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1954-01-31</maxDate>
+    <latitude>30.65</latitude>
+    <longitude>-98.56667</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7157</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125055</id>
+    <displayName>LIGONIER 2 S, IN US</displayName>
+    <minDate>1991-12-01</minDate>
+    <maxDate>2005-01-31</maxDate>
+    <latitude>41.43111</latitude>
+    <longitude>-85.58972</longitude>
+    <elevation>282.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515575</id>
+    <displayName>LIHUE 1020, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2000-10-31</maxDate>
+    <latitude>21.97417</latitude>
+    <longitude>-159.36833</longitude>
+    <elevation>63.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515560</id>
+    <displayName>LIHUE VAR STATION 1062.1, HI US</displayName>
+    <minDate>1963-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>22.02417</latitude>
+    <longitude>-159.38667</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7518</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022536</id>
+    <displayName>LIHUE WEATHER SERVICE OFFICE AIRPORT 1020.1, HI US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.98389</latitude>
+    <longitude>-159.34056</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAGW0005</id>
+    <displayName>LILBURN 0.8 SSE, GA US</displayName>
+    <minDate>2008-05-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8781</latitude>
+    <longitude>-84.1308</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415218</id>
+    <displayName>LILLIAN 3 W, TX US</displayName>
+    <minDate>1981-03-01</minDate>
+    <maxDate>1997-05-31</maxDate>
+    <latitude>32.5</latitude>
+    <longitude>-97.23333</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415216</id>
+    <displayName>LILLIAN, TX US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>32.5</latitude>
+    <longitude>-97.18333</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHR0007</id>
+    <displayName>LILLINGTON 2.0 W, NC US</displayName>
+    <minDate>2009-03-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4028</latitude>
+    <longitude>-78.8508</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7439</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHR0001</id>
+    <displayName>LILLINGTON 4.8 ENE, NC US</displayName>
+    <minDate>2007-08-27</minDate>
+    <maxDate>2009-09-22</maxDate>
+    <latitude>35.4187</latitude>
+    <longitude>-78.7341</longitude>
+    <elevation>62.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314987</id>
+    <displayName>LILLINGTON, NC US</displayName>
+    <minDate>1891-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.4083</latitude>
+    <longitude>-78.8208</longitude>
+    <elevation>45.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144708</id>
+    <displayName>LILLIS, KS US</displayName>
+    <minDate>1966-10-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>39.5943</latitude>
+    <longitude>-96.3331</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKN0058</id>
+    <displayName>LILY LAKE 2.1 E, IL US</displayName>
+    <minDate>2008-03-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.945</latitude>
+    <longitude>-88.4382</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9695</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010J35S</id>
+    <displayName>LILY LAKE, UT US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.8667</latitude>
+    <longitude>-110.8</longitude>
+    <elevation>2758.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9029</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006M23S</id>
+    <displayName>LILY POND, CO US</displayName>
+    <minDate>1980-08-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.3833</latitude>
+    <longitude>-106.5333</longitude>
+    <elevation>3352.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9179</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474720</id>
+    <displayName>LILY, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.31667</latitude>
+    <longitude>-88.85</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354900</id>
+    <displayName>LILYGLEN, OR US</displayName>
+    <minDate>1908-06-01</minDate>
+    <maxDate>1920-09-30</maxDate>
+    <latitude>42.266667</latitude>
+    <longitude>-122.45</longitude>
+    <elevation>1382.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAL0005</id>
+    <displayName>LIMA 2.7 NE, OH US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7739</latitude>
+    <longitude>-84.08</longitude>
+    <elevation>264.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004850</id>
+    <displayName>LIMA ALLEN CO AIRPORT, OH US</displayName>
+    <minDate>1998-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.7075</latitude>
+    <longitude>-84.02722</longitude>
+    <elevation>297.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245032</id>
+    <displayName>LIMA DAM, MT US</displayName>
+    <minDate>1949-06-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>44.66667</latitude>
+    <longitude>-112.36667</longitude>
+    <elevation>2044</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8423</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115074</id>
+    <displayName>LIMA LAKE DRAIN DIST, IL US</displayName>
+    <minDate>1951-11-12</minDate>
+    <maxDate>1953-07-22</maxDate>
+    <latitude>40.1</latitude>
+    <longitude>-91.5</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2423</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NLIM</id>
+    <displayName>LIMA NORTH DAKOTA, ND US</displayName>
+    <minDate>2002-01-30</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.79</latitude>
+    <longitude>-102.2683</longitude>
+    <elevation>598</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6478</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334556</id>
+    <displayName>LIMA WATER WORKS, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.75</latitude>
+    <longitude>-84.08333</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334551</id>
+    <displayName>LIMA WWTP, OH US</displayName>
+    <minDate>1901-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7247</latitude>
+    <longitude>-84.1294</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245030</id>
+    <displayName>LIMA, MT US</displayName>
+    <minDate>1898-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.6331</latitude>
+    <longitude>-112.5928</longitude>
+    <elevation>1913.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055001</id>
+    <displayName>LIME 3 SE, CO US</displayName>
+    <minDate>1940-12-11</minDate>
+    <maxDate>1968-09-30</maxDate>
+    <latitude>38.11667</latitude>
+    <longitude>-104.58333</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8752</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095192</id>
+    <displayName>LIME BRANCH, GA US</displayName>
+    <minDate>1949-02-01</minDate>
+    <maxDate>1951-09-23</maxDate>
+    <latitude>33.93333</latitude>
+    <longitude>-85.26667</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9419</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000VASH</id>
+    <displayName>LIME KILN VIRGINIA, VA US</displayName>
+    <minDate>1998-05-17</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.9864</latitude>
+    <longitude>-79.7594</longitude>
+    <elevation>786.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8272</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0068</id>
+    <displayName>LIMERICK 1.1 W, PA US</displayName>
+    <minDate>2012-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.2329</latitude>
+    <longitude>-75.5423</longitude>
+    <elevation>97.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8105</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094645</id>
+    <displayName>LIMESTONE 4 NNW, ME US</displayName>
+    <minDate>2002-09-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.9601</latitude>
+    <longitude>-67.8833</longitude>
+    <elevation>224.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ALIM</id>
+    <displayName>LIMESTONE CANYON ARIZONA, AZ US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.1789</latitude>
+    <longitude>-110.2736</longitude>
+    <elevation>2072.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405255</id>
+    <displayName>LIMESTONE COVE, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.18333</latitude>
+    <longitude>-82.26667</longitude>
+    <elevation>723</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9824</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014623</id>
+    <displayName>LIMESTONE LORING AFB, ME US</displayName>
+    <minDate>1950-06-18</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>46.95</latitude>
+    <longitude>-67.88333</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405260</id>
+    <displayName>LIMESTONE TVA, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.21667</latitude>
+    <longitude>-82.63333</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174656</id>
+    <displayName>LIMINGTON, ME US</displayName>
+    <minDate>1993-09-01</minDate>
+    <maxDate>2006-09-30</maxDate>
+    <latitude>43.71667</latitude>
+    <longitude>-70.65</longitude>
+    <elevation>77.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4213</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0028</id>
+    <displayName>LIMON .56 N, CO US</displayName>
+    <minDate>2004-05-01</minDate>
+    <maxDate>2005-06-12</maxDate>
+    <latitude>39.2721</latitude>
+    <longitude>-103.6905</longitude>
+    <elevation>1640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8603</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0037</id>
+    <displayName>LIMON 0.3 NW, CO US</displayName>
+    <minDate>2005-04-01</minDate>
+    <maxDate>2008-11-11</maxDate>
+    <latitude>39.2688</latitude>
+    <longitude>-103.6945</longitude>
+    <elevation>1638</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0046</id>
+    <displayName>LIMON 0.5 WNW, CO US</displayName>
+    <minDate>2011-06-14</minDate>
+    <maxDate>2012-10-01</maxDate>
+    <latitude>39.2692</latitude>
+    <longitude>-103.697</longitude>
+    <elevation>1641.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5714</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0038</id>
+    <displayName>LIMON 0.9 SSW, CO US</displayName>
+    <minDate>2006-04-19</minDate>
+    <maxDate>2007-07-18</maxDate>
+    <latitude>39.253</latitude>
+    <longitude>-103.695</longitude>
+    <elevation>1642</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055015</id>
+    <displayName>LIMON 10 SSW, CO US</displayName>
+    <minDate>1907-04-24</minDate>
+    <maxDate>1971-01-31</maxDate>
+    <latitude>39.15</latitude>
+    <longitude>-103.76667</longitude>
+    <elevation>1695.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9418</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0026</id>
+    <displayName>LIMON 5.4 NNE, CO US</displayName>
+    <minDate>2004-04-13</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>39.3372</latitude>
+    <longitude>-103.6536</longitude>
+    <elevation>1686.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0379</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0012</id>
+    <displayName>LIMON 6.3 WNW, CO US</displayName>
+    <minDate>2003-02-03</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.2858</latitude>
+    <longitude>-103.8056</longitude>
+    <elevation>1674</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2291</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0041</id>
+    <displayName>LIMON 8.6 N, CO US</displayName>
+    <minDate>2006-07-11</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>39.3893</latitude>
+    <longitude>-103.6669</longitude>
+    <elevation>1741</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0735</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0030</id>
+    <displayName>LIMON 9 N, CO US</displayName>
+    <minDate>2003-12-06</minDate>
+    <maxDate>2009-09-27</maxDate>
+    <latitude>39.388</latitude>
+    <longitude>-103.666</longitude>
+    <elevation>1741.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3537</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0031</id>
+    <displayName>LIMON AIRPORT, CO US</displayName>
+    <minDate>2003-10-05</minDate>
+    <maxDate>2006-03-31</maxDate>
+    <latitude>39.2666</latitude>
+    <longitude>-103.6666</longitude>
+    <elevation>1631.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056438</id>
+    <displayName>LIMON HASS RANCH, CO US</displayName>
+    <minDate>1941-03-01</minDate>
+    <maxDate>1955-12-31</maxDate>
+    <latitude>39.0036</latitude>
+    <longitude>-103.7391</longitude>
+    <elevation>1677.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055020</id>
+    <displayName>LIMON HASS RANCH, CO US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.0036</latitude>
+    <longitude>-103.7391</longitude>
+    <elevation>1677.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093010</id>
+    <displayName>LIMON WSMO, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.18944</latitude>
+    <longitude>-103.71583</longitude>
+    <elevation>1634.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9627</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485581</id>
+    <displayName>LINCH 10 ESE, WY US</displayName>
+    <minDate>1961-09-01</minDate>
+    <maxDate>1975-02-28</maxDate>
+    <latitude>43.55</latitude>
+    <longitude>-106.01667</longitude>
+    <elevation>1513</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7868</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="108">
+  <station>
+    <id>GHCND:USC00392209</id>
+    <displayName>DEADWOOD 2 NE, SD US</displayName>
+    <minDate>2000-03-01</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>44.39</latitude>
+    <longitude>-103.7005</longitude>
+    <elevation>1405.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102390</id>
+    <displayName>DEADWOOD DAM 15 N, ID US</displayName>
+    <minDate>1980-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.46667</latitude>
+    <longitude>-115.56667</longitude>
+    <elevation>1717.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4735</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102385</id>
+    <displayName>DEADWOOD DAM, ID US</displayName>
+    <minDate>1929-12-06</minDate>
+    <maxDate>1975-06-30</maxDate>
+    <latitude>44.31667</latitude>
+    <longitude>-115.63333</longitude>
+    <elevation>1641</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102392</id>
+    <displayName>DEADWOOD LODGE, ID US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.46222</latitude>
+    <longitude>-115.58167</longitude>
+    <elevation>1813</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015E04S</id>
+    <displayName>DEADWOOD SUMMIT, ID US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.55</latitude>
+    <longitude>-115.5667</longitude>
+    <elevation>2090.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352178</id>
+    <displayName>DEADWOOD, OR US</displayName>
+    <minDate>1910-04-01</minDate>
+    <maxDate>1922-08-31</maxDate>
+    <latitude>44.15</latitude>
+    <longitude>-123.733333</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9059</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392207</id>
+    <displayName>DEADWOOD, SD US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>2006-04-30</maxDate>
+    <latitude>44.37361</latitude>
+    <longitude>-103.73139</longitude>
+    <elevation>1423.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7784</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0043</id>
+    <displayName>DEALE 0.9 SE, MD US</displayName>
+    <minDate>2010-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.784</latitude>
+    <longitude>-76.5362</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9421</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0019</id>
+    <displayName>DEALE 1.8 ENE, MD US</displayName>
+    <minDate>2007-05-29</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>38.8011</latitude>
+    <longitude>-76.5147</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9434</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0021</id>
+    <displayName>DEALE 2.3 SSW, MD US</displayName>
+    <minDate>2007-06-04</minDate>
+    <maxDate>2011-08-05</maxDate>
+    <latitude>38.7617</latitude>
+    <longitude>-76.5605</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0044</id>
+    <displayName>DEALE 3.0 S, MD US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>38.7497</latitude>
+    <longitude>-76.556</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ODNM</id>
+    <displayName>DEAN MOUNTAIN OREGON, OR US</displayName>
+    <minDate>1997-09-09</minDate>
+    <maxDate>2005-03-17</maxDate>
+    <latitude>43.6194</latitude>
+    <longitude>-123.9678</longitude>
+    <elevation>554.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162372</id>
+    <displayName>DEAN, LA US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1949-04-01</maxDate>
+    <latitude>32.9</latitude>
+    <longitude>-92.13333</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9015</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412310</id>
+    <displayName>DEAN, TX US</displayName>
+    <minDate>1895-04-05</minDate>
+    <maxDate>1897-07-31</maxDate>
+    <latitude>35.033333</latitude>
+    <longitude>-102.2</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102448</id>
+    <displayName>DEAR LICK RANCH, ID US</displayName>
+    <minDate>1933-01-18</minDate>
+    <maxDate>1936-06-29</maxDate>
+    <latitude>45</latitude>
+    <longitude>-116.633333</longitude>
+    <elevation>1317.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9523</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIWY0006</id>
+    <displayName>DEARBORN 1.6 W, MI US</displayName>
+    <minDate>2008-07-12</minDate>
+    <maxDate>2011-08-16</maxDate>
+    <latitude>42.314</latitude>
+    <longitude>-83.245</longitude>
+    <elevation>183.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8099</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIWY0007</id>
+    <displayName>DEARBORN 3.5 NE, MI US</displayName>
+    <minDate>2008-07-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-83.17</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1467</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202017</id>
+    <displayName>DEARBORN HEIGHTS FD, MI US</displayName>
+    <minDate>2001-04-01</minDate>
+    <maxDate>2001-12-31</maxDate>
+    <latitude>42.325</latitude>
+    <longitude>-83.29361</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202016</id>
+    <displayName>DEARBORN NUMBER 2, MI US</displayName>
+    <minDate>2005-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3469</latitude>
+    <longitude>-83.1736</longitude>
+    <elevation>184.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202015</id>
+    <displayName>DEARBORN, MI US</displayName>
+    <minDate>1952-08-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3195</latitude>
+    <longitude>-83.2377</longitude>
+    <elevation>184.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9708</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAMD0002</id>
+    <displayName>DEARING 1.1 SSE, GA US</displayName>
+    <minDate>2012-03-23</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>33.4014</latitude>
+    <longitude>-82.3753</longitude>
+    <elevation>143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102405</id>
+    <displayName>DEARY, ID US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1917-11-30</maxDate>
+    <latitude>46.8</latitude>
+    <longitude>-116.566667</longitude>
+    <elevation>869.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6676</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042319</id>
+    <displayName>DEATH VALLEY, CA US</displayName>
+    <minDate>1961-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4622</latitude>
+    <longitude>-116.8669</longitude>
+    <elevation>-59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043603</id>
+    <displayName>DEATH VALLEY, CA US</displayName>
+    <minDate>1911-06-01</minDate>
+    <maxDate>1961-03-31</maxDate>
+    <latitude>36.4622</latitude>
+    <longitude>-116.8669</longitude>
+    <elevation>-59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALAT0013</id>
+    <displayName>DEATSVILLE 3.4 NW, AL US</displayName>
+    <minDate>2009-04-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.6444</latitude>
+    <longitude>-86.4302</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8467</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00482415</id>
+    <displayName>DEAVER, WY US</displayName>
+    <minDate>1916-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.8919</latitude>
+    <longitude>-108.593</longitude>
+    <elevation>1251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9525</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171860</id>
+    <displayName>DEBOLIE MOUNTAIN, ME US</displayName>
+    <minDate>1922-06-01</minDate>
+    <maxDate>1923-07-31</maxDate>
+    <latitude>46.966667</latitude>
+    <longitude>-68.883333</longitude>
+    <elevation>603.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242260</id>
+    <displayName>DEBORGIA, MT US</displayName>
+    <minDate>1990-05-01</minDate>
+    <maxDate>2001-04-30</maxDate>
+    <latitude>47.41028</latitude>
+    <longitude>-115.35139</longitude>
+    <elevation>1158.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171865</id>
+    <displayName>DEBSCONEAG, ME US</displayName>
+    <minDate>1905-07-01</minDate>
+    <maxDate>1909-10-31</maxDate>
+    <latitude>45.783333</latitude>
+    <longitude>-68.966667</longitude>
+    <elevation>205.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8106</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122096</id>
+    <displayName>DECATUR 1 N, IN US</displayName>
+    <minDate>1931-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8483</latitude>
+    <longitude>-84.9299</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402385</id>
+    <displayName>DECATUR 1 N, TN US</displayName>
+    <minDate>1895-11-01</minDate>
+    <maxDate>1956-08-31</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-84.78333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9221</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401035</id>
+    <displayName>DECATUR 1 N, TN US</displayName>
+    <minDate>1934-02-01</minDate>
+    <maxDate>1952-02-24</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-84.78333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0013</id>
+    <displayName>DECATUR 1.2 SE, GA US</displayName>
+    <minDate>2008-10-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.76</latitude>
+    <longitude>-84.2816</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412338</id>
+    <displayName>DECATUR 2 SSW, TX US</displayName>
+    <minDate>1966-01-01</minDate>
+    <maxDate>1972-09-30</maxDate>
+    <latitude>33.2</latitude>
+    <longitude>-97.6</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMG0001</id>
+    <displayName>DECATUR 2.6 ENE, AL US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5827</latitude>
+    <longitude>-86.9444</longitude>
+    <elevation>171.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9204</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARBT0012</id>
+    <displayName>DECATUR 2.6 ESE, AR US</displayName>
+    <minDate>2009-09-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3275</latitude>
+    <longitude>-94.413</longitude>
+    <elevation>419.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWS0009</id>
+    <displayName>DECATUR 3.6 SSW, TX US</displayName>
+    <minDate>2010-07-28</minDate>
+    <maxDate>2011-12-15</maxDate>
+    <latitude>33.1895</latitude>
+    <longitude>-97.6171</longitude>
+    <elevation>264</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8281</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00112197</id>
+    <displayName>DECATUR 4 N, IL US</displayName>
+    <minDate>2005-02-01</minDate>
+    <maxDate>2009-02-28</maxDate>
+    <latitude>39.9078</latitude>
+    <longitude>-88.9563</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012216</id>
+    <displayName>DECATUR 4, AL US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-30</maxDate>
+    <latitude>34.61667</latitude>
+    <longitude>-86.98333</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMA0006</id>
+    <displayName>DECATUR 4.1 NNW, IL US</displayName>
+    <minDate>2008-02-16</minDate>
+    <maxDate>2009-03-08</maxDate>
+    <latitude>39.9049</latitude>
+    <longitude>-88.9712</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3902</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWS0010</id>
+    <displayName>DECATUR 4.8 WNW, TX US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.263</latitude>
+    <longitude>-97.666</longitude>
+    <elevation>248.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012209</id>
+    <displayName>DECATUR 5 SE, AL US</displayName>
+    <minDate>1998-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5569</latitude>
+    <longitude>-86.9502</longitude>
+    <elevation>178.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9281</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412336</id>
+    <displayName>DECATUR 7 N, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.33333</latitude>
+    <longitude>-97.58333</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9014</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402388</id>
+    <displayName>DECATUR 7 NE, TN US</displayName>
+    <minDate>1997-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6394</latitude>
+    <longitude>-84.665</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWS0007</id>
+    <displayName>DECATUR 8.4 S, TX US</displayName>
+    <minDate>2009-09-21</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.1122</latitude>
+    <longitude>-97.5908</longitude>
+    <elevation>211.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003887</id>
+    <displayName>DECATUR AIRPORT, IL US</displayName>
+    <minDate>2000-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.83444</latitude>
+    <longitude>-88.86556</longitude>
+    <elevation>205.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053852</id>
+    <displayName>DECATUR PRYOR FIELD, AL US</displayName>
+    <minDate>1996-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.6525</latitude>
+    <longitude>-86.94528</longitude>
+    <elevation>180.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012221</id>
+    <displayName>DECATUR SUBSTATION, AL US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.6</latitude>
+    <longitude>-86.96667</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012207</id>
+    <displayName>DECATUR, AL US</displayName>
+    <minDate>1880-02-02</minDate>
+    <maxDate>1969-05-31</maxDate>
+    <latitude>34.58333</latitude>
+    <longitude>-86.96667</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8179</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092592</id>
+    <displayName>DECATUR, GA US</displayName>
+    <minDate>1951-10-20</minDate>
+    <maxDate>1953-05-31</maxDate>
+    <latitude>33.76667</latitude>
+    <longitude>-84.36667</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00112193</id>
+    <displayName>DECATUR, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.8288</latitude>
+    <longitude>-88.9505</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00222241</id>
+    <displayName>DECATUR, MS US</displayName>
+    <minDate>1959-01-01</minDate>
+    <maxDate>1964-01-31</maxDate>
+    <latitude>32.43333</latitude>
+    <longitude>-89.11667</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8508</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412334</id>
+    <displayName>DECATUR, TX US</displayName>
+    <minDate>1904-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2733</latitude>
+    <longitude>-97.5769</longitude>
+    <elevation>297.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5699</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232132</id>
+    <displayName>DECATURVILLE, MO US</displayName>
+    <minDate>1905-11-01</minDate>
+    <maxDate>1907-07-31</maxDate>
+    <latitude>37.95</latitude>
+    <longitude>-92.6</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402390</id>
+    <displayName>DECATURVILLE, TN US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5952</latitude>
+    <longitude>-88.1175</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102422</id>
+    <displayName>DECEPTION CREEK, ID US</displayName>
+    <minDate>1936-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>47.73333</latitude>
+    <longitude>-116.48333</longitude>
+    <elevation>933</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6448</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122106</id>
+    <displayName>DECKER, IN US</displayName>
+    <minDate>1913-12-01</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>38.51667</latitude>
+    <longitude>-87.51667</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242266</id>
+    <displayName>DECKER, MT US</displayName>
+    <minDate>1904-06-01</minDate>
+    <maxDate>2004-12-31</maxDate>
+    <latitude>45.01167</latitude>
+    <longitude>-106.86361</longitude>
+    <elevation>1072.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132112</id>
+    <displayName>DECORAH 2 S, IA US</displayName>
+    <minDate>1948-04-01</minDate>
+    <maxDate>1950-10-31</maxDate>
+    <latitude>43.28333</latitude>
+    <longitude>-91.78333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAWH0001</id>
+    <displayName>DECORAH 7.9 ENE, IA US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3439</latitude>
+    <longitude>-91.6443</longitude>
+    <elevation>289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9609</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132110</id>
+    <displayName>DECORAH, IA US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.3043</latitude>
+    <longitude>-91.7952</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9238</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914156</id>
+    <displayName>DEDEDO, US</displayName>
+    <minDate>1978-07-01</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>13.52</latitude>
+    <longitude>144.8472</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9205</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEHN0028</id>
+    <displayName>DEDHAM 6.1 ESE, ME US</displayName>
+    <minDate>2011-10-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.672</latitude>
+    <longitude>-68.5412</longitude>
+    <elevation>67.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8438</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEHN0019</id>
+    <displayName>DEDHAM 6.1 ESE, ME US</displayName>
+    <minDate>2010-07-26</minDate>
+    <maxDate>2011-09-21</maxDate>
+    <latitude>44.6723</latitude>
+    <longitude>-68.5402</longitude>
+    <elevation>77.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEHN0018</id>
+    <displayName>DEDHAM 6.5 SSE, ME US</displayName>
+    <minDate>2010-07-27</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>44.6727</latitude>
+    <longitude>-68.5339</longitude>
+    <elevation>67.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6298</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352188</id>
+    <displayName>DEE, OR US</displayName>
+    <minDate>1913-03-22</minDate>
+    <maxDate>1914-09-06</maxDate>
+    <latitude>45.6</latitude>
+    <longitude>-121.6</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9064</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042327</id>
+    <displayName>DEEP CANYON LAB, CA US</displayName>
+    <minDate>1963-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.6513</latitude>
+    <longitude>-116.3763</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9394</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MDPC</id>
+    <displayName>DEEP CREEK BFA MONTANA, MT US</displayName>
+    <minDate>2003-10-28</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.3556</latitude>
+    <longitude>-113.1139</longitude>
+    <elevation>1627.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242272</id>
+    <displayName>DEEP CREEK PASS 2, MT US</displayName>
+    <minDate>1978-09-01</minDate>
+    <maxDate>1993-05-31</maxDate>
+    <latitude>46.36667</latitude>
+    <longitude>-111.13333</longitude>
+    <elevation>1658.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00312280</id>
+    <displayName>DEEP CREEK, NC US</displayName>
+    <minDate>1926-05-01</minDate>
+    <maxDate>1946-09-30</maxDate>
+    <latitude>36.33333</latitude>
+    <longitude>-78.81667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00312285</id>
+    <displayName>DEEP CREEK, NC US</displayName>
+    <minDate>1954-12-14</minDate>
+    <maxDate>1958-10-31</maxDate>
+    <latitude>35.46667</latitude>
+    <longitude>-83.43333</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9492</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422053</id>
+    <displayName>DEEP CREEK, UT US</displayName>
+    <minDate>1915-04-01</minDate>
+    <maxDate>1916-04-30</maxDate>
+    <latitude>39.866667</latitude>
+    <longitude>-114</longitude>
+    <elevation>1859.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00212050</id>
+    <displayName>DEEP PORTAGE, MN US</displayName>
+    <minDate>1982-11-01</minDate>
+    <maxDate>2011-07-31</maxDate>
+    <latitude>46.8998</latitude>
+    <longitude>-94.3873</longitude>
+    <elevation>448.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042330</id>
+    <displayName>DEEP SPRINGS 11 NW, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-08-31</maxDate>
+    <latitude>37.43333</latitude>
+    <longitude>-118.16667</longitude>
+    <elevation>3203.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042331</id>
+    <displayName>DEEP SPRINGS COLLEGE, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2007-06-20</maxDate>
+    <latitude>37.3738</latitude>
+    <longitude>-117.9802</longitude>
+    <elevation>1592.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8498</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0040</id>
+    <displayName>DEEPHAVEN 0.8 SW, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.9225</latitude>
+    <longitude>-93.5368</longitude>
+    <elevation>287.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00212130</id>
+    <displayName>DEEPHAVEN LAKE MINNETONKA, MN US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>1904-11-30</maxDate>
+    <latitude>44.929685</latitude>
+    <longitude>-93.522455</longitude>
+    <elevation>291.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00282209</id>
+    <displayName>DEEPWATER, NJ US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>39.68333</latitude>
+    <longitude>-75.5</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9369</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNOT0007</id>
+    <displayName>DEER CREEK 2.0 WSW, MN US</displayName>
+    <minDate>2012-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.3841</latitude>
+    <longitude>-95.3622</longitude>
+    <elevation>434.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8382</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422057</id>
+    <displayName>DEER CREEK DAM, UT US</displayName>
+    <minDate>1939-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.4047</latitude>
+    <longitude>-111.5286</longitude>
+    <elevation>1606.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042338</id>
+    <displayName>DEER CREEK FOREBAY, CA US</displayName>
+    <minDate>1969-11-01</minDate>
+    <maxDate>2008-06-09</maxDate>
+    <latitude>39.3</latitude>
+    <longitude>-120.83333</longitude>
+    <elevation>1357.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332090</id>
+    <displayName>DEER CREEK LAKE, OH US</displayName>
+    <minDate>1970-07-01</minDate>
+    <maxDate>1987-06-30</maxDate>
+    <latitude>39.6254</latitude>
+    <longitude>-83.2132</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042334</id>
+    <displayName>DEER CREEK PH, CA US</displayName>
+    <minDate>1907-01-01</minDate>
+    <maxDate>1970-04-30</maxDate>
+    <latitude>39.3</latitude>
+    <longitude>-120.85</longitude>
+    <elevation>1129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102444</id>
+    <displayName>DEER FLAT DAM, ID US</displayName>
+    <minDate>1916-03-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.5765</latitude>
+    <longitude>-116.7475</longitude>
+    <elevation>765</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7014</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0017</id>
+    <displayName>DEER HARBOR 1.4 NW, WA US</displayName>
+    <minDate>2009-01-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.6228</latitude>
+    <longitude>-123.0204</longitude>
+    <elevation>117.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IDER</id>
+    <displayName>DEER HAVEN IDAHO, ID US</displayName>
+    <minDate>1990-06-25</minDate>
+    <maxDate>2012-06-19</maxDate>
+    <latitude>43.1744</latitude>
+    <longitude>-115.1517</longitude>
+    <elevation>1691.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.969</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCB0006</id>
+    <displayName>DEER ISLAND 8.7 NW, OR US</displayName>
+    <minDate>2008-01-13</minDate>
+    <maxDate>2009-01-22</maxDate>
+    <latitude>45.9832</latitude>
+    <longitude>-123.0096</longitude>
+    <elevation>368.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3936</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEHN0011</id>
+    <displayName>DEER ISLE 0.5 E, ME US</displayName>
+    <minDate>2010-05-11</minDate>
+    <maxDate>2012-06-04</maxDate>
+    <latitude>44.2246</latitude>
+    <longitude>-68.6666</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2791</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTPW0002</id>
+    <displayName>DEER LODGE 0.9 NNE, MT US</displayName>
+    <minDate>2007-12-08</minDate>
+    <maxDate>2010-06-16</maxDate>
+    <latitude>46.4095</latitude>
+    <longitude>-112.7245</longitude>
+    <elevation>1385</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.398</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242273</id>
+    <displayName>DEER LODGE 2, MT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1959-02-28</maxDate>
+    <latitude>46.38333</latitude>
+    <longitude>-112.73333</longitude>
+    <elevation>1382</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7061</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242275</id>
+    <displayName>DEER LODGE 3 W, MT US</displayName>
+    <minDate>1959-04-15</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>46.391</latitude>
+    <longitude>-112.7974</longitude>
+    <elevation>1478.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9061</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMG0007</id>
+    <displayName>DEER LODGE 7.0 NW, TN US</displayName>
+    <minDate>2011-05-30</minDate>
+    <maxDate>2012-09-28</maxDate>
+    <latitude>36.2808</latitude>
+    <longitude>-84.8359</longitude>
+    <elevation>480.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WDEE</id>
+    <displayName>DEER MOUNTAIN WASHINGTON, WA US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.8019</latitude>
+    <longitude>-117.6103</longitude>
+    <elevation>1005.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MDEE</id>
+    <displayName>DEER MOUNTAIN WEST MONTANA, MT US</displayName>
+    <minDate>2001-03-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.0278</latitude>
+    <longitude>-114.0553</longitude>
+    <elevation>2219.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8728</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASP0014</id>
+    <displayName>DEER PARK 2.1 WSW, WA US</displayName>
+    <minDate>2008-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.9533</latitude>
+    <longitude>-117.4769</longitude>
+    <elevation>647.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.721</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASP0032</id>
+    <displayName>DEER PARK 3.7 NE, WA US</displayName>
+    <minDate>2011-07-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.0007</latitude>
+    <longitude>-117.3755</longitude>
+    <elevation>590.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00452066</id>
+    <displayName>DEER PARK AIRPORT, WA US</displayName>
+    <minDate>1911-05-01</minDate>
+    <maxDate>1977-03-31</maxDate>
+    <latitude>47.96667</latitude>
+    <longitude>-117.43333</longitude>
+    <elevation>670.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9276</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094119</id>
+    <displayName>DEER PARK AIRPORT, WA US</displayName>
+    <minDate>1998-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.97417</latitude>
+    <longitude>-117.42833</longitude>
+    <elevation>667.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202028</id>
+    <displayName>DEER PARK STATE FORE, MI US</displayName>
+    <minDate>1900-06-18</minDate>
+    <maxDate>1954-04-21</maxDate>
+    <latitude>46.61667</latitude>
+    <longitude>-85.61667</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9505</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082200</id>
+    <displayName>DEER PARK, FL US</displayName>
+    <minDate>1957-02-01</minDate>
+    <maxDate>1966-03-31</maxDate>
+    <latitude>28.1</latitude>
+    <longitude>-80.9</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7687</coverage>
+  </station>
+</stationCollection>

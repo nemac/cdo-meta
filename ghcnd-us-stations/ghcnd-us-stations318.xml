@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="318">
+  <station>
+    <id>GHCND:US1FLFL0008</id>
+    <displayName>PALM COAST 1.7 W, FL US</displayName>
+    <minDate>2009-08-17</minDate>
+    <maxDate>2012-12-12</maxDate>
+    <latitude>29.568</latitude>
+    <longitude>-81.243</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLFL0009</id>
+    <displayName>PALM COAST 5.9 SSW, FL US</displayName>
+    <minDate>2009-12-10</minDate>
+    <maxDate>2011-12-13</maxDate>
+    <latitude>29.4886</latitude>
+    <longitude>-81.2402</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086767</id>
+    <displayName>PALM COAST 6 NE, FL US</displayName>
+    <minDate>1999-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6319</latitude>
+    <longitude>-81.2061</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046630</id>
+    <displayName>PALM DESERT, CA US</displayName>
+    <minDate>1982-07-01</minDate>
+    <maxDate>1985-06-30</maxDate>
+    <latitude>33.73333</latitude>
+    <longitude>-116.38333</longitude>
+    <elevation>59.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0018</id>
+    <displayName>PALM HARBOR 0.5 NW, FL US</displayName>
+    <minDate>2007-10-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0923</latitude>
+    <longitude>-82.7687</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9413</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0002</id>
+    <displayName>PALM HARBOR 2.2 SSE, FL US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0569</latitude>
+    <longitude>-82.7537</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0043</id>
+    <displayName>PALM HARBOR 3.4 ESE, FL US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>28.0671</latitude>
+    <longitude>-82.7119</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0038</id>
+    <displayName>PALM HARBOR 3.4 SE, FL US</displayName>
+    <minDate>2011-01-03</minDate>
+    <maxDate>2012-05-10</maxDate>
+    <latitude>28.0503</latitude>
+    <longitude>-82.7265</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0020</id>
+    <displayName>PALM HARBOR 3.4 SE, FL US</displayName>
+    <minDate>2007-10-21</minDate>
+    <maxDate>2011-06-15</maxDate>
+    <latitude>28.0893</latitude>
+    <longitude>-82.6973</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0024</id>
+    <displayName>PALM RIVER 3.9 E, FL US</displayName>
+    <minDate>2011-05-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.2678</latitude>
+    <longitude>-81.7148</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBV0002</id>
+    <displayName>PALM SHORES 1.4 W, FL US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>28.1882</latitude>
+    <longitude>-80.6805</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7293</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBV0016</id>
+    <displayName>PALM SHORES 2.9 NW, FL US</displayName>
+    <minDate>2007-11-15</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>28.2118</latitude>
+    <longitude>-80.6961</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBV0020</id>
+    <displayName>PALM SHORES 4.3 NNW, FL US</displayName>
+    <minDate>2008-05-29</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>28.2439</latitude>
+    <longitude>-80.6842</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9374</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093138</id>
+    <displayName>PALM SPRINGS REGIONAL AIRPORT, CA US</displayName>
+    <minDate>1998-02-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.82806</latitude>
+    <longitude>-116.50528</longitude>
+    <elevation>128.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046635</id>
+    <displayName>PALM SPRINGS, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8275</latitude>
+    <longitude>-116.5097</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9081</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCMR018</id>
+    <displayName>PALM VALLEY 2.2 SSW, TX US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2012-02-08</maxDate>
+    <latitude>26.1757</latitude>
+    <longitude>-97.77</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.424</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296532</id>
+    <displayName>PALMA 2 NE, NM US</displayName>
+    <minDate>1905-05-01</minDate>
+    <maxDate>1968-11-10</maxDate>
+    <latitude>35</latitude>
+    <longitude>-105.45</longitude>
+    <elevation>1966.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7576</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666725</id>
+    <displayName>PALMA SOLA, PR US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.3169</latitude>
+    <longitude>-65.8663</longitude>
+    <elevation>466</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666730</id>
+    <displayName>PALMAREJO VEGA BAJA, PR US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.3849</latitude>
+    <longitude>-66.43</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666740</id>
+    <displayName>PALMARITO, PR US</displayName>
+    <minDate>1963-03-01</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>18.28333</latitude>
+    <longitude>-66.35</longitude>
+    <elevation>472.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023182</id>
+    <displayName>PALMDALE AIRPORT, CA US</displayName>
+    <minDate>1934-01-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.62944</latitude>
+    <longitude>-118.08361</longitude>
+    <elevation>769.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6111</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046624</id>
+    <displayName>PALMDALE, CA US</displayName>
+    <minDate>1903-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.5883</latitude>
+    <longitude>-118.0938</longitude>
+    <elevation>796.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10merr005</id>
+    <displayName>PALMER 0.2 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-06-26</maxDate>
+    <latitude>41.2202</latitude>
+    <longitude>-98.2546</longitude>
+    <elevation>549.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506871</id>
+    <displayName>PALMER 1 N, AK US</displayName>
+    <minDate>1954-11-02</minDate>
+    <maxDate>1977-12-25</maxDate>
+    <latitude>61.61667</latitude>
+    <longitude>-149.1</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKMS0011</id>
+    <displayName>PALMER 1.7 WNW, AK US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>61.6066</latitude>
+    <longitude>-149.1577</longitude>
+    <elevation>104.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506872</id>
+    <displayName>PALMER 2 ESE, AK US</displayName>
+    <minDate>1961-06-01</minDate>
+    <maxDate>1962-12-18</maxDate>
+    <latitude>61.58333</latitude>
+    <longitude>-149.05</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456295</id>
+    <displayName>PALMER 3 ESE, WA US</displayName>
+    <minDate>1924-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.3058</latitude>
+    <longitude>-121.8513</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9923</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506873</id>
+    <displayName>PALMER 4 SE, AK US</displayName>
+    <minDate>1956-06-23</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>61.53333</latitude>
+    <longitude>-149.08333</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506874</id>
+    <displayName>PALMER 4 SSE, AK US</displayName>
+    <minDate>1954-11-01</minDate>
+    <maxDate>1955-07-31</maxDate>
+    <latitude>61.53333</latitude>
+    <longitude>-149.08333</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505721</id>
+    <displayName>PALMER 4 SSE, AK US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1953-06-30</maxDate>
+    <latitude>61.53333</latitude>
+    <longitude>-149.08333</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9578</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10merr007</id>
+    <displayName>PALMER 4.7 SSE, NE US</displayName>
+    <minDate>2007-01-07</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>41.1563</latitude>
+    <longitude>-98.2311</longitude>
+    <elevation>548</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7572</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10nanc003</id>
+    <displayName>PALMER 9.2 NE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3315</latitude>
+    <longitude>-98.1584</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506876</id>
+    <displayName>PALMER CORRECTION CE, AK US</displayName>
+    <minDate>1975-06-01</minDate>
+    <maxDate>1978-10-31</maxDate>
+    <latitude>61.7</latitude>
+    <longitude>-148.98333</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500040</id>
+    <displayName>PALMER CORRECTION CE, AK US</displayName>
+    <minDate>1966-05-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>61.7</latitude>
+    <longitude>-148.98333</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506870</id>
+    <displayName>PALMER JOB CORPS, AK US</displayName>
+    <minDate>1948-11-20</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>61.5888</latitude>
+    <longitude>-149.0992</longitude>
+    <elevation>65.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8686</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0114</id>
+    <displayName>PALMER LAKE 1.1 ENE, CO US</displayName>
+    <minDate>2003-01-02</minDate>
+    <maxDate>2007-01-06</maxDate>
+    <latitude>39.121</latitude>
+    <longitude>-104.8869</longitude>
+    <elevation>2275</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8145</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056280</id>
+    <displayName>PALMER LAKE, CO US</displayName>
+    <minDate>1899-08-01</minDate>
+    <maxDate>2012-02-29</maxDate>
+    <latitude>39.1202</latitude>
+    <longitude>-104.917</longitude>
+    <elevation>2212.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025331</id>
+    <displayName>PALMER MUNICIPAL AIRPORT, AK US</displayName>
+    <minDate>1997-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>61.5961</latitude>
+    <longitude>-149.0916</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506880</id>
+    <displayName>PALMER OBSERVATORY, AK US</displayName>
+    <minDate>1975-08-01</minDate>
+    <maxDate>1978-10-31</maxDate>
+    <latitude>61.6</latitude>
+    <longitude>-149.13333</longitude>
+    <elevation>100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256490</id>
+    <displayName>PALMER, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1908-03-31</maxDate>
+    <latitude>41.233333</latitude>
+    <longitude>-98.25</longitude>
+    <elevation>547.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9019</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016246</id>
+    <displayName>PALMERDALE, AL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.7449</latitude>
+    <longitude>-86.6418</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9583</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACB0002</id>
+    <displayName>PALMERTON 3.9 NE, PA US</displayName>
+    <minDate>2006-02-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8459</latitude>
+    <longitude>-75.5714</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACB0004</id>
+    <displayName>PALMERTON 5.8 ENE, PA US</displayName>
+    <minDate>2006-04-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.839</latitude>
+    <longitude>-75.5185</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366689</id>
+    <displayName>PALMERTON, PA US</displayName>
+    <minDate>1917-04-01</minDate>
+    <maxDate>1997-12-31</maxDate>
+    <latitude>40.8</latitude>
+    <longitude>-75.61667</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMA0003</id>
+    <displayName>PALMETTO 1.2 W, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.5237</latitude>
+    <longitude>-82.5975</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8605</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFT0018</id>
+    <displayName>PALMETTO 3.2 NW, GA US</displayName>
+    <minDate>2008-11-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5601</latitude>
+    <longitude>-84.6998</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265931</id>
+    <displayName>PALMETTO, NV US</displayName>
+    <minDate>1890-02-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.46667</latitude>
+    <longitude>-117.76667</longitude>
+    <elevation>1800.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3344</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406950</id>
+    <displayName>PALMETTO, TN US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>1977-03-31</maxDate>
+    <latitude>35.48333</latitude>
+    <longitude>-86.58333</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOMA0003</id>
+    <displayName>PALMYRA 0.1 SSW, MO US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2009-01-01</maxDate>
+    <latitude>39.7953</latitude>
+    <longitude>-91.5256</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5597</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10otoe016</id>
+    <displayName>PALMYRA 0.5 W, NE US</displayName>
+    <minDate>2007-06-07</minDate>
+    <maxDate>2009-08-20</maxDate>
+    <latitude>40.7058</latitude>
+    <longitude>-96.3965</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3635</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA127</id>
+    <displayName>PALMYRA 1.0 W, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.7938</latitude>
+    <longitude>-91.5439</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10otoe004</id>
+    <displayName>PALMYRA 1.5 S, NE US</displayName>
+    <minDate>2007-03-24</minDate>
+    <maxDate>2012-11-17</maxDate>
+    <latitude>40.6821</latitude>
+    <longitude>-96.3876</longitude>
+    <elevation>363.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6181</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYWN0006</id>
+    <displayName>PALMYRA 1.6 NW, NY US</displayName>
+    <minDate>2009-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0795</latitude>
+    <longitude>-77.2526</longitude>
+    <elevation>151.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00126699</id>
+    <displayName>PALMYRA 2, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>38.41667</latitude>
+    <longitude>-86.11667</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALB0009</id>
+    <displayName>PALMYRA 2.9 SSE, PA US</displayName>
+    <minDate>2010-03-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2717</latitude>
+    <longitude>-76.5731</longitude>
+    <elevation>161.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446491</id>
+    <displayName>PALMYRA 3 S, VA US</displayName>
+    <minDate>1957-04-25</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.8141</latitude>
+    <longitude>-78.2645</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHR0006</id>
+    <displayName>PALMYRA 3.4 E, IN US</displayName>
+    <minDate>2008-05-03</minDate>
+    <maxDate>2009-08-29</maxDate>
+    <latitude>38.404</latitude>
+    <longitude>-86.0512</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2769</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHR0010</id>
+    <displayName>PALMYRA 3.5 ESE, IN US</displayName>
+    <minDate>2009-09-20</minDate>
+    <maxDate>2012-12-03</maxDate>
+    <latitude>38.3954</latitude>
+    <longitude>-86.0512</longitude>
+    <elevation>258.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOMA0005</id>
+    <displayName>PALMYRA 4.5 NNW, MO US</displayName>
+    <minDate>2011-03-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8536</latitude>
+    <longitude>-91.5641</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9373</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10otoe002</id>
+    <displayName>PALMYRA 6.6 SSE, NE US</displayName>
+    <minDate>2007-03-22</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>40.6101</latitude>
+    <longitude>-96.3665</longitude>
+    <elevation>401.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00126697</id>
+    <displayName>PALMYRA, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2010-10-27</maxDate>
+    <latitude>38.4075</latitude>
+    <longitude>-86.1105</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236493</id>
+    <displayName>PALMYRA, MO US</displayName>
+    <minDate>1893-01-03</minDate>
+    <maxDate>2011-01-11</maxDate>
+    <latitude>39.7683</latitude>
+    <longitude>-91.5138</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8472</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256494</id>
+    <displayName>PALMYRA, NE US</displayName>
+    <minDate>1898-07-01</minDate>
+    <maxDate>1913-05-31</maxDate>
+    <latitude>40.716667</latitude>
+    <longitude>-96.366667</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8737</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366694</id>
+    <displayName>PALMYRA, PA US</displayName>
+    <minDate>1956-09-01</minDate>
+    <maxDate>1957-03-10</maxDate>
+    <latitude>40.3</latitude>
+    <longitude>-76.58333</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASC0028</id>
+    <displayName>PALO ALTO 0.8 NNE, CA US</displayName>
+    <minDate>2009-09-21</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>37.4098</latitude>
+    <longitude>-122.1348</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7717</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASC0017</id>
+    <displayName>PALO ALTO 1.2 NE, CA US</displayName>
+    <minDate>2008-11-23</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.4516</latitude>
+    <longitude>-122.1486</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.306</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASC0014</id>
+    <displayName>PALO ALTO 1.7 NE, CA US</displayName>
+    <minDate>2008-11-13</minDate>
+    <maxDate>2010-11-22</maxDate>
+    <latitude>37.419</latitude>
+    <longitude>-122.1214</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046646</id>
+    <displayName>PALO ALTO, CA US</displayName>
+    <minDate>1953-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.4436</latitude>
+    <longitude>-122.1402</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046642</id>
+    <displayName>PALO ALTO, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>37.43333</latitude>
+    <longitude>-122.16667</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00226670</id>
+    <displayName>PALO ALTO, MS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1902-12-31</maxDate>
+    <latitude>33.65</latitude>
+    <longitude>-88.85</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9493</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASH0005</id>
+    <displayName>PALO CEDRO 2.7 NNE, CA US</displayName>
+    <minDate>2008-12-02</minDate>
+    <maxDate>2009-05-27</maxDate>
+    <latitude>40.6013</latitude>
+    <longitude>-122.2221</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7062</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003944</id>
+    <displayName>PALO PINTO DEMPSEY AF, TX US</displayName>
+    <minDate>1968-01-03</minDate>
+    <maxDate>1970-12-18</maxDate>
+    <latitude>32.78333</latitude>
+    <longitude>-98.26667</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416766</id>
+    <displayName>PALO PINTO, TX US</displayName>
+    <minDate>1949-03-24</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.7663</latitude>
+    <longitude>-98.3083</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296540</id>
+    <displayName>PALO VERDE 1, NM US</displayName>
+    <minDate>1911-08-01</minDate>
+    <maxDate>1947-12-31</maxDate>
+    <latitude>35.966667</latitude>
+    <longitude>-104.183333</longitude>
+    <elevation>1792.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00517664</id>
+    <displayName>PALOLO VALLEY 718, HI US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>21.32278</latitude>
+    <longitude>-157.77194</longitude>
+    <elevation>287.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046650</id>
+    <displayName>PALOMA, CA US</displayName>
+    <minDate>1943-05-01</minDate>
+    <maxDate>1999-01-31</maxDate>
+    <latitude>36.35028</latitude>
+    <longitude>-121.54</longitude>
+    <elevation>541</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046657</id>
+    <displayName>PALOMAR MOUNTAIN OBSVTRY, CA US</displayName>
+    <minDate>1901-01-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.378</latitude>
+    <longitude>-116.84</longitude>
+    <elevation>1691.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXZV0003</id>
+    <displayName>PALOMO LODGE, TX US</displayName>
+    <minDate>2008-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.8853</latitude>
+    <longitude>-99.8555</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9274</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0050</id>
+    <displayName>PALOS PARK 1.3 SW, IL US</displayName>
+    <minDate>2007-03-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6528</latitude>
+    <longitude>-87.8631</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0132</id>
+    <displayName>PALOS PARK 1.7 WSW, IL US</displayName>
+    <minDate>2009-02-20</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>41.6585</latitude>
+    <longitude>-87.8759</longitude>
+    <elevation>218.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2662</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0173</id>
+    <displayName>PALOS PARK 3.6 WNW, IL US</displayName>
+    <minDate>2010-11-21</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>41.6768</latitude>
+    <longitude>-87.9114</longitude>
+    <elevation>217.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9206</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046663</id>
+    <displayName>PALOS VERDES ES FC43D, CA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.7997</latitude>
+    <longitude>-118.3911</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWM0005</id>
+    <displayName>PALOUSE 3.2 SSW, WA US</displayName>
+    <minDate>2008-12-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.8658</latitude>
+    <longitude>-117.0899</longitude>
+    <elevation>772.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416776</id>
+    <displayName>PAMPA 2, TX US</displayName>
+    <minDate>1964-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.55444</latitude>
+    <longitude>-100.97361</longitude>
+    <elevation>960.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416777</id>
+    <displayName>PAMPA 3 E, TX US</displayName>
+    <minDate>2005-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.56639</latitude>
+    <longitude>-100.92889</longitude>
+    <elevation>972</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023053</id>
+    <displayName>PAMPA, TX US</displayName>
+    <minDate>1908-04-01</minDate>
+    <maxDate>1964-01-31</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-100.96667</longitude>
+    <elevation>985.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116579</id>
+    <displayName>PANA 3 E, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.3686</latitude>
+    <longitude>-89.0866</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCN0003</id>
+    <displayName>PANA 6.2 NNE, IL US</displayName>
+    <minDate>2007-01-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4736</latitude>
+    <longitude>-89.0462</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265950</id>
+    <displayName>PANACA, NV US</displayName>
+    <minDate>1898-01-01</minDate>
+    <maxDate>1909-05-31</maxDate>
+    <latitude>37.8</latitude>
+    <longitude>-114.383333</longitude>
+    <elevation>1447.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086828</id>
+    <displayName>PANACEA, FL US</displayName>
+    <minDate>1940-04-25</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>29.99889</latitude>
+    <longitude>-84.485</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2037</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10lanc015</id>
+    <displayName>PANAMA 1.3 SE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5847</latitude>
+    <longitude>-96.4922</longitude>
+    <elevation>434</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9271</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086841</id>
+    <displayName>PANAMA CITY 2, FL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>30.16667</latitude>
+    <longitude>-85.7</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003882</id>
+    <displayName>PANAMA CITY BAY CO AIRPORT, FL US</displayName>
+    <minDate>1998-07-15</minDate>
+    <maxDate>2010-05-10</maxDate>
+    <latitude>30.21194</latitude>
+    <longitude>-85.68278</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086842</id>
+    <displayName>PANAMA CITY, FL US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>30.2491</latitude>
+    <longitude>-85.6605</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086836</id>
+    <displayName>PANAMA CITY, FL US</displayName>
+    <minDate>1913-07-20</minDate>
+    <maxDate>1948-06-30</maxDate>
+    <latitude>30.16667</latitude>
+    <longitude>-85.7</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPAN</id>
+    <displayName>PANAMINT CALIFORNIA, CA US</displayName>
+    <minDate>1988-03-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.1203</latitude>
+    <longitude>-117.0878</longitude>
+    <elevation>2097</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086855</id>
+    <displayName>PANASOFFKEE, FL US</displayName>
+    <minDate>1908-01-01</minDate>
+    <maxDate>1908-05-31</maxDate>
+    <latitude>28.75</latitude>
+    <longitude>-82.1</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NPAN</id>
+    <displayName>PANCAKE NEVADA, NV US</displayName>
+    <minDate>1986-09-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.3036</latitude>
+    <longitude>-116.1925</longitude>
+    <elevation>1585</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0005P02S</id>
+    <displayName>PANCHUELA, NM US</displayName>
+    <minDate>1980-06-04</minDate>
+    <maxDate>2001-10-24</maxDate>
+    <latitude>35.8333</latitude>
+    <longitude>-105.6667</longitude>
+    <elevation>2560.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9111</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416780</id>
+    <displayName>PANDALE 1 N, TX US</displayName>
+    <minDate>1909-08-06</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>30.20611</latitude>
+    <longitude>-101.5575</longitude>
+    <elevation>514.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.578</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="401">
+  <station>
+    <id>GHCND:US10polk001</id>
+    <displayName>STROMSBURG 0.9 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.113</latitude>
+    <longitude>-97.5828</longitude>
+    <elevation>506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10polk006</id>
+    <displayName>STROMSBURG 1.6 SE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.0972</latitude>
+    <longitude>-97.578</longitude>
+    <elevation>498</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10polk002</id>
+    <displayName>STROMSBURG 6.1 W, NE US</displayName>
+    <minDate>2007-02-25</minDate>
+    <maxDate>2008-10-23</maxDate>
+    <latitude>41.1168</latitude>
+    <longitude>-97.7164</longitude>
+    <elevation>523</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2224</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york023</id>
+    <displayName>STROMSBURG 6.8 SE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0357</latitude>
+    <longitude>-97.5205</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207932</id>
+    <displayName>STRONACH DAM, US</displayName>
+    <minDate>1915-07-01</minDate>
+    <maxDate>1935-12-31</maxDate>
+    <latitude>44.25</latitude>
+    <longitude>-86.383333</longitude>
+    <elevation>289.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488647</id>
+    <displayName>STRONER 2 NW, WY US</displayName>
+    <minDate>1959-05-01</minDate>
+    <maxDate>1969-01-31</maxDate>
+    <latitude>44.78333</latitude>
+    <longitude>-105.08333</longitude>
+    <elevation>1220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILHD0001</id>
+    <displayName>STRONGHURST 0.4 SSW, IL US</displayName>
+    <minDate>2007-09-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7417</latitude>
+    <longitude>-90.913</longitude>
+    <elevation>212.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9422</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368589</id>
+    <displayName>STRONGSTOWN, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2010-03-29</maxDate>
+    <latitude>40.55</latitude>
+    <longitude>-78.91667</longitude>
+    <elevation>573</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3194</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHCY0003</id>
+    <displayName>STRONGSVILLE 1.1 NNE, OH US</displayName>
+    <minDate>2010-07-10</minDate>
+    <maxDate>2012-05-16</maxDate>
+    <latitude>41.3276</latitude>
+    <longitude>-81.8253</longitude>
+    <elevation>251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00338095</id>
+    <displayName>STRONGSVILLE, OH US</displayName>
+    <minDate>1896-04-01</minDate>
+    <maxDate>1903-10-31</maxDate>
+    <latitude>41.233333</latitude>
+    <longitude>-81.866667</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00058022</id>
+    <displayName>STRONTIA SPRINGS DAM, CO US</displayName>
+    <minDate>1984-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4344</latitude>
+    <longitude>-105.1208</longitude>
+    <elevation>1780</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398095</id>
+    <displayName>STROOL 2 N, SD US</displayName>
+    <minDate>1949-08-01</minDate>
+    <maxDate>1952-12-19</maxDate>
+    <latitude>45.53333</latitude>
+    <longitude>-102.81667</longitude>
+    <elevation>869</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8213</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348563</id>
+    <displayName>STROUD, OK US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>35.7976</latitude>
+    <longitude>-96.6657</longitude>
+    <elevation>275.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMN0006</id>
+    <displayName>STROUDSBURG 4.0 W, PA US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2008-03-09</maxDate>
+    <latitude>40.982</latitude>
+    <longitude>-75.2748</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9154</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMN0007</id>
+    <displayName>STROUDSBURG 5.1 W, PA US</displayName>
+    <minDate>2011-06-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9887</latitude>
+    <longitude>-75.2959</longitude>
+    <elevation>254.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7091</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368596</id>
+    <displayName>STROUDSBURG, PA US</displayName>
+    <minDate>1910-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.0125</latitude>
+    <longitude>-75.1906</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368601</id>
+    <displayName>STROUDSBURG, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.98333</latitude>
+    <longitude>-75.18333</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478259</id>
+    <displayName>STRUM 4 S, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.4965</latitude>
+    <longitude>-91.3965</longitude>
+    <elevation>297.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9412</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00428376</id>
+    <displayName>STRWBERY RES E PRTAL, UT US</displayName>
+    <minDate>1956-05-01</minDate>
+    <maxDate>1977-10-31</maxDate>
+    <latitude>40.16667</latitude>
+    <longitude>-111.18333</longitude>
+    <elevation>2321.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4176</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422319</id>
+    <displayName>STRWBERY RES E PRTAL, UT US</displayName>
+    <minDate>1905-04-11</minDate>
+    <maxDate>1955-10-31</maxDate>
+    <latitude>40.16667</latitude>
+    <longitude>-111.18333</longitude>
+    <elevation>2321.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3552</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247925</id>
+    <displayName>STRYKER, MT US</displayName>
+    <minDate>1914-06-13</minDate>
+    <maxDate>1920-03-31</maxDate>
+    <latitude>48.633333</latitude>
+    <longitude>-114.7</longitude>
+    <elevation>998.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8523</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00338110</id>
+    <displayName>STRYKER, OH US</displayName>
+    <minDate>1962-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5043</latitude>
+    <longitude>-84.4294</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8313</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMT0018</id>
+    <displayName>STUART 1.0 ESE, FL US</displayName>
+    <minDate>2011-06-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.1883</latitude>
+    <longitude>-80.2279</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8682</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMT0007</id>
+    <displayName>STUART 3.7 SW, FL US</displayName>
+    <minDate>2008-07-13</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.1335</latitude>
+    <longitude>-80.2079</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9181</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMT0011</id>
+    <displayName>STUART 5.0 SE, FL US</displayName>
+    <minDate>2008-11-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.1181</latitude>
+    <longitude>-80.1964</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9042</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAPR0004</id>
+    <displayName>STUART 6.7 SSE, VA US</displayName>
+    <minDate>2010-05-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.548</latitude>
+    <longitude>-80.236</longitude>
+    <elevation>353.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0029</id>
+    <displayName>STUART ISLAND 0.2 SW, WA US</displayName>
+    <minDate>2010-01-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.678</latitude>
+    <longitude>-123.2154</longitude>
+    <elevation>79.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4022</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0032</id>
+    <displayName>STUART ISLAND 0.7 SW, WA US</displayName>
+    <minDate>2010-06-19</minDate>
+    <maxDate>2012-09-03</maxDate>
+    <latitude>48.6706</latitude>
+    <longitude>-123.2162</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013C01S</id>
+    <displayName>STUART MOUNTAIN, MT US</displayName>
+    <minDate>1994-09-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47</latitude>
+    <longitude>-113.9167</longitude>
+    <elevation>2255.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088620</id>
+    <displayName>STUART, FL US</displayName>
+    <minDate>1935-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.1897</latitude>
+    <longitude>-80.2397</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9394</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448169</id>
+    <displayName>STUART, VA US</displayName>
+    <minDate>1913-05-14</minDate>
+    <maxDate>1960-02-06</maxDate>
+    <latitude>36.6364</latitude>
+    <longitude>-80.2514</longitude>
+    <elevation>419.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448170</id>
+    <displayName>STUART, VA US</displayName>
+    <minDate>1960-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.6364</latitude>
+    <longitude>-80.2514</longitude>
+    <elevation>419.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9299</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAAG0004</id>
+    <displayName>STUARTS DRAFT 1.2 NNW, VA US</displayName>
+    <minDate>2011-06-08</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>38.0416</latitude>
+    <longitude>-79.0344</longitude>
+    <elevation>439.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9298</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448172</id>
+    <displayName>STUARTS DRAFT, VA US</displayName>
+    <minDate>1945-11-01</minDate>
+    <maxDate>1976-12-31</maxDate>
+    <latitude>38.01</latitude>
+    <longitude>-79.0488</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9419</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147904</id>
+    <displayName>STUDLEY 9 NNW, KS US</displayName>
+    <minDate>1969-10-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>39.4707</latitude>
+    <longitude>-100.2185</longitude>
+    <elevation>765</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418715</id>
+    <displayName>STUDY BUTTE 30 NNE, TX US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2008-08-31</maxDate>
+    <latitude>29.58111</latitude>
+    <longitude>-103.35389</longitude>
+    <elevation>942.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8551</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418714</id>
+    <displayName>STUDY BUTTE, TX US</displayName>
+    <minDate>1993-05-01</minDate>
+    <maxDate>2007-03-07</maxDate>
+    <latitude>29.32861</latitude>
+    <longitude>-103.55306</longitude>
+    <elevation>781.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8589</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418713</id>
+    <displayName>STUDY BUTTE, TX US</displayName>
+    <minDate>1923-03-01</minDate>
+    <maxDate>1929-12-31</maxDate>
+    <latitude>29.31667</latitude>
+    <longitude>-103.53333</longitude>
+    <elevation>793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368610</id>
+    <displayName>STUMP CREEK, PA US</displayName>
+    <minDate>1941-05-24</minDate>
+    <maxDate>1969-10-31</maxDate>
+    <latitude>41.01667</latitude>
+    <longitude>-78.83333</longitude>
+    <elevation>402.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007M34S</id>
+    <displayName>STUMP LAKES, CO US</displayName>
+    <minDate>1986-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.4833</latitude>
+    <longitude>-107.6333</longitude>
+    <elevation>3413.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9415</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478267</id>
+    <displayName>STURGEON BAY EXPERIMENTAL FAR, WI US</displayName>
+    <minDate>1905-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8797</latitude>
+    <longitude>-87.3355</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0005</id>
+    <displayName>STURGIS 0.7 WSW, SD US</displayName>
+    <minDate>2007-07-18</minDate>
+    <maxDate>2008-10-11</maxDate>
+    <latitude>44.4076</latitude>
+    <longitude>-103.5283</longitude>
+    <elevation>1079.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9513</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0015</id>
+    <displayName>STURGIS 1.0 S, SD US</displayName>
+    <minDate>2007-07-25</minDate>
+    <maxDate>2012-07-08</maxDate>
+    <latitude>44.3974</latitude>
+    <longitude>-103.5149</longitude>
+    <elevation>1082</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4357</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398100</id>
+    <displayName>STURGIS 21 E, SD US</displayName>
+    <minDate>1974-10-24</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>44.38333</latitude>
+    <longitude>-103.08333</longitude>
+    <elevation>869</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0013</id>
+    <displayName>STURGIS 4.1 WSW, SD US</displayName>
+    <minDate>2008-04-06</minDate>
+    <maxDate>2011-10-04</maxDate>
+    <latitude>44.3929</latitude>
+    <longitude>-103.5941</longitude>
+    <elevation>1183.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2522</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MISJ0003</id>
+    <displayName>STURGIS 4.5 WSW, MI US</displayName>
+    <minDate>2011-12-22</minDate>
+    <maxDate>2012-10-16</maxDate>
+    <latitude>41.7807</latitude>
+    <longitude>-85.5044</longitude>
+    <elevation>265.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8733</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYUN0001</id>
+    <displayName>STURGIS 5.4 ENE, KY US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5699</latitude>
+    <longitude>-87.8927</longitude>
+    <elevation>113.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207946</id>
+    <displayName>STURGIS, MI US</displayName>
+    <minDate>1923-01-01</minDate>
+    <maxDate>1925-12-31</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-85.41667</longitude>
+    <elevation>256.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036920</id>
+    <displayName>STUTTGART 9 ESE, AR US</displayName>
+    <minDate>1890-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4744</latitude>
+    <longitude>-91.4172</longitude>
+    <elevation>60.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7752</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036918</id>
+    <displayName>STUTTGART, AR US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>34.4763</latitude>
+    <longitude>-91.538</longitude>
+    <elevation>68</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508785</id>
+    <displayName>STUYAHOK, AK US</displayName>
+    <minDate>1938-07-01</minDate>
+    <maxDate>1940-05-25</maxDate>
+    <latitude>62.1667</latitude>
+    <longitude>-161.8333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308317</id>
+    <displayName>STUYVESANT 5 N, NY US</displayName>
+    <minDate>2000-12-01</minDate>
+    <maxDate>2008-10-24</maxDate>
+    <latitude>42.46083</latitude>
+    <longitude>-73.75</longitude>
+    <elevation>86.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIBN0006</id>
+    <displayName>SUAMICO 4.4 WNW, WI US</displayName>
+    <minDate>2010-04-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6611</latitude>
+    <longitude>-88.1178</longitude>
+    <elevation>210.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9225</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036928</id>
+    <displayName>SUBIACO, AR US</displayName>
+    <minDate>1897-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3028</latitude>
+    <longitude>-93.6369</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108802</id>
+    <displayName>SUBLETT GUARD STATION, ID US</displayName>
+    <minDate>1914-08-01</minDate>
+    <maxDate>1922-10-31</maxDate>
+    <latitude>42.36667</latitude>
+    <longitude>-112.96667</longitude>
+    <elevation>1769.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2641</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLE0018</id>
+    <displayName>SUBLETTE 0.1 NNE, IL US</displayName>
+    <minDate>2012-02-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.6454</latitude>
+    <longitude>-89.2308</longitude>
+    <elevation>280.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSHS0001</id>
+    <displayName>SUBLETTE 0.6 SW, KS US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2008-06-26</maxDate>
+    <latitude>37.477</latitude>
+    <longitude>-100.8537</longitude>
+    <elevation>899.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147922</id>
+    <displayName>SUBLETTE 7 WSW, KS US</displayName>
+    <minDate>1918-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.4415</latitude>
+    <longitude>-100.9793</longitude>
+    <elevation>898.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147919</id>
+    <displayName>SUBLETTE NEAR, KS US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>1945-06-30</maxDate>
+    <latitude>37.35</latitude>
+    <longitude>-100.866667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098418</id>
+    <displayName>SUCHES 8 NW, GA US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7513</latitude>
+    <longitude>-84.1482</longitude>
+    <elevation>597.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9618</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098414</id>
+    <displayName>SUCHES, GA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.68333</latitude>
+    <longitude>-84.01667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007E12S</id>
+    <displayName>SUCKER CREEK, WY US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.7167</latitude>
+    <longitude>-107.4</longitude>
+    <elevation>2706.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048627</id>
+    <displayName>SUEY RANCH, CA US</displayName>
+    <minDate>1959-08-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>35</latitude>
+    <longitude>-120.38333</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308321</id>
+    <displayName>SUFFERN, NY US</displayName>
+    <minDate>1940-06-24</minDate>
+    <maxDate>1955-08-31</maxDate>
+    <latitude>41.11667</latitude>
+    <longitude>-74.11667</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308322</id>
+    <displayName>SUFFERN, NY US</displayName>
+    <minDate>1956-05-01</minDate>
+    <maxDate>2009-10-02</maxDate>
+    <latitude>41.11278</latitude>
+    <longitude>-74.15722</longitude>
+    <elevation>82.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7501</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VASFC001</id>
+    <displayName>SUFFOLK 1.6 W, VA US</displayName>
+    <minDate>2007-02-13</minDate>
+    <maxDate>2009-07-11</maxDate>
+    <latitude>36.7042</latitude>
+    <longitude>-76.6674</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8727</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VASFC005</id>
+    <displayName>SUFFOLK 13.3 NE, VA US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>36.8758</latitude>
+    <longitude>-76.4257</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448192</id>
+    <displayName>SUFFOLK LAKE KILBY, VA US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.7297</latitude>
+    <longitude>-76.6015</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00228530</id>
+    <displayName>SUFFOLK, MS US</displayName>
+    <minDate>1901-02-01</minDate>
+    <maxDate>1914-12-31</maxDate>
+    <latitude>31.46667</latitude>
+    <longitude>-90.96667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247943</id>
+    <displayName>SUFFOLK, MT US</displayName>
+    <minDate>1916-02-10</minDate>
+    <maxDate>1921-01-31</maxDate>
+    <latitude>47.483333</latitude>
+    <longitude>-109.433333</longitude>
+    <elevation>1030.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7332</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00238160</id>
+    <displayName>SUGAR CAMP LOOKOUT, MO US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>36.53333</latitude>
+    <longitude>-93.83333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478288</id>
+    <displayName>SUGAR CAMP, WI US</displayName>
+    <minDate>1910-03-01</minDate>
+    <maxDate>2003-10-31</maxDate>
+    <latitude>45.8647</latitude>
+    <longitude>-89.3819</longitude>
+    <elevation>489.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKN0004</id>
+    <displayName>SUGAR GROVE 0.7 NE, IL US</displayName>
+    <minDate>2006-12-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7762</latitude>
+    <longitude>-88.4478</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKN0051</id>
+    <displayName>SUGAR GROVE 1.4 ENE, IL US</displayName>
+    <minDate>2008-02-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7787</latitude>
+    <longitude>-88.4343</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKN0060</id>
+    <displayName>SUGAR GROVE 2.0 ENE, IL US</displayName>
+    <minDate>2008-03-31</minDate>
+    <maxDate>2012-10-19</maxDate>
+    <latitude>41.7826</latitude>
+    <longitude>-88.4235</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468589</id>
+    <displayName>SUGAR GROVE 4 NNE, WV US</displayName>
+    <minDate>1996-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.57</latitude>
+    <longitude>-79.2758</longitude>
+    <elevation>533.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.758</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036940</id>
+    <displayName>SUGAR GROVE, AR US</displayName>
+    <minDate>1941-07-06</minDate>
+    <maxDate>1956-08-31</maxDate>
+    <latitude>35.06667</latitude>
+    <longitude>-93.8</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448200</id>
+    <displayName>SUGAR GROVE, VA US</displayName>
+    <minDate>1939-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.76667</latitude>
+    <longitude>-81.4</longitude>
+    <elevation>823.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408704</id>
+    <displayName>SUGAR HILL, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-87.81667</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0005</id>
+    <displayName>SUGAR LAND .5 SE, TX US</displayName>
+    <minDate>2007-10-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6107</latitude>
+    <longitude>-95.6335</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0012</id>
+    <displayName>SUGAR LAND 1.0 W, TX US</displayName>
+    <minDate>2008-11-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6166</latitude>
+    <longitude>-95.6332</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9539</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0025</id>
+    <displayName>SUGAR LAND 1.5 NNW, TX US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6388</latitude>
+    <longitude>-95.6269</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7625</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0027</id>
+    <displayName>SUGAR LAND 2.6 SSW, TX US</displayName>
+    <minDate>2012-06-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.5828</latitude>
+    <longitude>-95.6294</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418728</id>
+    <displayName>SUGAR LAND, TX US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6219</latitude>
+    <longitude>-95.6566</longitude>
+    <elevation>25.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036944</id>
+    <displayName>SUGAR LOAF MOUNTAIN, AR US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1953-11-30</maxDate>
+    <latitude>35.48333</latitude>
+    <longitude>-91.96667</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011R08S</id>
+    <displayName>SUGAR LOAF, AZ US</displayName>
+    <minDate>1983-03-09</minDate>
+    <maxDate>1999-06-08</maxDate>
+    <latitude>34.6167</latitude>
+    <longitude>-111.5167</longitude>
+    <elevation>1865.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAGD0003</id>
+    <displayName>SUGAR VALLEY 2.9 NW, GA US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5844</latitude>
+    <longitude>-85.0508</longitude>
+    <elevation>222.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108818</id>
+    <displayName>SUGAR, ID US</displayName>
+    <minDate>1907-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.8868</latitude>
+    <longitude>-111.7367</longitude>
+    <elevation>1501.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6454</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468580</id>
+    <displayName>SUGARCAMP RUN, WV US</displayName>
+    <minDate>1946-04-04</minDate>
+    <maxDate>1954-11-30</maxDate>
+    <latitude>38.83333</latitude>
+    <longitude>-80.41667</longitude>
+    <elevation>360</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSUG</id>
+    <displayName>SUGARLOAF CALIFORNIA, CA US</displayName>
+    <minDate>1992-07-13</minDate>
+    <maxDate>2010-10-28</maxDate>
+    <latitude>36.7267</latitude>
+    <longitude>-118.675</longitude>
+    <elevation>2475</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3685</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBDR</id>
+    <displayName>SUGARLOAF COLORADO, CO US</displayName>
+    <minDate>2001-05-29</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.0181</latitude>
+    <longitude>-105.3614</longitude>
+    <elevation>2052.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMN0013</id>
+    <displayName>SUGARLOAF KEY 1.0 NW, FL US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2012-05-30</maxDate>
+    <latitude>24.6682</latitude>
+    <longitude>-81.5382</longitude>
+    <elevation>0.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OSUG</id>
+    <displayName>SUGARLOAF OREGON, OR US</displayName>
+    <minDate>1985-06-24</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.6728</latitude>
+    <longitude>-122.6564</longitude>
+    <elevation>1082</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8354</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00058064</id>
+    <displayName>SUGARLOAF RESERVOIR, CO US</displayName>
+    <minDate>1900-05-22</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>39.2495</latitude>
+    <longitude>-106.3713</longitude>
+    <elevation>2968.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSUF</id>
+    <displayName>SUGARLOAF SHF CALIFORNIA, CA US</displayName>
+    <minDate>1999-11-01</minDate>
+    <maxDate>2012-01-31</maxDate>
+    <latitude>40.9167</latitude>
+    <longitude>-122.4383</longitude>
+    <elevation>1280.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168828</id>
+    <displayName>SUGARTOWN, LA US</displayName>
+    <minDate>1893-05-11</minDate>
+    <maxDate>1992-12-31</maxDate>
+    <latitude>30.85</latitude>
+    <longitude>-93.01667</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5446</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDPG0043</id>
+    <displayName>SUITLAND 2.1 SE, MD US</displayName>
+    <minDate>2009-02-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8224</latitude>
+    <longitude>-76.9064</longitude>
+    <elevation>77.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9279</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00188656</id>
+    <displayName>SUITLAND, MD US</displayName>
+    <minDate>1962-12-01</minDate>
+    <maxDate>1974-01-31</maxDate>
+    <latitude>38.85</latitude>
+    <longitude>-76.93333</longitude>
+    <elevation>82</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9451</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247967</id>
+    <displayName>SULA 14 NE, MT US</displayName>
+    <minDate>2001-08-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.9106</latitude>
+    <longitude>-113.7383</longitude>
+    <elevation>1572.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247962</id>
+    <displayName>SULA 2 SE, MT US</displayName>
+    <minDate>1915-07-01</minDate>
+    <maxDate>1924-08-31</maxDate>
+    <latitude>45.816667</latitude>
+    <longitude>-113.95</longitude>
+    <elevation>1402.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5442</coverage>
+  </station>
+</stationCollection>

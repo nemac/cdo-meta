@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="14">
+  <station>
+    <id>GHCND:USC00460249</id>
+    <displayName>ARBOVALE 2, WV US</displayName>
+    <minDate>1908-03-01</minDate>
+    <maxDate>1974-07-31</maxDate>
+    <latitude>38.43333</latitude>
+    <longitude>-79.81667</longitude>
+    <elevation>833</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7011</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CABS</id>
+    <displayName>ARBUCKLE BASIN CALIFORNIA, CA US</displayName>
+    <minDate>1995-01-01</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.3983</latitude>
+    <longitude>-122.8333</longitude>
+    <elevation>579.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0019D02S</id>
+    <displayName>ARBUCKLE MOUNTAIN, OR US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.1833</latitude>
+    <longitude>-119.25</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.927</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300220</id>
+    <displayName>ARCADE, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1995-10-31</maxDate>
+    <latitude>42.53333</latitude>
+    <longitude>-78.41667</longitude>
+    <elevation>481.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LABV0002</id>
+    <displayName>ARCADIA 0.1 NNW, LA US</displayName>
+    <minDate>2011-04-26</minDate>
+    <maxDate>2012-05-08</maxDate>
+    <latitude>32.5519</latitude>
+    <longitude>-92.925</longitude>
+    <elevation>117.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10vall009</id>
+    <displayName>ARCADIA 1.7 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4239</latitude>
+    <longitude>-99.1593</longitude>
+    <elevation>666</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0021</id>
+    <displayName>ARCADIA 2.1 NNE, CA US</displayName>
+    <minDate>2010-03-07</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.1617</latitude>
+    <longitude>-118.0285</longitude>
+    <elevation>198.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7046</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10vall007</id>
+    <displayName>ARCADIA 4.4 E, NE US</displayName>
+    <minDate>2007-03-02</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>41.4236</latitude>
+    <longitude>-99.042</longitude>
+    <elevation>675.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLDS0001</id>
+    <displayName>ARCADIA 7.1 WSW, FL US</displayName>
+    <minDate>2007-10-02</minDate>
+    <maxDate>2012-08-27</maxDate>
+    <latitude>27.1752</latitude>
+    <longitude>-81.9644</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1557</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10shem004</id>
+    <displayName>ARCADIA 7.3 SE, NE US</displayName>
+    <minDate>2007-03-25</minDate>
+    <maxDate>2012-06-02</maxDate>
+    <latitude>41.3331</latitude>
+    <longitude>-99.054</longitude>
+    <elevation>645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4507</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080228</id>
+    <displayName>ARCADIA, FL US</displayName>
+    <minDate>1899-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>27.218</latitude>
+    <longitude>-81.8738</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00160277</id>
+    <displayName>ARCADIA, LA US</displayName>
+    <minDate>1929-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.5511</latitude>
+    <longitude>-92.9186</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6308</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230224</id>
+    <displayName>ARCADIA, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2010-03-30</maxDate>
+    <latitude>37.598</latitude>
+    <longitude>-90.6263</longitude>
+    <elevation>279.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250320</id>
+    <displayName>ARCADIA, NE US</displayName>
+    <minDate>1893-01-13</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>41.4266</latitude>
+    <longitude>-99.1272</longitude>
+    <elevation>658.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9112</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340288</id>
+    <displayName>ARCADIA, OK US</displayName>
+    <minDate>1993-03-01</minDate>
+    <maxDate>2010-09-08</maxDate>
+    <latitude>35.65417</latitude>
+    <longitude>-97.36583</longitude>
+    <elevation>309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8261</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAHM0025</id>
+    <displayName>ARCATA 1.0 NW, CA US</displayName>
+    <minDate>2009-10-12</minDate>
+    <maxDate>2012-12-08</maxDate>
+    <latitude>40.8757</latitude>
+    <longitude>-124.0964</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAHM0001</id>
+    <displayName>ARCATA 1.1 NE, CA US</displayName>
+    <minDate>2008-10-31</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.8809</latitude>
+    <longitude>-124.0692</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6552</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAHM0019</id>
+    <displayName>ARCATA 1.1 NW, CA US</displayName>
+    <minDate>2009-03-21</minDate>
+    <maxDate>2011-08-05</maxDate>
+    <latitude>40.8768</latitude>
+    <longitude>-124.0973</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAHM0021</id>
+    <displayName>ARCATA 1.4 NNE, CA US</displayName>
+    <minDate>2009-06-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8873</latitude>
+    <longitude>-124.0724</longitude>
+    <elevation>88.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8638</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024245</id>
+    <displayName>ARCATA EUREKA AIRPORT, CA US</displayName>
+    <minDate>1945-05-01</minDate>
+    <maxDate>1946-04-28</maxDate>
+    <latitude>40.97806</latitude>
+    <longitude>-124.10861</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024283</id>
+    <displayName>ARCATA EUREKA AIRPORT, CA US</displayName>
+    <minDate>1992-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.97806</latitude>
+    <longitude>-124.10861</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290525</id>
+    <displayName>ARCH, NM US</displayName>
+    <minDate>1908-12-01</minDate>
+    <maxDate>2005-06-30</maxDate>
+    <latitude>34.11278</latitude>
+    <longitude>-103.16667</longitude>
+    <elevation>1200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.329</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080236</id>
+    <displayName>ARCHBOLD BIO STATION, FL US</displayName>
+    <minDate>1969-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.1819</latitude>
+    <longitude>-81.3508</longitude>
+    <elevation>42.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRN0002</id>
+    <displayName>ARCHDALE 1.3 SE, NC US</displayName>
+    <minDate>2008-06-25</minDate>
+    <maxDate>2010-08-12</maxDate>
+    <latitude>35.8896</latitude>
+    <longitude>-79.9521</longitude>
+    <elevation>237.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8267</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLAL0002</id>
+    <displayName>ARCHER 5.5 E, FL US</displayName>
+    <minDate>2009-08-15</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.5272</latitude>
+    <longitude>-82.4271</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5694</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLAL0014</id>
+    <displayName>ARCHER 6.7 NNE, FL US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>29.6254</latitude>
+    <longitude>-82.4833</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410313</id>
+    <displayName>ARCHER CITY, TX US</displayName>
+    <minDate>1910-04-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>33.5948</latitude>
+    <longitude>-98.6118</longitude>
+    <elevation>321.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.685</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480270</id>
+    <displayName>ARCHER, WY US</displayName>
+    <minDate>1911-07-02</minDate>
+    <maxDate>2005-09-30</maxDate>
+    <latitude>41.15167</latitude>
+    <longitude>-104.6575</longitude>
+    <elevation>1831.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8358</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420336</id>
+    <displayName>ARCHES NATIONAL PARK HQS, UT US</displayName>
+    <minDate>1980-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6163</latitude>
+    <longitude>-109.6191</longitude>
+    <elevation>1247.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBT0002</id>
+    <displayName>ARCO 0.9 NW, ID US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2010-03-25</maxDate>
+    <latitude>43.6445</latitude>
+    <longitude>-113.3108</longitude>
+    <elevation>1636.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9364</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004126</id>
+    <displayName>ARCO 17 SW, ID US</displayName>
+    <minDate>2003-07-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.4621</latitude>
+    <longitude>-113.5560</longitude>
+    <elevation>1804.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IARC</id>
+    <displayName>ARCO IDAHO, ID US</displayName>
+    <minDate>1986-11-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.6231</latitude>
+    <longitude>-113.3872</longitude>
+    <elevation>1639.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100375</id>
+    <displayName>ARCO, ID US</displayName>
+    <minDate>1914-03-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.6355</latitude>
+    <longitude>-113.2988</longitude>
+    <elevation>1623.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8233</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDG0007</id>
+    <displayName>ARCOLA 5.8 WSW, IL US</displayName>
+    <minDate>2009-04-12</minDate>
+    <maxDate>2010-07-20</maxDate>
+    <latitude>39.6525</latitude>
+    <longitude>-88.4046</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00110231</id>
+    <displayName>ARCOLA, IL US</displayName>
+    <minDate>2001-08-01</minDate>
+    <maxDate>2008-11-06</maxDate>
+    <latitude>39.69</latitude>
+    <longitude>-88.2925</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8625</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310241</id>
+    <displayName>ARCOLA, NC US</displayName>
+    <minDate>1930-09-01</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>36.2911</latitude>
+    <longitude>-77.9822</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440280</id>
+    <displayName>ARCOLA, VA US</displayName>
+    <minDate>1916-10-01</minDate>
+    <maxDate>1923-12-31</maxDate>
+    <latitude>38.583333</latitude>
+    <longitude>-77.583333</longitude>
+    <elevation>83.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500396</id>
+    <displayName>ARCTIC VILLAGE, AK US</displayName>
+    <minDate>1962-08-01</minDate>
+    <maxDate>1996-09-30</maxDate>
+    <latitude>68.11667</latitude>
+    <longitude>-145.53333</longitude>
+    <elevation>634</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3226</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBC0041</id>
+    <displayName>ARDEN 1.6 ENE, NC US</displayName>
+    <minDate>2010-08-21</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>35.4791</latitude>
+    <longitude>-82.4924</longitude>
+    <elevation>694.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBC0042</id>
+    <displayName>ARDEN 2.9 WNW, NC US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4755</latitude>
+    <longitude>-82.5672</longitude>
+    <elevation>676</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8642</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBC0039</id>
+    <displayName>ARDEN 3.3 WNW, NC US</displayName>
+    <minDate>2010-07-28</minDate>
+    <maxDate>2011-11-04</maxDate>
+    <latitude>35.4745</latitude>
+    <longitude>-82.5737</longitude>
+    <elevation>657.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3161</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0008</id>
+    <displayName>ARDEN HILLS 1.0 ENE, MN US</displayName>
+    <minDate>2010-10-14</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>45.0784</latitude>
+    <longitude>-93.1491</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.295</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0048</id>
+    <displayName>ARDMORE 0.5 NW, PA US</displayName>
+    <minDate>2009-06-27</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>40.0082</latitude>
+    <longitude>-75.3003</longitude>
+    <elevation>98.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.969</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCR0009</id>
+    <displayName>ARDMORE 0.7 SW, OK US</displayName>
+    <minDate>2012-05-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.184</latitude>
+    <longitude>-97.1291</longitude>
+    <elevation>272.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9708</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM185</id>
+    <displayName>ARDMORE 1.3 NE, TN US</displayName>
+    <minDate>2007-11-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0114</latitude>
+    <longitude>-86.8392</longitude>
+    <elevation>282.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNLC0011</id>
+    <displayName>ARDMORE 10.8 E, TN US</displayName>
+    <minDate>2007-11-29</minDate>
+    <maxDate>2012-08-17</maxDate>
+    <latitude>35.0124</latitude>
+    <longitude>-86.6668</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00390236</id>
+    <displayName>ARDMORE 2 N, SD US</displayName>
+    <minDate>1908-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.03</latitude>
+    <longitude>-103.66</longitude>
+    <elevation>1079</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9424</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340313</id>
+    <displayName>ARDMORE 3 ENE, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>34.1923</latitude>
+    <longitude>-97.0857</longitude>
+    <elevation>265.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM180</id>
+    <displayName>ARDMORE 4.5 S, AL US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.9178</latitude>
+    <longitude>-86.8317</longitude>
+    <elevation>259.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7192</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGL0004</id>
+    <displayName>ARDMORE 4.6 W, TN US</displayName>
+    <minDate>2007-10-25</minDate>
+    <maxDate>2009-01-09</maxDate>
+    <latitude>34.9946</latitude>
+    <longitude>-86.9376</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9549</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340312</id>
+    <displayName>ARDMORE 7 WNW MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>34.22806</latitude>
+    <longitude>-97.20139</longitude>
+    <elevation>282.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCR0003</id>
+    <displayName>ARDMORE 9.8 SSW, OK US</displayName>
+    <minDate>2008-04-25</minDate>
+    <maxDate>2011-12-15</maxDate>
+    <latitude>34.0718</latitude>
+    <longitude>-97.2127</longitude>
+    <elevation>256.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7158</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013903</id>
+    <displayName>ARDMORE AFB, OK US</displayName>
+    <minDate>1953-08-04</minDate>
+    <maxDate>1959-01-31</maxDate>
+    <latitude>34.3</latitude>
+    <longitude>-97.01667</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013965</id>
+    <displayName>ARDMORE INTERMEDIATE FIELD, OK US</displayName>
+    <minDate>1946-08-01</minDate>
+    <maxDate>2009-08-01</maxDate>
+    <latitude>34.3</latitude>
+    <longitude>-97.15</longitude>
+    <elevation>264</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.421</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340292</id>
+    <displayName>ARDMORE, OK US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.1773</latitude>
+    <longitude>-97.1617</longitude>
+    <elevation>256.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360222</id>
+    <displayName>ARDMORE, PA US</displayName>
+    <minDate>1918-09-01</minDate>
+    <maxDate>1942-12-31</maxDate>
+    <latitude>40</latitude>
+    <longitude>-75.283333</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00400235</id>
+    <displayName>ARDMORE, TN US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.9925</latitude>
+    <longitude>-86.85611</longitude>
+    <elevation>269.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9535</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00660410</id>
+    <displayName>ARECIBO 3 ESE, PR US</displayName>
+    <minDate>1931-07-01</minDate>
+    <maxDate>1999-01-31</maxDate>
+    <latitude>18.45333</latitude>
+    <longitude>-66.67472</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8913</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00660426</id>
+    <displayName>ARECIBO OBSERVATORY, PR US</displayName>
+    <minDate>1980-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.3494</latitude>
+    <longitude>-66.7525</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300237</id>
+    <displayName>ARENA, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1970-06-30</maxDate>
+    <latitude>42.1</latitude>
+    <longitude>-74.71667</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMGR0032</id>
+    <displayName>ARENAS VALLEY 3.7 N, NM US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2010-06-07</maxDate>
+    <latitude>32.8477</latitude>
+    <longitude>-108.1881</longitude>
+    <elevation>1871.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8228</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360229</id>
+    <displayName>ARENDTSVILLE, PA US</displayName>
+    <minDate>1918-09-01</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>39.91667</latitude>
+    <longitude>-77.3</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240255</id>
+    <displayName>ARGENTA, MT US</displayName>
+    <minDate>1949-06-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>45.28333</latitude>
+    <longitude>-112.86667</longitude>
+    <elevation>1830</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8712</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0024</id>
+    <displayName>ARGO 1.5 NW, AL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.7029</latitude>
+    <longitude>-86.5275</longitude>
+    <elevation>263.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140308</id>
+    <displayName>ARGONIA, KS US</displayName>
+    <minDate>1973-04-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.2618</latitude>
+    <longitude>-97.769</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100400</id>
+    <displayName>ARGORA, ID US</displayName>
+    <minDate>1922-01-28</minDate>
+    <maxDate>1925-02-28</maxDate>
+    <latitude>44.416667</latitude>
+    <longitude>-112.65</longitude>
+    <elevation>2133.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEPN0007</id>
+    <displayName>ARGYLE 0.9 S, ME US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.0414</latitude>
+    <longitude>-68.67</longitude>
+    <elevation>37.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9611</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210252</id>
+    <displayName>ARGYLE, MN US</displayName>
+    <minDate>1890-02-21</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.3311</latitude>
+    <longitude>-96.8252</longitude>
+    <elevation>258.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5039</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470287</id>
+    <displayName>ARGYLE, WI US</displayName>
+    <minDate>2001-03-01</minDate>
+    <maxDate>2010-07-31</maxDate>
+    <latitude>42.7005</latitude>
+    <longitude>-89.8672</longitude>
+    <elevation>244.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9148</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0003</id>
+    <displayName>ARICKAREE 12 SE, CO US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>39.6569</latitude>
+    <longitude>-102.8435</longitude>
+    <elevation>1346.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3409</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300242</id>
+    <displayName>ARIETTA, NY US</displayName>
+    <minDate>1977-05-19</minDate>
+    <maxDate>1978-05-31</maxDate>
+    <latitude>43.25</latitude>
+    <longitude>-74.51667</longitude>
+    <elevation>519.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9656</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0079</id>
+    <displayName>ARIKAREE 11.4 S, CO US</displayName>
+    <minDate>2002-06-18</minDate>
+    <maxDate>2003-08-14</maxDate>
+    <latitude>39.5305</latitude>
+    <longitude>-103.0241</longitude>
+    <elevation>1452.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3026</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0029</id>
+    <displayName>ARIKAREE 6 S, CO US</displayName>
+    <minDate>2003-04-18</minDate>
+    <maxDate>2012-10-07</maxDate>
+    <latitude>39.6088</latitude>
+    <longitude>-103.0665</longitude>
+    <elevation>1432.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020380</id>
+    <displayName>ARIVACA, AZ US</displayName>
+    <minDate>1899-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.5722</latitude>
+    <longitude>-111.335</longitude>
+    <elevation>1103.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020404</id>
+    <displayName>ARIZONA CITY, AZ US</displayName>
+    <minDate>2002-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.73056</latitude>
+    <longitude>-111.69167</longitude>
+    <elevation>464.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9006</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00021161</id>
+    <displayName>ARIZONA FALLS 1 WNW, AZ US</displayName>
+    <minDate>1920-11-01</minDate>
+    <maxDate>1963-06-30</maxDate>
+    <latitude>33.5</latitude>
+    <longitude>-111.98333</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020406</id>
+    <displayName>ARIZONA FALLS 1 WNW, AZ US</displayName>
+    <minDate>1963-07-01</minDate>
+    <maxDate>1968-02-29</maxDate>
+    <latitude>33.5</latitude>
+    <longitude>-111.98333</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020415</id>
+    <displayName>ARIZONA SONORA DST M, AZ US</displayName>
+    <minDate>1962-01-01</minDate>
+    <maxDate>1973-06-30</maxDate>
+    <latitude>32.25</latitude>
+    <longitude>-111.16667</longitude>
+    <elevation>860.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028805</id>
+    <displayName>ARIZONA SONORA DST M, AZ US</displayName>
+    <minDate>1943-10-01</minDate>
+    <maxDate>1954-08-31</maxDate>
+    <latitude>32.25</latitude>
+    <longitude>-111.16667</longitude>
+    <elevation>860.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8047</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00220237</id>
+    <displayName>ARKABUTLA DAM, AR US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7803</latitude>
+    <longitude>-90.9159</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9147</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARCK0004</id>
+    <displayName>ARKADELPHIA 0.8 NNW, AR US</displayName>
+    <minDate>2012-06-22</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>34.1341</latitude>
+    <longitude>-93.0787</longitude>
+    <elevation>81.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7463</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARCK0002</id>
+    <displayName>ARKADELPHIA 7.8 NNE, AR US</displayName>
+    <minDate>2012-05-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.2226</latitude>
+    <longitude>-93.0039</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030220</id>
+    <displayName>ARKADELPHIA, AR US</displayName>
+    <minDate>1891-03-18</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>34.1433</latitude>
+    <longitude>-93.0589</longitude>
+    <elevation>59.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140311</id>
+    <displayName>ARKALON SOIL CONSERVATION SERVICE NUMBER 10, KS US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1945-05-31</maxDate>
+    <latitude>37.233333</latitude>
+    <longitude>-100.9</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCL0014</id>
+    <displayName>ARKANSAS CITY 3.1 N, KS US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1142</latitude>
+    <longitude>-97.0385</longitude>
+    <elevation>356.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCL0007</id>
+    <displayName>ARKANSAS CITY 3.7 S, KS US</displayName>
+    <minDate>2008-10-14</minDate>
+    <maxDate>2011-12-12</maxDate>
+    <latitude>37.0146</latitude>
+    <longitude>-97.0428</longitude>
+    <elevation>348.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4476</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCL0019</id>
+    <displayName>ARKANSAS CITY 3.9 SSW, KS US</displayName>
+    <minDate>2011-12-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0141</latitude>
+    <longitude>-97.0615</longitude>
+    <elevation>350.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.98</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030234</id>
+    <displayName>ARKANSAS CITY, AR US</displayName>
+    <minDate>1885-11-04</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>33.6061</latitude>
+    <longitude>-91.2186</longitude>
+    <elevation>44.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9136</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140313</id>
+    <displayName>ARKANSAS CITY, KS US</displayName>
+    <minDate>1916-07-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.0631</latitude>
+    <longitude>-97.0399</longitude>
+    <elevation>340.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030240</id>
+    <displayName>ARKANSAS POST, AR US</displayName>
+    <minDate>1963-09-01</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>34.025</latitude>
+    <longitude>-91.3444</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIPP0001</id>
+    <displayName>ARKANSAW 4.4 NW, WI US</displayName>
+    <minDate>2009-06-17</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>44.6758</latitude>
+    <longitude>-92.1009</longitude>
+    <elevation>365.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6039</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOND0003</id>
+    <displayName>ARKOE 1.5 W, MO US</displayName>
+    <minDate>2006-06-01</minDate>
+    <maxDate>2010-04-24</maxDate>
+    <latitude>40.259</latitude>
+    <longitude>-94.8581</longitude>
+    <elevation>332.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300246</id>
+    <displayName>ARKPORT, NY US</displayName>
+    <minDate>1948-05-05</minDate>
+    <maxDate>1950-02-08</maxDate>
+    <latitude>42.4</latitude>
+    <longitude>-77.71667</longitude>
+    <elevation>494.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300254</id>
+    <displayName>ARKVILLE 2 W, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>42.13944</latitude>
+    <longitude>-74.65361</longitude>
+    <elevation>399.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300259</id>
+    <displayName>ARKWRIGHT, NY US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>1898-12-31</maxDate>
+    <latitude>42.416667</latitude>
+    <longitude>-79.25</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9728</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTSN0001</id>
+    <displayName>ARLEE 16.7 WNW, MT US</displayName>
+    <minDate>2007-01-15</minDate>
+    <maxDate>2012-12-23</maxDate>
+    <latitude>47.2953</latitude>
+    <longitude>-114.3929</longitude>
+    <elevation>896.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8184</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTLK0006</id>
+    <displayName>ARLEE, MT US</displayName>
+    <minDate>2007-08-09</minDate>
+    <maxDate>2009-11-11</maxDate>
+    <latitude>47.1619</latitude>
+    <longitude>-114.085</longitude>
+    <elevation>946.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00010338</id>
+    <displayName>ARLEY 1 S, AL US</displayName>
+    <minDate>1938-03-01</minDate>
+    <maxDate>1983-10-31</maxDate>
+    <latitude>34.06667</latitude>
+    <longitude>-87.23333</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9731</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKW0019</id>
+    <displayName>ARLINGTON 0.1 SSE, CO US</displayName>
+    <minDate>2004-08-28</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>38.3349</latitude>
+    <longitude>-103.3427</longitude>
+    <elevation>1286.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDKY0002</id>
+    <displayName>ARLINGTON 0.5 SSW, SD US</displayName>
+    <minDate>2008-05-19</minDate>
+    <maxDate>2012-05-02</maxDate>
+    <latitude>44.3559</latitude>
+    <longitude>-97.139</longitude>
+    <elevation>558.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1606</coverage>
+  </station>
+</stationCollection>

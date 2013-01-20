@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="38">
+  <station>
+    <id>GHCND:US1NDBH0009</id>
+    <displayName>BISMARCK 6.9 N, ND US</displayName>
+    <minDate>2011-09-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.9049</latitude>
+    <longitude>-100.7578</longitude>
+    <elevation>564.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320827</id>
+    <displayName>BISMARCK 7 N, ND US</displayName>
+    <minDate>1953-04-01</minDate>
+    <maxDate>2005-12-25</maxDate>
+    <latitude>46.93667</latitude>
+    <longitude>-100.74444</longitude>
+    <elevation>624.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024011</id>
+    <displayName>BISMARCK MUNICIPAL AIRPORT, ND US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.7825</latitude>
+    <longitude>-100.7572</longitude>
+    <elevation>503.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100887</id>
+    <displayName>BISMARCK RANGER STATION, ID US</displayName>
+    <minDate>1928-06-01</minDate>
+    <maxDate>1937-04-30</maxDate>
+    <latitude>48.61667</latitude>
+    <longitude>-116.95</longitude>
+    <elevation>762.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2525</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320818</id>
+    <displayName>BISMARCK WEATHER FORECAST OFFICE, ND US</displayName>
+    <minDate>2011-10-24</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.7716</latitude>
+    <longitude>-100.7591</longitude>
+    <elevation>503.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320814</id>
+    <displayName>BISMARCK, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1953-12-31</maxDate>
+    <latitude>46.8</latitude>
+    <longitude>-100.8</longitude>
+    <elevation>509</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0013</id>
+    <displayName>BISON 0.3 WNW, SD US</displayName>
+    <minDate>2007-07-18</minDate>
+    <maxDate>2011-09-20</maxDate>
+    <latitude>45.5239</latitude>
+    <longitude>-102.4718</longitude>
+    <elevation>843.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0011</id>
+    <displayName>BISON 11.8 SE, SD US</displayName>
+    <minDate>2007-07-10</minDate>
+    <maxDate>2012-05-05</maxDate>
+    <latitude>45.4017</latitude>
+    <longitude>-102.2927</longitude>
+    <elevation>794</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3683</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0005</id>
+    <displayName>BISON 20.4 WSW, SD US</displayName>
+    <minDate>2007-06-26</minDate>
+    <maxDate>2008-04-07</maxDate>
+    <latitude>45.3779</latitude>
+    <longitude>-102.8353</longitude>
+    <elevation>847</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5052</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0007</id>
+    <displayName>BISON 21.0 S, SD US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2010-10-31</maxDate>
+    <latitude>45.2231</latitude>
+    <longitude>-102.5492</longitude>
+    <elevation>801.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0019</id>
+    <displayName>BISON 21.4 E, SD US</displayName>
+    <minDate>2007-08-08</minDate>
+    <maxDate>2011-09-22</maxDate>
+    <latitude>45.5452</latitude>
+    <longitude>-102.0257</longitude>
+    <elevation>737.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0006</id>
+    <displayName>BISON 24.1 SW, SD US</displayName>
+    <minDate>2007-06-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.324</latitude>
+    <longitude>-102.8768</longitude>
+    <elevation>848.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9248</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0004</id>
+    <displayName>BISON 4.5 SE, SD US</displayName>
+    <minDate>2007-06-22</minDate>
+    <maxDate>2009-12-25</maxDate>
+    <latitude>45.4799</latitude>
+    <longitude>-102.3957</longitude>
+    <elevation>808</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9695</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0008</id>
+    <displayName>BISON 8.7 W, SD US</displayName>
+    <minDate>2007-07-03</minDate>
+    <maxDate>2012-11-05</maxDate>
+    <latitude>45.4986</latitude>
+    <longitude>-102.6431</longitude>
+    <elevation>872.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1541</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007K12S</id>
+    <displayName>BISON LAKE, CO US</displayName>
+    <minDate>1985-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.7667</latitude>
+    <longitude>-107.35</longitude>
+    <elevation>3316.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240845</id>
+    <displayName>BISON MOUNTAIN, MT US</displayName>
+    <minDate>1909-06-16</minDate>
+    <maxDate>1911-07-31</maxDate>
+    <latitude>46.4</latitude>
+    <longitude>-112.416667</longitude>
+    <elevation>2207.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140865</id>
+    <displayName>BISON, KS US</displayName>
+    <minDate>1923-03-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.5636</latitude>
+    <longitude>-99.2351</longitude>
+    <elevation>621.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00390701</id>
+    <displayName>BISON, SD US</displayName>
+    <minDate>1916-05-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.5286</latitude>
+    <longitude>-102.465</longitude>
+    <elevation>847.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8239</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330745</id>
+    <displayName>BISSELLS, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1898-05-31</maxDate>
+    <latitude>41.4</latitude>
+    <longitude>-81.366667</longitude>
+    <elevation>340.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9312</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013B25S</id>
+    <displayName>BISSON CREEK, MT US</displayName>
+    <minDate>1989-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.6833</latitude>
+    <longitude>-114</longitude>
+    <elevation>1501.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8397</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020781</id>
+    <displayName>BITA HOCHEE TRADING, AZ US</displayName>
+    <minDate>1958-01-01</minDate>
+    <maxDate>1958-08-31</maxDate>
+    <latitude>35.41667</latitude>
+    <longitude>-110.08333</longitude>
+    <elevation>1800.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024317</id>
+    <displayName>BITA HOCHEE TRADING, AZ US</displayName>
+    <minDate>1955-03-01</minDate>
+    <maxDate>1965-11-30</maxDate>
+    <latitude>35.41667</latitude>
+    <longitude>-110.08333</longitude>
+    <elevation>1800.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4117</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081565</id>
+    <displayName>BITHLO, FL US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>28.55</latitude>
+    <longitude>-81.11667</longitude>
+    <elevation>19.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9455</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080758</id>
+    <displayName>BITHLO, FL US</displayName>
+    <minDate>1958-07-25</minDate>
+    <maxDate>1987-11-30</maxDate>
+    <latitude>28.55</latitude>
+    <longitude>-81.11667</longitude>
+    <elevation>19.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480761</id>
+    <displayName>BITTER CREEK 4 NE, WY US</displayName>
+    <minDate>1962-09-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5894</latitude>
+    <longitude>-108.5086</longitude>
+    <elevation>2048.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9058</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290992</id>
+    <displayName>BITTER LAKES WL REF, NM US</displayName>
+    <minDate>1950-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.4594</latitude>
+    <longitude>-104.4041</longitude>
+    <elevation>1116.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00180881</id>
+    <displayName>BITTINGER 2 NW, MD US</displayName>
+    <minDate>1953-06-01</minDate>
+    <maxDate>1976-03-31</maxDate>
+    <latitude>39.61667</latitude>
+    <longitude>-79.25</longitude>
+    <elevation>823.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00390706</id>
+    <displayName>BIXBY DAM, SD US</displayName>
+    <minDate>1949-08-01</minDate>
+    <maxDate>1952-08-31</maxDate>
+    <latitude>45.11667</latitude>
+    <longitude>-102.61667</longitude>
+    <elevation>752.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340782</id>
+    <displayName>BIXBY, OK US</displayName>
+    <minDate>1943-11-19</minDate>
+    <maxDate>2005-10-31</maxDate>
+    <latitude>35.98333</latitude>
+    <longitude>-95.88333</longitude>
+    <elevation>184.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9376</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230695</id>
+    <displayName>BLACK 6 NW, MO US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>1954-12-31</maxDate>
+    <latitude>37.61667</latitude>
+    <longitude>-90.98333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9403</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011E35S</id>
+    <displayName>BLACK BEAR, MT US</displayName>
+    <minDate>1971-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-111.1167</longitude>
+    <elevation>2484.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBLA</id>
+    <displayName>BLACK CANYON COLORADO, CO US</displayName>
+    <minDate>1997-06-04</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.5428</latitude>
+    <longitude>-107.6869</longitude>
+    <elevation>2609.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050754</id>
+    <displayName>BLACK CANYON GUNNISON, CO US</displayName>
+    <minDate>2003-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5547</latitude>
+    <longitude>-107.6872</longitude>
+    <elevation>2484.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABCA</id>
+    <displayName>BLACK CAPE ALASKA, AK US</displayName>
+    <minDate>2001-07-23</minDate>
+    <maxDate>2012-07-16</maxDate>
+    <latitude>58.4067</latitude>
+    <longitude>-152.8864</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000BLAC</id>
+    <displayName>BLACK CEDAR FILMORE 5 E UTAH, UT US</displayName>
+    <minDate>1987-05-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.9792</latitude>
+    <longitude>-112.2394</longitude>
+    <elevation>1975.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIOG0005</id>
+    <displayName>BLACK CREEK 2.1 NNW, WI US</displayName>
+    <minDate>2009-09-12</minDate>
+    <maxDate>2012-11-24</maxDate>
+    <latitude>44.5013</latitude>
+    <longitude>-88.4694</longitude>
+    <elevation>239.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7188</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MBLC</id>
+    <displayName>BLACK CREEK MISSISSIPPI, MS US</displayName>
+    <minDate>2002-06-16</minDate>
+    <maxDate>2012-07-25</maxDate>
+    <latitude>30.8489</latitude>
+    <longitude>-89.0342</longitude>
+    <elevation>83.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBKD</id>
+    <displayName>BLACK DIAMOND CALIFORNIA, CA US</displayName>
+    <minDate>1994-04-17</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>37.95</latitude>
+    <longitude>-121.8844</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9437</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011L04S</id>
+    <displayName>BLACK FLAT U.M. CK, UT US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.6833</latitude>
+    <longitude>-111.5833</longitude>
+    <elevation>2865.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0204</id>
+    <displayName>BLACK FOREST 0.3 ENE, CO US</displayName>
+    <minDate>2010-12-14</minDate>
+    <maxDate>2011-09-15</maxDate>
+    <latitude>39.0478</latitude>
+    <longitude>-104.6619</longitude>
+    <elevation>2311.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0140</id>
+    <displayName>BLACK FOREST 2.8 NNW, CO US</displayName>
+    <minDate>2004-09-30</minDate>
+    <maxDate>2005-05-12</maxDate>
+    <latitude>39.0851</latitude>
+    <longitude>-104.6832</longitude>
+    <elevation>2267.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0166</id>
+    <displayName>BLACK FOREST 2.8 SW, CO US</displayName>
+    <minDate>2008-07-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0203</latitude>
+    <longitude>-104.7076</longitude>
+    <elevation>2228.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0187</id>
+    <displayName>BLACK FOREST 3.1 SSE, CO US</displayName>
+    <minDate>2009-08-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0081</latitude>
+    <longitude>-104.6375</longitude>
+    <elevation>2263.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9113</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0133</id>
+    <displayName>BLACK FOREST 3.2 SE, CO US</displayName>
+    <minDate>2004-07-01</minDate>
+    <maxDate>2007-05-10</maxDate>
+    <latitude>39.0192</latitude>
+    <longitude>-104.6195</longitude>
+    <elevation>2240.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6705</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0128</id>
+    <displayName>BLACK FOREST 3.4 E, CO US</displayName>
+    <minDate>2004-03-27</minDate>
+    <maxDate>2004-09-19</maxDate>
+    <latitude>39.0497</latitude>
+    <longitude>-104.6043</longitude>
+    <elevation>2278.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5819</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0062</id>
+    <displayName>BLACK FOREST 3.4 NNE, CO US</displayName>
+    <minDate>2003-07-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.094</latitude>
+    <longitude>-104.6508</longitude>
+    <elevation>2279.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0066</id>
+    <displayName>BLACK FOREST 3.9 NNE, CO US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0999</latitude>
+    <longitude>-104.6445</longitude>
+    <elevation>2292.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6282</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0024</id>
+    <displayName>BLACK FOREST 4.5 SSW, CO US</displayName>
+    <minDate>2004-10-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9831</latitude>
+    <longitude>-104.6904</longitude>
+    <elevation>2208.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0271</id>
+    <displayName>BLACK FOREST 4.7 WSW, CO US</displayName>
+    <minDate>2011-07-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0139</latitude>
+    <longitude>-104.7449</longitude>
+    <elevation>2184.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050756</id>
+    <displayName>BLACK FOREST 6 WNW, CO US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.02917</latitude>
+    <longitude>-104.80167</longitude>
+    <elevation>2120.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGL0012</id>
+    <displayName>BLACK HAWK 1.8 NW, CO US</displayName>
+    <minDate>2005-09-15</minDate>
+    <maxDate>2006-11-29</maxDate>
+    <latitude>39.8195</latitude>
+    <longitude>-105.5134</longitude>
+    <elevation>2598.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGL0007</id>
+    <displayName>BLACK HAWK 2.1 NNE, CO US</displayName>
+    <minDate>2003-11-17</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>39.8249</latitude>
+    <longitude>-105.4759</longitude>
+    <elevation>2919.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGL0010</id>
+    <displayName>BLACK HAWK 2.9 NNE, CO US</displayName>
+    <minDate>2005-08-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.8382</latitude>
+    <longitude>-105.4783</longitude>
+    <elevation>2824</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.426</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGL0013</id>
+    <displayName>BLACK HAWK 3.8 E, CO US</displayName>
+    <minDate>2005-11-17</minDate>
+    <maxDate>2010-08-19</maxDate>
+    <latitude>39.7961</latitude>
+    <longitude>-105.4192</longitude>
+    <elevation>2734.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9488</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00220841</id>
+    <displayName>BLACK HAWK, MS US</displayName>
+    <minDate>1954-02-01</minDate>
+    <maxDate>1988-04-30</maxDate>
+    <latitude>33.33333</latitude>
+    <longitude>-90.01667</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABLA</id>
+    <displayName>BLACK HILLS ARIZONA, AZ US</displayName>
+    <minDate>1988-12-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>33.0867</latitude>
+    <longitude>-109.9506</longitude>
+    <elevation>1005.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0254</id>
+    <displayName>BLACK HOLLOW RESERVOIR 3.0 WSW, CO US</displayName>
+    <minDate>2005-04-20</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.5903</latitude>
+    <longitude>-104.9274</longitude>
+    <elevation>1558.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WBLA</id>
+    <displayName>BLACK KNOB WASHINGTON, WA US</displayName>
+    <minDate>2003-03-28</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.4136</latitude>
+    <longitude>-124.1031</longitude>
+    <elevation>179.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9321</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291000</id>
+    <displayName>BLACK LAKE, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>36.3119</latitude>
+    <longitude>-105.2691</longitude>
+    <elevation>2635</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9265</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBC0031</id>
+    <displayName>BLACK MOUNTAIN 0.1 WSW, NC US</displayName>
+    <minDate>2010-03-11</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>35.614</latitude>
+    <longitude>-82.332</longitude>
+    <elevation>722.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7101</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040855</id>
+    <displayName>BLACK MOUNTAIN 2 WSW, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1953-10-31</maxDate>
+    <latitude>37.31667</latitude>
+    <longitude>-122.16667</longitude>
+    <elevation>646.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9769</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040850</id>
+    <displayName>BLACK MOUNTAIN 2 WSW, CA US</displayName>
+    <minDate>1954-02-01</minDate>
+    <maxDate>1995-06-30</maxDate>
+    <latitude>37.31667</latitude>
+    <longitude>-122.16667</longitude>
+    <elevation>646.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBLK</id>
+    <displayName>BLACK MOUNTAIN COLORADO, CO US</displayName>
+    <minDate>2003-07-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.8617</latitude>
+    <longitude>-105.2842</longitude>
+    <elevation>2737.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9293</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020800</id>
+    <displayName>BLACK MOUNTAIN MISSION, AZ US</displayName>
+    <minDate>1952-01-02</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>36.11667</latitude>
+    <longitude>-109.86667</longitude>
+    <elevation>1937</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5441</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OBMN</id>
+    <displayName>BLACK MOUNTAIN NUMBER 2 OREGON, OR US</displayName>
+    <minDate>1997-11-26</minDate>
+    <maxDate>2008-07-29</maxDate>
+    <latitude>45.595</latitude>
+    <longitude>-118.235</longitude>
+    <elevation>1513.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OBLM</id>
+    <displayName>BLACK MOUNTAIN OREGON, OR US</displayName>
+    <minDate>1995-06-19</minDate>
+    <maxDate>2003-12-02</maxDate>
+    <latitude>45.595</latitude>
+    <longitude>-118.235</longitude>
+    <elevation>1653.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2146</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310843</id>
+    <displayName>BLACK MOUNTAIN, NC US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2010-03-21</maxDate>
+    <latitude>35.60722</latitude>
+    <longitude>-82.35944</longitude>
+    <elevation>698</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9698</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480778</id>
+    <displayName>BLACK MOUNTAIN, WY US</displayName>
+    <minDate>1963-10-16</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.6561</latitude>
+    <longitude>-107.7375</longitude>
+    <elevation>1717.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013C13S</id>
+    <displayName>BLACK PINE, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.4167</latitude>
+    <longitude>-113.4333</longitude>
+    <elevation>2197.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510232</id>
+    <displayName>BLACK POINT 717, HI US</displayName>
+    <minDate>1919-08-01</minDate>
+    <maxDate>1963-06-30</maxDate>
+    <latitude>21.26667</latitude>
+    <longitude>-157.8</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300706</id>
+    <displayName>BLACK RIVER 1 SW, NY US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1975-07-24</maxDate>
+    <latitude>44</latitude>
+    <longitude>-75.81667</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYJF0013</id>
+    <displayName>BLACK RIVER 1.0 E, NY US</displayName>
+    <minDate>2008-09-20</minDate>
+    <maxDate>2010-07-22</maxDate>
+    <latitude>44.0094</latitude>
+    <longitude>-75.777</longitude>
+    <elevation>192.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIJK0001</id>
+    <displayName>BLACK RIVER FALLS 1.7 NNE, WI US</displayName>
+    <minDate>2007-07-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.32</latitude>
+    <longitude>-90.83</longitude>
+    <elevation>248.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9538</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470851</id>
+    <displayName>BLACK RIVER FALLS 2 SE, WI US</displayName>
+    <minDate>1961-06-01</minDate>
+    <maxDate>1994-09-30</maxDate>
+    <latitude>44.26667</latitude>
+    <longitude>-90.81667</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3437</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470855</id>
+    <displayName>BLACK RIVER FALLS SEWAGE, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>44.2903</latitude>
+    <longitude>-90.8538</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3175</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WBRF</id>
+    <displayName>BLACK RIVER FALLS WISCONSIN, WI US</displayName>
+    <minDate>1998-09-19</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.3003</latitude>
+    <longitude>-90.835</longitude>
+    <elevation>255.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8259</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020808</id>
+    <displayName>BLACK RIVER PUMPS, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>33.4783</latitude>
+    <longitude>-109.7516</longitude>
+    <elevation>1848.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020810</id>
+    <displayName>BLACK RIVER STATION, AZ US</displayName>
+    <minDate>1914-05-01</minDate>
+    <maxDate>1915-01-15</maxDate>
+    <latitude>33.716667</latitude>
+    <longitude>-110.216667</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7077</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABRK</id>
+    <displayName>BLACK ROCK ARIZONA, AZ US</displayName>
+    <minDate>1992-05-04</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.7944</latitude>
+    <longitude>-113.7567</longitude>
+    <elevation>2158</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OBLA</id>
+    <displayName>BLACK ROCK OREGON, OR US</displayName>
+    <minDate>1985-07-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.5233</latitude>
+    <longitude>-121.8133</longitude>
+    <elevation>1487.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030746</id>
+    <displayName>BLACK ROCK, AR US</displayName>
+    <minDate>1892-02-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>36.1066</latitude>
+    <longitude>-91.1038</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291018</id>
+    <displayName>BLACK ROCK, NM US</displayName>
+    <minDate>1908-06-01</minDate>
+    <maxDate>1949-06-30</maxDate>
+    <latitude>35.1</latitude>
+    <longitude>-108.78333</longitude>
+    <elevation>1966.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9391</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420730</id>
+    <displayName>BLACK ROCK, UT US</displayName>
+    <minDate>1900-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.7076</latitude>
+    <longitude>-112.9539</longitude>
+    <elevation>1498.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090946</id>
+    <displayName>BLACKBEARD ISLAND, GA US</displayName>
+    <minDate>1940-03-02</minDate>
+    <maxDate>1974-12-31</maxDate>
+    <latitude>31.48333</latitude>
+    <longitude>-81.21667</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340800</id>
+    <displayName>BLACKBURN, OK US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>1912-08-31</maxDate>
+    <latitude>36.366667</latitude>
+    <longitude>-96.6</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7695</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350781</id>
+    <displayName>BLACKBUTTE 1 N, OR US</displayName>
+    <minDate>1900-12-01</minDate>
+    <maxDate>1965-10-31</maxDate>
+    <latitude>43.5947</latitude>
+    <longitude>-123.0705</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210803</id>
+    <displayName>BLACKDDCK RANGER STATION, MN US</displayName>
+    <minDate>1907-02-01</minDate>
+    <maxDate>1953-07-31</maxDate>
+    <latitude>47.71667</latitude>
+    <longitude>-94.56667</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.29</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210809</id>
+    <displayName>BLACKDUCK, MN US</displayName>
+    <minDate>1989-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.67139</latitude>
+    <longitude>-94.5175</longitude>
+    <elevation>408.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7327</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBG0004</id>
+    <displayName>BLACKFOOT 5.7 NE, ID US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2011-11-18</maxDate>
+    <latitude>43.2469</latitude>
+    <longitude>-112.2588</longitude>
+    <elevation>1384.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.329</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100920</id>
+    <displayName>BLACKFOOT DAM, ID US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1971-09-19</maxDate>
+    <latitude>43</latitude>
+    <longitude>-111.71667</longitude>
+    <elevation>1891</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6078</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100915</id>
+    <displayName>BLACKFOOT, ID US</displayName>
+    <minDate>1895-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.1969</latitude>
+    <longitude>-112.353</longitude>
+    <elevation>1382.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9004</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0019</id>
+    <displayName>BLACKHAWK 0.1 WNW, SD US</displayName>
+    <minDate>2007-08-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.152</latitude>
+    <longitude>-103.3165</longitude>
+    <elevation>1077.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9513</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0004</id>
+    <displayName>BLACKHAWK 2.0 NNW, SD US</displayName>
+    <minDate>2007-07-19</minDate>
+    <maxDate>2009-09-28</maxDate>
+    <latitude>44.178</latitude>
+    <longitude>-103.3326</longitude>
+    <elevation>1113.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0018</id>
+    <displayName>BLACKHAWK 2.3 NNW, SD US</displayName>
+    <minDate>2007-08-03</minDate>
+    <maxDate>2008-01-07</maxDate>
+    <latitude>44.1825</latitude>
+    <longitude>-103.3347</longitude>
+    <elevation>1119.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240877</id>
+    <displayName>BLACKLEAF, MT US</displayName>
+    <minDate>1905-02-01</minDate>
+    <maxDate>2011-09-17</maxDate>
+    <latitude>48.0127</latitude>
+    <longitude>-112.4369</longitude>
+    <elevation>1290.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6416</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080765</id>
+    <displayName>BLACKMAN, FL US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>30.98333</latitude>
+    <longitude>-86.65</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9048</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150700</id>
+    <displayName>BLACKMONT, KY US</displayName>
+    <minDate>1980-03-01</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>36.78333</latitude>
+    <longitude>-83.51667</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBRK</id>
+    <displayName>BLACKROCK CALIFORNIA, CA US</displayName>
+    <minDate>1999-07-20</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.0931</latitude>
+    <longitude>-118.2603</longitude>
+    <elevation>2499.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420736</id>
+    <displayName>BLACKS FORK RANGER STATION, UT US</displayName>
+    <minDate>1916-04-01</minDate>
+    <maxDate>1921-09-30</maxDate>
+    <latitude>40.966667</latitude>
+    <longitude>-110.583333</longitude>
+    <elevation>2674.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7482</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040870</id>
+    <displayName>BLACKS MOUNTAIN RANC, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1960-07-31</maxDate>
+    <latitude>40.73333</latitude>
+    <longitude>-121.25</longitude>
+    <elevation>1708.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7902</coverage>
+  </station>
+</stationCollection>

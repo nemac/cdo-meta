@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="263">
+  <station>
+    <id>GHCND:US1INMG0009</id>
+    <displayName>MARTINSVILLE 0.7 E, IN US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2010-02-16</maxDate>
+    <latitude>39.4234</latitude>
+    <longitude>-86.4091</longitude>
+    <elevation>191.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMG0001</id>
+    <displayName>MARTINSVILLE 1.4 NNE, IN US</displayName>
+    <minDate>2006-02-07</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>39.4416</latitude>
+    <longitude>-86.4134</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5449</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMG0002</id>
+    <displayName>MARTINSVILLE 1.6 ESE, IN US</displayName>
+    <minDate>2006-02-07</minDate>
+    <maxDate>2009-12-13</maxDate>
+    <latitude>39.414</latitude>
+    <longitude>-86.3944</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4623</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115385</id>
+    <displayName>MARTINSVILLE 10 S, IL US</displayName>
+    <minDate>2006-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1907</latitude>
+    <longitude>-87.895</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125407</id>
+    <displayName>MARTINSVILLE 2 SW, IN US</displayName>
+    <minDate>1922-12-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4039</latitude>
+    <longitude>-86.4531</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHCN0005</id>
+    <displayName>MARTINSVILLE 2.0 E, OH US</displayName>
+    <minDate>2009-05-17</minDate>
+    <maxDate>2010-05-17</maxDate>
+    <latitude>39.3253</latitude>
+    <longitude>-83.7735</longitude>
+    <elevation>324.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3634</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMG0020</id>
+    <displayName>MARTINSVILLE 2.0 ENE, IN US</displayName>
+    <minDate>2011-07-29</minDate>
+    <maxDate>2012-09-09</maxDate>
+    <latitude>39.4331</latitude>
+    <longitude>-86.3867</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5037</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMG0021</id>
+    <displayName>MARTINSVILLE 2.3 SE, IN US</displayName>
+    <minDate>2011-10-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.396</latitude>
+    <longitude>-86.3956</longitude>
+    <elevation>194.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMG0008</id>
+    <displayName>MARTINSVILLE 2.4 ENE, IN US</displayName>
+    <minDate>2006-07-25</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>39.4328</latitude>
+    <longitude>-86.3788</longitude>
+    <elevation>224.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.139</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445300</id>
+    <displayName>MARTINSVILLE FLT PLANT, VA US</displayName>
+    <minDate>1930-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.7056</latitude>
+    <longitude>-79.865</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125412</id>
+    <displayName>MARTINSVILLE STATE F, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.33333</latitude>
+    <longitude>-86.41667</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9587</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115384</id>
+    <displayName>MARTINSVILLE, IL US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2008-11-30</maxDate>
+    <latitude>39.3366</latitude>
+    <longitude>-87.8796</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00475148</id>
+    <displayName>MARTINTOWN 2 E, WI US</displayName>
+    <minDate>1953-03-01</minDate>
+    <maxDate>1999-12-31</maxDate>
+    <latitude>42.5058</latitude>
+    <longitude>-89.7572</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8501</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCY0010</id>
+    <displayName>MARTVILLE 4.0 SSE, NY US</displayName>
+    <minDate>2008-12-10</minDate>
+    <maxDate>2011-09-14</maxDate>
+    <latitude>43.2237</latitude>
+    <longitude>-76.6107</longitude>
+    <elevation>121.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00034678</id>
+    <displayName>MARVELL, AR US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1959-11-30</maxDate>
+    <latitude>34.55</latitude>
+    <longitude>-90.91667</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9058</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055414</id>
+    <displayName>MARVINE RANCH, CO US</displayName>
+    <minDate>1972-07-01</minDate>
+    <maxDate>1998-08-31</maxDate>
+    <latitude>40.02389</latitude>
+    <longitude>-107.43361</longitude>
+    <elevation>2377.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055408</id>
+    <displayName>MARVINE, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2001-10-31</maxDate>
+    <latitude>40.02139</latitude>
+    <longitude>-107.55556</longitude>
+    <elevation>2194.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLOK0014</id>
+    <displayName>MARY ESTHER 0.4 WNW, FL US</displayName>
+    <minDate>2007-10-11</minDate>
+    <maxDate>2010-03-29</maxDate>
+    <latitude>30.4132</latitude>
+    <longitude>-86.6635</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8868</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLOK0029</id>
+    <displayName>MARY ESTHER 0.6 E, FL US</displayName>
+    <minDate>2008-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4109</latitude>
+    <longitude>-86.6475</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLOK0004</id>
+    <displayName>MARY ESTHER 6.2 W, FL US</displayName>
+    <minDate>2007-10-08</minDate>
+    <maxDate>2010-06-06</maxDate>
+    <latitude>30.4141</latitude>
+    <longitude>-86.7612</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305120</id>
+    <displayName>MARY SMITH, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1976-12-31</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-74.81667</longitude>
+    <elevation>463.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9988</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1DEKN0004</id>
+    <displayName>MARYDEL 2.4 SE, DE US</displayName>
+    <minDate>2009-08-28</minDate>
+    <maxDate>2012-04-22</maxDate>
+    <latitude>39.0976</latitude>
+    <longitude>-75.7065</longitude>
+    <elevation>17.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455050</id>
+    <displayName>MARYHILL, WA US</displayName>
+    <minDate>1916-05-01</minDate>
+    <maxDate>1924-09-30</maxDate>
+    <latitude>45.716667</latitude>
+    <longitude>-120.783333</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9122</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516141</id>
+    <displayName>MARYKNOLL SCHOOL 707.4, HI US</displayName>
+    <minDate>1997-02-19</minDate>
+    <maxDate>1997-12-31</maxDate>
+    <latitude>21.30139</latitude>
+    <longitude>-157.83361</longitude>
+    <elevation>51.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.807</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305110</id>
+    <displayName>MARYKNOLL, NY US</displayName>
+    <minDate>1958-12-15</minDate>
+    <maxDate>1978-01-31</maxDate>
+    <latitude>41.18333</latitude>
+    <longitude>-73.83333</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6043</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305113</id>
+    <displayName>MARYLAND 6 SW, NY US</displayName>
+    <minDate>1983-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4694</latitude>
+    <longitude>-75.0105</longitude>
+    <elevation>373.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDBL0006</id>
+    <displayName>MARYLAND LINE 4.4 SE, MD US</displayName>
+    <minDate>2006-04-03</minDate>
+    <maxDate>2007-01-15</maxDate>
+    <latitude>39.683</latitude>
+    <longitude>-76.5851</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3854</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00185715</id>
+    <displayName>MARYLAND LINE, MD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1949-01-31</maxDate>
+    <latitude>39.71667</latitude>
+    <longitude>-76.65</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093784</id>
+    <displayName>MARYLAND SCIENCE CENTER BALTIMORE, MD US</displayName>
+    <minDate>1998-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.2814</latitude>
+    <longitude>-76.6089</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9764</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415630</id>
+    <displayName>MARYNEAL 4 SW, TX US</displayName>
+    <minDate>2004-11-01</minDate>
+    <maxDate>2005-07-31</maxDate>
+    <latitude>32.20139</latitude>
+    <longitude>-100.5</longitude>
+    <elevation>783.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415646</id>
+    <displayName>MARYS CREEK, TX US</displayName>
+    <minDate>1946-08-27</minDate>
+    <maxDate>1973-10-31</maxDate>
+    <latitude>32.73333</latitude>
+    <longitude>-97.5</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9314</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425483</id>
+    <displayName>MARYSVALE 3, UT US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>1913-03-31</maxDate>
+    <latitude>38.416667</latitude>
+    <longitude>-112.233333</longitude>
+    <elevation>1883.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425488</id>
+    <displayName>MARYSVALE CRYSTAL MINE, UT US</displayName>
+    <minDate>1899-03-01</minDate>
+    <maxDate>1900-07-19</maxDate>
+    <latitude>40.35</latitude>
+    <longitude>-112.3</longitude>
+    <elevation>2743.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425477</id>
+    <displayName>MARYSVALE, UT US</displayName>
+    <minDate>1913-05-23</minDate>
+    <maxDate>2012-11-19</maxDate>
+    <latitude>38.4487</latitude>
+    <longitude>-112.2274</longitude>
+    <elevation>1783.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0054</id>
+    <displayName>MARYSVILLE 0.4 N, WA US</displayName>
+    <minDate>2009-04-06</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>48.0652</latitude>
+    <longitude>-122.1541</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245402</id>
+    <displayName>MARYSVILLE 1 SW, MT US</displayName>
+    <minDate>1894-04-01</minDate>
+    <maxDate>1982-11-30</maxDate>
+    <latitude>46.75</latitude>
+    <longitude>-112.3</longitude>
+    <elevation>1768.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHUN0003</id>
+    <displayName>MARYSVILLE 1.1 SSE, OH US</displayName>
+    <minDate>2010-05-10</minDate>
+    <maxDate>2010-11-27</maxDate>
+    <latitude>40.2221</latitude>
+    <longitude>-83.3675</longitude>
+    <elevation>307.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHUN0001</id>
+    <displayName>MARYSVILLE 1.5 NNE, OH US</displayName>
+    <minDate>2009-04-20</minDate>
+    <maxDate>2009-10-29</maxDate>
+    <latitude>40.2564</latitude>
+    <longitude>-83.3596</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8135</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245405</id>
+    <displayName>MARYSVILLE 3, MT US</displayName>
+    <minDate>1959-01-15</minDate>
+    <maxDate>1971-10-31</maxDate>
+    <latitude>46.75</latitude>
+    <longitude>-112.3</longitude>
+    <elevation>1641</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAYB0003</id>
+    <displayName>MARYSVILLE 5.0 N, CA US</displayName>
+    <minDate>2011-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2241</latitude>
+    <longitude>-121.594</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9269</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAPR0002</id>
+    <displayName>MARYSVILLE 5.1 WSW, PA US</displayName>
+    <minDate>2006-03-10</minDate>
+    <maxDate>2010-06-20</maxDate>
+    <latitude>40.3165</latitude>
+    <longitude>-77.0274</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0006</id>
+    <displayName>MARYSVILLE 6.4 NW, WA US</displayName>
+    <minDate>2008-08-18</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>48.1187</latitude>
+    <longitude>-122.2726</longitude>
+    <elevation>124.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3609</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045391</id>
+    <displayName>MARYSVILLE D ST BRID, CA US</displayName>
+    <minDate>1885-01-01</minDate>
+    <maxDate>1950-11-30</maxDate>
+    <latitude>39.13333</latitude>
+    <longitude>-121.6</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334984</id>
+    <displayName>MARYSVILLE HIGHWAY DEP, OH US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.23333</latitude>
+    <longitude>-83.36667</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093205</id>
+    <displayName>MARYSVILLE YUBA CO AIRPORT, CA US</displayName>
+    <minDate>2000-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.10194</latitude>
+    <longitude>-121.56778</longitude>
+    <elevation>18.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045385</id>
+    <displayName>MARYSVILLE, CA US</displayName>
+    <minDate>1897-02-01</minDate>
+    <maxDate>2007-10-31</maxDate>
+    <latitude>39.1458</latitude>
+    <longitude>-121.5852</longitude>
+    <elevation>17.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00145063</id>
+    <displayName>MARYSVILLE, KS US</displayName>
+    <minDate>1941-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.8384</latitude>
+    <longitude>-96.6365</longitude>
+    <elevation>358.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334979</id>
+    <displayName>MARYSVILLE, OH US</displayName>
+    <minDate>1917-01-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>40.2411</latitude>
+    <longitude>-83.3669</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0003</id>
+    <displayName>MARYVILLE 0.9 SSW, TN US</displayName>
+    <minDate>2007-04-07</minDate>
+    <maxDate>2007-12-02</maxDate>
+    <latitude>35.7342</latitude>
+    <longitude>-83.9775</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA147</id>
+    <displayName>MARYVILLE 1.4 SSW, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.324</latitude>
+    <longitude>-94.879</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0012</id>
+    <displayName>MARYVILLE 1.6 E, TN US</displayName>
+    <minDate>2007-12-03</minDate>
+    <maxDate>2008-07-22</maxDate>
+    <latitude>35.7452</latitude>
+    <longitude>-83.9438</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9571</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0013</id>
+    <displayName>MARYVILLE 1.7 W, TN US</displayName>
+    <minDate>2008-02-24</minDate>
+    <maxDate>2009-11-12</maxDate>
+    <latitude>35.7432</latitude>
+    <longitude>-84.0024</longitude>
+    <elevation>288</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1672</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235340</id>
+    <displayName>MARYVILLE 2 E, MO US</displayName>
+    <minDate>1894-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3458</latitude>
+    <longitude>-94.8341</longitude>
+    <elevation>300.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0019</id>
+    <displayName>MARYVILLE 2.9 S, TN US</displayName>
+    <minDate>2009-09-24</minDate>
+    <maxDate>2012-10-18</maxDate>
+    <latitude>35.7054</latitude>
+    <longitude>-83.9775</longitude>
+    <elevation>318.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1365</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0011</id>
+    <displayName>MARYVILLE 4.1 SSW, TN US</displayName>
+    <minDate>2007-06-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6955</latitude>
+    <longitude>-84.0068</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0007</id>
+    <displayName>MARYVILLE 4.4 SW, TN US</displayName>
+    <minDate>2007-04-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.696</latitude>
+    <longitude>-84.018</longitude>
+    <elevation>365.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9453</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235345</id>
+    <displayName>MARYVILLE 6 NNW, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.41667</latitude>
+    <longitude>-94.88333</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0002</id>
+    <displayName>MARYVILLE 8.3 SSW, TN US</displayName>
+    <minDate>2007-04-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6402</latitude>
+    <longitude>-84.0383</longitude>
+    <elevation>282.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3218</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0253</id>
+    <displayName>MAS 8.0 NW, CO US</displayName>
+    <minDate>1998-06-11</minDate>
+    <maxDate>2008-04-15</maxDate>
+    <latitude>40.5592</latitude>
+    <longitude>-105.2951</longitude>
+    <elevation>1880.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6063</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175030</id>
+    <displayName>MASARDIS, ME US</displayName>
+    <minDate>1893-03-12</minDate>
+    <maxDate>1894-04-06</maxDate>
+    <latitude>46.5</latitude>
+    <longitude>-68.36667</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNKX0011</id>
+    <displayName>MASCOT 1.4 NNE, TN US</displayName>
+    <minDate>2007-01-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0865</latitude>
+    <longitude>-83.7559</longitude>
+    <elevation>309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8487</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNJF0001</id>
+    <displayName>MASCOT 4.5 E, TN US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2012-09-18</maxDate>
+    <latitude>36.0768</latitude>
+    <longitude>-83.6858</longitude>
+    <elevation>296.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSC0001</id>
+    <displayName>MASCOUTAH 0.5 WSW, IL US</displayName>
+    <minDate>2006-12-18</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.5067</latitude>
+    <longitude>-89.8148</longitude>
+    <elevation>128.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9216</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSC0012</id>
+    <displayName>MASCOUTAH 1.5 SSE, IL US</displayName>
+    <minDate>2010-03-17</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>38.4898</latitude>
+    <longitude>-89.7946</longitude>
+    <elevation>130.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115405</id>
+    <displayName>MASCOUTAH, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1954-04-30</maxDate>
+    <latitude>38.48333</latitude>
+    <longitude>-89.8</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMSN002</id>
+    <displayName>MASON 0.7 S, TX US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2009-05-04</maxDate>
+    <latitude>30.7396</latitude>
+    <longitude>-99.2311</longitude>
+    <elevation>497.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9113</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMSN001</id>
+    <displayName>MASON 0.8 SSE, TX US</displayName>
+    <minDate>2007-10-02</minDate>
+    <maxDate>2009-05-08</maxDate>
+    <latitude>30.7394</latitude>
+    <longitude>-99.2246</longitude>
+    <elevation>474</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHHL0021</id>
+    <displayName>MASON 1.9 NNW, NH US</displayName>
+    <minDate>2009-08-13</minDate>
+    <maxDate>2010-08-13</maxDate>
+    <latitude>42.7708</latitude>
+    <longitude>-71.7828</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMSN003</id>
+    <displayName>MASON 2.9 ENE, TX US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.762</latitude>
+    <longitude>-99.185</longitude>
+    <elevation>469.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1666</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIIH0016</id>
+    <displayName>MASON 6.4 W, MI US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2012-09-18</maxDate>
+    <latitude>42.5814</latitude>
+    <longitude>-84.5697</longitude>
+    <elevation>287.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7812</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACG0004</id>
+    <displayName>MASON CITY 1.3 W, IA US</displayName>
+    <minDate>2009-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.152</latitude>
+    <longitude>-93.2243</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014940</id>
+    <displayName>MASON CITY MUNICIPAL AIRPORT, IA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.1544</latitude>
+    <longitude>-93.3269</longitude>
+    <elevation>373.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00135232</id>
+    <displayName>MASON CITY NUMBER 1, IA US</displayName>
+    <minDate>2000-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.1533</latitude>
+    <longitude>-93.198</longitude>
+    <elevation>334.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00135230</id>
+    <displayName>MASON CITY, IA US</displayName>
+    <minDate>1893-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.163</latitude>
+    <longitude>-93.1952</longitude>
+    <elevation>336.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115413</id>
+    <displayName>MASON CITY, IL US</displayName>
+    <minDate>1937-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.2273</latitude>
+    <longitude>-89.6948</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6657</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255250</id>
+    <displayName>MASON CITY, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.22</latitude>
+    <longitude>-99.298</longitude>
+    <elevation>688.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355258</id>
+    <displayName>MASON DAM, OR US</displayName>
+    <minDate>1969-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.67194</latitude>
+    <longitude>-117.99417</longitude>
+    <elevation>1188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TMAS</id>
+    <displayName>MASON TEXAS, TX US</displayName>
+    <minDate>2003-01-16</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.7358</latitude>
+    <longitude>-99.1861</longitude>
+    <elevation>445.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405720</id>
+    <displayName>MASON, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-17</maxDate>
+    <latitude>35.4158</latitude>
+    <longitude>-89.5317</longitude>
+    <elevation>97.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415650</id>
+    <displayName>MASON, TX US</displayName>
+    <minDate>1941-11-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.74778</latitude>
+    <longitude>-99.23056</longitude>
+    <elevation>472.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9424</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0061</id>
+    <displayName>MASONVILLE 3.4 NW, CO US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5205</latitude>
+    <longitude>-105.2564</longitude>
+    <elevation>1767.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0558</id>
+    <displayName>MASONVILLE 4 E, CO US</displayName>
+    <minDate>2003-10-05</minDate>
+    <maxDate>2011-10-20</maxDate>
+    <latitude>40.4887</latitude>
+    <longitude>-105.1716</longitude>
+    <elevation>1862.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205216</id>
+    <displayName>MASS, MI US</displayName>
+    <minDate>1940-05-01</minDate>
+    <maxDate>1954-01-20</maxDate>
+    <latitude>46.76667</latitude>
+    <longitude>-89.08333</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7708</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00275211</id>
+    <displayName>MASSABESIC LAKE, NH US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>42.9891</latitude>
+    <longitude>-71.3932</longitude>
+    <elevation>77.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264876</id>
+    <displayName>MASSACRE LAKES, NV US</displayName>
+    <minDate>1910-03-01</minDate>
+    <maxDate>1912-10-31</maxDate>
+    <latitude>41.6</latitude>
+    <longitude>-119.6</longitude>
+    <elevation>1767.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8422</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105678</id>
+    <displayName>MASSACRE ROCKS STATE PARK, ID US</displayName>
+    <minDate>1973-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.668</latitude>
+    <longitude>-112.998</longitude>
+    <elevation>1278.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9282</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055422</id>
+    <displayName>MASSADONA 3 E, CO US</displayName>
+    <minDate>1986-01-01</minDate>
+    <maxDate>2009-06-30</maxDate>
+    <latitude>40.2844</latitude>
+    <longitude>-108.605</longitude>
+    <elevation>1871.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055420</id>
+    <displayName>MASSADONA, CO US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.2528</latitude>
+    <longitude>-108.6405</longitude>
+    <elevation>1767.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094725</id>
+    <displayName>MASSENA INTERNATIONAL AIRPORT, NY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.93583</latitude>
+    <longitude>-74.84583</longitude>
+    <elevation>65.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305129</id>
+    <displayName>MASSENA SNELL LOCK, NY US</displayName>
+    <minDate>1894-07-11</minDate>
+    <maxDate>1962-11-30</maxDate>
+    <latitude>44.98333</latitude>
+    <longitude>-74.78333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3293</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00135250</id>
+    <displayName>MASSENA, IA US</displayName>
+    <minDate>1979-06-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>41.2552</latitude>
+    <longitude>-94.765</longitude>
+    <elevation>403.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9332</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334992</id>
+    <displayName>MASSILLON, OH US</displayName>
+    <minDate>2005-06-03</minDate>
+    <maxDate>2007-05-09</maxDate>
+    <latitude>40.76667</latitude>
+    <longitude>-81.53333</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2295</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00315368</id>
+    <displayName>MAST, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.25</latitude>
+    <longitude>-81.8</longitude>
+    <elevation>816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TMAA</id>
+    <displayName>MATADOR W.M.A. TEXAS, TX US</displayName>
+    <minDate>2000-11-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.1333</latitude>
+    <longitude>-100.4167</longitude>
+    <elevation>579.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415658</id>
+    <displayName>MATADOR, TX US</displayName>
+    <minDate>1947-11-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.025</latitude>
+    <longitude>-100.81722</longitude>
+    <elevation>722.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TMAT</id>
+    <displayName>MATAGORDA ISLAND TEXAS, TX US</displayName>
+    <minDate>2003-06-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>28.1228</latitude>
+    <longitude>-96.8022</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9154</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365470</id>
+    <displayName>MATAMORAS, PA US</displayName>
+    <minDate>1904-10-01</minDate>
+    <maxDate>2012-03-27</maxDate>
+    <latitude>41.3913</latitude>
+    <longitude>-74.7173</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9443</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505733</id>
+    <displayName>MATANUSKA AGRICULTURAL EXPERIMENT STATION, AK US</displayName>
+    <minDate>1917-07-04</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>61.5663</latitude>
+    <longitude>-149.2541</longitude>
+    <elevation>52.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505725</id>
+    <displayName>MATANUSKA NUMBER 6, AK US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>1943-09-30</maxDate>
+    <latitude>61.5761</latitude>
+    <longitude>-149.0944</longitude>
+    <elevation>44.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5632</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505726</id>
+    <displayName>MATANUSKA NUMBER 7, AK US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>1943-11-24</maxDate>
+    <latitude>61.5792</latitude>
+    <longitude>-149.1597</longitude>
+    <elevation>33.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5902</coverage>
+  </station>
+</stationCollection>

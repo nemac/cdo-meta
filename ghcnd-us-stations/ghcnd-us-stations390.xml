@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="390">
+  <station>
+    <id>GHCND:US1TNWT0006</id>
+    <displayName>SPARTA 8.6 NW, TN US</displayName>
+    <minDate>2007-08-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0236</latitude>
+    <longitude>-85.5802</longitude>
+    <elevation>316.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9682</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OSPA</id>
+    <displayName>SPARTA BUTTE OREGON, OR US</displayName>
+    <minDate>1989-03-28</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.9083</latitude>
+    <longitude>-117.375</longitude>
+    <elevation>1303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9221</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098228</id>
+    <displayName>SPARTA NUMBER 2, GA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>33.28333</latitude>
+    <longitude>-82.98333</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207762</id>
+    <displayName>SPARTA PEACH RIDGE, MI US</displayName>
+    <minDate>1990-04-01</minDate>
+    <maxDate>2004-11-01</maxDate>
+    <latitude>43.1175</latitude>
+    <longitude>-85.75444</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1079</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408527</id>
+    <displayName>SPARTA TVA, TN US</displayName>
+    <minDate>1905-12-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.9</latitude>
+    <longitude>-85.48333</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSS0010</id>
+    <displayName>SPARTA TWP 1.6 S, NJ US</displayName>
+    <minDate>2008-11-21</minDate>
+    <maxDate>2010-02-15</maxDate>
+    <latitude>41.0244</latitude>
+    <longitude>-74.6234</longitude>
+    <elevation>308.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSS0023</id>
+    <displayName>SPARTA TWP 3.7 E, NJ US</displayName>
+    <minDate>2009-08-29</minDate>
+    <maxDate>2011-06-24</maxDate>
+    <latitude>41.0524</latitude>
+    <longitude>-74.5559</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408522</id>
+    <displayName>SPARTA WASTEWATER PLANT, TN US</displayName>
+    <minDate>1940-04-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9067</latitude>
+    <longitude>-85.4751</longitude>
+    <elevation>275.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098223</id>
+    <displayName>SPARTA, GA US</displayName>
+    <minDate>1897-01-01</minDate>
+    <maxDate>1999-02-28</maxDate>
+    <latitude>33.2725</latitude>
+    <longitude>-82.96694</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6625</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318158</id>
+    <displayName>SPARTA, NC US</displayName>
+    <minDate>1942-01-28</minDate>
+    <maxDate>2010-07-17</maxDate>
+    <latitude>36.4819</latitude>
+    <longitude>-81.0931</longitude>
+    <elevation>915.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357955</id>
+    <displayName>SPARTA, OR US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1926-01-31</maxDate>
+    <latitude>44.866667</latitude>
+    <longitude>-117.333333</longitude>
+    <elevation>1264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477997</id>
+    <displayName>SPARTA, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.9365</latitude>
+    <longitude>-90.8163</longitude>
+    <elevation>238.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6347</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCSP0026</id>
+    <displayName>SPARTANBURG 2.6 ENE, SC US</displayName>
+    <minDate>2009-03-30</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>34.9627</latitude>
+    <longitude>-81.888</longitude>
+    <elevation>230.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00388188</id>
+    <displayName>SPARTANBURG 3 SSE, SC US</displayName>
+    <minDate>1983-07-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.9077</latitude>
+    <longitude>-81.9138</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCSP0025</id>
+    <displayName>SPARTANBURG 3.4 ENE, SC US</displayName>
+    <minDate>2009-03-29</minDate>
+    <maxDate>2010-08-18</maxDate>
+    <latitude>34.9572</latitude>
+    <longitude>-81.8704</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCSP0008</id>
+    <displayName>SPARTANBURG 3.7 SE, SC US</displayName>
+    <minDate>2008-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9134</latitude>
+    <longitude>-81.8748</longitude>
+    <elevation>208.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7284</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCSP0014</id>
+    <displayName>SPARTANBURG 4.7 ENE, SC US</displayName>
+    <minDate>2008-04-29</minDate>
+    <maxDate>2012-07-19</maxDate>
+    <latitude>34.9732</latitude>
+    <longitude>-81.8522</longitude>
+    <elevation>222.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1542</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCSP0028</id>
+    <displayName>SPARTANBURG 5.1 WSW, SC US</displayName>
+    <minDate>2010-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9304</latitude>
+    <longitude>-82.0189</longitude>
+    <elevation>252.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00388181</id>
+    <displayName>SPARTANBURG, SC US</displayName>
+    <minDate>1963-01-01</minDate>
+    <maxDate>1973-04-30</maxDate>
+    <latitude>34.95</latitude>
+    <longitude>-81.9</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8166</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093804</id>
+    <displayName>SPARTANBURG, SC US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1962-10-14</maxDate>
+    <latitude>34.91667</latitude>
+    <longitude>-81.95</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00388186</id>
+    <displayName>SPARTANBURG, SC US</displayName>
+    <minDate>1973-03-29</minDate>
+    <maxDate>1982-12-31</maxDate>
+    <latitude>34.98333</latitude>
+    <longitude>-81.88333</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348380</id>
+    <displayName>SPAVINAW, OK US</displayName>
+    <minDate>1923-02-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3894</latitude>
+    <longitude>-95.0597</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418519</id>
+    <displayName>SPEAKS 2, TX US</displayName>
+    <minDate>1967-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>29.2728</latitude>
+    <longitude>-96.6858</longitude>
+    <elevation>43.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9523</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0015</id>
+    <displayName>SPEARFISH 0.1 WSW, SD US</displayName>
+    <minDate>2011-05-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.4882</latitude>
+    <longitude>-103.8493</longitude>
+    <elevation>1144.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9838</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0008</id>
+    <displayName>SPEARFISH 0.6 E, SD US</displayName>
+    <minDate>2007-07-17</minDate>
+    <maxDate>2012-04-15</maxDate>
+    <latitude>44.4876</latitude>
+    <longitude>-103.8354</longitude>
+    <elevation>1229</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8213</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0016</id>
+    <displayName>SPEARFISH 3.4 NNW, SD US</displayName>
+    <minDate>2011-05-12</minDate>
+    <maxDate>2012-07-30</maxDate>
+    <latitude>44.5329</latitude>
+    <longitude>-103.8788</longitude>
+    <elevation>1051.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2466</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397877</id>
+    <displayName>SPEARFISH 9 WNW, SD US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1964-07-22</maxDate>
+    <latitude>44.55</latitude>
+    <longitude>-104.01667</longitude>
+    <elevation>1046.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0002</id>
+    <displayName>SPEARFISH 9.4 WNW, SD US</displayName>
+    <minDate>2007-06-02</minDate>
+    <maxDate>2009-12-23</maxDate>
+    <latitude>44.5589</latitude>
+    <longitude>-104.0114</longitude>
+    <elevation>1033.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2382</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397882</id>
+    <displayName>SPEARFISH, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5139</latitude>
+    <longitude>-103.8722</longitude>
+    <elevation>1109.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9351</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418523</id>
+    <displayName>SPEARMAN, TX US</displayName>
+    <minDate>1920-08-01</minDate>
+    <maxDate>2003-09-30</maxDate>
+    <latitude>36.19806</latitude>
+    <longitude>-101.18472</longitude>
+    <elevation>943.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168669</id>
+    <displayName>SPEARSVILLE, LA US</displayName>
+    <minDate>1943-10-01</minDate>
+    <maxDate>2005-06-30</maxDate>
+    <latitude>32.90056</latitude>
+    <longitude>-92.57139</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8494</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSFO0032</id>
+    <displayName>SPEARVILLE 0.0 NNW, KS US</displayName>
+    <minDate>2012-07-13</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>37.8483</latitude>
+    <longitude>-99.7545</longitude>
+    <elevation>749.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9212</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSFO0029</id>
+    <displayName>SPEARVILLE 6.9 SW, KS US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>37.7704</latitude>
+    <longitude>-99.8331</longitude>
+    <elevation>751</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7746</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYHM0001</id>
+    <displayName>SPECULATOR 10.0 SSW, NY US</displayName>
+    <minDate>2007-11-17</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>43.4513</latitude>
+    <longitude>-74.4712</longitude>
+    <elevation>524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2283</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308080</id>
+    <displayName>SPECULATOR, NY US</displayName>
+    <minDate>1901-02-01</minDate>
+    <maxDate>2000-11-30</maxDate>
+    <latitude>43.5</latitude>
+    <longitude>-74.36167</longitude>
+    <elevation>530.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237960</id>
+    <displayName>SPEED 2 NW, MO US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.86667</latitude>
+    <longitude>-92.83333</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0069</id>
+    <displayName>SPEEDWAY 0.2 NW, IN US</displayName>
+    <minDate>2010-05-28</minDate>
+    <maxDate>2012-06-29</maxDate>
+    <latitude>39.795</latitude>
+    <longitude>-86.2495</longitude>
+    <elevation>223.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0013</id>
+    <displayName>SPEEDWAY 6.2 SSW, IN US</displayName>
+    <minDate>2006-05-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7067</latitude>
+    <longitude>-86.281</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9506</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00128271</id>
+    <displayName>SPEEDWAY INDIANAPOLIS, IN US</displayName>
+    <minDate>1920-10-01</minDate>
+    <maxDate>1923-09-30</maxDate>
+    <latitude>39.783333</latitude>
+    <longitude>-86.25</longitude>
+    <elevation>221.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447971</id>
+    <displayName>SPEEDWELL, VA US</displayName>
+    <minDate>1940-03-24</minDate>
+    <maxDate>1985-09-30</maxDate>
+    <latitude>36.81667</latitude>
+    <longitude>-81.16667</longitude>
+    <elevation>714.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9422</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508672</id>
+    <displayName>SPEEL RIVER, AK US</displayName>
+    <minDate>1915-01-01</minDate>
+    <maxDate>1931-06-11</maxDate>
+    <latitude>58.13333</latitude>
+    <longitude>-134.23333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7676</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447976</id>
+    <displayName>SPEERS FERRY, VA US</displayName>
+    <minDate>1895-12-01</minDate>
+    <maxDate>1933-07-15</maxDate>
+    <latitude>36.983333</latitude>
+    <longitude>-82.75</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9309</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACY0003</id>
+    <displayName>SPENCER 0.6 NE, IA US</displayName>
+    <minDate>2008-02-10</minDate>
+    <maxDate>2011-07-11</maxDate>
+    <latitude>43.1521</latitude>
+    <longitude>-95.1438</longitude>
+    <elevation>401.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.137</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137844</id>
+    <displayName>SPENCER 1 N, IA US</displayName>
+    <minDate>1895-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.1652</latitude>
+    <longitude>-95.1466</longitude>
+    <elevation>404.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308086</id>
+    <displayName>SPENCER 1 NE, NY US</displayName>
+    <minDate>1997-05-01</minDate>
+    <maxDate>2007-05-31</maxDate>
+    <latitude>42.21667</latitude>
+    <longitude>-76.46667</longitude>
+    <elevation>356.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488475</id>
+    <displayName>SPENCER 10 NE, WY US</displayName>
+    <minDate>1917-08-01</minDate>
+    <maxDate>1974-06-30</maxDate>
+    <latitude>43.43333</latitude>
+    <longitude>-104.16667</longitude>
+    <elevation>1158.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348390</id>
+    <displayName>SPENCER 2 ENE MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>35.54194</latitude>
+    <longitude>-97.34139</longitude>
+    <elevation>372.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308088</id>
+    <displayName>SPENCER 2 N, NY US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>1994-01-31</maxDate>
+    <latitude>42.25</latitude>
+    <longitude>-76.5</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9377</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308091</id>
+    <displayName>SPENCER 2 W, NY US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>1961-01-31</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-76.53333</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308090</id>
+    <displayName>SPENCER 2 W, NY US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1956-07-31</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-76.53333</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308089</id>
+    <displayName>SPENCER 2 WSW, NY US</displayName>
+    <minDate>1956-04-01</minDate>
+    <maxDate>1961-01-31</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-76.53333</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10boyd003</id>
+    <displayName>SPENCER 3.5 NE, NE US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>42.9141</latitude>
+    <longitude>-98.6603</longitude>
+    <elevation>513</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1585</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INOW0002</id>
+    <displayName>SPENCER 4.4 E, IN US</displayName>
+    <minDate>2006-04-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2947</latitude>
+    <longitude>-86.6878</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9443</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNVB0001</id>
+    <displayName>SPENCER 4.4 NW, TN US</displayName>
+    <minDate>2007-04-30</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>35.7883</latitude>
+    <longitude>-85.51</longitude>
+    <elevation>385</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408515</id>
+    <displayName>SPENCER 5 NE, TN US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8146</latitude>
+    <longitude>-85.4244</longitude>
+    <elevation>269.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258040</id>
+    <displayName>SPENCER 5 SSE, NE US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.8102</latitude>
+    <longitude>-98.6558</longitude>
+    <elevation>466.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6021</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10holt024</id>
+    <displayName>SPENCER 5.9 SE, NE US</displayName>
+    <minDate>2011-07-07</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.7982</latitude>
+    <longitude>-98.6506</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9086</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INOW0011</id>
+    <displayName>SPENCER 6.5 SE, IN US</displayName>
+    <minDate>2009-04-10</minDate>
+    <maxDate>2012-11-05</maxDate>
+    <latitude>39.2292</latitude>
+    <longitude>-86.688</longitude>
+    <elevation>258.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7243</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INOW0009</id>
+    <displayName>SPENCER 7.0 S, IN US</displayName>
+    <minDate>2007-02-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1858</latitude>
+    <longitude>-86.7782</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021C20S</id>
+    <displayName>SPENCER MEADOW, WA US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.1833</latitude>
+    <longitude>-121.9333</longitude>
+    <elevation>1036.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014972</id>
+    <displayName>SPENCER MUNICIPAL AIRPORT, IA US</displayName>
+    <minDate>1996-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.16444</latitude>
+    <longitude>-95.20167</longitude>
+    <elevation>407.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137847</id>
+    <displayName>SPENCER NUMBER 2, IA US</displayName>
+    <minDate>1988-03-01</minDate>
+    <maxDate>1990-05-31</maxDate>
+    <latitude>43.1369</latitude>
+    <longitude>-95.1444</longitude>
+    <elevation>394.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00128295</id>
+    <displayName>SPENCER WATER WORKS, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.28333</latitude>
+    <longitude>-86.76667</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108604</id>
+    <displayName>SPENCER, ID US</displayName>
+    <minDate>1915-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.3605</latitude>
+    <longitude>-112.1864</longitude>
+    <elevation>1795.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.44</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00128290</id>
+    <displayName>SPENCER, IN US</displayName>
+    <minDate>1946-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2836</latitude>
+    <longitude>-86.7702</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468384</id>
+    <displayName>SPENCER, WV US</displayName>
+    <minDate>1892-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8009</latitude>
+    <longitude>-81.3583</longitude>
+    <elevation>287.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9139</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYMR0032</id>
+    <displayName>SPENCERPORT 2.6 S, NY US</displayName>
+    <minDate>2010-07-19</minDate>
+    <maxDate>2012-10-21</maxDate>
+    <latitude>43.1501</latitude>
+    <longitude>-77.804</longitude>
+    <elevation>186.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4516</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308096</id>
+    <displayName>SPENCERTOWN, NY US</displayName>
+    <minDate>1929-10-01</minDate>
+    <maxDate>1959-05-31</maxDate>
+    <latitude>42.33333</latitude>
+    <longitude>-73.55</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAL0001</id>
+    <displayName>SPENCERVILLE 0.3 SSE, OH US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2011-05-15</maxDate>
+    <latitude>40.7035</latitude>
+    <longitude>-84.3516</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2473</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348407</id>
+    <displayName>SPENCERVILLE 1 E, OK US</displayName>
+    <minDate>1941-08-11</minDate>
+    <maxDate>1956-11-30</maxDate>
+    <latitude>34.15</latitude>
+    <longitude>-95.35</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9261</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAL0006</id>
+    <displayName>SPENCERVILLE 1.1 NNE, OH US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2009-12-30</maxDate>
+    <latitude>40.7228</latitude>
+    <longitude>-84.344</longitude>
+    <elevation>252.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8815</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0010</id>
+    <displayName>SPERRY 0.7 WSW, OK US</displayName>
+    <minDate>2008-07-16</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>36.293</latitude>
+    <longitude>-95.9978</longitude>
+    <elevation>191.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5815</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKOS0004</id>
+    <displayName>SPERRY 6.7 WNW, OK US</displayName>
+    <minDate>2009-06-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.335</latitude>
+    <longitude>-96.0975</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VARP0002</id>
+    <displayName>SPERRYVILLE 0.9 NE, VA US</displayName>
+    <minDate>2006-01-12</minDate>
+    <maxDate>2009-02-12</maxDate>
+    <latitude>38.68</latitude>
+    <longitude>-78.24</longitude>
+    <elevation>256.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9468</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308099</id>
+    <displayName>SPERRYVILLE, NY US</displayName>
+    <minDate>1926-08-01</minDate>
+    <maxDate>1941-10-31</maxDate>
+    <latitude>43.766667</latitude>
+    <longitude>-75.3</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447985</id>
+    <displayName>SPERRYVILLE, VA US</displayName>
+    <minDate>1995-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6553</latitude>
+    <longitude>-78.2272</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNKD0005</id>
+    <displayName>SPICER 6.1 WNW, MN US</displayName>
+    <minDate>2011-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.2678</latitude>
+    <longitude>-95.0566</longitude>
+    <elevation>352.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8304</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057848</id>
+    <displayName>SPICER, CO US</displayName>
+    <minDate>1909-11-01</minDate>
+    <maxDate>2003-01-31</maxDate>
+    <latitude>40.4725</latitude>
+    <longitude>-106.4475</longitude>
+    <elevation>2555.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT007</id>
+    <displayName>SPICEWOOD 1.4 SE, TX US</displayName>
+    <minDate>2007-09-21</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>30.4671</latitude>
+    <longitude>-98.1345</longitude>
+    <elevation>253.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6229</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT036</id>
+    <displayName>SPICEWOOD 2.2 NW, TX US</displayName>
+    <minDate>2011-07-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.495</latitude>
+    <longitude>-98.1845</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2121</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT025</id>
+    <displayName>SPICEWOOD 2.5 SW, TX US</displayName>
+    <minDate>2009-10-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4497</latitude>
+    <longitude>-98.1546</longitude>
+    <elevation>288.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT046</id>
+    <displayName>SPICEWOOD 2.6 ESE, TX US</displayName>
+    <minDate>2012-04-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>30.4589</latitude>
+    <longitude>-98.1176</longitude>
+    <elevation>251.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT008</id>
+    <displayName>SPICEWOOD 3.0 NNE, TX US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2008-11-29</maxDate>
+    <latitude>30.5139</latitude>
+    <longitude>-98.1395</longitude>
+    <elevation>236.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5049</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT038</id>
+    <displayName>SPICEWOOD 4.2 WNW, TX US</displayName>
+    <minDate>2012-03-19</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.505</latitude>
+    <longitude>-98.2267</longitude>
+    <elevation>282.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7767</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT006</id>
+    <displayName>SPICEWOOD 4.4 NW, TX US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4975</latitude>
+    <longitude>-98.2258</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8226</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418531</id>
+    <displayName>SPICEWOOD, TX US</displayName>
+    <minDate>1968-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4827</latitude>
+    <longitude>-98.1597</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOGY0005</id>
+    <displayName>SPICKARD 4.9 WSW, MO US</displayName>
+    <minDate>2011-03-31</minDate>
+    <maxDate>2011-11-22</maxDate>
+    <latitude>40.2135</latitude>
+    <longitude>-93.677</longitude>
+    <elevation>273.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237963</id>
+    <displayName>SPICKARD 7 W, MO US</displayName>
+    <minDate>1957-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2472</latitude>
+    <longitude>-93.7158</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9689</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308104</id>
+    <displayName>SPIER FALLS, NY US</displayName>
+    <minDate>1901-08-01</minDate>
+    <maxDate>1975-08-31</maxDate>
+    <latitude>43.23333</latitude>
+    <longitude>-73.75</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9609</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457905</id>
+    <displayName>SPIKEMAN RANGER STATION, WA US</displayName>
+    <minDate>1914-12-01</minDate>
+    <maxDate>1920-03-31</maxDate>
+    <latitude>48.55</latitude>
+    <longitude>-119.666667</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4507</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258055</id>
+    <displayName>SPIKER 3 NE, NE US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.61667</latitude>
+    <longitude>-96.25</longitude>
+    <elevation>408.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258050</id>
+    <displayName>SPIKER 4 N, NE US</displayName>
+    <minDate>1946-03-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-96.33333</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8854</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137855</id>
+    <displayName>SPILLVILLE, IA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.2052</latitude>
+    <longitude>-91.9535</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSPI</id>
+    <displayName>SPINCICH LAKE MICHIGAN, MI US</displayName>
+    <minDate>2002-10-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.4578</latitude>
+    <longitude>-85.6272</longitude>
+    <elevation>273.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7902</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418536</id>
+    <displayName>SPINKS RANCH, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1964-03-31</maxDate>
+    <latitude>30.76667</latitude>
+    <longitude>-99.83333</longitude>
+    <elevation>680</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478018</id>
+    <displayName>SPIRIT FALLS, WI US</displayName>
+    <minDate>1948-06-04</minDate>
+    <maxDate>2012-07-30</maxDate>
+    <latitude>45.4566</latitude>
+    <longitude>-89.9691</longitude>
+    <elevation>453.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDKT0001</id>
+    <displayName>SPIRIT LAKE 3.6 E, ID US</displayName>
+    <minDate>2008-12-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.9597</latitude>
+    <longitude>-116.7939</longitude>
+    <elevation>775.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457919</id>
+    <displayName>SPIRIT LAKE RANGER STATION, WA US</displayName>
+    <minDate>1932-05-01</minDate>
+    <maxDate>1956-08-31</maxDate>
+    <latitude>46.26667</latitude>
+    <longitude>-122.15</longitude>
+    <elevation>987.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137859</id>
+    <displayName>SPIRIT LAKE, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.423</latitude>
+    <longitude>-95.1394</longitude>
+    <elevation>432.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.224</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108610</id>
+    <displayName>SPIRIT LAKE, ID US</displayName>
+    <minDate>1908-04-20</minDate>
+    <maxDate>1913-03-31</maxDate>
+    <latitude>47.966667</latitude>
+    <longitude>-116.866667</longitude>
+    <elevation>780.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6182</coverage>
+  </station>
+</stationCollection>

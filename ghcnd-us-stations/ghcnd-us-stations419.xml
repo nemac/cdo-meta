@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="419">
+  <station>
+    <id>GHCND:US1AZPM0003</id>
+    <displayName>TUCSON 11.7 NNW, AZ US</displayName>
+    <minDate>2009-08-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3477</latitude>
+    <longitude>-110.9802</longitude>
+    <elevation>773.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.913</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0146</id>
+    <displayName>TUCSON 11.8 ENE, AZ US</displayName>
+    <minDate>2010-04-22</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.303</latitude>
+    <longitude>-110.7438</longitude>
+    <elevation>867.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0161</id>
+    <displayName>TUCSON 11.8 SE, AZ US</displayName>
+    <minDate>2010-06-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.099</latitude>
+    <longitude>-110.778</longitude>
+    <elevation>911</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5671</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0159</id>
+    <displayName>TUCSON 11.9 ENE, AZ US</displayName>
+    <minDate>2010-06-30</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2929</latitude>
+    <longitude>-110.736</longitude>
+    <elevation>845.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0166</id>
+    <displayName>TUCSON 11.9 SE, AZ US</displayName>
+    <minDate>2010-07-12</minDate>
+    <maxDate>2011-11-05</maxDate>
+    <latitude>32.1003</latitude>
+    <longitude>-110.7731</longitude>
+    <elevation>912.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4378</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0206</id>
+    <displayName>TUCSON 12.3 NW, AZ US</displayName>
+    <minDate>2012-06-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3585</latitude>
+    <longitude>-111.0515</longitude>
+    <elevation>713.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9774</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0191</id>
+    <displayName>TUCSON 13.5 NW, AZ US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3686</latitude>
+    <longitude>-111.0714</longitude>
+    <elevation>697.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0112</id>
+    <displayName>TUCSON 14.5 NNW, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.4223</latitude>
+    <longitude>-110.9843</longitude>
+    <elevation>844.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0156</id>
+    <displayName>TUCSON 14.7 E, AZ US</displayName>
+    <minDate>2010-06-30</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2546</latitude>
+    <longitude>-110.672</longitude>
+    <elevation>861.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2039</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0181</id>
+    <displayName>TUCSON 15.5 NW, AZ US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3707</latitude>
+    <longitude>-111.118</longitude>
+    <elevation>648</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0094</id>
+    <displayName>TUCSON 15.8 NNW, AZ US</displayName>
+    <minDate>2009-11-29</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>32.4355</latitude>
+    <longitude>-111.0124</longitude>
+    <elevation>865.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9036</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0114</id>
+    <displayName>TUCSON 15.9 WNW, AZ US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>32.3137</latitude>
+    <longitude>-111.1694</longitude>
+    <elevation>770.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6375</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028795</id>
+    <displayName>TUCSON 17 NW, AZ US</displayName>
+    <minDate>1982-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.2541</latitude>
+    <longitude>-111.1961</longitude>
+    <elevation>780.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9593</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0107</id>
+    <displayName>TUCSON 18.6 WNW, AZ US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3427</latitude>
+    <longitude>-111.2041</longitude>
+    <elevation>671.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.782</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0122</id>
+    <displayName>TUCSON 2.0 ENE, AZ US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.2315</latitude>
+    <longitude>-110.8878</longitude>
+    <elevation>766.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0119</id>
+    <displayName>TUCSON 2.0 ENE, AZ US</displayName>
+    <minDate>2010-01-12</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.2319</latitude>
+    <longitude>-110.8893</longitude>
+    <elevation>768.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0037</id>
+    <displayName>TUCSON 2.5 NNW, AZ US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2010-11-01</maxDate>
+    <latitude>32.2284</latitude>
+    <longitude>-110.9119</longitude>
+    <elevation>764.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0051</id>
+    <displayName>TUCSON 2.5 WNW, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2144</latitude>
+    <longitude>-110.929</longitude>
+    <elevation>752.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0002</id>
+    <displayName>TUCSON 2.8 E, AZ US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.1883</latitude>
+    <longitude>-110.8442</longitude>
+    <elevation>819.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9786</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0189</id>
+    <displayName>TUCSON 2.9 NNW, AZ US</displayName>
+    <minDate>2011-07-19</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>32.2563</latitude>
+    <longitude>-110.9454</longitude>
+    <elevation>732.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0029</id>
+    <displayName>TUCSON 21.7 N, AZ US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5304</latitude>
+    <longitude>-110.8593</longitude>
+    <elevation>976.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0186</id>
+    <displayName>TUCSON 3.0 NNW, AZ US</displayName>
+    <minDate>2011-07-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2577</latitude>
+    <longitude>-110.9464</longitude>
+    <elevation>731.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5127</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0103</id>
+    <displayName>TUCSON 3.0 WNW, AZ US</displayName>
+    <minDate>2008-07-07</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>32.2403</latitude>
+    <longitude>-110.9648</longitude>
+    <elevation>730.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5349</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0164</id>
+    <displayName>TUCSON 3.1 ENE, AZ US</displayName>
+    <minDate>2010-07-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2444</latitude>
+    <longitude>-110.8759</longitude>
+    <elevation>760.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0019</id>
+    <displayName>TUCSON 3.2 N, AZ US</displayName>
+    <minDate>2009-09-05</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.2416</latitude>
+    <longitude>-110.8835</longitude>
+    <elevation>760.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0173</id>
+    <displayName>TUCSON 3.5 N, AZ US</displayName>
+    <minDate>2010-08-19</minDate>
+    <maxDate>2011-11-14</maxDate>
+    <latitude>32.2697</latitude>
+    <longitude>-110.9303</longitude>
+    <elevation>728.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9713</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0036</id>
+    <displayName>TUCSON 3.9 NW, AZ US</displayName>
+    <minDate>2009-08-22</minDate>
+    <maxDate>2010-07-07</maxDate>
+    <latitude>32.2376</latitude>
+    <longitude>-110.9375</longitude>
+    <elevation>750.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0081</id>
+    <displayName>TUCSON 3.9 NW, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2407</latitude>
+    <longitude>-110.9317</longitude>
+    <elevation>747.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028799</id>
+    <displayName>TUCSON 4, AZ US</displayName>
+    <minDate>1898-06-21</minDate>
+    <maxDate>1900-01-31</maxDate>
+    <latitude>32.216667</latitude>
+    <longitude>-110.966667</longitude>
+    <elevation>716.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7424</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0108</id>
+    <displayName>TUCSON 4.1 N, AZ US</displayName>
+    <minDate>2009-01-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2785</latitude>
+    <longitude>-110.9303</longitude>
+    <elevation>719.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7902</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0050</id>
+    <displayName>TUCSON 4.1 NNW, AZ US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>32.2536</latitude>
+    <longitude>-110.9075</longitude>
+    <elevation>743.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0145</id>
+    <displayName>TUCSON 4.9 E, AZ US</displayName>
+    <minDate>2010-01-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2163</latitude>
+    <longitude>-110.8363</longitude>
+    <elevation>795.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7079</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0148</id>
+    <displayName>TUCSON 5.0 NNW, AZ US</displayName>
+    <minDate>2010-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2806</latitude>
+    <longitude>-110.9672</longitude>
+    <elevation>710.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8185</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0005</id>
+    <displayName>TUCSON 5.0 NNW, AZ US</displayName>
+    <minDate>2009-08-17</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2599</latitude>
+    <longitude>-110.9331</longitude>
+    <elevation>732.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0124</id>
+    <displayName>TUCSON 5.2 NNW, AZ US</displayName>
+    <minDate>2010-01-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2829</latitude>
+    <longitude>-110.9689</longitude>
+    <elevation>708.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0201</id>
+    <displayName>TUCSON 5.3 WNW, AZ US</displayName>
+    <minDate>2012-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2464</latitude>
+    <longitude>-111.0046</longitude>
+    <elevation>704.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8868</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0087</id>
+    <displayName>TUCSON 5.5 E, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.1923</latitude>
+    <longitude>-110.7968</longitude>
+    <elevation>836.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0064</id>
+    <displayName>TUCSON 5.5 NNE, AZ US</displayName>
+    <minDate>2009-09-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2662</latitude>
+    <longitude>-110.8477</longitude>
+    <elevation>752.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8137</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0085</id>
+    <displayName>TUCSON 5.6 ESE, AZ US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2012-07-30</maxDate>
+    <latitude>32.1711</latitude>
+    <longitude>-110.801</longitude>
+    <elevation>844.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4447</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0174</id>
+    <displayName>TUCSON 5.7 S, AZ US</displayName>
+    <minDate>2010-08-24</minDate>
+    <maxDate>2012-09-07</maxDate>
+    <latitude>32.1383</latitude>
+    <longitude>-110.9105</longitude>
+    <elevation>802.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0082</id>
+    <displayName>TUCSON 5.8 ENE, AZ US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2261</latitude>
+    <longitude>-110.7984</longitude>
+    <elevation>805.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0095</id>
+    <displayName>TUCSON 5.9 SSW, AZ US</displayName>
+    <minDate>2011-06-11</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>32.1451</latitude>
+    <longitude>-110.9676</longitude>
+    <elevation>765.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8074</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0184</id>
+    <displayName>TUCSON 6.2 ENE, AZ US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.2483</latitude>
+    <longitude>-110.82</longitude>
+    <elevation>774.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0015</id>
+    <displayName>TUCSON 6.2 NW, AZ US</displayName>
+    <minDate>2009-08-22</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2691</latitude>
+    <longitude>-110.9517</longitude>
+    <elevation>721.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6005</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0075</id>
+    <displayName>TUCSON 6.3 WNW, AZ US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>32.224</latitude>
+    <longitude>-110.9942</longitude>
+    <elevation>716.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0007</id>
+    <displayName>TUCSON 6.6 NE, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2534</latitude>
+    <longitude>-110.8023</longitude>
+    <elevation>773.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0149</id>
+    <displayName>TUCSON 6.6 WNW, AZ US</displayName>
+    <minDate>2010-07-09</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2513</latitude>
+    <longitude>-111.0271</longitude>
+    <elevation>730.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0106</id>
+    <displayName>TUCSON 7.2 NW, AZ US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3025</latitude>
+    <longitude>-110.9961</longitude>
+    <elevation>700.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0135</id>
+    <displayName>TUCSON 7.3 WNW, AZ US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.2709</latitude>
+    <longitude>-111.0296</longitude>
+    <elevation>703.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0131</id>
+    <displayName>TUCSON 7.5 N, AZ US</displayName>
+    <minDate>2009-03-24</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>32.3284</latitude>
+    <longitude>-110.9258</longitude>
+    <elevation>857.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6996</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0169</id>
+    <displayName>TUCSON 7.5 NNE, AZ US</displayName>
+    <minDate>2010-07-18</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.3138</latitude>
+    <longitude>-110.855</longitude>
+    <elevation>876.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1287</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0171</id>
+    <displayName>TUCSON 7.5 NNW, AZ US</displayName>
+    <minDate>2010-08-09</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>32.3242</latitude>
+    <longitude>-110.9567</longitude>
+    <elevation>789.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.187</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0054</id>
+    <displayName>TUCSON 7.6 NNE, AZ US</displayName>
+    <minDate>2009-09-06</minDate>
+    <maxDate>2011-07-21</maxDate>
+    <latitude>32.2944</latitude>
+    <longitude>-110.835</longitude>
+    <elevation>811.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0213</id>
+    <displayName>TUCSON 7.9 E, AZ US</displayName>
+    <minDate>2012-06-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2375</latitude>
+    <longitude>-110.7864</longitude>
+    <elevation>789.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0198</id>
+    <displayName>TUCSON 7.9 N, AZ US</displayName>
+    <minDate>2012-04-14</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.3339</latitude>
+    <longitude>-110.9119</longitude>
+    <elevation>913.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9524</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0044</id>
+    <displayName>TUCSON 8.0 E, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2295</latitude>
+    <longitude>-110.7833</longitude>
+    <elevation>808.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0062</id>
+    <displayName>TUCSON 8.0 NW, AZ US</displayName>
+    <minDate>2009-08-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2763</latitude>
+    <longitude>-110.9904</longitude>
+    <elevation>705.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0072</id>
+    <displayName>TUCSON 8.3 NE, AZ US</displayName>
+    <minDate>2009-09-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.2754</latitude>
+    <longitude>-110.7845</longitude>
+    <elevation>808.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0208</id>
+    <displayName>TUCSON 8.3 WNW, AZ US</displayName>
+    <minDate>2012-06-03</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2672</latitude>
+    <longitude>-111.0508</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8386</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0010</id>
+    <displayName>TUCSON 8.4 ESE, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1366</latitude>
+    <longitude>-110.7679</longitude>
+    <elevation>888.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0132</id>
+    <displayName>TUCSON 8.5 NE, AZ US</displayName>
+    <minDate>2010-02-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2918</latitude>
+    <longitude>-110.8027</longitude>
+    <elevation>796.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9249</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0024</id>
+    <displayName>TUCSON 8.5 NE, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>32.2871</latitude>
+    <longitude>-110.7949</longitude>
+    <elevation>795.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4068</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0127</id>
+    <displayName>TUCSON 8.8 E, AZ US</displayName>
+    <minDate>2012-06-20</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2106</latitude>
+    <longitude>-110.7695</longitude>
+    <elevation>862</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9029</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0134</id>
+    <displayName>TUCSON 8.8 W, AZ US</displayName>
+    <minDate>2010-02-05</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.2402</latitude>
+    <longitude>-111.0689</longitude>
+    <elevation>812.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1527</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0210</id>
+    <displayName>TUCSON 8.9 E, AZ US</displayName>
+    <minDate>2012-06-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.2205</latitude>
+    <longitude>-110.7674</longitude>
+    <elevation>847.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8685</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0031</id>
+    <displayName>TUCSON 8.9 SW, AZ US</displayName>
+    <minDate>2009-08-20</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.1389</latitude>
+    <longitude>-111.0382</longitude>
+    <elevation>783.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0099</id>
+    <displayName>TUCSON 9.0 E, AZ US</displayName>
+    <minDate>2009-10-26</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2312</latitude>
+    <longitude>-110.7657</longitude>
+    <elevation>806.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0093</id>
+    <displayName>TUCSON 9.0 ENE, AZ US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.2795</latitude>
+    <longitude>-110.783</longitude>
+    <elevation>827.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0055</id>
+    <displayName>TUCSON 9.2 NNW, AZ US</displayName>
+    <minDate>2009-08-22</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>32.3147</latitude>
+    <longitude>-110.9624</longitude>
+    <elevation>761.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3121</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0004</id>
+    <displayName>TUCSON 9.4 NW, AZ US</displayName>
+    <minDate>2009-08-18</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.3026</latitude>
+    <longitude>-110.9924</longitude>
+    <elevation>701.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0029</id>
+    <displayName>TUCSON 9.5 WNW, AZ US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2012-07-15</maxDate>
+    <latitude>32.2591</latitude>
+    <longitude>-111.0363</longitude>
+    <elevation>730</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0126</id>
+    <displayName>TUCSON 9.5 WNW, AZ US</displayName>
+    <minDate>2010-01-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2893</latitude>
+    <longitude>-111.0611</longitude>
+    <elevation>723.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0092</id>
+    <displayName>TUCSON 9.6 SW, AZ US</displayName>
+    <minDate>2009-10-08</minDate>
+    <maxDate>2012-09-14</maxDate>
+    <latitude>32.124</latitude>
+    <longitude>-111.0387</longitude>
+    <elevation>781.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0130</id>
+    <displayName>TUCSON 9.9 ENE, AZ US</displayName>
+    <minDate>2010-01-30</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.2826</latitude>
+    <longitude>-110.7672</longitude>
+    <elevation>822</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9803</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0202</id>
+    <displayName>TUCSON 9.9 ENE, AZ US</displayName>
+    <minDate>2011-11-18</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2824</latitude>
+    <longitude>-110.7683</longitude>
+    <elevation>819.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZAP0002</id>
+    <displayName>TUCSON 9.9 NNW, AZ US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3471</latitude>
+    <longitude>-110.9996</longitude>
+    <elevation>748.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028796</id>
+    <displayName>TUCSON CP AVE EXPERIMENTAL FM, AZ US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.2816</latitude>
+    <longitude>-110.9441</longitude>
+    <elevation>710.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5367</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0077</id>
+    <displayName>TUCSON ESTATES 3.2 WSW, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.1752</latitude>
+    <longitude>-111.1361</longitude>
+    <elevation>746.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5402</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023160</id>
+    <displayName>TUCSON INTERNATIONAL AIRPORT, AZ US</displayName>
+    <minDate>1946-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.1313</latitude>
+    <longitude>-110.9552</longitude>
+    <elevation>776.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028800</id>
+    <displayName>TUCSON MAGNETIC OBSERVATORY, AZ US</displayName>
+    <minDate>1912-01-01</minDate>
+    <maxDate>1994-03-31</maxDate>
+    <latitude>32.25</latitude>
+    <longitude>-110.83333</longitude>
+    <elevation>769.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028810</id>
+    <displayName>TUCSON NURSERY 4 NW, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.3</latitude>
+    <longitude>-111.05</longitude>
+    <elevation>686.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028817</id>
+    <displayName>TUCSON U OF A NUMBER 1, AZ US</displayName>
+    <minDate>1982-05-01</minDate>
+    <maxDate>2012-09-09</maxDate>
+    <latitude>32.258</latitude>
+    <longitude>-111.0052</longitude>
+    <elevation>705.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028815</id>
+    <displayName>TUCSON WEATHER FORECAST OFFICE, AZ US</displayName>
+    <minDate>1894-09-01</minDate>
+    <maxDate>2008-04-27</maxDate>
+    <latitude>32.22917</latitude>
+    <longitude>-110.95361</longitude>
+    <elevation>742.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0001</id>
+    <displayName>TUCUMARI 0.3 E, NM US</displayName>
+    <minDate>2005-06-26</minDate>
+    <maxDate>2007-03-29</maxDate>
+    <latitude>35.1667</latitude>
+    <longitude>-103.7222</longitude>
+    <elevation>1246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8146</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0018</id>
+    <displayName>TUCUMCARI 0.2 SW, NM US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2012-06-13</maxDate>
+    <latitude>35.1647</latitude>
+    <longitude>-103.7298</longitude>
+    <elevation>1255.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2591</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0002</id>
+    <displayName>TUCUMCARI 10.6 E, NM US</displayName>
+    <minDate>2005-10-26</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>35.1437</latitude>
+    <longitude>-103.5416</longitude>
+    <elevation>1211</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0019</id>
+    <displayName>TUCUMCARI 3.4 ENE, NM US</displayName>
+    <minDate>2010-09-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1938</latitude>
+    <longitude>-103.6757</longitude>
+    <elevation>1232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299156</id>
+    <displayName>TUCUMCARI 4 NE, NM US</displayName>
+    <minDate>1904-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2005</latitude>
+    <longitude>-103.6866</longitude>
+    <elevation>1245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9893</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0008</id>
+    <displayName>TUCUMCARI 4.0 NW, NM US</displayName>
+    <minDate>2009-02-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.2116</latitude>
+    <longitude>-103.773</longitude>
+    <elevation>1232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0007</id>
+    <displayName>TUCUMCARI 4.7 NNW, NM US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1395</latitude>
+    <longitude>-103.6489</longitude>
+    <elevation>1232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0004</id>
+    <displayName>TUCUMCARI 5.6 E, NM US</displayName>
+    <minDate>2006-09-05</minDate>
+    <maxDate>2012-09-09</maxDate>
+    <latitude>35.1524</latitude>
+    <longitude>-103.6304</longitude>
+    <elevation>1222.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6513</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0009</id>
+    <displayName>TUCUMCARI 9.7 ESE, NM US</displayName>
+    <minDate>2010-05-18</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>35.1366</latitude>
+    <longitude>-103.5607</longitude>
+    <elevation>121.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5642</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023048</id>
+    <displayName>TUCUMCARI MUNICIPAL AIRPORT, NM US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.18222</latitude>
+    <longitude>-103.60306</longitude>
+    <elevation>1239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6076</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299148</id>
+    <displayName>TUCUMCARI, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1956-09-30</maxDate>
+    <latitude>35.16667</latitude>
+    <longitude>-103.7</longitude>
+    <elevation>1232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCR0029</id>
+    <displayName>TUFTONBORO 1.1 S, NH US</displayName>
+    <minDate>2011-10-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6379</latitude>
+    <longitude>-71.2442</longitude>
+    <elevation>171.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098842</id>
+    <displayName>TUGALO DAM, GA US</displayName>
+    <minDate>2010-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7117</latitude>
+    <longitude>-83.3515</longitude>
+    <elevation>233.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049050</id>
+    <displayName>TUJUNGA MILL FC 470, CA US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>1951-04-25</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-118.08333</longitude>
+    <elevation>1415.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5453</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049049</id>
+    <displayName>TUJUNGA MILL FC 470, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-09-30</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-118.08333</longitude>
+    <elevation>1415.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9431</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049047</id>
+    <displayName>TUJUNGA, CA US</displayName>
+    <minDate>1966-07-01</minDate>
+    <maxDate>1987-03-31</maxDate>
+    <latitude>34.26667</latitude>
+    <longitude>-118.28333</longitude>
+    <elevation>554.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9652</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CATL0006</id>
+    <displayName>TULARE 2.4 E, CA US</displayName>
+    <minDate>2008-11-23</minDate>
+    <maxDate>2010-02-28</maxDate>
+    <latitude>36.2017</latitude>
+    <longitude>-119.3003</longitude>
+    <elevation>89</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8704</coverage>
+  </station>
+</stationCollection>

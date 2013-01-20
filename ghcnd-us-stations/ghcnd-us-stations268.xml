@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="268">
+  <station>
+    <id>GHCND:US1WACK0001</id>
+    <displayName>MEADOW GLADE 0.9 SW, WA US</displayName>
+    <minDate>2008-05-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.7473</latitude>
+    <longitude>-122.5687</longitude>
+    <elevation>87.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10madi020</id>
+    <displayName>MEADOW GROVE 8.8 S, NE US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>41.9007</latitude>
+    <longitude>-97.7366</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8375</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255370</id>
+    <displayName>MEADOW GROVE, NE US</displayName>
+    <minDate>1941-04-01</minDate>
+    <maxDate>2000-07-31</maxDate>
+    <latitude>42.02917</latitude>
+    <longitude>-97.73861</longitude>
+    <elevation>496.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9507</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045496</id>
+    <displayName>MEADOW LAKE, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1975-12-31</maxDate>
+    <latitude>37.08333</latitude>
+    <longitude>-119.43333</longitude>
+    <elevation>1366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013E18S</id>
+    <displayName>MEADOW LAKE, ID US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.4333</latitude>
+    <longitude>-113.3167</longitude>
+    <elevation>2788.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.84</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505780</id>
+    <displayName>MEADOW LAKES, AK US</displayName>
+    <minDate>2006-12-01</minDate>
+    <maxDate>2008-03-31</maxDate>
+    <latitude>61.57778</latitude>
+    <longitude>-149.565</longitude>
+    <elevation>107.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9363</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365601</id>
+    <displayName>MEADOW RUN PONDS, PA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-07-01</maxDate>
+    <latitude>41.21667</latitude>
+    <longitude>-75.63333</longitude>
+    <elevation>582.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00475236</id>
+    <displayName>MEADOW VALLEY RANGER STATION, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1953-04-30</maxDate>
+    <latitude>44.23333</latitude>
+    <longitude>-90.23333</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395421</id>
+    <displayName>MEADOW, SD US</displayName>
+    <minDate>1912-12-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.53333</latitude>
+    <longitude>-102.21667</longitude>
+    <elevation>798.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4479</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0004</id>
+    <displayName>MEADOWBROOK 1.2 SW, AL US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.389</latitude>
+    <longitude>-86.7105</longitude>
+    <elevation>199</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0011</id>
+    <displayName>MEADOWBROOK 1.7 E, AL US</displayName>
+    <minDate>2007-10-25</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.3986</latitude>
+    <longitude>-86.6673</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9019</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0016</id>
+    <displayName>MEADOWBROOK 3.6 E, AL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3963</latitude>
+    <longitude>-86.6353</longitude>
+    <elevation>250.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8388</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355400</id>
+    <displayName>MEADOWBROOK RANCH, OR US</displayName>
+    <minDate>1912-04-01</minDate>
+    <maxDate>1914-07-31</maxDate>
+    <latitude>45.7</latitude>
+    <longitude>-121.833333</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215298</id>
+    <displayName>MEADOWLANDS 9 S, MN US</displayName>
+    <minDate>1915-12-01</minDate>
+    <maxDate>1985-12-31</maxDate>
+    <latitude>46.98333</latitude>
+    <longitude>-92.73333</longitude>
+    <elevation>386.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9512</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAPR0002</id>
+    <displayName>MEADOWS OF DAN 4.5 SW, VA US</displayName>
+    <minDate>2009-05-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.6796</latitude>
+    <longitude>-80.4477</longitude>
+    <elevation>864.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445453</id>
+    <displayName>MEADOWS OF DAN 5 SW, VA US</displayName>
+    <minDate>1950-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.6667</latitude>
+    <longitude>-80.4481</longitude>
+    <elevation>678.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021B59S</id>
+    <displayName>MEADOWS PASS, WA US</displayName>
+    <minDate>1993-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.2667</latitude>
+    <longitude>-121.4667</longitude>
+    <elevation>1066.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9584</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00025426</id>
+    <displayName>MEADVIEW 1 W, AZ US</displayName>
+    <minDate>1996-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0184</latitude>
+    <longitude>-114.0681</longitude>
+    <elevation>895.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8797</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053184</id>
+    <displayName>MEADVIEW 7 N, AZ US</displayName>
+    <minDate>2011-09-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0936</latitude>
+    <longitude>-114.0450</longitude>
+    <elevation>895.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSFK0002</id>
+    <displayName>MEADVILLE 0.6 SE, MS US</displayName>
+    <minDate>2012-04-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.4665</latitude>
+    <longitude>-90.8846</longitude>
+    <elevation>103.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365606</id>
+    <displayName>MEADVILLE 1 S, PA US</displayName>
+    <minDate>1928-08-10</minDate>
+    <maxDate>2009-02-07</maxDate>
+    <latitude>41.63333</latitude>
+    <longitude>-80.16667</longitude>
+    <elevation>324.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACW0001</id>
+    <displayName>MEADVILLE 1.2 NE, PA US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2010-04-06</maxDate>
+    <latitude>41.6602</latitude>
+    <longitude>-80.1337</longitude>
+    <elevation>455.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00225705</id>
+    <displayName>MEADVILLE 5 SE, MS US</displayName>
+    <minDate>2011-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.4218</latitude>
+    <longitude>-90.8798</longitude>
+    <elevation>78.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACW0002</id>
+    <displayName>MEADVILLE 6.7 NW, PA US</displayName>
+    <minDate>2009-06-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7135</latitude>
+    <longitude>-80.2409</longitude>
+    <elevation>398.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365611</id>
+    <displayName>MEADVILLE 7 NW, PA US</displayName>
+    <minDate>1952-10-01</minDate>
+    <maxDate>1953-09-30</maxDate>
+    <latitude>41.71667</latitude>
+    <longitude>-80.23333</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004843</id>
+    <displayName>MEADVILLE PORT MEADVILLE AIRPORT, PA US</displayName>
+    <minDate>1997-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.62639</latitude>
+    <longitude>-80.215</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00225704</id>
+    <displayName>MEADVILLE, MS US</displayName>
+    <minDate>1917-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.4663</latitude>
+    <longitude>-90.8852</longitude>
+    <elevation>105.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4648</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MMEA</id>
+    <displayName>MEANDER MINNESOTA, MN US</displayName>
+    <minDate>2003-01-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.1197</latitude>
+    <longitude>-92.1589</longitude>
+    <elevation>417</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CMEA</id>
+    <displayName>MEANS LAKE CALIFORNIA, CA US</displayName>
+    <minDate>1995-11-21</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.3906</latitude>
+    <longitude>-116.5169</longitude>
+    <elevation>883.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205372</id>
+    <displayName>MEARS 1 SE, MI US</displayName>
+    <minDate>1976-10-01</minDate>
+    <maxDate>1990-09-29</maxDate>
+    <latitude>43.66667</latitude>
+    <longitude>-86.41667</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0254</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWT0026</id>
+    <displayName>MEAT CAMP 2.0 S, NC US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>36.2642</latitude>
+    <longitude>-81.6673</longitude>
+    <elevation>1004.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9206</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWT0020</id>
+    <displayName>MEAT CAMP 2.2 S, NC US</displayName>
+    <minDate>2008-08-06</minDate>
+    <maxDate>2010-12-01</maxDate>
+    <latitude>36.2611</latitude>
+    <longitude>-81.6694</longitude>
+    <elevation>1046.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7606</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCS0002</id>
+    <displayName>MEBANE 11.2 N, NC US</displayName>
+    <minDate>2008-02-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.251</latitude>
+    <longitude>-79.2382</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCAL0012</id>
+    <displayName>MEBANE 3.8 SSW, NC US</displayName>
+    <minDate>2011-07-16</minDate>
+    <maxDate>2012-10-17</maxDate>
+    <latitude>36.044</latitude>
+    <longitude>-79.3087</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5804</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCOR0007</id>
+    <displayName>MEBANE 7.4 SSE, NC US</displayName>
+    <minDate>2007-12-27</minDate>
+    <maxDate>2009-04-14</maxDate>
+    <latitude>35.9902</latitude>
+    <longitude>-79.2305</longitude>
+    <elevation>183.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045502</id>
+    <displayName>MECCA FIRE STATION, CA US</displayName>
+    <minDate>1905-09-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.5713</latitude>
+    <longitude>-116.0766</longitude>
+    <elevation>-54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8231</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335090</id>
+    <displayName>MECCA, OH US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-03-31</maxDate>
+    <latitude>40.4</latitude>
+    <longitude>-80.73333</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACD0006</id>
+    <displayName>MECHANICSBURG 1.0 NNW, PA US</displayName>
+    <minDate>2010-12-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2229</latitude>
+    <longitude>-77.0142</longitude>
+    <elevation>133.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHCH0004</id>
+    <displayName>MECHANICSBURG 2.4 SSW, OH US</displayName>
+    <minDate>2011-07-23</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>40.0411</latitude>
+    <longitude>-83.5681</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACD0005</id>
+    <displayName>MECHANICSBURG 5.7 SSW, PA US</displayName>
+    <minDate>2010-08-18</minDate>
+    <maxDate>2012-11-02</maxDate>
+    <latitude>40.1399</latitude>
+    <longitude>-77.0611</longitude>
+    <elevation>136.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4455</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00185865</id>
+    <displayName>MECHANICSVILLE 5 NE, MD US</displayName>
+    <minDate>1927-07-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4616</latitude>
+    <longitude>-76.6991</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5217</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305231</id>
+    <displayName>MECHANICVILLE 2 S, NY US</displayName>
+    <minDate>1903-12-07</minDate>
+    <maxDate>1976-10-30</maxDate>
+    <latitude>42.88333</latitude>
+    <longitude>-73.68333</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSR0008</id>
+    <displayName>MECHANICVILLE 5.7 NW, NY US</displayName>
+    <minDate>2008-09-07</minDate>
+    <maxDate>2009-09-26</maxDate>
+    <latitude>42.9455</latitude>
+    <longitude>-73.7869</longitude>
+    <elevation>60.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305233</id>
+    <displayName>MECKLENBURG 4 SW, NY US</displayName>
+    <minDate>2003-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4422</latitude>
+    <longitude>-76.7586</longitude>
+    <elevation>460.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0005M16S</id>
+    <displayName>MEDANO PASS, CO US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.8333</latitude>
+    <longitude>-105.4333</longitude>
+    <elevation>2932.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9435</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125535</id>
+    <displayName>MEDARYVILLE, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.1588</latitude>
+    <longitude>-86.9013</longitude>
+    <elevation>211.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1051</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345769</id>
+    <displayName>MEDFORD 1 SW MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>36.7924</latitude>
+    <longitude>-97.7458</longitude>
+    <elevation>331.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0009</id>
+    <displayName>MEDFORD 1.0 NW, OR US</displayName>
+    <minDate>2007-12-20</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-122.8667</longitude>
+    <elevation>405.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1569</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0017</id>
+    <displayName>MEDFORD 1.1 NNE, OR US</displayName>
+    <minDate>2008-01-11</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>42.3536</latitude>
+    <longitude>-122.8422</longitude>
+    <elevation>430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1705</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0028</id>
+    <displayName>MEDFORD 2 SE, OR US</displayName>
+    <minDate>2007-12-19</minDate>
+    <maxDate>2009-01-25</maxDate>
+    <latitude>42.3137</latitude>
+    <longitude>-122.8226</longitude>
+    <elevation>459.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2475</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0012</id>
+    <displayName>MEDFORD 3 SSE, OR US</displayName>
+    <minDate>2007-12-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3039</latitude>
+    <longitude>-122.8347</longitude>
+    <elevation>483.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8552</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0037</id>
+    <displayName>MEDFORD 3.2 E, OR US</displayName>
+    <minDate>2009-03-04</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>42.3381</latitude>
+    <longitude>-122.7903</longitude>
+    <elevation>654.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4596</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0038</id>
+    <displayName>MEDFORD 5.0 SSW, OR US</displayName>
+    <minDate>2010-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2742</latitude>
+    <longitude>-122.8941</longitude>
+    <elevation>518.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.772</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355424</id>
+    <displayName>MEDFORD EXPERIMENT STATION, OR US</displayName>
+    <minDate>1937-09-01</minDate>
+    <maxDate>2003-01-10</maxDate>
+    <latitude>42.29611</latitude>
+    <longitude>-122.87</longitude>
+    <elevation>444.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9721</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0036</id>
+    <displayName>MEDFORD LAKES 0.4 ENE, NJ US</displayName>
+    <minDate>2011-05-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8594</latitude>
+    <longitude>-74.7971</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0028</id>
+    <displayName>MEDFORD LAKES 0.6 W, NJ US</displayName>
+    <minDate>2010-09-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8572</latitude>
+    <longitude>-74.817</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024225</id>
+    <displayName>MEDFORD ROGUE VALLEY INTERNATIONAL AIRPORT, OR US</displayName>
+    <minDate>1928-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.3811</latitude>
+    <longitude>-122.8722</longitude>
+    <elevation>395.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0018</id>
+    <displayName>MEDFORD TWP 1.7 W, NJ US</displayName>
+    <minDate>2010-08-08</minDate>
+    <maxDate>2012-10-29</maxDate>
+    <latitude>39.8596</latitude>
+    <longitude>-74.8537</longitude>
+    <elevation>13.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8784</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0005</id>
+    <displayName>MEDFORD TWP 2.4 SSE, NJ US</displayName>
+    <minDate>2008-03-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.8315</latitude>
+    <longitude>-74.8083</longitude>
+    <elevation>38.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9052</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00194615</id>
+    <displayName>MEDFORD, MA US</displayName>
+    <minDate>1885-01-01</minDate>
+    <maxDate>1894-03-31</maxDate>
+    <latitude>42.416667</latitude>
+    <longitude>-71.116667</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6017</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215311</id>
+    <displayName>MEDFORD, MN US</displayName>
+    <minDate>1893-08-01</minDate>
+    <maxDate>1894-08-31</maxDate>
+    <latitude>44.16667</latitude>
+    <longitude>-93.23333</longitude>
+    <elevation>334.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305235</id>
+    <displayName>MEDFORD, NY US</displayName>
+    <minDate>1906-05-01</minDate>
+    <maxDate>1927-06-30</maxDate>
+    <latitude>40.816667</latitude>
+    <longitude>-72.983333</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345768</id>
+    <displayName>MEDFORD, OK US</displayName>
+    <minDate>1981-04-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>36.78944</latitude>
+    <longitude>-97.73333</longitude>
+    <elevation>326.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8848</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00475255</id>
+    <displayName>MEDFORD, WI US</displayName>
+    <minDate>1889-06-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.1307</latitude>
+    <longitude>-90.3438</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9737</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365623</id>
+    <displayName>MEDIA, PA US</displayName>
+    <minDate>1915-01-01</minDate>
+    <maxDate>1920-09-30</maxDate>
+    <latitude>39.933333</latitude>
+    <longitude>-75.366667</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8867</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASP0015</id>
+    <displayName>MEDICAL LAKE 0.7 ENE, WA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2009-06-26</maxDate>
+    <latitude>47.573</latitude>
+    <longitude>-117.6773</longitude>
+    <elevation>739.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYCR0001</id>
+    <displayName>MEDICINE BOW 0.3 NE, WY US</displayName>
+    <minDate>2004-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8991</latitude>
+    <longitude>-106.2002</longitude>
+    <elevation>2001</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00486122</id>
+    <displayName>MEDICINE BOW 16 N, WY US</displayName>
+    <minDate>1959-07-02</minDate>
+    <maxDate>1963-05-31</maxDate>
+    <latitude>42.16667</latitude>
+    <longitude>-106.26667</longitude>
+    <elevation>2117.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYCR0007</id>
+    <displayName>MEDICINE BOW 8.8 S, WY US</displayName>
+    <minDate>2007-04-04</minDate>
+    <maxDate>2007-07-13</maxDate>
+    <latitude>41.7718</latitude>
+    <longitude>-106.2066</longitude>
+    <elevation>2058.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00486120</id>
+    <displayName>MEDICINE BOW, WY US</displayName>
+    <minDate>1881-11-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8977</latitude>
+    <longitude>-106.2016</longitude>
+    <elevation>2013.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255388</id>
+    <displayName>MEDICINE CREEK DAM, NE US</displayName>
+    <minDate>1951-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3761</latitude>
+    <longitude>-100.2227</longitude>
+    <elevation>727.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9622</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245572</id>
+    <displayName>MEDICINE LAKE 3 SE, MT US</displayName>
+    <minDate>1911-01-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>48.4829</latitude>
+    <longitude>-104.4515</longitude>
+    <elevation>591.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9176</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MMED</id>
+    <displayName>MEDICINE LAKE MONTANA, MT US</displayName>
+    <minDate>2003-02-13</minDate>
+    <maxDate>2012-08-28</maxDate>
+    <latitude>48.49</latitude>
+    <longitude>-104.4761</longitude>
+    <elevation>602</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBA0004</id>
+    <displayName>MEDICINE LODGE 0.4 WSW, KS US</displayName>
+    <minDate>2006-08-26</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>37.284</latitude>
+    <longitude>-98.5879</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9138</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBA0010</id>
+    <displayName>MEDICINE LODGE 0.5 NNE, KS US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2007-04-10</maxDate>
+    <latitude>37.2933</latitude>
+    <longitude>-98.5777</longitude>
+    <elevation>463.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00145173</id>
+    <displayName>MEDICINE LODGE, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1998-12-23</maxDate>
+    <latitude>37.2766</latitude>
+    <longitude>-98.5799</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003957</id>
+    <displayName>MEDICINE LODGE, KS US</displayName>
+    <minDate>1998-02-05</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.2839</latitude>
+    <longitude>-98.5528</longitude>
+    <elevation>467.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395432</id>
+    <displayName>MEDICINE MOUNTAIN, SD US</displayName>
+    <minDate>1998-04-01</minDate>
+    <maxDate>2009-02-07</maxDate>
+    <latitude>43.9036</latitude>
+    <longitude>-103.7256</longitude>
+    <elevation>1847.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345775</id>
+    <displayName>MEDICINE PARK 3 W MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>34.7292</latitude>
+    <longitude>-98.5694</longitude>
+    <elevation>486.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGB0005</id>
+    <displayName>MEDINA 0.2 NNW, TN US</displayName>
+    <minDate>2007-11-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.8063</latitude>
+    <longitude>-88.7759</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5512</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOL0001</id>
+    <displayName>MEDINA 0.5 N, NY US</displayName>
+    <minDate>2008-06-27</minDate>
+    <maxDate>2012-08-09</maxDate>
+    <latitude>43.2273</latitude>
+    <longitude>-78.3882</longitude>
+    <elevation>151.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6206</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415742</id>
+    <displayName>MEDINA 1 NE, TX US</displayName>
+    <minDate>1966-01-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>29.8099</latitude>
+    <longitude>-99.2498</longitude>
+    <elevation>521.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBND001</id>
+    <displayName>MEDINA 3.0 NW, TX US</displayName>
+    <minDate>2007-07-27</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>29.8323</latitude>
+    <longitude>-99.2781</longitude>
+    <elevation>463.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4799</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMD0020</id>
+    <displayName>MEDINA 3.1 SE, TN US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2011-05-04</maxDate>
+    <latitude>35.7677</latitude>
+    <longitude>-88.7417</longitude>
+    <elevation>118</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.57</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMD0009</id>
+    <displayName>MEDINA 3.8 SSW, TN US</displayName>
+    <minDate>2007-09-06</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>35.7538</latitude>
+    <longitude>-88.8052</longitude>
+    <elevation>143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMD0008</id>
+    <displayName>MEDINA 4.0 SSW, TN US</displayName>
+    <minDate>2007-07-09</minDate>
+    <maxDate>2009-10-10</maxDate>
+    <latitude>35.7512</latitude>
+    <longitude>-88.806</longitude>
+    <elevation>123.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8352</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHMD0004</id>
+    <displayName>MEDINA 7.6 ENE, OH US</displayName>
+    <minDate>2011-06-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1808</latitude>
+    <longitude>-81.7297</longitude>
+    <elevation>369.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8774</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBND004</id>
+    <displayName>MEDINA 8.8 WSW, TX US</displayName>
+    <minDate>2007-09-12</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.7777</latitude>
+    <longitude>-99.3976</longitude>
+    <elevation>521.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2118</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415746</id>
+    <displayName>MEDINA LAKE, TX US</displayName>
+    <minDate>1991-05-01</minDate>
+    <maxDate>2001-03-31</maxDate>
+    <latitude>29.51</latitude>
+    <longitude>-98.91111</longitude>
+    <elevation>356.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7389</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325798</id>
+    <displayName>MEDINA, ND US</displayName>
+    <minDate>1905-06-01</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>46.8927</latitude>
+    <longitude>-99.2897</longitude>
+    <elevation>551.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6454</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365627</id>
+    <displayName>MEDIX RUN, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1968-04-30</maxDate>
+    <latitude>41.28333</latitude>
+    <longitude>-78.4</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMP0011</id>
+    <displayName>MEDORA 2.9 NE, IL US</displayName>
+    <minDate>2010-03-08</minDate>
+    <maxDate>2011-02-28</maxDate>
+    <latitude>39.2059</latitude>
+    <longitude>-90.1034</longitude>
+    <elevation>177.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6788</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325818</id>
+    <displayName>MEDORA 22 NNW, ND US</displayName>
+    <minDate>1951-08-01</minDate>
+    <maxDate>1970-10-31</maxDate>
+    <latitude>47.23333</latitude>
+    <longitude>-103.6</longitude>
+    <elevation>688.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWS0005</id>
+    <displayName>MEDORA 6.6 S, IN US</displayName>
+    <minDate>2007-11-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7307</latitude>
+    <longitude>-86.1889</longitude>
+    <elevation>237.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094080</id>
+    <displayName>MEDORA 7 E, ND US</displayName>
+    <minDate>2004-09-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.8946</latitude>
+    <longitude>-103.3769</longitude>
+    <elevation>844.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325808</id>
+    <displayName>MEDORA STATE PARK, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>46.91667</latitude>
+    <longitude>-103.55</longitude>
+    <elevation>691.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115539</id>
+    <displayName>MEDORA, IL US</displayName>
+    <minDate>1942-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1563</latitude>
+    <longitude>-90.1391</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9431</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125541</id>
+    <displayName>MEDORA, IN US</displayName>
+    <minDate>1969-01-01</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>38.7913</latitude>
+    <longitude>-86.2096</longitude>
+    <elevation>159.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7416</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00145180</id>
+    <displayName>MEDORA, KS US</displayName>
+    <minDate>1909-04-01</minDate>
+    <maxDate>1942-10-18</maxDate>
+    <latitude>38.15</latitude>
+    <longitude>-97.85</longitude>
+    <elevation>452.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8173</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325813</id>
+    <displayName>MEDORA, ND US</displayName>
+    <minDate>1948-07-17</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>46.9161</latitude>
+    <longitude>-103.5263</longitude>
+    <elevation>691.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.965</coverage>
+  </station>
+</stationCollection>

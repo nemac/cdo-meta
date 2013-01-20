@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="461">
+  <station>
+    <id>GHCND:US1INMR0067</id>
+    <displayName>ZIONSVILLE 4.3 S, IN US</displayName>
+    <minDate>2010-01-19</minDate>
+    <maxDate>2010-07-08</maxDate>
+    <latitude>39.8907</latitude>
+    <longitude>-86.2716</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9883</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0019</id>
+    <displayName>ZIONSVILLE 4.4 NNW, IN US</displayName>
+    <minDate>2006-05-13</minDate>
+    <maxDate>2007-09-30</maxDate>
+    <latitude>40.006</latitude>
+    <longitude>-86.3175</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129975</id>
+    <displayName>ZIONSVILLE, IN US</displayName>
+    <minDate>1957-12-03</minDate>
+    <maxDate>1978-10-31</maxDate>
+    <latitude>39.94889</latitude>
+    <longitude>-86.25556</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319968</id>
+    <displayName>ZIONVILLE, NC US</displayName>
+    <minDate>1953-02-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.33333</latitude>
+    <longitude>-81.73333</longitude>
+    <elevation>1132</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006J19S</id>
+    <displayName>ZIRKEL, CO US</displayName>
+    <minDate>2003-01-23</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.7833</latitude>
+    <longitude>-106.5833</longitude>
+    <elevation>2846.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9476</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00349985</id>
+    <displayName>ZOE 1 S, OK US</displayName>
+    <minDate>1951-05-01</minDate>
+    <maxDate>1987-10-30</maxDate>
+    <latitude>34.75</latitude>
+    <longitude>-94.63333</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9803</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHD0001</id>
+    <displayName>ZOLFO SPRINGS 0.6 ESE, FL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2008-06-20</maxDate>
+    <latitude>27.4898</latitude>
+    <longitude>-81.7863</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.515</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00269600</id>
+    <displayName>ZORRA VISTA RANCH, NV US</displayName>
+    <minDate>1915-09-01</minDate>
+    <maxDate>1934-09-30</maxDate>
+    <latitude>40.983333</latitude>
+    <longitude>-119.816667</longitude>
+    <elevation>1440.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9443</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00249903</id>
+    <displayName>ZORTMAN 1, MT US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>1914-12-31</maxDate>
+    <latitude>47.9</latitude>
+    <longitude>-108.533333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5637</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTPH0001</id>
+    <displayName>ZORTMAN 10.0 SSW, MT US</displayName>
+    <minDate>2008-05-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.7763</latitude>
+    <longitude>-108.5584</longitude>
+    <elevation>923.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5105</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MZOR</id>
+    <displayName>ZORTMAN MINE MONTANA, MT US</displayName>
+    <minDate>1987-04-22</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.9225</latitude>
+    <longitude>-108.5528</longitude>
+    <elevation>1420.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00249900</id>
+    <displayName>ZORTMAN, MT US</displayName>
+    <minDate>1965-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.9185</latitude>
+    <longitude>-108.5244</longitude>
+    <elevation>1229.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7902</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00219235</id>
+    <displayName>ZUMBRO FALLS 1 SE, MN US</displayName>
+    <minDate>1948-12-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.28333</latitude>
+    <longitude>-92.41667</longitude>
+    <elevation>328.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00219237</id>
+    <displayName>ZUMBRO FALLS 2 NE, MN US</displayName>
+    <minDate>2002-05-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>44.30333</latitude>
+    <longitude>-92.40444</longitude>
+    <elevation>314.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2065</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWB0004</id>
+    <displayName>ZUMBRO FALLS 3.5 SSW, MN US</displayName>
+    <minDate>2011-11-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2389</latitude>
+    <longitude>-92.4551</longitude>
+    <elevation>337.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00219231</id>
+    <displayName>ZUMBRO FALLS, MN US</displayName>
+    <minDate>1978-08-01</minDate>
+    <maxDate>2010-12-04</maxDate>
+    <latitude>44.2853</latitude>
+    <longitude>-92.431</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNGH0009</id>
+    <displayName>ZUMBROTA 2.3 NNE, MN US</displayName>
+    <minDate>2012-05-12</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>44.3249</latitude>
+    <longitude>-92.6534</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00219249</id>
+    <displayName>ZUMBROTA, MN US</displayName>
+    <minDate>1894-12-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2992</latitude>
+    <longitude>-92.6662</longitude>
+    <elevation>300.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.96</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093044</id>
+    <displayName>ZUNI, NM US</displayName>
+    <minDate>1949-02-17</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>35.0705</latitude>
+    <longitude>-108.8388</longitude>
+    <elevation>1923.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00169980</id>
+    <displayName>ZWOLLE 2 NW, LA US</displayName>
+    <minDate>1989-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.6663</latitude>
+    <longitude>-93.6663</longitude>
+    <elevation>63.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+</stationCollection>

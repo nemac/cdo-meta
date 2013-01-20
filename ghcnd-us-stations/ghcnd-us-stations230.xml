@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="230">
+  <station>
+    <id>GHCND:US1COPW0008</id>
+    <displayName>LAMAR 4.8 NNW, CO US</displayName>
+    <minDate>2004-04-18</minDate>
+    <maxDate>2011-07-07</maxDate>
+    <latitude>38.1576</latitude>
+    <longitude>-102.6307</longitude>
+    <elevation>1143.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARJH0002</id>
+    <displayName>LAMAR 5.7 NNE, AR US</displayName>
+    <minDate>2009-07-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5183</latitude>
+    <longitude>-93.3571</longitude>
+    <elevation>157.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBR0002</id>
+    <displayName>LAMAR 6.1 SW, MO US</displayName>
+    <minDate>2007-03-20</minDate>
+    <maxDate>2009-11-16</maxDate>
+    <latitude>37.4332</latitude>
+    <longitude>-94.3541</longitude>
+    <elevation>301.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBN0018</id>
+    <displayName>LAMAR 7.4 WNW, CO US</displayName>
+    <minDate>2005-06-14</minDate>
+    <maxDate>2009-06-03</maxDate>
+    <latitude>38.114</latitude>
+    <longitude>-102.7456</longitude>
+    <elevation>1142.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPW0001</id>
+    <displayName>LAMAR 9.9 E, CO US</displayName>
+    <minDate>2004-04-08</minDate>
+    <maxDate>2011-11-08</maxDate>
+    <latitude>38.0736</latitude>
+    <longitude>-102.4391</longitude>
+    <elevation>1093</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0502</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPW0011</id>
+    <displayName>LAMAR AIRPORT MSWS, CO US</displayName>
+    <minDate>2003-10-05</minDate>
+    <maxDate>2006-03-31</maxDate>
+    <latitude>38.0666</latitude>
+    <longitude>-102.6833</longitude>
+    <elevation>1136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003013</id>
+    <displayName>LAMAR MUNICIPAL AIRPORT, CO US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.07</latitude>
+    <longitude>-102.68806</longitude>
+    <elevation>1129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485355</id>
+    <displayName>LAMAR RANGER STATION, WY US</displayName>
+    <minDate>1881-02-11</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.8955</latitude>
+    <longitude>-110.235</longitude>
+    <elevation>1998</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031456</id>
+    <displayName>LAMAR, AR US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.43333</latitude>
+    <longitude>-93.41667</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054770</id>
+    <displayName>LAMAR, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0936</latitude>
+    <longitude>-102.6306</longitude>
+    <elevation>1105.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234705</id>
+    <displayName>LAMAR, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>37.4933</latitude>
+    <longitude>-94.3147</longitude>
+    <elevation>303.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254604</id>
+    <displayName>LAMAR, NE US</displayName>
+    <minDate>1911-06-09</minDate>
+    <maxDate>2009-02-28</maxDate>
+    <latitude>40.5302</latitude>
+    <longitude>-101.9694</longitude>
+    <elevation>1079</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5199</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA201</id>
+    <displayName>LAMBERT 0.8 ESE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0912</latitude>
+    <longitude>-89.5421</longitude>
+    <elevation>99.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224869</id>
+    <displayName>LAMBERT 1 W, MS US</displayName>
+    <minDate>1942-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2044</latitude>
+    <longitude>-90.2909</longitude>
+    <elevation>47.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9526</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214543</id>
+    <displayName>LAMBERT, MN US</displayName>
+    <minDate>1896-01-01</minDate>
+    <maxDate>1898-03-31</maxDate>
+    <latitude>43.683333</latitude>
+    <longitude>-95.183333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244830</id>
+    <displayName>LAMBERT, MT US</displayName>
+    <minDate>1956-05-20</minDate>
+    <maxDate>1974-07-31</maxDate>
+    <latitude>47.68333</latitude>
+    <longitude>-104.61667</longitude>
+    <elevation>714.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.838</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCD0001</id>
+    <displayName>LAMBERTON 4.6 SW, MN US</displayName>
+    <minDate>2010-04-03</minDate>
+    <maxDate>2010-09-24</maxDate>
+    <latitude>44.181</latitude>
+    <longitude>-95.3273</longitude>
+    <elevation>365.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214546</id>
+    <displayName>LAMBERTON SW EXPERIMENTAL STATION, MN US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.2395</latitude>
+    <longitude>-95.3152</longitude>
+    <elevation>348.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00284653</id>
+    <displayName>LAMBERTVILLE RIVER, PA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>40.36667</latitude>
+    <longitude>-74.95</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9257</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00284635</id>
+    <displayName>LAMBERTVILLE, NJ US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.3667</latitude>
+    <longitude>-74.9472</longitude>
+    <elevation>20.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224874</id>
+    <displayName>LAMBS CHAPEL SCHOOL, MS US</displayName>
+    <minDate>1959-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>34.93333</latitude>
+    <longitude>-88.31667</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTRB0002</id>
+    <displayName>LAME DEER 0.3 NNW, MT US</displayName>
+    <minDate>2008-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.6243</latitude>
+    <longitude>-106.6657</longitude>
+    <elevation>1019.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5682</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTRB0007</id>
+    <displayName>LAME DEER 1.9 E, MT US</displayName>
+    <minDate>2010-09-13</minDate>
+    <maxDate>2012-05-15</maxDate>
+    <latitude>45.3402</latitude>
+    <longitude>-106.3713</longitude>
+    <elevation>1103.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTBH0003</id>
+    <displayName>LAME DEER 7.9 WSW, MT US</displayName>
+    <minDate>2010-06-11</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>45.5589</latitude>
+    <longitude>-106.7507</longitude>
+    <elevation>1046.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3713</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244839</id>
+    <displayName>LAME DEER, MT US</displayName>
+    <minDate>1903-01-01</minDate>
+    <maxDate>1998-05-31</maxDate>
+    <latitude>45.62583</latitude>
+    <longitude>-106.66417</longitude>
+    <elevation>1005.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6037</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415013</id>
+    <displayName>LAMESA 1 SSE, TX US</displayName>
+    <minDate>1910-05-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7228</latitude>
+    <longitude>-101.9456</longitude>
+    <elevation>903.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9764</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00674820</id>
+    <displayName>LAMESHUR BAY, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>1989-03-29</maxDate>
+    <latitude>18.31667</latitude>
+    <longitude>-64.73333</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9216</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415016</id>
+    <displayName>LAMKIN, TX US</displayName>
+    <minDate>1917-02-01</minDate>
+    <maxDate>1920-04-30</maxDate>
+    <latitude>31.816667</latitude>
+    <longitude>-98.266667</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264391</id>
+    <displayName>LAMOILLE 2 N, NV US</displayName>
+    <minDate>1999-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7441</latitude>
+    <longitude>-115.4856</longitude>
+    <elevation>1752.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264392</id>
+    <displayName>LAMOILLE 3 E, NV US</displayName>
+    <minDate>1972-12-01</minDate>
+    <maxDate>1975-08-31</maxDate>
+    <latitude>40.73333</latitude>
+    <longitude>-115.43333</longitude>
+    <elevation>1922.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015J06S</id>
+    <displayName>LAMOILLE NUMBER 3, NV US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.6333</latitude>
+    <longitude>-115.4</longitude>
+    <elevation>2347</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264395</id>
+    <displayName>LAMOILLE PH, NV US</displayName>
+    <minDate>1916-07-01</minDate>
+    <maxDate>1972-03-31</maxDate>
+    <latitude>40.68333</latitude>
+    <longitude>-115.46667</longitude>
+    <elevation>1918.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9029</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264394</id>
+    <displayName>LAMOILLE YOST, NV US</displayName>
+    <minDate>1975-10-01</minDate>
+    <maxDate>2004-12-31</maxDate>
+    <latitude>40.71778</latitude>
+    <longitude>-115.52306</longitude>
+    <elevation>1780</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00324925</id>
+    <displayName>LAMOINE, ND US</displayName>
+    <minDate>1907-12-01</minDate>
+    <maxDate>1929-12-31</maxDate>
+    <latitude>47.25</latitude>
+    <longitude>-100</longitude>
+    <elevation>590.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8642</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014993</id>
+    <displayName>LAMONI FAA AIRPORT, IA US</displayName>
+    <minDate>1949-12-01</minDate>
+    <maxDate>1962-01-10</maxDate>
+    <latitude>40.65</latitude>
+    <longitude>-94</longitude>
+    <elevation>356</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094991</id>
+    <displayName>LAMONI MUNICIPAL AIRPORT, IA US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.6306</latitude>
+    <longitude>-93.9008</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134585</id>
+    <displayName>LAMONI, IA US</displayName>
+    <minDate>1897-08-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6233</latitude>
+    <longitude>-93.9508</longitude>
+    <elevation>343.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7819</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454470</id>
+    <displayName>LAMONT 4 SSW, WA US</displayName>
+    <minDate>1941-11-01</minDate>
+    <maxDate>1946-07-31</maxDate>
+    <latitude>47.15</latitude>
+    <longitude>-117.95</longitude>
+    <elevation>595</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKKY0003</id>
+    <displayName>LAMONT 5.7 ENE, OK US</displayName>
+    <minDate>2006-10-18</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>36.718</latitude>
+    <longitude>-97.459</longitude>
+    <elevation>321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1115</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084892</id>
+    <displayName>LAMONT 6 WNW, FL US</displayName>
+    <minDate>1935-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>30.41667</latitude>
+    <longitude>-83.91667</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.593</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLJF0007</id>
+    <displayName>LAMONT 7.7 SW, FL US</displayName>
+    <minDate>2010-04-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.2925</latitude>
+    <longitude>-83.8973</longitude>
+    <elevation>11.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345013</id>
+    <displayName>LAMONT, OK US</displayName>
+    <minDate>1993-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>36.6878</latitude>
+    <longitude>-97.5574</longitude>
+    <elevation>306.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLP0002</id>
+    <displayName>LAMPASAS 2.7 ENE, TX US</displayName>
+    <minDate>2009-05-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.0815</latitude>
+    <longitude>-98.1409</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9376</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLP0001</id>
+    <displayName>LAMPASAS 6.2 E, TX US</displayName>
+    <minDate>2007-10-11</minDate>
+    <maxDate>2010-07-23</maxDate>
+    <latitude>31.0636</latitude>
+    <longitude>-98.0769</longitude>
+    <elevation>285.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9095</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415018</id>
+    <displayName>LAMPASAS, TX US</displayName>
+    <minDate>1897-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.0717</latitude>
+    <longitude>-98.1847</longitude>
+    <elevation>314.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234732</id>
+    <displayName>LAMPE 4 NNE, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.63333</latitude>
+    <longitude>-93.4</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234727</id>
+    <displayName>LAMPE FOREST SERVICE, MO US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>1960-07-31</maxDate>
+    <latitude>36.56667</latitude>
+    <longitude>-93.43333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSF0043</id>
+    <displayName>LAMY 1.3 WNW, NM US</displayName>
+    <minDate>2012-07-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4853</latitude>
+    <longitude>-105.9022</longitude>
+    <elevation>2011.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HLAN</id>
+    <displayName>LANAI 1 HAWAII, HI US</displayName>
+    <minDate>2003-04-11</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>20.8733</latitude>
+    <longitude>-157.0064</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515275</id>
+    <displayName>LANAI AIRPORT 656, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>20.7895</latitude>
+    <longitude>-156.9485</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.577</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515286</id>
+    <displayName>LANAI CITY 672, HI US</displayName>
+    <minDate>1930-01-03</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>20.8291</latitude>
+    <longitude>-156.9202</longitude>
+    <elevation>493.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8235</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515301</id>
+    <displayName>LANAIHALE 684, HI US</displayName>
+    <minDate>1963-05-01</minDate>
+    <maxDate>2004-12-31</maxDate>
+    <latitude>20.81667</latitude>
+    <longitude>-156.87694</longitude>
+    <elevation>1027.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114879</id>
+    <displayName>LANARK, IL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>42.0919</latitude>
+    <longitude>-89.8421</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.285</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294782</id>
+    <displayName>LANARK, NM US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1923-07-31</maxDate>
+    <latitude>31.96667</latitude>
+    <longitude>-106.81667</longitude>
+    <elevation>1266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9284</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSM0010</id>
+    <displayName>LANCASTER 0.1 WNW, TN US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>36.1281</latitude>
+    <longitude>-85.8563</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA197</id>
+    <displayName>LANCASTER 0.2 SE, MO US</displayName>
+    <minDate>2005-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5209</latitude>
+    <longitude>-92.5269</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIGT0001</id>
+    <displayName>LANCASTER 0.3 N, WI US</displayName>
+    <minDate>2008-04-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8532</latitude>
+    <longitude>-90.7086</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLN0008</id>
+    <displayName>LANCASTER 0.4 WSW, SC US</displayName>
+    <minDate>2012-01-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7206</latitude>
+    <longitude>-80.7856</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8189</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401569</id>
+    <displayName>LANCASTER 1 SE, TN US</displayName>
+    <minDate>1942-05-01</minDate>
+    <maxDate>1970-11-30</maxDate>
+    <latitude>36.11667</latitude>
+    <longitude>-85.85</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLN0009</id>
+    <displayName>LANCASTER 11.0 ENE, SC US</displayName>
+    <minDate>2011-12-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7807</latitude>
+    <longitude>-80.5979</longitude>
+    <elevation>180.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364763</id>
+    <displayName>LANCASTER 2 NE FLTR, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0499</latitude>
+    <longitude>-76.2742</longitude>
+    <elevation>82.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334383</id>
+    <displayName>LANCASTER 2 NW, OH US</displayName>
+    <minDate>1936-01-01</minDate>
+    <maxDate>1996-12-19</maxDate>
+    <latitude>39.73333</latitude>
+    <longitude>-82.63333</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9262</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334378</id>
+    <displayName>LANCASTER 2 NW, OH US</displayName>
+    <minDate>1895-09-01</minDate>
+    <maxDate>1952-10-31</maxDate>
+    <latitude>39.73333</latitude>
+    <longitude>-82.63333</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLN0004</id>
+    <displayName>LANCASTER 2.0 NNW, SC US</displayName>
+    <minDate>2009-11-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7497</latitude>
+    <longitude>-80.7939</longitude>
+    <elevation>139</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9624</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0068</id>
+    <displayName>LANCASTER 2.1 NNW, NY US</displayName>
+    <minDate>2009-10-16</minDate>
+    <maxDate>2011-02-09</maxDate>
+    <latitude>42.9314</latitude>
+    <longitude>-78.6785</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0015</id>
+    <displayName>LANCASTER 2.3 SE, NY US</displayName>
+    <minDate>2008-08-19</minDate>
+    <maxDate>2012-09-23</maxDate>
+    <latitude>42.874</latitude>
+    <longitude>-78.6441</longitude>
+    <elevation>215.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2632</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHFF0008</id>
+    <displayName>LANCASTER 2.8 NE, OH US</displayName>
+    <minDate>2012-03-31</minDate>
+    <maxDate>2012-10-07</maxDate>
+    <latitude>39.7499</latitude>
+    <longitude>-82.5618</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9005</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364768</id>
+    <displayName>LANCASTER 3 NE, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1952-03-31</maxDate>
+    <latitude>40.06667</latitude>
+    <longitude>-76.28333</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334389</id>
+    <displayName>LANCASTER 3 W, OH US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.71667</latitude>
+    <longitude>-82.65</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474546</id>
+    <displayName>LANCASTER 4 WSW, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8278</latitude>
+    <longitude>-90.7889</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9427</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLN0007</id>
+    <displayName>LANCASTER 4.0 S, SC US</displayName>
+    <minDate>2011-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6666</latitude>
+    <longitude>-80.7677</longitude>
+    <elevation>162.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7258</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0080</id>
+    <displayName>LANCASTER 4.1 ENE, NY US</displayName>
+    <minDate>2010-06-26</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.9265</latitude>
+    <longitude>-78.5952</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHFF0001</id>
+    <displayName>LANCASTER 4.2 SSE, OH US</displayName>
+    <minDate>2009-02-12</minDate>
+    <maxDate>2011-01-10</maxDate>
+    <latitude>39.668</latitude>
+    <longitude>-82.5636</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334393</id>
+    <displayName>LANCASTER 5 WNW, OH US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.73333</latitude>
+    <longitude>-82.7</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8494</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALN0007</id>
+    <displayName>LANCASTER 5.8 WNW, PA US</displayName>
+    <minDate>2009-04-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0634</latitude>
+    <longitude>-76.4072</longitude>
+    <elevation>132.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334397</id>
+    <displayName>LANCASTER 6 N, OH US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.8</latitude>
+    <longitude>-82.61667</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8007</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334399</id>
+    <displayName>LANCASTER 6 W, OH US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.71667</latitude>
+    <longitude>-82.71667</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0031</id>
+    <displayName>LANCASTER 6.5 ENE, CA US</displayName>
+    <minDate>2011-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7184</latitude>
+    <longitude>-118.0659</longitude>
+    <elevation>721.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054737</id>
+    <displayName>LANCASTER AIRPORT, PA US</displayName>
+    <minDate>1999-03-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.12028</latitude>
+    <longitude>-76.29444</longitude>
+    <elevation>122.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405035</id>
+    <displayName>LANCASTER EDGAR EVINS, TN US</displayName>
+    <minDate>1995-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0827</latitude>
+    <longitude>-85.826</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053844</id>
+    <displayName>LANCASTER FAIRFIELD CO AIRPORT, OH US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.75556</latitude>
+    <longitude>-82.65722</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003159</id>
+    <displayName>LANCASTER WM J FOX FIELD, CA US</displayName>
+    <minDate>1974-04-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.7411</latitude>
+    <longitude>-118.2116</longitude>
+    <elevation>712.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044747</id>
+    <displayName>LANCASTER, CA US</displayName>
+    <minDate>1917-01-01</minDate>
+    <maxDate>1972-10-06</maxDate>
+    <latitude>34.68333</latitude>
+    <longitude>-118.11667</longitude>
+    <elevation>732.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5276</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154620</id>
+    <displayName>LANCASTER, KY US</displayName>
+    <minDate>1925-09-19</minDate>
+    <maxDate>2002-06-30</maxDate>
+    <latitude>37.61722</latitude>
+    <longitude>-84.57056</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9197</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274556</id>
+    <displayName>LANCASTER, NH US</displayName>
+    <minDate>1892-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.491</latitude>
+    <longitude>-71.5725</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334403</id>
+    <displayName>LANCASTER, OH US</displayName>
+    <minDate>1974-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.7156</latitude>
+    <longitude>-82.6072</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4149</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334387</id>
+    <displayName>LANCASTER, OH US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>39.68333</latitude>
+    <longitude>-82.66667</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8012</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364758</id>
+    <displayName>LANCASTER, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1974-07-31</maxDate>
+    <latitude>40.05</latitude>
+    <longitude>-76.28333</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8225</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00384918</id>
+    <displayName>LANCASTER, SC US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.7365</latitude>
+    <longitude>-80.7862</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485371</id>
+    <displayName>LANCE CREEK 1 W, WY US</displayName>
+    <minDate>1948-09-02</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>43.0388</latitude>
+    <longitude>-104.6633</longitude>
+    <elevation>1344.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485373</id>
+    <displayName>LANCE CREEK 10 N, WY US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>43.2</latitude>
+    <longitude>-104.65</longitude>
+    <elevation>1275</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485375</id>
+    <displayName>LANCE CREEK 12 WSW, WY US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43</latitude>
+    <longitude>-104.9</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYNB0003</id>
+    <displayName>LANCE CREEK 13.8 N, WY US</displayName>
+    <minDate>2005-03-18</minDate>
+    <maxDate>2008-10-01</maxDate>
+    <latitude>43.2328</latitude>
+    <longitude>-104.6295</longitude>
+    <elevation>1256.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9923</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485376</id>
+    <displayName>LANCE CREEK 14 NW, WY US</displayName>
+    <minDate>1951-11-08</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>43.16667</latitude>
+    <longitude>-104.85</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485377</id>
+    <displayName>LANCE CREEK 18 N, WY US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1985-08-31</maxDate>
+    <latitude>43.3</latitude>
+    <longitude>-104.66667</longitude>
+    <elevation>1255.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7232</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485372</id>
+    <displayName>LANCE CREEK 3 WNW, WY US</displayName>
+    <minDate>1962-04-01</minDate>
+    <maxDate>1984-03-31</maxDate>
+    <latitude>43.05</latitude>
+    <longitude>-104.7</longitude>
+    <elevation>1323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485374</id>
+    <displayName>LANCE CREEK 8 N, WY US</displayName>
+    <minDate>2005-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.1827</latitude>
+    <longitude>-104.6036</longitude>
+    <elevation>1281.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405040</id>
+    <displayName>LANCING 6 NW, TN US</displayName>
+    <minDate>1989-05-01</minDate>
+    <maxDate>2012-08-22</maxDate>
+    <latitude>36.15</latitude>
+    <longitude>-84.7283</longitude>
+    <elevation>463.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPS0043</id>
+    <displayName>LAND O LAKES 1.5 SSE, FL US</displayName>
+    <minDate>2012-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.2027</latitude>
+    <longitude>-82.44</longitude>
+    <elevation>26.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9742</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIVL0001</id>
+    <displayName>LAND O LAKES 7.7 WSW, WI US</displayName>
+    <minDate>2012-05-03</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.1435</latitude>
+    <longitude>-89.3752</longitude>
+    <elevation>526.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8396</coverage>
+  </station>
+</stationCollection>

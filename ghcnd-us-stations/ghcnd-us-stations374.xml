@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="374">
+  <station>
+    <id>GHCND:US1AZMR0273</id>
+    <displayName>SCOTTSDALE 2.8 N, AZ US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2011-11-05</maxDate>
+    <latitude>33.5406</latitude>
+    <longitude>-111.8985</longitude>
+    <elevation>394.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3267</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0207</id>
+    <displayName>SCOTTSDALE 3.7 SSW, AZ US</displayName>
+    <minDate>2009-11-27</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.4514</latitude>
+    <longitude>-111.9182</longitude>
+    <elevation>363.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0113</id>
+    <displayName>SCOTTSDALE 4.0 NW, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6158</latitude>
+    <longitude>-111.9566</longitude>
+    <elevation>435.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0108</id>
+    <displayName>SCOTTSDALE 4.5 ESE, AZ US</displayName>
+    <minDate>2009-10-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5705</latitude>
+    <longitude>-111.8225</longitude>
+    <elevation>441.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8631</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0277</id>
+    <displayName>SCOTTSDALE 4.7 NNW, AZ US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>33.5658</latitude>
+    <longitude>-111.9077</longitude>
+    <elevation>405.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1273</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0013</id>
+    <displayName>SCOTTSDALE 5.2 S, AZ US</displayName>
+    <minDate>2009-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6112</latitude>
+    <longitude>-111.8844</longitude>
+    <elevation>441</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0045</id>
+    <displayName>SCOTTSDALE 5.3 NNW, AZ US</displayName>
+    <minDate>2009-09-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7566</latitude>
+    <longitude>-111.9046</longitude>
+    <elevation>694.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0061</id>
+    <displayName>SCOTTSDALE 5.5 NNW, AZ US</displayName>
+    <minDate>2009-10-02</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.7562</latitude>
+    <longitude>-111.9143</longitude>
+    <elevation>677</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0071</id>
+    <displayName>SCOTTSDALE 7.8 SSW, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4741</latitude>
+    <longitude>-111.9395</longitude>
+    <elevation>387.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0019</id>
+    <displayName>SCOTTSDALE 8.8 SW, AZ US</displayName>
+    <minDate>2009-09-06</minDate>
+    <maxDate>2012-07-25</maxDate>
+    <latitude>33.5902</latitude>
+    <longitude>-111.9712</longitude>
+    <elevation>418.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0258</id>
+    <displayName>SCOTTSDALE 9.4 NNE, AZ US</displayName>
+    <minDate>2010-01-19</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.6335</latitude>
+    <longitude>-111.8576</longitude>
+    <elevation>495.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003192</id>
+    <displayName>SCOTTSDALE MUNICIPAL AIRPORT, AZ US</displayName>
+    <minDate>2001-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.62278</latitude>
+    <longitude>-111.91056</longitude>
+    <elevation>449</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027661</id>
+    <displayName>SCOTTSDALE, AZ US</displayName>
+    <minDate>1968-03-01</minDate>
+    <maxDate>1985-11-30</maxDate>
+    <latitude>33.46667</latitude>
+    <longitude>-111.88333</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088051</id>
+    <displayName>SCOTTSMOOR 2 NNW, FL US</displayName>
+    <minDate>2007-09-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.7881</latitude>
+    <longitude>-80.8819</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9075</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0016</id>
+    <displayName>SCOTTSVILLE 0.9 S, KY US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2010-11-16</maxDate>
+    <latitude>36.7372</latitude>
+    <longitude>-86.1992</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4706</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFV0001</id>
+    <displayName>SCOTTSVILLE 1.2 E, VA US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2009-07-04</maxDate>
+    <latitude>37.7974</latitude>
+    <longitude>-78.4722</longitude>
+    <elevation>142</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VANL0003</id>
+    <displayName>SCOTTSVILLE 11.8 SW, VA US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6934</latitude>
+    <longitude>-78.6641</longitude>
+    <elevation>141.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8591</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157220</id>
+    <displayName>SCOTTSVILLE 2 SW, KY US</displayName>
+    <minDate>1959-09-19</minDate>
+    <maxDate>1983-11-30</maxDate>
+    <latitude>36.73333</latitude>
+    <longitude>-86.21667</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0006</id>
+    <displayName>SCOTTSVILLE 2.4 SE, KY US</displayName>
+    <minDate>1998-08-31</minDate>
+    <maxDate>2012-07-20</maxDate>
+    <latitude>36.73</latitude>
+    <longitude>-86.16</longitude>
+    <elevation>246</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1378</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0014</id>
+    <displayName>SCOTTSVILLE 3.5 WNW, KY US</displayName>
+    <minDate>2008-03-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.7734</latitude>
+    <longitude>-86.2514</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSMC0001</id>
+    <displayName>SCOTTSVILLE 4.6 SSW, KS US</displayName>
+    <minDate>2005-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.48</latitude>
+    <longitude>-97.98</longitude>
+    <elevation>459</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0011</id>
+    <displayName>SCOTTSVILLE 4.9 NE, KY US</displayName>
+    <minDate>2008-01-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8021</latitude>
+    <longitude>-86.1373</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6245</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0003</id>
+    <displayName>SCOTTSVILLE 4.9 NE, KY US</displayName>
+    <minDate>2007-12-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8022</latitude>
+    <longitude>-86.1373</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0017</id>
+    <displayName>SCOTTSVILLE 5.5 N, KY US</displayName>
+    <minDate>2010-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8283</latitude>
+    <longitude>-86.1767</longitude>
+    <elevation>232.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0005</id>
+    <displayName>SCOTTSVILLE 5.5 NE, KY US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.8</latitude>
+    <longitude>-86.12</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2687</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0012</id>
+    <displayName>SCOTTSVILLE 5.8 NW, KY US</displayName>
+    <minDate>2008-01-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8117</latitude>
+    <longitude>-86.2668</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0007</id>
+    <displayName>SCOTTSVILLE 6.2 SSW, KY US</displayName>
+    <minDate>2007-12-23</minDate>
+    <maxDate>2008-06-24</maxDate>
+    <latitude>36.67</latitude>
+    <longitude>-86.25</longitude>
+    <elevation>188.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8486</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0001</id>
+    <displayName>SCOTTSVILLE 8.1 WNW, KY US</displayName>
+    <minDate>2007-11-13</minDate>
+    <maxDate>2012-09-08</maxDate>
+    <latitude>36.7831</latitude>
+    <longitude>-86.3372</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0013</id>
+    <displayName>SCOTTSVILLE 8.7 NW, KY US</displayName>
+    <minDate>2008-02-19</minDate>
+    <maxDate>2009-12-21</maxDate>
+    <latitude>36.8279</latitude>
+    <longitude>-86.3204</longitude>
+    <elevation>186.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7336</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYAL0004</id>
+    <displayName>SCOTTSVILLE 9.2 ESE, KY US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.7207</latitude>
+    <longitude>-86.0349</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157215</id>
+    <displayName>SCOTTSVILLE, KY US</displayName>
+    <minDate>1946-01-10</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.7458</latitude>
+    <longitude>-86.2258</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307578</id>
+    <displayName>SCOTTSVILLE, NY US</displayName>
+    <minDate>1900-04-01</minDate>
+    <maxDate>1913-10-31</maxDate>
+    <latitude>43.01667</latitude>
+    <longitude>-77.75</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207405</id>
+    <displayName>SCOTTVILLE 1 NE, MI US</displayName>
+    <minDate>1917-06-18</minDate>
+    <maxDate>1978-09-30</maxDate>
+    <latitude>43.96667</latitude>
+    <longitude>-86.26667</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8123</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207407</id>
+    <displayName>SCOTTVILLE 2 SE, MI US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9331</latitude>
+    <longitude>-86.2453</longitude>
+    <elevation>203</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIMS0001</id>
+    <displayName>SCOTTVILLE 6.6 NNW, MI US</displayName>
+    <minDate>2008-07-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0353</latitude>
+    <longitude>-86.34</longitude>
+    <elevation>209.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALC0005</id>
+    <displayName>SCRANTON 0.8 S, PA US</displayName>
+    <minDate>2005-04-01</minDate>
+    <maxDate>2005-07-31</maxDate>
+    <latitude>41.3931</latitude>
+    <longitude>-75.6674</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSOS0007</id>
+    <displayName>SCRANTON 1.6 ENE, KS US</displayName>
+    <minDate>2007-04-04</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.7896</latitude>
+    <longitude>-95.7145</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9198</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARLG0004</id>
+    <displayName>SCRANTON 1.8 SSE, AR US</displayName>
+    <minDate>2011-01-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3374</latitude>
+    <longitude>-93.5229</longitude>
+    <elevation>124.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSOS0013</id>
+    <displayName>SCRANTON 6.7 SE, KS US</displayName>
+    <minDate>2008-03-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7235</latitude>
+    <longitude>-95.6375</longitude>
+    <elevation>327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8482</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327932</id>
+    <displayName>SCRANTON, ND US</displayName>
+    <minDate>1951-03-04</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>46.15</latitude>
+    <longitude>-103.15</longitude>
+    <elevation>848</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367902</id>
+    <displayName>SCRANTON, PA US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>1975-01-31</maxDate>
+    <latitude>41.41667</latitude>
+    <longitude>-75.66667</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097915</id>
+    <displayName>SCREVEN, GA US</displayName>
+    <minDate>1905-07-01</minDate>
+    <maxDate>1908-07-14</maxDate>
+    <latitude>31.483333</latitude>
+    <longitude>-82.016667</longitude>
+    <elevation>37.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9721</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dodg005</id>
+    <displayName>SCRIBNER 2.0 E, NE US</displayName>
+    <minDate>2007-04-22</minDate>
+    <maxDate>2012-11-21</maxDate>
+    <latitude>41.668</latitude>
+    <longitude>-96.628</longitude>
+    <elevation>392</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5262</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257685</id>
+    <displayName>SCRIBNER, NE US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.6677</latitude>
+    <longitude>-96.6688</longitude>
+    <elevation>381.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307587</id>
+    <displayName>SEA CLIFF, NY US</displayName>
+    <minDate>1994-09-01</minDate>
+    <maxDate>2005-03-31</maxDate>
+    <latitude>40.85056</latitude>
+    <longitude>-73.64833</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088076</id>
+    <displayName>SEA HAG MARINA, FL US</displayName>
+    <minDate>2002-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.67111</latitude>
+    <longitude>-83.38833</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJCM0011</id>
+    <displayName>SEA ISLE CITY 1.4 SSW, NJ US</displayName>
+    <minDate>2009-07-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1327</latitude>
+    <longitude>-74.7102</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8341</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518600</id>
+    <displayName>SEA MOUNTAIN 12.15, HI US</displayName>
+    <minDate>1982-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>19.1335</latitude>
+    <longitude>-155.5113</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0016</id>
+    <displayName>SEABECK 3.8 SW, WA US</displayName>
+    <minDate>2008-06-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.5944</latitude>
+    <longitude>-122.8775</longitude>
+    <elevation>141.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8223</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHRC0004</id>
+    <displayName>SEABROOK 0.8 WSW, NH US</displayName>
+    <minDate>2009-07-16</minDate>
+    <maxDate>2009-12-05</maxDate>
+    <latitude>42.8902</latitude>
+    <longitude>-70.8888</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9091</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00281033</id>
+    <displayName>SEABROOK FARMS, NJ US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1949-05-31</maxDate>
+    <latitude>39.4871</latitude>
+    <longitude>-75.2201</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00287936</id>
+    <displayName>SEABROOK FARMS, NJ US</displayName>
+    <minDate>1949-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.4871</latitude>
+    <longitude>-75.2201</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCR0008</id>
+    <displayName>SEABROOK ISLAND 1.5 E, SC US</displayName>
+    <minDate>2008-02-28</minDate>
+    <maxDate>2012-07-29</maxDate>
+    <latitude>32.5827</latitude>
+    <longitude>-80.15</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8637</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCLH003</id>
+    <displayName>SEADRIFT 0.3 SSW, TX US</displayName>
+    <minDate>2009-05-22</minDate>
+    <maxDate>2012-05-11</maxDate>
+    <latitude>28.4105</latitude>
+    <longitude>-96.7167</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCLH009</id>
+    <displayName>SEADRIFT 0.6 E, TX US</displayName>
+    <minDate>2010-05-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.4153</latitude>
+    <longitude>-96.7055</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCLH001</id>
+    <displayName>SEADRIFT 5.1 E, TX US</displayName>
+    <minDate>2007-09-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.4083</latitude>
+    <longitude>-96.6309</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1653</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108210</id>
+    <displayName>SEAFOAM, ID US</displayName>
+    <minDate>1927-05-19</minDate>
+    <maxDate>1928-07-31</maxDate>
+    <latitude>44.533333</latitude>
+    <longitude>-115.1</longitude>
+    <elevation>2255.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1DESS0006</id>
+    <displayName>SEAFORD 2.3 SSE, DE US</displayName>
+    <minDate>2009-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6189</latitude>
+    <longitude>-75.5985</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307596</id>
+    <displayName>SEAGER, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1970-10-31</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-74.55</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418154</id>
+    <displayName>SEAGRAVES, TX US</displayName>
+    <minDate>1980-03-01</minDate>
+    <maxDate>1981-02-28</maxDate>
+    <latitude>32.95</latitude>
+    <longitude>-102.56667</longitude>
+    <elevation>1047.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRN0004</id>
+    <displayName>SEAGROVE 2.4 ENE, NC US</displayName>
+    <minDate>2008-08-13</minDate>
+    <maxDate>2011-09-28</maxDate>
+    <latitude>35.56</latitude>
+    <longitude>-79.74</longitude>
+    <elevation>169.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1025</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRN0016</id>
+    <displayName>SEAGROVE 6.0 ENE, NC US</displayName>
+    <minDate>2012-03-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5664</latitude>
+    <longitude>-79.675</longitude>
+    <elevation>165.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8232</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSEA</id>
+    <displayName>SEAGULL MINNESOTA, MN US</displayName>
+    <minDate>2003-05-14</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.1</latitude>
+    <longitude>-90.9</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9094</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALRS0003</id>
+    <displayName>SEALE 1.4 W, AL US</displayName>
+    <minDate>2008-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2918</latitude>
+    <longitude>-85.1893</longitude>
+    <elevation>121</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9618</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017329</id>
+    <displayName>SEALE 6 W, AL US</displayName>
+    <minDate>1953-09-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>32.3</latitude>
+    <longitude>-85.25</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9854</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017326</id>
+    <displayName>SEALE, AL US</displayName>
+    <minDate>1996-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.32167</latitude>
+    <longitude>-85.16833</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8133</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017328</id>
+    <displayName>SEALE, AL US</displayName>
+    <minDate>1925-03-23</minDate>
+    <maxDate>1965-02-28</maxDate>
+    <latitude>32.3</latitude>
+    <longitude>-85.16667</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8183</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAS0005</id>
+    <displayName>SEALY 0.3 WNW, TX US</displayName>
+    <minDate>2007-07-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7757</latitude>
+    <longitude>-96.1581</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4128</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAS0001</id>
+    <displayName>SEALY 1.2 NNW, TX US</displayName>
+    <minDate>2009-02-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7904</latitude>
+    <longitude>-96.1599</longitude>
+    <elevation>57.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6403</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAS0007</id>
+    <displayName>SEALY 1.9 NNE, TX US</displayName>
+    <minDate>2012-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7987</latitude>
+    <longitude>-96.1392</longitude>
+    <elevation>53.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418160</id>
+    <displayName>SEALY, TX US</displayName>
+    <minDate>1910-10-01</minDate>
+    <maxDate>2003-03-31</maxDate>
+    <latitude>29.77139</latitude>
+    <longitude>-96.14556</longitude>
+    <elevation>59.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9075</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00437142</id>
+    <displayName>SEARBURG POWER PLANT, VT US</displayName>
+    <minDate>1930-04-01</minDate>
+    <maxDate>1965-09-30</maxDate>
+    <latitude>42.9</latitude>
+    <longitude>-73</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267369</id>
+    <displayName>SEARCHLIGHT, NV US</displayName>
+    <minDate>1913-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4661</latitude>
+    <longitude>-114.9216</longitude>
+    <elevation>1079</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.949</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARWH0007</id>
+    <displayName>SEARCY 3.6 W, AR US</displayName>
+    <minDate>2009-11-30</minDate>
+    <maxDate>2012-05-08</maxDate>
+    <latitude>35.2359</latitude>
+    <longitude>-91.7935</longitude>
+    <elevation>116.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3659</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARWH0012</id>
+    <displayName>SEARCY 3.8 ESE, AR US</displayName>
+    <minDate>2010-10-08</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>35.2128</latitude>
+    <longitude>-91.6744</longitude>
+    <elevation>68.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARWH0005</id>
+    <displayName>SEARCY 4.1 SE, AR US</displayName>
+    <minDate>2009-10-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1937</latitude>
+    <longitude>-91.6902</longitude>
+    <elevation>64.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9656</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036506</id>
+    <displayName>SEARCY, AR US</displayName>
+    <minDate>1892-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2682</latitude>
+    <longitude>-91.7163</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8182</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327944</id>
+    <displayName>SEARING, ND US</displayName>
+    <minDate>1948-08-16</minDate>
+    <maxDate>1949-10-18</maxDate>
+    <latitude>47.56667</latitude>
+    <longitude>-103.8</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4126</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207413</id>
+    <displayName>SEARS 2 S, MI US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.88333</latitude>
+    <longitude>-85.18333</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7354</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00437152</id>
+    <displayName>SEARSBURG STATION, VT US</displayName>
+    <minDate>1930-05-01</minDate>
+    <maxDate>1998-07-31</maxDate>
+    <latitude>42.86667</latitude>
+    <longitude>-72.91667</longitude>
+    <elevation>475.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEWL0012</id>
+    <displayName>SEARSMONT 3.5 WNW, ME US</displayName>
+    <minDate>2011-12-17</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.3768</latitude>
+    <longitude>-69.2616</longitude>
+    <elevation>116.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048068</id>
+    <displayName>SEARSVILLE LAKE, CA US</displayName>
+    <minDate>1925-09-01</minDate>
+    <maxDate>1972-12-31</maxDate>
+    <latitude>37.4</latitude>
+    <longitude>-122.23333</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357641</id>
+    <displayName>SEASIDE, OR US</displayName>
+    <minDate>1930-01-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.98694</latitude>
+    <longitude>-123.92361</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0064</id>
+    <displayName>SEATTLE 2.0 NE, WA US</displayName>
+    <minDate>2008-06-12</minDate>
+    <maxDate>2009-01-22</maxDate>
+    <latitude>47.6452</latitude>
+    <longitude>-122.3233</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8622</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0020</id>
+    <displayName>SEATTLE 2.2 NNE, WA US</displayName>
+    <minDate>2008-06-19</minDate>
+    <maxDate>2010-05-12</maxDate>
+    <latitude>47.651</latitude>
+    <longitude>-122.3303</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5642</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0040</id>
+    <displayName>SEATTLE 2.3 NW, WA US</displayName>
+    <minDate>2008-09-25</minDate>
+    <maxDate>2011-12-01</maxDate>
+    <latitude>47.6405</latitude>
+    <longitude>-122.3903</longitude>
+    <elevation>74.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3181</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0079</id>
+    <displayName>SEATTLE 3.0 WNW, WA US</displayName>
+    <minDate>2008-08-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6408</latitude>
+    <longitude>-122.4082</longitude>
+    <elevation>93.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0082</id>
+    <displayName>SEATTLE 3.2 N, WA US</displayName>
+    <minDate>2008-10-01</minDate>
+    <maxDate>2009-03-27</maxDate>
+    <latitude>47.6679</latitude>
+    <longitude>-122.3611</longitude>
+    <elevation>47.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0038</id>
+    <displayName>SEATTLE 3.5 NW, WA US</displayName>
+    <minDate>2008-06-20</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>47.6523</latitude>
+    <longitude>-122.4095</longitude>
+    <elevation>93</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9292</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0145</id>
+    <displayName>SEATTLE 4.2 N, WA US</displayName>
+    <minDate>2010-12-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.6819</latitude>
+    <longitude>-122.3655</longitude>
+    <elevation>74.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0072</id>
+    <displayName>SEATTLE 4.2 SW, WA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>47.5774</latitude>
+    <longitude>-122.412</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0104</id>
+    <displayName>SEATTLE 4.3 N, WA US</displayName>
+    <minDate>2008-12-09</minDate>
+    <maxDate>2009-11-26</maxDate>
+    <latitude>47.684</latitude>
+    <longitude>-122.3593</longitude>
+    <elevation>90.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0108</id>
+    <displayName>SEATTLE 4.3 NNE, WA US</displayName>
+    <minDate>2009-09-06</minDate>
+    <maxDate>2011-01-06</maxDate>
+    <latitude>47.6777</latitude>
+    <longitude>-122.3087</longitude>
+    <elevation>91.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3545</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0165</id>
+    <displayName>SEATTLE 4.5 N, WA US</displayName>
+    <minDate>2011-09-22</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>47.6864</latitude>
+    <longitude>-122.3582</longitude>
+    <elevation>96.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0142</id>
+    <displayName>SEATTLE 4.5 NNE, WA US</displayName>
+    <minDate>2010-03-12</minDate>
+    <maxDate>2012-05-02</maxDate>
+    <latitude>47.6771</latitude>
+    <longitude>-122.2978</longitude>
+    <elevation>79.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7305</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0083</id>
+    <displayName>SEATTLE 4.5 SE, WA US</displayName>
+    <minDate>2008-10-24</minDate>
+    <maxDate>2010-01-20</maxDate>
+    <latitude>47.5712</latitude>
+    <longitude>-122.2836</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8414</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0006</id>
+    <displayName>SEATTLE 4.9 NNW, WA US</displayName>
+    <minDate>2008-06-05</minDate>
+    <maxDate>2009-04-17</maxDate>
+    <latitude>47.6865</latitude>
+    <longitude>-122.3934</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0089</id>
+    <displayName>SEATTLE 5.0 NNW, WA US</displayName>
+    <minDate>2008-12-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6914</latitude>
+    <longitude>-122.3619</longitude>
+    <elevation>80.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0136</id>
+    <displayName>SEATTLE 5.1 SE, WA US</displayName>
+    <minDate>2010-01-03</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>47.5461</latitude>
+    <longitude>-122.2685</longitude>
+    <elevation>85.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6486</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0168</id>
+    <displayName>SEATTLE 5.6 NNE, WA US</displayName>
+    <minDate>2011-05-16</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>47.6833</latitude>
+    <longitude>-122.2984</longitude>
+    <elevation>86.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5559</coverage>
+  </station>
+</stationCollection>

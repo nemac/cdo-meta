@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="141">
+  <station>
+    <id>GHCND:US1COLR0403</id>
+    <displayName>FCL 3.7 E, CO US</displayName>
+    <minDate>2000-05-20</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>40.5725</latitude>
+    <longitude>-105.0147</longitude>
+    <elevation>1502.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5111</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0375</id>
+    <displayName>FCL 3.7 S, CO US</displayName>
+    <minDate>1999-05-12</minDate>
+    <maxDate>2002-08-08</maxDate>
+    <latitude>40.5269</latitude>
+    <longitude>-105.0575</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2143</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0330</id>
+    <displayName>FCL 3.7 SE, CO US</displayName>
+    <minDate>1998-06-11</minDate>
+    <maxDate>2002-05-12</maxDate>
+    <latitude>40.5363</latitude>
+    <longitude>-105.0294</longitude>
+    <elevation>1506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0292</id>
+    <displayName>FCL 4.0 E, CO US</displayName>
+    <minDate>1998-06-02</minDate>
+    <maxDate>2011-10-21</maxDate>
+    <latitude>40.5767</latitude>
+    <longitude>-105.023</longitude>
+    <elevation>1506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8115</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0356</id>
+    <displayName>FCL 4.0 N, CO US</displayName>
+    <minDate>1999-05-10</minDate>
+    <maxDate>2005-05-07</maxDate>
+    <latitude>40.633</latitude>
+    <longitude>-105.0734</longitude>
+    <elevation>1553.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0324</id>
+    <displayName>FCL 4.0 NW, CO US</displayName>
+    <minDate>1998-06-10</minDate>
+    <maxDate>2002-11-03</maxDate>
+    <latitude>40.6137</latitude>
+    <longitude>-105.1417</longitude>
+    <elevation>1551.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3445</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0376</id>
+    <displayName>FCL 4.0 NW, CO US</displayName>
+    <minDate>1999-05-17</minDate>
+    <maxDate>2001-05-07</maxDate>
+    <latitude>40.6152</latitude>
+    <longitude>-105.1403</longitude>
+    <elevation>1541.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0290</id>
+    <displayName>FCL 4.0 SE, CO US</displayName>
+    <minDate>1998-06-06</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>40.5373</latitude>
+    <longitude>-105.0291</longitude>
+    <elevation>1506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2261</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0279</id>
+    <displayName>FCL 4.1 S, CO US</displayName>
+    <minDate>1998-06-05</minDate>
+    <maxDate>2000-03-22</maxDate>
+    <latitude>40.518</latitude>
+    <longitude>-105.0655</longitude>
+    <elevation>1524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4003</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0406</id>
+    <displayName>FCL 4.3 N, CO US</displayName>
+    <minDate>1999-08-13</minDate>
+    <maxDate>2008-09-05</maxDate>
+    <latitude>40.6384</latitude>
+    <longitude>-105.0878</longitude>
+    <elevation>1534.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2204</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0335</id>
+    <displayName>FCL 4.5 S, CO US</displayName>
+    <minDate>1998-06-11</minDate>
+    <maxDate>2009-08-17</maxDate>
+    <latitude>40.5141</latitude>
+    <longitude>-105.0722</longitude>
+    <elevation>1509.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2014</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0264</id>
+    <displayName>FCL 4.5 SW, CO US</displayName>
+    <minDate>1998-06-01</minDate>
+    <maxDate>2011-06-20</maxDate>
+    <latitude>40.5195</latitude>
+    <longitude>-105.1256</longitude>
+    <elevation>1577.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4346</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0370</id>
+    <displayName>FCL 4.7 SW, CO US</displayName>
+    <minDate>1999-05-15</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>40.5438</latitude>
+    <longitude>-105.1597</longitude>
+    <elevation>1662.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3188</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0397</id>
+    <displayName>FCL 4.8 SW, CO US</displayName>
+    <minDate>1999-08-13</minDate>
+    <maxDate>2011-10-21</maxDate>
+    <latitude>40.5267</latitude>
+    <longitude>-105.1637</longitude>
+    <elevation>1666</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8219</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0341</id>
+    <displayName>FCL 5.5 S, CO US</displayName>
+    <minDate>1998-07-23</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.4968</latitude>
+    <longitude>-105.0688</longitude>
+    <elevation>1513</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4496</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0393</id>
+    <displayName>FCL 5.6 E, CO US</displayName>
+    <minDate>1999-07-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.5653</latitude>
+    <longitude>-104.9811</longitude>
+    <elevation>1499</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9497</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0325</id>
+    <displayName>FCL 5.7 S, CO US</displayName>
+    <minDate>1998-06-11</minDate>
+    <maxDate>1999-07-26</maxDate>
+    <latitude>40.4966</latitude>
+    <longitude>-105.0709</longitude>
+    <elevation>1514.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3479</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0274</id>
+    <displayName>FCL 5.8 S, CO US</displayName>
+    <minDate>1998-06-22</minDate>
+    <maxDate>2005-04-09</maxDate>
+    <latitude>40.4937</latitude>
+    <longitude>-105.0839</longitude>
+    <elevation>1551.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1329</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0338</id>
+    <displayName>FCL 6 SW, CO US</displayName>
+    <minDate>1998-06-18</minDate>
+    <maxDate>2005-11-06</maxDate>
+    <latitude>40.5215</latitude>
+    <longitude>-105.169</longitude>
+    <elevation>1695</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3738</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0302</id>
+    <displayName>FCL 6.8 E, CO US</displayName>
+    <minDate>1998-06-11</minDate>
+    <maxDate>2004-04-01</maxDate>
+    <latitude>40.5797</latitude>
+    <longitude>-104.9759</longitude>
+    <elevation>1517.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5207</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0298</id>
+    <displayName>FCL 6.8 S, CO US</displayName>
+    <minDate>1998-06-11</minDate>
+    <maxDate>2010-05-11</maxDate>
+    <latitude>40.478</latitude>
+    <longitude>-105.071</longitude>
+    <elevation>1528</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2086</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0269</id>
+    <displayName>FCL 8.1 S, CO US</displayName>
+    <minDate>1998-06-12</minDate>
+    <maxDate>2003-08-10</maxDate>
+    <latitude>40.4724</latitude>
+    <longitude>-105.0649</longitude>
+    <elevation>1535</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0250</id>
+    <displayName>FCL 8.2 E, CO US</displayName>
+    <minDate>1999-05-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.6182</latitude>
+    <longitude>-104.9265</longitude>
+    <elevation>1595.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8126</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0255</id>
+    <displayName>FCL, CO US</displayName>
+    <minDate>1998-06-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.5759</latitude>
+    <longitude>-105.0858</longitude>
+    <elevation>1527</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9775</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042994</id>
+    <displayName>FEATHER FALLS, CA US</displayName>
+    <minDate>1938-11-01</minDate>
+    <maxDate>1958-01-31</maxDate>
+    <latitude>39.6</latitude>
+    <longitude>-121.26667</longitude>
+    <elevation>905.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.478</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103133</id>
+    <displayName>FEATHERVILLE, ID US</displayName>
+    <minDate>1975-08-01</minDate>
+    <maxDate>1979-01-31</maxDate>
+    <latitude>43.61667</latitude>
+    <longitude>-115.25</longitude>
+    <elevation>1388.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9203</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082915</id>
+    <displayName>FEDERAL POINT, FL US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.755</latitude>
+    <longitude>-81.5389</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0026</id>
+    <displayName>FEDERAL WAY 1.0 ENE, WA US</displayName>
+    <minDate>2008-06-05</minDate>
+    <maxDate>2009-12-31</maxDate>
+    <latitude>47.318</latitude>
+    <longitude>-122.322</longitude>
+    <elevation>157</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7913</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0088</id>
+    <displayName>FEDERAL WAY 2.5 NNE, WA US</displayName>
+    <minDate>2008-11-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.346</latitude>
+    <longitude>-122.322</longitude>
+    <elevation>41.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9473</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413112</id>
+    <displayName>FEDOR, TX US</displayName>
+    <minDate>1963-03-28</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>30.3165</latitude>
+    <longitude>-97.0545</longitude>
+    <elevation>147.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00152812</id>
+    <displayName>FEDSCREEK 1 SE, KY US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>37.4</latitude>
+    <longitude>-82.23333</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082923</id>
+    <displayName>FELDA, FL US</displayName>
+    <minDate>1940-03-08</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>26.53333</latitude>
+    <longitude>-81.43333</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7464</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082936</id>
+    <displayName>FELLSMERE 7 SSW, FL US</displayName>
+    <minDate>1911-08-01</minDate>
+    <maxDate>1979-04-30</maxDate>
+    <latitude>27.68333</latitude>
+    <longitude>-80.65</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9165</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00032475</id>
+    <displayName>FELSENTHAL LOCK AND DAM, AR US</displayName>
+    <minDate>1998-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0597</latitude>
+    <longitude>-92.1236</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103139</id>
+    <displayName>FELT, ID US</displayName>
+    <minDate>1919-04-01</minDate>
+    <maxDate>1932-06-30</maxDate>
+    <latitude>43.883333</latitude>
+    <longitude>-111.116667</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9849</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0014</id>
+    <displayName>FELTON 0.1 SE, CA US</displayName>
+    <minDate>2009-02-16</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>37.0417</latitude>
+    <longitude>-122.0712</longitude>
+    <elevation>72.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3511</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1DEKN0001</id>
+    <displayName>FELTON 3.6 NE, DE US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0326</latitude>
+    <longitude>-75.5169</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0024</id>
+    <displayName>FELTON 4.5 NNE, CA US</displayName>
+    <minDate>2010-02-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.1051</latitude>
+    <longitude>-122.0468</longitude>
+    <elevation>255.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9559</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043004</id>
+    <displayName>FELTON, CA US</displayName>
+    <minDate>2000-09-01</minDate>
+    <maxDate>2008-08-31</maxDate>
+    <latitude>37.05056</latitude>
+    <longitude>-122.075</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYJF0008</id>
+    <displayName>FELTS MILLS 0.1 NNW, NY US</displayName>
+    <minDate>2008-10-16</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>44.0194</latitude>
+    <longitude>-75.7655</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2229</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914193</id>
+    <displayName>FENA FILTER PLANT, US</displayName>
+    <minDate>1954-01-01</minDate>
+    <maxDate>1958-05-31</maxDate>
+    <latitude>13.36667</latitude>
+    <longitude>144.7</longitude>
+    <elevation>111.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00183097</id>
+    <displayName>FENBY, MD US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1894-09-30</maxDate>
+    <latitude>39.6</latitude>
+    <longitude>-77.083333</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293182</id>
+    <displayName>FENCE LAKE 2, NM US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>34.67917</latitude>
+    <longitude>-108.72306</longitude>
+    <elevation>2130.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7439</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293180</id>
+    <displayName>FENCE LAKE, NM US</displayName>
+    <minDate>1933-11-01</minDate>
+    <maxDate>2007-09-30</maxDate>
+    <latitude>34.65278</latitude>
+    <longitude>-108.67639</longitude>
+    <elevation>2153.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CFEN</id>
+    <displayName>FENCE MEADOW CALIFORNIA, CA US</displayName>
+    <minDate>1999-06-30</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.9614</latitude>
+    <longitude>-119.175</longitude>
+    <elevation>1538.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9358</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262805</id>
+    <displayName>FENELON, NV US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>1907-12-31</maxDate>
+    <latitude>41.2</latitude>
+    <longitude>-114.666667</longitude>
+    <elevation>1867.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IFEN</id>
+    <displayName>FENN IDAHO, ID US</displayName>
+    <minDate>1996-06-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>46.1</latitude>
+    <longitude>-115.5347</longitude>
+    <elevation>463.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103143</id>
+    <displayName>FENN RANGER STATION, ID US</displayName>
+    <minDate>1939-06-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>46.093</latitude>
+    <longitude>-115.5355</longitude>
+    <elevation>475.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472745</id>
+    <displayName>FENNIMORE 1 NE, WI US</displayName>
+    <minDate>1948-08-07</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43</latitude>
+    <longitude>-90.65</longitude>
+    <elevation>360</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIAN0004</id>
+    <displayName>FENNVILLE 0.8 W, MI US</displayName>
+    <minDate>2008-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.5942</latitude>
+    <longitude>-86.1201</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202751</id>
+    <displayName>FENNVILLE 3 W, MI US</displayName>
+    <minDate>1990-04-01</minDate>
+    <maxDate>2011-03-23</maxDate>
+    <latitude>42.5939</latitude>
+    <longitude>-86.1558</longitude>
+    <elevation>216.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.192</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202748</id>
+    <displayName>FENNVILLE NUMBER 1, MI US</displayName>
+    <minDate>1901-04-01</minDate>
+    <maxDate>1926-11-30</maxDate>
+    <latitude>42.6</latitude>
+    <longitude>-86.11667</longitude>
+    <elevation>202.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202750</id>
+    <displayName>FENNVILLE NUMBER 2, MI US</displayName>
+    <minDate>1927-02-14</minDate>
+    <maxDate>1934-12-31</maxDate>
+    <latitude>42.6</latitude>
+    <longitude>-86.1</longitude>
+    <elevation>202.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYBM0002</id>
+    <displayName>FENTON 2.4 NE, NY US</displayName>
+    <minDate>2007-11-08</minDate>
+    <maxDate>2009-04-09</maxDate>
+    <latitude>42.2333</latitude>
+    <longitude>-75.7833</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.341</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0063</id>
+    <displayName>FENTON 2.7 SSE, MI US</displayName>
+    <minDate>2012-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7672</latitude>
+    <longitude>-83.6855</longitude>
+    <elevation>296</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8311</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202753</id>
+    <displayName>FENTON 5 SW, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1950-07-31</maxDate>
+    <latitude>42.75</latitude>
+    <longitude>-83.76667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9343</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MILV0008</id>
+    <displayName>FENTON 5.6 WSW, MI US</displayName>
+    <minDate>2012-03-19</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.7729</latitude>
+    <longitude>-83.8187</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202754</id>
+    <displayName>FENTON, MI US</displayName>
+    <minDate>1963-03-01</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>42.81167</latitude>
+    <longitude>-83.70444</longitude>
+    <elevation>271.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2146</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013762</id>
+    <displayName>FENTRESS NAVAL AUXILIARY FIELD, VA US</displayName>
+    <minDate>1996-07-17</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>36.695</latitude>
+    <longitude>-76.13556</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3142</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122863</id>
+    <displayName>FERDINAND STATE FORE, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.25</latitude>
+    <longitude>-86.78333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.909</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNOT0005</id>
+    <displayName>FERGUS FALLS 0.5 E, MN US</displayName>
+    <minDate>2012-03-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.2853</latitude>
+    <longitude>-96.0663</longitude>
+    <elevation>366.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNOT0002</id>
+    <displayName>FERGUS FALLS 0.9 NNE, MN US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>46.2966</latitude>
+    <longitude>-96.0655</longitude>
+    <elevation>380.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.225</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00212768</id>
+    <displayName>FERGUS FALLS, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2006-12-31</maxDate>
+    <latitude>46.2919</latitude>
+    <longitude>-96.1172</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043020</id>
+    <displayName>FERGUSON RANCH, CA US</displayName>
+    <minDate>1952-01-01</minDate>
+    <maxDate>1967-07-31</maxDate>
+    <latitude>40.35</latitude>
+    <longitude>-122.45</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352855</id>
+    <displayName>FERGUSON RANCH, OR US</displayName>
+    <minDate>1918-04-01</minDate>
+    <maxDate>1921-12-31</maxDate>
+    <latitude>45.95</latitude>
+    <longitude>-118.783333</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262820</id>
+    <displayName>FERGUSON SPRINGS HMS, NV US</displayName>
+    <minDate>1972-10-01</minDate>
+    <maxDate>1982-09-30</maxDate>
+    <latitude>40.41667</latitude>
+    <longitude>-114.18333</longitude>
+    <elevation>1780</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9381</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352867</id>
+    <displayName>FERN RIDGE DAM, OR US</displayName>
+    <minDate>1943-07-16</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>44.0494</latitude>
+    <longitude>-123.3702</longitude>
+    <elevation>147.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9007</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLNS0011</id>
+    <displayName>FERNANDINA BEACH 1.2 NW, FL US</displayName>
+    <minDate>2009-06-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6713</latitude>
+    <longitude>-81.4621</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082944</id>
+    <displayName>FERNANDINA BEACH, FL US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.6669</latitude>
+    <longitude>-81.4525</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9141</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MFER</id>
+    <displayName>FERNBERG MINNESOTA, MN US</displayName>
+    <minDate>2001-09-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.9461</latitude>
+    <longitude>-91.4947</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8613</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0009</id>
+    <displayName>FERNDALE 0.8 ENE, MI US</displayName>
+    <minDate>2008-07-23</minDate>
+    <maxDate>2009-03-20</maxDate>
+    <latitude>42.464</latitude>
+    <longitude>-83.1162</longitude>
+    <elevation>193.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9253</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0017</id>
+    <displayName>FERNDALE 1.1 NNW, WA US</displayName>
+    <minDate>2008-11-02</minDate>
+    <maxDate>2012-09-10</maxDate>
+    <latitude>48.8639</latitude>
+    <longitude>-122.6003</longitude>
+    <elevation>57.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6089</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043030</id>
+    <displayName>FERNDALE 2 NW, CA US</displayName>
+    <minDate>1963-03-01</minDate>
+    <maxDate>1973-09-30</maxDate>
+    <latitude>40.6</latitude>
+    <longitude>-124.28333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0008</id>
+    <displayName>FERNDALE 2.1 NW, WA US</displayName>
+    <minDate>2008-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.8689</latitude>
+    <longitude>-122.6245</longitude>
+    <elevation>109.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6384</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0036</id>
+    <displayName>FERNDALE 2.2 NW, WA US</displayName>
+    <minDate>2011-10-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.869</latitude>
+    <longitude>-122.6265</longitude>
+    <elevation>110.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8333</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0040</id>
+    <displayName>FERNDALE 3.5 W, WA US</displayName>
+    <minDate>2012-03-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.8488</latitude>
+    <longitude>-122.6649</longitude>
+    <elevation>68.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0013</id>
+    <displayName>FERNDALE 6.5 WSW, WA US</displayName>
+    <minDate>2008-06-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.8009</latitude>
+    <longitude>-122.7075</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043025</id>
+    <displayName>FERNDALE 8 SSW, CA US</displayName>
+    <minDate>1959-11-23</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>40.5</latitude>
+    <longitude>-124.33333</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052880</id>
+    <displayName>FERNDALE RANCH, CO US</displayName>
+    <minDate>1941-06-01</minDate>
+    <maxDate>1960-04-30</maxDate>
+    <latitude>40.78333</latitude>
+    <longitude>-107.65</longitude>
+    <elevation>2135.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0007</id>
+    <displayName>FERNLEY 1.8 WNW, NV US</displayName>
+    <minDate>2007-12-27</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>39.5948</latitude>
+    <longitude>-119.2317</longitude>
+    <elevation>1268</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0008</id>
+    <displayName>FERNLEY 2.4 WNW, NV US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2008-06-24</maxDate>
+    <latitude>39.5972</latitude>
+    <longitude>-119.242</longitude>
+    <elevation>1275.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0014</id>
+    <displayName>FERNLEY 2.6 WNW, NV US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6024</latitude>
+    <longitude>-119.2441</longitude>
+    <elevation>1271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9652</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0012</id>
+    <displayName>FERNLEY 2.8 E, NV US</displayName>
+    <minDate>2010-12-19</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>39.5884</latitude>
+    <longitude>-119.1489</longitude>
+    <elevation>1255.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6541</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262849</id>
+    <displayName>FERNLEY MNTC STATION, NV US</displayName>
+    <minDate>1944-09-23</minDate>
+    <maxDate>1954-04-30</maxDate>
+    <latitude>39.61667</latitude>
+    <longitude>-119.26667</longitude>
+    <elevation>1268.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4565</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262840</id>
+    <displayName>FERNLEY, NV US</displayName>
+    <minDate>1907-02-01</minDate>
+    <maxDate>1974-05-31</maxDate>
+    <latitude>39.61667</latitude>
+    <longitude>-119.25</longitude>
+    <elevation>1268.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4634</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103175</id>
+    <displayName>FERNWOOD, ID US</displayName>
+    <minDate>1905-03-01</minDate>
+    <maxDate>1906-08-31</maxDate>
+    <latitude>47.116667</latitude>
+    <longitude>-116.366667</longitude>
+    <elevation>661.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LACN0002</id>
+    <displayName>FERRIDAY 1.1 NNW, LA US</displayName>
+    <minDate>2010-05-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6473</latitude>
+    <longitude>-91.5651</longitude>
+    <elevation>16.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163117</id>
+    <displayName>FERRIDAY, LA US</displayName>
+    <minDate>1907-04-01</minDate>
+    <maxDate>1912-11-30</maxDate>
+    <latitude>31.63333</latitude>
+    <longitude>-91.56667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.93</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413133</id>
+    <displayName>FERRIS, TX US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>32.5338</latitude>
+    <longitude>-96.6608</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9053</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422798</id>
+    <displayName>FERRON, UT US</displayName>
+    <minDate>1897-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0875</latitude>
+    <longitude>-111.1325</longitude>
+    <elevation>1805.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFR0019</id>
+    <displayName>FERRUM 1.9 SSW, VA US</displayName>
+    <minDate>2012-03-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.9029</latitude>
+    <longitude>-80.0304</longitude>
+    <elevation>395.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8121</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFR0018</id>
+    <displayName>FERRUM 5.1 SW, VA US</displayName>
+    <minDate>2011-09-02</minDate>
+    <maxDate>2012-10-29</maxDate>
+    <latitude>36.879</latitude>
+    <longitude>-80.0888</longitude>
+    <elevation>381.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322949</id>
+    <displayName>FESSENDEN, ND US</displayName>
+    <minDate>1911-10-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>47.6455</latitude>
+    <longitude>-99.6219</longitude>
+    <elevation>493.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9361</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOJF0014</id>
+    <displayName>FESTUS 5.2 S, MO US</displayName>
+    <minDate>2012-07-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1482</latitude>
+    <longitude>-90.4191</longitude>
+    <elevation>191.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9677</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232850</id>
+    <displayName>FESTUS, MO US</displayName>
+    <minDate>1960-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.23056</latitude>
+    <longitude>-90.39806</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8462</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043038</id>
+    <displayName>FIDDLETOWN RANCH, CA US</displayName>
+    <minDate>1938-01-31</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>38.5236</latitude>
+    <longitude>-120.7061</longitude>
+    <elevation>658.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510541</id>
+    <displayName>FIELD 46 474, HI US</displayName>
+    <minDate>1991-01-01</minDate>
+    <maxDate>2003-10-31</maxDate>
+    <latitude>20.98889</latitude>
+    <longitude>-156.6275</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293195</id>
+    <displayName>FIELD NEAR, NM US</displayName>
+    <minDate>1920-08-26</minDate>
+    <maxDate>1934-04-30</maxDate>
+    <latitude>34.71667</latitude>
+    <longitude>-103.58333</longitude>
+    <elevation>1402.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9278</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442983</id>
+    <displayName>FIELDALE, VA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.71667</latitude>
+    <longitude>-79.93333</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9758</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OFIE</id>
+    <displayName>FIELDS OREGON, OR US</displayName>
+    <minDate>1991-10-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.6806</latitude>
+    <longitude>-122.3019</longitude>
+    <elevation>1028.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9163</coverage>
+  </station>
+</stationCollection>

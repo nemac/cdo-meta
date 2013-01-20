@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="258">
+  <station>
+    <id>GHCND:USC00205050</id>
+    <displayName>MANCHESTER, MI US</displayName>
+    <minDate>2001-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1508</latitude>
+    <longitude>-84.0236</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00275072</id>
+    <displayName>MANCHESTER, NH US</displayName>
+    <minDate>1885-02-01</minDate>
+    <maxDate>1999-03-20</maxDate>
+    <latitude>43.03333</latitude>
+    <longitude>-71.48333</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5321</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405592</id>
+    <displayName>MANCHESTER, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.48333</latitude>
+    <longitude>-86.08333</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6756</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00434882</id>
+    <displayName>MANCHESTER, VT US</displayName>
+    <minDate>1899-11-01</minDate>
+    <maxDate>1988-12-31</maxDate>
+    <latitude>43.16667</latitude>
+    <longitude>-73.06667</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4784</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMZ0033</id>
+    <displayName>MANCOS 11 NNE, CO US</displayName>
+    <minDate>2004-12-12</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>37.4984</latitude>
+    <longitude>-108.2401</longitude>
+    <elevation>2728</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMZ0021</id>
+    <displayName>MANCOS 2.7 S, CO US</displayName>
+    <minDate>2004-04-11</minDate>
+    <maxDate>2008-01-25</maxDate>
+    <latitude>37.3122</latitude>
+    <longitude>-108.292</longitude>
+    <elevation>2172</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8419</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMZ0046</id>
+    <displayName>MANCOS 3.5 ENE, CO US</displayName>
+    <minDate>2009-08-24</minDate>
+    <maxDate>2012-09-24</maxDate>
+    <latitude>37.3712</latitude>
+    <longitude>-108.2373</longitude>
+    <elevation>2287.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2438</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMZ0013</id>
+    <displayName>MANCOS 3.8 WNW, CO US</displayName>
+    <minDate>2004-06-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.3758</latitude>
+    <longitude>-108.3524</longitude>
+    <elevation>2148.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7769</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMZ0017</id>
+    <displayName>MANCOS 5.9 W, CO US</displayName>
+    <minDate>2004-06-04</minDate>
+    <maxDate>2010-12-07</maxDate>
+    <latitude>37.3305</latitude>
+    <longitude>-108.3991</longitude>
+    <elevation>2096.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055327</id>
+    <displayName>MANCOS, CO US</displayName>
+    <minDate>1898-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.335</latitude>
+    <longitude>-108.3161</longitude>
+    <elevation>2102.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008M02S</id>
+    <displayName>MANCOS, CO US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.4167</latitude>
+    <longitude>-108.1833</longitude>
+    <elevation>3048</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9632</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDMT0003</id>
+    <displayName>MANDAN 3.5 NW, ND US</displayName>
+    <minDate>2010-03-30</minDate>
+    <maxDate>2010-10-27</maxDate>
+    <latitude>46.865</latitude>
+    <longitude>-100.9416</longitude>
+    <elevation>604.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325479</id>
+    <displayName>MANDAN EXPERIMENT STATION, ND US</displayName>
+    <minDate>1913-07-16</minDate>
+    <maxDate>2012-12-03</maxDate>
+    <latitude>46.8127</latitude>
+    <longitude>-100.9097</longitude>
+    <elevation>533.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325484</id>
+    <displayName>MANDAN FORT LINCOLN, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1970-02-28</maxDate>
+    <latitude>46.75</latitude>
+    <longitude>-100.86667</longitude>
+    <elevation>509</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395154</id>
+    <displayName>MANDERSON 3 NE, SD US</displayName>
+    <minDate>1908-05-01</minDate>
+    <maxDate>2004-03-31</maxDate>
+    <latitude>43.2625</latitude>
+    <longitude>-102.43861</longitude>
+    <elevation>943.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045296</id>
+    <displayName>MANDEVILLE ISLAND, CA US</displayName>
+    <minDate>1955-05-01</minDate>
+    <maxDate>1965-02-28</maxDate>
+    <latitude>38.03333</latitude>
+    <longitude>-121.56667</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235220</id>
+    <displayName>MANES, MO US</displayName>
+    <minDate>1941-02-01</minDate>
+    <maxDate>1942-07-31</maxDate>
+    <latitude>37.366667</latitude>
+    <longitude>-92.316667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325492</id>
+    <displayName>MANFRED, ND US</displayName>
+    <minDate>1903-06-01</minDate>
+    <maxDate>1942-02-28</maxDate>
+    <latitude>47.666667</latitude>
+    <longitude>-99.75</longitude>
+    <elevation>489.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9538</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914468</id>
+    <displayName>MANGILAO, US</displayName>
+    <minDate>1970-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>13.4528</latitude>
+    <longitude>144.7981</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9224</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKGR0002</id>
+    <displayName>MANGUM 0.5 ESE, OK US</displayName>
+    <minDate>2010-01-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8763</latitude>
+    <longitude>-99.494</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345514</id>
+    <displayName>MANGUM 5 SE MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>34.8359</latitude>
+    <longitude>-99.424</longitude>
+    <elevation>459.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345509</id>
+    <displayName>MANGUM, OK US</displayName>
+    <minDate>1920-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.891</latitude>
+    <longitude>-99.5016</longitude>
+    <elevation>486.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9072</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00315283</id>
+    <displayName>MANGUMS STORE 4 WSW, NC US</displayName>
+    <minDate>1926-06-01</minDate>
+    <maxDate>1971-01-31</maxDate>
+    <latitude>36.16667</latitude>
+    <longitude>-78.9</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9453</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0003</id>
+    <displayName>MANHATTAN 0.7 S, KS US</displayName>
+    <minDate>2006-03-22</minDate>
+    <maxDate>2011-02-03</maxDate>
+    <latitude>39.1798</latitude>
+    <longitude>-96.5907</longitude>
+    <elevation>350.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0026</id>
+    <displayName>MANHATTAN 0.8 ESE, IL US</displayName>
+    <minDate>2007-06-29</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.4213</latitude>
+    <longitude>-87.9749</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0004</id>
+    <displayName>MANHATTAN 1.4 SW, KS US</displayName>
+    <minDate>2006-05-25</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>39.1755</latitude>
+    <longitude>-96.6094</longitude>
+    <elevation>352</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4096</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0011</id>
+    <displayName>MANHATTAN 1.6 W, KS US</displayName>
+    <minDate>2008-07-14</minDate>
+    <maxDate>2012-09-08</maxDate>
+    <latitude>39.1917</latitude>
+    <longitude>-96.6198</longitude>
+    <elevation>327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0006</id>
+    <displayName>MANHATTAN 1.9 NW, KS US</displayName>
+    <minDate>2007-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2094</latitude>
+    <longitude>-96.6164</longitude>
+    <elevation>349.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9339</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0099</id>
+    <displayName>MANHATTAN 1.9 SE, IL US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.4075</latitude>
+    <longitude>-87.9624</longitude>
+    <elevation>204.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9344</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0002</id>
+    <displayName>MANHATTAN 2.0 SSW, KS US</displayName>
+    <minDate>2005-08-01</minDate>
+    <maxDate>2011-08-06</maxDate>
+    <latitude>39.1648</latitude>
+    <longitude>-96.6093</longitude>
+    <elevation>363</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0010</id>
+    <displayName>MANHATTAN 2.2 NE, KS US</displayName>
+    <minDate>2008-01-08</minDate>
+    <maxDate>2010-06-09</maxDate>
+    <latitude>39.2079</latitude>
+    <longitude>-96.5557</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.181</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0008</id>
+    <displayName>MANHATTAN 2.4 WNW, KS US</displayName>
+    <minDate>2007-05-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1993</latitude>
+    <longitude>-96.6329</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8819</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0021</id>
+    <displayName>MANHATTAN 2.6 W, KS US</displayName>
+    <minDate>2011-01-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.1884</latitude>
+    <longitude>-96.639</longitude>
+    <elevation>323.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5069</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0009</id>
+    <displayName>MANHATTAN 2.9 W, KS US</displayName>
+    <minDate>2007-07-22</minDate>
+    <maxDate>2008-01-09</maxDate>
+    <latitude>39.1864</latitude>
+    <longitude>-96.6444</longitude>
+    <elevation>328</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115313</id>
+    <displayName>MANHATTAN 4 SW, IL US</displayName>
+    <minDate>2002-08-01</minDate>
+    <maxDate>2010-05-31</maxDate>
+    <latitude>41.36389</latitude>
+    <longitude>-87.99889</longitude>
+    <elevation>202.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8588</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0020</id>
+    <displayName>MANHATTAN 4.7 ENE, IL US</displayName>
+    <minDate>2007-05-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4585</latitude>
+    <longitude>-87.9098</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115314</id>
+    <displayName>MANHATTAN 5 NE, IL US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.4588</latitude>
+    <longitude>-87.9105</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053974</id>
+    <displayName>MANHATTAN 6 SSW, KS US</displayName>
+    <minDate>2003-10-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.1027</latitude>
+    <longitude>-96.6098</longitude>
+    <elevation>346.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRL0020</id>
+    <displayName>MANHATTAN 9.8 NW, KS US</displayName>
+    <minDate>2011-11-13</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.2725</latitude>
+    <longitude>-96.7383</longitude>
+    <elevation>390.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144977</id>
+    <displayName>MANHATTAN AGRONOMY F, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1970-02-28</maxDate>
+    <latitude>39.2</latitude>
+    <longitude>-96.6</longitude>
+    <elevation>338.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144974</id>
+    <displayName>MANHATTAN DISPOSAL PLANT, KS US</displayName>
+    <minDate>1985-08-01</minDate>
+    <maxDate>1987-12-31</maxDate>
+    <latitude>39.19472</latitude>
+    <longitude>-96.55639</longitude>
+    <elevation>300.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2401</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003936</id>
+    <displayName>MANHATTAN MUNICIPAL AIRPORT, KS US</displayName>
+    <minDate>1960-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.1346</latitude>
+    <longitude>-96.6788</longitude>
+    <elevation>321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264835</id>
+    <displayName>MANHATTAN POWER HOUSE, NV US</displayName>
+    <minDate>1948-10-28</minDate>
+    <maxDate>1951-07-31</maxDate>
+    <latitude>38.53333</latitude>
+    <longitude>-117.08333</longitude>
+    <elevation>2108</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144972</id>
+    <displayName>MANHATTAN, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1972</latitude>
+    <longitude>-96.5813</longitude>
+    <elevation>324.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245351</id>
+    <displayName>MANHATTAN, MT US</displayName>
+    <minDate>1895-04-15</minDate>
+    <maxDate>1983-06-30</maxDate>
+    <latitude>45.86667</latitude>
+    <longitude>-111.33333</longitude>
+    <elevation>1289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4263</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094098</id>
+    <displayName>MANILA 18 ESE, UT US</displayName>
+    <minDate>2011-09-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.9226</latitude>
+    <longitude>-109.3899</longitude>
+    <elevation>1992.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARMS0003</id>
+    <displayName>MANILA 3.6 SSW, AR US</displayName>
+    <minDate>2012-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.8337</latitude>
+    <longitude>-90.1778</longitude>
+    <elevation>71</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8434</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425377</id>
+    <displayName>MANILA, UT US</displayName>
+    <minDate>1910-04-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.99</latitude>
+    <longitude>-109.7258</longitude>
+    <elevation>1948.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516084</id>
+    <displayName>MANINI WAY, HI US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1942-05-31</maxDate>
+    <latitude>21.2931</latitude>
+    <longitude>-157.7944</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445218</id>
+    <displayName>MANION NR FAIRFAX, VA US</displayName>
+    <minDate>1948-08-02</minDate>
+    <maxDate>1949-03-13</maxDate>
+    <latitude>38.85</latitude>
+    <longitude>-77.35</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205065</id>
+    <displayName>MANISTEE 3 SE, MI US</displayName>
+    <minDate>1888-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.2113</latitude>
+    <longitude>-86.2938</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205073</id>
+    <displayName>MANISTIQUE WWTP, MI US</displayName>
+    <minDate>1896-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.9512</latitude>
+    <longitude>-86.2513</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6861</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004856</id>
+    <displayName>MANISTIQUE, MI US</displayName>
+    <minDate>1998-08-01</minDate>
+    <maxDate>2004-09-21</maxDate>
+    <latitude>45.95</latitude>
+    <longitude>-86.22972</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0070</id>
+    <displayName>MANITOU SPRINGS 1.2 ENE, CO US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2009-05-10</maxDate>
+    <latitude>38.8627</latitude>
+    <longitude>-104.8907</longitude>
+    <elevation>1926</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9203</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0175</id>
+    <displayName>MANITOU SPRINGS 1.2 ESE, CO US</displayName>
+    <minDate>2009-01-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.848</latitude>
+    <longitude>-104.8911</longitude>
+    <elevation>1948</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0143</id>
+    <displayName>MANITOU SPRINGS 2.0 SSW, CO US</displayName>
+    <minDate>2004-10-27</minDate>
+    <maxDate>2007-02-04</maxDate>
+    <latitude>38.8311</latitude>
+    <longitude>-104.9256</longitude>
+    <elevation>2563.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7714</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0059</id>
+    <displayName>MANITOU SPRINGS 2.3 ENE, CO US</displayName>
+    <minDate>2006-09-14</minDate>
+    <maxDate>2011-12-10</maxDate>
+    <latitude>38.869</latitude>
+    <longitude>-104.87</longitude>
+    <elevation>1911.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1191</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055352</id>
+    <displayName>MANITOU SPRINGS, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1992-10-23</maxDate>
+    <latitude>38.8557</latitude>
+    <longitude>-104.933</longitude>
+    <elevation>2020.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215081</id>
+    <displayName>MANITOU, MN US</displayName>
+    <minDate>1940-05-14</minDate>
+    <maxDate>1942-05-31</maxDate>
+    <latitude>48.633333</latitude>
+    <longitude>-94.033333</longitude>
+    <elevation>285.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6083</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00475012</id>
+    <displayName>MANITOWISH WATERS, WI US</displayName>
+    <minDate>1985-06-01</minDate>
+    <maxDate>1994-10-31</maxDate>
+    <latitude>46.15</latitude>
+    <longitude>-89.88333</longitude>
+    <elevation>500.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00475017</id>
+    <displayName>MANITOWOC, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.08694</latitude>
+    <longitude>-87.65222</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNBU0003</id>
+    <displayName>MANKATO 0.2 NNE, MN US</displayName>
+    <minDate>2010-04-24</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>44.1731</latitude>
+    <longitude>-93.9766</longitude>
+    <elevation>306.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5029</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNBU0010</id>
+    <displayName>MANKATO 2.4 SW, MN US</displayName>
+    <minDate>2011-04-30</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>44.1488</latitude>
+    <longitude>-94.017</longitude>
+    <elevation>278.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2313</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNBU0008</id>
+    <displayName>MANKATO 2.6 WSW, MN US</displayName>
+    <minDate>2011-04-14</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>44.1502</latitude>
+    <longitude>-94.0212</longitude>
+    <elevation>258.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4343</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144982</id>
+    <displayName>MANKATO, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.7888</latitude>
+    <longitude>-98.2038</longitude>
+    <elevation>534.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215073</id>
+    <displayName>MANKATO, MN US</displayName>
+    <minDate>1984-09-01</minDate>
+    <maxDate>2010-10-04</maxDate>
+    <latitude>44.1543</latitude>
+    <longitude>-94.0212</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215088</id>
+    <displayName>MANKATO, MN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1954-07-31</maxDate>
+    <latitude>44.1543</latitude>
+    <longitude>-94.0212</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216007</id>
+    <displayName>MANKATO, MN US</displayName>
+    <minDate>1954-09-01</minDate>
+    <maxDate>1984-08-31</maxDate>
+    <latitude>44.1543</latitude>
+    <longitude>-94.0212</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505607</id>
+    <displayName>MANKOMEN LAKE, AK US</displayName>
+    <minDate>1965-07-01</minDate>
+    <maxDate>2008-12-12</maxDate>
+    <latitude>62.98611</latitude>
+    <longitude>-144.47917</longitude>
+    <elevation>922</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4875</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA004034912</id>
+    <displayName>MANKOTA 2, MT US</displayName>
+    <minDate>1971-07-01</minDate>
+    <maxDate>1984-01-31</maxDate>
+    <latitude>49</latitude>
+    <longitude>-106.95</longitude>
+    <elevation>785</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505644</id>
+    <displayName>MANLEY HOT SPRINGS, AK US</displayName>
+    <minDate>1908-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>64.9988</latitude>
+    <longitude>-150.638</longitude>
+    <elevation>82.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6234</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0003</id>
+    <displayName>MANLIUS 0.8 E, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2005-04-30</maxDate>
+    <latitude>43</latitude>
+    <longitude>-75.9667</longitude>
+    <elevation>212.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4424</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415550</id>
+    <displayName>MANN, TX US</displayName>
+    <minDate>1896-06-01</minDate>
+    <maxDate>1906-03-31</maxDate>
+    <latitude>31.95</latitude>
+    <longitude>-96.616667</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345522</id>
+    <displayName>MANNFORD 6 NW, OK US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>36.1747</latitude>
+    <longitude>-96.4433</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9457</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACR0002</id>
+    <displayName>MANNING 0.9 WSW, IA US</displayName>
+    <minDate>2007-08-09</minDate>
+    <maxDate>2008-09-11</maxDate>
+    <latitude>41.9065</latitude>
+    <longitude>-95.0812</longitude>
+    <elevation>420.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDDN0003</id>
+    <displayName>MANNING 1.3 NE, ND US</displayName>
+    <minDate>2009-03-26</minDate>
+    <maxDate>2012-10-04</maxDate>
+    <latitude>47.2414</latitude>
+    <longitude>-102.7479</longitude>
+    <elevation>705.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.398</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCD0006</id>
+    <displayName>MANNING 1.9 SSE, SC US</displayName>
+    <minDate>2012-04-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6698</latitude>
+    <longitude>-80.1995</longitude>
+    <elevation>37.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9197</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACR0005</id>
+    <displayName>MANNING 3.3 E, IA US</displayName>
+    <minDate>2008-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.9024</latitude>
+    <longitude>-95.0006</longitude>
+    <elevation>452</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCD0007</id>
+    <displayName>MANNING 3.3 WNW, SC US</displayName>
+    <minDate>2012-03-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7125</latitude>
+    <longitude>-80.2683</longitude>
+    <elevation>42.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8754</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCD0002</id>
+    <displayName>MANNING 8.2 S, SC US</displayName>
+    <minDate>2008-07-26</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>33.5744</latitude>
+    <longitude>-80.2205</longitude>
+    <elevation>23.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1335</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDDN0012</id>
+    <displayName>MANNING 8.5 WSW, ND US</displayName>
+    <minDate>2009-06-09</minDate>
+    <maxDate>2011-07-08</maxDate>
+    <latitude>47.2122</latitude>
+    <longitude>-102.9492</longitude>
+    <elevation>744.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MMAC</id>
+    <displayName>MANNING CORRAL DOGTOWN MONTANA, MT US</displayName>
+    <minDate>1997-07-24</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.7028</latitude>
+    <longitude>-108.4786</longitude>
+    <elevation>938.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325519</id>
+    <displayName>MANNING, ND US</displayName>
+    <minDate>1914-08-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>47.23333</latitude>
+    <longitude>-102.76667</longitude>
+    <elevation>677</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1191</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00385493</id>
+    <displayName>MANNING, SC US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6989</latitude>
+    <longitude>-80.2003</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6386</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00465621</id>
+    <displayName>MANNINGTON 1 N, WV US</displayName>
+    <minDate>1901-02-07</minDate>
+    <maxDate>1979-04-30</maxDate>
+    <latitude>39.55</latitude>
+    <longitude>-80.35</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00465626</id>
+    <displayName>MANNINGTON 8 WNW, WV US</displayName>
+    <minDate>1946-10-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5436</latitude>
+    <longitude>-80.4647</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9507</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516122</id>
+    <displayName>MANOA 712.1, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>21.3111</latitude>
+    <longitude>-157.8144</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516126</id>
+    <displayName>MANOA H S P A 785, HI US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>21.33333</latitude>
+    <longitude>-157.8</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516128</id>
+    <displayName>MANOA LYON ARBO 785.2, HI US</displayName>
+    <minDate>1975-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.3331</latitude>
+    <longitude>-157.8025</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9736</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516130</id>
+    <displayName>MANOA TUN 2 716, HI US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2006-07-31</maxDate>
+    <latitude>21.32833</latitude>
+    <longitude>-157.79139</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9569</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516135</id>
+    <displayName>MANOA UPPER, HI US</displayName>
+    <minDate>1915-05-01</minDate>
+    <maxDate>1919-03-31</maxDate>
+    <latitude>21.33333</latitude>
+    <longitude>-157.8</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9448</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516137</id>
+    <displayName>MANOA WAENA, HI US</displayName>
+    <minDate>1923-01-02</minDate>
+    <maxDate>1931-07-31</maxDate>
+    <latitude>21.31667</latitude>
+    <longitude>-157.98333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0080</id>
+    <displayName>MANOR 2.7 NE, TX US</displayName>
+    <minDate>2009-03-02</minDate>
+    <maxDate>2012-07-25</maxDate>
+    <latitude>30.3684</latitude>
+    <longitude>-97.5182</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0083</id>
+    <displayName>MANOR 5.1 SSE, TX US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>30.2816</latitude>
+    <longitude>-97.513</longitude>
+    <elevation>171.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9819</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0125</id>
+    <displayName>MANOR 5.5 SSE, TX US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>30.2766</latitude>
+    <longitude>-97.5115</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1409</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095492</id>
+    <displayName>MANOR, GA US</displayName>
+    <minDate>2008-05-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.08333</latitude>
+    <longitude>-82.56528</longitude>
+    <elevation>46.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305032</id>
+    <displayName>MANORKILL, NY US</displayName>
+    <minDate>1948-05-02</minDate>
+    <maxDate>1995-08-31</maxDate>
+    <latitude>42.38333</latitude>
+    <longitude>-74.31667</longitude>
+    <elevation>493.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDBR0012</id>
+    <displayName>MANSFIELD 0.1 NW, SD US</displayName>
+    <minDate>2009-03-22</minDate>
+    <maxDate>2012-11-05</maxDate>
+    <latitude>45.2438</latitude>
+    <longitude>-98.564</longitude>
+    <elevation>395</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1789</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0091</id>
+    <displayName>MANSFIELD 1.7 NNE, TX US</displayName>
+    <minDate>2011-10-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5916</latitude>
+    <longitude>-97.1107</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9778</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0069</id>
+    <displayName>MANSFIELD 2.0 N, TX US</displayName>
+    <minDate>2009-10-29</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>32.5965</latitude>
+    <longitude>-97.1143</longitude>
+    <elevation>193.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1201</coverage>
+  </station>
+</stationCollection>

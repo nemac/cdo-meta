@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="359">
+  <station>
+    <id>GHCND:US1ILWN0001</id>
+    <displayName>ROSCOE 1.3 SE, IL US</displayName>
+    <minDate>2006-12-11</minDate>
+    <maxDate>2007-11-30</maxDate>
+    <latitude>42.404</latitude>
+    <longitude>-88.9884</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3493</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117470</id>
+    <displayName>ROSCOE 2 SE, IL US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.405</latitude>
+    <longitude>-88.9794</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247182</id>
+    <displayName>ROSCOE 4 SW, MT US</displayName>
+    <minDate>1952-06-08</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>45.31667</latitude>
+    <longitude>-109.55</longitude>
+    <elevation>1695.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9662</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDED0006</id>
+    <displayName>ROSCOE 6.1 W, SD US</displayName>
+    <minDate>2008-06-03</minDate>
+    <maxDate>2012-08-11</maxDate>
+    <latitude>45.4522</latitude>
+    <longitude>-99.4614</longitude>
+    <elevation>566</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0803</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247178</id>
+    <displayName>ROSCOE, MT US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>1952-03-12</maxDate>
+    <latitude>45.35</latitude>
+    <longitude>-109.5</longitude>
+    <elevation>1524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7526</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307260</id>
+    <displayName>ROSCOE, NY US</displayName>
+    <minDate>1971-05-01</minDate>
+    <maxDate>2005-04-19</maxDate>
+    <latitude>41.92667</latitude>
+    <longitude>-74.89583</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397277</id>
+    <displayName>ROSCOE, SD US</displayName>
+    <minDate>1934-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.4526</latitude>
+    <longitude>-99.3358</longitude>
+    <elevation>559.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417743</id>
+    <displayName>ROSCOE, TX US</displayName>
+    <minDate>1935-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.448</latitude>
+    <longitude>-100.5263</longitude>
+    <elevation>725.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIRS0005</id>
+    <displayName>ROSCOMMON 4.6 WSW, MI US</displayName>
+    <minDate>2009-05-18</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>44.4644</latitude>
+    <longitude>-84.6736</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIRS0004</id>
+    <displayName>ROSCOMMON 4.7 SW, MI US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.4516</latitude>
+    <longitude>-84.6672</longitude>
+    <elevation>361.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MICF0007</id>
+    <displayName>ROSCOMMON 6.2 WNW, MI US</displayName>
+    <minDate>2012-03-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5153</latitude>
+    <longitude>-84.7097</longitude>
+    <elevation>386.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9441</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207122</id>
+    <displayName>ROSCOMMON, MI US</displayName>
+    <minDate>1930-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-84.6</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8504</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257318</id>
+    <displayName>ROSE 10 WNW, NE US</displayName>
+    <minDate>1960-10-01</minDate>
+    <maxDate>2000-07-31</maxDate>
+    <latitude>42.20333</latitude>
+    <longitude>-99.69972</longitude>
+    <elevation>774.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7299</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKMY0003</id>
+    <displayName>ROSE 4.3 SE, OK US</displayName>
+    <minDate>2007-11-28</minDate>
+    <maxDate>2010-02-07</maxDate>
+    <latitude>36.1773</latitude>
+    <longitude>-94.974</longitude>
+    <elevation>355.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8456</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207134</id>
+    <displayName>ROSE CITY, MI US</displayName>
+    <minDate>1951-05-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.43333</latitude>
+    <longitude>-84.11667</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267010</id>
+    <displayName>ROSE CREEK RANCH, NV US</displayName>
+    <minDate>1910-02-01</minDate>
+    <maxDate>1914-05-31</maxDate>
+    <latitude>40.85</latitude>
+    <longitude>-117.916667</longitude>
+    <elevation>1767.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6698</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBU0005</id>
+    <displayName>ROSE HILL 2.7 ESE, KS US</displayName>
+    <minDate>2007-05-24</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>37.5533</latitude>
+    <longitude>-97.0855</longitude>
+    <elevation>394.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBU0001</id>
+    <displayName>ROSE HILL 2.9 ESE, KS US</displayName>
+    <minDate>2006-05-26</minDate>
+    <maxDate>2012-04-15</maxDate>
+    <latitude>37.55</latitude>
+    <longitude>-97.0833</longitude>
+    <elevation>388.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4099</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAMH0006</id>
+    <displayName>ROSE HILL 4.0 NNW, IA US</displayName>
+    <minDate>2011-10-24</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>41.3719</latitude>
+    <longitude>-92.4975</longitude>
+    <elevation>248.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227587</id>
+    <displayName>ROSE HILL, MS US</displayName>
+    <minDate>1933-05-05</minDate>
+    <maxDate>1936-10-28</maxDate>
+    <latitude>32.36667</latitude>
+    <longitude>-90.83333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1689</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447372</id>
+    <displayName>ROSE HILL, VA US</displayName>
+    <minDate>1946-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.66667</latitude>
+    <longitude>-83.36667</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CRSP</id>
+    <displayName>ROSE PEAK CALIFORNIA, CA US</displayName>
+    <minDate>1995-01-01</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>37.5019</latitude>
+    <longitude>-121.7355</longitude>
+    <elevation>932.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9341</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CROS</id>
+    <displayName>ROSE VALLEY CALIFORNIA, CA US</displayName>
+    <minDate>1993-11-08</minDate>
+    <maxDate>2012-08-22</maxDate>
+    <latitude>34.5431</latitude>
+    <longitude>-119.1842</longitude>
+    <elevation>1015.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347732</id>
+    <displayName>ROSE, OK US</displayName>
+    <minDate>1942-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.21667</latitude>
+    <longitude>-95.03333</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9695</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRS0002</id>
+    <displayName>ROSEAU 0.4 NE, MN US</displayName>
+    <minDate>2008-11-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.8486</latitude>
+    <longitude>-95.7574</longitude>
+    <elevation>318.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MROS</id>
+    <displayName>ROSEAU MINNESOTA, MN US</displayName>
+    <minDate>2003-01-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.85</latitude>
+    <longitude>-95.7</longitude>
+    <elevation>319.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00217087</id>
+    <displayName>ROSEAU, MN US</displayName>
+    <minDate>1895-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.84861</latitude>
+    <longitude>-95.7675</longitude>
+    <elevation>319.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8209</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107900</id>
+    <displayName>ROSEBERRY, ID US</displayName>
+    <minDate>1895-12-01</minDate>
+    <maxDate>1915-11-30</maxDate>
+    <latitude>44.733333</latitude>
+    <longitude>-116.083333</longitude>
+    <elevation>1485</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297585</id>
+    <displayName>ROSEBUD 7 NW, NM US</displayName>
+    <minDate>2004-11-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>35.9027</latitude>
+    <longitude>-103.5272</longitude>
+    <elevation>1456.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ROSE</id>
+    <displayName>ROSEBUD UTAH, UT US</displayName>
+    <minDate>2002-11-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.6097</latitude>
+    <longitude>-113.5906</longitude>
+    <elevation>1520</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036278</id>
+    <displayName>ROSEBUD, AR US</displayName>
+    <minDate>1934-09-01</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>35.33333</latitude>
+    <longitude>-92.06667</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237300</id>
+    <displayName>ROSEBUD, MO US</displayName>
+    <minDate>1980-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4505</latitude>
+    <longitude>-91.3755</longitude>
+    <elevation>292.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9243</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397287</id>
+    <displayName>ROSEBUD, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1966-05-17</maxDate>
+    <latitude>43.23333</latitude>
+    <longitude>-100.85</longitude>
+    <elevation>816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.431</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417744</id>
+    <displayName>ROSEBUD, TX US</displayName>
+    <minDate>1965-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>31.07361</latitude>
+    <longitude>-96.97889</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0033</id>
+    <displayName>ROSEBURG 1.2 WNW, OR US</displayName>
+    <minDate>2009-03-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.225</latitude>
+    <longitude>-123.3813</longitude>
+    <elevation>128.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0025</id>
+    <displayName>ROSEBURG 1.9 SE, OR US</displayName>
+    <minDate>2008-01-28</minDate>
+    <maxDate>2009-02-24</maxDate>
+    <latitude>43.2028</latitude>
+    <longitude>-123.3271</longitude>
+    <elevation>163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.769</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0009</id>
+    <displayName>ROSEBURG 2 SW, OR US</displayName>
+    <minDate>2007-12-30</minDate>
+    <maxDate>2010-01-03</maxDate>
+    <latitude>43.2125</latitude>
+    <longitude>-123.3841</longitude>
+    <elevation>144.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9334</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0021</id>
+    <displayName>ROSEBURG 3.8 SSW, OR US</displayName>
+    <minDate>2008-01-18</minDate>
+    <maxDate>2012-09-17</maxDate>
+    <latitude>43.1678</latitude>
+    <longitude>-123.3855</longitude>
+    <elevation>146.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0028</id>
+    <displayName>ROSEBURG 3.8 SSW, OR US</displayName>
+    <minDate>2008-02-06</minDate>
+    <maxDate>2008-07-02</maxDate>
+    <latitude>43.1682</latitude>
+    <longitude>-123.3856</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0038</id>
+    <displayName>ROSEBURG 3.9 SSW, OR US</displayName>
+    <minDate>2010-11-22</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>43.1664</latitude>
+    <longitude>-123.3856</longitude>
+    <elevation>151.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0030</id>
+    <displayName>ROSEBURG 4.6 NNW, OR US</displayName>
+    <minDate>2008-02-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2809</latitude>
+    <longitude>-123.3913</longitude>
+    <elevation>129.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9257</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0015</id>
+    <displayName>ROSEBURG 4.9 NW, OR US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2010-09-08</maxDate>
+    <latitude>43.2644</latitude>
+    <longitude>-123.4336</longitude>
+    <elevation>119.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5447</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0029</id>
+    <displayName>ROSEBURG 6.0 SSW, OR US</displayName>
+    <minDate>2008-02-13</minDate>
+    <maxDate>2010-06-08</maxDate>
+    <latitude>43.1398</latitude>
+    <longitude>-123.404</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0039</id>
+    <displayName>ROSEBURG 6.2 S, OR US</displayName>
+    <minDate>2011-02-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.1305</latitude>
+    <longitude>-123.3545</longitude>
+    <elevation>261.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357331</id>
+    <displayName>ROSEBURG KQEN, OR US</displayName>
+    <minDate>1965-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.213</latitude>
+    <longitude>-123.3658</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0018</id>
+    <displayName>ROSEBURG NORTH 4.7 WNW, OR US</displayName>
+    <minDate>2008-02-03</minDate>
+    <maxDate>2010-06-16</maxDate>
+    <latitude>43.2824</latitude>
+    <longitude>-123.4056</longitude>
+    <elevation>134.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024231</id>
+    <displayName>ROSEBURG REGIONAL AIRPORT, OR US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.23889</latitude>
+    <longitude>-123.35472</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467743</id>
+    <displayName>ROSEDALE 3 NNW, WV US</displayName>
+    <minDate>1999-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7778</latitude>
+    <longitude>-80.9636</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227582</id>
+    <displayName>ROSEDALE, MS US</displayName>
+    <minDate>1894-10-01</minDate>
+    <maxDate>1982-06-30</maxDate>
+    <latitude>33.85</latitude>
+    <longitude>-91.01667</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8115</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297588</id>
+    <displayName>ROSEDALE, NM US</displayName>
+    <minDate>1905-03-07</minDate>
+    <maxDate>1920-12-31</maxDate>
+    <latitude>33.816667</latitude>
+    <longitude>-107.4</longitude>
+    <elevation>2401.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447402</id>
+    <displayName>ROSELAND 1 NNW, VA US</displayName>
+    <minDate>1986-05-01</minDate>
+    <maxDate>1991-02-28</maxDate>
+    <latitude>37.8</latitude>
+    <longitude>-78.98333</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSJ0012</id>
+    <displayName>ROSELAND 2.0 NNW, IN US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2007-07-23</maxDate>
+    <latitude>41.7438</latitude>
+    <longitude>-86.2678</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3374</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10adam006</id>
+    <displayName>ROSELAND 2.8 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4372</latitude>
+    <longitude>-98.5912</longitude>
+    <elevation>601.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9493</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10adam051</id>
+    <displayName>ROSELAND 3.9 SSE, NE US</displayName>
+    <minDate>2011-07-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4166</latitude>
+    <longitude>-98.5341</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168004</id>
+    <displayName>ROSELAND, LA US</displayName>
+    <minDate>1892-05-01</minDate>
+    <maxDate>1894-09-30</maxDate>
+    <latitude>30.766667</latitude>
+    <longitude>-90.516667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0061</id>
+    <displayName>ROSELLE 0.5 S, IL US</displayName>
+    <minDate>2008-05-25</minDate>
+    <maxDate>2011-05-23</maxDate>
+    <latitude>41.9739</latitude>
+    <longitude>-88.0846</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4324</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0077</id>
+    <displayName>ROSELLE 1.1 W, IL US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.9778</latitude>
+    <longitude>-88.1036</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0087</id>
+    <displayName>ROSELLE 1.2 ESE, IL US</displayName>
+    <minDate>2010-03-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.9766</latitude>
+    <longitude>-88.0598</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257330</id>
+    <displayName>ROSEMONT 2 S, NE US</displayName>
+    <minDate>1945-06-01</minDate>
+    <maxDate>1968-02-29</maxDate>
+    <latitude>40.26667</latitude>
+    <longitude>-98.36667</longitude>
+    <elevation>609.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSC0004</id>
+    <displayName>ROSEMOUNT 0.3 W, OH US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7874</latitude>
+    <longitude>-82.9778</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0023</id>
+    <displayName>ROSEMOUNT 3.3 SW, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>44.7182</latitude>
+    <longitude>-93.121</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0011</id>
+    <displayName>ROSEMOUNT 3.3 WNW, MN US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7608</latitude>
+    <longitude>-93.13</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00217107</id>
+    <displayName>ROSEMOUNT AGR EXPERIMENTAL STATION, MN US</displayName>
+    <minDate>1950-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.7178</latitude>
+    <longitude>-93.0975</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417756</id>
+    <displayName>ROSENBERG, TX US</displayName>
+    <minDate>1900-09-01</minDate>
+    <maxDate>1960-02-29</maxDate>
+    <latitude>29.55</latitude>
+    <longitude>-95.78333</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5476</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307274</id>
+    <displayName>ROSENDALE 2 E, NY US</displayName>
+    <minDate>1956-11-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.85</latitude>
+    <longitude>-74.05</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9207</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYUL0003</id>
+    <displayName>ROSENDALE VILLAGE 2.4 NNE, NY US</displayName>
+    <minDate>2008-02-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8809</latitude>
+    <longitude>-74.0574</longitude>
+    <elevation>54.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9261</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477341</id>
+    <displayName>ROSENDALE, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>43.81667</latitude>
+    <longitude>-88.68333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168046</id>
+    <displayName>ROSEPINE RESRCH STATION, LA US</displayName>
+    <minDate>1901-05-01</minDate>
+    <maxDate>2010-01-31</maxDate>
+    <latitude>30.9461</latitude>
+    <longitude>-93.2788</longitude>
+    <elevation>72.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3807</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427408</id>
+    <displayName>ROSETTE, UT US</displayName>
+    <minDate>1990-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.8187</latitude>
+    <longitude>-113.4134</longitude>
+    <elevation>1732.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9538</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWR0003</id>
+    <displayName>ROSEVILLE 0.3 WSW, IL US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2009-11-17</maxDate>
+    <latitude>40.7299</latitude>
+    <longitude>-90.6684</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9048</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0031</id>
+    <displayName>ROSEVILLE 0.5 NE, MN US</displayName>
+    <minDate>2012-04-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.0199</latitude>
+    <longitude>-93.1468</longitude>
+    <elevation>272.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9632</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWR0002</id>
+    <displayName>ROSEVILLE 0.6 WNW, IL US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>40.7325</latitude>
+    <longitude>-90.6736</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAPC0008</id>
+    <displayName>ROSEVILLE 0.8 ENE, CA US</displayName>
+    <minDate>2008-11-17</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>38.7626</latitude>
+    <longitude>-121.2794</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1004</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0005</id>
+    <displayName>ROSEVILLE 1.4 SSE, MN US</displayName>
+    <minDate>2009-12-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.998</latitude>
+    <longitude>-93.14</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0015</id>
+    <displayName>ROSEVILLE 2.1 NW, MN US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.035</latitude>
+    <longitude>-93.1862</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAPC0007</id>
+    <displayName>ROSEVILLE 4.7 WNW, CA US</displayName>
+    <minDate>2008-11-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.7802</latitude>
+    <longitude>-121.3766</longitude>
+    <elevation>29.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABF0008</id>
+    <displayName>ROSEVILLE 6.0 ENE, PA US</displayName>
+    <minDate>2008-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.9117</latitude>
+    <longitude>-76.8605</longitude>
+    <elevation>541</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337255</id>
+    <displayName>ROSEVILLE, OH US</displayName>
+    <minDate>1961-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.8161</latitude>
+    <longitude>-82.0732</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337265</id>
+    <displayName>ROSEWOOD, OH US</displayName>
+    <minDate>1894-04-01</minDate>
+    <maxDate>1901-12-31</maxDate>
+    <latitude>40.133333</latitude>
+    <longitude>-83.983333</longitude>
+    <elevation>346.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9358</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107915</id>
+    <displayName>ROSEWORTH, ID US</displayName>
+    <minDate>1910-11-01</minDate>
+    <maxDate>1915-08-31</maxDate>
+    <latitude>42.366667</latitude>
+    <longitude>-114.966667</longitude>
+    <elevation>1417.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDRB0007</id>
+    <displayName>ROSHOLT 3.1 E, SD US</displayName>
+    <minDate>2008-10-03</minDate>
+    <maxDate>2011-09-05</maxDate>
+    <latitude>45.8644</latitude>
+    <longitude>-96.6992</longitude>
+    <elevation>322.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477349</id>
+    <displayName>ROSHOLT 9 NNE, WI US</displayName>
+    <minDate>1941-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7511</latitude>
+    <longitude>-89.245</longitude>
+    <elevation>360.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9332</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117487</id>
+    <displayName>ROSICLARE 5 NW, IL US</displayName>
+    <minDate>1968-02-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>37.4747</latitude>
+    <longitude>-88.4122</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477373</id>
+    <displayName>ROSIERE, WI US</displayName>
+    <minDate>1944-08-01</minDate>
+    <maxDate>1946-07-31</maxDate>
+    <latitude>44.683333</latitude>
+    <longitude>-87.583333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9164</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357337</id>
+    <displayName>ROSLAND, OR US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1913-06-30</maxDate>
+    <latitude>43.783333</latitude>
+    <longitude>-121.45</longitude>
+    <elevation>1279.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDDY0004</id>
+    <displayName>ROSLYN 1.2 S, SD US</displayName>
+    <minDate>2007-07-04</minDate>
+    <maxDate>2011-12-21</maxDate>
+    <latitude>45.48</latitude>
+    <longitude>-97.49</longitude>
+    <elevation>562.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1458</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307282</id>
+    <displayName>ROSLYN, NY US</displayName>
+    <minDate>1912-01-10</minDate>
+    <maxDate>1931-02-28</maxDate>
+    <latitude>40.8</latitude>
+    <longitude>-73.633333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397307</id>
+    <displayName>ROSLYN, SD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1952-04-30</maxDate>
+    <latitude>45.5</latitude>
+    <longitude>-97.5</longitude>
+    <elevation>561.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCTR0015</id>
+    <displayName>ROSMAN 4.8 NW, NC US</displayName>
+    <minDate>2011-12-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1991</latitude>
+    <longitude>-82.8745</longitude>
+    <elevation>875.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7532</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317486</id>
+    <displayName>ROSMAN, NC US</displayName>
+    <minDate>1935-12-01</minDate>
+    <maxDate>2012-08-25</maxDate>
+    <latitude>35.1416</latitude>
+    <longitude>-82.823</longitude>
+    <elevation>669</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227595</id>
+    <displayName>ROSS BARNETT RESERVR, MS US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3975</latitude>
+    <longitude>-90.0647</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457185</id>
+    <displayName>ROSS DAM, WA US</displayName>
+    <minDate>1960-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.7272</latitude>
+    <longitude>-121.0722</longitude>
+    <elevation>376.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487898</id>
+    <displayName>ROSS NEAR, WY US</displayName>
+    <minDate>1924-01-01</minDate>
+    <maxDate>1937-07-31</maxDate>
+    <latitude>43.58333</latitude>
+    <longitude>-105.66667</longitude>
+    <elevation>1617</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417769</id>
+    <displayName>ROSS RANCH, TX US</displayName>
+    <minDate>1971-04-01</minDate>
+    <maxDate>1979-07-31</maxDate>
+    <latitude>33.58333</latitude>
+    <longitude>-100.01667</longitude>
+    <elevation>506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9218</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417768</id>
+    <displayName>ROSS, TX US</displayName>
+    <minDate>1940-08-02</minDate>
+    <maxDate>1975-10-31</maxDate>
+    <latitude>31.71667</latitude>
+    <longitude>-97.11667</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487895</id>
+    <displayName>ROSS, WY US</displayName>
+    <minDate>1938-09-01</minDate>
+    <maxDate>1961-07-31</maxDate>
+    <latitude>43.45</latitude>
+    <longitude>-105.86667</longitude>
+    <elevation>1601.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417773</id>
+    <displayName>ROSSER, TX US</displayName>
+    <minDate>1941-10-10</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.4611</latitude>
+    <longitude>-96.4494</longitude>
+    <elevation>110.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDMG0016</id>
+    <displayName>ROSSMOOR 0.5 SE, MD US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2006-08-31</maxDate>
+    <latitude>39.0993</latitude>
+    <longitude>-77.0634</longitude>
+    <elevation>128.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDMG0055</id>
+    <displayName>ROSSMOOR 1.3 ESE, MD US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0974</latitude>
+    <longitude>-77.0487</longitude>
+    <elevation>132</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9459</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCL0009</id>
+    <displayName>ROSSVILLE 1.9 SSW, IN US</displayName>
+    <minDate>2010-05-14</minDate>
+    <maxDate>2011-09-25</maxDate>
+    <latitude>40.3953</latitude>
+    <longitude>-86.6087</longitude>
+    <elevation>224.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.514</coverage>
+  </station>
+</stationCollection>

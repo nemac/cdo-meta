@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="351">
+  <station>
+    <id>GHCND:USW00004803</id>
+    <displayName>RHINELANDER ONEIDA CO AIRPORT, WI US</displayName>
+    <minDate>1998-05-28</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.6314</latitude>
+    <longitude>-89.4823</longitude>
+    <elevation>495</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477118</id>
+    <displayName>RHINELANDER WJFW TV 12, WI US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.6222</latitude>
+    <longitude>-89.41</longitude>
+    <elevation>490.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477113</id>
+    <displayName>RHINELANDER, WI US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.5986</latitude>
+    <longitude>-89.4508</longitude>
+    <elevation>479.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8723</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00136985</id>
+    <displayName>RHODES 3 E, IA US</displayName>
+    <minDate>1972-11-01</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>41.9172</latitude>
+    <longitude>-93.1358</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.179</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317229</id>
+    <displayName>RHODHISS HYDRO PLANT, NC US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7747</latitude>
+    <longitude>-81.4372</longitude>
+    <elevation>297.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0024</id>
+    <displayName>RHODODENDRON 3.8 NW, OR US</displayName>
+    <minDate>2008-01-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.3596</latitude>
+    <longitude>-121.9742</longitude>
+    <elevation>399.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9126</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00266830</id>
+    <displayName>RHYOLITE, NV US</displayName>
+    <minDate>1913-12-01</minDate>
+    <maxDate>1917-02-28</maxDate>
+    <latitude>36.9</latitude>
+    <longitude>-116.833333</longitude>
+    <elevation>1121.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASR0029</id>
+    <displayName>RIALTO 2.1 N, CA US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>34.1442</latitude>
+    <longitude>-117.381</longitude>
+    <elevation>451.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477121</id>
+    <displayName>RIB FALLS, WI US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2003-07-31</maxDate>
+    <latitude>44.96722</latitude>
+    <longitude>-89.89611</longitude>
+    <elevation>393.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297403</id>
+    <displayName>RIBERA, NM US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-105.45</longitude>
+    <elevation>1861.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9154</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417580</id>
+    <displayName>RICARDO, TX US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1975-01-31</maxDate>
+    <latitude>27.41667</latitude>
+    <longitude>-97.81667</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9372</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSR0001</id>
+    <displayName>RICE 1.5 WSW, MN US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2012-09-12</maxDate>
+    <latitude>45.7478</latitude>
+    <longitude>-94.265</longitude>
+    <elevation>319.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6382</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAAM0001</id>
+    <displayName>RICE 7.3 NE, VA US</displayName>
+    <minDate>2010-07-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3685</latitude>
+    <longitude>-78.2274</longitude>
+    <elevation>115.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477132</id>
+    <displayName>RICE LAKE MUNICIPAL AIRPORT, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4163</latitude>
+    <longitude>-91.772</longitude>
+    <elevation>336.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216929</id>
+    <displayName>RICE LAKE NWR, MN US</displayName>
+    <minDate>1992-12-01</minDate>
+    <maxDate>2006-02-28</maxDate>
+    <latitude>46.5381</latitude>
+    <longitude>-93.2844</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9582</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008P01S</id>
+    <displayName>RICE PARK, NM US</displayName>
+    <minDate>2001-09-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.2333</latitude>
+    <longitude>-108.2667</longitude>
+    <elevation>2578.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9505</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477142</id>
+    <displayName>RICE RESERVOIR TOMAHAWK 2, WI US</displayName>
+    <minDate>1998-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.5377</latitude>
+    <longitude>-89.7322</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477140</id>
+    <displayName>RICE RSVR TOMAHAWK, WI US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.5397</latitude>
+    <longitude>-89.7477</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CRIC</id>
+    <displayName>RICE VALLEY CALIFORNIA, CA US</displayName>
+    <minDate>1988-03-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.0608</latitude>
+    <longitude>-114.7322</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107665</id>
+    <displayName>RICE, ID US</displayName>
+    <minDate>1915-11-01</minDate>
+    <maxDate>1925-09-30</maxDate>
+    <latitude>44.216667</latitude>
+    <longitude>-111.633333</longitude>
+    <elevation>1706.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216920</id>
+    <displayName>RICE, MN US</displayName>
+    <minDate>2006-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.7576</latitude>
+    <longitude>-94.2072</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9723</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417581</id>
+    <displayName>RICE, TX US</displayName>
+    <minDate>1940-02-11</minDate>
+    <maxDate>1956-10-31</maxDate>
+    <latitude>32.26667</latitude>
+    <longitude>-96.5</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAMI0001</id>
+    <displayName>RICEBORO 11.8 SE, GA US</displayName>
+    <minDate>2008-04-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6116</latitude>
+    <longitude>-81.3034</longitude>
+    <elevation>0.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8369</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367443</id>
+    <displayName>RICES LANDING L 6, PA US</displayName>
+    <minDate>1943-07-01</minDate>
+    <maxDate>1965-12-26</maxDate>
+    <latitude>39.95</latitude>
+    <longitude>-80</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237105</id>
+    <displayName>RICH FOUNTAIN 3 E, MO US</displayName>
+    <minDate>1987-10-01</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>38.38889</latitude>
+    <longitude>-91.82083</longitude>
+    <elevation>182.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9432</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBS0007</id>
+    <displayName>RICH HILL 10.0 WNW, MO US</displayName>
+    <minDate>2012-04-13</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.1452</latitude>
+    <longitude>-94.5365</longitude>
+    <elevation>258.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237108</id>
+    <displayName>RICH HILL 3 SE, MO US</displayName>
+    <minDate>1971-04-23</minDate>
+    <maxDate>1978-11-30</maxDate>
+    <latitude>38.06667</latitude>
+    <longitude>-94.4</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6243</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBS0001</id>
+    <displayName>RICH HILL 4.9 SE, MO US</displayName>
+    <minDate>2006-06-02</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.0565</latitude>
+    <longitude>-94.289</longitude>
+    <elevation>234.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317252</id>
+    <displayName>RICH MOUNTAIN GAP, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.33333</latitude>
+    <longitude>-81.71667</longitude>
+    <elevation>1327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417586</id>
+    <displayName>RICHARDS, TX US</displayName>
+    <minDate>1954-06-01</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>30.5381</latitude>
+    <longitude>-95.8458</longitude>
+    <elevation>96</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9056</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDA0021</id>
+    <displayName>RICHARDSON 1.7 WSW, TX US</displayName>
+    <minDate>2008-08-28</minDate>
+    <maxDate>2010-10-26</maxDate>
+    <latitude>32.9653</latitude>
+    <longitude>-96.7385</longitude>
+    <elevation>194.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCLL033</id>
+    <displayName>RICHARDSON 2.2 NW, TX US</displayName>
+    <minDate>2008-12-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9921</latitude>
+    <longitude>-96.7397</longitude>
+    <elevation>203.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDA0035</id>
+    <displayName>RICHARDSON 2.4 WSW, TX US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9575</latitude>
+    <longitude>-96.7479</longitude>
+    <elevation>183.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8255</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDA0006</id>
+    <displayName>RICHARDSON 2.4 WSW, TX US</displayName>
+    <minDate>2007-04-03</minDate>
+    <maxDate>2008-08-21</maxDate>
+    <latitude>32.9573</latitude>
+    <longitude>-96.7469</longitude>
+    <elevation>189.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457010</id>
+    <displayName>RICHARDSON 3 SE, WA US</displayName>
+    <minDate>1949-05-14</minDate>
+    <maxDate>1958-07-31</maxDate>
+    <latitude>48.43333</latitude>
+    <longitude>-122.83333</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047404</id>
+    <displayName>RICHARDSON GROVE STATE PARK, CA US</displayName>
+    <minDate>1961-11-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.02611</latitude>
+    <longitude>-123.79306</longitude>
+    <elevation>153.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00507977</id>
+    <displayName>RICHARDSON, AK US</displayName>
+    <minDate>1917-04-01</minDate>
+    <maxDate>1971-07-31</maxDate>
+    <latitude>64.28333</latitude>
+    <longitude>-146.33333</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.287</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417588</id>
+    <displayName>RICHARDSON, TX US</displayName>
+    <minDate>1946-07-21</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.9963</latitude>
+    <longitude>-96.7427</longitude>
+    <elevation>206.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9408</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447164</id>
+    <displayName>RICHARDSVILLE, VA US</displayName>
+    <minDate>1984-07-01</minDate>
+    <maxDate>1986-06-30</maxDate>
+    <latitude>38.4</latitude>
+    <longitude>-77.73333</longitude>
+    <elevation>105.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6027</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327530</id>
+    <displayName>RICHARDTON ABBEY, ND US</displayName>
+    <minDate>1916-02-23</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.8886</latitude>
+    <longitude>-102.3191</longitude>
+    <elevation>752.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABK0016</id>
+    <displayName>RICHBORO 0.7 NE, PA US</displayName>
+    <minDate>2008-08-15</minDate>
+    <maxDate>2010-02-03</maxDate>
+    <latitude>40.2349</latitude>
+    <longitude>-74.9923</longitude>
+    <elevation>87.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABK0012</id>
+    <displayName>RICHBORO 1.1 SE, PA US</displayName>
+    <minDate>2008-03-17</minDate>
+    <maxDate>2011-11-14</maxDate>
+    <latitude>40.2148</latitude>
+    <longitude>-74.9888</longitude>
+    <elevation>90.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247023</id>
+    <displayName>RICHEY 10 SW, MT US</displayName>
+    <minDate>2000-09-01</minDate>
+    <maxDate>2012-10-29</maxDate>
+    <latitude>47.5686</latitude>
+    <longitude>-105.2339</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6504</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247020</id>
+    <displayName>RICHEY, MT US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1979-09-30</maxDate>
+    <latitude>47.63333</latitude>
+    <longitude>-105.06667</longitude>
+    <elevation>762.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCSN0006</id>
+    <displayName>RICHFIELD 0.2 SSW, NC US</displayName>
+    <minDate>2012-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4683</latitude>
+    <longitude>-80.2578</longitude>
+    <elevation>199</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8116</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146808</id>
+    <displayName>RICHFIELD 1 NE, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2633</latitude>
+    <longitude>-101.7886</longitude>
+    <elevation>1032.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8411</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0045</id>
+    <displayName>RICHFIELD 1.2 ENE, MN US</displayName>
+    <minDate>2011-04-14</minDate>
+    <maxDate>2012-11-27</maxDate>
+    <latitude>44.8829</latitude>
+    <longitude>-93.2583</longitude>
+    <elevation>257.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9242</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0003</id>
+    <displayName>RICHFIELD 1.2 WSW, MN US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8717</latitude>
+    <longitude>-93.3055</longitude>
+    <elevation>259.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9449</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0078</id>
+    <displayName>RICHFIELD 1.9 WNW, MN US</displayName>
+    <minDate>2011-12-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8913</latitude>
+    <longitude>-93.3141</longitude>
+    <elevation>271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146813</id>
+    <displayName>RICHFIELD 10 WSW, KS US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.2294</latitude>
+    <longitude>-101.9512</longitude>
+    <elevation>1075.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477148</id>
+    <displayName>RICHFIELD 3 SSW, WI US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2111</latitude>
+    <longitude>-88.2091</longitude>
+    <elevation>299.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427260</id>
+    <displayName>RICHFIELD RADIO KSVC, UT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.7619</latitude>
+    <longitude>-112.0775</longitude>
+    <elevation>1615.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9079</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOT0009</id>
+    <displayName>RICHFIELD SPRINGS 0.5 ESE, NY US</displayName>
+    <minDate>2007-11-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8525</latitude>
+    <longitude>-74.9775</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107673</id>
+    <displayName>RICHFIELD, ID US</displayName>
+    <minDate>1910-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0527</latitude>
+    <longitude>-114.158</longitude>
+    <elevation>1305.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9229</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477151</id>
+    <displayName>RICHFIELD, WI US</displayName>
+    <minDate>1941-05-06</minDate>
+    <maxDate>1945-05-31</maxDate>
+    <latitude>43.266667</latitude>
+    <longitude>-88.216667</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTFR0008</id>
+    <displayName>RICHFORD 0.8 NNW, VT US</displayName>
+    <minDate>2012-06-11</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>45.0034</latitude>
+    <longitude>-72.6821</longitude>
+    <elevation>156.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307070</id>
+    <displayName>RICHFORD, NY US</displayName>
+    <minDate>1950-10-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-76.2</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307069</id>
+    <displayName>RICHFORD, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1950-09-30</maxDate>
+    <latitude>42.36667</latitude>
+    <longitude>-76.21667</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0007</id>
+    <displayName>RICHLAND 0.3 WSW, MS US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2317</latitude>
+    <longitude>-90.1703</longitude>
+    <elevation>82</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WABT0013</id>
+    <displayName>RICHLAND 0.8 SW, WA US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.287</latitude>
+    <longitude>-119.305</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WABT0014</id>
+    <displayName>RICHLAND 23.9 NW, WA US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.5631</latitude>
+    <longitude>-119.606</longitude>
+    <elevation>223.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WABT0001</id>
+    <displayName>RICHLAND 3.3 SSW, WA US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.2507</latitude>
+    <longitude>-119.3197</longitude>
+    <elevation>171.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA169</id>
+    <displayName>RICHLAND 3.6 NNE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.9093</latitude>
+    <longitude>-92.3738</longitude>
+    <elevation>365.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WABT0007</id>
+    <displayName>RICHLAND 4.4 SSE, WA US</displayName>
+    <minDate>2009-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.2335</latitude>
+    <longitude>-119.2599</longitude>
+    <elevation>141.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7447</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477158</id>
+    <displayName>RICHLAND CENTER, WI US</displayName>
+    <minDate>1908-01-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>43.3314</latitude>
+    <longitude>-90.3888</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167822</id>
+    <displayName>RICHLAND HILL NEAR SOIL CONSERVATION SERVICE NUMBER 4, LA US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1943-12-31</maxDate>
+    <latitude>30.983333</latitude>
+    <longitude>-90.983333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8267</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0074</id>
+    <displayName>RICHLAND HILLS 0.5 W, TX US</displayName>
+    <minDate>2010-07-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8111</latitude>
+    <longitude>-97.2338</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167825</id>
+    <displayName>RICHLAND PLANTATION, LA US</displayName>
+    <minDate>1912-05-01</minDate>
+    <maxDate>1923-10-31</maxDate>
+    <latitude>31.28333</latitude>
+    <longitude>-92.41667</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417593</id>
+    <displayName>RICHLAND SPRINGS, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>2009-08-31</maxDate>
+    <latitude>31.27</latitude>
+    <longitude>-98.94861</longitude>
+    <elevation>420.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307077</id>
+    <displayName>RICHLAND, NY US</displayName>
+    <minDate>1904-05-01</minDate>
+    <maxDate>1952-07-31</maxDate>
+    <latitude>43.56667</latitude>
+    <longitude>-76.05</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1516</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357160</id>
+    <displayName>RICHLAND, OR US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>44.7656</latitude>
+    <longitude>-117.1597</longitude>
+    <elevation>675.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457015</id>
+    <displayName>RICHLAND, WA US</displayName>
+    <minDate>1944-05-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.3119</latitude>
+    <longitude>-119.2633</longitude>
+    <elevation>113.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0001</id>
+    <displayName>RICHLANDS 0.2 NNE, NC US</displayName>
+    <minDate>2007-08-27</minDate>
+    <maxDate>2008-10-26</maxDate>
+    <latitude>34.9029</latitude>
+    <longitude>-77.5459</longitude>
+    <elevation>19.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9321</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0034</id>
+    <displayName>RICHLANDS 2.8 NW, NC US</displayName>
+    <minDate>2011-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9304</latitude>
+    <longitude>-77.5802</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9311</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0039</id>
+    <displayName>RICHLANDS 2.8 SSE, NC US</displayName>
+    <minDate>2011-07-01</minDate>
+    <maxDate>2012-09-19</maxDate>
+    <latitude>34.8613</latitude>
+    <longitude>-77.5315</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3333</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316422</id>
+    <displayName>RICHLANDS, NC US</displayName>
+    <minDate>2004-07-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>34.925</latitude>
+    <longitude>-77.51139</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447174</id>
+    <displayName>RICHLANDS, VA US</displayName>
+    <minDate>1989-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0947</latitude>
+    <longitude>-81.7936</longitude>
+    <elevation>582.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9699</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTCH0004</id>
+    <displayName>RICHMOND 0.5 WNW, UT US</displayName>
+    <minDate>2008-06-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.9221</latitude>
+    <longitude>-111.8193</longitude>
+    <elevation>1394.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.739</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCH0010</id>
+    <displayName>RICHMOND 0.7 NE, NH US</displayName>
+    <minDate>2009-09-15</minDate>
+    <maxDate>2010-03-30</maxDate>
+    <latitude>42.7647</latitude>
+    <longitude>-72.2687</longitude>
+    <elevation>319.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5076</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA177</id>
+    <displayName>RICHMOND 0.8 ESE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2733</latitude>
+    <longitude>-93.9603</longitude>
+    <elevation>249</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWN0002</id>
+    <displayName>RICHMOND 0.9 SE, IN US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2011-04-27</maxDate>
+    <latitude>39.8207</latitude>
+    <longitude>-84.8727</longitude>
+    <elevation>315.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8592</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYMN0017</id>
+    <displayName>RICHMOND 1.5 E, KY US</displayName>
+    <minDate>2012-06-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.747</latitude>
+    <longitude>-84.267</longitude>
+    <elevation>278.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7183</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTCH0013</id>
+    <displayName>RICHMOND 1.6 NE, UT US</displayName>
+    <minDate>2008-12-04</minDate>
+    <maxDate>2011-06-11</maxDate>
+    <latitude>41.9383</latitude>
+    <longitude>-111.79</longitude>
+    <elevation>1502.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3272</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0018</id>
+    <displayName>RICHMOND 2.9 NE, TX US</displayName>
+    <minDate>2009-10-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>29.612</latitude>
+    <longitude>-95.7318</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237116</id>
+    <displayName>RICHMOND 3 S, MO US</displayName>
+    <minDate>2006-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2422</latitude>
+    <longitude>-93.97</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYMN0011</id>
+    <displayName>RICHMOND 3.3 NW, KY US</displayName>
+    <minDate>2011-06-20</minDate>
+    <maxDate>2012-09-18</maxDate>
+    <latitude>37.7806</latitude>
+    <longitude>-84.3309</longitude>
+    <elevation>286.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5077</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0017</id>
+    <displayName>RICHMOND 3.4 NE, TX US</displayName>
+    <minDate>2009-10-19</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.6176</latitude>
+    <longitude>-95.7268</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3619</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTCH0013</id>
+    <displayName>RICHMOND 3.4 SSE, VT US</displayName>
+    <minDate>2009-01-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3608</latitude>
+    <longitude>-72.964</longitude>
+    <elevation>223.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VARCC002</id>
+    <displayName>RICHMOND 3.8 NW, VA US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5768</latitude>
+    <longitude>-77.5141</longitude>
+    <elevation>69.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237114</id>
+    <displayName>RICHMOND 4 N, MO US</displayName>
+    <minDate>1976-12-01</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>39.3328</latitude>
+    <longitude>-93.9799</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206982</id>
+    <displayName>RICHMOND 4 NNW, MI US</displayName>
+    <minDate>2001-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.8783</latitude>
+    <longitude>-82.7958</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0022</id>
+    <displayName>RICHMOND 4.6 SE, TX US</displayName>
+    <minDate>2012-02-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5261</latitude>
+    <longitude>-95.7221</longitude>
+    <elevation>25.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0010</id>
+    <displayName>RICHMOND 5.6 ESE, TX US</displayName>
+    <minDate>2008-08-17</minDate>
+    <maxDate>2012-02-05</maxDate>
+    <latitude>29.537</latitude>
+    <longitude>-95.6875</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9203</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAHR0002</id>
+    <displayName>RICHMOND 6.0 NW, VA US</displayName>
+    <minDate>2007-05-29</minDate>
+    <maxDate>2010-12-12</maxDate>
+    <latitude>37.5854</latitude>
+    <longitude>-77.5643</longitude>
+    <elevation>82.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9235</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYMN0013</id>
+    <displayName>RICHMOND 6.9 NNW, KY US</displayName>
+    <minDate>2012-06-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.832</latitude>
+    <longitude>-84.352</longitude>
+    <elevation>294.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.713</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYMN0006</id>
+    <displayName>RICHMOND 9.2 ESE, KY US</displayName>
+    <minDate>2000-03-29</minDate>
+    <maxDate>2012-09-20</maxDate>
+    <latitude>37.6885</latitude>
+    <longitude>-84.1393</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127357</id>
+    <displayName>RICHMOND AIRPORT, IN US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>39.76667</latitude>
+    <longitude>-84.83333</longitude>
+    <elevation>346.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9754</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013780</id>
+    <displayName>RICHMOND CHIMBORAZO PARK, VA US</displayName>
+    <minDate>1897-10-02</minDate>
+    <maxDate>1954-03-31</maxDate>
+    <latitude>37.53333</latitude>
+    <longitude>-77.41667</longitude>
+    <elevation>49.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447196</id>
+    <displayName>RICHMOND CITY LOCKS, VA US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>1948-07-31</maxDate>
+    <latitude>37.53333</latitude>
+    <longitude>-77.41667</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047416</id>
+    <displayName>RICHMOND FIELD STATION, CA US</displayName>
+    <minDate>1955-08-01</minDate>
+    <maxDate>1959-09-30</maxDate>
+    <latitude>37.91667</latitude>
+    <longitude>-122.33333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+</stationCollection>

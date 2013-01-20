@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="368">
+  <station>
+    <id>GHCND:RQW00011641</id>
+    <displayName>SAN JUAN L M MARIN INTERNATIONAL AIRPORT, PR US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>18.4325</latitude>
+    <longitude>-66.01083</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQW00011618</id>
+    <displayName>SAN JUAN NS, PR US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1962-04-30</maxDate>
+    <latitude>18.46667</latitude>
+    <longitude>-66.11667</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057421</id>
+    <displayName>SAN JUAN, CO US</displayName>
+    <minDate>1894-06-01</minDate>
+    <maxDate>1895-11-30</maxDate>
+    <latitude>37.766667</latitude>
+    <longitude>-107.15</longitude>
+    <elevation>3000.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417979</id>
+    <displayName>SAN JUANITO, TX US</displayName>
+    <minDate>1909-05-01</minDate>
+    <maxDate>1915-08-31</maxDate>
+    <latitude>26.7</latitude>
+    <longitude>-98.23333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9084</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0064</id>
+    <displayName>SAN LEANNA 1.2 NNE, TX US</displayName>
+    <minDate>2008-06-10</minDate>
+    <maxDate>2010-09-03</maxDate>
+    <latitude>30.1621</latitude>
+    <longitude>-97.8143</longitude>
+    <elevation>203.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2022</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAAL0011</id>
+    <displayName>SAN LORENZO 0.5 NNW, CA US</displayName>
+    <minDate>2010-12-31</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>37.6821</latitude>
+    <longitude>-122.1332</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8984</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668815</id>
+    <displayName>SAN LORENZO 3 S, PR US</displayName>
+    <minDate>1966-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.1517</latitude>
+    <longitude>-65.9589</longitude>
+    <elevation>155.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9428</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668817</id>
+    <displayName>SAN LORENZO ESPINO, PR US</displayName>
+    <minDate>1945-01-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>18.1</latitude>
+    <longitude>-66</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8257</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668822</id>
+    <displayName>SAN LORENZO FARM 2 N, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1988-09-30</maxDate>
+    <latitude>18.2</latitude>
+    <longitude>-65.96667</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057430</id>
+    <displayName>SAN LUIS 1 S, CO US</displayName>
+    <minDate>1980-05-01</minDate>
+    <maxDate>2006-06-30</maxDate>
+    <latitude>37.1954</latitude>
+    <longitude>-105.4244</longitude>
+    <elevation>2421</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9198</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCS0012</id>
+    <displayName>SAN LUIS 8.8 SW, CO US</displayName>
+    <minDate>2008-08-07</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.085</latitude>
+    <longitude>-105.4963</longitude>
+    <elevation>2477.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9803</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047846</id>
+    <displayName>SAN LUIS DAM, CA US</displayName>
+    <minDate>1963-01-01</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>37.05333</latitude>
+    <longitude>-121.05778</longitude>
+    <elevation>84.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057433</id>
+    <displayName>SAN LUIS LAKES 3 W, CO US</displayName>
+    <minDate>1946-05-16</minDate>
+    <maxDate>1955-06-30</maxDate>
+    <latitude>37.65</latitude>
+    <longitude>-105.8</longitude>
+    <elevation>2297</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSNL</id>
+    <displayName>SAN LUIS NWR CALIFORNIA, CA US</displayName>
+    <minDate>2002-03-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.1822</latitude>
+    <longitude>-120.7939</longitude>
+    <elevation>19.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9152</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093206</id>
+    <displayName>SAN LUIS OBISPO MCCHESNEY FIELD, CA US</displayName>
+    <minDate>1998-04-06</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.23722</latitude>
+    <longitude>-120.64139</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047851</id>
+    <displayName>SAN LUIS OBISPO POLYTECH, CA US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3038</latitude>
+    <longitude>-120.665</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057428</id>
+    <displayName>SAN LUIS, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1951-04-07</maxDate>
+    <latitude>37.1954</latitude>
+    <longitude>-105.4242</longitude>
+    <elevation>2421</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027530</id>
+    <displayName>SAN MANUEL, AZ US</displayName>
+    <minDate>1954-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.6013</latitude>
+    <longitude>-110.6338</longitude>
+    <elevation>1054.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417981</id>
+    <displayName>SAN MANUEL, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.565</latitude>
+    <longitude>-98.1202</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297907</id>
+    <displayName>SAN MARCIAL, NM US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1949-05-16</maxDate>
+    <latitude>33.68333</latitude>
+    <longitude>-106.98333</longitude>
+    <elevation>1368.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8257</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS074</id>
+    <displayName>SAN MARCOS 1.8 SSW, TX US</displayName>
+    <minDate>2012-04-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.8575</latitude>
+    <longitude>-97.9421</longitude>
+    <elevation>188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9333</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS069</id>
+    <displayName>SAN MARCOS 2.2 NW, TX US</displayName>
+    <minDate>2012-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.898</latitude>
+    <longitude>-97.9588</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS014</id>
+    <displayName>SAN MARCOS 2.4 WNW, TX US</displayName>
+    <minDate>2008-04-26</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>29.891</latitude>
+    <longitude>-97.967</longitude>
+    <elevation>213.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0001</id>
+    <displayName>SAN MARCOS 2.5 ENE, CA US</displayName>
+    <minDate>2008-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.1472</latitude>
+    <longitude>-117.1316</longitude>
+    <elevation>203</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS019</id>
+    <displayName>SAN MARCOS 2.9 WNW, TX US</displayName>
+    <minDate>2007-09-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.9027</latitude>
+    <longitude>-97.9708</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS042</id>
+    <displayName>SAN MARCOS 3.1 WSW, TX US</displayName>
+    <minDate>2010-05-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.8688</latitude>
+    <longitude>-97.9783</longitude>
+    <elevation>211.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0039</id>
+    <displayName>SAN MARCOS 3.5 SSE, TX US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2010-09-22</maxDate>
+    <latitude>29.8334</latitude>
+    <longitude>-97.9054</longitude>
+    <elevation>196</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS006</id>
+    <displayName>SAN MARCOS 3.7 WSW, TX US</displayName>
+    <minDate>2007-05-12</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.8697</latitude>
+    <longitude>-97.9892</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS041</id>
+    <displayName>SAN MARCOS 4.3 N, TX US</displayName>
+    <minDate>2010-04-11</minDate>
+    <maxDate>2012-09-14</maxDate>
+    <latitude>29.9424</latitude>
+    <longitude>-97.9358</longitude>
+    <elevation>236.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1273</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS001</id>
+    <displayName>SAN MARCOS 5.8 N, TX US</displayName>
+    <minDate>2008-02-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.9632</latitude>
+    <longitude>-97.918</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.967</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS065</id>
+    <displayName>SAN MARCOS 6.3 WSW, TX US</displayName>
+    <minDate>2011-12-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.8464</latitude>
+    <longitude>-98.0287</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7755</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS021</id>
+    <displayName>SAN MARCOS 7.1 W, TX US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.8904</latitude>
+    <longitude>-98.0477</longitude>
+    <elevation>272.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS061</id>
+    <displayName>SAN MARCOS 8.1 W, TX US</displayName>
+    <minDate>2011-07-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.9015</latitude>
+    <longitude>-98.062</longitude>
+    <elevation>301.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS004</id>
+    <displayName>SAN MARCOS 8.7 WNW, TX US</displayName>
+    <minDate>2007-05-06</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>29.9126</latitude>
+    <longitude>-98.0692</longitude>
+    <elevation>294.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5794</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS047</id>
+    <displayName>SAN MARCOS 9.8 WNW, TX US</displayName>
+    <minDate>2010-09-08</minDate>
+    <maxDate>2012-10-02</maxDate>
+    <latitude>29.9197</latitude>
+    <longitude>-98.0857</longitude>
+    <elevation>309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8545</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012910</id>
+    <displayName>SAN MARCOS GARY AFB, TX US</displayName>
+    <minDate>1951-05-02</minDate>
+    <maxDate>1956-08-15</maxDate>
+    <latitude>29.88333</latitude>
+    <longitude>-97.86667</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047861</id>
+    <displayName>SAN MARCOS RANCH, CA US</displayName>
+    <minDate>1952-03-01</minDate>
+    <maxDate>1960-03-31</maxDate>
+    <latitude>34.55</latitude>
+    <longitude>-119.86667</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417983</id>
+    <displayName>SAN MARCOS, TX US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.8832</latitude>
+    <longitude>-97.9494</longitude>
+    <elevation>202.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9026</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASM0015</id>
+    <displayName>SAN MATEO 3.4 SSW, CA US</displayName>
+    <minDate>2012-04-04</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.5185</latitude>
+    <longitude>-122.3432</longitude>
+    <elevation>178.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047864</id>
+    <displayName>SAN MATEO, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1978-12-31</maxDate>
+    <latitude>37.53333</latitude>
+    <longitude>-122.3</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7088</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297918</id>
+    <displayName>SAN MATEO, NM US</displayName>
+    <minDate>1918-04-01</minDate>
+    <maxDate>1988-02-29</maxDate>
+    <latitude>35.33333</latitude>
+    <longitude>-107.65</longitude>
+    <elevation>2207.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4472</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293234</id>
+    <displayName>SAN MATEO, NM US</displayName>
+    <minDate>1958-12-01</minDate>
+    <maxDate>1966-01-31</maxDate>
+    <latitude>35.33333</latitude>
+    <longitude>-107.65</longitude>
+    <elevation>2207.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSMI</id>
+    <displayName>SAN MIGUEL CALIFORNIA, CA US</displayName>
+    <minDate>2002-03-29</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>32.685</latitude>
+    <longitude>-116.9736</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9152</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047866</id>
+    <displayName>SAN MIGUEL ISLAND, CA US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>1942-05-31</maxDate>
+    <latitude>34.05</latitude>
+    <longitude>-120.383333</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6135</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093116</id>
+    <displayName>SAN NICOLAS ISLAND, CA US</displayName>
+    <minDate>1933-08-01</minDate>
+    <maxDate>2010-01-24</maxDate>
+    <latitude>33.25</latitude>
+    <longitude>-119.45</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047874</id>
+    <displayName>SAN PASQUAL ANIMAL PARK, CA US</displayName>
+    <minDate>1979-07-01</minDate>
+    <maxDate>2010-06-30</maxDate>
+    <latitude>33.0955</latitude>
+    <longitude>-116.9975</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093113</id>
+    <displayName>SAN PEDRO NAS, US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1947-05-31</maxDate>
+    <latitude>33.75</latitude>
+    <longitude>-118.25</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417990</id>
+    <displayName>SAN PERLITA, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1950-05-25</maxDate>
+    <latitude>26.5</latitude>
+    <longitude>-97.6</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMR0012</id>
+    <displayName>SAN RAFAEL 3.9 NW, CA US</displayName>
+    <minDate>2010-01-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0268</latitude>
+    <longitude>-122.5473</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9226</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047880</id>
+    <displayName>SAN RAFAEL CIVIC CEN, CA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.99833</latitude>
+    <longitude>-122.53722</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5303</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027555</id>
+    <displayName>SAN RAFAEL RANCH SP, AZ US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2009-12-31</maxDate>
+    <latitude>31.35333</latitude>
+    <longitude>-110.61278</longitude>
+    <elevation>1452.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4277</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297930</id>
+    <displayName>SAN RAFAEL, NM US</displayName>
+    <minDate>1904-05-01</minDate>
+    <maxDate>1915-08-31</maxDate>
+    <latitude>35.11667</latitude>
+    <longitude>-107.88333</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXSS0002</id>
+    <displayName>SAN SABA 0.4 E, TX US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>31.196</latitude>
+    <longitude>-98.7187</longitude>
+    <elevation>367</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXSS0003</id>
+    <displayName>SAN SABA 1.5 E, TX US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.1972</latitude>
+    <longitude>-98.6997</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417994</id>
+    <displayName>SAN SABA 7 NW, TX US</displayName>
+    <minDate>2000-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.2841</latitude>
+    <longitude>-98.7588</longitude>
+    <elevation>405.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXSS0001</id>
+    <displayName>SAN SABA 7.3 ENE, TX US</displayName>
+    <minDate>2007-09-28</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>31.2425</latitude>
+    <longitude>-98.6146</longitude>
+    <elevation>350.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417992</id>
+    <displayName>SAN SABA, TX US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>2000-02-29</maxDate>
+    <latitude>31.18333</latitude>
+    <longitude>-98.71667</longitude>
+    <elevation>364.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6674</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668881</id>
+    <displayName>SAN SEBASTIAN 2 WNW, PR US</displayName>
+    <minDate>1955-04-01</minDate>
+    <maxDate>1997-10-31</maxDate>
+    <latitude>18.3483</latitude>
+    <longitude>-67.0077</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047024</id>
+    <displayName>SAN SIMEON POINT PIEDRAS BLANCAS, CA US</displayName>
+    <minDate>1938-08-01</minDate>
+    <maxDate>1975-09-30</maxDate>
+    <latitude>35.66556</latitude>
+    <longitude>-121.28472</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093226</id>
+    <displayName>SAN SIMEON POINT PIEDRAS BLANCAS, CA US</displayName>
+    <minDate>1998-01-07</minDate>
+    <maxDate>2005-05-31</maxDate>
+    <latitude>35.66556</latitude>
+    <longitude>-121.28472</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZCH0005</id>
+    <displayName>SAN SIMON 2.6 S, AZ US</displayName>
+    <minDate>2009-08-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2279</latitude>
+    <longitude>-109.2276</longitude>
+    <elevation>1114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027563</id>
+    <displayName>SAN SIMON 5 NW, AZ US</displayName>
+    <minDate>1898-05-01</minDate>
+    <maxDate>1949-01-27</maxDate>
+    <latitude>32.33333</latitude>
+    <longitude>-109.26667</longitude>
+    <elevation>1100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027567</id>
+    <displayName>SAN SIMON 9 ESE, AZ US</displayName>
+    <minDate>1962-07-19</minDate>
+    <maxDate>1986-07-31</maxDate>
+    <latitude>32.16667</latitude>
+    <longitude>-109.08333</longitude>
+    <elevation>1182.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027565</id>
+    <displayName>SAN SIMON 9 NE, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-10-31</maxDate>
+    <latitude>32.36667</latitude>
+    <longitude>-109.13333</longitude>
+    <elevation>1220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027560</id>
+    <displayName>SAN SIMON, AZ US</displayName>
+    <minDate>1898-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.2713</latitude>
+    <longitude>-109.2255</longitude>
+    <elevation>1100.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.67</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297975</id>
+    <displayName>SAN YSIDRO, NM US</displayName>
+    <minDate>1943-09-01</minDate>
+    <maxDate>1947-08-31</maxDate>
+    <latitude>35.55</latitude>
+    <longitude>-106.78333</longitude>
+    <elevation>1647.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317640</id>
+    <displayName>SANATORIUM, NC US</displayName>
+    <minDate>1914-03-27</minDate>
+    <maxDate>1931-06-30</maxDate>
+    <latitude>35.066667</latitude>
+    <longitude>-79.35</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417997</id>
+    <displayName>SANATORIUM, TX US</displayName>
+    <minDate>1945-09-28</minDate>
+    <maxDate>1953-06-30</maxDate>
+    <latitude>31.61667</latitude>
+    <longitude>-100.65</longitude>
+    <elevation>619</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9569</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYNG0006</id>
+    <displayName>SANBORN 0.2 NE, NY US</displayName>
+    <minDate>2008-07-26</minDate>
+    <maxDate>2010-05-17</maxDate>
+    <latitude>43.1383</latitude>
+    <longitude>-78.8863</longitude>
+    <elevation>198.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000FSAN</id>
+    <displayName>SANBORN FLORIDA, FL US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.23</latitude>
+    <longitude>-84.68</longitude>
+    <elevation>22.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSAN</id>
+    <displayName>SANBORN PARK COLORADO, CO US</displayName>
+    <minDate>1985-07-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.1917</latitude>
+    <longitude>-108.2167</longitude>
+    <elevation>2417.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9693</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00087950</id>
+    <displayName>SANBORN TOWER, FL US</displayName>
+    <minDate>1956-05-01</minDate>
+    <maxDate>1970-04-30</maxDate>
+    <latitude>30.06667</latitude>
+    <longitude>-84.6</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137386</id>
+    <displayName>SANBORN, IA US</displayName>
+    <minDate>1914-04-01</minDate>
+    <maxDate>2012-12-12</maxDate>
+    <latitude>43.1791</latitude>
+    <longitude>-95.6602</longitude>
+    <elevation>472.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9897</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHBK0017</id>
+    <displayName>SANBORNTON 5.6 NNW, NH US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.5711</latitude>
+    <longitude>-71.6019</longitude>
+    <elevation>203.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7365</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00277850</id>
+    <displayName>SANBORNTON, NH US</displayName>
+    <minDate>1892-07-01</minDate>
+    <maxDate>1903-09-30</maxDate>
+    <latitude>43.5</latitude>
+    <longitude>-71.683333</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297987</id>
+    <displayName>SANCHEZ, NM US</displayName>
+    <minDate>1940-06-18</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>35.61667</latitude>
+    <longitude>-104.43333</longitude>
+    <elevation>1495</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NSCK</id>
+    <displayName>SAND CREEK NORTH DAKOTA, ND US</displayName>
+    <minDate>1997-08-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.5456</latitude>
+    <longitude>-103.5183</longitude>
+    <elevation>823</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9265</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247342</id>
+    <displayName>SAND CREEK, MT US</displayName>
+    <minDate>2005-09-01</minDate>
+    <maxDate>2011-12-31</maxDate>
+    <latitude>47.5775</latitude>
+    <longitude>-108.7272</longitude>
+    <elevation>887</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357533</id>
+    <displayName>SAND CREEK, OR US</displayName>
+    <minDate>1929-04-01</minDate>
+    <maxDate>1948-06-30</maxDate>
+    <latitude>42.85</latitude>
+    <longitude>-121.9</longitude>
+    <elevation>1427.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9484</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487980</id>
+    <displayName>SAND DRAW, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1977-01-31</maxDate>
+    <latitude>42.76667</latitude>
+    <longitude>-108.18333</longitude>
+    <elevation>1818.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9497</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467901</id>
+    <displayName>SAND FORK, WV US</displayName>
+    <minDate>1945-09-01</minDate>
+    <maxDate>1954-11-30</maxDate>
+    <latitude>38.91667</latitude>
+    <longitude>-80.43333</longitude>
+    <elevation>328.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006H23S</id>
+    <displayName>SAND LAKE, WY US</displayName>
+    <minDate>1982-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.4667</latitude>
+    <longitude>-106.2833</longitude>
+    <elevation>3063.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9274</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017207</id>
+    <displayName>SAND MOUNTAIN SUBSTATION, AL US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.28778</latitude>
+    <longitude>-85.96806</longitude>
+    <elevation>362.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267261</id>
+    <displayName>SAND PASS, NV US</displayName>
+    <minDate>1913-10-29</minDate>
+    <maxDate>1971-09-30</maxDate>
+    <latitude>40.31667</latitude>
+    <longitude>-119.8</longitude>
+    <elevation>1189.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025630</id>
+    <displayName>SAND POINT 1 ENE, AK US</displayName>
+    <minDate>2009-08-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>55.3473</latitude>
+    <longitude>-160.4660</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508183</id>
+    <displayName>SAND POINT AIRPORT, AK US</displayName>
+    <minDate>1941-09-26</minDate>
+    <maxDate>1994-06-30</maxDate>
+    <latitude>55.31944</latitude>
+    <longitude>-160.52083</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0023</id>
+    <displayName>SAND SPRINGS 2.1 ENE, OK US</displayName>
+    <minDate>2010-06-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.1552</latitude>
+    <longitude>-96.0978</longitude>
+    <elevation>272.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7317</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKOS0001</id>
+    <displayName>SAND SPRINGS 8.2 NW, OK US</displayName>
+    <minDate>2008-02-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1984</latitude>
+    <longitude>-96.2376</longitude>
+    <elevation>267</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8786</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047734</id>
+    <displayName>SANDBERG PTRL STATION, CA US</displayName>
+    <minDate>1949-01-06</minDate>
+    <maxDate>1988-11-30</maxDate>
+    <latitude>34.75</latitude>
+    <longitude>-118.71667</longitude>
+    <elevation>1226.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023187</id>
+    <displayName>SANDBERG, CA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.7436</latitude>
+    <longitude>-118.7242</longitude>
+    <elevation>1374.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127783</id>
+    <displayName>SANDBORN, IN US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.88333</latitude>
+    <longitude>-87.18333</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027496</id>
+    <displayName>SANDERS 11 ESE, AZ US</displayName>
+    <minDate>1961-05-01</minDate>
+    <maxDate>1986-07-31</maxDate>
+    <latitude>35.16667</latitude>
+    <longitude>-109.16667</longitude>
+    <elevation>1905</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027488</id>
+    <displayName>SANDERS, AZ US</displayName>
+    <minDate>1949-07-08</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.2239</latitude>
+    <longitude>-109.3222</longitude>
+    <elevation>1784</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTL0002</id>
+    <displayName>SANDERSON 11.7 ENE, TX US</displayName>
+    <minDate>2009-01-07</minDate>
+    <maxDate>2012-11-21</maxDate>
+    <latitude>30.2453</latitude>
+    <longitude>-102.2434</longitude>
+    <elevation>770.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8049</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTL0005</id>
+    <displayName>SANDERSON 30.0 NE, TX US</displayName>
+    <minDate>2011-02-04</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>30.4805</latitude>
+    <longitude>-102.0765</longitude>
+    <elevation>779.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3538</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBK0003</id>
+    <displayName>SANDERSON 4.9 NNW, FL US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>30.3212</latitude>
+    <longitude>-82.2757</longitude>
+    <elevation>40.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418023</id>
+    <displayName>SANDERSON 5 NNW, TX US</displayName>
+    <minDate>1947-10-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>30.21556</latitude>
+    <longitude>-102.41639</longitude>
+    <elevation>938.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8371</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418022</id>
+    <displayName>SANDERSON, TX US</displayName>
+    <minDate>1897-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1414</latitude>
+    <longitude>-102.3917</longitude>
+    <elevation>849.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6474</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097777</id>
+    <displayName>SANDERSVILLE, GA US</displayName>
+    <minDate>1914-06-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9745</latitude>
+    <longitude>-82.8045</longitude>
+    <elevation>137.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5685</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0008</id>
+    <displayName>SANDHILL 2.7 ENE, MS US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2008-12-28</maxDate>
+    <latitude>32.4983</latitude>
+    <longitude>-89.827</longitude>
+    <elevation>107.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7933</coverage>
+  </station>
+</stationCollection>

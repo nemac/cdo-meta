@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="193">
+  <station>
+    <id>GHCND:USC00193690</id>
+    <displayName>HOLDEN, MA US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1934-02-28</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-71.85</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453728</id>
+    <displayName>HOLDEN, WA US</displayName>
+    <minDate>1930-11-01</minDate>
+    <maxDate>1957-06-30</maxDate>
+    <latitude>48.2</latitude>
+    <longitude>-120.78333</longitude>
+    <elevation>1049.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344235</id>
+    <displayName>HOLDENVILLE 2 SSE, OK US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>35.0567</latitude>
+    <longitude>-96.3861</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9568</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344236</id>
+    <displayName>HOLDENVILLE 3 ESE MESONET, OK US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>35.0707</latitude>
+    <longitude>-96.356</longitude>
+    <elevation>279.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9235</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253911</id>
+    <displayName>HOLDREGE 1 E, NE US</displayName>
+    <minDate>1957-07-01</minDate>
+    <maxDate>1970-09-30</maxDate>
+    <latitude>40.43333</latitude>
+    <longitude>-99.38333</longitude>
+    <elevation>711.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10phel013</id>
+    <displayName>HOLDREGE 8.0 NNE, NE US</displayName>
+    <minDate>2008-05-27</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>40.5503</latitude>
+    <longitude>-99.3229</longitude>
+    <elevation>697.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.601</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10harl012</id>
+    <displayName>HOLDREGE 9.2 S, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>40.3073</latitude>
+    <longitude>-99.3492</longitude>
+    <elevation>687.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9025</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253910</id>
+    <displayName>HOLDREGE, NE US</displayName>
+    <minDate>1894-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4518</latitude>
+    <longitude>-99.3802</longitude>
+    <elevation>707.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9761</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015J15S</id>
+    <displayName>HOLE IN MOUNTAIN, NV US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.9667</latitude>
+    <longitude>-115.05</longitude>
+    <elevation>2407.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010J01S</id>
+    <displayName>HOLE IN ROCK, UT US</displayName>
+    <minDate>1985-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.9167</latitude>
+    <longitude>-110.2</longitude>
+    <elevation>2788.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9352</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424025</id>
+    <displayName>HOLE IN THE ROCK, UT US</displayName>
+    <minDate>1916-06-01</minDate>
+    <maxDate>1932-10-31</maxDate>
+    <latitude>40.96667</latitude>
+    <longitude>-110.16667</longitude>
+    <elevation>2388.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4095</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333801</id>
+    <displayName>HOLGATE, OH US</displayName>
+    <minDate>1929-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.25</latitude>
+    <longitude>-84.15</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9372</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARCR0008</id>
+    <displayName>HOLIDAY ISLAND 1.3 SSW, AR US</displayName>
+    <minDate>2012-06-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4671</latitude>
+    <longitude>-93.737</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0035</id>
+    <displayName>HOLLADAY 0.5 ESE, UT US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6657</latitude>
+    <longitude>-111.8115</longitude>
+    <elevation>1396</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0086</id>
+    <displayName>HOLLADAY 0.7 WNW, UT US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6735</latitude>
+    <longitude>-111.8318</longitude>
+    <elevation>1358.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444044</id>
+    <displayName>HOLLAND 1 E, VA US</displayName>
+    <minDate>1933-03-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>36.683</latitude>
+    <longitude>-76.7684</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203860</id>
+    <displayName>HOLLAND 3 NW, MI US</displayName>
+    <minDate>1990-05-01</minDate>
+    <maxDate>1994-10-31</maxDate>
+    <latitude>42.82306</latitude>
+    <longitude>-86.15722</longitude>
+    <elevation>190.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0004</id>
+    <displayName>HOLLAND 3.8 W, MI US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-12-10</maxDate>
+    <latitude>42.768</latitude>
+    <longitude>-86.1778</longitude>
+    <elevation>182.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1275</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0002</id>
+    <displayName>HOLLAND 3.9 NNE, MI US</displayName>
+    <minDate>2008-06-25</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.823</latitude>
+    <longitude>-86.0678</longitude>
+    <elevation>188.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0029</id>
+    <displayName>HOLLAND 4.2 NNE, MI US</displayName>
+    <minDate>2010-05-08</minDate>
+    <maxDate>2012-10-20</maxDate>
+    <latitude>42.8277</latitude>
+    <longitude>-86.0697</longitude>
+    <elevation>196</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5195</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0014</id>
+    <displayName>HOLLAND 4.3 NNW, MI US</displayName>
+    <minDate>2008-07-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8231</latitude>
+    <longitude>-86.1485</longitude>
+    <elevation>187.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0025</id>
+    <displayName>HOLLAND 5.1 WNW, MI US</displayName>
+    <minDate>2009-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8011</latitude>
+    <longitude>-86.1948</longitude>
+    <elevation>182.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9539</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIAN0003</id>
+    <displayName>HOLLAND 5.4 SSW, MI US</displayName>
+    <minDate>2008-07-28</minDate>
+    <maxDate>2010-05-20</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-86.1453</longitude>
+    <elevation>226.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5136</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPK0004</id>
+    <displayName>HOLLAND 6.3 NW, IN US</displayName>
+    <minDate>2008-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3052</latitude>
+    <longitude>-87.1259</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8774</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0027</id>
+    <displayName>HOLLAND 6.6 NW, MI US</displayName>
+    <minDate>2009-10-23</minDate>
+    <maxDate>2012-10-23</maxDate>
+    <latitude>42.8295</latitude>
+    <longitude>-86.2054</longitude>
+    <elevation>188.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0022F42S</id>
+    <displayName>HOLLAND MEADOWS, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.6667</latitude>
+    <longitude>-122.5667</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9191</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOD0007</id>
+    <displayName>HOLLAND PATENT 1.5 WSW, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2363</latitude>
+    <longitude>-75.2858</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOD0009</id>
+    <displayName>HOLLAND PATENT 2.2 SW, NY US</displayName>
+    <minDate>2004-06-01</minDate>
+    <maxDate>2005-07-31</maxDate>
+    <latitude>43.2167</latitude>
+    <longitude>-75.2833</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004839</id>
+    <displayName>HOLLAND TULIP CITY AIRPORT, MI US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.74611</latitude>
+    <longitude>-86.09667</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJHN0012</id>
+    <displayName>HOLLAND TWP 2.6 NNE, NJ US</displayName>
+    <minDate>2008-09-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6317</latitude>
+    <longitude>-75.1045</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124023</id>
+    <displayName>HOLLAND, IN US</displayName>
+    <minDate>1902-06-01</minDate>
+    <maxDate>1907-10-31</maxDate>
+    <latitude>38.25</latitude>
+    <longitude>-87.03333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203858</id>
+    <displayName>HOLLAND, MI US</displayName>
+    <minDate>1905-06-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>42.7988</latitude>
+    <longitude>-86.205</longitude>
+    <elevation>188.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253923</id>
+    <displayName>HOLLAND, NE US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>40.58333</latitude>
+    <longitude>-96.58333</longitude>
+    <elevation>412.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7689</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353971</id>
+    <displayName>HOLLEY, OR US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.3525</latitude>
+    <longitude>-122.7842</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444046</id>
+    <displayName>HOLLIDAY LAKE, VA US</displayName>
+    <minDate>2003-12-01</minDate>
+    <maxDate>2006-11-30</maxDate>
+    <latitude>37.3956</latitude>
+    <longitude>-78.6406</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364001</id>
+    <displayName>HOLLIDAYSBURG 2 NW, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.4383</latitude>
+    <longitude>-78.4169</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1411</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHHL0016</id>
+    <displayName>HOLLIS 2.9 ENE, NH US</displayName>
+    <minDate>2009-08-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.759</latitude>
+    <longitude>-71.537</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9025</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344250</id>
+    <displayName>HOLLIS 5 E MESONET, OK US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>34.6855</latitude>
+    <longitude>-99.8333</longitude>
+    <elevation>496.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344249</id>
+    <displayName>HOLLIS 5 E, OK US</displayName>
+    <minDate>1922-08-01</minDate>
+    <maxDate>2011-06-15</maxDate>
+    <latitude>34.6808</latitude>
+    <longitude>-99.8135</longitude>
+    <elevation>494.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9731</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEYK0010</id>
+    <displayName>HOLLIS CENTER 4.7 NW, ME US</displayName>
+    <minDate>2009-08-22</minDate>
+    <maxDate>2010-10-15</maxDate>
+    <latitude>43.6532</latitude>
+    <longitude>-70.6571</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503650</id>
+    <displayName>HOLLIS, AK US</displayName>
+    <minDate>1949-05-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>55.4909</latitude>
+    <longitude>-132.6222</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3555</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00173862</id>
+    <displayName>HOLLIS, ME US</displayName>
+    <minDate>1994-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6477</latitude>
+    <longitude>-70.675</longitude>
+    <elevation>96</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTY0009</id>
+    <displayName>HOLLISTER 1.3 S, MO US</displayName>
+    <minDate>2006-11-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.601</latitude>
+    <longitude>-93.2217</longitude>
+    <elevation>295</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044025</id>
+    <displayName>HOLLISTER 2, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8483</latitude>
+    <longitude>-121.4213</longitude>
+    <elevation>83.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5548</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAST0005</id>
+    <displayName>HOLLISTER 2.1 ESE, CA US</displayName>
+    <minDate>2009-10-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.8422</latitude>
+    <longitude>-121.365</longitude>
+    <elevation>118.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTY0006</id>
+    <displayName>HOLLISTER 3.5 SW, MO US</displayName>
+    <minDate>2006-06-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5869</latitude>
+    <longitude>-93.2692</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9485</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTY0012</id>
+    <displayName>HOLLISTER 3.8 SW, MO US</displayName>
+    <minDate>2008-03-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.577</latitude>
+    <longitude>-93.2647</longitude>
+    <elevation>392</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAST0004</id>
+    <displayName>HOLLISTER 5.4 NNE, CA US</displayName>
+    <minDate>2009-03-10</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>36.9306</latitude>
+    <longitude>-121.3704</longitude>
+    <elevation>75.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHLR</id>
+    <displayName>HOLLISTER CALIFORNIA, CA US</displayName>
+    <minDate>2002-12-12</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.8422</latitude>
+    <longitude>-121.3622</longitude>
+    <elevation>123.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9273</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023241</id>
+    <displayName>HOLLISTER NAAS, CA US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1945-10-15</maxDate>
+    <latitude>36.88333</latitude>
+    <longitude>-121.4</longitude>
+    <elevation>71.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044022</id>
+    <displayName>HOLLISTER, CA US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>1974-10-31</maxDate>
+    <latitude>36.83333</latitude>
+    <longitude>-121.41667</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104295</id>
+    <displayName>HOLLISTER, ID US</displayName>
+    <minDate>1912-02-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.3528</latitude>
+    <longitude>-114.5739</longitude>
+    <elevation>1379.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233940</id>
+    <displayName>HOLLISTER, MO US</displayName>
+    <minDate>1908-06-01</minDate>
+    <maxDate>1927-05-31</maxDate>
+    <latitude>36.616667</latitude>
+    <longitude>-93.233333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9147</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364008</id>
+    <displayName>HOLLISTERVILLE, PA US</displayName>
+    <minDate>1928-01-01</minDate>
+    <maxDate>2001-05-31</maxDate>
+    <latitude>41.38333</latitude>
+    <longitude>-75.43333</longitude>
+    <elevation>417.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193695</id>
+    <displayName>HOLLISTON, MA US</displayName>
+    <minDate>1924-04-18</minDate>
+    <maxDate>1925-10-15</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-71.433333</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023002</id>
+    <displayName>HOLLOMAN AFB, NM US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>32.85</latitude>
+    <longitude>-106.1</longitude>
+    <elevation>1267.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344258</id>
+    <displayName>HOLLOW, OK US</displayName>
+    <minDate>1940-04-07</minDate>
+    <maxDate>2006-02-28</maxDate>
+    <latitude>36.88056</latitude>
+    <longitude>-95.28667</longitude>
+    <elevation>277.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9545</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353976</id>
+    <displayName>HOLLOWAY ORCHARD, OR US</displayName>
+    <minDate>1915-03-28</minDate>
+    <maxDate>1920-12-31</maxDate>
+    <latitude>42.283333</latitude>
+    <longitude>-122.833333</longitude>
+    <elevation>452.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4444</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPW0018</id>
+    <displayName>HOLLY 0.1 ENE, CO US</displayName>
+    <minDate>2006-04-12</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>38.0559</latitude>
+    <longitude>-102.1225</longitude>
+    <elevation>1035.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054078</id>
+    <displayName>HOLLY 1 NW, CO US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.06333</latitude>
+    <longitude>-102.12861</longitude>
+    <elevation>1038.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0067</id>
+    <displayName>HOLLY 3.9 SSE, MI US</displayName>
+    <minDate>2012-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7503</latitude>
+    <longitude>-83.5838</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9615</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224155</id>
+    <displayName>HOLLY BLUFF, MS US</displayName>
+    <minDate>1902-05-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>32.81667</latitude>
+    <longitude>-90.71667</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7625</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOR0005</id>
+    <displayName>HOLLY HILL 0.4 N, SC US</displayName>
+    <minDate>2009-04-17</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>33.3304</latitude>
+    <longitude>-80.4149</longitude>
+    <elevation>31.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00384205</id>
+    <displayName>HOLLY HILL 1 SW, SC US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.3172</latitude>
+    <longitude>-80.4183</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00384197</id>
+    <displayName>HOLLY HILL, SC US</displayName>
+    <minDate>1957-11-01</minDate>
+    <maxDate>2001-02-28</maxDate>
+    <latitude>33.32583</latitude>
+    <longitude>-80.42111</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8053</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414202</id>
+    <displayName>HOLLY LAKE RANCH, TX US</displayName>
+    <minDate>2004-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7277</latitude>
+    <longitude>-95.1922</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164320</id>
+    <displayName>HOLLY RIDGE 10 N, LA US</displayName>
+    <minDate>1957-12-01</minDate>
+    <maxDate>1967-01-23</maxDate>
+    <latitude>32.61667</latitude>
+    <longitude>-91.63333</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0047</id>
+    <displayName>HOLLY RIDGE 4.8 ENE, NC US</displayName>
+    <minDate>2012-03-25</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.5213</latitude>
+    <longitude>-77.4786</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164315</id>
+    <displayName>HOLLY RIDGE, LA US</displayName>
+    <minDate>1944-04-02</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>32.46667</latitude>
+    <longitude>-91.61667</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACE0012</id>
+    <displayName>HOLLY SPRINGS 1.0 NNE, GA US</displayName>
+    <minDate>2008-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1851</latitude>
+    <longitude>-84.4896</longitude>
+    <elevation>350.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0006</id>
+    <displayName>HOLLY SPRINGS 1.1 ESE, NC US</displayName>
+    <minDate>2007-09-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6489</latitude>
+    <longitude>-78.8171</longitude>
+    <elevation>123.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8364</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0031</id>
+    <displayName>HOLLY SPRINGS 1.8 ESE, NC US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.6483</latitude>
+    <longitude>-78.8048</longitude>
+    <elevation>121</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8604</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0045</id>
+    <displayName>HOLLY SPRINGS 1.8 SW, NC US</displayName>
+    <minDate>2007-10-05</minDate>
+    <maxDate>2012-07-28</maxDate>
+    <latitude>35.6371</latitude>
+    <longitude>-78.8583</longitude>
+    <elevation>132.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4167</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224168</id>
+    <displayName>HOLLY SPRINGS 2 N, MS US</displayName>
+    <minDate>1892-04-15</minDate>
+    <maxDate>1962-01-31</maxDate>
+    <latitude>34.8</latitude>
+    <longitude>-89.43333</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9701</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0058</id>
+    <displayName>HOLLY SPRINGS 2.0 ESE, NC US</displayName>
+    <minDate>2008-01-27</minDate>
+    <maxDate>2012-10-01</maxDate>
+    <latitude>35.646</latitude>
+    <longitude>-78.8027</longitude>
+    <elevation>112.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.362</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0065</id>
+    <displayName>HOLLY SPRINGS 3.6 SSE, NC US</displayName>
+    <minDate>2008-05-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6041</latitude>
+    <longitude>-78.8189</longitude>
+    <elevation>136.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224173</id>
+    <displayName>HOLLY SPRINGS 4 N, MS US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.82194</latitude>
+    <longitude>-89.43472</longitude>
+    <elevation>147.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8313</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023803</id>
+    <displayName>HOLLY SPRINGS 4 N, MS US</displayName>
+    <minDate>2008-02-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.8223</latitude>
+    <longitude>-89.4348</longitude>
+    <elevation>147.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0020</id>
+    <displayName>HOLLY SPRINGS 6.0 ENE, NC US</displayName>
+    <minDate>2007-09-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.682</latitude>
+    <longitude>-78.7349</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133900</id>
+    <displayName>HOLLY SPRINGS, IA US</displayName>
+    <minDate>1964-05-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>42.2802</latitude>
+    <longitude>-96.0961</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.188</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054076</id>
+    <displayName>HOLLY, CO US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>2009-09-13</maxDate>
+    <latitude>38.0494</latitude>
+    <longitude>-102.1237</longitude>
+    <elevation>1033.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9362</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAAB0002</id>
+    <displayName>HOLLYMEAD 4.3 WNW, VA US</displayName>
+    <minDate>2005-10-25</minDate>
+    <maxDate>2009-09-04</maxDate>
+    <latitude>38.1391</latitude>
+    <longitude>-78.5148</longitude>
+    <elevation>168.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9249</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJC0003</id>
+    <displayName>HOLLYTREE 0.6 NNE, AL US</displayName>
+    <minDate>2007-10-22</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>34.8057</latitude>
+    <longitude>-86.2483</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBW0001</id>
+    <displayName>HOLLYWOOD 1.1 WNW, FL US</displayName>
+    <minDate>2012-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.0367</latitude>
+    <longitude>-80.1805</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDSM0002</id>
+    <displayName>HOLLYWOOD 1.5 NW, MD US</displayName>
+    <minDate>2005-10-17</minDate>
+    <maxDate>2010-04-28</maxDate>
+    <latitude>38.362</latitude>
+    <longitude>-76.5871</longitude>
+    <elevation>48.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8761</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDSM0013</id>
+    <displayName>HOLLYWOOD 3.5 E, MD US</displayName>
+    <minDate>2010-07-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3498</latitude>
+    <longitude>-76.5059</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9357</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00092809</id>
+    <displayName>HOLLYWOOD NORTH PERRY AIRPORT, FL US</displayName>
+    <minDate>1999-04-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>25.99889</latitude>
+    <longitude>-80.24111</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR070</id>
+    <displayName>HOLLYWOOD PARK 1.6 N, TX US</displayName>
+    <minDate>2007-10-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.622</latitude>
+    <longitude>-98.4797</longitude>
+    <elevation>314.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8452</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR048</id>
+    <displayName>HOLLYWOOD PARK 1.7 ESE, TX US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5903</latitude>
+    <longitude>-98.4579</longitude>
+    <elevation>269.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR021</id>
+    <displayName>HOLLYWOOD PARK 1.8 N, TX US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.6249</latitude>
+    <longitude>-98.4879</longitude>
+    <elevation>320.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1868</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR060</id>
+    <displayName>HOLLYWOOD PARK 1.9 SE, TX US</displayName>
+    <minDate>2007-10-06</minDate>
+    <maxDate>2008-12-17</maxDate>
+    <latitude>29.5818</latitude>
+    <longitude>-98.4596</longitude>
+    <elevation>248.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR009</id>
+    <displayName>HOLLYWOOD PARK 2.6 N, TX US</displayName>
+    <minDate>2007-02-23</minDate>
+    <maxDate>2011-01-15</maxDate>
+    <latitude>29.6365</latitude>
+    <longitude>-98.48</longitude>
+    <elevation>334.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6535</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR024</id>
+    <displayName>HOLLYWOOD PARK 3.1 NE, TX US</displayName>
+    <minDate>2007-07-27</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.6292</latitude>
+    <longitude>-98.4463</longitude>
+    <elevation>302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1038</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR058</id>
+    <displayName>HOLLYWOOD PARK 3.3 ENE, TX US</displayName>
+    <minDate>2007-10-20</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.609</latitude>
+    <longitude>-98.4313</longitude>
+    <elevation>278.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9707</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR066</id>
+    <displayName>HOLLYWOOD PARK 3.6 ESE, TX US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2011-12-22</maxDate>
+    <latitude>29.587</latitude>
+    <longitude>-98.4257</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR155</id>
+    <displayName>HOLLYWOOD PARK 4.2 WNW, TX US</displayName>
+    <minDate>2009-09-24</minDate>
+    <maxDate>2011-06-01</maxDate>
+    <latitude>29.6153</latitude>
+    <longitude>-98.5529</longitude>
+    <elevation>324.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR168</id>
+    <displayName>HOLLYWOOD PARK 4.3 ENE, TX US</displayName>
+    <minDate>2010-05-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.6201</latitude>
+    <longitude>-98.4169</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR032</id>
+    <displayName>HOLLYWOOD PARK 4.4 E, TX US</displayName>
+    <minDate>2007-08-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5898</latitude>
+    <longitude>-98.4119</longitude>
+    <elevation>270.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR008</id>
+    <displayName>HOLLYWOOD PARK 4.7 E, TX US</displayName>
+    <minDate>2007-02-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5925</latitude>
+    <longitude>-98.4071</longitude>
+    <elevation>285.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR065</id>
+    <displayName>HOLLYWOOD PARK 5.2 NE, TX US</displayName>
+    <minDate>2007-10-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6474</latitude>
+    <longitude>-98.4178</longitude>
+    <elevation>314.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8793</coverage>
+  </station>
+</stationCollection>

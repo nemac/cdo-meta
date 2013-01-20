@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="142">
+  <station>
+    <id>GHCND:USC00352876</id>
+    <displayName>FIELDS, OR US</displayName>
+    <minDate>1973-05-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>42.2643</latitude>
+    <longitude>-118.6759</longitude>
+    <elevation>1288.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4634</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202783</id>
+    <displayName>FIFE LAKE 2 WNW, MI US</displayName>
+    <minDate>2012-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.5848</latitude>
+    <longitude>-85.3653</longitude>
+    <elevation>320.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202788</id>
+    <displayName>FIFE LAKE 3 WSW, MI US</displayName>
+    <minDate>2002-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.565</latitude>
+    <longitude>-85.4133</longitude>
+    <elevation>338.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9381</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202782</id>
+    <displayName>FIFE LAKE 4 S, MI US</displayName>
+    <minDate>1974-11-01</minDate>
+    <maxDate>1978-06-30</maxDate>
+    <latitude>44.51667</latitude>
+    <longitude>-85.35</longitude>
+    <elevation>302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8117</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202784</id>
+    <displayName>FIFE LAKE 4 SW, MI US</displayName>
+    <minDate>1919-02-01</minDate>
+    <maxDate>1983-12-31</maxDate>
+    <latitude>44.55</latitude>
+    <longitude>-85.41667</longitude>
+    <elevation>328.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9141</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352882</id>
+    <displayName>FIFE, OR US</displayName>
+    <minDate>1892-03-01</minDate>
+    <maxDate>1898-04-30</maxDate>
+    <latitude>43.716667</latitude>
+    <longitude>-119.95</longitude>
+    <elevation>1028.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.718</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413142</id>
+    <displayName>FIFE, TX US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1975-07-31</maxDate>
+    <latitude>31.38333</latitude>
+    <longitude>-99.36667</longitude>
+    <elevation>424</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CFIG</id>
+    <displayName>FIGUEROA CALIFORNIA, CA US</displayName>
+    <minDate>2002-11-21</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.7331</latitude>
+    <longitude>-120.0067</longitude>
+    <elevation>975.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043048</id>
+    <displayName>FIGUEROA MOUNTAIN, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.7344</latitude>
+    <longitude>-120.0069</longitude>
+    <elevation>960.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.92</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDTF0004</id>
+    <displayName>FILER 0.9 W, ID US</displayName>
+    <minDate>2011-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.5686</latitude>
+    <longitude>-114.6275</longitude>
+    <elevation>1149.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202804</id>
+    <displayName>FILION 5 NNW, MI US</displayName>
+    <minDate>1997-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9158</latitude>
+    <longitude>-83.083</longitude>
+    <elevation>193.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8864</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gage013</id>
+    <displayName>FILLEY 0.4 NNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.2911</latitude>
+    <longitude>-96.5367</longitude>
+    <elevation>430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAVT0013</id>
+    <displayName>FILLMORE 0.6 N, CA US</displayName>
+    <minDate>2012-01-21</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.4084</latitude>
+    <longitude>-118.9172</longitude>
+    <elevation>154.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7361</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043050</id>
+    <displayName>FILLMORE 1 WNW, CA US</displayName>
+    <minDate>1959-06-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>34.4</latitude>
+    <longitude>-118.93333</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAVT0010</id>
+    <displayName>FILLMORE 2.1 NNW, CA US</displayName>
+    <minDate>2011-02-15</minDate>
+    <maxDate>2012-01-17</maxDate>
+    <latitude>34.428</latitude>
+    <longitude>-118.9331</longitude>
+    <elevation>162.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7448</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPM0003</id>
+    <displayName>FILLMORE 3.1 NNW, IN US</displayName>
+    <minDate>2007-03-09</minDate>
+    <maxDate>2011-06-06</maxDate>
+    <latitude>39.7142</latitude>
+    <longitude>-86.7687</longitude>
+    <elevation>246</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113055</id>
+    <displayName>FILLMORE, IL US</displayName>
+    <minDate>1971-07-01</minDate>
+    <maxDate>1988-12-30</maxDate>
+    <latitude>39.11667</latitude>
+    <longitude>-89.26667</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2312</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422828</id>
+    <displayName>FILLMORE, UT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9664</latitude>
+    <longitude>-112.3279</longitude>
+    <elevation>1560.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9826</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VABT0002</id>
+    <displayName>FINCASTLE 1.9 NNW, VA US</displayName>
+    <minDate>2010-09-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5258</latitude>
+    <longitude>-79.8832</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00443006</id>
+    <displayName>FINCASTLE 7 NE, VA US</displayName>
+    <minDate>2003-12-01</minDate>
+    <maxDate>2007-09-20</maxDate>
+    <latitude>37.5431</latitude>
+    <longitude>-79.8039</longitude>
+    <elevation>397.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113058</id>
+    <displayName>FINDLAY 2 NW, IL US</displayName>
+    <minDate>2000-03-01</minDate>
+    <maxDate>2006-12-31</maxDate>
+    <latitude>39.5513</latitude>
+    <longitude>-88.8069</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHHC0006</id>
+    <displayName>FINDLAY 3.4 E, OH US</displayName>
+    <minDate>2011-05-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0521</latitude>
+    <longitude>-83.5773</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHHC0002</id>
+    <displayName>FINDLAY 7.2 SSW, OH US</displayName>
+    <minDate>2009-03-07</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>40.9433</latitude>
+    <longitude>-83.67</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014825</id>
+    <displayName>FINDLAY AIRPORT, OH US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.01361</latitude>
+    <longitude>-83.66861</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332791</id>
+    <displayName>FINDLAY WPCC, OH US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.0461</latitude>
+    <longitude>-83.6622</longitude>
+    <elevation>234.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242886</id>
+    <displayName>FINDON, MT US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1942-01-31</maxDate>
+    <latitude>46.61667</latitude>
+    <longitude>-110.35</longitude>
+    <elevation>1495</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OFIN</id>
+    <displayName>FINELY NWR OREGON, OR US</displayName>
+    <minDate>2002-06-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.4183</latitude>
+    <longitude>-123.3253</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9286</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMN0003</id>
+    <displayName>FINGER 4.1 ENE, TN US</displayName>
+    <minDate>2007-11-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3782</latitude>
+    <longitude>-88.549</longitude>
+    <elevation>154.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00463024</id>
+    <displayName>FINK RUN, WV US</displayName>
+    <minDate>1946-05-01</minDate>
+    <maxDate>1954-11-30</maxDate>
+    <latitude>39</latitude>
+    <longitude>-80.26667</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413148</id>
+    <displayName>FINLAY NUMBER 1 NEAR, TX US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1932-08-31</maxDate>
+    <latitude>31.233333</latitude>
+    <longitude>-105.616667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043056</id>
+    <displayName>FINLEY 1 SSE, CA US</displayName>
+    <minDate>1958-01-01</minDate>
+    <maxDate>1963-12-31</maxDate>
+    <latitude>38.96667</latitude>
+    <longitude>-122.86667</longitude>
+    <elevation>419.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7216</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043057</id>
+    <displayName>FINLEY 5 SW, CA US</displayName>
+    <minDate>1957-11-01</minDate>
+    <maxDate>1963-12-31</maxDate>
+    <latitude>38.96667</latitude>
+    <longitude>-122.95</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043055</id>
+    <displayName>FINLEY, CA US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1957-03-31</maxDate>
+    <latitude>39.01667</latitude>
+    <longitude>-122.86667</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403125</id>
+    <displayName>FINLEY, TN US</displayName>
+    <minDate>1941-06-20</minDate>
+    <maxDate>1944-01-31</maxDate>
+    <latitude>36.033333</latitude>
+    <longitude>-89.483333</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9728</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WFIN</id>
+    <displayName>FINNEY CREEK WASHINGTON, WA US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.4028</latitude>
+    <longitude>-121.7903</longitude>
+    <elevation>579.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352900</id>
+    <displayName>FIR GLEN, OR US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1917-07-31</maxDate>
+    <latitude>43.083333</latitude>
+    <longitude>-123.65</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0441</id>
+    <displayName>FIRE STATION 12, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.6175</latitude>
+    <longitude>-105.0711</longitude>
+    <elevation>1539.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0415</id>
+    <displayName>FIRE STATION 2, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.5831</latitude>
+    <longitude>-105.1072</longitude>
+    <elevation>1541.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0440</id>
+    <displayName>FIRE STATION 6, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.5853</latitude>
+    <longitude>-105.0297</longitude>
+    <elevation>1505.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4471</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0443</id>
+    <displayName>FIRE STATION 7, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.6275</latitude>
+    <longitude>-105.1369</longitude>
+    <elevation>1545</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WFTA</id>
+    <displayName>FIRE TRAINING ACADEMY WASHINGT, WA US</displayName>
+    <minDate>2001-07-19</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.4536</latitude>
+    <longitude>-121.6658</longitude>
+    <elevation>478.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8146</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WFIR</id>
+    <displayName>FIRST BUTTE WASHINGTON, WA US</displayName>
+    <minDate>1985-06-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.6172</latitude>
+    <longitude>-120.1075</longitude>
+    <elevation>1676.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8473</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00272999</id>
+    <displayName>FIRST CONNECTICUT LAKE, NH US</displayName>
+    <minDate>1918-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.0875</latitude>
+    <longitude>-71.2873</longitude>
+    <elevation>506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9333</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00252935</id>
+    <displayName>FIRTH, NE US</displayName>
+    <minDate>1921-07-01</minDate>
+    <maxDate>2000-10-31</maxDate>
+    <latitude>40.535</latitude>
+    <longitude>-96.60806</longitude>
+    <elevation>408.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413156</id>
+    <displayName>FISCHERS STORE, TX US</displayName>
+    <minDate>1887-04-10</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.9756</latitude>
+    <longitude>-98.2647</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8717</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043069</id>
+    <displayName>FISH CAMP, CA US</displayName>
+    <minDate>1971-05-10</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>37.48333</latitude>
+    <longitude>-119.63333</longitude>
+    <elevation>1562.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CFIS</id>
+    <displayName>FISH CREEK MOUNTAIN CALIFORNIA, CA US</displayName>
+    <minDate>1988-03-05</minDate>
+    <maxDate>2012-07-15</maxDate>
+    <latitude>32.9903</latitude>
+    <longitude>-116.0669</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262860</id>
+    <displayName>FISH CREEK RANCH, NV US</displayName>
+    <minDate>1943-05-15</minDate>
+    <maxDate>1964-12-31</maxDate>
+    <latitude>39.26667</latitude>
+    <longitude>-116</longitude>
+    <elevation>1845</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242950</id>
+    <displayName>FISH CREEK, MT US</displayName>
+    <minDate>1909-08-01</minDate>
+    <maxDate>1913-01-31</maxDate>
+    <latitude>45.8</latitude>
+    <longitude>-112.333333</longitude>
+    <elevation>1726.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0018G02S</id>
+    <displayName>FISH CREEK, OR US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-118.6333</longitude>
+    <elevation>2407.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9068</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OFIS</id>
+    <displayName>FISH FIN RIM OREGON, OR US</displayName>
+    <minDate>1986-10-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.4722</latitude>
+    <longitude>-119.1783</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9637</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IFIS</id>
+    <displayName>FISH HOOK IDAHO, ID US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.1292</latitude>
+    <longitude>-115.875</longitude>
+    <elevation>1432.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422847</id>
+    <displayName>FISH LAKE RANGER STATION, UT US</displayName>
+    <minDate>1909-11-01</minDate>
+    <maxDate>1951-10-26</maxDate>
+    <latitude>38.5516</latitude>
+    <longitude>-111.7227</longitude>
+    <elevation>2706.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0689</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103225</id>
+    <displayName>FISH LAKE, ID US</displayName>
+    <minDate>1915-08-01</minDate>
+    <maxDate>1924-08-31</maxDate>
+    <latitude>46.816667</latitude>
+    <longitude>-115.9</longitude>
+    <elevation>1805.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352928</id>
+    <displayName>FISH LAKE, OR US</displayName>
+    <minDate>1918-06-01</minDate>
+    <maxDate>1956-11-29</maxDate>
+    <latitude>42.38333</latitude>
+    <longitude>-122.35</longitude>
+    <elevation>1414.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9121</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021B04S</id>
+    <displayName>FISH LAKE, WA US</displayName>
+    <minDate>1982-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.5167</latitude>
+    <longitude>-121.0667</longitude>
+    <elevation>1027.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9019</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0022G14S</id>
+    <displayName>FISH LK., OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.3833</latitude>
+    <longitude>-122.4167</longitude>
+    <elevation>1421.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9005</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CFSL</id>
+    <displayName>FISH SLOUGH CALIFORNIA, CA US</displayName>
+    <minDate>1999-04-30</minDate>
+    <maxDate>2005-03-16</maxDate>
+    <latitude>37.4783</latitude>
+    <longitude>-118.4078</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NFIS</id>
+    <displayName>FISH SPRINGS NEVADA, NV US</displayName>
+    <minDate>1986-07-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.9361</latitude>
+    <longitude>-119.6519</longitude>
+    <elevation>1560.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422852</id>
+    <displayName>FISH SPRINGS NWR, UT US</displayName>
+    <minDate>1960-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8401</latitude>
+    <longitude>-113.3978</longitude>
+    <elevation>1328</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422851</id>
+    <displayName>FISH SPRINGS, UT US</displayName>
+    <minDate>1899-10-10</minDate>
+    <maxDate>1901-09-30</maxDate>
+    <latitude>39.866667</latitude>
+    <longitude>-113.45</longitude>
+    <elevation>1910.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7559</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCP0024</id>
+    <displayName>FISHER 3.0 SSE, IL US</displayName>
+    <minDate>2007-08-10</minDate>
+    <maxDate>2008-03-19</maxDate>
+    <latitude>40.2759</latitude>
+    <longitude>-88.3268</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009D06S</id>
+    <displayName>FISHER CREEK, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.0667</latitude>
+    <longitude>-109.95</longitude>
+    <elevation>2773.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9064</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113061</id>
+    <displayName>FISHER, IL US</displayName>
+    <minDate>1997-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3175</latitude>
+    <longitude>-88.3504</longitude>
+    <elevation>208.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0048</id>
+    <displayName>FISHERS 1.1 N, IN US</displayName>
+    <minDate>2011-04-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.9698</latitude>
+    <longitude>-86.0276</longitude>
+    <elevation>243.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0031</id>
+    <displayName>FISHERS 1.2 SE, IN US</displayName>
+    <minDate>2009-02-16</minDate>
+    <maxDate>2010-07-04</maxDate>
+    <latitude>39.9403</latitude>
+    <longitude>-86.009</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8274</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0032</id>
+    <displayName>FISHERS 1.7 W, IN US</displayName>
+    <minDate>2009-02-23</minDate>
+    <maxDate>2010-02-05</maxDate>
+    <latitude>39.9526</latitude>
+    <longitude>-86.0554</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7902</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122882</id>
+    <displayName>FISHERS 2 N, IN US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2003-08-31</maxDate>
+    <latitude>39.98444</latitude>
+    <longitude>-86.02028</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0041</id>
+    <displayName>FISHERS 2.8 E, IN US</displayName>
+    <minDate>2011-05-17</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>39.9594</latitude>
+    <longitude>-85.9711</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302829</id>
+    <displayName>FISHS EDDY, NY US</displayName>
+    <minDate>1953-04-08</minDate>
+    <maxDate>2007-05-17</maxDate>
+    <latitude>41.96667</latitude>
+    <longitude>-75.18333</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.849</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242999</id>
+    <displayName>FISHTAIL CREEK, MT US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1910-08-31</maxDate>
+    <latitude>45.366667</latitude>
+    <longitude>-109.666667</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MFIS</id>
+    <displayName>FISHTAIL MONTANA, MT US</displayName>
+    <minDate>1992-10-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.4581</latitude>
+    <longitude>-109.5714</longitude>
+    <elevation>1386.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9212</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242996</id>
+    <displayName>FISHTAIL, MT US</displayName>
+    <minDate>1951-08-28</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.4533</latitude>
+    <longitude>-109.5072</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00152825</id>
+    <displayName>FISHTRAP LAKE, KY US</displayName>
+    <minDate>1969-07-01</minDate>
+    <maxDate>2012-12-10</maxDate>
+    <latitude>37.4333</latitude>
+    <longitude>-82.4167</longitude>
+    <elevation>218.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232881</id>
+    <displayName>FISK, MO US</displayName>
+    <minDate>1930-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.78278</latitude>
+    <longitude>-90.20333</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192770</id>
+    <displayName>FISKDALE, MA US</displayName>
+    <minDate>1887-10-01</minDate>
+    <maxDate>1900-10-31</maxDate>
+    <latitude>42.083333</latitude>
+    <longitude>-72.15</longitude>
+    <elevation>350.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MAWR0008</id>
+    <displayName>FITCHBURG 1.6 SSW, MA US</displayName>
+    <minDate>2010-10-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.5667</latitude>
+    <longitude>-71.8217</longitude>
+    <elevation>217.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192806</id>
+    <displayName>FITCHBURG 4 SE, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1978-12-31</maxDate>
+    <latitude>42.55</latitude>
+    <longitude>-71.75</longitude>
+    <elevation>100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192810</id>
+    <displayName>FITCHBURG A, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1915-01-31</maxDate>
+    <latitude>42.6</latitude>
+    <longitude>-72.833333</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9045</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192812</id>
+    <displayName>FITCHBURG C, MA US</displayName>
+    <minDate>1897-04-06</minDate>
+    <maxDate>1901-12-31</maxDate>
+    <latitude>42.566667</latitude>
+    <longitude>-71.8</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.93</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004780</id>
+    <displayName>FITCHBURG MUNICIPAL AIRPORT, MA US</displayName>
+    <minDate>1997-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.55194</latitude>
+    <longitude>-71.75583</longitude>
+    <elevation>106.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202833</id>
+    <displayName>FITCHBURG, MI US</displayName>
+    <minDate>1891-11-01</minDate>
+    <maxDate>1905-10-31</maxDate>
+    <latitude>42.466667</latitude>
+    <longitude>-84.283333</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343145</id>
+    <displayName>FITTSTOWN 6 SW MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>34.55194</latitude>
+    <longitude>-96.71778</longitude>
+    <elevation>349.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00093386</id>
+    <displayName>FITZGERALD, GA US</displayName>
+    <minDate>1898-03-01</minDate>
+    <maxDate>2006-03-15</maxDate>
+    <latitude>31.71083</latitude>
+    <longitude>-83.25167</longitude>
+    <elevation>112.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273024</id>
+    <displayName>FITZWILLIAM 2 W, NH US</displayName>
+    <minDate>1930-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7798</latitude>
+    <longitude>-72.1788</longitude>
+    <elevation>362.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9027</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273029</id>
+    <displayName>FITZWILLIAM, NH US</displayName>
+    <minDate>1941-10-01</minDate>
+    <maxDate>1949-07-31</maxDate>
+    <latitude>42.78333</latitude>
+    <longitude>-72.15</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8179</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0013</id>
+    <displayName>FIVE FORKS 1.0 W, SC US</displayName>
+    <minDate>2008-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8076</latitude>
+    <longitude>-82.2381</longitude>
+    <elevation>266.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CFIV</id>
+    <displayName>FIVE MILE CALIFORNIA, CA US</displayName>
+    <minDate>1998-06-04</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.8717</latitude>
+    <longitude>-117.9183</longitude>
+    <elevation>1264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9541</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000FIVE</id>
+    <displayName>FIVE MILE DUCHESNE 18 SSE UTA, UT US</displayName>
+    <minDate>1991-06-24</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.8811</latitude>
+    <longitude>-110.2658</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9656</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503082</id>
+    <displayName>FIVE MILE, AK US</displayName>
+    <minDate>1970-09-01</minDate>
+    <maxDate>1980-08-31</maxDate>
+    <latitude>65.93333</latitude>
+    <longitude>-149.83333</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.66</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043083</id>
+    <displayName>FIVE POINTS 5 SSW, CA US</displayName>
+    <minDate>1942-12-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>36.3642</latitude>
+    <longitude>-120.1561</longitude>
+    <elevation>86.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010J26S</id>
+    <displayName>FIVE POINTS LAKE, UT US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.7167</latitude>
+    <longitude>-110.4667</longitude>
+    <elevation>3328.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503083</id>
+    <displayName>FLAG HILL, AK US</displayName>
+    <minDate>1996-08-01</minDate>
+    <maxDate>1997-12-31</maxDate>
+    <latitude>64.40778</latitude>
+    <longitude>-146.94861</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7297</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0085</id>
+    <displayName>FLAGLER .06 WNW, CO US</displayName>
+    <minDate>2003-04-23</minDate>
+    <maxDate>2011-03-18</maxDate>
+    <latitude>39.2927</latitude>
+    <longitude>-103.0677</longitude>
+    <elevation>1513</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4479</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0106</id>
+    <displayName>FLAGLER .7 SE, CO US</displayName>
+    <minDate>2003-06-02</minDate>
+    <maxDate>2010-08-17</maxDate>
+    <latitude>39.2845</latitude>
+    <longitude>-103.0576</longitude>
+    <elevation>1496.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0607</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0017</id>
+    <displayName>FLAGLER 0.25 SE, CO US</displayName>
+    <minDate>2000-05-02</minDate>
+    <maxDate>2012-05-26</maxDate>
+    <latitude>39.2921</latitude>
+    <longitude>-103.0631</longitude>
+    <elevation>1506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052932</id>
+    <displayName>FLAGLER 1 S, CO US</displayName>
+    <minDate>1919-06-01</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>39.2814</latitude>
+    <longitude>-103.0614</longitude>
+    <elevation>1499.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7586</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052933</id>
+    <displayName>FLAGLER 16 NNW, CO US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2007-03-01</maxDate>
+    <latitude>39.5211</latitude>
+    <longitude>-103.133</longitude>
+    <elevation>1485.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0112</id>
+    <displayName>FLAGLER 4.5 E, CO US</displayName>
+    <minDate>2005-02-22</minDate>
+    <maxDate>2012-10-01</maxDate>
+    <latitude>39.3017</latitude>
+    <longitude>-102.9836</longitude>
+    <elevation>1425.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0075</id>
+    <displayName>FLAGLER 5 NNE, CO US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>39.3603</latitude>
+    <longitude>-103.0404</longitude>
+    <elevation>1481</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+</stationCollection>

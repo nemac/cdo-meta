@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="342">
+  <station>
+    <id>GHCND:USC00027081</id>
+    <displayName>PUNKIN CENTER, AZ US</displayName>
+    <minDate>1915-11-09</minDate>
+    <maxDate>1973-04-30</maxDate>
+    <latitude>33.8555</latitude>
+    <longitude>-111.3063</longitude>
+    <elevation>708.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026840</id>
+    <displayName>PUNKIN CENTER, AZ US</displayName>
+    <minDate>1973-07-01</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>33.8555</latitude>
+    <longitude>-111.3063</longitude>
+    <elevation>708.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.94</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCH0002</id>
+    <displayName>PUNTA GORDA 1.0 NNW, FL US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2009-12-15</maxDate>
+    <latitude>26.9098</latitude>
+    <longitude>-82.0654</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCH0017</id>
+    <displayName>PUNTA GORDA 1.6 NNW, FL US</displayName>
+    <minDate>2009-05-22</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>26.9197</latitude>
+    <longitude>-82.0653</longitude>
+    <elevation>0.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00087397</id>
+    <displayName>PUNTA GORDA 4 ESE, FL US</displayName>
+    <minDate>1965-11-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>26.9164</latitude>
+    <longitude>-81.9983</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCH0011</id>
+    <displayName>PUNTA GORDA 8.3 NNE, FL US</displayName>
+    <minDate>2008-08-19</minDate>
+    <maxDate>2012-09-19</maxDate>
+    <latitude>27.0119</latitude>
+    <longitude>-82.0399</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCH0003</id>
+    <displayName>PUNTA GORDA 9.6 S, FL US</displayName>
+    <minDate>2007-10-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.758</latitude>
+    <longitude>-82.0565</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012812</id>
+    <displayName>PUNTA GORDA CHARLOTTE CO AIRPORT, FL US</displayName>
+    <minDate>1996-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>26.91722</latitude>
+    <longitude>-81.99139</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00087395</id>
+    <displayName>PUNTA GORDA, FL US</displayName>
+    <minDate>1914-05-01</minDate>
+    <maxDate>1965-10-31</maxDate>
+    <latitude>26.93333</latitude>
+    <longitude>-82.05</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00507783</id>
+    <displayName>PUNTILLA, AK US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>62.0911</latitude>
+    <longitude>-152.7349</longitude>
+    <elevation>566.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367222</id>
+    <displayName>PUNXSUTAWNEY 2, PA US</displayName>
+    <minDate>1948-05-02</minDate>
+    <maxDate>1949-08-31</maxDate>
+    <latitude>40.93333</latitude>
+    <longitude>-78.96667</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367217</id>
+    <displayName>PUNXSUTAWNEY, PA US</displayName>
+    <minDate>1913-06-07</minDate>
+    <maxDate>1952-09-30</maxDate>
+    <latitude>40.95</latitude>
+    <longitude>-79</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518336</id>
+    <displayName>PUOHOKAMOA 2 343, HI US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>2011-05-30</maxDate>
+    <latitude>20.82556</latitude>
+    <longitude>-156.21278</longitude>
+    <elevation>908.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.651</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518340</id>
+    <displayName>PUPUKEA, HI US</displayName>
+    <minDate>1906-02-01</minDate>
+    <maxDate>1924-07-31</maxDate>
+    <latitude>21.65</latitude>
+    <longitude>-158.05</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8468</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347327</id>
+    <displayName>PURCELL 2 SW, OK US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2010-02-28</maxDate>
+    <latitude>34.98583</latitude>
+    <longitude>-97.38417</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKMC0005</id>
+    <displayName>PURCELL 6.7 W, OK US</displayName>
+    <minDate>2008-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0131</latitude>
+    <longitude>-97.4898</longitude>
+    <elevation>354.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0292</id>
+    <displayName>PURCELL 9.0 NNE, CO US</displayName>
+    <minDate>2007-03-24</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.7528</latitude>
+    <longitude>-104.5244</longitude>
+    <elevation>1596.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1361</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOLN0005</id>
+    <displayName>PURDIN 6.4 E, MO US</displayName>
+    <minDate>2008-09-11</minDate>
+    <maxDate>2009-11-25</maxDate>
+    <latitude>39.957</latitude>
+    <longitude>-93.0471</longitude>
+    <elevation>272.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256970</id>
+    <displayName>PURDUM, NE US</displayName>
+    <minDate>1902-03-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.065</latitude>
+    <longitude>-100.2472</longitude>
+    <elevation>819.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9531</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBY0005</id>
+    <displayName>PURDY 4.8 SSW, MO US</displayName>
+    <minDate>2006-12-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.75</latitude>
+    <longitude>-93.94</longitude>
+    <elevation>441</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWL0010</id>
+    <displayName>PURLEAR 4.6 WNW, NC US</displayName>
+    <minDate>2012-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2132</latitude>
+    <longitude>-81.3574</longitude>
+    <elevation>420</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227220</id>
+    <displayName>PURVIS 2 N, MS US</displayName>
+    <minDate>1940-04-09</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.1775</latitude>
+    <longitude>-89.4155</longitude>
+    <elevation>115.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016719</id>
+    <displayName>PUSHMATAHA, AL US</displayName>
+    <minDate>1891-11-01</minDate>
+    <maxDate>1964-12-31</maxDate>
+    <latitude>32.2</latitude>
+    <longitude>-88.35</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHOT0004</id>
+    <displayName>PUT IN BAY 1.1 SSW, OH US</displayName>
+    <minDate>2012-07-15</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.639</latitude>
+    <longitude>-82.8248</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9563</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333144</id>
+    <displayName>PUT IN BAY, OH US</displayName>
+    <minDate>1953-12-01</minDate>
+    <maxDate>1959-07-31</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-82.8</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9512</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336882</id>
+    <displayName>PUT IN BAY, OH US</displayName>
+    <minDate>1916-04-26</minDate>
+    <maxDate>1997-08-31</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-82.8</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9146</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347343</id>
+    <displayName>PUTNAM 3 N MEOSNET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.89889</latitude>
+    <longitude>-98.96028</longitude>
+    <elevation>588.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9378</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00066650</id>
+    <displayName>PUTNAM HEIGHTS, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-71.86667</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00066655</id>
+    <displayName>PUTNAM LAKE, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>41.0825</latitude>
+    <longitude>-73.6386</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8374</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00066645</id>
+    <displayName>PUTNAM, CT US</displayName>
+    <minDate>1934-09-01</minDate>
+    <maxDate>1962-11-30</maxDate>
+    <latitude>41.91667</latitude>
+    <longitude>-71.91667</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9453</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097240</id>
+    <displayName>PUTNAM, GA US</displayName>
+    <minDate>1898-12-01</minDate>
+    <maxDate>1917-11-30</maxDate>
+    <latitude>32.266667</latitude>
+    <longitude>-84.416667</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8857</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146601</id>
+    <displayName>PUTNAM, KS US</displayName>
+    <minDate>1944-07-01</minDate>
+    <maxDate>1948-12-24</maxDate>
+    <latitude>37.96667</latitude>
+    <longitude>-97.38333</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6093</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347340</id>
+    <displayName>PUTNAM, OK US</displayName>
+    <minDate>1897-02-01</minDate>
+    <maxDate>1899-07-31</maxDate>
+    <latitude>35.85</latitude>
+    <longitude>-98.966667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417327</id>
+    <displayName>PUTNAM, TX US</displayName>
+    <minDate>1911-03-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3663</latitude>
+    <longitude>-99.1925</longitude>
+    <elevation>496.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127169</id>
+    <displayName>PUTNAMVILLE 1 W, IN US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.56667</latitude>
+    <longitude>-86.86667</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWH0012</id>
+    <displayName>PUTNEY 2.0 WNW, VT US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0033</latitude>
+    <longitude>-72.5334</longitude>
+    <elevation>168.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9262</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADH0005</id>
+    <displayName>PUTNEY 6.8 ESE, GA US</displayName>
+    <minDate>2008-10-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>31.4539</latitude>
+    <longitude>-83.9983</longitude>
+    <elevation>84.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9612</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367229</id>
+    <displayName>PUTNEYVILLE 2 SE DAM, PA US</displayName>
+    <minDate>1943-07-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9248</latitude>
+    <longitude>-79.2802</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518346</id>
+    <displayName>PUU ANAHULU 93A, HI US</displayName>
+    <minDate>1950-01-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>19.81667</latitude>
+    <longitude>-155.85</longitude>
+    <elevation>655.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518383</id>
+    <displayName>PUU KAPU 192.1, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1967-05-31</maxDate>
+    <latitude>20.03333</latitude>
+    <longitude>-155.63333</longitude>
+    <elevation>869</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5285</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518385</id>
+    <displayName>PUU KAPU RES 3, HI US</displayName>
+    <minDate>1923-05-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>20.06667</latitude>
+    <longitude>-155.56667</longitude>
+    <elevation>860.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2363</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518393</id>
+    <displayName>PUU KIHE 120, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1976-01-29</maxDate>
+    <latitude>19.9</latitude>
+    <longitude>-155.4</longitude>
+    <elevation>2364</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6532</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518433</id>
+    <displayName>PUU KUKUI 380, HI US</displayName>
+    <minDate>1985-02-01</minDate>
+    <maxDate>2011-06-30</maxDate>
+    <latitude>20.895</latitude>
+    <longitude>-156.58972</longitude>
+    <elevation>1764.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00514887</id>
+    <displayName>PUU KUKUI 380, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1984-12-31</maxDate>
+    <latitude>20.895</latitude>
+    <longitude>-156.58972</longitude>
+    <elevation>1764.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2104</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518444</id>
+    <displayName>PUU KUKUI MAKAI 472, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1972-02-29</maxDate>
+    <latitude>20.91667</latitude>
+    <longitude>-156.63333</longitude>
+    <elevation>762.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518452</id>
+    <displayName>PUU LAAU 102.1, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1976-11-30</maxDate>
+    <latitude>19.83333</latitude>
+    <longitude>-155.6</longitude>
+    <elevation>2268.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6728</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518460</id>
+    <displayName>PUU LEHUA 73, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1986-11-30</maxDate>
+    <latitude>19.56667</latitude>
+    <longitude>-155.81667</longitude>
+    <elevation>1487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518515</id>
+    <displayName>PUU MALI 113, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1976-01-30</maxDate>
+    <latitude>19.91667</latitude>
+    <longitude>-155.43333</longitude>
+    <elevation>2122.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6566</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518500</id>
+    <displayName>PUU MANAWAHUA 725.6, HI US</displayName>
+    <minDate>1977-01-01</minDate>
+    <maxDate>2005-05-31</maxDate>
+    <latitude>21.38139</latitude>
+    <longitude>-158.11972</longitude>
+    <elevation>509.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518549</id>
+    <displayName>PUU O HOKU RANCH 542.1, HI US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>21.1451</latitude>
+    <longitude>-156.7328</longitude>
+    <elevation>202.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4377</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518550</id>
+    <displayName>PUU OO 82, HI US</displayName>
+    <minDate>1912-01-01</minDate>
+    <maxDate>1975-01-31</maxDate>
+    <latitude>19.73333</latitude>
+    <longitude>-155.38333</longitude>
+    <elevation>1934</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1418</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518553</id>
+    <displayName>PUU PAKI 352, HI US</displayName>
+    <minDate>1971-12-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>20.77361</latitude>
+    <longitude>-156.05667</longitude>
+    <elevation>658.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3283</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518555</id>
+    <displayName>PUU WAAWAA 94.1, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1978-04-30</maxDate>
+    <latitude>19.7783</latitude>
+    <longitude>-155.8432</longitude>
+    <elevation>768.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HPUW</id>
+    <displayName>PUU WAAWAA HAWAII, HI US</displayName>
+    <minDate>2003-04-15</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>19.795</latitude>
+    <longitude>-155.8453</longitude>
+    <elevation>709</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518352</id>
+    <displayName>PUUHI 940, HI US</displayName>
+    <minDate>1944-07-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>21.88333</latitude>
+    <longitude>-159.43333</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510344</id>
+    <displayName>PUUHONUA O HONA 27.4, HI US</displayName>
+    <minDate>1970-11-01</minDate>
+    <maxDate>1979-03-31</maxDate>
+    <latitude>19.4184</latitude>
+    <longitude>-155.9112</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518552</id>
+    <displayName>PUUHONUA O HONA 27.4, HI US</displayName>
+    <minDate>1979-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>19.4184</latitude>
+    <longitude>-155.9112</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9378</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518384</id>
+    <displayName>PUUKAPU 204.3, HI US</displayName>
+    <minDate>1995-04-01</minDate>
+    <maxDate>1997-05-31</maxDate>
+    <latitude>19.98333</latitude>
+    <longitude>-155.6</longitude>
+    <elevation>987.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518386</id>
+    <displayName>PUUKAPU HOMESTEAD 192.9, HI US</displayName>
+    <minDate>2004-06-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>20.0405</latitude>
+    <longitude>-155.637</longitude>
+    <elevation>926.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518422</id>
+    <displayName>PUUKOHOLA HEIAU 98.1, HI US</displayName>
+    <minDate>1977-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>20.0256</latitude>
+    <longitude>-155.822</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518398</id>
+    <displayName>PUUKOLII 457, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>20.91667</latitude>
+    <longitude>-156.68333</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518407</id>
+    <displayName>PUUKOLII 457.1, HI US</displayName>
+    <minDate>1986-06-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>20.9285</latitude>
+    <longitude>-156.6735</longitude>
+    <elevation>128.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9295</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518543</id>
+    <displayName>PUUNENE 396, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>20.8571</latitude>
+    <longitude>-156.4313</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9861</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022525</id>
+    <displayName>PUUNENE CAA AIRPORT, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1958-12-16</maxDate>
+    <latitude>20.83333</latitude>
+    <longitude>-156.46667</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518548</id>
+    <displayName>PUUOKUMAU 167, HI US</displayName>
+    <minDate>1942-07-01</minDate>
+    <maxDate>1971-03-31</maxDate>
+    <latitude>20.2</latitude>
+    <longitude>-155.83333</longitude>
+    <elevation>548.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518559</id>
+    <displayName>PUUOMALEI, HI US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1934-12-31</maxDate>
+    <latitude>20.86667</latitude>
+    <longitude>-156.3</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236934</id>
+    <displayName>PUXICO 1 SE, MO US</displayName>
+    <minDate>1944-06-29</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>36.93333</latitude>
+    <longitude>-90.15</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8625</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0019</id>
+    <displayName>PUYALLUP 1.1 NNW, WA US</displayName>
+    <minDate>2008-07-03</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>47.1954</latitude>
+    <longitude>-122.2955</longitude>
+    <elevation>14.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7011</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456803</id>
+    <displayName>PUYALLUP 2 W EXPERIMENTAL STATION, WA US</displayName>
+    <minDate>1914-01-01</minDate>
+    <maxDate>1995-07-31</maxDate>
+    <latitude>47.2</latitude>
+    <longitude>-122.33333</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0020</id>
+    <displayName>PUYALLUP 2.1 ESE, WA US</displayName>
+    <minDate>2008-06-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.1683</latitude>
+    <longitude>-122.244</longitude>
+    <elevation>125.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0047</id>
+    <displayName>PUYALLUP 2.1 NW, WA US</displayName>
+    <minDate>2010-08-30</minDate>
+    <maxDate>2011-09-21</maxDate>
+    <latitude>47.1997</latitude>
+    <longitude>-122.32</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4149</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0018</id>
+    <displayName>PUYALLUP 2.8 WNW, WA US</displayName>
+    <minDate>2008-07-03</minDate>
+    <maxDate>2010-12-17</maxDate>
+    <latitude>47.1758</latitude>
+    <longitude>-122.3515</longitude>
+    <elevation>128.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456808</id>
+    <displayName>PUYALLUP 3 W, WA US</displayName>
+    <minDate>1944-01-09</minDate>
+    <maxDate>1949-04-30</maxDate>
+    <latitude>47.2</latitude>
+    <longitude>-122.33333</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035970</id>
+    <displayName>PYATT, AR US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.25</latitude>
+    <longitude>-92.85</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056797</id>
+    <displayName>PYRAMID, CO US</displayName>
+    <minDate>1910-11-15</minDate>
+    <maxDate>2005-06-30</maxDate>
+    <latitude>40.24111</latitude>
+    <longitude>-107.08639</longitude>
+    <elevation>2441.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456824</id>
+    <displayName>PYSHT, WA US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>1944-02-13</maxDate>
+    <latitude>48.2</latitude>
+    <longitude>-124.11667</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2247</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00196699</id>
+    <displayName>QUABBIN INTAKE, MA US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1990-06-30</maxDate>
+    <latitude>42.36667</latitude>
+    <longitude>-72.28333</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417334</id>
+    <displayName>QUAIL NEAR SOIL CONSERVATION SERVICE NUMBER 55, TX US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1942-04-29</maxDate>
+    <latitude>34.916667</latitude>
+    <longitude>-100.516667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OQUA</id>
+    <displayName>QUAIL PRAIRIE LOOKOUT OREGON, OR US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.2167</latitude>
+    <longitude>-124.0333</longitude>
+    <elevation>924.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9116</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00287372</id>
+    <displayName>QUAKERTOWN, NJ US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>1951-06-30</maxDate>
+    <latitude>40.56667</latitude>
+    <longitude>-74.95</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367239</id>
+    <displayName>QUAKERTOWN, PA US</displayName>
+    <minDate>1884-09-01</minDate>
+    <maxDate>1969-09-30</maxDate>
+    <latitude>40.43333</latitude>
+    <longitude>-75.33333</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8439</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487420</id>
+    <displayName>QUAKING ASPEN CREEK, WY US</displayName>
+    <minDate>1922-04-01</minDate>
+    <maxDate>1950-03-31</maxDate>
+    <latitude>43.98333</latitude>
+    <longitude>-109.08333</longitude>
+    <elevation>2272</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9474</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419935</id>
+    <displayName>QUANAH 2 SW, TX US</displayName>
+    <minDate>1978-12-01</minDate>
+    <maxDate>1979-05-31</maxDate>
+    <latitude>34.27611</latitude>
+    <longitude>-99.75778</longitude>
+    <elevation>488.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417336</id>
+    <displayName>QUANAH 2 SW, TX US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2008-12-11</maxDate>
+    <latitude>34.27611</latitude>
+    <longitude>-99.75778</longitude>
+    <elevation>488.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446979</id>
+    <displayName>QUANTICO 1 S, VA US</displayName>
+    <minDate>1896-04-01</minDate>
+    <maxDate>1976-03-31</maxDate>
+    <latitude>38.5</latitude>
+    <longitude>-77.31667</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347358</id>
+    <displayName>QUAPAW, OK US</displayName>
+    <minDate>1943-12-09</minDate>
+    <maxDate>1989-12-31</maxDate>
+    <latitude>36.96667</latitude>
+    <longitude>-94.78333</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALN0008</id>
+    <displayName>QUARRYVILLE 2.8 S, PA US</displayName>
+    <minDate>2009-04-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8546</latitude>
+    <longitude>-76.1597</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9185</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AQTZ</id>
+    <displayName>QUARTZ CREEK ALASKA, AK US</displayName>
+    <minDate>1988-05-18</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>65.4</latitude>
+    <longitude>-164.65</longitude>
+    <elevation>130.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7318</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CQUA</id>
+    <displayName>QUARTZ HILL CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.5992</latitude>
+    <longitude>-122.9336</longitude>
+    <elevation>1287.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9302</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020G06S</id>
+    <displayName>QUARTZ MOUNTAIN, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.2667</latitude>
+    <longitude>-120.7833</longitude>
+    <elevation>1737.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9079</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0017B04S</id>
+    <displayName>QUARTZ PEAK, WA US</displayName>
+    <minDate>1986-06-18</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.8667</latitude>
+    <longitude>-117.0833</longitude>
+    <elevation>1432.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9627</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026865</id>
+    <displayName>QUARTZSITE, AZ US</displayName>
+    <minDate>1908-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.665</latitude>
+    <longitude>-114.2272</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356955</id>
+    <displayName>QUARTZVILLE 10 SW, OR US</displayName>
+    <minDate>1939-01-01</minDate>
+    <maxDate>1962-02-28</maxDate>
+    <latitude>44.48333</latitude>
+    <longitude>-122.5</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABC0002</id>
+    <displayName>QUASQUETON 0.4 WSW, IA US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3944</latitude>
+    <longitude>-91.7637</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297168</id>
+    <displayName>QUAY 2 S, NM US</displayName>
+    <minDate>1923-05-01</minDate>
+    <maxDate>1959-05-31</maxDate>
+    <latitude>34.9</latitude>
+    <longitude>-103.75</longitude>
+    <elevation>1311.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9331</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317035</id>
+    <displayName>QUEBEC, NC US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.18333</latitude>
+    <longitude>-82.9</longitude>
+    <elevation>793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00667843</id>
+    <displayName>QUEBRADILLAS, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>18.47194</latitude>
+    <longitude>-66.93583</longitude>
+    <elevation>113.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0016</id>
+    <displayName>QUEEN CREEK 4.3 E, AZ US</displayName>
+    <minDate>2009-09-28</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.2495</latitude>
+    <longitude>-111.556</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0014</id>
+    <displayName>QUEEN CREEK 4.7 SSE, AZ US</displayName>
+    <minDate>2009-09-07</minDate>
+    <maxDate>2011-03-10</maxDate>
+    <latitude>33.1817</latitude>
+    <longitude>-111.6046</longitude>
+    <elevation>470</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0007</id>
+    <displayName>QUEEN CREEK 5.1 SE, AZ US</displayName>
+    <minDate>2009-09-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.1991</latitude>
+    <longitude>-111.5699</longitude>
+    <elevation>450.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+</stationCollection>

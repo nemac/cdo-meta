@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="195">
+  <station>
+    <id>GHCND:USC00303959</id>
+    <displayName>HONEYMEAD BROOK, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1904-01-31</maxDate>
+    <latitude>41.85</latitude>
+    <longitude>-73.683333</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTBE0005</id>
+    <displayName>HONEYVILLE 0.5 NNE, UT US</displayName>
+    <minDate>2008-09-04</minDate>
+    <maxDate>2009-09-24</maxDate>
+    <latitude>41.6404</latitude>
+    <longitude>-112.078</longitude>
+    <elevation>1319.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303953</id>
+    <displayName>HONK FALLS, NY US</displayName>
+    <minDate>1927-01-01</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>41.75</latitude>
+    <longitude>-74.38333</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511850</id>
+    <displayName>HONOKAA MAUKA, HI US</displayName>
+    <minDate>1905-02-01</minDate>
+    <maxDate>1939-12-31</maxDate>
+    <latitude>20.08333</latitude>
+    <longitude>-155.46667</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511856</id>
+    <displayName>HONOKAA TOWN 215, HI US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>20.0849</latitude>
+    <longitude>-155.4824</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5575</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HHON</id>
+    <displayName>HONOKANAI A HAWAII, HI US</displayName>
+    <minDate>2001-09-28</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>20.5089</latitude>
+    <longitude>-156.6817</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9185</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511864</id>
+    <displayName>HONOKANE 181.1, HI US</displayName>
+    <minDate>1905-11-01</minDate>
+    <maxDate>1975-01-31</maxDate>
+    <latitude>20.15</latitude>
+    <longitude>-155.73333</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8417</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511882</id>
+    <displayName>HONOKOHAU 480, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2011-08-31</maxDate>
+    <latitude>20.965</latitude>
+    <longitude>-156.5913</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7496</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511880</id>
+    <displayName>HONOKOHAU HARB 68.14, HI US</displayName>
+    <minDate>1991-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>19.6787</latitude>
+    <longitude>-156.0214</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511887</id>
+    <displayName>HONOKOHUA 493, HI US</displayName>
+    <minDate>1919-09-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>20.9979</latitude>
+    <longitude>-156.6575</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511892</id>
+    <displayName>HONOKOWAI INTAKE 476, HI US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>20.93333</latitude>
+    <longitude>-156.61667</longitude>
+    <elevation>476.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.566</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511914</id>
+    <displayName>HONOLUA FIELD 49 494, HI US</displayName>
+    <minDate>1907-07-01</minDate>
+    <maxDate>2003-10-31</maxDate>
+    <latitude>21.01444</latitude>
+    <longitude>-156.6375</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1HIHN0009</id>
+    <displayName>HONOLULU 2.2 NW, HI US</displayName>
+    <minDate>2011-06-18</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>21.3361</latitude>
+    <longitude>-157.8325</longitude>
+    <elevation>126.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1HIHN0010</id>
+    <displayName>HONOLULU 2.7 SSE, HI US</displayName>
+    <minDate>2011-06-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.285</latitude>
+    <longitude>-157.7816</longitude>
+    <elevation>112.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8717</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511925</id>
+    <displayName>HONOLULU FIRE STATION 703.1, HI US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>21.32861</latitude>
+    <longitude>-157.92972</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022521</id>
+    <displayName>HONOLULU INTERNATIONAL AIRPORT, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.32389</latitude>
+    <longitude>-157.92944</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511918</id>
+    <displayName>HONOLULU OBSERVATORY 702.2, HI US</displayName>
+    <minDate>1962-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>21.3152</latitude>
+    <longitude>-157.9992</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518806</id>
+    <displayName>HONOLULU OBSERVATORY 702.2, HI US</displayName>
+    <minDate>1960-07-01</minDate>
+    <maxDate>1962-07-31</maxDate>
+    <latitude>21.3152</latitude>
+    <longitude>-157.9992</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022522</id>
+    <displayName>HONOLULU SUBSTATION 407, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1976-11-30</maxDate>
+    <latitude>21.31667</latitude>
+    <longitude>-157.86667</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511921</id>
+    <displayName>HONOMAELE 355.2, HI US</displayName>
+    <minDate>2006-01-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>20.794</latitude>
+    <longitude>-156.0413</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511920</id>
+    <displayName>HONOMAELE MAUKA, HI US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>1944-12-31</maxDate>
+    <latitude>20.76667</latitude>
+    <longitude>-156.05</longitude>
+    <elevation>762.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511922</id>
+    <displayName>HONOMALINO 2.35, HI US</displayName>
+    <minDate>1999-02-01</minDate>
+    <maxDate>2002-07-31</maxDate>
+    <latitude>19.20194</latitude>
+    <longitude>-155.86167</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511930</id>
+    <displayName>HONOMANU 450, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1961-01-31</maxDate>
+    <latitude>20.85</latitude>
+    <longitude>-156.18333</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511935</id>
+    <displayName>HONOMANU GULCH 341, HI US</displayName>
+    <minDate>1950-01-01</minDate>
+    <maxDate>2000-10-31</maxDate>
+    <latitude>20.77778</latitude>
+    <longitude>-156.23111</longitude>
+    <elevation>1914.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511940</id>
+    <displayName>HONOMANU MAUKA 344, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1950-06-30</maxDate>
+    <latitude>20.81667</latitude>
+    <longitude>-156.2</longitude>
+    <elevation>894</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511958</id>
+    <displayName>HONOMU 136, HI US</displayName>
+    <minDate>1994-02-01</minDate>
+    <maxDate>1997-07-31</maxDate>
+    <latitude>19.86667</latitude>
+    <longitude>-155.11667</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1HIHI0014</id>
+    <displayName>HONOMU 2.8 SW, HI US</displayName>
+    <minDate>2011-12-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>19.8494</latitude>
+    <longitude>-155.15</longitude>
+    <elevation>384.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511955</id>
+    <displayName>HONOMU MAKAI 143, HI US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>1963-10-31</maxDate>
+    <latitude>19.86667</latitude>
+    <longitude>-155.11667</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511960</id>
+    <displayName>HONOMU MAUKA 138, HI US</displayName>
+    <minDate>1911-05-01</minDate>
+    <maxDate>1978-04-30</maxDate>
+    <latitude>19.85</latitude>
+    <longitude>-155.15</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9331</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164367</id>
+    <displayName>HONORE, LA US</displayName>
+    <minDate>1917-06-01</minDate>
+    <maxDate>1917-10-25</maxDate>
+    <latitude>32.5</latitude>
+    <longitude>-93.66667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512047</id>
+    <displayName>HONUAULA 71, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>19.671</latitude>
+    <longitude>-155.8764</longitude>
+    <elevation>1905</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8011</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354003</id>
+    <displayName>HOOD RIVER EXPERIMENT STATION, OR US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.6847</latitude>
+    <longitude>-121.5175</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015C10S</id>
+    <displayName>HOODOO BASIN, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.9833</latitude>
+    <longitude>-115.0333</longitude>
+    <elevation>1844</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9271</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHOO</id>
+    <displayName>HOODOO HILL ALASKA, AK US</displayName>
+    <minDate>1992-06-16</minDate>
+    <maxDate>2012-08-26</maxDate>
+    <latitude>65.5858</latitude>
+    <longitude>-163.4081</longitude>
+    <elevation>472.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAMS0002</id>
+    <displayName>HOODSPORT 0.2 NNE, WA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-10-16</maxDate>
+    <latitude>47.4096</latitude>
+    <longitude>-123.1385</longitude>
+    <elevation>39</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8043</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512092</id>
+    <displayName>HOOKENA, HI US</displayName>
+    <minDate>1926-06-01</minDate>
+    <maxDate>1929-10-31</maxDate>
+    <latitude>19.5333</latitude>
+    <longitude>-155.85</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9239</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303961</id>
+    <displayName>HOOKER 12 NNW, NY US</displayName>
+    <minDate>1911-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.8524</latitude>
+    <longitude>-75.7158</longitude>
+    <elevation>548.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.709</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344298</id>
+    <displayName>HOOKER, OK US</displayName>
+    <minDate>1906-06-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>36.8649</latitude>
+    <longitude>-101.2104</longitude>
+    <elevation>911.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512100</id>
+    <displayName>HOOLEHUA 559A, HI US</displayName>
+    <minDate>1926-06-16</minDate>
+    <maxDate>1955-08-31</maxDate>
+    <latitude>21.18333</latitude>
+    <longitude>-157.05</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512110</id>
+    <displayName>HOOLEHUA CPC 556, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>21.16667</latitude>
+    <longitude>-157.11667</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHON</id>
+    <displayName>HOONAH ALASKA, AK US</displayName>
+    <minDate>1989-09-26</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>57.8</latitude>
+    <longitude>-135.1333</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503695</id>
+    <displayName>HOONAH, AK US</displayName>
+    <minDate>1941-05-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>58.1071</latitude>
+    <longitude>-135.4277</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3341</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044084</id>
+    <displayName>HOOPA 2 SE, CA US</displayName>
+    <minDate>1954-11-01</minDate>
+    <maxDate>1967-10-31</maxDate>
+    <latitude>41.03333</latitude>
+    <longitude>-123.65</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8252</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHOO</id>
+    <displayName>HOOPA CALIFORNIA, CA US</displayName>
+    <minDate>1997-04-19</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.0478</latitude>
+    <longitude>-123.6714</longitude>
+    <elevation>114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044089</id>
+    <displayName>HOOPA, CA US</displayName>
+    <minDate>1984-01-01</minDate>
+    <maxDate>1987-05-31</maxDate>
+    <latitude>41.0483</latitude>
+    <longitude>-123.6755</longitude>
+    <elevation>102.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044082</id>
+    <displayName>HOOPA, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1983-12-31</maxDate>
+    <latitude>41.05</latitude>
+    <longitude>-123.66667</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7907</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTWB0012</id>
+    <displayName>HOOPER 0.1 S, UT US</displayName>
+    <minDate>2010-03-28</minDate>
+    <maxDate>2010-11-21</maxDate>
+    <latitude>41.1709</latitude>
+    <longitude>-112.1249</longitude>
+    <elevation>1290.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253976</id>
+    <displayName>HOOPER 1, NE US</displayName>
+    <minDate>1898-01-01</minDate>
+    <maxDate>1914-09-30</maxDate>
+    <latitude>41.616667</latitude>
+    <longitude>-96.55</longitude>
+    <elevation>374.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAM0006</id>
+    <displayName>HOOPER 1.9 W, CO US</displayName>
+    <minDate>2004-06-01</minDate>
+    <maxDate>2009-09-22</maxDate>
+    <latitude>37.7414</latitude>
+    <longitude>-105.91</longitude>
+    <elevation>2310.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5021</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dodg012</id>
+    <displayName>HOOPER 3.6 NE, NE US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6544</latitude>
+    <longitude>-96.5097</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503705</id>
+    <displayName>HOOPER BAY, AK US</displayName>
+    <minDate>1926-09-01</minDate>
+    <maxDate>1939-02-28</maxDate>
+    <latitude>61.53333</latitude>
+    <longitude>-166.08333</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424050</id>
+    <displayName>HOOPER, UT US</displayName>
+    <minDate>1911-05-01</minDate>
+    <maxDate>1913-11-30</maxDate>
+    <latitude>41.166667</latitude>
+    <longitude>-112.116667</longitude>
+    <elevation>1352.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6243</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453765</id>
+    <displayName>HOOPER, WA US</displayName>
+    <minDate>1898-11-10</minDate>
+    <maxDate>1903-11-30</maxDate>
+    <latitude>46.75</latitude>
+    <longitude>-118.133333</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILVR0013</id>
+    <displayName>HOOPESTON 0.6 SW, IL US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.4585</latitude>
+    <longitude>-87.6781</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6165</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILVR0017</id>
+    <displayName>HOOPESTON 0.8 W, IL US</displayName>
+    <minDate>2011-04-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4661</latitude>
+    <longitude>-87.6854</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9296</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114198</id>
+    <displayName>HOOPESTON 1 NE, IL US</displayName>
+    <minDate>1902-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.4664</latitude>
+    <longitude>-87.6851</longitude>
+    <elevation>216.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILVR0009</id>
+    <displayName>HOOPESTON 4.6 E, IL US</displayName>
+    <minDate>2009-05-14</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>40.4709</latitude>
+    <longitude>-87.5838</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4705</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512121</id>
+    <displayName>HOOPULOA, HI US</displayName>
+    <minDate>1905-01-17</minDate>
+    <maxDate>1912-01-31</maxDate>
+    <latitude>19.2167</latitude>
+    <longitude>-155.85</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8094</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193713</id>
+    <displayName>HOOSAC TUNNEL, MA US</displayName>
+    <minDate>1930-05-01</minDate>
+    <maxDate>1973-06-30</maxDate>
+    <latitude>42.68333</latitude>
+    <longitude>-72.96667</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYRN0004</id>
+    <displayName>HOOSICK FALLS 0.3 SSW, NY US</displayName>
+    <minDate>2011-10-25</minDate>
+    <maxDate>2012-09-23</maxDate>
+    <latitude>42.8962</latitude>
+    <longitude>-73.3538</longitude>
+    <elevation>141.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3194</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303965</id>
+    <displayName>HOOSICK FALLS, NY US</displayName>
+    <minDate>1900-03-01</minDate>
+    <maxDate>1923-12-31</maxDate>
+    <latitude>42.9</latitude>
+    <longitude>-73.35</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006K01S</id>
+    <displayName>HOOSIER PASS, CO US</displayName>
+    <minDate>1980-08-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.3667</latitude>
+    <longitude>-106.0667</longitude>
+    <elevation>3474.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294106</id>
+    <displayName>HOOSIER RANCH, NM US</displayName>
+    <minDate>1911-07-01</minDate>
+    <maxDate>1949-06-03</maxDate>
+    <latitude>35.86667</latitude>
+    <longitude>-104.16667</longitude>
+    <elevation>1731.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0047</id>
+    <displayName>HOOVER 1.9 NW, AL US</displayName>
+    <minDate>2011-10-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3963</latitude>
+    <longitude>-86.8399</longitude>
+    <elevation>270.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0026</id>
+    <displayName>HOOVER 1.9 S, AL US</displayName>
+    <minDate>2007-10-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3476</latitude>
+    <longitude>-86.8127</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0020</id>
+    <displayName>HOOVER 2.9 WSW, AL US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2009-02-28</maxDate>
+    <latitude>33.3583</latitude>
+    <longitude>-86.8643</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6216</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0015</id>
+    <displayName>HOOVER 3.6 ESE, AL US</displayName>
+    <minDate>2007-11-05</minDate>
+    <maxDate>2011-04-16</maxDate>
+    <latitude>33.3503</latitude>
+    <longitude>-86.7649</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7299</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393945</id>
+    <displayName>HOOVER, SD US</displayName>
+    <minDate>2004-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.1125</latitude>
+    <longitude>-103.2791</longitude>
+    <elevation>868.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364058</id>
+    <displayName>HOOVERSVILLE, PA US</displayName>
+    <minDate>1938-03-14</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>40.15</latitude>
+    <longitude>-78.91667</longitude>
+    <elevation>509</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9422</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364066</id>
+    <displayName>HOP BOTTOM 2 SE, PA US</displayName>
+    <minDate>1944-12-01</minDate>
+    <maxDate>1974-04-30</maxDate>
+    <latitude>41.71667</latitude>
+    <longitude>-75.71667</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9201</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSDK0019</id>
+    <displayName>HOPE 0.3 S, KS US</displayName>
+    <minDate>2010-08-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>38.6868</latitude>
+    <longitude>-97.0752</longitude>
+    <elevation>422.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBW0009</id>
+    <displayName>HOPE 0.4 E, IN US</displayName>
+    <minDate>2007-05-11</minDate>
+    <maxDate>2009-10-09</maxDate>
+    <latitude>39.3008</latitude>
+    <longitude>-85.7605</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3307</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARHM0005</id>
+    <displayName>HOPE 0.9 SSW, AR US</displayName>
+    <minDate>2012-05-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6563</latitude>
+    <longitude>-93.5983</longitude>
+    <elevation>101.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104344</id>
+    <displayName>HOPE 1, ID US</displayName>
+    <minDate>1905-03-01</minDate>
+    <maxDate>1906-06-30</maxDate>
+    <latitude>48.316667</latitude>
+    <longitude>-116.333333</longitude>
+    <elevation>655.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARHM0006</id>
+    <displayName>HOPE 12.2 S, AR US</displayName>
+    <minDate>2012-06-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4934</latitude>
+    <longitude>-93.6222</longitude>
+    <elevation>88.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9163</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033428</id>
+    <displayName>HOPE 3 NE, AR US</displayName>
+    <minDate>1892-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7088</latitude>
+    <longitude>-93.5561</longitude>
+    <elevation>114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8228</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203913</id>
+    <displayName>HOPE 3 SW, MI US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2011-05-28</maxDate>
+    <latitude>43.73</latitude>
+    <longitude>-84.3702</longitude>
+    <elevation>199.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7547</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSDK0016</id>
+    <displayName>HOPE 4.6 N, KS US</displayName>
+    <minDate>2010-06-20</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>38.7578</latitude>
+    <longitude>-97.0777</longitude>
+    <elevation>404.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSDK0009</id>
+    <displayName>HOPE 7.6 NNW, KS US</displayName>
+    <minDate>2010-05-07</minDate>
+    <maxDate>2011-09-09</maxDate>
+    <latitude>38.7979</latitude>
+    <longitude>-97.1073</longitude>
+    <elevation>410.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4684</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSDK0011</id>
+    <displayName>HOPE 9.4 WNW, KS US</displayName>
+    <minDate>2010-05-26</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.7323</latitude>
+    <longitude>-97.241</longitude>
+    <elevation>390.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512141</id>
+    <displayName>HOPE A 114, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>19.98333</latitude>
+    <longitude>-155.41667</longitude>
+    <elevation>1214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3802</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCM0007</id>
+    <displayName>HOPE MILLS 1.4 W, NC US</displayName>
+    <minDate>2009-01-30</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>34.9716</latitude>
+    <longitude>-78.9781</longitude>
+    <elevation>50</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.707</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCM0013</id>
+    <displayName>HOPE MILLS 4.8 SE, NC US</displayName>
+    <minDate>2009-08-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.9274</latitude>
+    <longitude>-78.8894</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6551</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCM0042</id>
+    <displayName>HOPE MILLS 6.3 SE, NC US</displayName>
+    <minDate>2011-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9101</latitude>
+    <longitude>-78.8744</longitude>
+    <elevation>48.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCM0034</id>
+    <displayName>HOPE MILLS 8.0 SSE, NC US</displayName>
+    <minDate>2011-04-05</minDate>
+    <maxDate>2012-06-12</maxDate>
+    <latitude>34.8727</latitude>
+    <longitude>-78.8817</longitude>
+    <elevation>46.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5494</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCM0006</id>
+    <displayName>HOPE MILLS 8.3 SE, NC US</displayName>
+    <minDate>2009-01-29</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>34.8806</latitude>
+    <longitude>-78.86</longitude>
+    <elevation>43.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1RIWS0001</id>
+    <displayName>HOPE VALLEY 3.7 S, RI US</displayName>
+    <minDate>2008-04-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4614</latitude>
+    <longitude>-71.716</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00373600</id>
+    <displayName>HOPE VALLEY, RI US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1920-05-31</maxDate>
+    <latitude>41.5</latitude>
+    <longitude>-71.75</longitude>
+    <elevation>42.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503720</id>
+    <displayName>HOPE, AK US</displayName>
+    <minDate>1979-03-01</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>60.8983</latitude>
+    <longitude>-149.6286</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7021</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104341</id>
+    <displayName>HOPE, ID US</displayName>
+    <minDate>1947-04-18</minDate>
+    <maxDate>1949-07-31</maxDate>
+    <latitude>48.25</latitude>
+    <longitude>-116.3</longitude>
+    <elevation>609.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3254</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294112</id>
+    <displayName>HOPE, NM US</displayName>
+    <minDate>1905-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.811</latitude>
+    <longitude>-104.7336</longitude>
+    <elevation>1246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6149</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303970</id>
+    <displayName>HOPE, NY US</displayName>
+    <minDate>1931-06-01</minDate>
+    <maxDate>1998-12-31</maxDate>
+    <latitude>43.31167</latitude>
+    <longitude>-74.24778</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164381</id>
+    <displayName>HOPEDALE, LA US</displayName>
+    <minDate>1957-09-01</minDate>
+    <maxDate>1965-11-30</maxDate>
+    <latitude>29.81667</latitude>
+    <longitude>-89.65</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9486</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333838</id>
+    <displayName>HOPEDALE, OH US</displayName>
+    <minDate>1974-03-01</minDate>
+    <maxDate>2006-08-23</maxDate>
+    <latitude>40.32389</latitude>
+    <longitude>-80.89917</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6559</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393987</id>
+    <displayName>HOPEWELL 1 SE, SD US</displayName>
+    <minDate>1909-09-01</minDate>
+    <maxDate>1983-12-25</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-100.86667</longitude>
+    <elevation>585.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8733</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDT0004</id>
+    <displayName>HOPEWELL JUNCTION 2.4 SSE, NY US</displayName>
+    <minDate>2010-02-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5535</latitude>
+    <longitude>-73.7863</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9484</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364076</id>
+    <displayName>HOPEWELL MORGANTOWN, PA US</displayName>
+    <minDate>1979-01-01</minDate>
+    <maxDate>2002-07-31</maxDate>
+    <latitude>40.15917</latitude>
+    <longitude>-75.88556</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9337</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMC0027</id>
+    <displayName>HOPEWELL TWP 2.4 NW, NJ US</displayName>
+    <minDate>2012-07-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3735</latitude>
+    <longitude>-74.8347</longitude>
+    <elevation>80.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9483</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006N14S</id>
+    <displayName>HOPEWELL, NM US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.7167</latitude>
+    <longitude>-106.2667</longitude>
+    <elevation>3048</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.91</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294118</id>
+    <displayName>HOPEWELL, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1910-09-10</maxDate>
+    <latitude>36.7</latitude>
+    <longitude>-106.233333</longitude>
+    <elevation>2895.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+</stationCollection>

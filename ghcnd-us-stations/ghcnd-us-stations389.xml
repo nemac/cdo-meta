@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="389">
+  <station>
+    <id>GHCND:US1OHGG0003</id>
+    <displayName>SOUTH RUSSELL 2.0 W, OH US</displayName>
+    <minDate>2009-02-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4323</latitude>
+    <longitude>-81.3716</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7385</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0021</id>
+    <displayName>SOUTH SAINT PAUL 0.5 SE, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-19</maxDate>
+    <latitude>44.8819</latitude>
+    <longitude>-93.0352</longitude>
+    <elevation>250.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYWC0006</id>
+    <displayName>SOUTH SALEM 2.1 NW, NY US</displayName>
+    <minDate>2009-12-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3003</latitude>
+    <longitude>-73.57</longitude>
+    <elevation>151.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9301</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0011</id>
+    <displayName>SOUTH SALT LAKE 2.4 NE, UT US</displayName>
+    <minDate>2008-07-13</minDate>
+    <maxDate>2012-07-29</maxDate>
+    <latitude>40.7353</latitude>
+    <longitude>-111.8653</longitude>
+    <elevation>1316.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSSC</id>
+    <displayName>SOUTH SAWMILL CREEK MONTANA, MT US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.5619</latitude>
+    <longitude>-107.5286</longitude>
+    <elevation>1002.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308036</id>
+    <displayName>SOUTH SCHROON, NY US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>1965-05-31</maxDate>
+    <latitude>43.78333</latitude>
+    <longitude>-73.8</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368356</id>
+    <displayName>SOUTH STERLING, PA US</displayName>
+    <minDate>1926-04-01</minDate>
+    <maxDate>1927-12-31</maxDate>
+    <latitude>41.35</latitude>
+    <longitude>-75.4</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHMR0011</id>
+    <displayName>SOUTH SUTTON 2.5 SSE, NH US</displayName>
+    <minDate>2009-08-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2849</latitude>
+    <longitude>-71.9252</longitude>
+    <elevation>290.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9849</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278169</id>
+    <displayName>SOUTH SUTTON, NH US</displayName>
+    <minDate>1945-07-01</minDate>
+    <maxDate>1949-11-06</maxDate>
+    <latitude>43.316667</latitude>
+    <longitude>-71.933333</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1554</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJOC0002</id>
+    <displayName>SOUTH TOMS RIVER 4.6 NNW, NJ US</displayName>
+    <minDate>2008-03-08</minDate>
+    <maxDate>2010-06-25</maxDate>
+    <latitude>39.9981</latitude>
+    <longitude>-74.2546</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8321</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMBR0072</id>
+    <displayName>SOUTH VALLEY 3.8 SSW, NM US</displayName>
+    <minDate>2006-08-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9619</latitude>
+    <longitude>-106.7084</longitude>
+    <elevation>1495</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278194</id>
+    <displayName>SOUTH WEARE 1 SE, NH US</displayName>
+    <minDate>1944-11-01</minDate>
+    <maxDate>1969-09-30</maxDate>
+    <latitude>43.05</latitude>
+    <longitude>-71.71667</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9232</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTDV0017</id>
+    <displayName>SOUTH WEBER 0.3 ESE, UT US</displayName>
+    <minDate>2011-04-12</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>41.1329</latitude>
+    <longitude>-111.9285</longitude>
+    <elevation>1377.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337884</id>
+    <displayName>SOUTH WEBSTER 3 SE, OH US</displayName>
+    <minDate>1975-10-01</minDate>
+    <maxDate>1982-05-31</maxDate>
+    <latitude>38.78333</latitude>
+    <longitude>-82.7</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00191147</id>
+    <displayName>SOUTH WELLFLEET, MA US</displayName>
+    <minDate>1963-07-01</minDate>
+    <maxDate>1966-04-30</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-69.98333</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00197961</id>
+    <displayName>SOUTH WELLFLEET, MA US</displayName>
+    <minDate>1966-05-01</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-69.98333</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014790</id>
+    <displayName>SOUTH WEYMOUTH NAS, MA US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>1996-09-28</maxDate>
+    <latitude>42.15</latitude>
+    <longitude>-70.93333</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8367</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWY0008</id>
+    <displayName>SOUTH WHITLEY 0.2 SSW, IN US</displayName>
+    <minDate>2008-05-10</minDate>
+    <maxDate>2008-10-05</maxDate>
+    <latitude>41.0832</latitude>
+    <longitude>-85.6293</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWY0007</id>
+    <displayName>SOUTH WHITLEY 5.5 SE, IN US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2008-06-22</maxDate>
+    <latitude>41.0339</latitude>
+    <longitude>-85.5485</longitude>
+    <elevation>273.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILGY0018</id>
+    <displayName>SOUTH WILMINGTON 1.6 E, IL US</displayName>
+    <minDate>2012-07-13</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>41.1717</latitude>
+    <longitude>-88.2453</longitude>
+    <elevation>179.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0040</id>
+    <displayName>SOUTHAMPTON TWP 0.5 S, NJ US</displayName>
+    <minDate>2011-11-14</minDate>
+    <maxDate>2012-11-04</maxDate>
+    <latitude>39.9071</latitude>
+    <longitude>-74.717</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8403</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0022</id>
+    <displayName>SOUTHAMPTON TWP 2.4 NW, NJ US</displayName>
+    <minDate>2010-09-27</minDate>
+    <maxDate>2012-10-19</maxDate>
+    <latitude>39.9407</latitude>
+    <longitude>-74.7456</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2944</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0035</id>
+    <displayName>SOUTHAMPTON TWP 3.2 WNW, NJ US</displayName>
+    <minDate>2011-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9321</latitude>
+    <longitude>-74.7736</longitude>
+    <elevation>12.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368263</id>
+    <displayName>SOUTHAMPTON, PA US</displayName>
+    <minDate>1979-05-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.1719</latitude>
+    <longitude>-75.036</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5785</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSDS0002</id>
+    <displayName>SOUTHAVEN 4.8 SE, MS US</displayName>
+    <minDate>2008-08-04</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.9241</latitude>
+    <longitude>-89.9404</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9102</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MAWR0006</id>
+    <displayName>SOUTHBRIDGE 0.6 E, MA US</displayName>
+    <minDate>2010-05-13</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.0842</latitude>
+    <longitude>-72.0225</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3558</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00197627</id>
+    <displayName>SOUTHBRIDGE 3 SW, MA US</displayName>
+    <minDate>1926-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.0583</latitude>
+    <longitude>-72.0721</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318089</id>
+    <displayName>SOUTHERN PINES 2 W, NC US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1968-03-31</maxDate>
+    <latitude>35.16667</latitude>
+    <longitude>-79.43333</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8428</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TSOU</id>
+    <displayName>SOUTHERN ROUGH TEXAS, TX US</displayName>
+    <minDate>1999-03-04</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.5403</latitude>
+    <longitude>-94.3411</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9418</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168612</id>
+    <displayName>SOUTHERN UNIVERSITY FARM, LA US</displayName>
+    <minDate>1894-11-01</minDate>
+    <maxDate>1914-08-31</maxDate>
+    <latitude>29.95</latitude>
+    <longitude>-90.15</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8154</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0069</id>
+    <displayName>SOUTHFIELD 2.8 NNE, MI US</displayName>
+    <minDate>2012-07-30</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>42.513</latitude>
+    <longitude>-83.238</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00197730</id>
+    <displayName>SOUTHFIELD, MA US</displayName>
+    <minDate>1999-08-01</minDate>
+    <maxDate>2000-03-31</maxDate>
+    <latitude>42.07556</latitude>
+    <longitude>-73.24028</longitude>
+    <elevation>417</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307895</id>
+    <displayName>SOUTHHAMPTON, NY US</displayName>
+    <minDate>1900-10-07</minDate>
+    <maxDate>1918-10-31</maxDate>
+    <latitude>40.9</latitude>
+    <longitude>-72.45</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0085</id>
+    <displayName>SOUTHLAKE 1.7 NE, TX US</displayName>
+    <minDate>2011-07-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.9721</latitude>
+    <longitude>-97.1293</longitude>
+    <elevation>176.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418477</id>
+    <displayName>SOUTHLAND, TX US</displayName>
+    <minDate>1925-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3613</latitude>
+    <longitude>-101.5516</longitude>
+    <elevation>1011.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.14</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBR0014</id>
+    <displayName>SOUTHPORT 1.0 NE, NC US</displayName>
+    <minDate>2011-03-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9322</latitude>
+    <longitude>-78.008</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0056</id>
+    <displayName>SOUTHPORT 1.8 WSW, IN US</displayName>
+    <minDate>2009-03-22</minDate>
+    <maxDate>2011-11-28</maxDate>
+    <latitude>39.6454</latitude>
+    <longitude>-86.1443</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8024</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBR0031</id>
+    <displayName>SOUTHPORT 2.5 NW, NC US</displayName>
+    <minDate>2011-08-31</minDate>
+    <maxDate>2012-07-02</maxDate>
+    <latitude>33.9463</latitude>
+    <longitude>-78.0571</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0017</id>
+    <displayName>SOUTHPORT 3.3 W, IN US</displayName>
+    <minDate>2006-06-15</minDate>
+    <maxDate>2006-11-10</maxDate>
+    <latitude>39.6535</latitude>
+    <longitude>-86.1777</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCM0004</id>
+    <displayName>SOUTHPORT 3.8 SSW, NY US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>42.0167</latitude>
+    <longitude>-76.85</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5598</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318113</id>
+    <displayName>SOUTHPORT 5 N, NC US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>33.9947</latitude>
+    <longitude>-78.0077</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBR0026</id>
+    <displayName>SOUTHPORT 5.8 WNW, NC US</displayName>
+    <minDate>2011-03-18</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>33.9576</latitude>
+    <longitude>-78.1153</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBR0013</id>
+    <displayName>SOUTHPORT 5.9 W, NC US</displayName>
+    <minDate>2011-03-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9393</latitude>
+    <longitude>-78.1236</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468351</id>
+    <displayName>SOUTHSIDE 3 NNW, WV US</displayName>
+    <minDate>1998-10-01</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>38.7506</latitude>
+    <longitude>-81.9808</longitude>
+    <elevation>175.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEHN0003</id>
+    <displayName>SOUTHWEST HARBOR 2.6 SE, ME US</displayName>
+    <minDate>2009-08-23</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>44.2517</latitude>
+    <longitude>-68.2945</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046594</id>
+    <displayName>SPADRA LANTERMAN HOSPITAL, CA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1954-12-31</maxDate>
+    <latitude>34.0419</latitude>
+    <longitude>-117.8105</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048436</id>
+    <displayName>SPADRA LANTERMAN HOSPITAL, CA US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1972-10-31</maxDate>
+    <latitude>34.0419</latitude>
+    <longitude>-117.8105</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gree002</id>
+    <displayName>SPALDING 0.1 ESE, NE US</displayName>
+    <minDate>2007-03-24</minDate>
+    <maxDate>2011-06-27</maxDate>
+    <latitude>41.6883</latitude>
+    <longitude>-98.3615</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1098</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gree007</id>
+    <displayName>SPALDING 0.2 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.6869</latitude>
+    <longitude>-98.3657</longitude>
+    <elevation>583.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9039</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIMM0001</id>
+    <displayName>SPALDING 0.5 NW, MI US</displayName>
+    <minDate>2008-07-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.6989</latitude>
+    <longitude>-87.5153</longitude>
+    <elevation>262.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207742</id>
+    <displayName>SPALDING 1 NW, MI US</displayName>
+    <minDate>1953-08-02</minDate>
+    <maxDate>2006-05-31</maxDate>
+    <latitude>45.7019</latitude>
+    <longitude>-87.5255</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10whee006</id>
+    <displayName>SPALDING 6.2 N, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>41.7779</latitude>
+    <longitude>-98.3759</longitude>
+    <elevation>645</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6764</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gree011</id>
+    <displayName>SPALDING 7.5 SSW, NE US</displayName>
+    <minDate>2008-04-07</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>41.581</latitude>
+    <longitude>-98.3857</longitude>
+    <elevation>616.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8273</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258025</id>
+    <displayName>SPALDING, NE US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.603</latitude>
+    <longitude>-98.3483</longitude>
+    <elevation>577.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0005</id>
+    <displayName>SPANAWAY 0.5 SSW, WA US</displayName>
+    <minDate>2008-05-29</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>47.0993</latitude>
+    <longitude>-122.431</longitude>
+    <elevation>110.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00428114</id>
+    <displayName>SPANISH FORK 1 S, UT US</displayName>
+    <minDate>1950-06-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>40.1</latitude>
+    <longitude>-111.66667</longitude>
+    <elevation>1409.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTUT0002</id>
+    <displayName>SPANISH FORK 1.0 W, UT US</displayName>
+    <minDate>2008-07-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1138</latitude>
+    <longitude>-111.6579</longitude>
+    <elevation>1396</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.769</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTUT0012</id>
+    <displayName>SPANISH FORK 1.3 SSE, UT US</displayName>
+    <minDate>2008-09-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0982</latitude>
+    <longitude>-111.628</longitude>
+    <elevation>1441.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1566</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00428119</id>
+    <displayName>SPANISH FORK POWER HOUSE, UT US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.0797</latitude>
+    <longitude>-111.6044</longitude>
+    <elevation>1438.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALBW0028</id>
+    <displayName>SPANISH FORT 0.8 WSW, AL US</displayName>
+    <minDate>2008-10-17</minDate>
+    <maxDate>2010-01-21</maxDate>
+    <latitude>30.672</latitude>
+    <longitude>-87.8982</longitude>
+    <elevation>60</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALBW0058</id>
+    <displayName>SPANISH FORT 1.2 NE, AL US</displayName>
+    <minDate>2010-12-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.6849</latitude>
+    <longitude>-87.8683</longitude>
+    <elevation>46.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9238</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0012</id>
+    <displayName>SPANISH SPRINGS 11.5 NE, NV US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2010-01-25</maxDate>
+    <latitude>39.7837</latitude>
+    <longitude>-119.6064</longitude>
+    <elevation>1351.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267691</id>
+    <displayName>SPANISH SPRINGS, NV US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.6372</latitude>
+    <longitude>-119.7094</longitude>
+    <elevation>1368.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053023</id>
+    <displayName>SPANISH VALLEY 25 SW, UT US</displayName>
+    <minDate>2011-09-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.3130</latitude>
+    <longitude>-109.8539</longitude>
+    <elevation>1912.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308072</id>
+    <displayName>SPARKILL, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.03333</latitude>
+    <longitude>-73.93333</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036768</id>
+    <displayName>SPARKMAN, AR US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9153</latitude>
+    <longitude>-92.8267</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9041</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0087</id>
+    <displayName>SPARKS 1.5 NE, NV US</displayName>
+    <minDate>2008-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5565</latitude>
+    <longitude>-119.715</longitude>
+    <elevation>1347.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8615</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0017</id>
+    <displayName>SPARKS 1.6 NE, NV US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.5593</latitude>
+    <longitude>-119.7151</longitude>
+    <elevation>1353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8329</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0031</id>
+    <displayName>SPARKS 1.7 E, NV US</displayName>
+    <minDate>2007-05-03</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.548</latitude>
+    <longitude>-119.7052</longitude>
+    <elevation>1342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0028</id>
+    <displayName>SPARKS 3.8 NE, NV US</displayName>
+    <minDate>2008-04-16</minDate>
+    <maxDate>2011-06-08</maxDate>
+    <latitude>39.5879</latitude>
+    <longitude>-119.6941</longitude>
+    <elevation>1498.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8529</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10cher008</id>
+    <displayName>SPARKS 4.3 NNE, NE US</displayName>
+    <minDate>2007-03-24</minDate>
+    <maxDate>2012-10-01</maxDate>
+    <latitude>42.9975</latitude>
+    <longitude>-100.2211</longitude>
+    <elevation>761.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.476</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0046</id>
+    <displayName>SPARKS 6.3 N, NV US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2009-05-31</maxDate>
+    <latitude>39.6347</latitude>
+    <longitude>-119.7224</longitude>
+    <elevation>1375</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7579</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0037</id>
+    <displayName>SPARKS 6.7 N, NV US</displayName>
+    <minDate>2007-05-29</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>39.641</latitude>
+    <longitude>-119.7261</longitude>
+    <elevation>1377.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1473</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0004</id>
+    <displayName>SPARKS 7.0 NNE, NV US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.6387</latitude>
+    <longitude>-119.6893</longitude>
+    <elevation>1378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8675</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0104</id>
+    <displayName>SPARKS 7.3 NE, NV US</displayName>
+    <minDate>2010-12-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.6311</latitude>
+    <longitude>-119.6589</longitude>
+    <elevation>1451.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8355</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVWH0020</id>
+    <displayName>SPARKS 7.5 N, NV US</displayName>
+    <minDate>2007-03-30</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>39.6523</latitude>
+    <longitude>-119.7281</longitude>
+    <elevation>1385</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10keya004</id>
+    <displayName>SPARKS 8.7 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-08-16</maxDate>
+    <latitude>42.9078</latitude>
+    <longitude>-100.0956</longitude>
+    <elevation>759.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9024</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267693</id>
+    <displayName>SPARKS HUMANE SOCIETY, NV US</displayName>
+    <minDate>1996-11-01</minDate>
+    <maxDate>2006-08-20</maxDate>
+    <latitude>39.5236</latitude>
+    <longitude>-119.7386</longitude>
+    <elevation>1340.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9355</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267697</id>
+    <displayName>SPARKS, NV US</displayName>
+    <minDate>1988-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.5558</latitude>
+    <longitude>-119.7333</longitude>
+    <elevation>1328</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00118146</id>
+    <displayName>SPARLAND 6 SW, IL US</displayName>
+    <minDate>1991-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.03139</latitude>
+    <longitude>-89.44028</longitude>
+    <elevation>174.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00118145</id>
+    <displayName>SPARLAND, IL US</displayName>
+    <minDate>1952-11-01</minDate>
+    <maxDate>1953-12-31</maxDate>
+    <latitude>41.03333</latitude>
+    <longitude>-89.43333</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9577</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026534</id>
+    <displayName>SPARREVOHN MOUNTAIN AFS, AK US</displayName>
+    <minDate>1951-07-25</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>61.1</latitude>
+    <longitude>-155.58333</longitude>
+    <elevation>484</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9508</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508666</id>
+    <displayName>SPARREVOHN, AK US</displayName>
+    <minDate>1953-05-01</minDate>
+    <maxDate>1985-01-31</maxDate>
+    <latitude>61.1</latitude>
+    <longitude>-155.55</longitude>
+    <elevation>481.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8025</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIMN0003</id>
+    <displayName>SPARTA 0.8 NNE, WI US</displayName>
+    <minDate>2006-11-02</minDate>
+    <maxDate>2008-10-16</maxDate>
+    <latitude>43.954</latitude>
+    <longitude>-90.8048</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6266</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00118147</id>
+    <displayName>SPARTA 1 W, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.11667</latitude>
+    <longitude>-89.71667</longitude>
+    <elevation>163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9654</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0010</id>
+    <displayName>SPARTA 1.1 SSW, MI US</displayName>
+    <minDate>2008-06-30</minDate>
+    <maxDate>2009-07-27</maxDate>
+    <latitude>43.1442</latitude>
+    <longitude>-85.719</longitude>
+    <elevation>257.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5089</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0003</id>
+    <displayName>SPARTA 1.2 E, TN US</displayName>
+    <minDate>2007-07-26</minDate>
+    <maxDate>2008-07-22</maxDate>
+    <latitude>35.9357</latitude>
+    <longitude>-85.451</longitude>
+    <elevation>299.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8347</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILRH0007</id>
+    <displayName>SPARTA 1.6 SW, IL US</displayName>
+    <minDate>2007-04-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1398</latitude>
+    <longitude>-89.7393</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9311</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0001</id>
+    <displayName>SPARTA 1.8 SSW, TN US</displayName>
+    <minDate>2007-07-20</minDate>
+    <maxDate>2012-05-18</maxDate>
+    <latitude>35.9105</latitude>
+    <longitude>-85.4851</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILRH0008</id>
+    <displayName>SPARTA 1.9 SSW, IL US</displayName>
+    <minDate>2007-08-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1325</latitude>
+    <longitude>-89.7401</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3601</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0009</id>
+    <displayName>SPARTA 10.2 NNW, TN US</displayName>
+    <minDate>2008-04-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0641</latitude>
+    <longitude>-85.5601</longitude>
+    <elevation>292</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIMN0001</id>
+    <displayName>SPARTA 2.5 SSE, WI US</displayName>
+    <minDate>2007-03-22</minDate>
+    <maxDate>2008-05-21</maxDate>
+    <latitude>43.9122</latitude>
+    <longitude>-90.7828</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0042</id>
+    <displayName>SPARTA 2.8 W, MI US</displayName>
+    <minDate>2008-07-20</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>43.1616</latitude>
+    <longitude>-85.765</longitude>
+    <elevation>249.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5321</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0012</id>
+    <displayName>SPARTA 3.0 WNW, TN US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9505</latitude>
+    <longitude>-85.5229</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9585</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCAG0001</id>
+    <displayName>SPARTA 3.5 SSW, NC US</displayName>
+    <minDate>2007-09-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.459</latitude>
+    <longitude>-81.1525</longitude>
+    <elevation>946.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0014</id>
+    <displayName>SPARTA 3.9 S, TN US</displayName>
+    <minDate>2011-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8786</latitude>
+    <longitude>-85.47</longitude>
+    <elevation>288.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0007</id>
+    <displayName>SPARTA 4.6 NE, TN US</displayName>
+    <minDate>2007-08-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9784</latitude>
+    <longitude>-85.4103</longitude>
+    <elevation>295</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCR0017</id>
+    <displayName>SPARTA 6.3 E, MO US</displayName>
+    <minDate>2008-03-18</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.0166</latitude>
+    <longitude>-92.9702</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.771</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0002</id>
+    <displayName>SPARTA 7.1 NW, TN US</displayName>
+    <minDate>2007-07-11</minDate>
+    <maxDate>2009-12-17</maxDate>
+    <latitude>36.0095</latitude>
+    <longitude>-85.5602</longitude>
+    <elevation>301.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWT0010</id>
+    <displayName>SPARTA 7.1 S, TN US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8323</latitude>
+    <longitude>-85.4548</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9717</coverage>
+  </station>
+</stationCollection>

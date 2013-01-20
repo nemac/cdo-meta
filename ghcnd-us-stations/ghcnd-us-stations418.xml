@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="418">
+  <station>
+    <id>GHCND:US1TNOB0005</id>
+    <displayName>TROY 1.5 SW, TN US</displayName>
+    <minDate>2010-12-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3262</latitude>
+    <longitude>-89.1825</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248395</id>
+    <displayName>TROY 18 N, MT US</displayName>
+    <minDate>1961-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.71667</latitude>
+    <longitude>-115.88333</longitude>
+    <elevation>827.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023801</id>
+    <displayName>TROY 2 W, AL US</displayName>
+    <minDate>2008-01-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.7901</latitude>
+    <longitude>-86.0004</longitude>
+    <elevation>143.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0036</id>
+    <displayName>TROY 2.1 S, MI US</displayName>
+    <minDate>2009-08-29</minDate>
+    <maxDate>2012-09-18</maxDate>
+    <latitude>42.5494</latitude>
+    <longitude>-83.1453</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4217</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148250</id>
+    <displayName>TROY 3 N, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.8283</latitude>
+    <longitude>-95.088</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBEL027</id>
+    <displayName>TROY 3.1 SE, TX US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.1636</latitude>
+    <longitude>-97.2694</longitude>
+    <elevation>188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYRN0005</id>
+    <displayName>TROY 3.3 NE, NY US</displayName>
+    <minDate>2012-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.773</latitude>
+    <longitude>-73.6374</longitude>
+    <elevation>163.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5148</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMG0003</id>
+    <displayName>TROY 8.1 N, NC US</displayName>
+    <minDate>2011-09-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4688</latitude>
+    <longitude>-79.8614</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9262</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358647</id>
+    <displayName>TROY EDEN, OR US</displayName>
+    <minDate>1936-11-01</minDate>
+    <maxDate>1943-02-28</maxDate>
+    <latitude>45.95</latitude>
+    <longitude>-117.533333</longitude>
+    <elevation>492.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308600</id>
+    <displayName>TROY LOCK AND DAM, NY US</displayName>
+    <minDate>1932-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.75</latitude>
+    <longitude>-73.6833</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MTRY</id>
+    <displayName>TROY MONTANA, MT US</displayName>
+    <minDate>2001-05-17</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.4667</latitude>
+    <longitude>-115.9167</longitude>
+    <elevation>594.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9396</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003878</id>
+    <displayName>TROY MUNICIPAL AIRPORT, AL US</displayName>
+    <minDate>1969-04-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>31.86056</latitude>
+    <longitude>-86.01222</longitude>
+    <elevation>121</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3009</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00089034</id>
+    <displayName>TROY SPRING STATE PARK, FL US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2010-09-30</maxDate>
+    <latitude>30.00583</latitude>
+    <longitude>-82.9975</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7443</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018323</id>
+    <displayName>TROY, AL US</displayName>
+    <minDate>1908-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.8075</latitude>
+    <longitude>-85.9722</longitude>
+    <elevation>165.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00238456</id>
+    <displayName>TROY, MO US</displayName>
+    <minDate>1931-03-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.95</latitude>
+    <longitude>-91</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9125</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248390</id>
+    <displayName>TROY, MT US</displayName>
+    <minDate>1960-09-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.4806</latitude>
+    <longitude>-115.9062</longitude>
+    <elevation>588</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9081</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318734</id>
+    <displayName>TROY, NC US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1950-10-31</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-79.9</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6587</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278741</id>
+    <displayName>TROY, NH US</displayName>
+    <minDate>1953-11-01</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>42.81667</latitude>
+    <longitude>-72.18333</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8902</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308597</id>
+    <displayName>TROY, NY US</displayName>
+    <minDate>1911-03-01</minDate>
+    <maxDate>1935-01-31</maxDate>
+    <latitude>42.733333</latitude>
+    <longitude>-73.7</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7034</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00338430</id>
+    <displayName>TROY, OH US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-02-29</maxDate>
+    <latitude>40.05</latitude>
+    <longitude>-84.216667</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5553</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419153</id>
+    <displayName>TROY, TX US</displayName>
+    <minDate>1940-06-22</minDate>
+    <maxDate>2008-12-19</maxDate>
+    <latitude>31.20611</latitude>
+    <longitude>-97.29556</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448560</id>
+    <displayName>TROY, VA US</displayName>
+    <minDate>1925-03-01</minDate>
+    <maxDate>1927-02-18</maxDate>
+    <latitude>37.833333</latitude>
+    <longitude>-78.25</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419154</id>
+    <displayName>TRUBY 3 ESE, TX US</displayName>
+    <minDate>1940-07-01</minDate>
+    <maxDate>1972-08-31</maxDate>
+    <latitude>32.63333</latitude>
+    <longitude>-99.88333</longitude>
+    <elevation>522.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9304</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299113</id>
+    <displayName>TRUCHAS, NM US</displayName>
+    <minDate>1909-04-01</minDate>
+    <maxDate>1962-05-31</maxDate>
+    <latitude>36.03333</latitude>
+    <longitude>-105.81667</longitude>
+    <elevation>2449.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020K13S</id>
+    <displayName>TRUCKEE NUMBER 2, CA US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.3</latitude>
+    <longitude>-120.2</longitude>
+    <elevation>1950.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049043</id>
+    <displayName>TRUCKEE RANGER STATION, CA US</displayName>
+    <minDate>1904-09-01</minDate>
+    <maxDate>2012-10-23</maxDate>
+    <latitude>39.333</latitude>
+    <longitude>-120.173</longitude>
+    <elevation>1774.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8063</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049040</id>
+    <displayName>TRUCKEE TAHOE AIRPORT DISTRICT, CA US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.31806</latitude>
+    <longitude>-120.145</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIMT0002</id>
+    <displayName>TRUFANT 0.1 SE, MI US</displayName>
+    <minDate>2008-07-07</minDate>
+    <maxDate>2010-09-03</maxDate>
+    <latitude>43.3116</latitude>
+    <longitude>-85.353</longitude>
+    <elevation>257.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.417</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00669521</id>
+    <displayName>TRUJILLO ALTO 2 SSW, PR US</displayName>
+    <minDate>1957-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.3283</latitude>
+    <longitude>-66.0163</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8024</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299125</id>
+    <displayName>TRUJILLO, NM US</displayName>
+    <minDate>1915-06-01</minDate>
+    <maxDate>1957-04-30</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-104.7</longitude>
+    <elevation>1969.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00238466</id>
+    <displayName>TRUMAN DAM AND RESRVR, MO US</displayName>
+    <minDate>1980-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.258</latitude>
+    <longitude>-93.3988</longitude>
+    <elevation>192.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9444</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPN0001</id>
+    <displayName>TRUMANN 1.2 WNW, AR US</displayName>
+    <minDate>2009-07-28</minDate>
+    <maxDate>2011-02-02</maxDate>
+    <latitude>35.6793</latitude>
+    <longitude>-90.5402</longitude>
+    <elevation>65.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0024</id>
+    <displayName>TRUMANSBURG 0.4 WNW, NY US</displayName>
+    <minDate>2008-09-07</minDate>
+    <maxDate>2012-12-23</maxDate>
+    <latitude>42.5417</latitude>
+    <longitude>-76.6675</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6361</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0021</id>
+    <displayName>TRUMANSBURG 4.3 NE, NY US</displayName>
+    <minDate>2008-04-16</minDate>
+    <maxDate>2008-10-15</maxDate>
+    <latitude>42.5891</latitude>
+    <longitude>-76.6087</longitude>
+    <elevation>208.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5738</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABK0008</id>
+    <displayName>TRUMBAUERSVILLE 0.4 W, PA US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2008-01-08</maxDate>
+    <latitude>40.4145</latitude>
+    <longitude>-75.3867</longitude>
+    <elevation>157</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419162</id>
+    <displayName>TRUNK, TX US</displayName>
+    <minDate>1940-08-01</minDate>
+    <maxDate>1949-01-21</maxDate>
+    <latitude>32.21667</latitude>
+    <longitude>-101.71667</longitude>
+    <elevation>772.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419163</id>
+    <displayName>TRUSCOTT 3 W, TX US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.757</latitude>
+    <longitude>-99.8618</longitude>
+    <elevation>478.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7657</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKX0001</id>
+    <displayName>TRUSCOTT 3.9 NNW, TX US</displayName>
+    <minDate>2010-03-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8</latitude>
+    <longitude>-99.83</longitude>
+    <elevation>430.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4215</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0042</id>
+    <displayName>TRUSSVILLE 0.6 NW, AL US</displayName>
+    <minDate>2010-05-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6231</latitude>
+    <longitude>-86.6188</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9383</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0007</id>
+    <displayName>TRUSSVILLE 2.3 SW, AL US</displayName>
+    <minDate>2007-11-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6153</latitude>
+    <longitude>-86.6242</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0036</id>
+    <displayName>TRUSSVILLE 3.4 N, AL US</displayName>
+    <minDate>2008-01-18</minDate>
+    <maxDate>2012-01-22</maxDate>
+    <latitude>33.6847</latitude>
+    <longitude>-86.5972</longitude>
+    <elevation>314.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.822</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0040</id>
+    <displayName>TRUSSVILLE 3.9 ENE, AL US</displayName>
+    <minDate>2009-11-16</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>33.6606</latitude>
+    <longitude>-86.5315</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.369</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0038</id>
+    <displayName>TRUSSVILLE 6.6 NNE, AL US</displayName>
+    <minDate>2009-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7247</latitude>
+    <longitude>-86.5579</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294146</id>
+    <displayName>TRUTH OR CONSEQUENCE, NM US</displayName>
+    <minDate>1949-05-14</minDate>
+    <maxDate>1951-02-28</maxDate>
+    <latitude>33.13333</latitude>
+    <longitude>-107.23333</longitude>
+    <elevation>1302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299128</id>
+    <displayName>TRUTH OR CONSEQUENCE, NM US</displayName>
+    <minDate>1951-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.1405</latitude>
+    <longitude>-107.2322</longitude>
+    <elevation>1337.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5386</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSR0017</id>
+    <displayName>TRUTH OR CONSEQUENCES 13.2 ENE, NM US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>33.2203</latitude>
+    <longitude>-107.0435</longitude>
+    <elevation>1462.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSC0024</id>
+    <displayName>TRUTH OR CONSEQUENCES 26.8 N, NM US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>33.5177</latitude>
+    <longitude>-107.1638</longitude>
+    <elevation>1423.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093045</id>
+    <displayName>TRUTH OR CONSEQUENCES MUNICIPAL AIRPORT, NM US</displayName>
+    <minDate>1950-05-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.23667</latitude>
+    <longitude>-107.26806</longitude>
+    <elevation>1478.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7383</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOWR0004</id>
+    <displayName>TRUXTON 1.5 S, MO US</displayName>
+    <minDate>2012-03-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9805</latitude>
+    <longitude>-91.2425</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308614</id>
+    <displayName>TRUXTON 4 N, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1949-09-27</maxDate>
+    <latitude>42.76667</latitude>
+    <longitude>-76.03333</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308619</id>
+    <displayName>TRUXTON 5 N, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.78333</latitude>
+    <longitude>-76.03333</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8229</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ATRU</id>
+    <displayName>TRUXTON CANYON ARIZONA, AZ US</displayName>
+    <minDate>2002-08-16</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.7825</latitude>
+    <longitude>-113.7942</longitude>
+    <elevation>1630.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7661</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028778</id>
+    <displayName>TRUXTON CANYON, AZ US</displayName>
+    <minDate>1901-05-16</minDate>
+    <maxDate>1980-03-31</maxDate>
+    <latitude>35.38806</latitude>
+    <longitude>-113.65944</longitude>
+    <elevation>1164.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308611</id>
+    <displayName>TRUXTON, NY US</displayName>
+    <minDate>1953-09-01</minDate>
+    <maxDate>1977-01-31</maxDate>
+    <latitude>42.71667</latitude>
+    <longitude>-76.01667</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9421</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKLN0002</id>
+    <displayName>TRYON 1.4 NNE, OK US</displayName>
+    <minDate>2010-03-21</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>35.8993</latitude>
+    <longitude>-96.9592</longitude>
+    <elevation>290.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9328</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPK0010</id>
+    <displayName>TRYON 1.8 E, NC US</displayName>
+    <minDate>2008-08-29</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.2054</latitude>
+    <longitude>-82.2074</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPK0003</id>
+    <displayName>TRYON 2.0 NW, NC US</displayName>
+    <minDate>2007-11-22</minDate>
+    <maxDate>2009-06-21</maxDate>
+    <latitude>35.2312</latitude>
+    <longitude>-82.2605</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5727</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPK0005</id>
+    <displayName>TRYON 2.2 ESE, NC US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1968</latitude>
+    <longitude>-82.2029</longitude>
+    <elevation>342.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPK0004</id>
+    <displayName>TRYON 3.7 E, NC US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2111</latitude>
+    <longitude>-82.173</longitude>
+    <elevation>275.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4416</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258654</id>
+    <displayName>TRYON 6 NE, NE US</displayName>
+    <minDate>1977-06-01</minDate>
+    <maxDate>1980-09-30</maxDate>
+    <latitude>41.61667</latitude>
+    <longitude>-100.88333</longitude>
+    <elevation>1003.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPK0015</id>
+    <displayName>TRYON 6.0 ENE, NC US</displayName>
+    <minDate>2010-07-28</minDate>
+    <maxDate>2011-04-05</maxDate>
+    <latitude>35.2343</latitude>
+    <longitude>-82.137</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPK0009</id>
+    <displayName>TRYON 6.3 ENE, NC US</displayName>
+    <minDate>2008-05-28</minDate>
+    <maxDate>2010-08-19</maxDate>
+    <latitude>35.2613</latitude>
+    <longitude>-82.1197</longitude>
+    <elevation>318.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318744</id>
+    <displayName>TRYON, NC US</displayName>
+    <minDate>1917-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2058</latitude>
+    <longitude>-82.2516</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258650</id>
+    <displayName>TRYON, NE US</displayName>
+    <minDate>1945-09-01</minDate>
+    <maxDate>2002-10-31</maxDate>
+    <latitude>41.55222</latitude>
+    <longitude>-100.95833</longitude>
+    <elevation>989.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7299</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257930</id>
+    <displayName>TRYON, NE US</displayName>
+    <minDate>1983-01-01</minDate>
+    <maxDate>1986-01-31</maxDate>
+    <latitude>41.55222</latitude>
+    <longitude>-100.95833</longitude>
+    <elevation>989.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZAP0003</id>
+    <displayName>TSAILE 0.5 WNW, AZ US</displayName>
+    <minDate>2011-03-01</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>36.3047</latitude>
+    <longitude>-109.2233</longitude>
+    <elevation>2141.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053011</id>
+    <displayName>TSAILE 1 SSW, AZ US</displayName>
+    <minDate>2010-08-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.2920</latitude>
+    <longitude>-109.2181</longitude>
+    <elevation>2155.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509428</id>
+    <displayName>TSAINA LODGE, AK US</displayName>
+    <minDate>1971-11-15</minDate>
+    <maxDate>1974-12-31</maxDate>
+    <latitude>61.2</latitude>
+    <longitude>-145.53333</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0030</id>
+    <displayName>TUALATIN 0.6 SSE, OR US</displayName>
+    <minDate>2008-05-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.3684</latitude>
+    <longitude>-122.7664</longitude>
+    <elevation>84.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028792</id>
+    <displayName>TUBA CITY, AZ US</displayName>
+    <minDate>1897-03-08</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>36.1305</latitude>
+    <longitude>-111.2436</longitude>
+    <elevation>1520.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8256</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZSC0011</id>
+    <displayName>TUBAC 0.7 S, AZ US</displayName>
+    <minDate>2011-07-04</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>31.6019</latitude>
+    <longitude>-111.0458</longitude>
+    <elevation>978.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.223</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZSC0009</id>
+    <displayName>TUBAC 0.7 WNW, AZ US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6171</latitude>
+    <longitude>-111.0563</longitude>
+    <elevation>994.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9544</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZSC0010</id>
+    <displayName>TUBAC 2.9 SW, AZ US</displayName>
+    <minDate>2010-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.5883</latitude>
+    <longitude>-111.0876</longitude>
+    <elevation>1125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318754</id>
+    <displayName>TUCKASEGEE 2 S, NC US</displayName>
+    <minDate>1945-09-01</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>35.23333</latitude>
+    <longitude>-83.13333</longitude>
+    <elevation>705</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCJC0010</id>
+    <displayName>TUCKASEGEE 4.2 E, NC US</displayName>
+    <minDate>2012-04-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2766</latitude>
+    <longitude>-83.0494</longitude>
+    <elevation>1176.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0001</id>
+    <displayName>TUCKER 1.3 ENE, GA US</displayName>
+    <minDate>2008-04-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8591</latitude>
+    <longitude>-84.201</longitude>
+    <elevation>325.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9483</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0002</id>
+    <displayName>TUCKER 2.3 W, GA US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.858</latitude>
+    <longitude>-84.2637</longitude>
+    <elevation>301.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8228</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0020</id>
+    <displayName>TUCKER 4.1 SW, GA US</displayName>
+    <minDate>2009-09-09</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>33.8285</latitude>
+    <longitude>-84.2879</longitude>
+    <elevation>299.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278754</id>
+    <displayName>TUCKERMAN RAVINE, NH US</displayName>
+    <minDate>1947-03-01</minDate>
+    <maxDate>1950-09-30</maxDate>
+    <latitude>44.26667</latitude>
+    <longitude>-71.28333</longitude>
+    <elevation>1158.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8038</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00288899</id>
+    <displayName>TUCKERTON 2 NE, NJ US</displayName>
+    <minDate>1898-05-01</minDate>
+    <maxDate>2009-02-02</maxDate>
+    <latitude>39.6026</latitude>
+    <longitude>-74.3387</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8361</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419169</id>
+    <displayName>TUCO STATION, TX US</displayName>
+    <minDate>1946-12-01</minDate>
+    <maxDate>1952-10-31</maxDate>
+    <latitude>33.88333</latitude>
+    <longitude>-101.85</longitude>
+    <elevation>1022</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0128</id>
+    <displayName>TUCSON 0.8 E, AZ US</displayName>
+    <minDate>2010-01-22</minDate>
+    <maxDate>2011-01-04</maxDate>
+    <latitude>32.2188</latitude>
+    <longitude>-110.9058</longitude>
+    <elevation>769.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7241</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0147</id>
+    <displayName>TUCSON 1.3 NW, AZ US</displayName>
+    <minDate>2009-08-23</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.2318</latitude>
+    <longitude>-110.9363</longitude>
+    <elevation>750.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0121</id>
+    <displayName>TUCSON 1.4 ENE, AZ US</displayName>
+    <minDate>2010-01-18</minDate>
+    <maxDate>2010-07-31</maxDate>
+    <latitude>32.2275</latitude>
+    <longitude>-110.8983</longitude>
+    <elevation>768.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6154</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0006</id>
+    <displayName>TUCSON 1.4 N, AZ US</displayName>
+    <minDate>2009-08-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.2156</latitude>
+    <longitude>-110.8936</longitude>
+    <elevation>775.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9603</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0014</id>
+    <displayName>TUCSON 1.5 NNE, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2168</latitude>
+    <longitude>-110.8825</longitude>
+    <elevation>783.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9374</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0157</id>
+    <displayName>TUCSON 1.7 NNE, AZ US</displayName>
+    <minDate>2010-06-24</minDate>
+    <maxDate>2012-07-14</maxDate>
+    <latitude>32.2406</latitude>
+    <longitude>-110.9056</longitude>
+    <elevation>756.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0073</id>
+    <displayName>TUCSON 10.1 ENE, AZ US</displayName>
+    <minDate>2009-08-27</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2688</latitude>
+    <longitude>-110.7416</longitude>
+    <elevation>817.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0142</id>
+    <displayName>TUCSON 10.2 WSW, AZ US</displayName>
+    <minDate>2009-10-03</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.1431</latitude>
+    <longitude>-111.0697</longitude>
+    <elevation>794</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1256</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0160</id>
+    <displayName>TUCSON 10.3 NNW, AZ US</displayName>
+    <minDate>2010-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3531</latitude>
+    <longitude>-111.0003</longitude>
+    <elevation>743.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0118</id>
+    <displayName>TUCSON 10.3 SE, AZ US</displayName>
+    <minDate>2010-01-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1169</latitude>
+    <longitude>-110.7936</longitude>
+    <elevation>890</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9547</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0111</id>
+    <displayName>TUCSON 10.5 ESE, AZ US</displayName>
+    <minDate>2009-11-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.139</latitude>
+    <longitude>-110.7674</longitude>
+    <elevation>886.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0193</id>
+    <displayName>TUCSON 10.6 WNW, AZ US</displayName>
+    <minDate>2011-09-20</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.299</latitude>
+    <longitude>-111.0764</longitude>
+    <elevation>714.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0125</id>
+    <displayName>TUCSON 10.7 ESE, AZ US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2011-11-15</maxDate>
+    <latitude>32.1342</latitude>
+    <longitude>-110.7684</longitude>
+    <elevation>890.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0214</id>
+    <displayName>TUCSON 10.8 SE, AZ US</displayName>
+    <minDate>2012-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1073</latitude>
+    <longitude>-110.7929</longitude>
+    <elevation>893.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.96</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053131</id>
+    <displayName>TUCSON 11 W, AZ US</displayName>
+    <minDate>2002-09-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.2395</latitude>
+    <longitude>-111.1696</longitude>
+    <elevation>833</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0205</id>
+    <displayName>TUCSON 11.0 NW, AZ US</displayName>
+    <minDate>2012-05-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3113</latitude>
+    <longitude>-111.0749</longitude>
+    <elevation>696.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9402</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0104</id>
+    <displayName>TUCSON 11.1 ENE, AZ US</displayName>
+    <minDate>2009-10-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2869</latitude>
+    <longitude>-110.7466</longitude>
+    <elevation>830</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0074</id>
+    <displayName>TUCSON 11.5 NNW, AZ US</displayName>
+    <minDate>2009-08-28</minDate>
+    <maxDate>2010-07-31</maxDate>
+    <latitude>32.3511</latitude>
+    <longitude>-110.9631</longitude>
+    <elevation>839.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9172</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0143</id>
+    <displayName>TUCSON 11.7 ENE, AZ US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2543</latitude>
+    <longitude>-110.7233</longitude>
+    <elevation>827.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+</stationCollection>

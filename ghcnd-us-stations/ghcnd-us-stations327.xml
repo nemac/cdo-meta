@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="327">
+  <station>
+    <id>GHCND:USC00236665</id>
+    <displayName>PHILADELPHIA, MO US</displayName>
+    <minDate>1930-12-01</minDate>
+    <maxDate>1949-04-30</maxDate>
+    <latitude>39.833333</latitude>
+    <longitude>-91.733333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306557</id>
+    <displayName>PHILADELPHIA, NY US</displayName>
+    <minDate>1907-05-01</minDate>
+    <maxDate>1936-12-31</maxDate>
+    <latitude>44.133333</latitude>
+    <longitude>-75.7</longitude>
+    <elevation>147.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013779</id>
+    <displayName>PHILADELPHIA, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1993-12-31</maxDate>
+    <latitude>39.95</latitude>
+    <longitude>-75.15</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHK0017</id>
+    <displayName>PHILIP 0.4 ENE, SD US</displayName>
+    <minDate>2007-06-18</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>44.0436</latitude>
+    <longitude>-101.6572</longitude>
+    <elevation>679.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9708</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHK0015</id>
+    <displayName>PHILIP 13.2 N, SD US</displayName>
+    <minDate>2007-06-13</minDate>
+    <maxDate>2007-10-07</maxDate>
+    <latitude>44.2311</latitude>
+    <longitude>-101.6665</longitude>
+    <elevation>754.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHK0005</id>
+    <displayName>PHILIP 20.7 NW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2837</latitude>
+    <longitude>-101.9088</longitude>
+    <elevation>772.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024024</id>
+    <displayName>PHILIP AIRPORT, SD US</displayName>
+    <minDate>1907-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.05111</latitude>
+    <longitude>-101.60111</longitude>
+    <elevation>672.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6289</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466982</id>
+    <displayName>PHILIPPI, WV US</displayName>
+    <minDate>1896-03-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>39.1461</latitude>
+    <longitude>-80.0411</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9359</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTGT0003</id>
+    <displayName>PHILIPSBURG 10.3 SSW, MT US</displayName>
+    <minDate>2007-12-06</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>46.2049</latitude>
+    <longitude>-113.406</longitude>
+    <elevation>1661.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366921</id>
+    <displayName>PHILIPSBURG 2 S, PA US</displayName>
+    <minDate>1998-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8729</latitude>
+    <longitude>-78.2161</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246471</id>
+    <displayName>PHILIPSBURG 7 S, MT US</displayName>
+    <minDate>1983-11-01</minDate>
+    <maxDate>1989-12-31</maxDate>
+    <latitude>46.21667</latitude>
+    <longitude>-113.3</longitude>
+    <elevation>1740.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014761</id>
+    <displayName>PHILIPSBURG MID STATE AIRPORT, PA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1997-02-28</maxDate>
+    <latitude>40.9</latitude>
+    <longitude>-78.08333</longitude>
+    <elevation>591.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MPHL</id>
+    <displayName>PHILIPSBURG MONTANA, MT US</displayName>
+    <minDate>2001-05-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.3167</latitude>
+    <longitude>-113.3</longitude>
+    <elevation>1609.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9053</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246472</id>
+    <displayName>PHILIPSBURG RANGER STATION, MT US</displayName>
+    <minDate>1955-10-13</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.3158</latitude>
+    <longitude>-113.3</longitude>
+    <elevation>1606.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246470</id>
+    <displayName>PHILIPSBURG, MT US</displayName>
+    <minDate>1903-09-01</minDate>
+    <maxDate>1955-10-31</maxDate>
+    <latitude>46.33333</latitude>
+    <longitude>-113.3</longitude>
+    <elevation>1610</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10hami013</id>
+    <displayName>PHILLIPS 0.2 SSW, NE US</displayName>
+    <minDate>2007-04-13</minDate>
+    <maxDate>2010-08-25</maxDate>
+    <latitude>40.8944</latitude>
+    <longitude>-98.2171</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246475</id>
+    <displayName>PHILLIPS 1 S, MT US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>1973-03-31</maxDate>
+    <latitude>48.06667</latitude>
+    <longitude>-108.16667</longitude>
+    <elevation>808</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00176707</id>
+    <displayName>PHILLIPS 2, ME US</displayName>
+    <minDate>2002-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8297</latitude>
+    <longitude>-70.3936</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIPR0001</id>
+    <displayName>PHILLIPS 3.6 W, WI US</displayName>
+    <minDate>2007-06-02</minDate>
+    <maxDate>2007-12-27</maxDate>
+    <latitude>45.6943</latitude>
+    <longitude>-90.4715</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476523</id>
+    <displayName>PHILLIPS 5 SSE, WI US</displayName>
+    <minDate>1889-01-01</minDate>
+    <maxDate>1892-06-29</maxDate>
+    <latitude>45.61667</latitude>
+    <longitude>-90.36667</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10hami008</id>
+    <displayName>PHILLIPS 6.3 ENE, NE US</displayName>
+    <minDate>2007-01-02</minDate>
+    <maxDate>2011-10-12</maxDate>
+    <latitude>40.945</latitude>
+    <longitude>-98.1132</longitude>
+    <elevation>566</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.263</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010F23S</id>
+    <displayName>PHILLIPS BENCH, WY US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.5167</latitude>
+    <longitude>-110.9167</longitude>
+    <elevation>2499.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MPHI</id>
+    <displayName>PHILLIPS RESERVOIR MONTANA, MT US</displayName>
+    <minDate>1987-11-03</minDate>
+    <maxDate>2007-05-22</maxDate>
+    <latitude>47.8331</latitude>
+    <longitude>-108.6167</longitude>
+    <elevation>1030.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00176705</id>
+    <displayName>PHILLIPS, ME US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2000-03-31</maxDate>
+    <latitude>44.81667</latitude>
+    <longitude>-70.35</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487200</id>
+    <displayName>PHILLIPS, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.6263</latitude>
+    <longitude>-104.4936</longitude>
+    <elevation>1518.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPL0002</id>
+    <displayName>PHILLIPSBURG 0.5 WNW, KS US</displayName>
+    <minDate>2005-09-06</minDate>
+    <maxDate>2011-11-14</maxDate>
+    <latitude>39.7535</latitude>
+    <longitude>-99.331</longitude>
+    <elevation>587</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146374</id>
+    <displayName>PHILLIPSBURG 1 SSE, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1996-03-28</maxDate>
+    <latitude>39.7394</latitude>
+    <longitude>-99.3186</longitude>
+    <elevation>581.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9602</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOLD0008</id>
+    <displayName>PHILLIPSBURG 3.4 NE, MO US</displayName>
+    <minDate>2008-01-13</minDate>
+    <maxDate>2012-10-05</maxDate>
+    <latitude>37.5853</latitude>
+    <longitude>-92.7375</longitude>
+    <elevation>412.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00286979</id>
+    <displayName>PHILLIPSBURG EASTON, PA US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6971</latitude>
+    <longitude>-75.2042</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146378</id>
+    <displayName>PHILLIPSBURG NUMBER 2, KS US</displayName>
+    <minDate>1997-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7533</latitude>
+    <longitude>-99.3105</longitude>
+    <elevation>568.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236669</id>
+    <displayName>PHILLIPSBURG, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1902-11-30</maxDate>
+    <latitude>37.533333</latitude>
+    <longitude>-92.816667</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9152</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00286974</id>
+    <displayName>PHILLIPSBURG, NJ US</displayName>
+    <minDate>1903-02-01</minDate>
+    <maxDate>1977-05-31</maxDate>
+    <latitude>40.68333</latitude>
+    <longitude>-75.18333</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306562</id>
+    <displayName>PHILLIPSBURG, NY US</displayName>
+    <minDate>1956-12-01</minDate>
+    <maxDate>1959-09-30</maxDate>
+    <latitude>41.43333</latitude>
+    <longitude>-74.36667</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296797</id>
+    <displayName>PHILMONT RANCH, NM US</displayName>
+    <minDate>1941-04-01</minDate>
+    <maxDate>1961-05-31</maxDate>
+    <latitude>36.61667</latitude>
+    <longitude>-105.05</longitude>
+    <elevation>2318</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCP0029</id>
+    <displayName>PHILO 1.9 ENE, IL US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.0113</latitude>
+    <longitude>-88.1237</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336600</id>
+    <displayName>PHILO 3 SW, OH US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.8386</latitude>
+    <longitude>-81.9166</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116769</id>
+    <displayName>PHILO, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.0063</latitude>
+    <longitude>-88.1532</longitude>
+    <elevation>219.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336590</id>
+    <displayName>PHILO, OH US</displayName>
+    <minDate>1901-09-05</minDate>
+    <maxDate>1965-09-30</maxDate>
+    <latitude>39.86667</latitude>
+    <longitude>-81.9</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORBN0028</id>
+    <displayName>PHILOMATH 1.1 E, OR US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.5361</latitude>
+    <longitude>-123.3388</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8884</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORBN0026</id>
+    <displayName>PHILOMATH 1.6 NE, OR US</displayName>
+    <minDate>2008-02-11</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>44.558</latitude>
+    <longitude>-123.337</longitude>
+    <elevation>104.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5384</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORBN0003</id>
+    <displayName>PHILOMATH 1.9 WSW, OR US</displayName>
+    <minDate>2007-12-02</minDate>
+    <maxDate>2011-08-29</maxDate>
+    <latitude>44.5323</latitude>
+    <longitude>-123.395</longitude>
+    <elevation>86</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356614</id>
+    <displayName>PHILOMATH 2 SE, OR US</displayName>
+    <minDate>1940-12-13</minDate>
+    <maxDate>1972-08-31</maxDate>
+    <latitude>44.53333</latitude>
+    <longitude>-123.33333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORBN0021</id>
+    <displayName>PHILOMATH 4.8 NNW, OR US</displayName>
+    <minDate>2007-12-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5991</latitude>
+    <longitude>-123.4085</longitude>
+    <elevation>150.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORBN0033</id>
+    <displayName>PHILOMATH 7.0 NNW, OR US</displayName>
+    <minDate>2008-01-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.6286</latitude>
+    <longitude>-123.4314</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446692</id>
+    <displayName>PHILPOTT DAM 2, VA US</displayName>
+    <minDate>1953-09-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.7764</latitude>
+    <longitude>-80.0272</longitude>
+    <elevation>342.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446691</id>
+    <displayName>PHILPOTT DAM, VA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1953-09-30</maxDate>
+    <latitude>36.78333</latitude>
+    <longitude>-80.03333</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9417</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MESG0006</id>
+    <displayName>PHIPPSBURG 4.8 S, ME US</displayName>
+    <minDate>2010-02-17</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>43.7528</latitude>
+    <longitude>-69.8049</longitude>
+    <elevation>13.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306567</id>
+    <displayName>PHOENICIA, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2000-11-30</maxDate>
+    <latitude>42.08639</latitude>
+    <longitude>-74.31417</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9509</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0088</id>
+    <displayName>PHOENIX 10.0 NW, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.5827</latitude>
+    <longitude>-112.1413</longitude>
+    <elevation>377.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0242</id>
+    <displayName>PHOENIX 10.0 S, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>33.2954</latitude>
+    <longitude>-112.0681</longitude>
+    <elevation>382.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6054</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0313</id>
+    <displayName>PHOENIX 10.2 S, AZ US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.2938</latitude>
+    <longitude>-112.0888</longitude>
+    <elevation>365.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9902</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0334</id>
+    <displayName>PHOENIX 10.5 NNW, AZ US</displayName>
+    <minDate>2011-07-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.5839</latitude>
+    <longitude>-112.1303</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0189</id>
+    <displayName>PHOENIX 11.0 NNE, AZ US</displayName>
+    <minDate>2009-09-24</minDate>
+    <maxDate>2011-07-11</maxDate>
+    <latitude>33.5888</latitude>
+    <longitude>-112.0009</longitude>
+    <elevation>427.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4268</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0138</id>
+    <displayName>PHOENIX 11.5 NNW, AZ US</displayName>
+    <minDate>2009-09-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6074</latitude>
+    <longitude>-112.1342</longitude>
+    <elevation>388.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0259</id>
+    <displayName>PHOENIX 11.6 N, AZ US</displayName>
+    <minDate>2009-01-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6069</latitude>
+    <longitude>-112.0407</longitude>
+    <elevation>464.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3522</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0220</id>
+    <displayName>PHOENIX 12.8 N, AZ US</displayName>
+    <minDate>2009-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6258</latitude>
+    <longitude>-112.0591</longitude>
+    <elevation>444.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.947</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0015</id>
+    <displayName>PHOENIX 3.6 NW, AZ US</displayName>
+    <minDate>2009-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4931</latitude>
+    <longitude>-112.1072</longitude>
+    <elevation>340.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0131</id>
+    <displayName>PHOENIX 3.8 NNW, AZ US</displayName>
+    <minDate>2009-12-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5039</latitude>
+    <longitude>-112.0882</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.485</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0025</id>
+    <displayName>PHOENIX 4.2 NE, AZ US</displayName>
+    <minDate>2009-08-24</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.4955</latitude>
+    <longitude>-112.0272</longitude>
+    <elevation>354.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9652</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0001</id>
+    <displayName>PHOENIX 4.4 S, AZ US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2011-05-20</maxDate>
+    <latitude>33.4793</latitude>
+    <longitude>-112.0791</longitude>
+    <elevation>334.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0283</id>
+    <displayName>PHOENIX 4.7 ENE, AZ US</displayName>
+    <minDate>2010-03-10</minDate>
+    <maxDate>2011-05-19</maxDate>
+    <latitude>33.4749</latitude>
+    <longitude>-112.0003</longitude>
+    <elevation>356</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0039</id>
+    <displayName>PHOENIX 4.9 S, AZ US</displayName>
+    <minDate>2009-09-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4728</latitude>
+    <longitude>-112.055</longitude>
+    <elevation>336.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0353</id>
+    <displayName>PHOENIX 5.3 N, AZ US</displayName>
+    <minDate>2012-07-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.5155</latitude>
+    <longitude>-112.0548</longitude>
+    <elevation>353</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9293</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0343</id>
+    <displayName>PHOENIX 5.4 NE, AZ US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4912</latitude>
+    <longitude>-111.9993</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0140</id>
+    <displayName>PHOENIX 5.6 N, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.5303</latitude>
+    <longitude>-112.079</longitude>
+    <elevation>355.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0198</id>
+    <displayName>PHOENIX 5.6 N, AZ US</displayName>
+    <minDate>2009-09-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.5204</latitude>
+    <longitude>-112.0687</longitude>
+    <elevation>355.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.892</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0034</id>
+    <displayName>PHOENIX 5.6 SW, AZ US</displayName>
+    <minDate>2009-09-02</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.3925</latitude>
+    <longitude>-112.1437</longitude>
+    <elevation>312.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9597</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0254</id>
+    <displayName>PHOENIX 5.8 NNE, AZ US</displayName>
+    <minDate>2009-12-19</minDate>
+    <maxDate>2012-08-18</maxDate>
+    <latitude>33.5218</latitude>
+    <longitude>-112.0496</longitude>
+    <elevation>357.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8789</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0303</id>
+    <displayName>PHOENIX 6.3 ENE, AZ US</displayName>
+    <minDate>2010-07-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4775</latitude>
+    <longitude>-111.971</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0326</id>
+    <displayName>PHOENIX 6.3 SSW, AZ US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.3504</latitude>
+    <longitude>-112.0945</longitude>
+    <elevation>399.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0024</id>
+    <displayName>PHOENIX 6.7 NNW, AZ US</displayName>
+    <minDate>2009-09-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5454</latitude>
+    <longitude>-112.0815</longitude>
+    <elevation>363.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8432</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0222</id>
+    <displayName>PHOENIX 6.7 WSW, AZ US</displayName>
+    <minDate>2009-11-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4094</latitude>
+    <longitude>-112.181</longitude>
+    <elevation>308.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0062</id>
+    <displayName>PHOENIX 6.8 NW, AZ US</displayName>
+    <minDate>2009-08-27</minDate>
+    <maxDate>2011-12-14</maxDate>
+    <latitude>33.5401</latitude>
+    <longitude>-112.1193</longitude>
+    <elevation>361.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053156</id>
+    <displayName>PHOENIX 7 S, AZ US</displayName>
+    <minDate>2010-03-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3471</latitude>
+    <longitude>-112.0832</longitude>
+    <elevation>427.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOS0008</id>
+    <displayName>PHOENIX 7.1 NNE, NY US</displayName>
+    <minDate>2008-09-11</minDate>
+    <maxDate>2009-12-04</maxDate>
+    <latitude>43.3323</latitude>
+    <longitude>-76.2666</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0101</id>
+    <displayName>PHOENIX 7.1 WNW, AZ US</displayName>
+    <minDate>2009-09-17</minDate>
+    <maxDate>2010-08-18</maxDate>
+    <latitude>33.4692</latitude>
+    <longitude>-112.1932</longitude>
+    <elevation>325.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6845</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0027</id>
+    <displayName>PHOENIX 7.2 NNE, AZ US</displayName>
+    <minDate>2009-09-05</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.5501</latitude>
+    <longitude>-112.0431</longitude>
+    <elevation>395.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9673</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0057</id>
+    <displayName>PHOENIX 7.4 NE, AZ US</displayName>
+    <minDate>2009-08-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5215</latitude>
+    <longitude>-111.9796</longitude>
+    <elevation>406.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0156</id>
+    <displayName>PHOENIX 8.0 NNE, AZ US</displayName>
+    <minDate>2009-09-20</minDate>
+    <maxDate>2011-06-13</maxDate>
+    <latitude>33.553</latitude>
+    <longitude>-112.0403</longitude>
+    <elevation>399.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8212</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0203</id>
+    <displayName>PHOENIX 8.4 N, AZ US</displayName>
+    <minDate>2009-09-22</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.5608</latitude>
+    <longitude>-112.0896</longitude>
+    <elevation>370</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9529</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0211</id>
+    <displayName>PHOENIX 8.8 NNW, AZ US</displayName>
+    <minDate>2009-09-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5511</latitude>
+    <longitude>-112.1466</longitude>
+    <elevation>363.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0082</id>
+    <displayName>PHOENIX 9.2 NE, AZ US</displayName>
+    <minDate>2009-09-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.572</latitude>
+    <longitude>-112.0132</longitude>
+    <elevation>447.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9805</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0228</id>
+    <displayName>PHOENIX 9.5 SE, AZ US</displayName>
+    <minDate>2009-11-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.3289</latitude>
+    <longitude>-111.9739</longitude>
+    <elevation>376.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9672</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093140</id>
+    <displayName>PHOENIX CITY, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1998-10-31</maxDate>
+    <latitude>33.44889</latitude>
+    <longitude>-112.0825</longitude>
+    <elevation>334.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003184</id>
+    <displayName>PHOENIX DEER VALLEY MUNICIPAL AIRPORT, AZ US</displayName>
+    <minDate>1998-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.68833</latitude>
+    <longitude>-112.08167</longitude>
+    <elevation>443.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026476</id>
+    <displayName>PHOENIX INDIAN SCHOOL, AZ US</displayName>
+    <minDate>1920-10-02</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>33.5</latitude>
+    <longitude>-112.06667</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093105</id>
+    <displayName>PHOENIX LITCHFIELD PARK NAF, AZ US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>1966-09-29</maxDate>
+    <latitude>33.43333</latitude>
+    <longitude>-112.36667</longitude>
+    <elevation>292</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7402</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023111</id>
+    <displayName>PHOENIX LUKE AFB, AZ US</displayName>
+    <minDate>1951-04-17</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>33.55</latitude>
+    <longitude>-112.36667</longitude>
+    <elevation>330.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026479</id>
+    <displayName>PHOENIX S MOUNTAIN, AZ US</displayName>
+    <minDate>1975-01-01</minDate>
+    <maxDate>1983-03-17</maxDate>
+    <latitude>33.33333</latitude>
+    <longitude>-112.05</longitude>
+    <elevation>806.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023183</id>
+    <displayName>PHOENIX SKY HARBOR INTERNATIONAL AIRPORT, AZ US</displayName>
+    <minDate>1933-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.4277</latitude>
+    <longitude>-112.0038</longitude>
+    <elevation>337.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9347</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023104</id>
+    <displayName>PHOENIX WILLIAMS GATEWAY AIRPORT, AZ US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>33.3</latitude>
+    <longitude>-111.66667</longitude>
+    <elevation>421.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206582</id>
+    <displayName>PHOENIX, MI US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>1945-12-31</maxDate>
+    <latitude>47.4</latitude>
+    <longitude>-88.1</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8611</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306579</id>
+    <displayName>PHOENIX, NY US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>1900-11-30</maxDate>
+    <latitude>43.066667</latitude>
+    <longitude>-76.283333</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366927</id>
+    <displayName>PHOENIXVILLE 1 E, PA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.12</latitude>
+    <longitude>-75.5011</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306570</id>
+    <displayName>PHONECIA 2 SW, NY US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.0674</latitude>
+    <longitude>-74.3356</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107040</id>
+    <displayName>PICABO, ID US</displayName>
+    <minDate>1958-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3111</latitude>
+    <longitude>-114.0741</longitude>
+    <elevation>1472.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026513</id>
+    <displayName>PICACHO 8 SE, AZ US</displayName>
+    <minDate>1987-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.6463</latitude>
+    <longitude>-111.4017</longitude>
+    <elevation>603.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026506</id>
+    <displayName>PICACHO RESERVOIR, AZ US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1983-08-31</maxDate>
+    <latitude>32.86667</latitude>
+    <longitude>-111.46667</longitude>
+    <elevation>460.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPIC</id>
+    <displayName>PICACHO WASH CALIFORNIA, CA US</displayName>
+    <minDate>1988-02-23</minDate>
+    <maxDate>1996-12-07</maxDate>
+    <latitude>32.95</latitude>
+    <longitude>-114.7322</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296804</id>
+    <displayName>PICACHO, NM US</displayName>
+    <minDate>1980-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3502</latitude>
+    <longitude>-105.14</longitude>
+    <elevation>1521</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9466</coverage>
+  </station>
+</stationCollection>

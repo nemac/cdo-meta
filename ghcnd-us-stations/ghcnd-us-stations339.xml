@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="339">
+  <station>
+    <id>GHCND:USC00417243</id>
+    <displayName>PRAIRIE MOUNTAIN, TX US</displayName>
+    <minDate>1948-06-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.5768</latitude>
+    <longitude>-98.8766</longitude>
+    <elevation>441.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.111</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDCS0011</id>
+    <displayName>PRAIRIE ROSE 0.4 S, ND US</displayName>
+    <minDate>2009-05-15</minDate>
+    <maxDate>2010-07-15</maxDate>
+    <latitude>46.812</latitude>
+    <longitude>-96.833</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5738</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0007</id>
+    <displayName>PRAIRIE VILLAGE 0.1 SW, KS US</displayName>
+    <minDate>2005-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9858</latitude>
+    <longitude>-94.6372</longitude>
+    <elevation>324</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8389</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146543</id>
+    <displayName>PRAIRIE VILLAGE, KS US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>39</latitude>
+    <longitude>-94.63333</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107327</id>
+    <displayName>PRAIRIE, ID US</displayName>
+    <minDate>1925-08-16</minDate>
+    <maxDate>1950-10-28</maxDate>
+    <latitude>43.5063</latitude>
+    <longitude>-115.5716</longitude>
+    <elevation>1456.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015F06S</id>
+    <displayName>PRAIRIE, ID US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.5</latitude>
+    <longitude>-115.5833</longitude>
+    <elevation>1463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8156</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297054</id>
+    <displayName>PRAIRIEVIEW, NM US</displayName>
+    <minDate>1911-06-01</minDate>
+    <maxDate>1950-01-31</maxDate>
+    <latitude>33.11667</latitude>
+    <longitude>-103.2</longitude>
+    <elevation>1220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8647</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAAS0010</id>
+    <displayName>PRAIRIEVILLE 1.8 NW, LA US</displayName>
+    <minDate>2010-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3187</latitude>
+    <longitude>-90.9954</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0009</id>
+    <displayName>PRATT 0.8 NE, KS US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>37.6546</latitude>
+    <longitude>-98.7242</longitude>
+    <elevation>577.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0001</id>
+    <displayName>PRATT 1.3 WNW, KS US</displayName>
+    <minDate>2007-03-20</minDate>
+    <maxDate>2011-06-17</maxDate>
+    <latitude>37.6546</latitude>
+    <longitude>-98.758</longitude>
+    <elevation>583.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8704</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0013</id>
+    <displayName>PRATT 1.6 SSE, KS US</displayName>
+    <minDate>2009-08-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.6259</latitude>
+    <longitude>-98.724</longitude>
+    <elevation>577.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0003</id>
+    <displayName>PRATT 2.6 S, KS US</displayName>
+    <minDate>2006-04-24</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.6096</latitude>
+    <longitude>-98.7406</longitude>
+    <elevation>588</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1532</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146549</id>
+    <displayName>PRATT, KS US</displayName>
+    <minDate>1895-11-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>37.6455</latitude>
+    <longitude>-98.7281</longitude>
+    <elevation>571.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216644</id>
+    <displayName>PRATT, MN US</displayName>
+    <minDate>1905-02-15</minDate>
+    <maxDate>1906-06-30</maxDate>
+    <latitude>44.01667</latitude>
+    <longitude>-93.13333</longitude>
+    <elevation>372.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6248</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297060</id>
+    <displayName>PRATT, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1914-02-28</maxDate>
+    <latitude>31.95</latitude>
+    <longitude>-108.9</longitude>
+    <elevation>1348.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306831</id>
+    <displayName>PRATTSBURG 2 NW, NY US</displayName>
+    <minDate>1944-11-01</minDate>
+    <maxDate>1986-10-31</maxDate>
+    <latitude>42.53333</latitude>
+    <longitude>-77.3</longitude>
+    <elevation>591.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306833</id>
+    <displayName>PRATTSBURG, NY US</displayName>
+    <minDate>1988-01-01</minDate>
+    <maxDate>2002-08-31</maxDate>
+    <latitude>42.51667</latitude>
+    <longitude>-77.26667</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8604</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARGT0004</id>
+    <displayName>PRATTSVILLE 0.3 NW, AR US</displayName>
+    <minDate>2012-06-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.3211</latitude>
+    <longitude>-92.5471</longitude>
+    <elevation>92.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9083</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306842</id>
+    <displayName>PRATTSVILLE 2, NY US</displayName>
+    <minDate>1958-12-01</minDate>
+    <maxDate>1960-02-29</maxDate>
+    <latitude>42.31667</latitude>
+    <longitude>-74.43333</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306839</id>
+    <displayName>PRATTSVILLE, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2001-10-31</maxDate>
+    <latitude>42.32806</latitude>
+    <longitude>-74.44222</longitude>
+    <elevation>367.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8078</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALAT0002</id>
+    <displayName>PRATTVILLE 1.1 NNE, AL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2012-10-06</maxDate>
+    <latitude>32.4756</latitude>
+    <longitude>-86.4393</longitude>
+    <elevation>106.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8235</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALAT0014</id>
+    <displayName>PRATTVILLE 2.7 WNW, AL US</displayName>
+    <minDate>2009-10-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4825</latitude>
+    <longitude>-86.4854</longitude>
+    <elevation>100.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8467</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016643</id>
+    <displayName>PRATTVILLE 3 SW, AL US</displayName>
+    <minDate>2001-12-01</minDate>
+    <maxDate>2007-04-30</maxDate>
+    <latitude>32.44528</latitude>
+    <longitude>-86.555</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALAT0010</id>
+    <displayName>PRATTVILLE 5.9 WSW, AL US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4262</latitude>
+    <longitude>-86.539</longitude>
+    <elevation>95.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7181</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016640</id>
+    <displayName>PRATTVILLE, AL US</displayName>
+    <minDate>1899-12-01</minDate>
+    <maxDate>1977-09-30</maxDate>
+    <latitude>32.48333</latitude>
+    <longitude>-86.48333</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.92</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTPK0009</id>
+    <displayName>PRAY 1.7 NW, MT US</displayName>
+    <minDate>2009-06-14</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>45.4022</latitude>
+    <longitude>-110.7002</longitude>
+    <elevation>1477.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1751</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000APRE</id>
+    <displayName>PREACHER CREEK ALASKA, AK US</displayName>
+    <minDate>1993-08-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>65.9233</latitude>
+    <longitude>-145.03</longitude>
+    <elevation>316.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7008</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TPRE</id>
+    <displayName>PRENTICE COOPER SF TENNESSEE, TN US</displayName>
+    <minDate>2003-10-24</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>35.1303</latitude>
+    <longitude>-85.4278</longitude>
+    <elevation>585.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9274</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476859</id>
+    <displayName>PRENTICE NUMBER 2, WI US</displayName>
+    <minDate>1898-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5447</latitude>
+    <longitude>-90.3017</longitude>
+    <elevation>469.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476854</id>
+    <displayName>PRENTICE, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.5478</latitude>
+    <longitude>-90.2883</longitude>
+    <elevation>469.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00176927</id>
+    <displayName>PRENTISS, ME US</displayName>
+    <minDate>1947-07-01</minDate>
+    <maxDate>1957-01-31</maxDate>
+    <latitude>45.45</latitude>
+    <longitude>-68.16667</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7436</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227172</id>
+    <displayName>PRENTISS, MS US</displayName>
+    <minDate>1940-05-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.5868</latitude>
+    <longitude>-89.8819</longitude>
+    <elevation>85.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIPC0008</id>
+    <displayName>PRESCOTT 0.6 NW, WI US</displayName>
+    <minDate>2011-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7564</latitude>
+    <longitude>-92.7997</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9414</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0011</id>
+    <displayName>PRESCOTT 16.2 NNW, AZ US</displayName>
+    <minDate>2009-09-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7566</latitude>
+    <longitude>-112.5705</longitude>
+    <elevation>1518.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7184</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0029</id>
+    <displayName>PRESCOTT 2.4 NNE, AZ US</displayName>
+    <minDate>2010-10-11</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>34.571</latitude>
+    <longitude>-112.4417</longitude>
+    <elevation>1634.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0017</id>
+    <displayName>PRESCOTT 2.9 WNW, AZ US</displayName>
+    <minDate>2009-11-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5565</latitude>
+    <longitude>-112.5075</longitude>
+    <elevation>1734.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0032</id>
+    <displayName>PRESCOTT 3.1 NW, AZ US</displayName>
+    <minDate>2011-05-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.5763</latitude>
+    <longitude>-112.4909</longitude>
+    <elevation>1998.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0028</id>
+    <displayName>PRESCOTT 3.9 NW, AZ US</displayName>
+    <minDate>2010-08-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.5764</latitude>
+    <longitude>-112.5132</longitude>
+    <elevation>1704.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0022</id>
+    <displayName>PRESCOTT 4.4 ENE, AZ US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5613</latitude>
+    <longitude>-112.3863</longitude>
+    <elevation>1648.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARNV0002</id>
+    <displayName>PRESCOTT 4.4 S, AR US</displayName>
+    <minDate>2012-07-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7366</latitude>
+    <longitude>-93.3813</longitude>
+    <elevation>84.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7113</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0035</id>
+    <displayName>PRESCOTT 4.5 N, AZ US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2012-07-18</maxDate>
+    <latitude>34.6052</latitude>
+    <longitude>-112.4574</longitude>
+    <elevation>1580.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2415</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0042</id>
+    <displayName>PRESCOTT 4.6 N, AZ US</displayName>
+    <minDate>2011-10-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6062</latitude>
+    <longitude>-112.4623</longitude>
+    <elevation>1599</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8791</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0040</id>
+    <displayName>PRESCOTT 4.8 E, AZ US</displayName>
+    <minDate>2011-08-08</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.5434</latitude>
+    <longitude>-112.3764</longitude>
+    <elevation>1639.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0002</id>
+    <displayName>PRESCOTT 7.1 S, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2011-06-30</maxDate>
+    <latitude>34.4736</latitude>
+    <longitude>-112.439</longitude>
+    <elevation>1912</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0036</id>
+    <displayName>PRESCOTT 9.1 NNW, AZ US</displayName>
+    <minDate>2011-06-02</minDate>
+    <maxDate>2012-07-24</maxDate>
+    <latitude>34.6665</latitude>
+    <longitude>-112.508</longitude>
+    <elevation>1574.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6444</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023184</id>
+    <displayName>PRESCOTT LOVE FIELD, AZ US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.65167</latitude>
+    <longitude>-112.42083</longitude>
+    <elevation>1536.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035910</id>
+    <displayName>PRESCOTT SOIL CONSERVATION SERVICE, AR US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.8</latitude>
+    <longitude>-93.38333</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9469</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0001</id>
+    <displayName>PRESCOTT VALLEY 1.1 ESE, AZ US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>34.6016</latitude>
+    <longitude>-112.3043</longitude>
+    <elevation>1523.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9695</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0033</id>
+    <displayName>PRESCOTT VALLEY 1.6 SSW, AZ US</displayName>
+    <minDate>2011-05-28</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>34.5905</latitude>
+    <longitude>-112.3255</longitude>
+    <elevation>1553.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035908</id>
+    <displayName>PRESCOTT, AR US</displayName>
+    <minDate>1890-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.8203</latitude>
+    <longitude>-93.3878</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9635</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026796</id>
+    <displayName>PRESCOTT, AZ US</displayName>
+    <minDate>1898-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5706</latitude>
+    <longitude>-112.4322</longitude>
+    <elevation>1586.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9809</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLY0001</id>
+    <displayName>PRESHO 0.3 SSW, SD US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9027</latitude>
+    <longitude>-100.0608</longitude>
+    <elevation>556.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLY0006</id>
+    <displayName>PRESHO 11.6 NNE, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0712</latitude>
+    <longitude>-100.0077</longitude>
+    <elevation>548.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLY0005</id>
+    <displayName>PRESHO 13.8 NW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0385</latitude>
+    <longitude>-100.2656</longitude>
+    <elevation>567.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9854</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396790</id>
+    <displayName>PRESHO 7 NW, SD US</displayName>
+    <minDate>1975-10-01</minDate>
+    <maxDate>2007-03-31</maxDate>
+    <latitude>43.9919</latitude>
+    <longitude>-100.1616</longitude>
+    <elevation>551.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLY0011</id>
+    <displayName>PRESHO 7.7 NNE, SD US</displayName>
+    <minDate>2007-06-18</minDate>
+    <maxDate>2012-12-06</maxDate>
+    <latitude>44.0066</latitude>
+    <longitude>-99.9858</longitude>
+    <elevation>549.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2536</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLY0017</id>
+    <displayName>PRESHO 8.6 SW, SD US</displayName>
+    <minDate>2010-07-03</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>43.8192</latitude>
+    <longitude>-100.1798</longitude>
+    <elevation>570.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417264</id>
+    <displayName>PRESIDIO 2, TX US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.5599</latitude>
+    <longitude>-104.3728</longitude>
+    <elevation>783.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417262</id>
+    <displayName>PRESIDIO, TX US</displayName>
+    <minDate>1927-10-01</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>29.5711</latitude>
+    <longitude>-104.3713</longitude>
+    <elevation>795.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014604</id>
+    <displayName>PRESQUE ISLE MUNICIPAL AIRPORT, ME US</displayName>
+    <minDate>1951-03-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.68333</latitude>
+    <longitude>-68.05</longitude>
+    <elevation>163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00176937</id>
+    <displayName>PRESQUE ISLE, ME US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.654</latitude>
+    <longitude>-68.0089</longitude>
+    <elevation>182.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNFM0004</id>
+    <displayName>PRESTON 0.6 SSE, MN US</displayName>
+    <minDate>2011-03-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.664</latitude>
+    <longitude>-92.0801</longitude>
+    <elevation>311.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5509</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDFK0001</id>
+    <displayName>PRESTON 0.8 SE, ID US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.089</latitude>
+    <longitude>-111.8637</longitude>
+    <elevation>1435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9298</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00187310</id>
+    <displayName>PRESTON 1 S, MD US</displayName>
+    <minDate>1949-04-01</minDate>
+    <maxDate>1976-12-31</maxDate>
+    <latitude>38.7</latitude>
+    <longitude>-75.91667</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0004</id>
+    <displayName>PRESTON 1.2 SE, KS US</displayName>
+    <minDate>2004-06-28</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.7479</latitude>
+    <longitude>-98.5366</longitude>
+    <elevation>563.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6776</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNFM0007</id>
+    <displayName>PRESTON 3.2 NNE, MN US</displayName>
+    <minDate>2011-05-24</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>43.713</latitude>
+    <longitude>-92.0518</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.411</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0002</id>
+    <displayName>PRESTON 3.2 WNW, KS US</displayName>
+    <minDate>2005-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.768</latitude>
+    <longitude>-98.6112</longitude>
+    <elevation>573</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0012</id>
+    <displayName>PRESTON 4.5 WNW, KS US</displayName>
+    <minDate>2007-06-27</minDate>
+    <maxDate>2009-11-11</maxDate>
+    <latitude>37.7915</latitude>
+    <longitude>-98.6265</longitude>
+    <elevation>576.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4292</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146563</id>
+    <displayName>PRESTON 7 NW, KS US</displayName>
+    <minDate>1940-05-10</minDate>
+    <maxDate>1978-07-31</maxDate>
+    <latitude>37.8</latitude>
+    <longitude>-98.66667</longitude>
+    <elevation>573</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9287</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306848</id>
+    <displayName>PRESTON HOLLOW, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1963-02-28</maxDate>
+    <latitude>42.43333</latitude>
+    <longitude>-74.2</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107353</id>
+    <displayName>PRESTON SUGAR FACTOR, ID US</displayName>
+    <minDate>1921-11-01</minDate>
+    <maxDate>1980-01-16</maxDate>
+    <latitude>42.06667</latitude>
+    <longitude>-111.85</longitude>
+    <elevation>1439.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8191</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0442</id>
+    <displayName>PRESTON, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.5169</latitude>
+    <longitude>-105.0233</longitude>
+    <elevation>1503.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.354</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097201</id>
+    <displayName>PRESTON, GA US</displayName>
+    <minDate>1956-02-01</minDate>
+    <maxDate>2012-10-16</maxDate>
+    <latitude>32.0547</latitude>
+    <longitude>-84.5239</longitude>
+    <elevation>123.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107346</id>
+    <displayName>PRESTON, ID US</displayName>
+    <minDate>1964-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.0933</latitude>
+    <longitude>-111.8683</longitude>
+    <elevation>1463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216654</id>
+    <displayName>PRESTON, MN US</displayName>
+    <minDate>1952-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6725</latitude>
+    <longitude>-92.0747</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFD0001</id>
+    <displayName>PRESTONSBURG 3.7 WSW, KY US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2012-10-29</maxDate>
+    <latitude>37.6549</latitude>
+    <longitude>-82.8292</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6652</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156558</id>
+    <displayName>PRESTONSBURG, KY US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>1933-01-31</maxDate>
+    <latitude>37.66667</latitude>
+    <longitude>-82.76667</longitude>
+    <elevation>179.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9478</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0029</id>
+    <displayName>PRETTY PRAIRIE 0.3 ESE, KS US</displayName>
+    <minDate>2007-10-14</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>37.7781</latitude>
+    <longitude>-98.0154</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4019</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0025</id>
+    <displayName>PRETTY PRAIRIE 6.7 NE, KS US</displayName>
+    <minDate>2007-06-07</minDate>
+    <maxDate>2012-09-26</maxDate>
+    <latitude>37.8538</latitude>
+    <longitude>-97.9402</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0008</id>
+    <displayName>PRETTY PRAIRIE 7.4 ESE, KS US</displayName>
+    <minDate>2007-01-05</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.7448</latitude>
+    <longitude>-97.8947</longitude>
+    <elevation>452.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146573</id>
+    <displayName>PRETTY PRAIRIE, KS US</displayName>
+    <minDate>1973-05-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.7924</latitude>
+    <longitude>-98.0277</longitude>
+    <elevation>481.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327311</id>
+    <displayName>PRETTY ROCK, ND US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>46.1758</latitude>
+    <longitude>-101.8561</longitude>
+    <elevation>755.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00187315</id>
+    <displayName>PRETTYBOY DAM, MD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1953-01-12</maxDate>
+    <latitude>39.63333</latitude>
+    <longitude>-76.7</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9145</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167519</id>
+    <displayName>PREVOST ISLAND, LA US</displayName>
+    <minDate>1899-06-29</minDate>
+    <maxDate>1902-07-31</maxDate>
+    <latitude>30.2</latitude>
+    <longitude>-89.73333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8236</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417268</id>
+    <displayName>PREWIT RANCH, TX US</displayName>
+    <minDate>1941-01-02</minDate>
+    <maxDate>1948-04-23</maxDate>
+    <latitude>31.28333</latitude>
+    <longitude>-103.5</longitude>
+    <elevation>823.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9097</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297077</id>
+    <displayName>PREWITT, NM US</displayName>
+    <minDate>1944-07-01</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-108.03333</longitude>
+    <elevation>2073.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518172</id>
+    <displayName>PRI WAHIAWA 820.2, HI US</displayName>
+    <minDate>1966-06-01</minDate>
+    <maxDate>1976-05-31</maxDate>
+    <latitude>21.46667</latitude>
+    <longitude>-158.01667</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417271</id>
+    <displayName>PRICE 2 SW, TX US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1975-11-30</maxDate>
+    <latitude>32.11667</latitude>
+    <longitude>-94.96667</longitude>
+    <elevation>113.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053174</id>
+    <displayName>PRICE 3 E, UT US</displayName>
+    <minDate>2011-09-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.6080</latitude>
+    <longitude>-110.7508</longitude>
+    <elevation>1778.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427026</id>
+    <displayName>PRICE BLM, UT US</displayName>
+    <minDate>1968-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.5989</latitude>
+    <longitude>-110.8189</longitude>
+    <elevation>1690.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.91</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093141</id>
+    <displayName>PRICE CARBON CO AIRPORT, UT US</displayName>
+    <minDate>1998-09-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.60917</latitude>
+    <longitude>-110.75472</longitude>
+    <elevation>1804.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427015</id>
+    <displayName>PRICE GAME FARM, UT US</displayName>
+    <minDate>1889-01-01</minDate>
+    <maxDate>1968-08-31</maxDate>
+    <latitude>39.61667</latitude>
+    <longitude>-110.83333</longitude>
+    <elevation>1702</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6418</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMG0016</id>
+    <displayName>PRICEVILLE 0.4 ESE, AL US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2012-03-16</maxDate>
+    <latitude>34.5211</latitude>
+    <longitude>-86.8797</longitude>
+    <elevation>175.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6012</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM200</id>
+    <displayName>PRICEVILLE 1.6 NE, AL US</displayName>
+    <minDate>2008-05-28</minDate>
+    <maxDate>2008-11-16</maxDate>
+    <latitude>34.5411</latitude>
+    <longitude>-86.8669</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMG0017</id>
+    <displayName>PRICEVILLE 1.8 WSW, AL US</displayName>
+    <minDate>2008-12-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5148</latitude>
+    <longitude>-86.9146</longitude>
+    <elevation>249.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9177</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMG0003</id>
+    <displayName>PRICEVILLE 2.2 WSW, AL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5131</latitude>
+    <longitude>-86.9227</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9632</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107357</id>
+    <displayName>PRICHARD 3 ESE, ID US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.6428</latitude>
+    <longitude>-115.9173</longitude>
+    <elevation>776.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107420</id>
+    <displayName>PRICHARD, ID US</displayName>
+    <minDate>1914-02-14</minDate>
+    <maxDate>1941-11-30</maxDate>
+    <latitude>47.7</latitude>
+    <longitude>-115.98333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417274</id>
+    <displayName>PRIDDY 1 NE, TX US</displayName>
+    <minDate>1984-01-01</minDate>
+    <maxDate>1997-09-30</maxDate>
+    <latitude>31.66667</latitude>
+    <longitude>-98.48333</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACF0003</id>
+    <displayName>PRIDGEN 1.5 NE, GA US</displayName>
+    <minDate>2008-07-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.7155</latitude>
+    <longitude>-82.9378</longitude>
+    <elevation>94.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+</stationCollection>

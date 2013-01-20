@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="157">
+  <station>
+    <id>GHCND:USC00013200</id>
+    <displayName>GARDEN CITY, AL US</displayName>
+    <minDate>1938-03-01</minDate>
+    <maxDate>1984-04-01</maxDate>
+    <latitude>34.01667</latitude>
+    <longitude>-86.75</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142972</id>
+    <displayName>GARDEN CITY, KS US</displayName>
+    <minDate>1893-09-01</minDate>
+    <maxDate>1947-02-28</maxDate>
+    <latitude>37.966667</latitude>
+    <longitude>-100.866667</longitude>
+    <elevation>864.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413445</id>
+    <displayName>GARDEN CITY, TX US</displayName>
+    <minDate>1912-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.8667</latitude>
+    <longitude>-101.4814</longitude>
+    <elevation>809.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203078</id>
+    <displayName>GARDEN CORNERS, MI US</displayName>
+    <minDate>2008-06-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.89806</latitude>
+    <longitude>-86.54833</longitude>
+    <elevation>199</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0028</id>
+    <displayName>GARDEN PLAIN 2.2 SW, KS US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.6433</latitude>
+    <longitude>-97.715</longitude>
+    <elevation>427.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCML092</id>
+    <displayName>GARDEN RIDGE 1.2 WNW, TX US</displayName>
+    <minDate>2012-01-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.6411</latitude>
+    <longitude>-98.3114</longitude>
+    <elevation>282.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCML025</id>
+    <displayName>GARDEN RIDGE 1.8 WNW, TX US</displayName>
+    <minDate>2007-12-08</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.6426</latitude>
+    <longitude>-98.3213</longitude>
+    <elevation>300.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9603</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043338</id>
+    <displayName>GARDEN VALLEY 2 S, CA US</displayName>
+    <minDate>1946-11-01</minDate>
+    <maxDate>1972-08-24</maxDate>
+    <latitude>38.83333</latitude>
+    <longitude>-120.85</longitude>
+    <elevation>591.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9675</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBS0004</id>
+    <displayName>GARDEN VALLEY 2.7 NW, ID US</displayName>
+    <minDate>2009-12-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.117</latitude>
+    <longitude>-115.99</longitude>
+    <elevation>1047</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8698</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NGAR</id>
+    <displayName>GARDEN VALLEY NEVADA, NV US</displayName>
+    <minDate>1990-07-18</minDate>
+    <maxDate>2000-01-13</maxDate>
+    <latitude>38.1756</latitude>
+    <longitude>-115.4069</longitude>
+    <elevation>1594.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103448</id>
+    <displayName>GARDEN VALLEY, ID US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.1011</latitude>
+    <longitude>-115.9694</longitude>
+    <elevation>944.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0008</id>
+    <displayName>GARDENDALE 0.4 S, AL US</displayName>
+    <minDate>2007-11-05</minDate>
+    <maxDate>2010-05-21</maxDate>
+    <latitude>33.6592</latitude>
+    <longitude>-86.8017</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1453</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAEB0005</id>
+    <displayName>GARDERE 1.2 ENE, LA US</displayName>
+    <minDate>2008-01-10</minDate>
+    <maxDate>2012-09-16</maxDate>
+    <latitude>30.3657</latitude>
+    <longitude>-91.1168</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353193</id>
+    <displayName>GARDINER 1 N, OR US</displayName>
+    <minDate>1983-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.7463</latitude>
+    <longitude>-124.1216</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9192</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303138</id>
+    <displayName>GARDINER 1 W, NY US</displayName>
+    <minDate>1956-12-01</minDate>
+    <maxDate>1987-10-31</maxDate>
+    <latitude>41.68333</latitude>
+    <longitude>-74.15</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00173046</id>
+    <displayName>GARDINER, ME US</displayName>
+    <minDate>1886-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.2202</latitude>
+    <longitude>-69.789</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243378</id>
+    <displayName>GARDINER, MT US</displayName>
+    <minDate>1956-04-12</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.0316</latitude>
+    <longitude>-110.7036</longitude>
+    <elevation>1607.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9131</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0024</id>
+    <displayName>GARDNER 0.4 ENE, KS US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.8144</latitude>
+    <longitude>-94.9194</longitude>
+    <elevation>316.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8617</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0025</id>
+    <displayName>GARDNER 0.7 SSW, KS US</displayName>
+    <minDate>2009-03-16</minDate>
+    <maxDate>2009-10-07</maxDate>
+    <latitude>38.8018</latitude>
+    <longitude>-94.9287</longitude>
+    <elevation>324.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6165</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0037</id>
+    <displayName>GARDNER 0.8 SSW, KS US</displayName>
+    <minDate>2011-05-24</minDate>
+    <maxDate>2011-12-20</maxDate>
+    <latitude>38.8023</latitude>
+    <longitude>-94.9334</longitude>
+    <elevation>319.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0030</id>
+    <displayName>GARDNER 1.4 ESE, KS US</displayName>
+    <minDate>2009-04-29</minDate>
+    <maxDate>2012-09-01</maxDate>
+    <latitude>38.8057</latitude>
+    <longitude>-94.901</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1727</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COHF0012</id>
+    <displayName>GARDNER 1.8 SE, CO US</displayName>
+    <minDate>2004-10-25</minDate>
+    <maxDate>2007-12-07</maxDate>
+    <latitude>37.7682</latitude>
+    <longitude>-105.1372</longitude>
+    <elevation>2097</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0027</id>
+    <displayName>GARDNER 2.7 N, KS US</displayName>
+    <minDate>2009-03-31</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>38.8513</latitude>
+    <longitude>-94.9167</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COHF0032</id>
+    <displayName>GARDNER 5.2 ENE, CO US</displayName>
+    <minDate>2012-05-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.817</latitude>
+    <longitude>-105.0862</longitude>
+    <elevation>2237.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.463</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COHF0027</id>
+    <displayName>GARDNER 7.9 SSW, CO US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2012-08-06</maxDate>
+    <latitude>37.6758</latitude>
+    <longitude>-105.2317</longitude>
+    <elevation>2498.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013M07S</id>
+    <displayName>GARDNER PEAK, UT US</displayName>
+    <minDate>2004-08-26</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.4</latitude>
+    <longitude>-113.45</longitude>
+    <elevation>2545.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293447</id>
+    <displayName>GARDNER RANCH, NM US</displayName>
+    <minDate>1942-07-01</minDate>
+    <maxDate>1943-09-30</maxDate>
+    <latitude>32.2</latitude>
+    <longitude>-105.13333</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9365</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00053222</id>
+    <displayName>GARDNER, CO US</displayName>
+    <minDate>1939-06-01</minDate>
+    <maxDate>1971-07-31</maxDate>
+    <latitude>37.76667</latitude>
+    <longitude>-105.18333</longitude>
+    <elevation>2122.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9181</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142989</id>
+    <displayName>GARDNER, KS US</displayName>
+    <minDate>1940-09-13</minDate>
+    <maxDate>1941-10-31</maxDate>
+    <latitude>38.8</latitude>
+    <longitude>-94.966667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193052</id>
+    <displayName>GARDNER, MA US</displayName>
+    <minDate>1930-10-01</minDate>
+    <maxDate>2002-10-31</maxDate>
+    <latitude>42.58333</latitude>
+    <longitude>-71.98333</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9581</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353195</id>
+    <displayName>GARDNERS RANCH, OR US</displayName>
+    <minDate>1913-02-01</minDate>
+    <maxDate>1927-06-30</maxDate>
+    <latitude>42.283333</latitude>
+    <longitude>-122.75</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363155</id>
+    <displayName>GARDNERS, PA US</displayName>
+    <minDate>1962-07-01</minDate>
+    <maxDate>1972-12-31</maxDate>
+    <latitude>40.01667</latitude>
+    <longitude>-77.21667</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5194</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVDG0001</id>
+    <displayName>GARDNERVILLE 0.7 SE, NV US</displayName>
+    <minDate>2007-04-09</minDate>
+    <maxDate>2009-11-09</maxDate>
+    <latitude>38.9324</latitude>
+    <longitude>-119.727</longitude>
+    <elevation>1467</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3488</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVDG0011</id>
+    <displayName>GARDNERVILLE 3.9 S, NV US</displayName>
+    <minDate>2008-04-26</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>38.8831</latitude>
+    <longitude>-119.7375</longitude>
+    <elevation>1485.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.778</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVDG0004</id>
+    <displayName>GARDNERVILLE 5.0 W, NV US</displayName>
+    <minDate>2005-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9459</latitude>
+    <longitude>-119.8424</longitude>
+    <elevation>1444.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4552</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303144</id>
+    <displayName>GARDNERVILLE, NY US</displayName>
+    <minDate>1956-10-27</minDate>
+    <maxDate>2008-12-31</maxDate>
+    <latitude>41.34583</latitude>
+    <longitude>-74.48722</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPN0005</id>
+    <displayName>GARFIELD 0.2 SE, KS US</displayName>
+    <minDate>2008-04-10</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.0757</latitude>
+    <longitude>-99.243</longitude>
+    <elevation>631.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8441</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARBT0009</id>
+    <displayName>GARFIELD 3.9 E, AR US</displayName>
+    <minDate>2009-05-26</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.4453</latitude>
+    <longitude>-93.9008</longitude>
+    <elevation>425.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARBT0007</id>
+    <displayName>GARFIELD 4.5 ESE, AR US</displayName>
+    <minDate>2009-05-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.419</latitude>
+    <longitude>-93.9009</longitude>
+    <elevation>60.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333071</id>
+    <displayName>GARFIELD HEIGHTS, OH US</displayName>
+    <minDate>1971-07-01</minDate>
+    <maxDate>1978-03-31</maxDate>
+    <latitude>41.41667</latitude>
+    <longitude>-81.6</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013F04S</id>
+    <displayName>GARFIELD RANGER STATION, ID US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.6167</latitude>
+    <longitude>-113.9333</longitude>
+    <elevation>1999.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142993</id>
+    <displayName>GARFIELD, KS US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1900-05-31</maxDate>
+    <latitude>38.083333</latitude>
+    <longitude>-99.25</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9103</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293448</id>
+    <displayName>GARFIELD, NM US</displayName>
+    <minDate>1920-01-01</minDate>
+    <maxDate>1948-06-25</maxDate>
+    <latitude>32.75</latitude>
+    <longitude>-107.26667</longitude>
+    <elevation>1250.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3283</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423097</id>
+    <displayName>GARFIELD, UT US</displayName>
+    <minDate>1924-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.7242</latitude>
+    <longitude>-112.1975</longitude>
+    <elevation>1310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00433240</id>
+    <displayName>GARFIELD, VT US</displayName>
+    <minDate>1919-08-01</minDate>
+    <maxDate>1932-06-30</maxDate>
+    <latitude>44.616667</latitude>
+    <longitude>-72.533333</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423122</id>
+    <displayName>GARLAND 1 NE, UT US</displayName>
+    <minDate>1909-04-01</minDate>
+    <maxDate>1979-10-31</maxDate>
+    <latitude>41.75611</latitude>
+    <longitude>-112.15167</longitude>
+    <elevation>1322.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6731</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363158</id>
+    <displayName>GARLAND 1 SW, PA US</displayName>
+    <minDate>1973-03-01</minDate>
+    <maxDate>2002-03-31</maxDate>
+    <latitude>41.81667</latitude>
+    <longitude>-79.45</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTBE0008</id>
+    <displayName>GARLAND 1.0 SE, UT US</displayName>
+    <minDate>2010-02-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7267</latitude>
+    <longitude>-112.1482</longitude>
+    <elevation>1319.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBD0004</id>
+    <displayName>GARLAND 11.2 W, NC US</displayName>
+    <minDate>2011-03-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8139</latitude>
+    <longitude>-78.5892</longitude>
+    <elevation>33.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9431</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBB0015</id>
+    <displayName>GARLAND 2.7 SW, KS US</displayName>
+    <minDate>2009-03-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7024</latitude>
+    <longitude>-94.6553</longitude>
+    <elevation>248.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313236</id>
+    <displayName>GARLAND 4 SW, NC US</displayName>
+    <minDate>2004-12-01</minDate>
+    <maxDate>2009-02-28</maxDate>
+    <latitude>34.7391</latitude>
+    <longitude>-78.3916</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9252</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00032710</id>
+    <displayName>GARLAND, AR US</displayName>
+    <minDate>1944-03-01</minDate>
+    <maxDate>1950-11-30</maxDate>
+    <latitude>33.35</latitude>
+    <longitude>-93.7</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243383</id>
+    <displayName>GARLAND, MT US</displayName>
+    <minDate>1922-04-01</minDate>
+    <maxDate>1955-12-20</maxDate>
+    <latitude>46.05</latitude>
+    <longitude>-105.91667</longitude>
+    <elevation>793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00483770</id>
+    <displayName>GARLAND, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.78333</latitude>
+    <longitude>-108.66667</longitude>
+    <elevation>1296</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243389</id>
+    <displayName>GARNEILL 9 E, MT US</displayName>
+    <minDate>1908-06-06</minDate>
+    <maxDate>1915-09-30</maxDate>
+    <latitude>46.733333</latitude>
+    <longitude>-109.566667</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9323</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0099</id>
+    <displayName>GARNER 0.7 SSE, NC US</displayName>
+    <minDate>2011-04-13</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>35.6842</latitude>
+    <longitude>-78.6236</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0056</id>
+    <displayName>GARNER 3.8 SSE, NC US</displayName>
+    <minDate>2007-12-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6428</latitude>
+    <longitude>-78.6042</longitude>
+    <elevation>98.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.601</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0049</id>
+    <displayName>GARNER 4.1 SSE, NC US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2010-11-17</maxDate>
+    <latitude>35.6359</latitude>
+    <longitude>-78.6112</longitude>
+    <elevation>107.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6048</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0007</id>
+    <displayName>GARNER 5.3 SSW, NC US</displayName>
+    <minDate>2007-09-03</minDate>
+    <maxDate>2008-07-28</maxDate>
+    <latitude>35.6303</latitude>
+    <longitude>-78.6791</longitude>
+    <elevation>103</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4212</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0063</id>
+    <displayName>GARNER 5.6 S, NC US</displayName>
+    <minDate>2008-04-16</minDate>
+    <maxDate>2011-01-26</maxDate>
+    <latitude>35.6133</latitude>
+    <longitude>-78.6167</longitude>
+    <elevation>100</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0083</id>
+    <displayName>GARNER 5.8 W, NC US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2011-10-25</maxDate>
+    <latitude>35.6985</latitude>
+    <longitude>-78.7309</longitude>
+    <elevation>113.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCJH0019</id>
+    <displayName>GARNER 8.2 SSE, NC US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2008-04-05</maxDate>
+    <latitude>35.5786</latitude>
+    <longitude>-78.5922</longitude>
+    <elevation>83.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCJH0023</id>
+    <displayName>GARNER 9.6 SSE, NC US</displayName>
+    <minDate>2008-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5728</latitude>
+    <longitude>-78.5454</longitude>
+    <elevation>80.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2539</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0009</id>
+    <displayName>GARNER STATE PARK HQ, TX US</displayName>
+    <minDate>2007-05-07</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>29.5987</latitude>
+    <longitude>-99.744</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2347</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413463</id>
+    <displayName>GARNER STATE PARK, TX US</displayName>
+    <minDate>1948-07-26</minDate>
+    <maxDate>1950-05-26</maxDate>
+    <latitude>29.58333</latitude>
+    <longitude>-99.73333</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313238</id>
+    <displayName>GARNER, NC US</displayName>
+    <minDate>1981-03-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.6708</latitude>
+    <longitude>-78.6608</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3108</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303152</id>
+    <displayName>GARNERVILLE, NY US</displayName>
+    <minDate>1983-08-01</minDate>
+    <maxDate>1989-06-30</maxDate>
+    <latitude>41.21667</latitude>
+    <longitude>-74</longitude>
+    <elevation>56.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103460</id>
+    <displayName>GARNET, ID US</displayName>
+    <minDate>1899-12-01</minDate>
+    <maxDate>1916-02-29</maxDate>
+    <latitude>42.966667</latitude>
+    <longitude>-116</longitude>
+    <elevation>784.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203081</id>
+    <displayName>GARNET, MI US</displayName>
+    <minDate>1910-05-22</minDate>
+    <maxDate>1952-08-31</maxDate>
+    <latitude>46.16667</latitude>
+    <longitude>-85.3</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243393</id>
+    <displayName>GARNET, MT US</displayName>
+    <minDate>1951-08-16</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>46.81667</latitude>
+    <longitude>-113.35</longitude>
+    <elevation>1848</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6582</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143008</id>
+    <displayName>GARNETT 1 E, KS US</displayName>
+    <minDate>1906-01-16</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.28</latitude>
+    <longitude>-95.2177</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9422</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00383410</id>
+    <displayName>GARNETT, SC US</displayName>
+    <minDate>1918-08-01</minDate>
+    <maxDate>1936-07-31</maxDate>
+    <latitude>32.616667</latitude>
+    <longitude>-81.2</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9694</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313344</id>
+    <displayName>GARREN CREEK, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.51667</latitude>
+    <longitude>-82.33333</longitude>
+    <elevation>798.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0044</id>
+    <displayName>GARRETSON 1.5 SSW, SD US</displayName>
+    <minDate>2010-08-20</minDate>
+    <maxDate>2012-10-20</maxDate>
+    <latitude>43.6957</latitude>
+    <longitude>-96.5108</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0056</id>
+    <displayName>GARRETSON 6.9 W, SD US</displayName>
+    <minDate>2012-03-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.7281</latitude>
+    <longitude>-96.6377</longitude>
+    <elevation>476.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0005</id>
+    <displayName>GARRETSON 7.3 WSW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>43.6611</latitude>
+    <longitude>-96.6236</longitude>
+    <elevation>449.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393239</id>
+    <displayName>GARRETSON, SD US</displayName>
+    <minDate>1950-10-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.71667</latitude>
+    <longitude>-96.5</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7308</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123207</id>
+    <displayName>GARRETT 1 S, IN US</displayName>
+    <minDate>1989-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.3366</latitude>
+    <longitude>-85.1198</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDK0008</id>
+    <displayName>GARRETT 4.0 S, IN US</displayName>
+    <minDate>2007-10-18</minDate>
+    <maxDate>2009-01-16</maxDate>
+    <latitude>41.2926</latitude>
+    <longitude>-85.1359</longitude>
+    <elevation>265.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3392</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDK0016</id>
+    <displayName>GARRETT 4.9 S, IN US</displayName>
+    <minDate>2011-03-07</minDate>
+    <maxDate>2012-01-07</maxDate>
+    <latitude>41.2795</latitude>
+    <longitude>-85.1294</longitude>
+    <elevation>251.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123206</id>
+    <displayName>GARRETT, IN US</displayName>
+    <minDate>2008-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3415</latitude>
+    <longitude>-85.1292</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00483784</id>
+    <displayName>GARRETT, WY US</displayName>
+    <minDate>1951-09-14</minDate>
+    <maxDate>1952-10-31</maxDate>
+    <latitude>42.11667</latitude>
+    <longitude>-105.6</longitude>
+    <elevation>2080</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333085</id>
+    <displayName>GARRETTSVILLE, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1915-09-30</maxDate>
+    <latitude>41.3</latitude>
+    <longitude>-81.116667</longitude>
+    <elevation>306.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00323376</id>
+    <displayName>GARRISON 1 NNW, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.65389</latitude>
+    <longitude>-101.41972</longitude>
+    <elevation>588.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9302</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDML0007</id>
+    <displayName>GARRISON 2.1 SSW, ND US</displayName>
+    <minDate>2012-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6253</latitude>
+    <longitude>-101.4372</longitude>
+    <elevation>579.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7363</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213051</id>
+    <displayName>GARRISON 4 NE, MN US</displayName>
+    <minDate>1991-09-01</minDate>
+    <maxDate>1996-11-27</maxDate>
+    <latitude>46.33056</latitude>
+    <longitude>-93.7675</longitude>
+    <elevation>368.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNML0003</id>
+    <displayName>GARRISON 5.5 S, MN US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2011-12-16</maxDate>
+    <latitude>46.2207</latitude>
+    <longitude>-93.8089</longitude>
+    <elevation>402</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094041</id>
+    <displayName>GARRISON, ND US</displayName>
+    <minDate>1998-05-21</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.64583</latitude>
+    <longitude>-101.43944</longitude>
+    <elevation>582.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423138</id>
+    <displayName>GARRISON, UT US</displayName>
+    <minDate>1903-01-01</minDate>
+    <maxDate>1990-07-31</maxDate>
+    <latitude>38.93333</latitude>
+    <longitude>-114.03333</longitude>
+    <elevation>1603.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5489</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00663850</id>
+    <displayName>GARROCHALES, PR US</displayName>
+    <minDate>1965-09-01</minDate>
+    <maxDate>1970-04-30</maxDate>
+    <latitude>18.45</latitude>
+    <longitude>-66.58333</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8585</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013215</id>
+    <displayName>GARTH, AL US</displayName>
+    <minDate>1959-07-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.73333</latitude>
+    <longitude>-86.3</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015A05S</id>
+    <displayName>GARVER CREEK, MT US</displayName>
+    <minDate>1997-01-02</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.9667</latitude>
+    <longitude>-115.8167</longitude>
+    <elevation>1295.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9286</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133120</id>
+    <displayName>GARWIN, IA US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.09</latitude>
+    <longitude>-92.6755</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCLR003</id>
+    <displayName>GARWOOD 0.7 NW, TX US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>29.456</latitude>
+    <longitude>-96.4049</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLK0040</id>
+    <displayName>GARY 4.1 SSW, IN US</displayName>
+    <minDate>2009-05-03</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>41.5448</latitude>
+    <longitude>-87.3848</longitude>
+    <elevation>191.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6355</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123213</id>
+    <displayName>GARY, IN US</displayName>
+    <minDate>1936-06-01</minDate>
+    <maxDate>1979-01-12</maxDate>
+    <latitude>41.61667</latitude>
+    <longitude>-87.38333</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393249</id>
+    <displayName>GARY, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1903-03-31</maxDate>
+    <latitude>44.783333</latitude>
+    <longitude>-96.433333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9147</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413472</id>
+    <displayName>GARY, TX US</displayName>
+    <minDate>1940-06-17</minDate>
+    <maxDate>1958-01-31</maxDate>
+    <latitude>32.03333</latitude>
+    <longitude>-94.36667</longitude>
+    <elevation>88.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00463353</id>
+    <displayName>GARY, WV US</displayName>
+    <minDate>1917-07-01</minDate>
+    <maxDate>1989-06-30</maxDate>
+    <latitude>37.36667</latitude>
+    <longitude>-81.55</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00663871</id>
+    <displayName>GARZAS, PR US</displayName>
+    <minDate>1939-01-01</minDate>
+    <maxDate>1981-01-31</maxDate>
+    <latitude>18.15</latitude>
+    <longitude>-66.73333</longitude>
+    <elevation>719</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8897</coverage>
+  </station>
+</stationCollection>

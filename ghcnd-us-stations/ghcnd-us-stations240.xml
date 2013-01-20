@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="240">
+  <station>
+    <id>GHCND:USC00364976</id>
+    <displayName>LEWISBURG, PA US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9474</latitude>
+    <longitude>-76.8786</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364979</id>
+    <displayName>LEWISBURG, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1950-03-30</maxDate>
+    <latitude>40.966667</latitude>
+    <longitude>-76.866667</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7119</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYHN0001</id>
+    <displayName>LEWISPORT 2.8 E, KY US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9334</latitude>
+    <longitude>-86.8517</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.58</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154732</id>
+    <displayName>LEWISPORT 4 S, KY US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8934</latitude>
+    <longitude>-86.906</longitude>
+    <elevation>120.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWN0003</id>
+    <displayName>LEWISTON 0.2 NW, MN US</displayName>
+    <minDate>2011-03-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9858</latitude>
+    <longitude>-91.8719</longitude>
+    <elevation>372.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9357</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304715</id>
+    <displayName>LEWISTON 1 N, US</displayName>
+    <minDate>1935-06-01</minDate>
+    <maxDate>1972-11-30</maxDate>
+    <latitude>43.18333</latitude>
+    <longitude>-79.05</longitude>
+    <elevation>100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174569</id>
+    <displayName>LEWISTON 2, ME US</displayName>
+    <minDate>1996-08-01</minDate>
+    <maxDate>1998-03-31</maxDate>
+    <latitude>44.1</latitude>
+    <longitude>-70.16667</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDNP0003</id>
+    <displayName>LEWISTON 2.6 SE, ID US</displayName>
+    <minDate>2012-05-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.366</latitude>
+    <longitude>-116.9553</longitude>
+    <elevation>478.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304717</id>
+    <displayName>LEWISTON 3 SE, NY US</displayName>
+    <minDate>1987-11-01</minDate>
+    <maxDate>1994-04-30</maxDate>
+    <latitude>43.13333</latitude>
+    <longitude>-78.96667</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014784</id>
+    <displayName>LEWISTON NAAF, ME US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1945-08-15</maxDate>
+    <latitude>44.05</latitude>
+    <longitude>-70.25</longitude>
+    <elevation>82.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024149</id>
+    <displayName>LEWISTON NEZ PERCE CO AIRPORT, ID US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.3747</latitude>
+    <longitude>-117.0156</longitude>
+    <elevation>437.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105232</id>
+    <displayName>LEWISTON NUMBER 2, ID US</displayName>
+    <minDate>1998-07-01</minDate>
+    <maxDate>2003-12-31</maxDate>
+    <latitude>46.375</latitude>
+    <longitude>-116.99806</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105236</id>
+    <displayName>LEWISTON WATER PLANT, ID US</displayName>
+    <minDate>1894-02-01</minDate>
+    <maxDate>1955-12-31</maxDate>
+    <latitude>46.41667</latitude>
+    <longitude>-117.01667</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4375</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105230</id>
+    <displayName>LEWISTON, ID US</displayName>
+    <minDate>1895-05-01</minDate>
+    <maxDate>1957-02-28</maxDate>
+    <latitude>46.41667</latitude>
+    <longitude>-117.03333</longitude>
+    <elevation>215.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174566</id>
+    <displayName>LEWISTON, ME US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2010-04-30</maxDate>
+    <latitude>44.1</latitude>
+    <longitude>-70.21667</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204755</id>
+    <displayName>LEWISTON, MI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1896-12-31</maxDate>
+    <latitude>44.98333</latitude>
+    <longitude>-84.33333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314962</id>
+    <displayName>LEWISTON, NC US</displayName>
+    <minDate>1954-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.1325</latitude>
+    <longitude>-77.1708</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9788</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425082</id>
+    <displayName>LEWISTON, UT US</displayName>
+    <minDate>1924-09-01</minDate>
+    <maxDate>1976-06-30</maxDate>
+    <latitude>41.96667</latitude>
+    <longitude>-111.83333</longitude>
+    <elevation>1366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244979</id>
+    <displayName>LEWISTOWN 11 ESE, MT US</displayName>
+    <minDate>2007-04-24</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>47.01111</latitude>
+    <longitude>-109.22611</longitude>
+    <elevation>1532.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244978</id>
+    <displayName>LEWISTOWN 11 SSE, MT US</displayName>
+    <minDate>1949-05-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>46.9056</latitude>
+    <longitude>-109.4114</longitude>
+    <elevation>1513.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004140</id>
+    <displayName>LEWISTOWN 42 WSW, MT US</displayName>
+    <minDate>2008-07-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.8847</latitude>
+    <longitude>-110.2895</longitude>
+    <elevation>1545.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024036</id>
+    <displayName>LEWISTOWN MUNICIPAL AIRPORT, MT US</displayName>
+    <minDate>1896-01-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.0492</latitude>
+    <longitude>-109.4578</longitude>
+    <elevation>1263.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115038</id>
+    <displayName>LEWISTOWN, IL US</displayName>
+    <minDate>2000-06-01</minDate>
+    <maxDate>2010-02-28</maxDate>
+    <latitude>40.397</latitude>
+    <longitude>-90.154</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244976</id>
+    <displayName>LEWISTOWN, MT US</displayName>
+    <minDate>2008-12-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.0731</latitude>
+    <longitude>-109.4016</longitude>
+    <elevation>1192.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5398</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364992</id>
+    <displayName>LEWISTOWN, PA US</displayName>
+    <minDate>1938-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5864</latitude>
+    <longitude>-77.5692</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9819</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCFR0007</id>
+    <displayName>LEWISVILLE 0.5 W, NC US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0922</latitude>
+    <longitude>-80.4112</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9516</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHY0001</id>
+    <displayName>LEWISVILLE 1.8 ENE, IN US</displayName>
+    <minDate>2006-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8206</latitude>
+    <longitude>-85.3244</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415190</id>
+    <displayName>LEWISVILLE 2 E, TX US</displayName>
+    <minDate>1909-05-01</minDate>
+    <maxDate>1911-09-15</maxDate>
+    <latitude>33.04444</latitude>
+    <longitude>-96.96056</longitude>
+    <elevation>138.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9654</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDN0019</id>
+    <displayName>LEWISVILLE 2.1 NW, TX US</displayName>
+    <minDate>2009-04-22</minDate>
+    <maxDate>2009-11-07</maxDate>
+    <latitude>33.0623</latitude>
+    <longitude>-97.0091</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARLF0004</id>
+    <displayName>LEWISVILLE 4.2 N, AR US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.424</latitude>
+    <longitude>-93.5722</longitude>
+    <elevation>94.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCFR0004</id>
+    <displayName>LEWISVILLE 4.2 N, NC US</displayName>
+    <minDate>2008-02-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1544</latitude>
+    <longitude>-80.4055</longitude>
+    <elevation>269.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9501</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413476</id>
+    <displayName>LEWISVILLE DAM, TX US</displayName>
+    <minDate>1949-07-01</minDate>
+    <maxDate>1963-12-31</maxDate>
+    <latitude>33.0694</latitude>
+    <longitude>-97.0094</longitude>
+    <elevation>169.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9581</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415192</id>
+    <displayName>LEWISVILLE DAM, TX US</displayName>
+    <minDate>1964-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0694</latitude>
+    <longitude>-97.0094</longitude>
+    <elevation>169.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00034185</id>
+    <displayName>LEWISVILLE, AR US</displayName>
+    <minDate>1991-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3613</latitude>
+    <longitude>-93.5674</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124973</id>
+    <displayName>LEWISVILLE, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.8201</latitude>
+    <longitude>-85.3242</longitude>
+    <elevation>340.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415191</id>
+    <displayName>LEWISVILLE, TX US</displayName>
+    <minDate>1941-02-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>33.05</latitude>
+    <longitude>-97</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0060</id>
+    <displayName>LEXINGTON 0.5 E, SC US</displayName>
+    <minDate>2012-03-02</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.9854</latitude>
+    <longitude>-81.2195</longitude>
+    <elevation>100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMCL028</id>
+    <displayName>LEXINGTON 0.5 SSE, IL US</displayName>
+    <minDate>2012-07-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.637</latitude>
+    <longitude>-88.7808</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8351</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0036</id>
+    <displayName>LEXINGTON 0.8 WNW, SC US</displayName>
+    <minDate>2008-08-18</minDate>
+    <maxDate>2010-09-28</maxDate>
+    <latitude>33.9922</latitude>
+    <longitude>-81.2413</longitude>
+    <elevation>123.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8303</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHRC0003</id>
+    <displayName>LEXINGTON 0.9 NW, OH US</displayName>
+    <minDate>2009-03-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6864</latitude>
+    <longitude>-82.5994</longitude>
+    <elevation>373.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304723</id>
+    <displayName>LEXINGTON 1 SE, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>42.23333</latitude>
+    <longitude>-74.33333</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0031</id>
+    <displayName>LEXINGTON 1.0 SE, SC US</displayName>
+    <minDate>2008-06-08</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>33.9764</latitude>
+    <longitude>-81.2173</longitude>
+    <elevation>98.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4006</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10daws002</id>
+    <displayName>LEXINGTON 1.1 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.78</latitude>
+    <longitude>-99.72</longitude>
+    <elevation>730</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0043</id>
+    <displayName>LEXINGTON 1.2 SW, SC US</displayName>
+    <minDate>2009-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9748</latitude>
+    <longitude>-81.2445</longitude>
+    <elevation>112.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOG0018</id>
+    <displayName>LEXINGTON 1.4 NW, GA US</displayName>
+    <minDate>2009-05-06</minDate>
+    <maxDate>2010-05-14</maxDate>
+    <latitude>33.8837</latitude>
+    <longitude>-83.1247</longitude>
+    <elevation>236.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4866</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0050</id>
+    <displayName>LEXINGTON 1.5 NNE, SC US</displayName>
+    <minDate>2010-06-04</minDate>
+    <maxDate>2011-12-07</maxDate>
+    <latitude>34.005</latitude>
+    <longitude>-81.217</longitude>
+    <elevation>95.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9112</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCDS0009</id>
+    <displayName>LEXINGTON 1.5 WNW, NC US</displayName>
+    <minDate>2011-02-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8155</latitude>
+    <longitude>-80.2831</longitude>
+    <elevation>229.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0005</id>
+    <displayName>LEXINGTON 1.6 WNW, SC US</displayName>
+    <minDate>2008-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9894</latitude>
+    <longitude>-81.2654</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6262</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFY0009</id>
+    <displayName>LEXINGTON 1.7 SSE, KY US</displayName>
+    <minDate>2008-07-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0249</latitude>
+    <longitude>-84.495</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFY0014</id>
+    <displayName>LEXINGTON 1.7 SW, KY US</displayName>
+    <minDate>2010-05-21</minDate>
+    <maxDate>2010-11-15</maxDate>
+    <latitude>38.0164</latitude>
+    <longitude>-84.5193</longitude>
+    <elevation>304.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405214</id>
+    <displayName>LEXINGTON 10 NW, TN US</displayName>
+    <minDate>2001-01-01</minDate>
+    <maxDate>2010-04-30</maxDate>
+    <latitude>35.71361</latitude>
+    <longitude>-88.56083</longitude>
+    <elevation>165.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCV0080</id>
+    <displayName>LEXINGTON 10.7 ENE, OK US</displayName>
+    <minDate>2011-10-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0697</latitude>
+    <longitude>-97.1605</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00225062</id>
+    <displayName>LEXINGTON 2 NNW, MS US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>2010-07-31</maxDate>
+    <latitude>33.12278</latitude>
+    <longitude>-90.05167</longitude>
+    <elevation>86.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9651</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234911</id>
+    <displayName>LEXINGTON 2 SSW, MO US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.15694</latitude>
+    <longitude>-93.89056</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0035</id>
+    <displayName>LEXINGTON 2.9 NE, SC US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0151</latitude>
+    <longitude>-81.192</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124977</id>
+    <displayName>LEXINGTON 3 N, IN US</displayName>
+    <minDate>2002-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.675</latitude>
+    <longitude>-85.60333</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234904</id>
+    <displayName>LEXINGTON 3 NE, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2010-07-21</maxDate>
+    <latitude>39.1828</latitude>
+    <longitude>-93.8549</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHMW0002</id>
+    <displayName>LEXINGTON 3.2 WSW, OH US</displayName>
+    <minDate>2009-06-26</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>40.6672</latitude>
+    <longitude>-82.6469</longitude>
+    <elevation>411.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6502</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0026</id>
+    <displayName>LEXINGTON 3.4 SSE, SC US</displayName>
+    <minDate>2008-05-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9421</latitude>
+    <longitude>-81.2023</longitude>
+    <elevation>110.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFY0003</id>
+    <displayName>LEXINGTON 3.7 WSW, KY US</displayName>
+    <minDate>2007-11-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0163</latitude>
+    <longitude>-84.5187</longitude>
+    <elevation>306</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5378</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFY0012</id>
+    <displayName>LEXINGTON 4 S, KY US</displayName>
+    <minDate>2010-04-03</minDate>
+    <maxDate>2011-05-05</maxDate>
+    <latitude>37.9876</latitude>
+    <longitude>-84.4816</longitude>
+    <elevation>283.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLE0004</id>
+    <displayName>LEXINGTON 4.9 SSW, TX US</displayName>
+    <minDate>2008-05-14</minDate>
+    <maxDate>2010-04-16</maxDate>
+    <latitude>30.3501</latitude>
+    <longitude>-97.0414</longitude>
+    <elevation>131.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFY0001</id>
+    <displayName>LEXINGTON 4.9 SW, KY US</displayName>
+    <minDate>2007-10-28</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>37.9843</latitude>
+    <longitude>-84.5097</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5182</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0030</id>
+    <displayName>LEXINGTON 5.1 WNW, SC US</displayName>
+    <minDate>2008-05-29</minDate>
+    <maxDate>2011-10-20</maxDate>
+    <latitude>34.0172</latitude>
+    <longitude>-81.3093</longitude>
+    <elevation>124.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6944</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOG0010</id>
+    <displayName>LEXINGTON 5.5 ESE, GA US</displayName>
+    <minDate>2008-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8443</latitude>
+    <longitude>-83.0211</longitude>
+    <elevation>166.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8256</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOG0007</id>
+    <displayName>LEXINGTON 5.5 NNE, GA US</displayName>
+    <minDate>2008-03-25</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.9404</latitude>
+    <longitude>-83.0659</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0022</id>
+    <displayName>LEXINGTON 5.9 SW, SC US</displayName>
+    <minDate>2008-04-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9292</latitude>
+    <longitude>-81.3065</longitude>
+    <elevation>122.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9675</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLE0010</id>
+    <displayName>LEXINGTON 6.5 SW, TX US</displayName>
+    <minDate>2011-05-25</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.3557</latitude>
+    <longitude>-97.0953</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6427</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLE0005</id>
+    <displayName>LEXINGTON 6.7 S, TX US</displayName>
+    <minDate>2009-10-31</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.3186</latitude>
+    <longitude>-97.0253</longitude>
+    <elevation>131.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314975</id>
+    <displayName>LEXINGTON 7 N, NC US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.9</latitude>
+    <longitude>-80.26667</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0006</id>
+    <displayName>LEXINGTON 7.1 SSW, SC US</displayName>
+    <minDate>2008-03-11</minDate>
+    <maxDate>2011-05-31</maxDate>
+    <latitude>33.8901</latitude>
+    <longitude>-81.2708</longitude>
+    <elevation>155.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9728</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCDS0004</id>
+    <displayName>LEXINGTON 9.0 S, NC US</displayName>
+    <minDate>2008-01-20</minDate>
+    <maxDate>2012-07-11</maxDate>
+    <latitude>35.6784</latitude>
+    <longitude>-80.2448</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOG0014</id>
+    <displayName>LEXINGTON 9.2 ESE, GA US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2011-08-13</maxDate>
+    <latitude>33.8329</latitude>
+    <longitude>-82.9785</longitude>
+    <elevation>154.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1049</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314972</id>
+    <displayName>LEXINGTON AG 2 N, NC US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.8425</latitude>
+    <longitude>-80.29472</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.72</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093820</id>
+    <displayName>LEXINGTON BLUEGRASS AIRPORT, KY US</displayName>
+    <minDate>1872-10-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.0408</latitude>
+    <longitude>-84.6058</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9198</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFY0002</id>
+    <displayName>LEXINGTON FAYETTE 6.3 S, KY US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2012-03-29</maxDate>
+    <latitude>37.9673</latitude>
+    <longitude>-84.4851</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014994</id>
+    <displayName>LEXINGTON JIM KELLY FIELD, NE US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.78861</latitude>
+    <longitude>-99.77083</longitude>
+    <elevation>733</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NLEX</id>
+    <displayName>LEXINGTON NORTH CAROLINA, NC US</displayName>
+    <minDate>2002-08-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>35.7922</latitude>
+    <longitude>-80.312</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9004</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204808</id>
+    <displayName>LEXINGTON WATER PLANT, MI US</displayName>
+    <minDate>2001-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.263</latitude>
+    <longitude>-82.5327</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095165</id>
+    <displayName>LEXINGTON, GA US</displayName>
+    <minDate>1952-01-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8705</latitude>
+    <longitude>-83.1135</longitude>
+    <elevation>221.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115041</id>
+    <displayName>LEXINGTON, IL US</displayName>
+    <minDate>1992-09-01</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>40.6407</latitude>
+    <longitude>-88.7809</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9512</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115043</id>
+    <displayName>LEXINGTON, IL US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>1898-12-31</maxDate>
+    <latitude>40.641424</latitude>
+    <longitude>-88.7834</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00194162</id>
+    <displayName>LEXINGTON, MA US</displayName>
+    <minDate>1951-03-01</minDate>
+    <maxDate>1956-08-31</maxDate>
+    <latitude>42.45</latitude>
+    <longitude>-71.2</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314970</id>
+    <displayName>LEXINGTON, NC US</displayName>
+    <minDate>1902-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.8458</latitude>
+    <longitude>-80.2597</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254775</id>
+    <displayName>LEXINGTON, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1950-08-31</maxDate>
+    <latitude>40.78333</latitude>
+    <longitude>-99.75</longitude>
+    <elevation>726</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405210</id>
+    <displayName>LEXINGTON, TN US</displayName>
+    <minDate>1962-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6502</latitude>
+    <longitude>-88.3904</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9018</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415193</id>
+    <displayName>LEXINGTON, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4063</latitude>
+    <longitude>-97.0136</longitude>
+    <elevation>141.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8224</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444876</id>
+    <displayName>LEXINGTON, VA US</displayName>
+    <minDate>1889-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7767</latitude>
+    <longitude>-79.4385</longitude>
+    <elevation>334.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245015</id>
+    <displayName>LIBBY 1 NE RANGER STATION, MT US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>48.4036</latitude>
+    <longitude>-115.5392</longitude>
+    <elevation>638.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8573</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTSN0002</id>
+    <displayName>LIBBY 28.0 SSW, MT US</displayName>
+    <minDate>2007-01-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.0337</latitude>
+    <longitude>-115.8519</longitude>
+    <elevation>716.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245020</id>
+    <displayName>LIBBY 30 SSE, MT US</displayName>
+    <minDate>1910-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.97333</latitude>
+    <longitude>-115.22389</longitude>
+    <elevation>1056.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6171</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245011</id>
+    <displayName>LIBBY DAM BASE, MT US</displayName>
+    <minDate>1986-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.41</latitude>
+    <longitude>-115.318</longitude>
+    <elevation>643.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245009</id>
+    <displayName>LIBBY DAM, MT US</displayName>
+    <minDate>1969-07-01</minDate>
+    <maxDate>1986-08-31</maxDate>
+    <latitude>48.4</latitude>
+    <longitude>-115.3</longitude>
+    <elevation>670.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MLIB</id>
+    <displayName>LIBBY MONTANA, MT US</displayName>
+    <minDate>2001-02-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.3833</latitude>
+    <longitude>-115.5667</longitude>
+    <elevation>630.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9162</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245000</id>
+    <displayName>LIBBY, MT US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2012-08-07</maxDate>
+    <latitude>48.3805</latitude>
+    <longitude>-115.5578</longitude>
+    <elevation>652.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8641</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBR0004</id>
+    <displayName>LIBERAL 0.7 SSE, MO US</displayName>
+    <minDate>2008-08-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5505</latitude>
+    <longitude>-94.5092</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBR0001</id>
+    <displayName>LIBERAL 3.2 SSE, MO US</displayName>
+    <minDate>2006-04-07</minDate>
+    <maxDate>2006-09-30</maxDate>
+    <latitude>37.5225</latitude>
+    <longitude>-94.4794</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9661</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSW0005</id>
+    <displayName>LIBERAL 6.3 NW, KS US</displayName>
+    <minDate>2006-05-10</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.12</latitude>
+    <longitude>-101</longitude>
+    <elevation>890</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1419</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144695</id>
+    <displayName>LIBERAL, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.0222</latitude>
+    <longitude>-100.9294</longitude>
+    <elevation>863.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COYU0010</id>
+    <displayName>LIBERTY 0.1 SE, CO US</displayName>
+    <minDate>2000-05-21</minDate>
+    <maxDate>2006-04-27</maxDate>
+    <latitude>39.6549</latitude>
+    <longitude>-102.6259</longitude>
+    <elevation>1289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8436</coverage>
+  </station>
+</stationCollection>

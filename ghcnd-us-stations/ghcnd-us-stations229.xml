@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="229">
+  <station>
+    <id>GHCND:USC00044683</id>
+    <displayName>LAKEHEAD, CA US</displayName>
+    <minDate>1998-06-01</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>40.8988</latitude>
+    <longitude>-122.3913</longitude>
+    <elevation>426.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9278</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBND018</id>
+    <displayName>LAKEHILLS 1.1 SE, TX US</displayName>
+    <minDate>2009-04-20</minDate>
+    <maxDate>2012-10-04</maxDate>
+    <latitude>29.5938</latitude>
+    <longitude>-98.9302</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2524</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBND019</id>
+    <displayName>LAKEHILLS 1.2 NNE, TX US</displayName>
+    <minDate>2009-07-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6212</latitude>
+    <longitude>-98.9364</longitude>
+    <elevation>376.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014780</id>
+    <displayName>LAKEHURST NAS, NJ US</displayName>
+    <minDate>1945-02-01</minDate>
+    <maxDate>2002-08-29</maxDate>
+    <latitude>40.03333</latitude>
+    <longitude>-74.35</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8384</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0014</id>
+    <displayName>LAKELAND 0.6 ESE, FL US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2008-09-29</maxDate>
+    <latitude>28.0392</latitude>
+    <longitude>-81.95</longitude>
+    <elevation>65.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6011</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0031</id>
+    <displayName>LAKELAND 1.1 SSE, FL US</displayName>
+    <minDate>2008-07-23</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>28.0282</latitude>
+    <longitude>-81.9503</longitude>
+    <elevation>44.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084802</id>
+    <displayName>LAKELAND 2, FL US</displayName>
+    <minDate>1995-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.9914</latitude>
+    <longitude>-82.0136</longitude>
+    <elevation>41.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0003</id>
+    <displayName>LAKELAND 3.8 NW, FL US</displayName>
+    <minDate>2007-01-02</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>28.0754</latitude>
+    <longitude>-82.0078</longitude>
+    <elevation>57</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8247</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0032</id>
+    <displayName>LAKELAND 5.3 WNW, FL US</displayName>
+    <minDate>2008-07-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>28.065</latitude>
+    <longitude>-82.0423</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0034</id>
+    <displayName>LAKELAND 6.9 SW, FL US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.9608</latitude>
+    <longitude>-81.9956</longitude>
+    <elevation>32.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9748</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GALN0001</id>
+    <displayName>LAKELAND 7.2 NNW, GA US</displayName>
+    <minDate>2008-06-24</minDate>
+    <maxDate>2011-09-20</maxDate>
+    <latitude>31.1319</latitude>
+    <longitude>-83.1354</longitude>
+    <elevation>61.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0037</id>
+    <displayName>LAKELAND 8.7 SW, FL US</displayName>
+    <minDate>2008-09-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.9524</latitude>
+    <longitude>-82.0424</longitude>
+    <elevation>36.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9721</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0018</id>
+    <displayName>LAKELAND HIGHLANDS 0.3 SE, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.957</latitude>
+    <longitude>-81.946</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0011</id>
+    <displayName>LAKELAND HIGHLANDS 1.5 ENE, FL US</displayName>
+    <minDate>2007-10-07</minDate>
+    <maxDate>2011-11-01</maxDate>
+    <latitude>27.9704</latitude>
+    <longitude>-81.9282</longitude>
+    <elevation>68.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0028</id>
+    <displayName>LAKELAND HIGHLANDS 2.5 ESE, FL US</displayName>
+    <minDate>2008-06-04</minDate>
+    <maxDate>2009-06-10</maxDate>
+    <latitude>27.9451</latitude>
+    <longitude>-81.9124</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012883</id>
+    <displayName>LAKELAND LINDER REGIONAL AIRPORT, FL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1995-08-31</maxDate>
+    <latitude>28</latitude>
+    <longitude>-82.05</longitude>
+    <elevation>45.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0076</id>
+    <displayName>LAKELAND NORTH 0.5 ENE, WA US</displayName>
+    <minDate>2008-06-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.3308</latitude>
+    <longitude>-122.2673</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8508</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012837</id>
+    <displayName>LAKELAND, FL US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1962-10-31</maxDate>
+    <latitude>28.08333</latitude>
+    <longitude>-81.91667</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0185</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094971</id>
+    <displayName>LAKELAND, GA US</displayName>
+    <minDate>2001-07-01</minDate>
+    <maxDate>2005-03-09</maxDate>
+    <latitude>31.03917</latitude>
+    <longitude>-83.07583</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405016</id>
+    <displayName>LAKEMONT 2, TN US</displayName>
+    <minDate>1953-10-07</minDate>
+    <maxDate>1957-07-15</maxDate>
+    <latitude>35.85</latitude>
+    <longitude>-83.95</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8687</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0053</id>
+    <displayName>LAKEMOOR 1.5 SE, IL US</displayName>
+    <minDate>2010-02-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3288</latitude>
+    <longitude>-88.1799</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.878</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424828</id>
+    <displayName>LAKEPOINT, UT US</displayName>
+    <minDate>1924-01-01</minDate>
+    <maxDate>1929-02-28</maxDate>
+    <latitude>40.683333</latitude>
+    <longitude>-112.266667</longitude>
+    <elevation>1226.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274480</id>
+    <displayName>LAKEPORT 2, NH US</displayName>
+    <minDate>1926-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.5491</latitude>
+    <longitude>-71.4641</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALK0004</id>
+    <displayName>LAKEPORT 2.5 N, CA US</displayName>
+    <minDate>2009-01-31</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>39.0789</latitude>
+    <longitude>-122.9169</longitude>
+    <elevation>417.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3097</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALK0003</id>
+    <displayName>LAKEPORT 4.5 N, CA US</displayName>
+    <minDate>2009-01-23</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>39.1068</latitude>
+    <longitude>-122.909</longitude>
+    <elevation>438</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044701</id>
+    <displayName>LAKEPORT, CA US</displayName>
+    <minDate>1920-01-01</minDate>
+    <maxDate>2001-06-30</maxDate>
+    <latitude>39.03333</latitude>
+    <longitude>-122.91667</longitude>
+    <elevation>400.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274475</id>
+    <displayName>LAKEPORT, NH US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1982-07-31</maxDate>
+    <latitude>43.55</latitude>
+    <longitude>-71.46667</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYMD0008</id>
+    <displayName>LAKEPORT, NY US</displayName>
+    <minDate>2005-05-01</minDate>
+    <maxDate>2010-12-10</maxDate>
+    <latitude>43.1383</latitude>
+    <longitude>-75.8703</longitude>
+    <elevation>120.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLK0007</id>
+    <displayName>LAKES OF THE FOUR SEASONS 0.5, IN US</displayName>
+    <minDate>2006-09-12</minDate>
+    <maxDate>2007-01-15</maxDate>
+    <latitude>41.416</latitude>
+    <longitude>-87.2223</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9524</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPT0079</id>
+    <displayName>LAKES OF THE FOUR SEASONS 0.5, IN US</displayName>
+    <minDate>2009-11-16</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>41.4062</latitude>
+    <longitude>-87.2135</longitude>
+    <elevation>230.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7445</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLK0009</id>
+    <displayName>LAKES OF THE FOUR SEASONS 0.6, IN US</displayName>
+    <minDate>2006-09-10</minDate>
+    <maxDate>2012-08-21</maxDate>
+    <latitude>41.4046</latitude>
+    <longitude>-87.2334</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2121</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPT0060</id>
+    <displayName>LAKES OF THE FOUR SEASONS 1.5, IN US</displayName>
+    <minDate>2007-05-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4274</latitude>
+    <longitude>-87.2082</longitude>
+    <elevation>233.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7111</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044709</id>
+    <displayName>LAKESHORE 2, CA US</displayName>
+    <minDate>1946-07-01</minDate>
+    <maxDate>1972-07-31</maxDate>
+    <latitude>40.86667</latitude>
+    <longitude>-122.38333</longitude>
+    <elevation>328.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTFH0015</id>
+    <displayName>LAKESIDE 0.6 SE, MT US</displayName>
+    <minDate>2008-12-13</minDate>
+    <maxDate>2009-11-19</maxDate>
+    <latitude>48.0119</latitude>
+    <longitude>-114.2171</longitude>
+    <elevation>933</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044710</id>
+    <displayName>LAKESIDE 2 E, CA US</displayName>
+    <minDate>1967-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.8536</latitude>
+    <longitude>-116.8947</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9733</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044711</id>
+    <displayName>LAKESIDE 2 E, CA US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>1967-04-30</maxDate>
+    <latitude>32.8536</latitude>
+    <longitude>-116.8947</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.268</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCY0004</id>
+    <displayName>LAKESIDE 2.9 S, FL US</displayName>
+    <minDate>2007-10-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.0885</latitude>
+    <longitude>-81.7599</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9554</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10sher010</id>
+    <displayName>LAKESIDE 22.5 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-07-21</maxDate>
+    <latitude>42.3789</latitude>
+    <longitude>-102.3589</longitude>
+    <elevation>1200</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gard010</id>
+    <displayName>LAKESIDE 5.8 SSE, NE US</displayName>
+    <minDate>2007-06-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.9762</latitude>
+    <longitude>-102.3879</longitude>
+    <elevation>1183.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ALAK</id>
+    <displayName>LAKESIDE ARIZONA, AZ US</displayName>
+    <minDate>1986-01-17</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.16</latitude>
+    <longitude>-109.98</longitude>
+    <elevation>2133.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8868</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024779</id>
+    <displayName>LAKESIDE R S, AZ US</displayName>
+    <minDate>1911-05-01</minDate>
+    <maxDate>1975-06-30</maxDate>
+    <latitude>34.16667</latitude>
+    <longitude>-109.98333</longitude>
+    <elevation>2044</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234694</id>
+    <displayName>LAKESIDE, MO US</displayName>
+    <minDate>1931-11-01</minDate>
+    <maxDate>2011-12-28</maxDate>
+    <latitude>38.2044</latitude>
+    <longitude>-92.6208</longitude>
+    <elevation>180.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424846</id>
+    <displayName>LAKESIDE, UT US</displayName>
+    <minDate>1951-09-07</minDate>
+    <maxDate>1968-07-31</maxDate>
+    <latitude>41.23333</latitude>
+    <longitude>-112.86667</longitude>
+    <elevation>1286.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3364</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424856</id>
+    <displayName>LAKETOWN, UT US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.825</latitude>
+    <longitude>-111.3208</longitude>
+    <elevation>1822.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARBX0024</id>
+    <displayName>LAKEVIEW 0.5 SE, AR US</displayName>
+    <minDate>2012-07-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.3711</latitude>
+    <longitude>-92.5327</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9017</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALTS0001</id>
+    <displayName>LAKEVIEW 0.5 SSW, AL US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2009-06-15</maxDate>
+    <latitude>33.2878</latitude>
+    <longitude>-87.1372</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354670</id>
+    <displayName>LAKEVIEW 2 NNW, OR US</displayName>
+    <minDate>1887-04-28</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>42.2414</latitude>
+    <longitude>-120.3677</longitude>
+    <elevation>1490.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLK0004</id>
+    <displayName>LAKEVIEW 2.2 NNW, OR US</displayName>
+    <minDate>2008-05-22</minDate>
+    <maxDate>2011-10-05</maxDate>
+    <latitude>42.2182</latitude>
+    <longitude>-120.364</longitude>
+    <elevation>1460.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1128</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSH0002</id>
+    <displayName>LAKEVIEW 2.6 NE, OH US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2009-09-21</maxDate>
+    <latitude>40.5158</latitude>
+    <longitude>-83.8932</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9268</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334363</id>
+    <displayName>LAKEVIEW 3 NE, OH US</displayName>
+    <minDate>1914-03-01</minDate>
+    <maxDate>1983-03-31</maxDate>
+    <latitude>40.51667</latitude>
+    <longitude>-83.88333</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024250</id>
+    <displayName>LAKEVIEW NAS, OR US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>1945-09-30</maxDate>
+    <latitude>42.15</latitude>
+    <longitude>-120.4</longitude>
+    <elevation>1444.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414988</id>
+    <displayName>LAKEVIEW NEAR SOIL CONSERVATION SERVICE NUMBER 56, TX US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1941-12-31</maxDate>
+    <latitude>34.666667</latitude>
+    <longitude>-100.683333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8849</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011E03S</id>
+    <displayName>LAKEVIEW RIDGE, MT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.5833</latitude>
+    <longitude>-111.8333</longitude>
+    <elevation>2255.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8403</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105086</id>
+    <displayName>LAKEVIEW, ID US</displayName>
+    <minDate>1897-07-15</minDate>
+    <maxDate>1917-08-31</maxDate>
+    <latitude>47.95</latitude>
+    <longitude>-116.5</longitude>
+    <elevation>746.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9391</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244820</id>
+    <displayName>LAKEVIEW, MT US</displayName>
+    <minDate>1904-11-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>44.5994</latitude>
+    <longitude>-111.8125</longitude>
+    <elevation>2045.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0026</id>
+    <displayName>LAKEVILLE 1.3 NNW, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>44.6965</latitude>
+    <longitude>-93.2577</longitude>
+    <elevation>332.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0031</id>
+    <displayName>LAKEVILLE 2.3 WNW, MN US</displayName>
+    <minDate>2011-05-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6911</latitude>
+    <longitude>-93.2938</longitude>
+    <elevation>310.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0020</id>
+    <displayName>LAKEVILLE 2.4 SSW, MN US</displayName>
+    <minDate>2011-03-28</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.6443</latitude>
+    <longitude>-93.2655</longitude>
+    <elevation>321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7123</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0029</id>
+    <displayName>LAKEVILLE 3.3 SSE, MN US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2012-10-09</maxDate>
+    <latitude>44.6372</latitude>
+    <longitude>-93.2166</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3996</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSC0003</id>
+    <displayName>LAKEVILLE 6.8 SSW, MN US</displayName>
+    <minDate>2009-12-03</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>44.5923</latitude>
+    <longitude>-93.3192</longitude>
+    <elevation>331.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124788</id>
+    <displayName>LAKEVILLE 7 NNE, IN US</displayName>
+    <minDate>1995-04-01</minDate>
+    <maxDate>2004-11-30</maxDate>
+    <latitude>41.56028</latitude>
+    <longitude>-86.15806</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124782</id>
+    <displayName>LAKEVILLE, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.5269</latitude>
+    <longitude>-86.2692</longitude>
+    <elevation>256.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0137</id>
+    <displayName>LAKEWAY 0.0 NNE, TX US</displayName>
+    <minDate>2011-05-19</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.3672</latitude>
+    <longitude>-97.9792</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3851</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0133</id>
+    <displayName>LAKEWAY 2.8 W, TX US</displayName>
+    <minDate>2011-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3597</latitude>
+    <longitude>-98.0252</longitude>
+    <elevation>269.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0028</id>
+    <displayName>LAKEWOOD 0.9 NE, NM US</displayName>
+    <minDate>2008-07-31</minDate>
+    <maxDate>2012-03-10</maxDate>
+    <latitude>32.666</latitude>
+    <longitude>-104.3561</longitude>
+    <elevation>1011.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0199</id>
+    <displayName>LAKEWOOD 0.9 NNE, CO US</displayName>
+    <minDate>2004-06-28</minDate>
+    <maxDate>2010-05-15</maxDate>
+    <latitude>39.716</latitude>
+    <longitude>-105.0723</longitude>
+    <elevation>1662.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4162</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0326</id>
+    <displayName>LAKEWOOD 0.9 SSW, CO US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6837</latitude>
+    <longitude>-105.1222</longitude>
+    <elevation>1742.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0194</id>
+    <displayName>LAKEWOOD 1.0 SSW, CO US</displayName>
+    <minDate>2004-06-21</minDate>
+    <maxDate>2012-10-22</maxDate>
+    <latitude>39.6918</latitude>
+    <longitude>-105.0903</longitude>
+    <elevation>1698</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0364</id>
+    <displayName>LAKEWOOD 1.2 NW, CO US</displayName>
+    <minDate>2012-01-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7056</latitude>
+    <longitude>-105.1308</longitude>
+    <elevation>1755.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9227</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0253</id>
+    <displayName>LAKEWOOD 1.4 SSW, CO US</displayName>
+    <minDate>2004-12-04</minDate>
+    <maxDate>2006-10-04</maxDate>
+    <latitude>39.685</latitude>
+    <longitude>-105.091</longitude>
+    <elevation>1702.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHCY0002</id>
+    <displayName>LAKEWOOD 1.6 E, OH US</displayName>
+    <minDate>2009-02-03</minDate>
+    <maxDate>2009-08-05</maxDate>
+    <latitude>41.4819</latitude>
+    <longitude>-81.7703</longitude>
+    <elevation>209.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6413</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDV0114</id>
+    <displayName>LAKEWOOD 1.7 ESE, TN US</displayName>
+    <minDate>2011-01-22</minDate>
+    <maxDate>2012-09-19</maxDate>
+    <latitude>36.2336</latitude>
+    <longitude>-86.6041</longitude>
+    <elevation>165.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7545</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0333</id>
+    <displayName>LAKEWOOD 1.7 SW, CO US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6774</latitude>
+    <longitude>-105.1367</longitude>
+    <elevation>1751.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0282</id>
+    <displayName>LAKEWOOD 1.8 NE, CO US</displayName>
+    <minDate>2006-05-02</minDate>
+    <maxDate>2007-10-20</maxDate>
+    <latitude>39.7157</latitude>
+    <longitude>-105.0938</longitude>
+    <elevation>1684</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7244</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0252</id>
+    <displayName>LAKEWOOD 1.9 NNW, CO US</displayName>
+    <minDate>2005-01-01</minDate>
+    <maxDate>2007-04-07</maxDate>
+    <latitude>39.7302</latitude>
+    <longitude>-105.0987</longitude>
+    <elevation>1676.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6288</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00284627</id>
+    <displayName>LAKEWOOD 2 ENE, NJ US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1957-10-31</maxDate>
+    <latitude>40.1</latitude>
+    <longitude>-74.18333</longitude>
+    <elevation>16.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9207</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0179</id>
+    <displayName>LAKEWOOD 2.2 ESE, CO US</displayName>
+    <minDate>2004-05-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6835</latitude>
+    <longitude>-105.0758</longitude>
+    <elevation>1681</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0133</id>
+    <displayName>LAKEWOOD 2.6 SSW, CO US</displayName>
+    <minDate>2004-07-03</minDate>
+    <maxDate>2009-08-07</maxDate>
+    <latitude>39.6694</latitude>
+    <longitude>-105.099</longitude>
+    <elevation>1666</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0328</id>
+    <displayName>LAKEWOOD 2.7 ESE, CO US</displayName>
+    <minDate>2009-07-31</minDate>
+    <maxDate>2010-07-13</maxDate>
+    <latitude>39.685</latitude>
+    <longitude>-105.0654</longitude>
+    <elevation>1665.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5259</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474523</id>
+    <displayName>LAKEWOOD 3 NE, WI US</displayName>
+    <minDate>1968-08-02</minDate>
+    <maxDate>2008-01-31</maxDate>
+    <latitude>45.33333</latitude>
+    <longitude>-88.49806</longitude>
+    <elevation>364.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0153</id>
+    <displayName>LAKEWOOD 3.5 WNW, CO US</displayName>
+    <minDate>2002-05-01</minDate>
+    <maxDate>2011-09-15</maxDate>
+    <latitude>39.7286</latitude>
+    <longitude>-105.1426</longitude>
+    <elevation>1745.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0198</id>
+    <displayName>LAKEWOOD 3.6 NNW, CO US</displayName>
+    <minDate>2004-07-20</minDate>
+    <maxDate>2005-11-01</maxDate>
+    <latitude>39.7516</latitude>
+    <longitude>-105.1121</longitude>
+    <elevation>1702.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0186</id>
+    <displayName>LAKEWOOD 4.1 NW, CO US</displayName>
+    <minDate>2004-05-17</minDate>
+    <maxDate>2005-10-18</maxDate>
+    <latitude>39.7514</latitude>
+    <longitude>-105.1309</longitude>
+    <elevation>1711.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0352</id>
+    <displayName>LAKEWOOD 4.3 NNE, CO US</displayName>
+    <minDate>2010-11-03</minDate>
+    <maxDate>2012-07-07</maxDate>
+    <latitude>39.7525</latitude>
+    <longitude>-105.0832</longitude>
+    <elevation>1670.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.553</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0345</id>
+    <displayName>LAKEWOOD 4.3 NNW, CO US</displayName>
+    <minDate>2011-01-13</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.7563</latitude>
+    <longitude>-105.1316</longitude>
+    <elevation>1693.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.864</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSL0004</id>
+    <displayName>LAKEWOOD PARK 0.5 SW, FL US</displayName>
+    <minDate>2007-11-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.5318</latitude>
+    <longitude>-80.3952</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474530</id>
+    <displayName>LAKEWOOD SANITARY DISTRICT, WI US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.3102</latitude>
+    <longitude>-88.518</longitude>
+    <elevation>383.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054762</id>
+    <displayName>LAKEWOOD, CO US</displayName>
+    <minDate>1962-07-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7488</latitude>
+    <longitude>-105.1205</longitude>
+    <elevation>1719.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294770</id>
+    <displayName>LAKEWOOD, NM US</displayName>
+    <minDate>1912-01-01</minDate>
+    <maxDate>1928-05-31</maxDate>
+    <latitude>32.63333</latitude>
+    <longitude>-104.38333</longitude>
+    <elevation>1006.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSKE0008</id>
+    <displayName>LAKIN 0.5 WNW, KS US</displayName>
+    <minDate>2008-02-11</minDate>
+    <maxDate>2009-03-26</maxDate>
+    <latitude>37.9424</latitude>
+    <longitude>-101.2665</longitude>
+    <elevation>919</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSKE0010</id>
+    <displayName>LAKIN 3.6 S, KS US</displayName>
+    <minDate>2008-06-10</minDate>
+    <maxDate>2009-12-09</maxDate>
+    <latitude>37.8882</latitude>
+    <longitude>-101.2472</longitude>
+    <elevation>917.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3266</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSKE0013</id>
+    <displayName>LAKIN 4.5 W, KS US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2011-02-06</maxDate>
+    <latitude>37.9516</latitude>
+    <longitude>-101.3395</longitude>
+    <elevation>979.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144464</id>
+    <displayName>LAKIN, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.9412</latitude>
+    <longitude>-101.2492</longitude>
+    <elevation>913.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00465010</id>
+    <displayName>LAKIN, WV US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>38.95</latitude>
+    <longitude>-82.08333</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515260</id>
+    <displayName>LALAMILO F O 191.1, HI US</displayName>
+    <minDate>1980-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>20.013</latitude>
+    <longitude>-155.6686</longitude>
+    <elevation>797.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9217</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0017H07S</id>
+    <displayName>LAMANCE CREEK, NV US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.5167</latitude>
+    <longitude>-117.6333</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA011</id>
+    <displayName>LAMAR 0.3 ESE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.4925</latitude>
+    <longitude>-94.2683</longitude>
+    <elevation>295</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chas008</id>
+    <displayName>LAMAR 1.7 SSW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2009-09-23</maxDate>
+    <latitude>40.5493</latitude>
+    <longitude>-101.9893</longitude>
+    <elevation>1072</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPW0009</id>
+    <displayName>LAMAR 1.8 SSE, CO US</displayName>
+    <minDate>2004-04-03</minDate>
+    <maxDate>2007-06-27</maxDate>
+    <latitude>38.0617</latitude>
+    <longitude>-102.6126</longitude>
+    <elevation>1121.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chas016</id>
+    <displayName>LAMAR 3.4 S, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>40.5227</latitude>
+    <longitude>-101.9864</longitude>
+    <elevation>1068.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8928</coverage>
+  </station>
+</stationCollection>

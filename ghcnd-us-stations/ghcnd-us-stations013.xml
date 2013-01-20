@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="13">
+  <station>
+    <id>GHCND:USC00040239</id>
+    <displayName>APACHE CAMP, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.86667</latitude>
+    <longitude>-119.33333</longitude>
+    <elevation>1516.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0044</id>
+    <displayName>APACHE JUNCTION 1.8 SE, AZ US</displayName>
+    <minDate>2010-06-23</minDate>
+    <maxDate>2011-08-04</maxDate>
+    <latitude>33.3913</latitude>
+    <longitude>-111.5174</longitude>
+    <elevation>516</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0022</id>
+    <displayName>APACHE JUNCTION 2.2 SSE, AZ US</displayName>
+    <minDate>2009-10-06</minDate>
+    <maxDate>2011-02-26</maxDate>
+    <latitude>33.3796</latitude>
+    <longitude>-111.527</longitude>
+    <elevation>501.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9253</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0011</id>
+    <displayName>APACHE JUNCTION 2.5 ESE, AZ US</displayName>
+    <minDate>2009-09-18</minDate>
+    <maxDate>2010-08-21</maxDate>
+    <latitude>33.3855</latitude>
+    <longitude>-111.5115</longitude>
+    <elevation>516.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0020</id>
+    <displayName>APACHE JUNCTION 2.5 WSW, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.396</latitude>
+    <longitude>-111.5807</longitude>
+    <elevation>485.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0035</id>
+    <displayName>APACHE JUNCTION 3.0 ESE, AZ US</displayName>
+    <minDate>2010-04-11</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.3916</latitude>
+    <longitude>-111.4928</longitude>
+    <elevation>524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0027</id>
+    <displayName>APACHE JUNCTION 3.2 N, AZ US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4563</latitude>
+    <longitude>-111.5425</longitude>
+    <elevation>582.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0017</id>
+    <displayName>APACHE JUNCTION 3.5 ESE, AZ US</displayName>
+    <minDate>2009-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3843</latitude>
+    <longitude>-111.4879</longitude>
+    <elevation>529.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020307</id>
+    <displayName>APACHE JUNCTION 4 NN, AZ US</displayName>
+    <minDate>1965-04-01</minDate>
+    <maxDate>1969-04-30</maxDate>
+    <latitude>33.46667</latitude>
+    <longitude>-111.58333</longitude>
+    <elevation>576.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9202</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0010</id>
+    <displayName>APACHE JUNCTION 4.9 ESE, AZ US</displayName>
+    <minDate>2009-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3718</latitude>
+    <longitude>-111.4714</longitude>
+    <elevation>541</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020288</id>
+    <displayName>APACHE JUNCTION 5 NE, AZ US</displayName>
+    <minDate>1987-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.4625</latitude>
+    <longitude>-111.4813</longitude>
+    <elevation>630.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0008</id>
+    <displayName>APACHE JUNCTION 5.3 ESE, AZ US</displayName>
+    <minDate>2009-09-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3629</latitude>
+    <longitude>-111.4698</longitude>
+    <elevation>535.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8244</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0024</id>
+    <displayName>APACHE JUNCTION 5.5 ESE, AZ US</displayName>
+    <minDate>2009-09-25</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.3666</latitude>
+    <longitude>-111.46</longitude>
+    <elevation>558.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020306</id>
+    <displayName>APACHE JUNCTION, AZ US</displayName>
+    <minDate>1962-09-01</minDate>
+    <maxDate>1979-12-31</maxDate>
+    <latitude>33.41667</latitude>
+    <longitude>-111.55</longitude>
+    <elevation>524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020309</id>
+    <displayName>APACHE POWDER COMPNY, AZ US</displayName>
+    <minDate>1923-07-01</minDate>
+    <maxDate>1990-04-30</maxDate>
+    <latitude>31.9</latitude>
+    <longitude>-110.25</longitude>
+    <elevation>1124.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340260</id>
+    <displayName>APACHE, OK US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>34.8893</latitude>
+    <longitude>-98.3592</longitude>
+    <elevation>398.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00400179</id>
+    <displayName>APALACHIA DAM, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1952-04-30</maxDate>
+    <latitude>35.16667</latitude>
+    <longitude>-84.3</longitude>
+    <elevation>360</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00400187</id>
+    <displayName>APALACHIA POWERHOUSE, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.18333</latitude>
+    <longitude>-84.43333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9868</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012832</id>
+    <displayName>APALACHICOLA AIRPORT, FL US</displayName>
+    <minDate>1931-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.7258</latitude>
+    <longitude>-85.0205</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTG0017</id>
+    <displayName>APALACHIN 2.6 SE, NY US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>42.0512</latitude>
+    <longitude>-76.1236</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1697</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTG0008</id>
+    <displayName>APALACHIN 2.8 ESE, NY US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2012-12-22</maxDate>
+    <latitude>42.0529</latitude>
+    <longitude>-76.1199</longitude>
+    <elevation>315.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTG0003</id>
+    <displayName>APALACHIN 3.0 ESE, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-76.1167</longitude>
+    <elevation>277.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9476</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330195</id>
+    <displayName>APCO RAVENNA ARSENAL, OH US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1966-12-31</maxDate>
+    <latitude>41.16667</latitude>
+    <longitude>-81.08333</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0028</id>
+    <displayName>APEX 1.5 E, NC US</displayName>
+    <minDate>2007-08-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7269</latitude>
+    <longitude>-78.8188</longitude>
+    <elevation>138.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8245</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150185</id>
+    <displayName>APEX 2 NE, KY US</displayName>
+    <minDate>1957-07-01</minDate>
+    <maxDate>1960-07-31</maxDate>
+    <latitude>37.13333</latitude>
+    <longitude>-87.31667</longitude>
+    <elevation>156.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240236</id>
+    <displayName>APEX 2 NW, MT US</displayName>
+    <minDate>1949-06-19</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>45.4</latitude>
+    <longitude>-112.71667</longitude>
+    <elevation>1647.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9511</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0052</id>
+    <displayName>APEX 2.1 W, NC US</displayName>
+    <minDate>2007-11-20</minDate>
+    <maxDate>2009-09-15</maxDate>
+    <latitude>35.7263</latitude>
+    <longitude>-78.8822</longitude>
+    <elevation>109.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5571</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0077</id>
+    <displayName>APEX 2.2 N, NC US</displayName>
+    <minDate>2009-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7572</latitude>
+    <longitude>-78.8378</longitude>
+    <elevation>139.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7776</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0081</id>
+    <displayName>APEX 3.0 NNW, NC US</displayName>
+    <minDate>2009-09-23</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>35.7669</latitude>
+    <longitude>-78.8607</longitude>
+    <elevation>126.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0085</id>
+    <displayName>APEX 3.3 W, NC US</displayName>
+    <minDate>2010-02-21</minDate>
+    <maxDate>2011-11-04</maxDate>
+    <latitude>35.7312</latitude>
+    <longitude>-78.9027</longitude>
+    <elevation>105.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4277</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0004</id>
+    <displayName>APEX 3.4 ESE, NC US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7133</latitude>
+    <longitude>-78.7854</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9537</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0034</id>
+    <displayName>APEX 3.5 W, NC US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7331</latitude>
+    <longitude>-78.9073</longitude>
+    <elevation>96.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0084</id>
+    <displayName>APEX 5.5 SW, NC US</displayName>
+    <minDate>2010-01-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6692</latitude>
+    <longitude>-78.9135</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0022</id>
+    <displayName>APEX 6.1 ESE, NC US</displayName>
+    <minDate>2007-08-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6918</latitude>
+    <longitude>-78.7443</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310212</id>
+    <displayName>APEX, NC US</displayName>
+    <minDate>1993-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7426</latitude>
+    <longitude>-78.8369</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9479</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHL0016</id>
+    <displayName>APISON 2.7 SW, TN US</displayName>
+    <minDate>2010-09-27</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>34.9961</latitude>
+    <longitude>-85.0564</longitude>
+    <elevation>260.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030188</id>
+    <displayName>APLIN 1, AR US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>34.96667</latitude>
+    <longitude>-93</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320313</id>
+    <displayName>APLIN, ND US</displayName>
+    <minDate>1907-01-01</minDate>
+    <maxDate>1916-04-30</maxDate>
+    <latitude>47.15</latitude>
+    <longitude>-101.733333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369133</id>
+    <displayName>APOLLO 2 W, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.58333</latitude>
+    <longitude>-79.6</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9447</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0046</id>
+    <displayName>APOLLO BEACH 3.0 ENE, FL US</displayName>
+    <minDate>2007-11-24</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>27.7848</latitude>
+    <longitude>-82.3611</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00110211</id>
+    <displayName>APPLE RIVER CANYON SP, IL US</displayName>
+    <minDate>1985-12-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.4484</latitude>
+    <longitude>-90.0518</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8913</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0039</id>
+    <displayName>APPLE VALLEY 1.0 ESE, MN US</displayName>
+    <minDate>2012-04-17</minDate>
+    <maxDate>2012-09-19</maxDate>
+    <latitude>44.7418</latitude>
+    <longitude>-93.1821</longitude>
+    <elevation>301.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASR0028</id>
+    <displayName>APPLE VALLEY 1.9 N, CA US</displayName>
+    <minDate>2010-10-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.556</latitude>
+    <longitude>-117.2111</longitude>
+    <elevation>894.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7236</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASR0009</id>
+    <displayName>APPLE VALLEY 2.6 SE, CA US</displayName>
+    <minDate>2008-11-03</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>34.5043</latitude>
+    <longitude>-117.1808</longitude>
+    <elevation>896.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASR0001</id>
+    <displayName>APPLE VALLEY 2.6 SSW, CA US</displayName>
+    <minDate>2008-10-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>34.4957</latitude>
+    <longitude>-117.2353</longitude>
+    <elevation>878.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNDK0036</id>
+    <displayName>APPLE VALLEY 2.6 SW, MN US</displayName>
+    <minDate>2011-12-06</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>44.7248</latitude>
+    <longitude>-93.2445</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTWG0008</id>
+    <displayName>APPLE VALLEY 2.8 N, UT US</displayName>
+    <minDate>2010-04-12</minDate>
+    <maxDate>2012-09-25</maxDate>
+    <latitude>37.1299</latitude>
+    <longitude>-113.1309</longitude>
+    <elevation>1476.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2249</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040244</id>
+    <displayName>APPLE VALLEY, CA US</displayName>
+    <minDate>1959-06-01</minDate>
+    <maxDate>1987-03-31</maxDate>
+    <latitude>34.51667</latitude>
+    <longitude>-117.21667</longitude>
+    <elevation>894.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410293</id>
+    <displayName>APPLEBY, TX US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1947-07-31</maxDate>
+    <latitude>31.7</latitude>
+    <longitude>-94.61667</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6486</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350217</id>
+    <displayName>APPLEGATE, OR US</displayName>
+    <minDate>1979-01-01</minDate>
+    <maxDate>2010-04-07</maxDate>
+    <latitude>42.2461</latitude>
+    <longitude>-123.1763</longitude>
+    <elevation>410.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9089</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIOG0007</id>
+    <displayName>APPLETON 1.3 N, WI US</displayName>
+    <minDate>2012-04-08</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>44.2858</latitude>
+    <longitude>-88.3947</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9004</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSW0001</id>
+    <displayName>APPLETON 9.9 NNE, MN US</displayName>
+    <minDate>2011-04-05</minDate>
+    <maxDate>2011-11-04</maxDate>
+    <latitude>45.3403</latitude>
+    <longitude>-95.9784</longitude>
+    <elevation>315.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBS0004</id>
+    <displayName>APPLETON CITY 1.9 NW, MO US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2129</latitude>
+    <longitude>-94.0507</longitude>
+    <elevation>278.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230204</id>
+    <displayName>APPLETON CITY, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1869</latitude>
+    <longitude>-94.028</longitude>
+    <elevation>259.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030196</id>
+    <displayName>APPLETON, AR US</displayName>
+    <minDate>1948-06-02</minDate>
+    <maxDate>1966-07-31</maxDate>
+    <latitude>35.41667</latitude>
+    <longitude>-92.88333</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3104</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300208</id>
+    <displayName>APPLETON, NY US</displayName>
+    <minDate>1893-07-01</minDate>
+    <maxDate>1923-08-31</maxDate>
+    <latitude>43.35</latitude>
+    <longitude>-78.65</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450217</id>
+    <displayName>APPLETON, WA US</displayName>
+    <minDate>1959-06-12</minDate>
+    <maxDate>2010-04-30</maxDate>
+    <latitude>45.8091</latitude>
+    <longitude>-121.2812</longitude>
+    <elevation>712</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470265</id>
+    <displayName>APPLETON, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.27694</latitude>
+    <longitude>-88.43778</longitude>
+    <elevation>241.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8627</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090311</id>
+    <displayName>APPLING 2 NW, GA US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.5619</latitude>
+    <longitude>-82.3389</longitude>
+    <elevation>112.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090310</id>
+    <displayName>APPLING, GA US</displayName>
+    <minDate>1957-10-01</minDate>
+    <maxDate>1961-01-31</maxDate>
+    <latitude>33.53333</latitude>
+    <longitude>-82.31667</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470268</id>
+    <displayName>APPOLONIA, WI US</displayName>
+    <minDate>1894-12-01</minDate>
+    <maxDate>1897-03-31</maxDate>
+    <latitude>45.416667</latitude>
+    <longitude>-91.316667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440243</id>
+    <displayName>APPOMATTOX, VA US</displayName>
+    <minDate>1937-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3261</latitude>
+    <longitude>-78.8274</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9369</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHL0023</id>
+    <displayName>APSION 1.7 NNW, TN US</displayName>
+    <minDate>2012-02-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0472</latitude>
+    <longitude>-85.0351</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9547</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0019</id>
+    <displayName>APTOS 1.7 SSE, CA US</displayName>
+    <minDate>2009-11-06</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>36.9707</latitude>
+    <longitude>-121.8832</longitude>
+    <elevation>94.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.14</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0009</id>
+    <displayName>APTOS 2.6 E, CA US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.9961</latitude>
+    <longitude>-121.8536</longitude>
+    <elevation>116.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AQUA</id>
+    <displayName>AQUA CANYON BRYCE CANYON NP., UT US</displayName>
+    <minDate>1990-06-04</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.5222</latitude>
+    <longitude>-112.2711</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360212</id>
+    <displayName>AQUEDUCT, PA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1900-04-30</maxDate>
+    <latitude>40.5</latitude>
+    <longitude>-77.016667</longitude>
+    <elevation>111.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410297</id>
+    <displayName>AQUILLA 1 SSE, TX US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.8411</latitude>
+    <longitude>-97.2113</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHLL001</id>
+    <displayName>AQUILLA 1.3 NNE, TX US</displayName>
+    <minDate>2009-09-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.8741</latitude>
+    <longitude>-97.217</longitude>
+    <elevation>162.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMS0002</id>
+    <displayName>ARAB 2.6 WNW, AL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2009-01-11</maxDate>
+    <latitude>34.3397</latitude>
+    <longitude>-86.5434</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.726</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290508</id>
+    <displayName>ARABELLA NEAR, NM US</displayName>
+    <minDate>1901-10-20</minDate>
+    <maxDate>1945-09-30</maxDate>
+    <latitude>33.63333</latitude>
+    <longitude>-105.16667</longitude>
+    <elevation>1634.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4213</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290512</id>
+    <displayName>ARAGON, NM US</displayName>
+    <minDate>1906-07-01</minDate>
+    <maxDate>1928-08-19</maxDate>
+    <latitude>33.88333</latitude>
+    <longitude>-108.53333</longitude>
+    <elevation>2038.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ARAG</id>
+    <displayName>ARAGONITE UTAH, UT US</displayName>
+    <minDate>1997-06-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.5983</latitude>
+    <longitude>-113.0217</longitude>
+    <elevation>1533.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXSP0012</id>
+    <displayName>ARANSAS PASS 1.8 W, TX US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2011-02-24</maxDate>
+    <latitude>27.9126</latitude>
+    <longitude>-97.1724</longitude>
+    <elevation>8.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5152</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410302</id>
+    <displayName>ARANSAS PASS 2, TX US</displayName>
+    <minDate>1897-06-12</minDate>
+    <maxDate>1971-07-31</maxDate>
+    <latitude>27.91667</latitude>
+    <longitude>-97.13333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3809</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAR0008</id>
+    <displayName>ARANSAS PASS 6.1 NNW, TX US</displayName>
+    <minDate>2012-05-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.9727</latitude>
+    <longitude>-97.1349</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410305</id>
+    <displayName>ARANSAS WILDLIFE REFUGE, TX US</displayName>
+    <minDate>1971-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.30806</latitude>
+    <longitude>-96.80472</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9728</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410437</id>
+    <displayName>ARANSAS WILDLIFE REFUGE, TX US</displayName>
+    <minDate>1940-06-04</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>28.30806</latitude>
+    <longitude>-96.80472</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340277</id>
+    <displayName>ARAPAHO, OK US</displayName>
+    <minDate>1893-07-23</minDate>
+    <maxDate>1930-12-31</maxDate>
+    <latitude>35.583333</latitude>
+    <longitude>-98.966667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9323</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050306</id>
+    <displayName>ARAPAHOE 12 S, CO US</displayName>
+    <minDate>2003-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.6841</latitude>
+    <longitude>-102.1614</longitude>
+    <elevation>1248.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9547</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0008</id>
+    <displayName>ARAPAHOE 14 N, CO US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>39.0417</latitude>
+    <longitude>-102.1669</longitude>
+    <elevation>1261</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050301</id>
+    <displayName>ARAPAHOE 14 N, CO US</displayName>
+    <minDate>1992-03-01</minDate>
+    <maxDate>2007-01-31</maxDate>
+    <latitude>39.0372</latitude>
+    <longitude>-102.1675</longitude>
+    <elevation>1262.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPM0011</id>
+    <displayName>ARAPAHOE 3.6 ESE, NC US</displayName>
+    <minDate>2012-01-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0007</latitude>
+    <longitude>-76.7675</longitude>
+    <elevation>1.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8764</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10furn005</id>
+    <displayName>ARAPAHOE 4.2 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2007-10-16</maxDate>
+    <latitude>40.3073</latitude>
+    <longitude>-99.982</longitude>
+    <elevation>673</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10furn015</id>
+    <displayName>ARAPAHOE 4.8 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>40.2463</latitude>
+    <longitude>-99.9516</longitude>
+    <elevation>719.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7703</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gosp004</id>
+    <displayName>ARAPAHOE 6.9 NW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>40.3873</latitude>
+    <longitude>-99.973</longitude>
+    <elevation>705.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gosp002</id>
+    <displayName>ARAPAHOE 9.8 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.4379</latitude>
+    <longitude>-99.8351</longitude>
+    <elevation>741</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0179</id>
+    <displayName>ARAPAHOE PARK 1.4 WSW, CO US</displayName>
+    <minDate>2006-06-12</minDate>
+    <maxDate>2008-12-02</maxDate>
+    <latitude>39.6272</latitude>
+    <longitude>-104.7124</longitude>
+    <elevation>1791.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7878</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480250</id>
+    <displayName>ARAPAHOE RANCH, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1950-04-06</maxDate>
+    <latitude>43.71667</latitude>
+    <longitude>-108.53333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.342</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0007</id>
+    <displayName>ARAPAHOE, CO US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>38.8533</latitude>
+    <longitude>-102.1761</longitude>
+    <elevation>1225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050304</id>
+    <displayName>ARAPAHOE, CO US</displayName>
+    <minDate>1948-08-06</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.8528</latitude>
+    <longitude>-102.1764</longitude>
+    <elevation>1225.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.311</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480245</id>
+    <displayName>ARAPAHOE, WY US</displayName>
+    <minDate>1910-10-17</minDate>
+    <maxDate>1919-12-25</maxDate>
+    <latitude>42.966667</latitude>
+    <longitude>-108.483333</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7792</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCSR0006</id>
+    <displayName>ARARAT 4.7 SW, NC US</displayName>
+    <minDate>2009-08-26</minDate>
+    <maxDate>2010-11-16</maxDate>
+    <latitude>36.346</latitude>
+    <longitude>-80.603</longitude>
+    <elevation>358.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020344</id>
+    <displayName>ARAVAIPA RANGER STATION, AZ US</displayName>
+    <minDate>1952-01-01</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>32.78333</latitude>
+    <longitude>-110.26667</longitude>
+    <elevation>1118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050310</id>
+    <displayName>ARBOLES 1 W, CO US</displayName>
+    <minDate>2002-11-01</minDate>
+    <maxDate>2007-07-31</maxDate>
+    <latitude>37.0236</latitude>
+    <longitude>-107.4372</longitude>
+    <elevation>1890.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050307</id>
+    <displayName>ARBOLES, CO US</displayName>
+    <minDate>1957-10-22</minDate>
+    <maxDate>1963-10-31</maxDate>
+    <latitude>37.01667</latitude>
+    <longitude>-107.41667</longitude>
+    <elevation>1884.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100347</id>
+    <displayName>ARBON, ID US</displayName>
+    <minDate>1962-07-01</minDate>
+    <maxDate>2002-10-31</maxDate>
+    <latitude>42.50306</latitude>
+    <longitude>-112.57583</longitude>
+    <elevation>1588</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9348</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470273</id>
+    <displayName>ARBORETUM UNIVERSITY WIS, WI US</displayName>
+    <minDate>1971-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0411</latitude>
+    <longitude>-89.4286</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250310</id>
+    <displayName>ARBORVILLE, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1902-12-31</maxDate>
+    <latitude>41.033333</latitude>
+    <longitude>-97.783333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9406</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVPC0001</id>
+    <displayName>ARBOVALE 0.8 NW, WV US</displayName>
+    <minDate>2009-05-08</minDate>
+    <maxDate>2011-12-09</maxDate>
+    <latitude>38.4455</latitude>
+    <longitude>-79.8267</longitude>
+    <elevation>816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2516</coverage>
+  </station>
+</stationCollection>

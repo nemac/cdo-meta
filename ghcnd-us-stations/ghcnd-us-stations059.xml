@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="59">
+  <station>
+    <id>GHCND:USC00351222</id>
+    <displayName>BUXTON, OR US</displayName>
+    <minDate>1950-02-02</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>45.6898</latitude>
+    <longitude>-123.1906</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.034</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341283</id>
+    <displayName>BYARS 3 ESE MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>34.84944</latitude>
+    <longitude>-97.00306</longitude>
+    <elevation>344.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9289</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0056</id>
+    <displayName>BYERS 0.1 N, CO US</displayName>
+    <minDate>2002-04-20</minDate>
+    <maxDate>2012-09-27</maxDate>
+    <latitude>39.714</latitude>
+    <longitude>-104.2252</longitude>
+    <elevation>1584</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1044</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0066</id>
+    <displayName>BYERS 0.2 SE, CO US</displayName>
+    <minDate>2002-09-12</minDate>
+    <maxDate>2006-12-13</maxDate>
+    <latitude>39.7087</latitude>
+    <longitude>-104.2196</longitude>
+    <elevation>1589.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5135</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0118</id>
+    <displayName>BYERS 1.0 W, CO US</displayName>
+    <minDate>2004-06-09</minDate>
+    <maxDate>2006-12-20</maxDate>
+    <latitude>39.7114</latitude>
+    <longitude>-104.2469</longitude>
+    <elevation>1597.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAD0118</id>
+    <displayName>BYERS 4.9 NE, CO US</displayName>
+    <minDate>2008-07-15</minDate>
+    <maxDate>2011-11-02</maxDate>
+    <latitude>39.7557</latitude>
+    <longitude>-104.154</longitude>
+    <elevation>1555.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9337</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAD0096</id>
+    <displayName>BYERS 4.9 NNE, CO US</displayName>
+    <minDate>2005-09-22</minDate>
+    <maxDate>2008-12-15</maxDate>
+    <latitude>39.7751</latitude>
+    <longitude>-104.1908</longitude>
+    <elevation>1549.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3506</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051179</id>
+    <displayName>BYERS 5 ENE, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.7402</latitude>
+    <longitude>-104.1275</longitude>
+    <elevation>1554.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7076</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0194</id>
+    <displayName>BYERS 8.1 SSE, CO US</displayName>
+    <minDate>2007-10-14</minDate>
+    <maxDate>2012-10-06</maxDate>
+    <latitude>39.5996</latitude>
+    <longitude>-104.1751</longitude>
+    <elevation>1673</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8462</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221262</id>
+    <displayName>BYHALIA, MS US</displayName>
+    <minDate>1909-05-01</minDate>
+    <maxDate>1996-04-30</maxDate>
+    <latitude>34.86667</latitude>
+    <longitude>-89.68333</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441259</id>
+    <displayName>BYLLESBY 1 S, VA US</displayName>
+    <minDate>1967-05-01</minDate>
+    <maxDate>2005-08-31</maxDate>
+    <latitude>36.77194</latitude>
+    <longitude>-80.93861</longitude>
+    <elevation>797.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441255</id>
+    <displayName>BYLLESBY, VA US</displayName>
+    <minDate>1943-05-01</minDate>
+    <maxDate>1967-07-31</maxDate>
+    <latitude>36.8</latitude>
+    <longitude>-80.91667</longitude>
+    <elevation>634</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9764</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241342</id>
+    <displayName>BYNUM 4 SSE, MT US</displayName>
+    <minDate>1927-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.9261</latitude>
+    <longitude>-112.292</longitude>
+    <elevation>1231.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.34</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241336</id>
+    <displayName>BYNUM, MT US</displayName>
+    <minDate>1949-06-01</minDate>
+    <maxDate>1980-02-29</maxDate>
+    <latitude>47.98333</latitude>
+    <longitude>-112.31667</longitude>
+    <elevation>1211</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231156</id>
+    <displayName>BYNUMVILLE 1 E, MO US</displayName>
+    <minDate>1977-09-01</minDate>
+    <maxDate>1989-07-31</maxDate>
+    <latitude>39.58333</latitude>
+    <longitude>-92.81667</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7307</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0115</id>
+    <displayName>BYR 11.5 SE, CO US</displayName>
+    <minDate>1999-07-16</minDate>
+    <maxDate>2006-06-20</maxDate>
+    <latitude>39.6246</latitude>
+    <longitude>-104.0417</longitude>
+    <elevation>1603.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411285</id>
+    <displayName>BYRDS 1 NNE, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>31.93333</latitude>
+    <longitude>-99.03333</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401312</id>
+    <displayName>BYRDSTOWN 1 W, TN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1951-10-31</maxDate>
+    <latitude>36.56667</latitude>
+    <longitude>-85.15</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.687</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPT0003</id>
+    <displayName>BYRDSTOWN 2.8 SSW, TN US</displayName>
+    <minDate>2007-01-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5442</latitude>
+    <longitude>-85.1598</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2262</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPT0002</id>
+    <displayName>BYRDSTOWN 3.7 E, TN US</displayName>
+    <minDate>2007-07-07</minDate>
+    <maxDate>2012-02-07</maxDate>
+    <latitude>36.5705</latitude>
+    <longitude>-85.0659</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPT0001</id>
+    <displayName>BYRDSTOWN 6.8 WSW, TN US</displayName>
+    <minDate>2007-07-03</minDate>
+    <maxDate>2012-02-06</maxDate>
+    <latitude>36.5538</latitude>
+    <longitude>-85.2532</longitude>
+    <elevation>298.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4893</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNFN0002</id>
+    <displayName>BYRDSTOWN 8.7 E, TN US</displayName>
+    <minDate>2007-04-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5571</latitude>
+    <longitude>-84.9779</longitude>
+    <elevation>303</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401317</id>
+    <displayName>BYRDSTOWN TVA, TN US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1950-08-31</maxDate>
+    <latitude>36.56667</latitude>
+    <longitude>-85.15</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401310</id>
+    <displayName>BYRDSTOWN, TN US</displayName>
+    <minDate>1998-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.58028</latitude>
+    <longitude>-85.12556</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000GBYR</id>
+    <displayName>BYROMVILLE GEORGIA, GA US</displayName>
+    <minDate>2003-03-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.2033</latitude>
+    <longitude>-83.9319</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9308</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10thay020</id>
+    <displayName>BYRON 0.2 ESE, NE US</displayName>
+    <minDate>2007-01-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0027</latitude>
+    <longitude>-97.7648</longitude>
+    <elevation>513</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILOG0004</id>
+    <displayName>BYRON 3.2 N, IL US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1747</latitude>
+    <longitude>-89.2678</longitude>
+    <elevation>224.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201172</id>
+    <displayName>BYRON 4 WSW, MI US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2002-05-23</maxDate>
+    <latitude>42.80861</latitude>
+    <longitude>-84.035</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNOL0007</id>
+    <displayName>BYRON 5.7 S, MN US</displayName>
+    <minDate>2011-03-29</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>43.9555</latitude>
+    <longitude>-92.6324</longitude>
+    <elevation>367.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7008</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACR0001</id>
+    <displayName>BYRON 5.8 NW, GA US</displayName>
+    <minDate>2009-04-13</minDate>
+    <maxDate>2010-08-30</maxDate>
+    <latitude>32.7026</latitude>
+    <longitude>-83.8365</longitude>
+    <elevation>154.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0009</id>
+    <displayName>BYRON CENTER 0.4 SW, MI US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2008-12-06</maxDate>
+    <latitude>42.8067</latitude>
+    <longitude>-85.7267</longitude>
+    <elevation>228.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0051</id>
+    <displayName>BYRON CENTER 0.5 NE, MI US</displayName>
+    <minDate>2009-05-31</minDate>
+    <maxDate>2011-11-30</maxDate>
+    <latitude>42.8187</latitude>
+    <longitude>-85.7171</longitude>
+    <elevation>219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2046</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0003</id>
+    <displayName>BYRON CENTER 1.9 ESE, MI US</displayName>
+    <minDate>2008-07-07</minDate>
+    <maxDate>2009-05-16</maxDate>
+    <latitude>42.8108</latitude>
+    <longitude>-85.6852</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3185</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0031</id>
+    <displayName>BYRON CENTER 2.9 NE, MI US</displayName>
+    <minDate>2008-09-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.8416</latitude>
+    <longitude>-85.6835</longitude>
+    <elevation>217.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091448</id>
+    <displayName>BYRON EXPERIMENT STATION, GA US</displayName>
+    <minDate>1977-12-01</minDate>
+    <maxDate>2000-08-31</maxDate>
+    <latitude>32.66944</latitude>
+    <longitude>-83.74528</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211174</id>
+    <displayName>BYRON, MN US</displayName>
+    <minDate>1993-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0909</latitude>
+    <longitude>-92.64</longitude>
+    <elevation>317.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291286</id>
+    <displayName>CABALLO DAM, NM US</displayName>
+    <minDate>1936-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.8965</latitude>
+    <longitude>-107.3077</longitude>
+    <elevation>1292</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091453</id>
+    <displayName>CABANISS, GA US</displayName>
+    <minDate>1872-05-01</minDate>
+    <maxDate>1875-09-30</maxDate>
+    <latitude>33.15</latitude>
+    <longitude>-83.883333</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041250</id>
+    <displayName>CABAZON, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>33.91667</latitude>
+    <longitude>-116.78333</longitude>
+    <elevation>548.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5554</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291300</id>
+    <displayName>CABEZA, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1921-03-31</maxDate>
+    <latitude>35.71667</latitude>
+    <longitude>-103.93333</longitude>
+    <elevation>1647.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291303</id>
+    <displayName>CABEZON 5 SW, NM US</displayName>
+    <minDate>1939-10-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.58333</latitude>
+    <longitude>-107.16667</longitude>
+    <elevation>1845</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8444</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051186</id>
+    <displayName>CABIN CREEK, CO US</displayName>
+    <minDate>1968-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6552</latitude>
+    <longitude>-105.7088</longitude>
+    <elevation>3054.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241360</id>
+    <displayName>CABIN CREEK, MT US</displayName>
+    <minDate>1909-08-01</minDate>
+    <maxDate>1912-12-31</maxDate>
+    <latitude>44.666667</latitude>
+    <longitude>-112.916667</longitude>
+    <elevation>2286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OCAB</id>
+    <displayName>CABIN LAKE OREGON, OR US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.5</latitude>
+    <longitude>-121.05</longitude>
+    <elevation>1385.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101363</id>
+    <displayName>CABINET GORGE, ID US</displayName>
+    <minDate>1956-11-08</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>48.0863</latitude>
+    <longitude>-116.0573</longitude>
+    <elevation>662.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MCBT</id>
+    <displayName>CABINET TROUT CREEK MONTANA, MT US</displayName>
+    <minDate>2001-09-06</minDate>
+    <maxDate>2012-08-28</maxDate>
+    <latitude>47.8667</latitude>
+    <longitude>-115.625</longitude>
+    <elevation>716.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7214</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00661123</id>
+    <displayName>CABO ROJO, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1969-08-31</maxDate>
+    <latitude>18.08333</latitude>
+    <longitude>-67.15</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARLK0007</id>
+    <displayName>CABOT 1.3 SW, AR US</displayName>
+    <minDate>2011-01-19</minDate>
+    <maxDate>2012-09-08</maxDate>
+    <latitude>34.9562</latitude>
+    <longitude>-92.0404</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5509</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0023</id>
+    <displayName>CABOT 2.3 E, VT US</displayName>
+    <minDate>2012-04-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3981</latitude>
+    <longitude>-72.2657</longitude>
+    <elevation>619.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0012</id>
+    <displayName>CABOT 3.9 ENE, VT US</displayName>
+    <minDate>2009-05-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.4171</latitude>
+    <longitude>-72.235</longitude>
+    <elevation>530.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031102</id>
+    <displayName>CABOT, AR US</displayName>
+    <minDate>1918-04-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9818</latitude>
+    <longitude>-92.0064</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461319</id>
+    <displayName>CABWAYLINGO STATE FO, WV US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>1961-12-31</maxDate>
+    <latitude>37.98333</latitude>
+    <longitude>-82.35</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.351</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00661142</id>
+    <displayName>CACAOS OROCOVIS, PR US</displayName>
+    <minDate>1981-05-01</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>18.22583</latitude>
+    <longitude>-66.50389</longitude>
+    <elevation>554.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461325</id>
+    <displayName>CACAPON STATE PARK 1, WV US</displayName>
+    <minDate>1940-10-01</minDate>
+    <maxDate>1944-10-31</maxDate>
+    <latitude>39.516667</latitude>
+    <longitude>-78.3</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7694</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461324</id>
+    <displayName>CACAPON STATE PARK 2, WV US</displayName>
+    <minDate>1973-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5064</latitude>
+    <longitude>-78.3158</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466674</id>
+    <displayName>CACAPON STATE PARK 2, WV US</displayName>
+    <minDate>1945-08-01</minDate>
+    <maxDate>1973-05-31</maxDate>
+    <latitude>39.5064</latitude>
+    <longitude>-78.3158</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCC0001</id>
+    <displayName>CACHE 1.0 W, OK US</displayName>
+    <minDate>2008-01-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6263</latitude>
+    <longitude>-98.6327</longitude>
+    <elevation>385</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000FCAC</id>
+    <displayName>CACHE FLORIDA, FL US</displayName>
+    <minDate>1999-12-14</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>25.3903</latitude>
+    <longitude>-80.6803</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9402</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041253</id>
+    <displayName>CACHUMA LAKE, CA US</displayName>
+    <minDate>1952-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5822</latitude>
+    <longitude>-119.9817</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TCAD</id>
+    <displayName>CADDO LAKE TEXAS, TX US</displayName>
+    <minDate>2002-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.6583</latitude>
+    <longitude>-94.1164</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TCDD</id>
+    <displayName>CADDO TEXAS, TX US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>33.7411</latitude>
+    <longitude>-95.9219</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151194</id>
+    <displayName>CADDO, KY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1900-05-25</maxDate>
+    <latitude>38.75</latitude>
+    <longitude>-84.25</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8167</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381241</id>
+    <displayName>CADES 4 W, SC US</displayName>
+    <minDate>1994-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8083</latitude>
+    <longitude>-79.8566</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00161380</id>
+    <displayName>CADES, LA US</displayName>
+    <minDate>1910-06-01</minDate>
+    <maxDate>1919-12-31</maxDate>
+    <latitude>30.1</latitude>
+    <longitude>-91.9</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201178</id>
+    <displayName>CADILLAC 2 SW, MI US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2334</latitude>
+    <longitude>-85.4218</longitude>
+    <elevation>399.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIWX0001</id>
+    <displayName>CADILLAC 4.0 NE, MI US</displayName>
+    <minDate>2008-07-12</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>44.2861</latitude>
+    <longitude>-85.3557</longitude>
+    <elevation>389.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171070</id>
+    <displayName>CADILLAC, ME US</displayName>
+    <minDate>1942-08-01</minDate>
+    <maxDate>1944-06-16</maxDate>
+    <latitude>44.35</latitude>
+    <longitude>-68.233333</longitude>
+    <elevation>467</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014817</id>
+    <displayName>CADILLAC, MI US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2655</latitude>
+    <longitude>-85.3966</longitude>
+    <elevation>394.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331162</id>
+    <displayName>CADIZ 2, OH US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>40.26667</latitude>
+    <longitude>-81</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151208</id>
+    <displayName>CADIZ 4 SW, KY US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8147</latitude>
+    <longitude>-87.8816</longitude>
+    <elevation>174.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151206</id>
+    <displayName>CADIZ LOCK E, KY US</displayName>
+    <minDate>1902-06-01</minDate>
+    <maxDate>1965-03-31</maxDate>
+    <latitude>36.76667</latitude>
+    <longitude>-87.96667</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5198</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151210</id>
+    <displayName>CADIZ, KY US</displayName>
+    <minDate>1981-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.86</latitude>
+    <longitude>-87.838</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9401</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331152</id>
+    <displayName>CADIZ, OH US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>2009-04-17</maxDate>
+    <latitude>40.26861</latitude>
+    <longitude>-80.99806</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411304</id>
+    <displayName>CADIZ, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>28.43333</latitude>
+    <longitude>-97.95</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00471250</id>
+    <displayName>CADIZ, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1894-08-31</maxDate>
+    <latitude>42.533333</latitude>
+    <longitude>-89.8</longitude>
+    <elevation>182.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381256</id>
+    <displayName>CAESARS HEAD, SC US</displayName>
+    <minDate>1967-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1072</latitude>
+    <longitude>-82.6255</longitude>
+    <elevation>975.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9515</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381249</id>
+    <displayName>CAESARS HEAD, SC US</displayName>
+    <minDate>1924-12-01</minDate>
+    <maxDate>1967-11-30</maxDate>
+    <latitude>35.11667</latitude>
+    <longitude>-82.63333</longitude>
+    <elevation>951.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9347</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401323</id>
+    <displayName>CAGLE, TN US</displayName>
+    <minDate>1896-10-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.46667</latitude>
+    <longitude>-85.45</longitude>
+    <elevation>627.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2186</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00661309</id>
+    <displayName>CAGUAS 1 W, PR US</displayName>
+    <minDate>1970-03-01</minDate>
+    <maxDate>1995-03-31</maxDate>
+    <latitude>18.23333</latitude>
+    <longitude>-66.05</longitude>
+    <elevation>79.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9197</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00661301</id>
+    <displayName>CAGUAS 2 ENE, PR US</displayName>
+    <minDate>1960-08-01</minDate>
+    <maxDate>1967-05-31</maxDate>
+    <latitude>18.25</latitude>
+    <longitude>-66.01667</longitude>
+    <elevation>53.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00661300</id>
+    <displayName>CAGUAS, PR US</displayName>
+    <minDate>1899-05-01</minDate>
+    <maxDate>1960-08-31</maxDate>
+    <latitude>18.23333</latitude>
+    <longitude>-66.03333</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00011225</id>
+    <displayName>CAHABA PUMP HOUSE, AL US</displayName>
+    <minDate>1981-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4517</latitude>
+    <longitude>-86.7158</longitude>
+    <elevation>140.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003960</id>
+    <displayName>CAHOKIA ST LOUIS DOWNTOWN AIRPORT, IL US</displayName>
+    <minDate>1997-06-08</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.57139</latitude>
+    <longitude>-90.15722</longitude>
+    <elevation>125.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111160</id>
+    <displayName>CAHOKIA, IL US</displayName>
+    <minDate>1969-05-01</minDate>
+    <maxDate>2012-05-31</maxDate>
+    <latitude>38.56694</latitude>
+    <longitude>-90.19417</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODR0006</id>
+    <displayName>CAHONE 2.1 ENE, CO US</displayName>
+    <minDate>2004-05-03</minDate>
+    <maxDate>2005-11-30</maxDate>
+    <latitude>37.6611</latitude>
+    <longitude>-108.7692</longitude>
+    <elevation>2100.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6412</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCAH</id>
+    <displayName>CAHOON CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>1997-04-25</maxDate>
+    <latitude>36.3469</latitude>
+    <longitude>-121.5108</longitude>
+    <elevation>682.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCAA</id>
+    <displayName>CAHUILLA CALIFORNIA, CA US</displayName>
+    <minDate>2000-11-15</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>32.9736</latitude>
+    <longitude>-115.1736</longitude>
+    <elevation>84.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9406</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003850</id>
+    <displayName>CAIRNS FIELD FORT RUCKER, AL US</displayName>
+    <minDate>1954-10-19</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>31.26667</latitude>
+    <longitude>-85.71667</longitude>
+    <elevation>91.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10hall011</id>
+    <displayName>CAIRO 0.3 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.0018</latitude>
+    <longitude>-98.6143</longitude>
+    <elevation>598.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10hall006</id>
+    <displayName>CAIRO 2.5 N, NE US</displayName>
+    <minDate>2007-01-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0376</latitude>
+    <longitude>-98.6071</longitude>
+    <elevation>599.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093809</id>
+    <displayName>CAIRO 3 N, IL US</displayName>
+    <minDate>1908-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0422</latitude>
+    <longitude>-89.1855</longitude>
+    <elevation>95.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461328</id>
+    <displayName>CAIRO 3 S, WV US</displayName>
+    <minDate>1899-04-07</minDate>
+    <maxDate>1981-10-31</maxDate>
+    <latitude>39.16667</latitude>
+    <longitude>-81.16667</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301095</id>
+    <displayName>CAIRO 4 NW, NY US</displayName>
+    <minDate>1978-07-01</minDate>
+    <maxDate>2012-08-22</maxDate>
+    <latitude>42.31667</latitude>
+    <longitude>-74.03306</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAGY0002</id>
+    <displayName>CAIRO 9.2 NNW, GA US</displayName>
+    <minDate>2009-04-28</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>31.0074</latitude>
+    <longitude>-84.2467</longitude>
+    <elevation>101.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9197</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111169</id>
+    <displayName>CAIRO RIVER, IL US</displayName>
+    <minDate>1891-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.00444</latitude>
+    <longitude>-89.17861</longitude>
+    <elevation>82.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6276</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091463</id>
+    <displayName>CAIRO, GA US</displayName>
+    <minDate>1927-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>30.8696</latitude>
+    <longitude>-84.2174</longitude>
+    <elevation>61.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221299</id>
+    <displayName>CAIRO, MS US</displayName>
+    <minDate>1959-07-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.7</latitude>
+    <longitude>-88.35</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00251390</id>
+    <displayName>CAIRO, NE US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1947-07-31</maxDate>
+    <latitude>41</latitude>
+    <longitude>-98.61667</longitude>
+    <elevation>609.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301093</id>
+    <displayName>CAIRO, NY US</displayName>
+    <minDate>1924-01-01</minDate>
+    <maxDate>1963-07-31</maxDate>
+    <latitude>42.31667</latitude>
+    <longitude>-74.01667</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461330</id>
+    <displayName>CAIRO, WV US</displayName>
+    <minDate>1981-11-01</minDate>
+    <maxDate>2005-10-31</maxDate>
+    <latitude>39.20472</latitude>
+    <longitude>-81.15722</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.924</coverage>
+  </station>
+</stationCollection>

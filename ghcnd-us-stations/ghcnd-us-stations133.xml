@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="133">
+  <station>
+    <id>GHCND:USC00483064</id>
+    <displayName>ERVAY 3 NW, WY US</displayName>
+    <minDate>1950-08-05</minDate>
+    <maxDate>1954-07-31</maxDate>
+    <latitude>42.86667</latitude>
+    <longitude>-107.4</longitude>
+    <elevation>2030.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00483060</id>
+    <displayName>ERVAY, WY US</displayName>
+    <minDate>1908-04-01</minDate>
+    <maxDate>1950-05-31</maxDate>
+    <latitude>42.85</latitude>
+    <longitude>-107.35</longitude>
+    <elevation>2073.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8011</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402934</id>
+    <displayName>ERWIN 1 W, TN US</displayName>
+    <minDate>1979-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1422</latitude>
+    <longitude>-82.4261</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNUC0005</id>
+    <displayName>ERWIN 1.6 ENE, TN US</displayName>
+    <minDate>2011-11-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1501</latitude>
+    <longitude>-82.3836</longitude>
+    <elevation>583.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7548</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNUC0004</id>
+    <displayName>ERWIN 8.6 SW, TN US</displayName>
+    <minDate>2007-11-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.067</latitude>
+    <longitude>-82.5322</longitude>
+    <elevation>691.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402929</id>
+    <displayName>ERWIN, TN US</displayName>
+    <minDate>1926-11-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.16667</latitude>
+    <longitude>-82.41667</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8002</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142592</id>
+    <displayName>ESBON 7 N, KS US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>2001-03-31</maxDate>
+    <latitude>39.93028</latitude>
+    <longitude>-98.42694</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422597</id>
+    <displayName>ESCALANTE RIVER MOUTH, UT US</displayName>
+    <minDate>1951-04-03</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>37.31667</latitude>
+    <longitude>-110.9</longitude>
+    <elevation>1220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8175</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422592</id>
+    <displayName>ESCALANTE, UT US</displayName>
+    <minDate>1901-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.7686</latitude>
+    <longitude>-111.5977</longitude>
+    <elevation>1770.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9143</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIDL0003</id>
+    <displayName>ESCANABA 1.4 ESE, MI US</displayName>
+    <minDate>2009-05-13</minDate>
+    <maxDate>2010-09-01</maxDate>
+    <latitude>45.741</latitude>
+    <longitude>-87.0529</longitude>
+    <elevation>181.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014824</id>
+    <displayName>ESCANABA, MI US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2009-06-06</maxDate>
+    <latitude>45.7181</latitude>
+    <longitude>-87.0939</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412950</id>
+    <displayName>ESCOBAS, TX US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.02667</latitude>
+    <longitude>-98.98083</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9075</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0010</id>
+    <displayName>ESCONDIDO 2.5 SSE, CA US</displayName>
+    <minDate>2008-11-14</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.1055</latitude>
+    <longitude>-117.0482</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0008</id>
+    <displayName>ESCONDIDO 4.7 NW, CA US</displayName>
+    <minDate>2008-11-06</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>33.1852</latitude>
+    <longitude>-117.1282</longitude>
+    <elevation>449.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042863</id>
+    <displayName>ESCONDIDO NUMBER 2, CA US</displayName>
+    <minDate>1979-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.12111</latitude>
+    <longitude>-117.08833</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9086</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042871</id>
+    <displayName>ESCONDIDO NUMBER 2, CA US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>1958-05-31</maxDate>
+    <latitude>33.12111</latitude>
+    <longitude>-117.08833</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7012</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042862</id>
+    <displayName>ESCONDIDO, CA US</displayName>
+    <minDate>1893-12-01</minDate>
+    <maxDate>1979-03-31</maxDate>
+    <latitude>33.11667</latitude>
+    <longitude>-117.08333</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293015</id>
+    <displayName>ESCONDIDO, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1914-08-31</maxDate>
+    <latitude>32.6</latitude>
+    <longitude>-106.01667</longitude>
+    <elevation>1223.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WESC</id>
+    <displayName>ESCURE WASHINGTON, WA US</displayName>
+    <minDate>2001-08-16</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.0378</latitude>
+    <longitude>-117.9472</longitude>
+    <elevation>503.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9113</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422607</id>
+    <displayName>ESKDALE, UT US</displayName>
+    <minDate>1966-03-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.1077</latitude>
+    <longitude>-113.9533</longitude>
+    <elevation>1517.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142602</id>
+    <displayName>ESKRIDGE, KS US</displayName>
+    <minDate>1897-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8591</latitude>
+    <longitude>-96.1058</longitude>
+    <elevation>430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162976</id>
+    <displayName>ESLER FIELD, LA US</displayName>
+    <minDate>1942-09-01</minDate>
+    <maxDate>1945-08-31</maxDate>
+    <latitude>31.383333</latitude>
+    <longitude>-92.3</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322767</id>
+    <displayName>ESMOND, ND US</displayName>
+    <minDate>1949-11-16</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>48.03333</latitude>
+    <longitude>-99.76667</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7767</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMRA0022</id>
+    <displayName>ESPA OLA 5.4 WNW, NM US</displayName>
+    <minDate>2005-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0456</latitude>
+    <longitude>-106.1517</longitude>
+    <elevation>1955</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5836</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMRA0011</id>
+    <displayName>ESPANOLA 1.1 SE, NM US</displayName>
+    <minDate>2005-06-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9947</latitude>
+    <longitude>-106.0535</longitude>
+    <elevation>1717.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMRA0033</id>
+    <displayName>ESPANOLA 1.7 NNE, NM US</displayName>
+    <minDate>2011-07-02</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>36.0244</latitude>
+    <longitude>-106.0536</longitude>
+    <elevation>1731.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4177</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293031</id>
+    <displayName>ESPANOLA, NM US</displayName>
+    <minDate>1895-04-01</minDate>
+    <maxDate>2012-10-07</maxDate>
+    <latitude>35.9988</latitude>
+    <longitude>-106.0588</longitude>
+    <elevation>1713</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8064</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302686</id>
+    <displayName>ESPERANCE 2 N, NY US</displayName>
+    <minDate>1992-02-01</minDate>
+    <maxDate>1995-07-31</maxDate>
+    <latitude>42.45</latitude>
+    <longitude>-74.28333</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8238</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302683</id>
+    <displayName>ESPERANCE, NY US</displayName>
+    <minDate>1955-10-15</minDate>
+    <maxDate>1962-04-30</maxDate>
+    <latitude>42.76667</latitude>
+    <longitude>-74.25</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CESP</id>
+    <displayName>ESPERANZA CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>38.2428</latitude>
+    <longitude>-120.515</longitude>
+    <elevation>780</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8803</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293042</id>
+    <displayName>ESPIRITU SANTO GRANT, NM US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1961-02-28</maxDate>
+    <latitude>35.7</latitude>
+    <longitude>-106.95</longitude>
+    <elevation>1983</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00282773</id>
+    <displayName>ESSEX FELLS SERV BUILDING, NJ US</displayName>
+    <minDate>1903-03-01</minDate>
+    <maxDate>1949-05-31</maxDate>
+    <latitude>40.8314</latitude>
+    <longitude>-74.2858</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00282768</id>
+    <displayName>ESSEX FELLS SERV BUILDING, NJ US</displayName>
+    <minDate>1949-06-01</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>40.8314</latitude>
+    <longitude>-74.2858</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00432843</id>
+    <displayName>ESSEX JUNCTION 1 N, VT US</displayName>
+    <minDate>1971-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5079</latitude>
+    <longitude>-73.1152</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000VESS</id>
+    <displayName>ESSEX JUNCTION VERMONT, VT US</displayName>
+    <minDate>1999-05-21</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.5078</latitude>
+    <longitude>-73.1156</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8223</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00432828</id>
+    <displayName>ESSEX JUNCTION, VT US</displayName>
+    <minDate>1937-01-01</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>44.48333</latitude>
+    <longitude>-73.11667</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242812</id>
+    <displayName>ESSEX, MT US</displayName>
+    <minDate>1951-08-16</minDate>
+    <maxDate>1970-09-30</maxDate>
+    <latitude>48.2828</latitude>
+    <longitude>-113.6061</longitude>
+    <elevation>1173.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8232</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202631</id>
+    <displayName>ESSEXVILLE, MI US</displayName>
+    <minDate>1978-12-01</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>43.6155</latitude>
+    <longitude>-83.845</longitude>
+    <elevation>179.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352693</id>
+    <displayName>ESTACADA 2 SE, OR US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.26889</latitude>
+    <longitude>-122.31861</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352697</id>
+    <displayName>ESTACADA 24 SE, OR US</displayName>
+    <minDate>1920-12-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.0767</latitude>
+    <longitude>-121.9714</longitude>
+    <elevation>670.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0018</id>
+    <displayName>ESTACADA 3 WNW, OR US</displayName>
+    <minDate>2007-12-27</minDate>
+    <maxDate>2008-06-15</maxDate>
+    <latitude>45.3108</latitude>
+    <longitude>-122.39</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0005</id>
+    <displayName>ESTACADA 4.8 SW, OR US</displayName>
+    <minDate>2007-12-08</minDate>
+    <maxDate>2010-05-12</maxDate>
+    <latitude>45.2435</latitude>
+    <longitude>-122.405</longitude>
+    <elevation>329.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.186</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293057</id>
+    <displayName>ESTALINA SPRINGS, NM US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1897-02-28</maxDate>
+    <latitude>33.95</latitude>
+    <longitude>-107.45</longitude>
+    <elevation>2267.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9059</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293060</id>
+    <displayName>ESTANCIA 4 N, NM US</displayName>
+    <minDate>1904-11-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>34.8241</latitude>
+    <longitude>-106.0344</longitude>
+    <elevation>1871.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8424</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00672823</id>
+    <displayName>ESTATE FORT MYLNER, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>1995-08-31</maxDate>
+    <latitude>18.33333</latitude>
+    <longitude>-64.9</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9571</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00672860</id>
+    <displayName>ESTATE RUST OP TWIST, US</displayName>
+    <minDate>1976-08-01</minDate>
+    <maxDate>1984-07-31</maxDate>
+    <latitude>17.78333</latitude>
+    <longitude>-64.78333</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8539</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00671310</id>
+    <displayName>ESTATE RUST OP TWIST, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>1975-07-31</maxDate>
+    <latitude>17.78333</latitude>
+    <longitude>-64.78333</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8196</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00672870</id>
+    <displayName>ESTATE THE SIGHT, US</displayName>
+    <minDate>1979-11-01</minDate>
+    <maxDate>2002-06-30</maxDate>
+    <latitude>17.74194</latitude>
+    <longitude>-64.66028</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00671333</id>
+    <displayName>ESTATE THE SIGHT, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>1979-04-30</maxDate>
+    <latitude>17.74194</latitude>
+    <longitude>-64.66028</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9204</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJAT0011</id>
+    <displayName>ESTELL MANOR 4.0 WNW, NJ US</displayName>
+    <minDate>2009-09-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.374</latitude>
+    <longitude>-74.8471</longitude>
+    <elevation>20.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9254</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJAT0015</id>
+    <displayName>ESTELL MANOR 5.2 NE, NJ US</displayName>
+    <minDate>2012-03-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.414</latitude>
+    <longitude>-74.7087</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00282805</id>
+    <displayName>ESTELL MANOR, NJ US</displayName>
+    <minDate>1990-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.383</latitude>
+    <longitude>-74.8288</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412965</id>
+    <displayName>ESTELLE, TX US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1904-12-31</maxDate>
+    <latitude>32.86667</latitude>
+    <longitude>-97.01667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412967</id>
+    <displayName>ESTELLINE NEAR SOIL CONSERVATION SERVICE NUMBER 60, TX US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1941-12-31</maxDate>
+    <latitude>34.4</latitude>
+    <longitude>-100.466667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8466</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502876</id>
+    <displayName>ESTER 2 SSW, AK US</displayName>
+    <minDate>2004-11-01</minDate>
+    <maxDate>2005-05-31</maxDate>
+    <latitude>64.76944</latitude>
+    <longitude>-148.04639</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502872</id>
+    <displayName>ESTER 4 S, AK US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2002-04-30</maxDate>
+    <latitude>64.79194</latitude>
+    <longitude>-148.03667</longitude>
+    <elevation>352</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9356</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502871</id>
+    <displayName>ESTER 5 NE, AK US</displayName>
+    <minDate>1997-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>64.91111</latitude>
+    <longitude>-147.92417</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9584</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502873</id>
+    <displayName>ESTER 6 NE, AK US</displayName>
+    <minDate>1999-04-01</minDate>
+    <maxDate>2002-04-30</maxDate>
+    <latitude>64.91333</latitude>
+    <longitude>-147.91389</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8348</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502868</id>
+    <displayName>ESTER DOME, AK US</displayName>
+    <minDate>1999-08-01</minDate>
+    <maxDate>2010-10-03</maxDate>
+    <latitude>64.87583</latitude>
+    <longitude>-148.04389</longitude>
+    <elevation>663.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502870</id>
+    <displayName>ESTER, AK US</displayName>
+    <minDate>2003-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>64.8464</latitude>
+    <longitude>-148.0256</longitude>
+    <elevation>199.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9015</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WEST</id>
+    <displayName>ESTERBROOK WYOMING, WY US</displayName>
+    <minDate>1988-09-30</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.4153</latitude>
+    <longitude>-105.3611</longitude>
+    <elevation>1990.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00483073</id>
+    <displayName>ESTERBROOK, WY US</displayName>
+    <minDate>1880-02-18</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>42.41667</latitude>
+    <longitude>-105.36667</longitude>
+    <elevation>1905.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0248</id>
+    <displayName>ESTES PARK 0.2 ESE, CO US</displayName>
+    <minDate>2003-01-07</minDate>
+    <maxDate>2007-11-04</maxDate>
+    <latitude>40.374</latitude>
+    <longitude>-105.5169</longitude>
+    <elevation>2322.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3772</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0233</id>
+    <displayName>ESTES PARK 0.4 W, CO US</displayName>
+    <minDate>2001-05-17</minDate>
+    <maxDate>2005-04-29</maxDate>
+    <latitude>40.3776</latitude>
+    <longitude>-105.525</longitude>
+    <elevation>2325</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1233</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0227</id>
+    <displayName>ESTES PARK 0.5 NE, CO US</displayName>
+    <minDate>2001-05-13</minDate>
+    <maxDate>2010-01-04</maxDate>
+    <latitude>40.384</latitude>
+    <longitude>-105.5086</longitude>
+    <elevation>2336.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7496</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0231</id>
+    <displayName>ESTES PARK 0.7 NNE, CO US</displayName>
+    <minDate>2001-05-16</minDate>
+    <maxDate>2005-08-23</maxDate>
+    <latitude>40.3855</latitude>
+    <longitude>-105.5117</longitude>
+    <elevation>2354.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0209</id>
+    <displayName>ESTES PARK 0.7 W, CO US</displayName>
+    <minDate>2000-05-09</minDate>
+    <maxDate>2001-06-02</maxDate>
+    <latitude>40.3775</latitude>
+    <longitude>-105.5331</longitude>
+    <elevation>2318</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0221</id>
+    <displayName>ESTES PARK 1 E, CO US</displayName>
+    <minDate>2000-06-02</minDate>
+    <maxDate>2005-07-06</maxDate>
+    <latitude>40.3797</latitude>
+    <longitude>-105.496</longitude>
+    <elevation>2303.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6201</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0224</id>
+    <displayName>ESTES PARK 1 SE, CO US</displayName>
+    <minDate>2000-06-01</minDate>
+    <maxDate>2002-10-25</maxDate>
+    <latitude>40.3688</latitude>
+    <longitude>-105.5007</longitude>
+    <elevation>2301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052761</id>
+    <displayName>ESTES PARK 1 SSE, CO US</displayName>
+    <minDate>2000-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3689</latitude>
+    <longitude>-105.5108</longitude>
+    <elevation>2372.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0212</id>
+    <displayName>ESTES PARK 1.2 SW, CO US</displayName>
+    <minDate>2000-06-10</minDate>
+    <maxDate>2003-07-21</maxDate>
+    <latitude>40.3606</latitude>
+    <longitude>-105.5304</longitude>
+    <elevation>2418.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0234</id>
+    <displayName>ESTES PARK 1.5 SW, CO US</displayName>
+    <minDate>2001-05-03</minDate>
+    <maxDate>2003-02-03</maxDate>
+    <latitude>40.3673</latitude>
+    <longitude>-105.5436</longitude>
+    <elevation>2379</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3224</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0810</id>
+    <displayName>ESTES PARK 1.5 WSW, CO US</displayName>
+    <minDate>2008-07-16</minDate>
+    <maxDate>2009-12-26</maxDate>
+    <latitude>40.3667</latitude>
+    <longitude>-105.5486</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0858</id>
+    <displayName>ESTES PARK 1.6 WNW, CO US</displayName>
+    <minDate>2009-08-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.3846</latitude>
+    <longitude>-105.5475</longitude>
+    <elevation>2351.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0215</id>
+    <displayName>ESTES PARK 1.8 S, CO US</displayName>
+    <minDate>2000-06-10</minDate>
+    <maxDate>2010-12-16</maxDate>
+    <latitude>40.3571</latitude>
+    <longitude>-105.5123</longitude>
+    <elevation>2425</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3683</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0767</id>
+    <displayName>ESTES PARK 1.8 S, CO US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3464</latitude>
+    <longitude>-105.5217</longitude>
+    <elevation>2420.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0213</id>
+    <displayName>ESTES PARK 1.8 SE, CO US</displayName>
+    <minDate>2000-04-30</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>40.3551</latitude>
+    <longitude>-105.4937</longitude>
+    <elevation>2361.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5988</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0141</id>
+    <displayName>ESTES PARK 10.5 SE, CO US</displayName>
+    <minDate>2000-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2805</latitude>
+    <longitude>-105.3653</longitude>
+    <elevation>2051.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7544</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0237</id>
+    <displayName>ESTES PARK 13.3 WNW, CO US</displayName>
+    <minDate>2001-06-02</minDate>
+    <maxDate>2006-09-12</maxDate>
+    <latitude>40.441</latitude>
+    <longitude>-105.7541</longitude>
+    <elevation>3600.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0222</id>
+    <displayName>ESTES PARK 2.1 SW, CO US</displayName>
+    <minDate>2000-05-07</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>40.3596</latitude>
+    <longitude>-105.5528</longitude>
+    <elevation>2339</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0240</id>
+    <displayName>ESTES PARK 2.2 NE, CO US</displayName>
+    <minDate>2002-05-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4018</latitude>
+    <longitude>-105.4878</longitude>
+    <elevation>2368.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0866</id>
+    <displayName>ESTES PARK 2.2 S, CO US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>40.3409</latitude>
+    <longitude>-105.5181</longitude>
+    <elevation>2387.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0230</id>
+    <displayName>ESTES PARK 2.2 SSW, CO US</displayName>
+    <minDate>2001-05-13</minDate>
+    <maxDate>2008-07-30</maxDate>
+    <latitude>40.3441</latitude>
+    <longitude>-105.5274</longitude>
+    <elevation>2452.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0243</id>
+    <displayName>ESTES PARK 2.4 WSW, CO US</displayName>
+    <minDate>2002-05-30</minDate>
+    <maxDate>2003-03-07</maxDate>
+    <latitude>40.3599</latitude>
+    <longitude>-105.557</longitude>
+    <elevation>2353.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9397</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0202</id>
+    <displayName>ESTES PARK 2.5 WSW, CO US</displayName>
+    <minDate>2000-05-02</minDate>
+    <maxDate>2004-08-20</maxDate>
+    <latitude>40.3588</latitude>
+    <longitude>-105.5635</longitude>
+    <elevation>2389.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3073</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0200</id>
+    <displayName>ESTES PARK 2.6 S, CO US</displayName>
+    <minDate>1999-08-13</minDate>
+    <maxDate>2001-07-24</maxDate>
+    <latitude>40.3345</latitude>
+    <longitude>-105.5127</longitude>
+    <elevation>2431.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3371</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0226</id>
+    <displayName>ESTES PARK 2.6 SSW, CO US</displayName>
+    <minDate>2001-05-13</minDate>
+    <maxDate>2002-01-31</maxDate>
+    <latitude>40.3463</latitude>
+    <longitude>-105.5379</longitude>
+    <elevation>2467.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5227</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0247</id>
+    <displayName>ESTES PARK 3.3 SSW, CO US</displayName>
+    <minDate>2003-04-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3302</latitude>
+    <longitude>-105.5221</longitude>
+    <elevation>2467.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0214</id>
+    <displayName>ESTES PARK 3.7 SW, CO US</displayName>
+    <minDate>2000-04-30</minDate>
+    <maxDate>2001-09-19</maxDate>
+    <latitude>40.3395</latitude>
+    <longitude>-105.5605</longitude>
+    <elevation>2567.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0242</id>
+    <displayName>ESTES PARK 3.8 ESE, CO US</displayName>
+    <minDate>2002-05-31</minDate>
+    <maxDate>2005-10-10</maxDate>
+    <latitude>40.3622</latitude>
+    <longitude>-105.4531</longitude>
+    <elevation>2552.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2197</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0241</id>
+    <displayName>ESTES PARK 3.9 ESE, CO US</displayName>
+    <minDate>2002-05-31</minDate>
+    <maxDate>2007-01-23</maxDate>
+    <latitude>40.3609</latitude>
+    <longitude>-105.4486</longitude>
+    <elevation>2628</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0223</id>
+    <displayName>ESTES PARK 3.9 SSW, CO US</displayName>
+    <minDate>2000-05-04</minDate>
+    <maxDate>2006-11-28</maxDate>
+    <latitude>40.3266</latitude>
+    <longitude>-105.5524</longitude>
+    <elevation>2575</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7738</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0229</id>
+    <displayName>ESTES PARK 4.2 SW, CO US</displayName>
+    <minDate>2001-05-13</minDate>
+    <maxDate>2003-10-31</maxDate>
+    <latitude>40.3289</latitude>
+    <longitude>-105.5727</longitude>
+    <elevation>2496</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5233</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CEST</id>
+    <displayName>ESTES PARK COLORADO, CO US</displayName>
+    <minDate>2001-03-14</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.3667</latitude>
+    <longitude>-105.55</longitude>
+    <elevation>2383.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9439</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052759</id>
+    <displayName>ESTES PARK, CO US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>2001-06-30</maxDate>
+    <latitude>40.37667</latitude>
+    <longitude>-105.48583</longitude>
+    <elevation>2279.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162954</id>
+    <displayName>ESTHER, LA US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>1947-05-21</maxDate>
+    <latitude>29.85</latitude>
+    <longitude>-92.233333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8414</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132724</id>
+    <displayName>ESTHERVILLE 2 N, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4036</latitude>
+    <longitude>-94.7472</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9622</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094971</id>
+    <displayName>ESTHERVILLE MUNICIPAL AIRPORT, IA US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.4075</latitude>
+    <longitude>-94.74611</longitude>
+    <elevation>401.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCHM0003</id>
+    <displayName>ESTILL 2.2 S, SC US</displayName>
+    <minDate>2009-02-14</minDate>
+    <maxDate>2011-06-28</maxDate>
+    <latitude>32.7223</latitude>
+    <longitude>-81.2359</longitude>
+    <elevation>30.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2798</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCF0025</id>
+    <displayName>ESTILL SPRINGS 8.1 ENE, TN US</displayName>
+    <minDate>2010-03-22</minDate>
+    <maxDate>2011-05-13</maxDate>
+    <latitude>35.3273</latitude>
+    <longitude>-86.0099</longitude>
+    <elevation>306</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8445</coverage>
+  </station>
+</stationCollection>

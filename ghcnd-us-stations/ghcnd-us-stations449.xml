@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="449">
+  <station>
+    <id>GHCND:US1KSSG0007</id>
+    <displayName>WICHITA 3.2 SSW, KS US</displayName>
+    <minDate>2007-01-30</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>37.6455</latitude>
+    <longitude>-97.3661</longitude>
+    <elevation>394.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0030</id>
+    <displayName>WICHITA 3.3 WNW, KS US</displayName>
+    <minDate>2008-10-06</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>37.7114</latitude>
+    <longitude>-97.3958</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2082</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0064</id>
+    <displayName>WICHITA 3.5 E, KS US</displayName>
+    <minDate>2010-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6825</latitude>
+    <longitude>-97.2789</longitude>
+    <elevation>410.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9816</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0048</id>
+    <displayName>WICHITA 3.9 WNW, KS US</displayName>
+    <minDate>2009-03-22</minDate>
+    <maxDate>2011-05-28</maxDate>
+    <latitude>37.7052</latitude>
+    <longitude>-97.4103</longitude>
+    <elevation>399.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1654</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0033</id>
+    <displayName>WICHITA 4.5 ENE, KS US</displayName>
+    <minDate>2008-12-08</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.703</latitude>
+    <longitude>-97.2574</longitude>
+    <elevation>418.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0076</id>
+    <displayName>WICHITA 4.7 W, KS US</displayName>
+    <minDate>2011-05-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.6911</latitude>
+    <longitude>-97.4288</longitude>
+    <elevation>406.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0032</id>
+    <displayName>WICHITA 5.5 SW, KS US</displayName>
+    <minDate>2008-10-23</minDate>
+    <maxDate>2010-10-28</maxDate>
+    <latitude>37.6269</latitude>
+    <longitude>-97.4085</longitude>
+    <elevation>398.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2921</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0062</id>
+    <displayName>WICHITA 6.2 NE, KS US</displayName>
+    <minDate>2010-04-16</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.7773</latitude>
+    <longitude>-97.3023</longitude>
+    <elevation>413.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8137</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0074</id>
+    <displayName>WICHITA 6.4 ESE, KS US</displayName>
+    <minDate>2011-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6588</latitude>
+    <longitude>-97.2296</longitude>
+    <elevation>414.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0052</id>
+    <displayName>WICHITA 6.9 NW, KS US</displayName>
+    <minDate>2009-03-28</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.7176</latitude>
+    <longitude>-97.4558</longitude>
+    <elevation>413</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8595</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0068</id>
+    <displayName>WICHITA 7.1 ESE, KS US</displayName>
+    <minDate>2010-09-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6833</latitude>
+    <longitude>-97.2032</longitude>
+    <elevation>420.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8031</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0055</id>
+    <displayName>WICHITA 7.1 NE, KS US</displayName>
+    <minDate>2009-04-28</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>37.7572</latitude>
+    <longitude>-97.2413</longitude>
+    <elevation>424</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2304</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0069</id>
+    <displayName>WICHITA 7.4 NNW, KS US</displayName>
+    <minDate>2010-09-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7953</latitude>
+    <longitude>-97.3761</longitude>
+    <elevation>407.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0036</id>
+    <displayName>WICHITA 7.8 WNW, KS US</displayName>
+    <minDate>2009-03-23</minDate>
+    <maxDate>2012-12-11</maxDate>
+    <latitude>37.7093</latitude>
+    <longitude>-97.4718</longitude>
+    <elevation>410.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0070</id>
+    <displayName>WICHITA 8.4 W, KS US</displayName>
+    <minDate>2010-10-15</minDate>
+    <maxDate>2011-12-15</maxDate>
+    <latitude>37.6797</latitude>
+    <longitude>-97.4967</longitude>
+    <elevation>407.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0071</id>
+    <displayName>WICHITA 9.0 E, KS US</displayName>
+    <minDate>2010-11-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7033</latitude>
+    <longitude>-97.1726</longitude>
+    <elevation>406.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0075</id>
+    <displayName>WICHITA 9.1 ESE, KS US</displayName>
+    <minDate>2011-03-12</minDate>
+    <maxDate>2012-06-02</maxDate>
+    <latitude>37.6632</latitude>
+    <longitude>-97.1749</longitude>
+    <elevation>404.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0079</id>
+    <displayName>WICHITA 9.1 WNW, KS US</displayName>
+    <minDate>2011-07-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7129</latitude>
+    <longitude>-97.5031</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4664</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003974</id>
+    <displayName>WICHITA COLONEL JAMES JABARA AIRPORT, KS US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.74611</latitude>
+    <longitude>-97.22111</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419727</id>
+    <displayName>WICHITA FALLS 10 STREET BRIDGE, TX US</displayName>
+    <minDate>2005-08-03</minDate>
+    <maxDate>2008-05-27</maxDate>
+    <latitude>33.90917</latitude>
+    <longitude>-98.53361</longitude>
+    <elevation>281.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWT0008</id>
+    <displayName>WICHITA FALLS 2.2 S, TX US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>33.8662</latitude>
+    <longitude>-98.5162</longitude>
+    <elevation>291.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7342</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWT0010</id>
+    <displayName>WICHITA FALLS 3.1 E, TX US</displayName>
+    <minDate>2009-12-14</minDate>
+    <maxDate>2011-11-19</maxDate>
+    <latitude>33.8951</latitude>
+    <longitude>-98.4629</longitude>
+    <elevation>296</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWT0013</id>
+    <displayName>WICHITA FALLS 3.4 SSW, TX US</displayName>
+    <minDate>2011-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8539</latitude>
+    <longitude>-98.5437</longitude>
+    <elevation>297.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWT0005</id>
+    <displayName>WICHITA FALLS 4.4 N, TX US</displayName>
+    <minDate>2007-08-06</minDate>
+    <maxDate>2008-05-22</maxDate>
+    <latitude>33.962</latitude>
+    <longitude>-98.515</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8488</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAC0002</id>
+    <displayName>WICHITA FALLS 5.2 SSW, TX US</displayName>
+    <minDate>2012-05-05</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.8281</latitude>
+    <longitude>-98.5492</longitude>
+    <elevation>305.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419723</id>
+    <displayName>WICHITA FALLS 6 SW, TX US</displayName>
+    <minDate>1996-01-01</minDate>
+    <maxDate>2005-02-11</maxDate>
+    <latitude>33.87361</latitude>
+    <longitude>-98.57944</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013966</id>
+    <displayName>WICHITA FALLS MUNICIPAL AIRPORT, TX US</displayName>
+    <minDate>1897-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.9786</latitude>
+    <longitude>-98.4928</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003923</id>
+    <displayName>WICHITA MCCONNELL AFB, KS US</displayName>
+    <minDate>1953-12-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>37.61667</latitude>
+    <longitude>-97.26667</longitude>
+    <elevation>417.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003928</id>
+    <displayName>WICHITA MID CONTINENT AIRPORT, KS US</displayName>
+    <minDate>1953-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.6475</latitude>
+    <longitude>-97.43</longitude>
+    <elevation>402.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00349629</id>
+    <displayName>WICHITA MOUNTAIN WLR, OK US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>34.7325</latitude>
+    <longitude>-98.7125</longitude>
+    <elevation>507.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OWIC</id>
+    <displayName>WICHITA OKLAHOMA, OK US</displayName>
+    <minDate>1992-03-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.7744</latitude>
+    <longitude>-98.7458</longitude>
+    <elevation>548.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419732</id>
+    <displayName>WICHITA VALLEY 55, TX US</displayName>
+    <minDate>1939-05-07</minDate>
+    <maxDate>1954-03-31</maxDate>
+    <latitude>33.93333</latitude>
+    <longitude>-98.61667</longitude>
+    <elevation>302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7318</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419735</id>
+    <displayName>WICHITA VALLEY FARM NUMBER 45, TX US</displayName>
+    <minDate>1939-05-07</minDate>
+    <maxDate>1941-05-31</maxDate>
+    <latitude>33.9</latitude>
+    <longitude>-98.6</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9193</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419730</id>
+    <displayName>WICHITA VALLEY FARM, TX US</displayName>
+    <minDate>1939-04-07</minDate>
+    <maxDate>1972-08-31</maxDate>
+    <latitude>33.93333</latitude>
+    <longitude>-98.58333</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148847</id>
+    <displayName>WICHITA WX, KS US</displayName>
+    <minDate>2010-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6552</latitude>
+    <longitude>-97.443</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148826</id>
+    <displayName>WICHITA, KS US</displayName>
+    <minDate>1918-08-01</minDate>
+    <maxDate>1927-06-30</maxDate>
+    <latitude>37.666667</latitude>
+    <longitude>-97.3</longitude>
+    <elevation>393.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013998</id>
+    <displayName>WICHITA, KS US</displayName>
+    <minDate>1897-07-15</minDate>
+    <maxDate>1953-11-30</maxDate>
+    <latitude>37.68333</latitude>
+    <longitude>-97.35</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MWIC</id>
+    <displayName>WICKED CREEK MONTANA, MT US</displayName>
+    <minDate>2002-07-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.2706</latitude>
+    <longitude>-110.5433</longitude>
+    <elevation>2317.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8474</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0020</id>
+    <displayName>WICKENBURG 25.6 NW, AZ US</displayName>
+    <minDate>2010-02-20</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>34.2278</latitude>
+    <longitude>-113.0285</longitude>
+    <elevation>871.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029287</id>
+    <displayName>WICKENBURG, AZ US</displayName>
+    <minDate>1908-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.9792</latitude>
+    <longitude>-112.7403</longitude>
+    <elevation>638.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9573</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359316</id>
+    <displayName>WICKIUP DAM, OR US</displayName>
+    <minDate>1941-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6825</latitude>
+    <longitude>-121.6874</longitude>
+    <elevation>1328.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00339115</id>
+    <displayName>WICKLIFFE, OH US</displayName>
+    <minDate>1913-01-01</minDate>
+    <maxDate>1922-12-31</maxDate>
+    <latitude>41.616667</latitude>
+    <longitude>-81.516667</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359324</id>
+    <displayName>WICOPEE, OR US</displayName>
+    <minDate>1927-01-01</minDate>
+    <maxDate>1954-09-30</maxDate>
+    <latitude>43.66667</latitude>
+    <longitude>-122.26667</longitude>
+    <elevation>878.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.95</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0065</id>
+    <displayName>WIDEFIELD 13.7 ESE, CO US</displayName>
+    <minDate>2003-05-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.631</latitude>
+    <longitude>-104.4415</longitude>
+    <elevation>1662.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0118</id>
+    <displayName>WIDEFIELD 13.9 ESE, CO US</displayName>
+    <minDate>2003-08-20</minDate>
+    <maxDate>2004-09-25</maxDate>
+    <latitude>38.63</latitude>
+    <longitude>-104.4382</longitude>
+    <elevation>1663.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6303</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469554</id>
+    <displayName>WIDEN, WV US</displayName>
+    <minDate>1960-09-01</minDate>
+    <maxDate>1967-02-15</maxDate>
+    <latitude>38.46667</latitude>
+    <longitude>-80.86667</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9275</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018936</id>
+    <displayName>WIDOWS CREEK STEAM PLANT, AL US</displayName>
+    <minDate>1950-04-27</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.88333</latitude>
+    <longitude>-85.75</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011M03S</id>
+    <displayName>WIDSTOE NUMBER 3, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.8333</latitude>
+    <longitude>-111.8833</longitude>
+    <elevation>2895.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00429514</id>
+    <displayName>WIDTSOE 3 NNE, UT US</displayName>
+    <minDate>1912-03-01</minDate>
+    <maxDate>2005-04-30</maxDate>
+    <latitude>37.8747</latitude>
+    <longitude>-111.973</longitude>
+    <elevation>2298.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419734</id>
+    <displayName>WIERGATE, TX US</displayName>
+    <minDate>1925-08-01</minDate>
+    <maxDate>1943-08-31</maxDate>
+    <latitude>31.01667</latitude>
+    <longitude>-93.71667</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9316</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMR0065</id>
+    <displayName>WIGGINS 0.2 SSE, CO US</displayName>
+    <minDate>2004-08-02</minDate>
+    <maxDate>2007-08-25</maxDate>
+    <latitude>40.2247</latitude>
+    <longitude>-104.0708</longitude>
+    <elevation>1389</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8141</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSST0002</id>
+    <displayName>WIGGINS 5.5 ENE, MS US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.881</latitude>
+    <longitude>-89.0494</longitude>
+    <elevation>86.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9085</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSST0003</id>
+    <displayName>WIGGINS 5.8 E, MS US</displayName>
+    <minDate>2010-03-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8753</latitude>
+    <longitude>-89.0413</longitude>
+    <elevation>91.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00059025</id>
+    <displayName>WIGGINS 7 SW, CO US</displayName>
+    <minDate>1960-10-02</minDate>
+    <maxDate>1971-02-28</maxDate>
+    <latitude>40.15</latitude>
+    <longitude>-104.18333</longitude>
+    <elevation>1437.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMR0090</id>
+    <displayName>WIGGINS 8.5 SSE, CO US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.1169</latitude>
+    <longitude>-104.0107</longitude>
+    <elevation>1415.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4382</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00229639</id>
+    <displayName>WIGGINS, MS US</displayName>
+    <minDate>1946-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.87139</latitude>
+    <longitude>-89.12139</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00069568</id>
+    <displayName>WIGWAM RESERVOIR, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1997-01-31</maxDate>
+    <latitude>41.66667</latitude>
+    <longitude>-73.13333</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029309</id>
+    <displayName>WIKIEUP, AZ US</displayName>
+    <minDate>1925-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7061</latitude>
+    <longitude>-113.6136</longitude>
+    <elevation>612.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319382</id>
+    <displayName>WILBAR 4 NW, NC US</displayName>
+    <minDate>1942-09-01</minDate>
+    <maxDate>1976-04-30</maxDate>
+    <latitude>36.28333</latitude>
+    <longitude>-81.33333</longitude>
+    <elevation>708.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9186</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10sali021</id>
+    <displayName>WILBER 0.3 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2009-12-02</maxDate>
+    <latitude>40.4832</latitude>
+    <longitude>-96.9655</longitude>
+    <elevation>406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.866</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10sali024</id>
+    <displayName>WILBER 4.1 W, NE US</displayName>
+    <minDate>2008-05-22</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.4803</latitude>
+    <longitude>-97.0389</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gage021</id>
+    <displayName>WILBER 6.9 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-11-16</maxDate>
+    <latitude>40.4678</latitude>
+    <longitude>-96.829</longitude>
+    <elevation>424.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7676</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10sali001</id>
+    <displayName>WILBER 7.0 WSW, NE US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>40.4427</latitude>
+    <longitude>-97.0844</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1563</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259279</id>
+    <displayName>WILBER, NE US</displayName>
+    <minDate>1894-11-01</minDate>
+    <maxDate>1910-04-30</maxDate>
+    <latitude>40.483333</latitude>
+    <longitude>-96.966667</longitude>
+    <elevation>403.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9422</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MAHD0009</id>
+    <displayName>WILBRAHAM 2.1 SSW, MA US</displayName>
+    <minDate>2011-08-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.1098</latitude>
+    <longitude>-72.4581</longitude>
+    <elevation>79.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8067</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409742</id>
+    <displayName>WILBUR HYDRO POWER, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1950-09-30</maxDate>
+    <latitude>36.33333</latitude>
+    <longitude>-82.13333</longitude>
+    <elevation>497.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00459238</id>
+    <displayName>WILBUR, WA US</displayName>
+    <minDate>1892-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.7568</latitude>
+    <longitude>-118.6775</longitude>
+    <elevation>686.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9113</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00349634</id>
+    <displayName>WILBURTON 9 ENE, OK US</displayName>
+    <minDate>1921-02-01</minDate>
+    <maxDate>2004-11-30</maxDate>
+    <latitude>34.96111</latitude>
+    <longitude>-95.17111</longitude>
+    <elevation>193.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148874</id>
+    <displayName>WILBURTON, KS US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>1948-06-24</maxDate>
+    <latitude>37.08333</latitude>
+    <longitude>-101.78333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8889</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10kear005</id>
+    <displayName>WILCOX 0.3 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.3622</latitude>
+    <longitude>-99.1735</longitude>
+    <elevation>686.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10phel001</id>
+    <displayName>WILCOX 1.1 NNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.3797</latitude>
+    <longitude>-99.1797</longitude>
+    <elevation>687</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7013</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10fran007</id>
+    <displayName>WILCOX 6.1 S, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2776</latitude>
+    <longitude>-99.1562</longitude>
+    <elevation>677.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00059045</id>
+    <displayName>WILCOX RANCH, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.91667</latitude>
+    <longitude>-107.51667</longitude>
+    <elevation>1798.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9386</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259285</id>
+    <displayName>WILCOX, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1895-12-31</maxDate>
+    <latitude>40.35</latitude>
+    <longitude>-99.166667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9406</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0005J05S</id>
+    <displayName>WILD BASIN, CO US</displayName>
+    <minDate>2003-01-23</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.2</latitude>
+    <longitude>-105.6</longitude>
+    <elevation>2913.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9479</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0027</id>
+    <displayName>WILD HORSE 0.5 NW, CO US</displayName>
+    <minDate>2005-05-31</minDate>
+    <maxDate>2010-09-23</maxDate>
+    <latitude>38.825</latitude>
+    <longitude>-103.0054</longitude>
+    <elevation>1364</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00059060</id>
+    <displayName>WILD HORSE 11 SSE, CO US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2010-01-31</maxDate>
+    <latitude>38.6675</latitude>
+    <longitude>-102.99361</longitude>
+    <elevation>1336.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9127</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0018</id>
+    <displayName>WILD HORSE 12.1 S, CO US</displayName>
+    <minDate>2004-02-01</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>38.6514</latitude>
+    <longitude>-102.9887</longitude>
+    <elevation>1349</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1171</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00059058</id>
+    <displayName>WILD HORSE 6 N, CO US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.90306</latitude>
+    <longitude>-103.01917</longitude>
+    <elevation>1438.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MWIL</id>
+    <displayName>WILD HORSE MONTANA, MT US</displayName>
+    <minDate>1991-10-25</minDate>
+    <maxDate>2008-08-07</maxDate>
+    <latitude>45.1694</latitude>
+    <longitude>-108.3339</longitude>
+    <elevation>2674.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00269072</id>
+    <displayName>WILD HORSE RESERVOIR, NV US</displayName>
+    <minDate>1982-11-01</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>41.6358</latitude>
+    <longitude>-115.8008</longitude>
+    <elevation>1901.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509859</id>
+    <displayName>WILD LAKE 2, AK US</displayName>
+    <minDate>1963-12-01</minDate>
+    <maxDate>1976-02-29</maxDate>
+    <latitude>67.55</latitude>
+    <longitude>-151.55</longitude>
+    <elevation>363</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5543</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509858</id>
+    <displayName>WILD LAKE, AK US</displayName>
+    <minDate>1955-01-15</minDate>
+    <maxDate>1960-09-19</maxDate>
+    <latitude>67.48333</latitude>
+    <longitude>-151.6</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8116</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218986</id>
+    <displayName>WILD RIVER STATE PARK, MN US</displayName>
+    <minDate>1990-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.5231</latitude>
+    <longitude>-92.7489</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009S18S</id>
+    <displayName>WILDCAT, AZ US</displayName>
+    <minDate>1984-07-17</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.75</latitude>
+    <longitude>-109.5</longitude>
+    <elevation>2392.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7635</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248964</id>
+    <displayName>WILDER, MT US</displayName>
+    <minDate>1911-05-01</minDate>
+    <maxDate>1917-07-31</maxDate>
+    <latitude>47.566667</latitude>
+    <longitude>-108.483333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00439764</id>
+    <displayName>WILDER, VT US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>43.67028</latitude>
+    <longitude>-72.30806</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8124</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409752</id>
+    <displayName>WILDERSVILLE, TN US</displayName>
+    <minDate>1897-10-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.78333</latitude>
+    <longitude>-88.36667</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012G17S</id>
+    <displayName>WILDHORSE DIVIDE, ID US</displayName>
+    <minDate>1981-10-03</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.75</latitude>
+    <longitude>-112.4833</longitude>
+    <elevation>1978.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9239</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049671</id>
+    <displayName>WILDROSE R S, CA US</displayName>
+    <minDate>1969-01-01</minDate>
+    <maxDate>2000-01-31</maxDate>
+    <latitude>36.26556</latitude>
+    <longitude>-117.18528</longitude>
+    <elevation>1249.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00329400</id>
+    <displayName>WILDROSE, ND US</displayName>
+    <minDate>1928-08-01</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>48.663</latitude>
+    <longitude>-103.213</longitude>
+    <elevation>688.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLST0001</id>
+    <displayName>WILDWOOD 6.9 NNE, FL US</displayName>
+    <minDate>2007-09-22</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>28.9511</latitude>
+    <longitude>-82.0131</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9062</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJCM0017</id>
+    <displayName>WILDWOOD CREST 0.1 WSW, NJ US</displayName>
+    <minDate>2010-02-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9717</latitude>
+    <longitude>-74.8398</longitude>
+    <elevation>0.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013775</id>
+    <displayName>WILDWOOD NAS, NJ US</displayName>
+    <minDate>1945-02-01</minDate>
+    <maxDate>1945-12-07</maxDate>
+    <latitude>38.98333</latitude>
+    <longitude>-74.91667</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409760</id>
+    <displayName>WILDWOOD, TN US</displayName>
+    <minDate>1951-07-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.78333</latitude>
+    <longitude>-83.88333</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419754</id>
+    <displayName>WILDWOOD, TX US</displayName>
+    <minDate>1992-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5163</latitude>
+    <longitude>-94.4383</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPW0023</id>
+    <displayName>WILEY 1.7 SW, CO US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2012-08-28</maxDate>
+    <latitude>38.136</latitude>
+    <longitude>-102.7365</longitude>
+    <elevation>1150.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5758</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBN0021</id>
+    <displayName>WILEY 3.7 SW, CO US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2011-06-23</maxDate>
+    <latitude>38.1142</latitude>
+    <longitude>-102.7623</longitude>
+    <elevation>1152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6498</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPW0019</id>
+    <displayName>WILEY 7.9 NE, CO US</displayName>
+    <minDate>2006-04-01</minDate>
+    <maxDate>2009-04-17</maxDate>
+    <latitude>38.2309</latitude>
+    <longitude>-102.609</longitude>
+    <elevation>1163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2372</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKOK0013</id>
+    <displayName>WILEY POST 1.6 NNW, OK US</displayName>
+    <minDate>2007-05-30</minDate>
+    <maxDate>2010-11-16</maxDate>
+    <latitude>35.553</latitude>
+    <longitude>-97.6573</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1665</coverage>
+  </station>
+</stationCollection>

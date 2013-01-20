@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="224">
+  <station>
+    <id>GHCND:USC00404998</id>
+    <displayName>LA FOLLETTE WATER PLANT, TN US</displayName>
+    <minDate>1958-05-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.4</latitude>
+    <longitude>-84.13333</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9308</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404993</id>
+    <displayName>LA FOLLETTE, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.36667</latitude>
+    <longitude>-84.13333</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWB0010</id>
+    <displayName>LA FONTAINE 1.1 NW, IN US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6838</latitude>
+    <longitude>-85.7382</longitude>
+    <elevation>246.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7485</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INGR0007</id>
+    <displayName>LA FONTAINE 3.4 ESE, IN US</displayName>
+    <minDate>2009-05-12</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>40.6529</latitude>
+    <longitude>-85.6623</longitude>
+    <elevation>261.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4069</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSA0011</id>
+    <displayName>LA GARITA 5.6 WSW, CO US</displayName>
+    <minDate>2006-06-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7922</latitude>
+    <longitude>-106.3409</longitude>
+    <elevation>2514.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORUN0002</id>
+    <displayName>LA GRANDE 0.5 WSW, OR US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2010-04-06</maxDate>
+    <latitude>45.3213</latitude>
+    <longitude>-118.0965</longitude>
+    <elevation>862</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORUN0004</id>
+    <displayName>LA GRANDE 1.3 S, OR US</displayName>
+    <minDate>2011-01-26</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>45.3064</latitude>
+    <longitude>-118.0845</longitude>
+    <elevation>861.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3591</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354625</id>
+    <displayName>LA GRANDE 16 WSW, OR US</displayName>
+    <minDate>1959-12-01</minDate>
+    <maxDate>1960-05-31</maxDate>
+    <latitude>45.25</latitude>
+    <longitude>-118.4</longitude>
+    <elevation>1054.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354626</id>
+    <displayName>LA GRANDE 16 WSW, OR US</displayName>
+    <minDate>1960-08-01</minDate>
+    <maxDate>1962-06-30</maxDate>
+    <latitude>45.25</latitude>
+    <longitude>-118.4</longitude>
+    <elevation>1054.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9456</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354624</id>
+    <displayName>LA GRANDE 19 WSW, OR US</displayName>
+    <minDate>1958-09-11</minDate>
+    <maxDate>1959-08-31</maxDate>
+    <latitude>45.23333</latitude>
+    <longitude>-118.45</longitude>
+    <elevation>1061</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024148</id>
+    <displayName>LA GRANDE MUNICIPAL AIRPORT, OR US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.28333</latitude>
+    <longitude>-118</longitude>
+    <elevation>826.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2088</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354615</id>
+    <displayName>LA GRANDE, OR US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1965-08-31</maxDate>
+    <latitude>45.33333</latitude>
+    <longitude>-118.11667</longitude>
+    <elevation>857.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354622</id>
+    <displayName>LA GRANDE, OR US</displayName>
+    <minDate>1965-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.3167</latitude>
+    <longitude>-118.0747</longitude>
+    <elevation>839.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454360</id>
+    <displayName>LA GRANDE, WA US</displayName>
+    <minDate>1954-02-21</minDate>
+    <maxDate>1983-04-30</maxDate>
+    <latitude>46.83333</latitude>
+    <longitude>-122.31667</longitude>
+    <elevation>292.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCLR0001</id>
+    <displayName>LA GRANGE 0.2 NNW, NC US</displayName>
+    <minDate>2007-08-28</minDate>
+    <maxDate>2010-12-26</maxDate>
+    <latitude>35.308</latitude>
+    <longitude>-77.7899</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3057</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0023</id>
+    <displayName>LA GRANGE 0.5 NNE, IL US</displayName>
+    <minDate>2007-01-16</minDate>
+    <maxDate>2012-06-21</maxDate>
+    <latitude>41.8149</latitude>
+    <longitude>-87.8696</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATP0003</id>
+    <displayName>LA GRANGE 1.2 NNE, GA US</displayName>
+    <minDate>2009-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0572</latitude>
+    <longitude>-85.0273</longitude>
+    <elevation>225.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9207</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFY0003</id>
+    <displayName>LA GRANGE 10.2 NW, TX US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.008</latitude>
+    <longitude>-97.0052</longitude>
+    <elevation>101.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.722</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATP0001</id>
+    <displayName>LA GRANGE 10.6 ESE, GA US</displayName>
+    <minDate>2008-05-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9735</latitude>
+    <longitude>-84.8698</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9814</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATP0006</id>
+    <displayName>LA GRANGE 2.1 WSW, GA US</displayName>
+    <minDate>2010-09-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0266</latitude>
+    <longitude>-85.0664</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYOL0008</id>
+    <displayName>LA GRANGE 2.2 NNE, KY US</displayName>
+    <minDate>2010-11-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4293</latitude>
+    <longitude>-85.357</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8521</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATP0004</id>
+    <displayName>LA GRANGE 2.5 NE, GA US</displayName>
+    <minDate>2009-03-28</minDate>
+    <maxDate>2010-12-01</maxDate>
+    <latitude>33.0653</latitude>
+    <longitude>-85.0028</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3241</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYOL0006</id>
+    <displayName>LA GRANGE 3.9 SW, KY US</displayName>
+    <minDate>2010-03-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3583</latitude>
+    <longitude>-85.4215</longitude>
+    <elevation>215.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9223</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0016</id>
+    <displayName>LA GRANGE 4.4 ESE, WY US</displayName>
+    <minDate>2006-03-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6223</latitude>
+    <longitude>-104.0813</longitude>
+    <elevation>1435</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFY0036</id>
+    <displayName>LA GRANGE 4.5 SW, TX US</displayName>
+    <minDate>2010-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.8635</latitude>
+    <longitude>-96.9324</longitude>
+    <elevation>95.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYOL0007</id>
+    <displayName>LA GRANGE 4.6 S, KY US</displayName>
+    <minDate>2010-06-09</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>38.3368</latitude>
+    <longitude>-85.388</longitude>
+    <elevation>249.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3048</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094954</id>
+    <displayName>LA GRANGE 5 W, GA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>33.03333</latitude>
+    <longitude>-85.1</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.883</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATP0005</id>
+    <displayName>LA GRANGE 5.5 W, GA US</displayName>
+    <minDate>2009-04-09</minDate>
+    <maxDate>2011-09-06</maxDate>
+    <latitude>33.0498</latitude>
+    <longitude>-85.1291</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATP0002</id>
+    <displayName>LA GRANGE 6.4 SSE, GA US</displayName>
+    <minDate>2009-01-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9542</latitude>
+    <longitude>-84.9976</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMP0003</id>
+    <displayName>LA GRANGE 7.8 ESE, CA US</displayName>
+    <minDate>2010-01-26</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>37.6354</latitude>
+    <longitude>-120.3273</longitude>
+    <elevation>339.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6713</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFY0030</id>
+    <displayName>LA GRANGE 7.8 NNE, TX US</displayName>
+    <minDate>2009-06-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.0194</latitude>
+    <longitude>-96.8514</longitude>
+    <elevation>119.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.785</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0098</id>
+    <displayName>LA GRANGE PARK 0.7 SSW, IL US</displayName>
+    <minDate>2008-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8226</latitude>
+    <longitude>-87.8758</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8876</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0049</id>
+    <displayName>LA GRANGE PARK 0.9 NE, IL US</displayName>
+    <minDate>2007-03-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.8407</latitude>
+    <longitude>-87.8596</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TLGR</id>
+    <displayName>LA GRANGE TEXAS, TX US</displayName>
+    <minDate>2000-11-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>29.9075</latitude>
+    <longitude>-96.86</longitude>
+    <elevation>47.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094949</id>
+    <displayName>LA GRANGE, GA US</displayName>
+    <minDate>1887-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0537</latitude>
+    <longitude>-85.0318</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114816</id>
+    <displayName>LA GRANGE, IL US</displayName>
+    <minDate>2006-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.79528</latitude>
+    <longitude>-87.87083</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114814</id>
+    <displayName>LA GRANGE, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1917-02-28</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-87.86667</longitude>
+    <elevation>196.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9172</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154595</id>
+    <displayName>LA GRANGE, KY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1985-06-30</maxDate>
+    <latitude>38.43333</latitude>
+    <longitude>-85.36667</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414903</id>
+    <displayName>LA GRANGE, TX US</displayName>
+    <minDate>1910-06-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.9176</latitude>
+    <longitude>-96.8769</longitude>
+    <elevation>108.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485260</id>
+    <displayName>LA GRANGE, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>41.6377</latitude>
+    <longitude>-104.1669</longitude>
+    <elevation>1399</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114823</id>
+    <displayName>LA HARPE, IL US</displayName>
+    <minDate>1895-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5838</latitude>
+    <longitude>-90.9686</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLAH</id>
+    <displayName>LA HONDA CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>37.3053</latitude>
+    <longitude>-122.255</longitude>
+    <elevation>265.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044660</id>
+    <displayName>LA HONDA, CA US</displayName>
+    <minDate>1950-01-07</minDate>
+    <maxDate>1977-09-30</maxDate>
+    <latitude>37.31667</latitude>
+    <longitude>-122.26667</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294600</id>
+    <displayName>LA HUERTA, NM US</displayName>
+    <minDate>1908-09-01</minDate>
+    <maxDate>1909-12-31</maxDate>
+    <latitude>32.433333</latitude>
+    <longitude>-104.233333</longitude>
+    <elevation>948.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9199</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294604</id>
+    <displayName>LA JARA RANGER STATION, NM US</displayName>
+    <minDate>1923-03-01</minDate>
+    <maxDate>1931-10-31</maxDate>
+    <latitude>36.083333</latitude>
+    <longitude>-106.933333</longitude>
+    <elevation>2286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7717</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0030</id>
+    <displayName>LA JOLLA 2.1 SE, CA US</displayName>
+    <minDate>2009-02-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8257</latitude>
+    <longitude>-117.2501</longitude>
+    <elevation>149.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0037</id>
+    <displayName>LA JOLLA 2.2 NE, CA US</displayName>
+    <minDate>2009-10-13</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.8705</latitude>
+    <longitude>-117.2477</longitude>
+    <elevation>113.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8126</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHDL005</id>
+    <displayName>LA JOYA 11.1 N, TX US</displayName>
+    <minDate>2007-06-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>26.408</latitude>
+    <longitude>-98.4589</longitude>
+    <elevation>89</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7394</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414911</id>
+    <displayName>LA JOYA, TX US</displayName>
+    <minDate>1995-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.2422</latitude>
+    <longitude>-98.3991</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOT0022</id>
+    <displayName>LA JUNTA 1.0 ENE, CO US</displayName>
+    <minDate>2005-11-12</minDate>
+    <maxDate>2012-03-08</maxDate>
+    <latitude>37.9831</latitude>
+    <longitude>-103.5268</longitude>
+    <elevation>1250</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1005</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOT0025</id>
+    <displayName>LA JUNTA 1.0 S, CO US</displayName>
+    <minDate>2007-04-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9663</latitude>
+    <longitude>-103.5443</longitude>
+    <elevation>1281.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8243</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOT0009</id>
+    <displayName>LA JUNTA 1.0 WSW, CO US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9785</latitude>
+    <longitude>-103.5601</longitude>
+    <elevation>1249.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5556</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOT0028</id>
+    <displayName>LA JUNTA 1.6 SW, CO US</displayName>
+    <minDate>2010-05-15</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>37.967</latitude>
+    <longitude>-103.5678</longitude>
+    <elevation>1269.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.214</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003063</id>
+    <displayName>LA JUNTA 17 WSW, CO US</displayName>
+    <minDate>2004-08-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.8639</latitude>
+    <longitude>-103.8224</longitude>
+    <elevation>1336.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054726</id>
+    <displayName>LA JUNTA 20 S, CO US</displayName>
+    <minDate>1982-08-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>37.7512</latitude>
+    <longitude>-103.4775</longitude>
+    <elevation>1283.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOT0031</id>
+    <displayName>LA JUNTA 7.4 W, CO US</displayName>
+    <minDate>2012-04-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9826</latitude>
+    <longitude>-103.6799</longitude>
+    <elevation>1276.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOT0004</id>
+    <displayName>LA JUNTA 9.8 N, CO US</displayName>
+    <minDate>2003-08-01</minDate>
+    <maxDate>2006-08-19</maxDate>
+    <latitude>38.1262</latitude>
+    <longitude>-103.5279</longitude>
+    <elevation>1272.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOT0019</id>
+    <displayName>LA JUNTA AIRPORT MSWS, CO US</displayName>
+    <minDate>2003-10-05</minDate>
+    <maxDate>2006-03-31</maxDate>
+    <latitude>38.05</latitude>
+    <longitude>-103.5166</longitude>
+    <elevation>1282</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023067</id>
+    <displayName>LA JUNTA MUNICIPAL AIRPORT, CO US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.0494</latitude>
+    <longitude>-103.5122</longitude>
+    <elevation>1278.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054724</id>
+    <displayName>LA JUNTA, CO US</displayName>
+    <minDate>1995-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.9825</latitude>
+    <longitude>-103.54389</longitude>
+    <elevation>1277.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054719</id>
+    <displayName>LA JUNTA, CO US</displayName>
+    <minDate>1910-09-01</minDate>
+    <maxDate>1929-06-30</maxDate>
+    <latitude>38</latitude>
+    <longitude>-103.533333</longitude>
+    <elevation>1237.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294610</id>
+    <displayName>LA LANDE, NM US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1952-03-31</maxDate>
+    <latitude>34.4</latitude>
+    <longitude>-104.06667</longitude>
+    <elevation>1250.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0007</id>
+    <displayName>LA LUZ 0.7 NE, NM US</displayName>
+    <minDate>2005-06-21</minDate>
+    <maxDate>2007-12-11</maxDate>
+    <latitude>32.9791</latitude>
+    <longitude>-105.9304</longitude>
+    <elevation>1475.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1394</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0022</id>
+    <displayName>LA LUZ 3.7 W, NM US</displayName>
+    <minDate>2006-01-01</minDate>
+    <maxDate>2008-09-09</maxDate>
+    <latitude>32.9735</latitude>
+    <longitude>-106.0013</longitude>
+    <elevation>1343.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0032</id>
+    <displayName>LA LUZ 3.8 ENE, NM US</displayName>
+    <minDate>2006-05-15</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>32.9907</latitude>
+    <longitude>-105.8758</longitude>
+    <elevation>1701.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8656</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0010</id>
+    <displayName>LA LUZ 3.9 ENE, NM US</displayName>
+    <minDate>2005-06-21</minDate>
+    <maxDate>2006-10-08</maxDate>
+    <latitude>32.9933</latitude>
+    <longitude>-105.8756</longitude>
+    <elevation>1713.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7263</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0049</id>
+    <displayName>LA LUZ 5.4 NE, NM US</displayName>
+    <minDate>2007-05-26</minDate>
+    <maxDate>2008-08-12</maxDate>
+    <latitude>33.0153</latitude>
+    <longitude>-105.86</longitude>
+    <elevation>1834</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9258</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0045</id>
+    <displayName>LA LUZ 5.5 NE, NM US</displayName>
+    <minDate>2007-05-15</minDate>
+    <maxDate>2009-10-25</maxDate>
+    <latitude>33.0164</latitude>
+    <longitude>-105.8589</longitude>
+    <elevation>1847.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8592</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0044</id>
+    <displayName>LA LUZ 5.8 ENE, NM US</displayName>
+    <minDate>2007-05-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0162</latitude>
+    <longitude>-105.8539</longitude>
+    <elevation>1861.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9279</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0011</id>
+    <displayName>LA LUZ 6.2 ENE, NM US</displayName>
+    <minDate>2005-06-27</minDate>
+    <maxDate>2012-01-10</maxDate>
+    <latitude>33.0067</latitude>
+    <longitude>-105.8415</longitude>
+    <elevation>1939.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294652</id>
+    <displayName>LA MADERA SKI AREA, NM US</displayName>
+    <minDate>1950-01-01</minDate>
+    <maxDate>1952-08-31</maxDate>
+    <latitude>35.21667</latitude>
+    <longitude>-106.41667</longitude>
+    <elevation>2439.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8819</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044736</id>
+    <displayName>LA MESA 1 NE, CA US</displayName>
+    <minDate>1953-01-01</minDate>
+    <maxDate>1957-10-31</maxDate>
+    <latitude>32.78333</latitude>
+    <longitude>-117</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0049</id>
+    <displayName>LA MESA 4.0 NW, CA US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.8167</latitude>
+    <longitude>-117.0586</longitude>
+    <elevation>93.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044735</id>
+    <displayName>LA MESA, CA US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>2006-07-22</maxDate>
+    <latitude>32.7675</latitude>
+    <longitude>-117.0233</longitude>
+    <elevation>161.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6765</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294656</id>
+    <displayName>LA MESA, NM US</displayName>
+    <minDate>1946-10-27</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>35.08333</latitude>
+    <longitude>-106.56667</longitude>
+    <elevation>1626.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7197</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00665120</id>
+    <displayName>LA MINA EL YUNQUE, PR US</displayName>
+    <minDate>1935-01-01</minDate>
+    <maxDate>1944-05-31</maxDate>
+    <latitude>18.3</latitude>
+    <longitude>-65.78333</longitude>
+    <elevation>625.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234722</id>
+    <displayName>LA MONTE, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1936-12-31</maxDate>
+    <latitude>38.78333</latitude>
+    <longitude>-93.4</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDLM0001</id>
+    <displayName>LA MOURE 0.5 ESE, ND US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2011-12-05</maxDate>
+    <latitude>46.355</latitude>
+    <longitude>-98.2871</longitude>
+    <elevation>399.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDLM0004</id>
+    <displayName>LA MOURE 4.6 ESE, ND US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.3445</latitude>
+    <longitude>-98.202</longitude>
+    <elevation>427.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.728</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00324937</id>
+    <displayName>LA MOURE, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.3547</latitude>
+    <longitude>-98.2927</longitude>
+    <elevation>401.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7616</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00665123</id>
+    <displayName>LA MUDA CAGUAS, PR US</displayName>
+    <minDate>1971-09-01</minDate>
+    <maxDate>1994-06-30</maxDate>
+    <latitude>18.31667</latitude>
+    <longitude>-66.1</longitude>
+    <elevation>88.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9153</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLAP</id>
+    <displayName>LA PANZA CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.3811</latitude>
+    <longitude>-120.1875</longitude>
+    <elevation>496.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044767</id>
+    <displayName>LA PANZA RANCH, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.38333</latitude>
+    <longitude>-120.16667</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9048</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDS0023</id>
+    <displayName>LA PINE 0.6 SSW, OR US</displayName>
+    <minDate>2008-03-21</minDate>
+    <maxDate>2009-02-13</maxDate>
+    <latitude>43.6617</latitude>
+    <longitude>-121.5042</longitude>
+    <elevation>1292.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6152</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294662</id>
+    <displayName>LA PLACITA RANCH, NM US</displayName>
+    <minDate>1905-04-24</minDate>
+    <maxDate>1947-12-31</maxDate>
+    <latitude>35.73333</latitude>
+    <longitude>-105.15</longitude>
+    <elevation>2044</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1907</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0010</id>
+    <displayName>LA PLATA 1.2 WSW, MD US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2006-08-31</maxDate>
+    <latitude>38.527</latitude>
+    <longitude>-76.9907</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0018</id>
+    <displayName>LA PLATA 2.6 WNW, MD US</displayName>
+    <minDate>2006-10-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5552</latitude>
+    <longitude>-77.0109</longitude>
+    <elevation>50</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9221</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00185080</id>
+    <displayName>LA PLATA, MD US</displayName>
+    <minDate>1894-12-01</minDate>
+    <maxDate>1998-08-31</maxDate>
+    <latitude>38.53333</latitude>
+    <longitude>-77</longitude>
+    <elevation>42.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234640</id>
+    <displayName>LA PLATA, MO US</displayName>
+    <minDate>1893-09-01</minDate>
+    <maxDate>1894-12-31</maxDate>
+    <latitude>40.0167</latitude>
+    <longitude>-92.5</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424927</id>
+    <displayName>LA POINT, UT US</displayName>
+    <minDate>1946-05-01</minDate>
+    <maxDate>1961-03-31</maxDate>
+    <latitude>40.4</latitude>
+    <longitude>-109.8</longitude>
+    <elevation>1692.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9708</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0046</id>
+    <displayName>LA PORTE 1.0 SW, IN US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2011-12-22</maxDate>
+    <latitude>41.5982</latitude>
+    <longitude>-86.7305</longitude>
+    <elevation>248.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8599</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0036</id>
+    <displayName>LA PORTE 1.2 E, IN US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>41.6112</latitude>
+    <longitude>-86.6903</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0035</id>
+    <displayName>LA PORTE 1.2 WNW, IN US</displayName>
+    <minDate>2008-06-02</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.6132</latitude>
+    <longitude>-86.7362</longitude>
+    <elevation>248.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0028</id>
+    <displayName>LA PORTE 1.3 ENE, IN US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6114</latitude>
+    <longitude>-86.6907</longitude>
+    <elevation>241.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR044</id>
+    <displayName>LA PORTE 1.3 W, TX US</displayName>
+    <minDate>2011-05-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.664</latitude>
+    <longitude>-95.0662</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0007</id>
+    <displayName>LA PORTE 1.6 SW, IN US</displayName>
+    <minDate>2006-12-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5904</latitude>
+    <longitude>-86.7343</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0029</id>
+    <displayName>LA PORTE 1.9 SSW, IN US</displayName>
+    <minDate>2008-05-06</minDate>
+    <maxDate>2008-11-15</maxDate>
+    <latitude>41.5849</latitude>
+    <longitude>-86.734</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8402</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0567</id>
+    <displayName>LA PORTE 10.0 NNW, CO US</displayName>
+    <minDate>2004-10-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7643</latitude>
+    <longitude>-105.1988</longitude>
+    <elevation>1858.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0045</id>
+    <displayName>LA PORTE 2.3 ESE, IN US</displayName>
+    <minDate>2009-11-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5919</latitude>
+    <longitude>-86.6756</longitude>
+    <elevation>237.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9724</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0019</id>
+    <displayName>LA PORTE 2.8 S, IN US</displayName>
+    <minDate>2007-04-26</minDate>
+    <maxDate>2009-12-22</maxDate>
+    <latitude>41.5674</latitude>
+    <longitude>-86.7179</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8004</coverage>
+  </station>
+</stationCollection>

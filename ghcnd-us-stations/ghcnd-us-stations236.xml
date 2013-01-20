@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="236">
+  <station>
+    <id>GHCND:USC00294887</id>
+    <displayName>LAZY RAY RANCH, NM US</displayName>
+    <minDate>1951-06-19</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>35.95</latitude>
+    <longitude>-106.66667</longitude>
+    <elevation>2492</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TLBJ</id>
+    <displayName>LBJ RD TEXAS, TX US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>33.1728</latitude>
+    <longitude>-97.3756</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0082</id>
+    <displayName>LCR 4 E, CO US</displayName>
+    <minDate>1999-08-24</minDate>
+    <maxDate>2006-04-28</maxDate>
+    <latitude>40.479</latitude>
+    <longitude>-104.6188</longitude>
+    <elevation>1434.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.475</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMR0063</id>
+    <displayName>LDR 9.6 N, CO US</displayName>
+    <minDate>1999-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9861</latitude>
+    <longitude>-104.095</longitude>
+    <elevation>1466.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214641</id>
+    <displayName>LE CENTER 2 SE, MN US</displayName>
+    <minDate>1940-05-04</minDate>
+    <maxDate>1991-08-31</maxDate>
+    <latitude>44.38333</latitude>
+    <longitude>-93.71667</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7115</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAST0006</id>
+    <displayName>LE CLAIRE 0.2 ESE, IA US</displayName>
+    <minDate>2007-08-24</minDate>
+    <maxDate>2009-04-30</maxDate>
+    <latitude>41.5975</latitude>
+    <longitude>-90.3613</longitude>
+    <elevation>221</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAST0001</id>
+    <displayName>LE CLAIRE 1.8 NNE, IA US</displayName>
+    <minDate>2007-07-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6235</latitude>
+    <longitude>-90.3514</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9365</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134705</id>
+    <displayName>LE CLAIRE LOCK AND DAM 14, IA US</displayName>
+    <minDate>1938-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5747</latitude>
+    <longitude>-90.4005</longitude>
+    <elevation>175.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9612</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134700</id>
+    <displayName>LE CLAIRE, IA US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1955-06-30</maxDate>
+    <latitude>41.6</latitude>
+    <longitude>-90.35</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9344</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044884</id>
+    <displayName>LE GRAND, CA US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1980-12-31</maxDate>
+    <latitude>37.23333</latitude>
+    <longitude>-120.25</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134735</id>
+    <displayName>LE MARS, IA US</displayName>
+    <minDate>1896-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7816</latitude>
+    <longitude>-96.1458</longitude>
+    <elevation>364.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9875</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABF0009</id>
+    <displayName>LE RAYSVILLE 4.9 SSE, PA US</displayName>
+    <minDate>2011-12-19</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>41.7737</latitude>
+    <longitude>-76.1404</longitude>
+    <elevation>278.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMCL010</id>
+    <displayName>LE ROY 2.3 ESE, IL US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2012-09-03</maxDate>
+    <latitude>40.3332</latitude>
+    <longitude>-88.7231</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1497</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMCL024</id>
+    <displayName>LE ROY 4.0 SSE, IL US</displayName>
+    <minDate>2011-05-22</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.286</latitude>
+    <longitude>-88.7445</longitude>
+    <elevation>229.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMCL007</id>
+    <displayName>LE ROY 4.1 SSW, IL US</displayName>
+    <minDate>2007-07-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2896</latitude>
+    <longitude>-88.802</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMCL026</id>
+    <displayName>LE ROY 4.2 WSW, IL US</displayName>
+    <minDate>2011-08-23</minDate>
+    <maxDate>2012-11-03</maxDate>
+    <latitude>40.3116</latitude>
+    <longitude>-88.8346</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6492</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCF0004</id>
+    <displayName>LE ROY 6.0 NNE, KS US</displayName>
+    <minDate>2012-03-20</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.1597</latitude>
+    <longitude>-95.5731</longitude>
+    <elevation>325.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8467</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115036</id>
+    <displayName>LE ROY, IL US</displayName>
+    <minDate>1935-06-01</minDate>
+    <maxDate>1960-02-29</maxDate>
+    <latitude>40.35</latitude>
+    <longitude>-88.76667</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144675</id>
+    <displayName>LE ROY, KS US</displayName>
+    <minDate>1908-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.08</latitude>
+    <longitude>-95.6396</longitude>
+    <elevation>306</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214711</id>
+    <displayName>LE ROY, MN US</displayName>
+    <minDate>1899-03-01</minDate>
+    <maxDate>1901-03-31</maxDate>
+    <latitude>43.51667</latitude>
+    <longitude>-92.5</longitude>
+    <elevation>392</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364972</id>
+    <displayName>LE ROY, PA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1997-03-31</maxDate>
+    <latitude>41.68333</latitude>
+    <longitude>-76.71667</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNLS0004</id>
+    <displayName>LE SUEUR 1.2 SSE 104, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.4527</latitude>
+    <longitude>-93.8957</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214721</id>
+    <displayName>LE SUEUR, MN US</displayName>
+    <minDate>1896-01-23</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.4698</latitude>
+    <longitude>-93.9025</longitude>
+    <elevation>257.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354811</id>
+    <displayName>LEABURG 1 SW, OR US</displayName>
+    <minDate>1933-12-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.10139</latitude>
+    <longitude>-122.68861</longitude>
+    <elevation>205.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0053</id>
+    <displayName>LEABURG 2 E, OR US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.1131</latitude>
+    <longitude>-122.6481</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4033</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00465030</id>
+    <displayName>LEACHTOWN, WV US</displayName>
+    <minDate>1894-08-27</minDate>
+    <maxDate>1896-06-30</maxDate>
+    <latitude>39.1</latitude>
+    <longitude>-81.5</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0009</id>
+    <displayName>LEAD 11.0 S, SD US</displayName>
+    <minDate>2007-07-18</minDate>
+    <maxDate>2008-01-23</maxDate>
+    <latitude>44.1926</latitude>
+    <longitude>-103.7602</longitude>
+    <elevation>1790.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6421</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0018</id>
+    <displayName>LEAD 3.1 NNW, SD US</displayName>
+    <minDate>2011-06-27</minDate>
+    <maxDate>2012-10-08</maxDate>
+    <latitude>44.3927</latitude>
+    <longitude>-103.7952</longitude>
+    <elevation>1537.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6064</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0006</id>
+    <displayName>LEAD 5.5 SSW, SD US</displayName>
+    <minDate>2007-07-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2781</latitude>
+    <longitude>-103.8092</longitude>
+    <elevation>1791.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394836</id>
+    <displayName>LEAD 6 SSW, SD US</displayName>
+    <minDate>1970-07-01</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>44.28333</latitude>
+    <longitude>-103.8</longitude>
+    <elevation>1780.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0007</id>
+    <displayName>LEAD 8.6 SE, SD US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2008-07-06</maxDate>
+    <latitude>44.2521</latitude>
+    <longitude>-103.6625</longitude>
+    <elevation>854.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5044</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00034106</id>
+    <displayName>LEAD HILL, AR US</displayName>
+    <minDate>1927-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.41944</latitude>
+    <longitude>-92.91583</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9786</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174505</id>
+    <displayName>LEAD MOUNTAIN, ME US</displayName>
+    <minDate>1922-10-01</minDate>
+    <maxDate>1930-08-31</maxDate>
+    <latitude>44.866667</latitude>
+    <longitude>-68.116667</longitude>
+    <elevation>449.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394834</id>
+    <displayName>LEAD, SD US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.3533</latitude>
+    <longitude>-103.7713</longitude>
+    <elevation>1630.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415109</id>
+    <displayName>LEADAY, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>31.56667</latitude>
+    <longitude>-99.66667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8413</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105179</id>
+    <displayName>LEADORE 8 W, ID US</displayName>
+    <minDate>1985-12-01</minDate>
+    <maxDate>1988-01-31</maxDate>
+    <latitude>44.66667</latitude>
+    <longitude>-113.51667</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ILEA</id>
+    <displayName>LEADORE CREEK IDAHO, ID US</displayName>
+    <minDate>1987-07-23</minDate>
+    <maxDate>2012-08-23</maxDate>
+    <latitude>44.7</latitude>
+    <longitude>-113.35</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105177</id>
+    <displayName>LEADORE NUMBER 2, ID US</displayName>
+    <minDate>1965-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.683</latitude>
+    <longitude>-113.3622</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105169</id>
+    <displayName>LEADORE, ID US</displayName>
+    <minDate>1912-02-25</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.6867</latitude>
+    <longitude>-113.3689</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0673</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0003</id>
+    <displayName>LEADVILLE 0.1 N, CO US</displayName>
+    <minDate>2002-06-05</minDate>
+    <maxDate>2003-09-18</maxDate>
+    <latitude>39.2522</latitude>
+    <longitude>-106.2924</longitude>
+    <elevation>3107.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2463</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0019</id>
+    <displayName>LEADVILLE 0.3 ENE, CO US</displayName>
+    <minDate>2006-03-15</minDate>
+    <maxDate>2010-03-15</maxDate>
+    <latitude>39.2484</latitude>
+    <longitude>-106.2891</longitude>
+    <elevation>3109.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1696</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0026</id>
+    <displayName>LEADVILLE 0.5 N, CO US</displayName>
+    <minDate>2010-10-28</minDate>
+    <maxDate>2011-08-27</maxDate>
+    <latitude>39.2535</latitude>
+    <longitude>-106.2936</longitude>
+    <elevation>3095.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6776</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0028</id>
+    <displayName>LEADVILLE 0.5 NW, CO US</displayName>
+    <minDate>2011-08-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2522</latitude>
+    <longitude>-106.3006</longitude>
+    <elevation>3072.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7683</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0001</id>
+    <displayName>LEADVILLE 1.4 WNW, CO US</displayName>
+    <minDate>2002-06-22</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>39.2573</latitude>
+    <longitude>-106.3173</longitude>
+    <elevation>3037.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7048</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0018</id>
+    <displayName>LEADVILLE 1.6 W, CO US</displayName>
+    <minDate>2006-01-03</minDate>
+    <maxDate>2008-10-17</maxDate>
+    <latitude>39.2513</latitude>
+    <longitude>-106.3235</longitude>
+    <elevation>3023.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3778</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0011</id>
+    <displayName>LEADVILLE 1.8 WNW, CO US</displayName>
+    <minDate>2003-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2601</latitude>
+    <longitude>-106.3237</longitude>
+    <elevation>3033.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6545</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0025</id>
+    <displayName>LEADVILLE 1.9 WNW, CO US</displayName>
+    <minDate>2009-08-17</minDate>
+    <maxDate>2011-10-06</maxDate>
+    <latitude>39.2618</latitude>
+    <longitude>-106.3231</longitude>
+    <elevation>3025.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0021</id>
+    <displayName>LEADVILLE 2.7 NW, CO US</displayName>
+    <minDate>2008-09-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.269</latitude>
+    <longitude>-106.336</longitude>
+    <elevation>3007.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8175</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0022</id>
+    <displayName>LEADVILLE 3.8 S, CO US</displayName>
+    <minDate>2008-09-30</minDate>
+    <maxDate>2010-01-06</maxDate>
+    <latitude>39.192</latitude>
+    <longitude>-106.282</longitude>
+    <elevation>3052</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9159</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLK0010</id>
+    <displayName>LEADVILLE 6.3 S, CO US</displayName>
+    <minDate>2003-06-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1601</latitude>
+    <longitude>-106.2816</longitude>
+    <elevation>2959</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9505</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093009</id>
+    <displayName>LEADVILLE LAKE CO AIRPORT, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.22917</latitude>
+    <longitude>-106.31694</longitude>
+    <elevation>3027.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9384</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0024</id>
+    <displayName>LEAGUE CITY 0.7 NNE, TX US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.4944</latitude>
+    <longitude>-95.1036</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0002</id>
+    <displayName>LEAGUE CITY 0.8 WSW, TX US</displayName>
+    <minDate>2006-09-17</minDate>
+    <maxDate>2007-11-28</maxDate>
+    <latitude>29.4809</latitude>
+    <longitude>-95.1197</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0021</id>
+    <displayName>LEAGUE CITY 0.9 NW, TX US</displayName>
+    <minDate>2009-12-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.4941</latitude>
+    <longitude>-95.1188</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0004</id>
+    <displayName>LEAGUE CITY 1.2 N, TX US</displayName>
+    <minDate>2006-10-01</minDate>
+    <maxDate>2009-12-07</maxDate>
+    <latitude>29.5033</latitude>
+    <longitude>-95.1085</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0028</id>
+    <displayName>LEAGUE CITY 1.3 NNE, TX US</displayName>
+    <minDate>2011-11-28</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.5037</latitude>
+    <longitude>-95.1023</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0025</id>
+    <displayName>LEAGUE CITY 1.5 NE, TX US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.512</latitude>
+    <longitude>-95.0994</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0016</id>
+    <displayName>LEAGUE CITY 1.9 W, TX US</displayName>
+    <minDate>2009-05-03</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>29.4808</latitude>
+    <longitude>-95.138</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5739</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0038</id>
+    <displayName>LEAGUE CITY 2.0 NNE, TX US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>29.5111</latitude>
+    <longitude>-95.0919</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9713</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0022</id>
+    <displayName>LEAGUE CITY 2.1 NNE, TX US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.511</latitude>
+    <longitude>-95.0898</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0026</id>
+    <displayName>LEAGUE CITY 2.2 NNE, TX US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>29.5139</latitude>
+    <longitude>-95.0919</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0013</id>
+    <displayName>LEAGUE CITY 2.4 E, TX US</displayName>
+    <minDate>2009-01-03</minDate>
+    <maxDate>2011-08-01</maxDate>
+    <latitude>29.5068</latitude>
+    <longitude>-95.0557</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8969</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0014</id>
+    <displayName>LEAGUE CITY 2.4 W, TX US</displayName>
+    <minDate>2009-01-06</minDate>
+    <maxDate>2011-09-19</maxDate>
+    <latitude>29.4843</latitude>
+    <longitude>-95.1482</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9058</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0034</id>
+    <displayName>LEAGUE CITY 2.7 NE, TX US</displayName>
+    <minDate>2012-03-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5407</latitude>
+    <longitude>-95.0698</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9236</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224966</id>
+    <displayName>LEAKESVILLE, MS US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.1494</latitude>
+    <longitude>-88.555</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0006</id>
+    <displayName>LEAKEY 0.7 N, TX US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2009-10-19</maxDate>
+    <latitude>29.7346</latitude>
+    <longitude>-99.7627</longitude>
+    <elevation>496.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4275</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0004</id>
+    <displayName>LEAKEY 0.8 N, TX US</displayName>
+    <minDate>2007-06-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.7353</latitude>
+    <longitude>-99.7623</longitude>
+    <elevation>499</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0008</id>
+    <displayName>LEAKEY 1.5 ENE, TX US</displayName>
+    <minDate>2007-10-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7347</latitude>
+    <longitude>-99.7411</longitude>
+    <elevation>497.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0005</id>
+    <displayName>LEAKEY 11.6 SSW, TX US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2011-11-06</maxDate>
+    <latitude>29.5726</latitude>
+    <longitude>-99.8441</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0006</id>
+    <displayName>LEAKEY 13.6 SSW, TX US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2008-03-25</maxDate>
+    <latitude>29.5388</latitude>
+    <longitude>-99.8372</longitude>
+    <elevation>456.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8357</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0016</id>
+    <displayName>LEAKEY 14.0 NW, TX US</displayName>
+    <minDate>2011-04-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.8821</latitude>
+    <longitude>-99.9081</longitude>
+    <elevation>648.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0003</id>
+    <displayName>LEAKEY 14.5 S, TX US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2011-11-06</maxDate>
+    <latitude>29.5153</latitude>
+    <longitude>-99.7872</longitude>
+    <elevation>423.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0007</id>
+    <displayName>LEAKEY 14.7 SSW, TX US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2011-11-06</maxDate>
+    <latitude>29.5165</latitude>
+    <longitude>-99.8141</longitude>
+    <elevation>442.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2608</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0008</id>
+    <displayName>LEAKEY 14.8 SSW, TX US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2011-11-06</maxDate>
+    <latitude>29.5145</latitude>
+    <longitude>-99.8117</longitude>
+    <elevation>429.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0010</id>
+    <displayName>LEAKEY 16.3 N, TX US</displayName>
+    <minDate>2007-11-02</minDate>
+    <maxDate>2008-04-28</maxDate>
+    <latitude>29.9561</latitude>
+    <longitude>-99.8116</longitude>
+    <elevation>669.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6089</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415114</id>
+    <displayName>LEAKEY 2, TX US</displayName>
+    <minDate>1963-11-01</minDate>
+    <maxDate>1971-01-31</maxDate>
+    <latitude>29.7</latitude>
+    <longitude>-99.83333</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0007</id>
+    <displayName>LEAKEY 3.4 SE, TX US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>29.686</latitude>
+    <longitude>-99.728</longitude>
+    <elevation>508.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5367</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0011</id>
+    <displayName>LEAKEY 5.5 SSE, TX US</displayName>
+    <minDate>2007-05-29</minDate>
+    <maxDate>2010-01-29</maxDate>
+    <latitude>29.6549</latitude>
+    <longitude>-99.7188</longitude>
+    <elevation>474.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3593</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0013</id>
+    <displayName>LEAKEY 8.6 SSE, TX US</displayName>
+    <minDate>2007-05-07</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>29.6023</latitude>
+    <longitude>-99.7301</longitude>
+    <elevation>442.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2301</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0012</id>
+    <displayName>LEAKEY 8.7 S, TX US</displayName>
+    <minDate>2007-05-07</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>29.5996</latitude>
+    <longitude>-99.7409</longitude>
+    <elevation>437.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2316</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0003</id>
+    <displayName>LEAKEY 9.1 WNW, TX US</displayName>
+    <minDate>2007-05-18</minDate>
+    <maxDate>2012-10-06</maxDate>
+    <latitude>29.7645</latitude>
+    <longitude>-99.9076</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9528</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0010</id>
+    <displayName>LEAKEY 9.2 S, TX US</displayName>
+    <minDate>2007-05-07</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>29.5924</latitude>
+    <longitude>-99.7388</longitude>
+    <elevation>431</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2316</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0014</id>
+    <displayName>LEAKEY 9.2 SSE, TX US</displayName>
+    <minDate>2007-05-07</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>29.5945</latitude>
+    <longitude>-99.7281</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2291</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXUV0011</id>
+    <displayName>LEAKEY 9.7 S, TX US</displayName>
+    <minDate>2007-05-07</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>29.586</latitude>
+    <longitude>-99.7359</longitude>
+    <elevation>420.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415113</id>
+    <displayName>LEAKEY, TX US</displayName>
+    <minDate>1894-08-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.7393</latitude>
+    <longitude>-99.7612</longitude>
+    <elevation>494.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0036</id>
+    <displayName>LEANDER 1.0 SSE, TX US</displayName>
+    <minDate>2007-12-10</minDate>
+    <maxDate>2012-01-03</maxDate>
+    <latitude>30.5498</latitude>
+    <longitude>-97.8515</longitude>
+    <elevation>310.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4051</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0013</id>
+    <displayName>LEANDER 1.6 NW, TX US</displayName>
+    <minDate>2007-08-06</minDate>
+    <maxDate>2011-01-08</maxDate>
+    <latitude>30.581</latitude>
+    <longitude>-97.8765</longitude>
+    <elevation>315.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9569</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0027</id>
+    <displayName>LEANDER 1.9 WSW, TX US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>30.5563</latitude>
+    <longitude>-97.8919</longitude>
+    <elevation>324.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0054</id>
+    <displayName>LEANDER 2.5 ESE, TX US</displayName>
+    <minDate>2008-05-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5508</latitude>
+    <longitude>-97.8202</longitude>
+    <elevation>292</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0108</id>
+    <displayName>LEANDER 6.8 WNW, TX US</displayName>
+    <minDate>2010-04-15</minDate>
+    <maxDate>2011-12-06</maxDate>
+    <latitude>30.5859</latitude>
+    <longitude>-97.9711</longitude>
+    <elevation>304.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1897</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0007</id>
+    <displayName>LEANDER 7.2 WNW, TX US</displayName>
+    <minDate>2007-08-17</minDate>
+    <maxDate>2012-10-01</maxDate>
+    <latitude>30.5863</latitude>
+    <longitude>-97.979</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1046</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405100</id>
+    <displayName>LEAPWOOD, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.26667</latitude>
+    <longitude>-88.45</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485486</id>
+    <displayName>LEATH RANCH, WY US</displayName>
+    <minDate>1950-10-23</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>44.25</latitude>
+    <longitude>-106.1</longitude>
+    <elevation>1238.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415116</id>
+    <displayName>LEATHERWOOD RANCH, TX US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2007-01-31</maxDate>
+    <latitude>32.3</latitude>
+    <longitude>-98.40278</longitude>
+    <elevation>460.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9448</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCW0006</id>
+    <displayName>LEAVENWORTH 0.5 E, IN US</displayName>
+    <minDate>2012-06-10</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.1994</latitude>
+    <longitude>-86.3372</longitude>
+    <elevation>199.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7202</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACH0037</id>
+    <displayName>LEAVENWORTH 0.5 N, WA US</displayName>
+    <minDate>2012-01-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.5979</latitude>
+    <longitude>-120.6642</longitude>
+    <elevation>360.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.446</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACH0023</id>
+    <displayName>LEAVENWORTH 1.0 NNW, WA US</displayName>
+    <minDate>2008-11-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.6049</latitude>
+    <longitude>-120.6687</longitude>
+    <elevation>388</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8812</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACH0027</id>
+    <displayName>LEAVENWORTH 1.9 ENE, WA US</displayName>
+    <minDate>2008-11-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6036</latitude>
+    <longitude>-120.6282</longitude>
+    <elevation>398.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8266</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACH0033</id>
+    <displayName>LEAVENWORTH 12.4 N, WA US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.7708</latitude>
+    <longitude>-120.6646</longitude>
+    <elevation>568.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9322</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACH0029</id>
+    <displayName>LEAVENWORTH 15.7 NNW, WA US</displayName>
+    <minDate>2008-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.8088</latitude>
+    <longitude>-120.7604</longitude>
+    <elevation>604.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4194</coverage>
+  </station>
+</stationCollection>

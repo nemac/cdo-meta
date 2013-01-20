@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="291">
+  <station>
+    <id>GHCND:US1INHW0022</id>
+    <displayName>N9MG RUSSIAVILLE 4.0 ENE, IN US</displayName>
+    <minDate>2012-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4372</latitude>
+    <longitude>-86.1984</longitude>
+    <elevation>254.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7749</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHN0034</id>
+    <displayName>N9MRC WILKINSON 4.1 W, IN US</displayName>
+    <minDate>2012-01-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8785</latitude>
+    <longitude>-85.6853</longitude>
+    <elevation>285.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5092</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMT0004</id>
+    <displayName>N9RDN SHOALS 0.1 ESE, IN US</displayName>
+    <minDate>2012-01-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.6664</latitude>
+    <longitude>-86.7911</longitude>
+    <elevation>152.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6443</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0050</id>
+    <displayName>N9ROM TRAIL CREEK 4.5 ESE, IN US</displayName>
+    <minDate>2012-01-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6658</latitude>
+    <longitude>-86.7791</longitude>
+    <elevation>246.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8696</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDL0024</id>
+    <displayName>N9WCJ EATON 1.8 ESE, IN US</displayName>
+    <minDate>2011-12-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3295</latitude>
+    <longitude>-85.3234</longitude>
+    <elevation>282.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWB0020</id>
+    <displayName>N9WVM WABASH 0.3 NNW, IN US</displayName>
+    <minDate>2012-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8031</latitude>
+    <longitude>-85.828</longitude>
+    <elevation>232.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.49</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCS0012</id>
+    <displayName>N9ZMY LOGANSPORT 0.9 E, IN US</displayName>
+    <minDate>2012-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7513</latitude>
+    <longitude>-86.3411</longitude>
+    <elevation>195.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516588</id>
+    <displayName>NAALEHU 14, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>19.0614</latitude>
+    <longitude>-155.5842</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1HIHI0001</id>
+    <displayName>NAALEHU 4.6 WSW, HI US</displayName>
+    <minDate>2009-07-26</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>19.0424</latitude>
+    <longitude>-155.6354</longitude>
+    <elevation>391.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5382</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1HIHI0010</id>
+    <displayName>NAALEHU 5.0 WSW, HI US</displayName>
+    <minDate>2011-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>19.0424</latitude>
+    <longitude>-155.643</longitude>
+    <elevation>436.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506147</id>
+    <displayName>NABESNA, AK US</displayName>
+    <minDate>1966-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>62.3977</latitude>
+    <longitude>-142.9966</longitude>
+    <elevation>890</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455731</id>
+    <displayName>NACHES 10 NW, WA US</displayName>
+    <minDate>1949-12-01</minDate>
+    <maxDate>1951-09-28</maxDate>
+    <latitude>46.8667</latitude>
+    <longitude>-120.7747</longitude>
+    <elevation>694.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455736</id>
+    <displayName>NACHES HEIGHTS, WA US</displayName>
+    <minDate>1910-06-01</minDate>
+    <maxDate>1947-10-31</maxDate>
+    <latitude>46.65</latitude>
+    <longitude>-120.63333</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9538</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046056</id>
+    <displayName>NACIMIENTO DAM, CA US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>1978-06-30</maxDate>
+    <latitude>35.76667</latitude>
+    <longitude>-120.88333</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXNC0003</id>
+    <displayName>NACOGDOCHES 2.5 NE, TX US</displayName>
+    <minDate>2009-07-30</minDate>
+    <maxDate>2011-01-15</maxDate>
+    <latitude>31.6398</latitude>
+    <longitude>-94.6199</longitude>
+    <elevation>129.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXNC0005</id>
+    <displayName>NACOGDOCHES 9.5 NE, TX US</displayName>
+    <minDate>2011-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6985</latitude>
+    <longitude>-94.5236</longitude>
+    <elevation>110.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416176</id>
+    <displayName>NACOGDOCHES, TX US</displayName>
+    <minDate>1900-04-08</minDate>
+    <maxDate>1973-05-31</maxDate>
+    <latitude>31.6</latitude>
+    <longitude>-94.65</longitude>
+    <elevation>95.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416177</id>
+    <displayName>NACOGDOCHES, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6163</latitude>
+    <longitude>-94.643</longitude>
+    <elevation>132.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6126</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425982</id>
+    <displayName>NADA, UT US</displayName>
+    <minDate>1914-07-01</minDate>
+    <maxDate>1936-05-31</maxDate>
+    <latitude>38.15</latitude>
+    <longitude>-113.25</longitude>
+    <elevation>1542.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8612</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296006</id>
+    <displayName>NADINE 2 E, NM US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.6236</latitude>
+    <longitude>-103.0842</longitude>
+    <elevation>1001.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053173</id>
+    <displayName>NAGEEZI 18 SSW, NM US</displayName>
+    <minDate>2010-09-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0346</latitude>
+    <longitude>-107.9045</longitude>
+    <elevation>1965.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296023</id>
+    <displayName>NAGEEZI, NM US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1951-02-28</maxDate>
+    <latitude>36.26667</latitude>
+    <longitude>-107.75</longitude>
+    <elevation>2073.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666427</id>
+    <displayName>NAGUABO 3 E, PR US</displayName>
+    <minDate>1972-04-01</minDate>
+    <maxDate>1983-05-31</maxDate>
+    <latitude>18.21667</latitude>
+    <longitude>-65.68333</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9487</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668745</id>
+    <displayName>NAGUABO 3 E, PR US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1972-03-31</maxDate>
+    <latitude>18.21667</latitude>
+    <longitude>-65.68333</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666432</id>
+    <displayName>NAGUABO 6 W, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1967-05-31</maxDate>
+    <latitude>18.23333</latitude>
+    <longitude>-65.73333</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516594</id>
+    <displayName>NAHIKU 1600 EL, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1907-05-31</maxDate>
+    <latitude>20.7833</latitude>
+    <longitude>-156.0833</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516591</id>
+    <displayName>NAHIKU, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1916-12-31</maxDate>
+    <latitude>20.7833</latitude>
+    <longitude>-156.0833</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9578</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00096222</id>
+    <displayName>NAHUNTA 3 S, GA US</displayName>
+    <minDate>1974-01-01</minDate>
+    <maxDate>1974-04-30</maxDate>
+    <latitude>31.15</latitude>
+    <longitude>-81.98333</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00096219</id>
+    <displayName>NAHUNTA 6 NE, GA US</displayName>
+    <minDate>1956-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.2738</latitude>
+    <longitude>-81.9197</longitude>
+    <elevation>20.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9231</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GABY0001</id>
+    <displayName>NAHUNTA 6 S, GA US</displayName>
+    <minDate>2011-05-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.12</latitude>
+    <longitude>-81.93</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516635</id>
+    <displayName>NAKALALUA 481, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1952-11-27</maxDate>
+    <latitude>20.91667</latitude>
+    <longitude>-156.6</longitude>
+    <elevation>1357</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1049</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516645</id>
+    <displayName>NAKALELE FIELD 60 49, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>21.0249</latitude>
+    <longitude>-156.6013</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296028</id>
+    <displayName>NAMBE 1, NM US</displayName>
+    <minDate>1893-01-30</minDate>
+    <maxDate>1974-09-30</maxDate>
+    <latitude>35.9</latitude>
+    <longitude>-105.98333</longitude>
+    <elevation>1845</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296030</id>
+    <displayName>NAMBE 2, NM US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>1950-03-10</maxDate>
+    <latitude>35.88333</latitude>
+    <longitude>-105.95</longitude>
+    <elevation>1830</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9258</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106300</id>
+    <displayName>NAMPA 2 NW, ID US</displayName>
+    <minDate>1946-01-01</minDate>
+    <maxDate>1960-01-31</maxDate>
+    <latitude>43.61667</latitude>
+    <longitude>-116.58333</longitude>
+    <elevation>752.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDCY0001</id>
+    <displayName>NAMPA 2.8 E, ID US</displayName>
+    <minDate>2008-12-26</minDate>
+    <maxDate>2012-11-25</maxDate>
+    <latitude>43.5768</latitude>
+    <longitude>-116.5088</longitude>
+    <elevation>776.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7512</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106305</id>
+    <displayName>NAMPA SUGAR FACTORY, ID US</displayName>
+    <minDate>1976-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6039</latitude>
+    <longitude>-116.5753</longitude>
+    <elevation>752.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106295</id>
+    <displayName>NAMPA, ID US</displayName>
+    <minDate>1893-12-01</minDate>
+    <maxDate>1951-10-31</maxDate>
+    <latitude>43.58333</latitude>
+    <longitude>-116.56667</longitude>
+    <elevation>755.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2543</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506157</id>
+    <displayName>NANCY LAKE, AK US</displayName>
+    <minDate>2001-03-01</minDate>
+    <maxDate>2007-04-30</maxDate>
+    <latitude>61.68306</latitude>
+    <longitude>-149.975</longitude>
+    <elevation>71</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9383</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335656</id>
+    <displayName>NANKIN, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.93333</latitude>
+    <longitude>-82.28333</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8071</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316036</id>
+    <displayName>NANTAHALA DAM, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.2</latitude>
+    <longitude>-83.65</longitude>
+    <elevation>900.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316031</id>
+    <displayName>NANTAHALA, NC US</displayName>
+    <minDate>1934-02-01</minDate>
+    <maxDate>1976-07-31</maxDate>
+    <latitude>35.26667</latitude>
+    <longitude>-83.68333</longitude>
+    <elevation>613</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014756</id>
+    <displayName>NANTUCKET MEMORIAL AIRPORT, MA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.25306</latitude>
+    <longitude>-70.06083</longitude>
+    <elevation>13.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7604</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYRL0003</id>
+    <displayName>NANUET 0.3 E, NY US</displayName>
+    <minDate>2009-06-14</minDate>
+    <maxDate>2011-05-19</maxDate>
+    <latitude>41.0955</latitude>
+    <longitude>-74.0099</longitude>
+    <elevation>86.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466362</id>
+    <displayName>NAOMA, WV US</displayName>
+    <minDate>1940-12-16</minDate>
+    <maxDate>1961-08-31</maxDate>
+    <latitude>37.86667</latitude>
+    <longitude>-81.48333</longitude>
+    <elevation>369.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CANP0005</id>
+    <displayName>NAPA 2.0 WNW, CA US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2011-05-25</maxDate>
+    <latitude>38.3128</latitude>
+    <longitude>-122.3312</longitude>
+    <elevation>41.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093227</id>
+    <displayName>NAPA CO AIRPORT, CA US</displayName>
+    <minDate>1998-05-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.2102</latitude>
+    <longitude>-122.2847</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046074</id>
+    <displayName>NAPA STATE HOSPITAL, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2777</latitude>
+    <longitude>-122.2647</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.941</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046065</id>
+    <displayName>NAPA, CA US</displayName>
+    <minDate>1903-12-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>38.3</latitude>
+    <longitude>-122.28333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4748</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0043</id>
+    <displayName>NAPERVILLE 0.9 ENE, IL US</displayName>
+    <minDate>2007-07-28</minDate>
+    <maxDate>2008-07-12</maxDate>
+    <latitude>41.7689</latitude>
+    <longitude>-88.1399</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5014</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0075</id>
+    <displayName>NAPERVILLE 1.1 NW, IL US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.7729</latitude>
+    <longitude>-88.1713</longitude>
+    <elevation>210.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0074</id>
+    <displayName>NAPERVILLE 1.9 ENE, IL US</displayName>
+    <minDate>2009-03-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7682</latitude>
+    <longitude>-88.1174</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0048</id>
+    <displayName>NAPERVILLE 1.9 W, IL US</displayName>
+    <minDate>2009-01-08</minDate>
+    <maxDate>2009-10-23</maxDate>
+    <latitude>41.7578</latitude>
+    <longitude>-88.191</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7336</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0027</id>
+    <displayName>NAPERVILLE 2.1 ESE, IL US</displayName>
+    <minDate>2007-03-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7564</latitude>
+    <longitude>-88.1135</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9257</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0078</id>
+    <displayName>NAPERVILLE 2.4 SE, IL US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>41.7418</latitude>
+    <longitude>-88.1162</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0049</id>
+    <displayName>NAPERVILLE 2.5 ESE, IL US</displayName>
+    <minDate>2007-10-18</minDate>
+    <maxDate>2009-11-02</maxDate>
+    <latitude>41.7461</latitude>
+    <longitude>-88.1114</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.332</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0020</id>
+    <displayName>NAPERVILLE 3.2 ESE, IL US</displayName>
+    <minDate>2007-02-24</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>41.7423</latitude>
+    <longitude>-88.0982</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0044</id>
+    <displayName>NAPERVILLE 3.6 SSW, IL US</displayName>
+    <minDate>2008-04-08</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>41.7146</latitude>
+    <longitude>-88.1807</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.681</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0092</id>
+    <displayName>NAPERVILLE 4.0 SSW, IL US</displayName>
+    <minDate>2012-03-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7062</latitude>
+    <longitude>-88.1734</longitude>
+    <elevation>203</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9538</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0007</id>
+    <displayName>NAPLES 0.7 SSW, FL US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2011-05-01</maxDate>
+    <latitude>26.1347</latitude>
+    <longitude>-81.798</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8603</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTUN0007</id>
+    <displayName>NAPLES 0.8 N, UT US</displayName>
+    <minDate>2011-05-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4408</latitude>
+    <longitude>-109.4906</longitude>
+    <elevation>1582.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416190</id>
+    <displayName>NAPLES 1 SW, TX US</displayName>
+    <minDate>1909-12-01</minDate>
+    <maxDate>1981-11-30</maxDate>
+    <latitude>33.18333</latitude>
+    <longitude>-94.68333</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9812</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0031</id>
+    <displayName>NAPLES 1.3 SE, FL US</displayName>
+    <minDate>2012-03-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.1334</latitude>
+    <longitude>-81.7787</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0025</id>
+    <displayName>NAPLES 1.4 NNW, FL US</displayName>
+    <minDate>2011-10-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>26.163</latitude>
+    <longitude>-81.8058</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.635</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0055</id>
+    <displayName>NAPLES 2.6 NE, ME US</displayName>
+    <minDate>2010-05-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9925</latitude>
+    <longitude>-70.5661</longitude>
+    <elevation>99.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9275</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416195</id>
+    <displayName>NAPLES 5 NE, TX US</displayName>
+    <minDate>1982-04-01</minDate>
+    <maxDate>1997-01-31</maxDate>
+    <latitude>33.2425</latitude>
+    <longitude>-94.67361</longitude>
+    <elevation>88.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0012</id>
+    <displayName>NAPLES 5.7 SE, FL US</displayName>
+    <minDate>2008-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.0976</latitude>
+    <longitude>-81.7221</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9452</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMRR003</id>
+    <displayName>NAPLES 6.5 NNW, TX US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.2837</latitude>
+    <longitude>-94.7382</longitude>
+    <elevation>98.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2606</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0026</id>
+    <displayName>NAPLES 6.7 NE, FL US</displayName>
+    <minDate>2011-10-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.2054</latitude>
+    <longitude>-81.7109</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7738</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012897</id>
+    <displayName>NAPLES MUNICIPAL AIRPORT, FL US</displayName>
+    <minDate>2002-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>26.1522</latitude>
+    <longitude>-81.7752</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0013</id>
+    <displayName>NAPLES PARK 3.7 ENE, FL US</displayName>
+    <minDate>2008-08-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.2798</latitude>
+    <longitude>-81.7583</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086078</id>
+    <displayName>NAPLES, FL US</displayName>
+    <minDate>1942-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.16861</latitude>
+    <longitude>-81.71583</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305635</id>
+    <displayName>NAPLES, NY US</displayName>
+    <minDate>1969-09-01</minDate>
+    <maxDate>1987-03-31</maxDate>
+    <latitude>42.61667</latitude>
+    <longitude>-77.4</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHHY0003</id>
+    <displayName>NAPOLEON 0.3 NNW, OH US</displayName>
+    <minDate>2010-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3979</latitude>
+    <longitude>-84.129</longitude>
+    <elevation>203.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8065</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHHY0002</id>
+    <displayName>NAPOLEON 0.7 ESE, OH US</displayName>
+    <minDate>2009-08-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3893</latitude>
+    <longitude>-84.1154</longitude>
+    <elevation>200.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335667</id>
+    <displayName>NAPOLEON 1 NE, OH US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.3998</latitude>
+    <longitude>-84.1119</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHHY0004</id>
+    <displayName>NAPOLEON 3.8 S, OH US</displayName>
+    <minDate>2011-03-16</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>41.3397</latitude>
+    <longitude>-84.1196</longitude>
+    <elevation>208.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7085</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155706</id>
+    <displayName>NAPOLEON, KY US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7608</latitude>
+    <longitude>-84.7923</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235916</id>
+    <displayName>NAPOLEON, MO US</displayName>
+    <minDate>1985-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.133</latitude>
+    <longitude>-94.0638</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3226</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00326255</id>
+    <displayName>NAPOLEON, ND US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>46.5066</latitude>
+    <longitude>-99.7691</longitude>
+    <elevation>603.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335669</id>
+    <displayName>NAPOLEON, OH US</displayName>
+    <minDate>1962-05-01</minDate>
+    <maxDate>2009-06-30</maxDate>
+    <latitude>41.3939</latitude>
+    <longitude>-84.1144</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9451</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335664</id>
+    <displayName>NAPOLEON, OH US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>1962-05-31</maxDate>
+    <latitude>41.3939</latitude>
+    <longitude>-84.1144</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00166561</id>
+    <displayName>NAPOLEONVILLE, LA US</displayName>
+    <minDate>1895-07-21</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>29.9341</latitude>
+    <longitude>-91.0163</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3241</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10fran005</id>
+    <displayName>NAPONEE 0.1 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-11-11</maxDate>
+    <latitude>40.0781</latitude>
+    <longitude>-99.1414</longitude>
+    <elevation>588.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9427</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10fran013</id>
+    <displayName>NAPONEE 1.5 SW, NE US</displayName>
+    <minDate>2008-10-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0576</latitude>
+    <longitude>-99.1572</longitude>
+    <elevation>581.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9086</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255780</id>
+    <displayName>NAPONEE, NE US</displayName>
+    <minDate>1940-08-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>40.0783</latitude>
+    <longitude>-99.1386</longitude>
+    <elevation>573.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516697</id>
+    <displayName>NAPOOPOO 28, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>19.4688</latitude>
+    <longitude>-155.9094</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0044</id>
+    <displayName>NAPPANEE 1.4 W, IN US</displayName>
+    <minDate>2011-05-26</minDate>
+    <maxDate>2012-01-29</maxDate>
+    <latitude>41.4449</latitude>
+    <longitude>-86.0116</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0037</id>
+    <displayName>NAPPANEE 2.5 NE, IN US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2010-05-25</maxDate>
+    <latitude>41.4719</latitude>
+    <longitude>-85.9518</longitude>
+    <elevation>280.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8205</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0031</id>
+    <displayName>NAPPANEE 3.5 NW, IN US</displayName>
+    <minDate>2008-07-10</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>41.4756</latitude>
+    <longitude>-86.0401</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296040</id>
+    <displayName>NARA VISA, NM US</displayName>
+    <minDate>1905-08-01</minDate>
+    <maxDate>1966-09-30</maxDate>
+    <latitude>35.61667</latitude>
+    <longitude>-103.1</longitude>
+    <elevation>1278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5906</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666440</id>
+    <displayName>NARANJALES, PR US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>18.20972</latitude>
+    <longitude>-66.99556</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6502</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0017</id>
+    <displayName>NARBERTH 0.5 NE, PA US</displayName>
+    <minDate>2006-03-20</minDate>
+    <maxDate>2008-06-16</maxDate>
+    <latitude>40.0124</latitude>
+    <longitude>-75.257</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1RIWS0006</id>
+    <displayName>NARRAGANSETT PIER 0.5 N, RI US</displayName>
+    <minDate>2008-04-24</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>41.4336</latitude>
+    <longitude>-71.4658</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6502</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00375110</id>
+    <displayName>NARRAGANSETT PIER, RI US</displayName>
+    <minDate>1895-05-01</minDate>
+    <maxDate>1918-07-31</maxDate>
+    <latitude>41.433333</latitude>
+    <longitude>-71.466667</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035110</id>
+    <displayName>NARROWS DAM, AR US</displayName>
+    <minDate>1950-05-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1452</latitude>
+    <longitude>-93.7138</longitude>
+    <elevation>132.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4498</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296043</id>
+    <displayName>NARROWS, NM US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>33.38333</latitude>
+    <longitude>-107.16667</longitude>
+    <elevation>1342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355940</id>
+    <displayName>NARROWS, OR US</displayName>
+    <minDate>1908-05-01</minDate>
+    <maxDate>1910-02-28</maxDate>
+    <latitude>43.316667</latitude>
+    <longitude>-118.966667</longitude>
+    <elevation>1249.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305639</id>
+    <displayName>NARROWSBURG 4 SE, NY US</displayName>
+    <minDate>1956-11-01</minDate>
+    <maxDate>1998-12-31</maxDate>
+    <latitude>41.56667</latitude>
+    <longitude>-75.01667</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSV0007</id>
+    <displayName>NARROWSBURG 4.1 ESE, NY US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2011-08-29</maxDate>
+    <latitude>41.5998</latitude>
+    <longitude>-74.9828</longitude>
+    <elevation>323.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1377</coverage>
+  </station>
+</stationCollection>

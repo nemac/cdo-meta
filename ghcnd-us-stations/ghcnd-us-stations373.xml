@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="373">
+  <station>
+    <id>GHCND:US1TXGP0041</id>
+    <displayName>SCHERTZ 2.0 NNW, TX US</displayName>
+    <minDate>2009-04-02</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>29.5835</latitude>
+    <longitude>-98.2698</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0029</id>
+    <displayName>SCHERTZ 2.2 N, TX US</displayName>
+    <minDate>2008-05-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.5856</latitude>
+    <longitude>-98.2554</longitude>
+    <elevation>232.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACF0002</id>
+    <displayName>SCHLESWIG 0.4 NE, IA US</displayName>
+    <minDate>2007-08-15</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>42.1655</latitude>
+    <longitude>-95.4287</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9788</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALH0005</id>
+    <displayName>SCHNECKSVILLE 2.7 SW, PA US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.6474</latitude>
+    <longitude>-75.6505</longitude>
+    <elevation>143.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9474</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0017D08S</id>
+    <displayName>SCHNEIDER MEADOWS, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45</latitude>
+    <longitude>-117.15</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9311</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSEL0027</id>
+    <displayName>SCHOENCHEN 3.5 E, KS US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>38.7188</latitude>
+    <longitude>-99.2664</longitude>
+    <elevation>595.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIMT0003</id>
+    <displayName>SCHOFIELD 2.1 SSE, WI US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2012-12-07</maxDate>
+    <latitude>44.8873</latitude>
+    <longitude>-89.5959</longitude>
+    <elevation>401.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIMT0001</id>
+    <displayName>SCHOFIELD 3.3 E, WI US</displayName>
+    <minDate>2007-03-10</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>44.9181</latitude>
+    <longitude>-89.5447</longitude>
+    <elevation>370.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5391</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HSCO</id>
+    <displayName>SCHOFIELD BARRACKS HAWAII, HI US</displayName>
+    <minDate>1999-07-15</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>21.495</latitude>
+    <longitude>-158.0819</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HSCH</id>
+    <displayName>SCHOFIELD EAST HAWAII, HI US</displayName>
+    <minDate>2000-05-18</minDate>
+    <maxDate>2008-11-06</maxDate>
+    <latitude>21.4994</latitude>
+    <longitude>-157.9933</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HSFB</id>
+    <displayName>SCHOFIELD FIREBREAK HAWAII, HI US</displayName>
+    <minDate>2000-05-23</minDate>
+    <maxDate>2009-07-18</maxDate>
+    <latitude>21.5086</latitude>
+    <longitude>-158.1147</longitude>
+    <elevation>346.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9258</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007K11S</id>
+    <displayName>SCHOFIELD PASS, CO US</displayName>
+    <minDate>1985-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.0167</latitude>
+    <longitude>-107.05</longitude>
+    <elevation>3261.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307520</id>
+    <displayName>SCHOHARIE, NY US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.665</latitude>
+    <longitude>-74.3036</longitude>
+    <elevation>223.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSHH</id>
+    <displayName>SCHOOL HOUSE CALIFORNIA, CA US</displayName>
+    <minDate>2001-01-04</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.1383</latitude>
+    <longitude>-123.9056</longitude>
+    <elevation>804.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9136</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168295</id>
+    <displayName>SCHRIEVER, LA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1974-09-30</maxDate>
+    <latitude>29.73333</latitude>
+    <longitude>-90.81667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9698</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00217554</id>
+    <displayName>SCHROEDER, MN US</displayName>
+    <minDate>1940-05-13</minDate>
+    <maxDate>1943-06-28</maxDate>
+    <latitude>47.55</latitude>
+    <longitude>-90.9</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8196</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NSCH</id>
+    <displayName>SCHROON LAKE NEW YORK, NY US</displayName>
+    <minDate>2003-05-28</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.8</latitude>
+    <longitude>-73.7</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9034</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307524</id>
+    <displayName>SCHROON LAKE, NY US</displayName>
+    <minDate>1946-07-08</minDate>
+    <maxDate>1967-04-30</maxDate>
+    <latitude>43.83333</latitude>
+    <longitude>-73.76667</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307532</id>
+    <displayName>SCHROON RIVER 4 N, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1978-11-30</maxDate>
+    <latitude>44.01667</latitude>
+    <longitude>-73.7</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8315</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFY0038</id>
+    <displayName>SCHULENBURG 0.6 NNE, TX US</displayName>
+    <minDate>2011-05-25</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.6896</latitude>
+    <longitude>-96.9038</longitude>
+    <elevation>111.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418126</id>
+    <displayName>SCHULENBURG, TX US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.6825</latitude>
+    <longitude>-96.8563</longitude>
+    <elevation>88.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8292</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267358</id>
+    <displayName>SCHURZ, NV US</displayName>
+    <minDate>1920-01-01</minDate>
+    <maxDate>1957-04-30</maxDate>
+    <latitude>38.95</latitude>
+    <longitude>-118.81667</longitude>
+    <elevation>1257</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCL0002</id>
+    <displayName>SCHUYLER FALLS 0.2 NNW, NY US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2012-02-23</maxDate>
+    <latitude>44.6231</latitude>
+    <longitude>-73.5602</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257640</id>
+    <displayName>SCHUYLER, NE US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2012-01-10</maxDate>
+    <latitude>41.4424</latitude>
+    <longitude>-97.0655</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9241</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307544</id>
+    <displayName>SCHUYLERVILLE LOCK 5, NY US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1963-07-31</maxDate>
+    <latitude>43.11667</latitude>
+    <longitude>-73.58333</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307549</id>
+    <displayName>SCHUYLERVILLE, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.1131</latitude>
+    <longitude>-73.5775</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0016A10S</id>
+    <displayName>SCHWEITZER BASIN, ID US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.3667</latitude>
+    <longitude>-116.6333</longitude>
+    <elevation>1856.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8343</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0016A13S</id>
+    <displayName>SCHWEITZER SADDLE, ID US</displayName>
+    <minDate>2003-01-23</minDate>
+    <maxDate>2008-11-12</maxDate>
+    <latitude>48.3833</latitude>
+    <longitude>-116.65</longitude>
+    <elevation>1862.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0038</id>
+    <displayName>SCHWENKSVILLE 0.9 N, PA US</displayName>
+    <minDate>2008-03-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2707</latitude>
+    <longitude>-75.4659</longitude>
+    <elevation>47.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2672</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0055</id>
+    <displayName>SCHWENKSVILLE 3.6 ESE, PA US</displayName>
+    <minDate>2010-04-15</minDate>
+    <maxDate>2012-10-03</maxDate>
+    <latitude>40.2384</latitude>
+    <longitude>-75.4033</longitude>
+    <elevation>85.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7132</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157202</id>
+    <displayName>SCIENCE HILL, KY US</displayName>
+    <minDate>1942-12-01</minDate>
+    <maxDate>1950-05-31</maxDate>
+    <latitude>37.18333</latitude>
+    <longitude>-84.65</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLN0005</id>
+    <displayName>SCIO 2.3 SW, OR US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>44.6833</latitude>
+    <longitude>-122.8833</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLN0004</id>
+    <displayName>SCIO 4.2 SW, OR US</displayName>
+    <minDate>2007-11-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6694</latitude>
+    <longitude>-122.9184</longitude>
+    <elevation>85.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSC0001</id>
+    <displayName>SCIOTODALE 1.2 W, OH US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7584</latitude>
+    <longitude>-82.8832</longitude>
+    <elevation>162.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347979</id>
+    <displayName>SCIPIO 1 S, OK US</displayName>
+    <minDate>2003-10-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>35.0383</latitude>
+    <longitude>-95.9577</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8861</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJN0004</id>
+    <displayName>SCIPIO 1.4 SW, IN US</displayName>
+    <minDate>2009-05-22</minDate>
+    <maxDate>2009-12-05</maxDate>
+    <latitude>39.0681</latitude>
+    <longitude>-85.7389</longitude>
+    <elevation>192.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJN0008</id>
+    <displayName>SCIPIO 1.5 SSW, IN US</displayName>
+    <minDate>2011-03-23</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>39.0602</latitude>
+    <longitude>-85.7327</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8408</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427714</id>
+    <displayName>SCIPIO, UT US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.2454</latitude>
+    <longitude>-112.1066</longitude>
+    <elevation>1619.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9406</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTDN0002</id>
+    <displayName>SCOBEY 1.2 ENE, MT US</displayName>
+    <minDate>2007-12-21</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.7971</latitude>
+    <longitude>-105.3956</longitude>
+    <elevation>766</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9336</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247425</id>
+    <displayName>SCOBEY 4 NW, MT US</displayName>
+    <minDate>1987-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.8306</latitude>
+    <longitude>-105.4758</longitude>
+    <elevation>723.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247424</id>
+    <displayName>SCOBEY, MT US</displayName>
+    <minDate>1948-07-02</minDate>
+    <maxDate>1987-05-31</maxDate>
+    <latitude>48.78333</latitude>
+    <longitude>-105.41667</longitude>
+    <elevation>749.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427724</id>
+    <displayName>SCOFIELD DAM, UT US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1991-03-31</maxDate>
+    <latitude>39.7858</latitude>
+    <longitude>-111.1189</longitude>
+    <elevation>2325.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9819</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427729</id>
+    <displayName>SCOFIELD SKYLINE MINE, UT US</displayName>
+    <minDate>1984-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>39.6842</latitude>
+    <longitude>-111.2055</longitude>
+    <elevation>2650.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427720</id>
+    <displayName>SCOFIELD, UT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1984-05-31</maxDate>
+    <latitude>39.71667</latitude>
+    <longitude>-111.15</longitude>
+    <elevation>2354.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357586</id>
+    <displayName>SCOGGINS DAM 2, OR US</displayName>
+    <minDate>1973-04-01</minDate>
+    <maxDate>1985-04-30</maxDate>
+    <latitude>45.48333</latitude>
+    <longitude>-123.2</longitude>
+    <elevation>108.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSKM0004</id>
+    <displayName>SCOOBA 0.2 SSW, MS US</displayName>
+    <minDate>2010-05-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.8284</latitude>
+    <longitude>-88.4787</longitude>
+    <elevation>63.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSCN</id>
+    <displayName>SCORPION CALIFORNIA, CA US</displayName>
+    <minDate>1990-10-15</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.1117</latitude>
+    <longitude>-122.6967</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508273</id>
+    <displayName>SCOTCH CAPE LIGHT STATION, AK US</displayName>
+    <minDate>1936-08-01</minDate>
+    <maxDate>1942-02-20</maxDate>
+    <latitude>54.41667</latitude>
+    <longitude>-164.75</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008M08S</id>
+    <displayName>SCOTCH CREEK, CO US</displayName>
+    <minDate>1986-08-06</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.65</latitude>
+    <longitude>-108.0167</longitude>
+    <elevation>2773.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSC0002</id>
+    <displayName>SCOTIA 1.1 NW, NY US</displayName>
+    <minDate>2008-09-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8447</latitude>
+    <longitude>-73.9748</longitude>
+    <elevation>83.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9013</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gree006</id>
+    <displayName>SCOTIA 13.2 N, NE US</displayName>
+    <minDate>2007-05-01</minDate>
+    <maxDate>2008-08-04</maxDate>
+    <latitude>41.6563</latitude>
+    <longitude>-98.7329</longitude>
+    <elevation>666.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gree003</id>
+    <displayName>SCOTIA 3.0 SSE, NE US</displayName>
+    <minDate>2007-01-15</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>41.4238</latitude>
+    <longitude>-98.6947</longitude>
+    <elevation>594.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2283</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gree004</id>
+    <displayName>SCOTIA 4.0 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4663</latitude>
+    <longitude>-98.6272</longitude>
+    <elevation>609</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gree010</id>
+    <displayName>SCOTIA 8.4 NNE, NE US</displayName>
+    <minDate>2008-04-07</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>41.582</latitude>
+    <longitude>-98.6543</longitude>
+    <elevation>648.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9414</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048045</id>
+    <displayName>SCOTIA, CA US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.48306</latitude>
+    <longitude>-124.10361</longitude>
+    <elevation>41.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307568</id>
+    <displayName>SCOTIA, NY US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1963-08-31</maxDate>
+    <latitude>42.81667</latitude>
+    <longitude>-73.98333</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317725</id>
+    <displayName>SCOTLAND NECK NUMBER 2, NC US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1369</latitude>
+    <longitude>-77.4231</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317727</id>
+    <displayName>SCOTLAND NECK, NC US</displayName>
+    <minDate>1872-12-01</minDate>
+    <maxDate>1995-11-30</maxDate>
+    <latitude>36.20944</latitude>
+    <longitude>-77.38417</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7851</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418139</id>
+    <displayName>SCOTLAND, TX US</displayName>
+    <minDate>1997-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.6633</latitude>
+    <longitude>-98.4704</longitude>
+    <elevation>293.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSC0004</id>
+    <displayName>SCOTT CITY 0.3 WNW, KS US</displayName>
+    <minDate>2006-04-10</minDate>
+    <maxDate>2007-03-11</maxDate>
+    <latitude>38.4814</latitude>
+    <longitude>-100.9134</longitude>
+    <elevation>905.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3571</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSC0001</id>
+    <displayName>SCOTT CITY 0.9 SE, MO US</displayName>
+    <minDate>2006-06-01</minDate>
+    <maxDate>2006-12-19</maxDate>
+    <latitude>37.2127</latitude>
+    <longitude>-89.5208</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSC0005</id>
+    <displayName>SCOTT CITY 1.1 E, KS US</displayName>
+    <minDate>2006-05-22</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>38.4804</latitude>
+    <longitude>-100.8886</longitude>
+    <elevation>903.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9165</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSC0002</id>
+    <displayName>SCOTT CITY 10 SE, KS US</displayName>
+    <minDate>2005-05-20</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.3959</latitude>
+    <longitude>-100.7502</longitude>
+    <elevation>905.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147273</id>
+    <displayName>SCOTT CITY 13 N, KS US</displayName>
+    <minDate>1931-08-06</minDate>
+    <maxDate>1972-02-29</maxDate>
+    <latitude>38.66667</latitude>
+    <longitude>-100.91667</longitude>
+    <elevation>869</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8071</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSC0006</id>
+    <displayName>SCOTT CITY 7.9 S, KS US</displayName>
+    <minDate>2007-05-30</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.3669</latitude>
+    <longitude>-100.9354</longitude>
+    <elevation>908.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSC0003</id>
+    <displayName>SCOTT CITY 9.6 SE, KS US</displayName>
+    <minDate>2005-07-13</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.3956</latitude>
+    <longitude>-100.7684</longitude>
+    <elevation>912</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4197</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147271</id>
+    <displayName>SCOTT CITY, KS US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>38.482</latitude>
+    <longitude>-100.9189</longitude>
+    <elevation>905.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157211</id>
+    <displayName>SCOTT, KY US</displayName>
+    <minDate>1897-06-01</minDate>
+    <maxDate>1931-01-31</maxDate>
+    <latitude>38.96667</latitude>
+    <longitude>-84.55</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227886</id>
+    <displayName>SCOTT, MS US</displayName>
+    <minDate>1918-06-01</minDate>
+    <maxDate>1978-08-31</maxDate>
+    <latitude>33.6</latitude>
+    <longitude>-91.08333</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NSCO</id>
+    <displayName>SCOTTS BLUFF NEBRASKA, NE US</displayName>
+    <minDate>2001-08-29</minDate>
+    <maxDate>2011-05-11</maxDate>
+    <latitude>41.8167</latitude>
+    <longitude>-103.7</longitude>
+    <elevation>1287.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHD0003</id>
+    <displayName>SCOTTS HILL 2.8 NNW, TN US</displayName>
+    <minDate>2005-12-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.5536</latitude>
+    <longitude>-88.267</longitude>
+    <elevation>142</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7162</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408142</id>
+    <displayName>SCOTTS HILL, TN US</displayName>
+    <minDate>1952-12-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.51667</latitude>
+    <longitude>-88.25</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357631</id>
+    <displayName>SCOTTS MILLS 9 SE, OR US</displayName>
+    <minDate>1956-01-05</minDate>
+    <maxDate>2001-10-31</maxDate>
+    <latitude>44.9527</latitude>
+    <longitude>-122.525</longitude>
+    <elevation>705.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0012</id>
+    <displayName>SCOTTS VALLEY 1.4 W, CA US</displayName>
+    <minDate>2008-12-27</minDate>
+    <maxDate>2012-01-13</maxDate>
+    <latitude>37.0552</latitude>
+    <longitude>-122.0333</longitude>
+    <elevation>110.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9344</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0007</id>
+    <displayName>SCOTTS VALLEY 1.7 SW, CA US</displayName>
+    <minDate>2008-10-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0396</latitude>
+    <longitude>-122.0295</longitude>
+    <elevation>174.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257667</id>
+    <displayName>SCOTTSBLUFF 1 E, NE US</displayName>
+    <minDate>2002-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.8644</latitude>
+    <longitude>-103.6397</longitude>
+    <elevation>1191.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257668</id>
+    <displayName>SCOTTSBLUFF 10 N, NE US</displayName>
+    <minDate>2002-11-01</minDate>
+    <maxDate>2004-02-29</maxDate>
+    <latitude>42.03083</latitude>
+    <longitude>-103.70222</longitude>
+    <elevation>1294.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot005</id>
+    <displayName>SCOTTSBLUFF 16.4 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>41.9894</latitude>
+    <longitude>-103.9365</longitude>
+    <elevation>1250</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6252</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot013</id>
+    <displayName>SCOTTSBLUFF 2.7 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.8841</latitude>
+    <longitude>-103.7149</longitude>
+    <elevation>1191.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9583</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot027</id>
+    <displayName>SCOTTSBLUFF 4.4 NNE, NE US</displayName>
+    <minDate>2007-04-27</minDate>
+    <maxDate>2012-09-13</maxDate>
+    <latitude>41.9289</latitude>
+    <longitude>-103.6484</longitude>
+    <elevation>1249.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9746</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot020</id>
+    <displayName>SCOTTSBLUFF 6.6 NE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.935</latitude>
+    <longitude>-103.5792</longitude>
+    <elevation>1232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9343</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257670</id>
+    <displayName>SCOTTSBLUFF NUMBER 2, NE US</displayName>
+    <minDate>1911-04-01</minDate>
+    <maxDate>1912-04-30</maxDate>
+    <latitude>41.866634</latitude>
+    <longitude>-103.667166</longitude>
+    <elevation>1186</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024028</id>
+    <displayName>SCOTTSBLUFF W B HEILIG FIELD AIRPORT, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.8705</latitude>
+    <longitude>-103.593</longitude>
+    <elevation>1202.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJC0010</id>
+    <displayName>SCOTTSBORO 1.9 SSE, AL US</displayName>
+    <minDate>2007-11-24</minDate>
+    <maxDate>2009-05-27</maxDate>
+    <latitude>34.6222</latitude>
+    <longitude>-86.0379</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063896</id>
+    <displayName>SCOTTSBORO 2 NE, AL US</displayName>
+    <minDate>2006-08-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.6941</latitude>
+    <longitude>-85.9998</longitude>
+    <elevation>193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJC0014</id>
+    <displayName>SCOTTSBORO 4.1 SSW, AL US</displayName>
+    <minDate>2008-05-02</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.5994</latitude>
+    <longitude>-86.029</longitude>
+    <elevation>248.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2653</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJC0009</id>
+    <displayName>SCOTTSBORO 4.6 NW, AL US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7015</latitude>
+    <longitude>-86.0978</longitude>
+    <elevation>193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJC0015</id>
+    <displayName>SCOTTSBORO 5.2 ENE, AL US</displayName>
+    <minDate>2008-12-13</minDate>
+    <maxDate>2009-11-17</maxDate>
+    <latitude>34.6859</latitude>
+    <longitude>-85.9678</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJC0004</id>
+    <displayName>SCOTTSBORO 5.6 SSW, AL US</displayName>
+    <minDate>2007-10-24</minDate>
+    <maxDate>2010-01-14</maxDate>
+    <latitude>34.5801</latitude>
+    <longitude>-86.0997</longitude>
+    <elevation>187.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7297</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017310</id>
+    <displayName>SCOTTSBORO SUBSTATION, AL US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.68333</latitude>
+    <longitude>-86.01667</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017304</id>
+    <displayName>SCOTTSBORO, AL US</displayName>
+    <minDate>1891-10-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6736</latitude>
+    <longitude>-86.0536</longitude>
+    <elevation>187.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9314</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127875</id>
+    <displayName>SCOTTSBURG, IN US</displayName>
+    <minDate>1894-05-01</minDate>
+    <maxDate>2010-04-25</maxDate>
+    <latitude>38.68861</latitude>
+    <longitude>-85.785</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0110</id>
+    <displayName>SCOTTSDALE 0.9 SW, AZ US</displayName>
+    <minDate>2009-09-23</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.5777</latitude>
+    <longitude>-111.9138</longitude>
+    <elevation>409.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1572</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0244</id>
+    <displayName>SCOTTSDALE 1.0 SW, AZ US</displayName>
+    <minDate>2009-10-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4919</latitude>
+    <longitude>-111.9044</longitude>
+    <elevation>378.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9341</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0235</id>
+    <displayName>SCOTTSDALE 10.8 NNW, AZ US</displayName>
+    <minDate>2009-11-04</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.6464</latitude>
+    <longitude>-111.9575</longitude>
+    <elevation>461.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0264</id>
+    <displayName>SCOTTSDALE 11.6 NNW, AZ US</displayName>
+    <minDate>2010-01-22</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.6468</latitude>
+    <longitude>-111.9872</longitude>
+    <elevation>453.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0241</id>
+    <displayName>SCOTTSDALE 15.2 N, AZ US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2011-12-13</maxDate>
+    <latitude>33.7205</latitude>
+    <longitude>-111.8971</longitude>
+    <elevation>641.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0265</id>
+    <displayName>SCOTTSDALE 15.8 NNE, AZ US</displayName>
+    <minDate>2010-01-14</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.7239</latitude>
+    <longitude>-111.8338</longitude>
+    <elevation>833.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0232</id>
+    <displayName>SCOTTSDALE 17.7 N, AZ US</displayName>
+    <minDate>2009-10-05</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.754</latitude>
+    <longitude>-111.847</longitude>
+    <elevation>817.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0016</id>
+    <displayName>SCOTTSDALE 2.3 NE, AZ US</displayName>
+    <minDate>2009-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.71</latitude>
+    <longitude>-111.8415</longitude>
+    <elevation>781.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+</stationCollection>

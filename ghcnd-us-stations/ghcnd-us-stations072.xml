@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="72">
+  <station>
+    <id>GHCND:US1COSA0047</id>
+    <displayName>CENTER 9.1 ENE, CO US</displayName>
+    <minDate>2007-06-26</minDate>
+    <maxDate>2008-09-15</maxDate>
+    <latitude>37.7778</latitude>
+    <longitude>-105.946</longitude>
+    <elevation>2311</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3616</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSA0041</id>
+    <displayName>CENTER 9.9 E, CO US</displayName>
+    <minDate>2007-06-26</minDate>
+    <maxDate>2008-09-15</maxDate>
+    <latitude>37.762</latitude>
+    <longitude>-105.9284</longitude>
+    <elevation>2309.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3616</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003084</id>
+    <displayName>CENTER A 4 SSW, CO US</displayName>
+    <minDate>2009-11-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.7068</latitude>
+    <longitude>-106.1444</longitude>
+    <elevation>2340.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0430</id>
+    <displayName>CENTER AVE, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.5642</latitude>
+    <longitude>-105.0831</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411580</id>
+    <displayName>CENTER CITY, TX US</displayName>
+    <minDate>1963-05-04</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>31.4683</latitude>
+    <longitude>-98.4105</longitude>
+    <elevation>416.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00011492</id>
+    <displayName>CENTER GROVE, AL US</displayName>
+    <minDate>1935-10-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-86.63333</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHBK0012</id>
+    <displayName>CENTER HARBOR 3.7 SW, NH US</displayName>
+    <minDate>2009-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6758</latitude>
+    <longitude>-71.5267</longitude>
+    <elevation>234.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9598</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00271338</id>
+    <displayName>CENTER HARBOR, NH US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1952-03-31</maxDate>
+    <latitude>43.71667</latitude>
+    <longitude>-71.48333</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171315</id>
+    <displayName>CENTER LOVELL, ME US</displayName>
+    <minDate>1996-08-01</minDate>
+    <maxDate>1997-11-30</maxDate>
+    <latitude>44.18694</latitude>
+    <longitude>-70.8475</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKR0054</id>
+    <displayName>CENTER POINT 0.5 SE, TX US</displayName>
+    <minDate>2012-07-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.9294</latitude>
+    <longitude>-99.0305</longitude>
+    <elevation>456.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKR0047</id>
+    <displayName>CENTER POINT 1.1 NNE, TX US</displayName>
+    <minDate>2011-10-21</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>29.9471</latitude>
+    <longitude>-99.027</longitude>
+    <elevation>459</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKR0052</id>
+    <displayName>CENTER POINT 2.2 NNE, TX US</displayName>
+    <minDate>2012-01-08</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.9645</latitude>
+    <longitude>-99.0234</longitude>
+    <elevation>498</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5095</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKR0038</id>
+    <displayName>CENTER POINT 2.4 ESE, TX US</displayName>
+    <minDate>2009-06-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.9317</latitude>
+    <longitude>-98.9994</longitude>
+    <elevation>463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031310</id>
+    <displayName>CENTER RIDGE 4 S, AR US</displayName>
+    <minDate>1995-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3228</latitude>
+    <longitude>-92.5672</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031308</id>
+    <displayName>CENTER RIDGE, AR US</displayName>
+    <minDate>1950-09-10</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-92.56667</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCR0004</id>
+    <displayName>CENTER SANDWICH 3.1 WSW, NH US</displayName>
+    <minDate>2009-07-07</minDate>
+    <maxDate>2009-12-24</maxDate>
+    <latitude>43.803</latitude>
+    <longitude>-71.5</longitude>
+    <elevation>260.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCR0026</id>
+    <displayName>CENTER SANDWICH 4.9 E, NH US</displayName>
+    <minDate>2011-01-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.8098</latitude>
+    <longitude>-71.3415</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401565</id>
+    <displayName>CENTER TVA C 7, TN US</displayName>
+    <minDate>1949-02-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.483333</latitude>
+    <longitude>-84.383333</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411578</id>
+    <displayName>CENTER, TX US</displayName>
+    <minDate>1922-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.8075</latitude>
+    <longitude>-94.1642</longitude>
+    <elevation>99.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8109</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331404</id>
+    <displayName>CENTERBURG 2 SE, OH US</displayName>
+    <minDate>1950-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.2913</latitude>
+    <longitude>-82.6546</longitude>
+    <elevation>367.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHMW0003</id>
+    <displayName>CENTERBURG 4.1 NNW, OH US</displayName>
+    <minDate>2012-03-19</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>40.3585</latitude>
+    <longitude>-82.7251</longitude>
+    <elevation>395.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5254</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHKN0001</id>
+    <displayName>CENTERBURG 5.3 ESE, OH US</displayName>
+    <minDate>2009-02-02</minDate>
+    <maxDate>2012-09-05</maxDate>
+    <latitude>40.2749</latitude>
+    <longitude>-82.604</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5526</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331399</id>
+    <displayName>CENTERBURG, OH US</displayName>
+    <minDate>1902-06-01</minDate>
+    <maxDate>1981-08-31</maxDate>
+    <latitude>40.3</latitude>
+    <longitude>-82.7</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4552</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301309</id>
+    <displayName>CENTERPORT, NY US</displayName>
+    <minDate>2003-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8838</latitude>
+    <longitude>-73.3722</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401576</id>
+    <displayName>CENTERSVILLE, TN US</displayName>
+    <minDate>1953-04-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.28333</latitude>
+    <longitude>-82.66667</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARBT0011</id>
+    <displayName>CENTERTON 0.8 SW, AR US</displayName>
+    <minDate>2009-09-11</minDate>
+    <maxDate>2012-12-04</maxDate>
+    <latitude>36.3513</latitude>
+    <longitude>-94.2953</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2329</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARBT0018</id>
+    <displayName>CENTERTON 0.8 WSW, AR US</displayName>
+    <minDate>2011-05-29</minDate>
+    <maxDate>2012-10-18</maxDate>
+    <latitude>36.3573</latitude>
+    <longitude>-94.2992</longitude>
+    <elevation>398.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00121402</id>
+    <displayName>CENTERTON, IN US</displayName>
+    <minDate>1957-01-01</minDate>
+    <maxDate>1986-06-30</maxDate>
+    <latitude>39.48611</latitude>
+    <longitude>-86.41833</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151431</id>
+    <displayName>CENTERTOWN, KY US</displayName>
+    <minDate>1900-12-01</minDate>
+    <maxDate>1902-09-30</maxDate>
+    <latitude>37.41667</latitude>
+    <longitude>-87</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWN0004</id>
+    <displayName>CENTERVILLE 0.3 N, IN US</displayName>
+    <minDate>2008-03-28</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>39.8211</latitude>
+    <longitude>-84.9963</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6024</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAAP0001</id>
+    <displayName>CENTERVILLE 0.5 SE, IA US</displayName>
+    <minDate>2007-08-12</minDate>
+    <maxDate>2012-10-23</maxDate>
+    <latitude>40.7247</latitude>
+    <longitude>-92.868</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9121</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAAP0004</id>
+    <displayName>CENTERVILLE 0.7 NW, IA US</displayName>
+    <minDate>2007-08-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7368</latitude>
+    <longitude>-92.8852</longitude>
+    <elevation>298.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5089</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTDV0009</id>
+    <displayName>CENTERVILLE 0.8 NE, UT US</displayName>
+    <minDate>2008-07-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9346</latitude>
+    <longitude>-111.8761</longitude>
+    <elevation>1324.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHMY0006</id>
+    <displayName>CENTERVILLE 1.4 SW, OH US</displayName>
+    <minDate>2009-03-25</minDate>
+    <maxDate>2012-09-08</maxDate>
+    <latitude>39.6252</latitude>
+    <longitude>-84.1548</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.678</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHMY0004</id>
+    <displayName>CENTERVILLE 1.7 WSW, OH US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2012-01-27</maxDate>
+    <latitude>39.6314</latitude>
+    <longitude>-84.1697</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7054</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHM0001</id>
+    <displayName>CENTERVILLE 1.9 NE, TN US</displayName>
+    <minDate>2007-04-09</minDate>
+    <maxDate>2008-01-23</maxDate>
+    <latitude>35.811</latitude>
+    <longitude>-87.4229</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9069</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLN0001</id>
+    <displayName>CENTERVILLE 1.9 SSE, TX US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.234</latitude>
+    <longitude>-95.962</longitude>
+    <elevation>110.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7525</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHM0009</id>
+    <displayName>CENTERVILLE 10.4 SE, TN US</displayName>
+    <minDate>2007-12-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6848</latitude>
+    <longitude>-87.34</longitude>
+    <elevation>214.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451257</id>
+    <displayName>CENTERVILLE 2 SW, WA US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.73333</latitude>
+    <longitude>-120.95</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1326</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAAP0002</id>
+    <displayName>CENTERVILLE 3.0 ESE, IA US</displayName>
+    <minDate>2007-08-08</minDate>
+    <maxDate>2011-12-12</maxDate>
+    <latitude>40.7106</latitude>
+    <longitude>-92.823</longitude>
+    <elevation>282.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401585</id>
+    <displayName>CENTERVILLE 4 NE, TN US</displayName>
+    <minDate>2000-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8318</latitude>
+    <longitude>-87.4219</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141404</id>
+    <displayName>CENTERVILLE 4 SW, KS US</displayName>
+    <minDate>1994-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1937</latitude>
+    <longitude>-95.0724</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131358</id>
+    <displayName>CENTERVILLE 5 E, IA US</displayName>
+    <minDate>1973-05-01</minDate>
+    <maxDate>1980-07-27</maxDate>
+    <latitude>40.73333</latitude>
+    <longitude>-92.76667</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2087</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231467</id>
+    <displayName>CENTERVILLE 5 NE, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2010-07-23</maxDate>
+    <latitude>37.50417</latitude>
+    <longitude>-90.9225</longitude>
+    <elevation>237.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00391579</id>
+    <displayName>CENTERVILLE 6 SE, SD US</displayName>
+    <minDate>1897-04-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>43.043</latitude>
+    <longitude>-96.9033</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHM0002</id>
+    <displayName>CENTERVILLE 9.5 N, TN US</displayName>
+    <minDate>2007-04-19</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>35.93</latitude>
+    <longitude>-87.4695</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101636</id>
+    <displayName>CENTERVILLE ARBAUGH RANCH, ID US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>43.9592</latitude>
+    <longitude>-115.8453</longitude>
+    <elevation>1353.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9635</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211417</id>
+    <displayName>CENTERVILLE LAKE, MN US</displayName>
+    <minDate>1919-08-01</minDate>
+    <maxDate>1927-12-31</maxDate>
+    <latitude>45.166667</latitude>
+    <longitude>-93.066667</longitude>
+    <elevation>270.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9457</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041624</id>
+    <displayName>CENTERVILLE PH, CA US</displayName>
+    <minDate>1914-04-01</minDate>
+    <maxDate>1971-06-30</maxDate>
+    <latitude>39.78333</latitude>
+    <longitude>-121.66667</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231472</id>
+    <displayName>CENTERVILLE RANGER STATION, MO US</displayName>
+    <minDate>1936-11-01</minDate>
+    <maxDate>1960-08-31</maxDate>
+    <latitude>37.43333</latitude>
+    <longitude>-90.95</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401587</id>
+    <displayName>CENTERVILLE WATER PLANT, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2006-07-31</maxDate>
+    <latitude>35.75528</latitude>
+    <longitude>-87.42611</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031328</id>
+    <displayName>CENTERVILLE, AR US</displayName>
+    <minDate>2000-09-01</minDate>
+    <maxDate>2010-09-30</maxDate>
+    <latitude>35.1125</latitude>
+    <longitude>-93.16611</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.858</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131354</id>
+    <displayName>CENTERVILLE, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7363</latitude>
+    <longitude>-92.8691</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8645</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401582</id>
+    <displayName>CENTERVILLE, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1954-06-30</maxDate>
+    <latitude>35.78333</latitude>
+    <longitude>-87.46667</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411596</id>
+    <displayName>CENTERVILLE, TX US</displayName>
+    <minDate>1937-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.25806</latitude>
+    <longitude>-95.97444</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341644</id>
+    <displayName>CENTRAHOMA 1 E MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>34.60889</latitude>
+    <longitude>-96.33306</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341648</id>
+    <displayName>CENTRAHOMA 2 ESE, OK US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6008</latitude>
+    <longitude>-96.3131</longitude>
+    <elevation>216.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2446</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZGH0003</id>
+    <displayName>CENTRAL .5 NE, AZ US</displayName>
+    <minDate>2009-12-23</minDate>
+    <maxDate>2011-06-01</maxDate>
+    <latitude>32.8743</latitude>
+    <longitude>-109.7911</longitude>
+    <elevation>871.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAEB0031</id>
+    <displayName>CENTRAL 2.2 SE, LA US</displayName>
+    <minDate>2008-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5441</latitude>
+    <longitude>-91.005</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7525</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0009</id>
+    <displayName>CENTRAL 2.7 NNW, SC US</displayName>
+    <minDate>2009-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7602</latitude>
+    <longitude>-82.7964</longitude>
+    <elevation>266.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9162</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041630</id>
+    <displayName>CENTRAL CAMP, CA US</displayName>
+    <minDate>1923-12-01</minDate>
+    <maxDate>1958-12-10</maxDate>
+    <latitude>37.35</latitude>
+    <longitude>-119.48333</longitude>
+    <elevation>1634.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5804</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10merr015</id>
+    <displayName>CENTRAL CITY 1.0 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1146</latitude>
+    <longitude>-97.9952</longitude>
+    <elevation>519.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGL0002</id>
+    <displayName>CENTRAL CITY 1.7 N, CO US</displayName>
+    <minDate>2002-04-30</minDate>
+    <maxDate>2002-10-30</maxDate>
+    <latitude>39.8266</latitude>
+    <longitude>-105.5186</longitude>
+    <elevation>2702.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9728</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGL0001</id>
+    <displayName>CENTRAL CITY 3 NW, CO US</displayName>
+    <minDate>2002-05-02</minDate>
+    <maxDate>2003-08-13</maxDate>
+    <latitude>39.8309</latitude>
+    <longitude>-105.5535</longitude>
+    <elevation>2774</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2239</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10merr014</id>
+    <displayName>CENTRAL CITY 5.7 WSW, NE US</displayName>
+    <minDate>2007-05-30</minDate>
+    <maxDate>2011-10-06</maxDate>
+    <latitude>41.0758</latitude>
+    <longitude>-98.0985</longitude>
+    <elevation>531</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5248</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IALN0007</id>
+    <displayName>CENTRAL CITY 6.7 W, IA US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1983</latitude>
+    <longitude>-91.6543</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9273</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10merr006</id>
+    <displayName>CENTRAL CITY 6.8 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>41.2047</latitude>
+    <longitude>-97.9454</longitude>
+    <elevation>506.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9384</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00251562</id>
+    <displayName>CENTRAL CITY RIVER, NE US</displayName>
+    <minDate>1922-03-18</minDate>
+    <maxDate>1928-03-31</maxDate>
+    <latitude>41.083333</latitude>
+    <longitude>-98</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151439</id>
+    <displayName>CENTRAL CITY, KY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.28333</latitude>
+    <longitude>-87.11667</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00251560</id>
+    <displayName>CENTRAL CITY, NE US</displayName>
+    <minDate>1878-05-03</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.1155</latitude>
+    <longitude>-98.0063</longitude>
+    <elevation>516.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000FCEN</id>
+    <displayName>CENTRAL FLORIDA, FL US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>29.105</latitude>
+    <longitude>-81.63</longitude>
+    <elevation>18.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9138</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTHR0007</id>
+    <displayName>CENTRAL MANCHESTER 2.7 SW, CT US</displayName>
+    <minDate>2010-02-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7476</latitude>
+    <longitude>-72.5519</longitude>
+    <elevation>87.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00261630</id>
+    <displayName>CENTRAL NEVADA FIELD, NV US</displayName>
+    <minDate>1965-11-03</minDate>
+    <maxDate>1986-06-30</maxDate>
+    <latitude>39.38333</latitude>
+    <longitude>-117.31667</longitude>
+    <elevation>1813.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00501458</id>
+    <displayName>CENTRAL NUMBER 2, AK US</displayName>
+    <minDate>1905-05-14</minDate>
+    <maxDate>1954-05-31</maxDate>
+    <latitude>65.5667</latitude>
+    <longitude>-144.7653</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00501466</id>
+    <displayName>CENTRAL NUMBER 2, AK US</displayName>
+    <minDate>1962-08-01</minDate>
+    <maxDate>2011-06-02</maxDate>
+    <latitude>65.5667</latitude>
+    <longitude>-144.7653</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6552</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0008</id>
+    <displayName>CENTRAL POINT 10 N, OR US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4875</latitude>
+    <longitude>-122.9481</longitude>
+    <elevation>390.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9078</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0026</id>
+    <displayName>CENTRAL POINT 5.7 NW, OR US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>42.4334</latitude>
+    <longitude>-122.9869</longitude>
+    <elevation>431.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7077</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00351500</id>
+    <displayName>CENTRAL POINT, OR US</displayName>
+    <minDate>1913-03-01</minDate>
+    <maxDate>1921-08-31</maxDate>
+    <latitude>42.4</latitude>
+    <longitude>-122.866667</longitude>
+    <elevation>382.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461515</id>
+    <displayName>CENTRAL STATION, WV US</displayName>
+    <minDate>1892-06-01</minDate>
+    <maxDate>1916-10-31</maxDate>
+    <latitude>38.8</latitude>
+    <longitude>-80.366667</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7261</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211426</id>
+    <displayName>CENTRAL, MN US</displayName>
+    <minDate>1949-08-29</minDate>
+    <maxDate>1950-10-05</maxDate>
+    <latitude>48.7</latitude>
+    <longitude>-94.35</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5186</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00421367</id>
+    <displayName>CENTRAL, UT US</displayName>
+    <minDate>1940-09-08</minDate>
+    <maxDate>1942-04-30</maxDate>
+    <latitude>37.416667</latitude>
+    <longitude>-113.633333</longitude>
+    <elevation>1585</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6117</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WALW0016</id>
+    <displayName>CENTRALIA 0.5 ENE, WA US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2010-06-02</maxDate>
+    <latitude>46.7231</latitude>
+    <longitude>-122.9511</longitude>
+    <elevation>58.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBN0029</id>
+    <displayName>CENTRALIA 0.9 S, MO US</displayName>
+    <minDate>2007-02-28</minDate>
+    <maxDate>2010-10-04</maxDate>
+    <latitude>39.1992</latitude>
+    <longitude>-92.1314</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451277</id>
+    <displayName>CENTRALIA 1 W, WA US</displayName>
+    <minDate>1950-10-03</minDate>
+    <maxDate>1972-03-31</maxDate>
+    <latitude>46.7116</latitude>
+    <longitude>-122.9775</longitude>
+    <elevation>56.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.488</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMN0002</id>
+    <displayName>CENTRALIA 5.8 ESE, IL US</displayName>
+    <minDate>2010-02-13</minDate>
+    <maxDate>2011-11-29</maxDate>
+    <latitude>38.5005</latitude>
+    <longitude>-89.0236</longitude>
+    <elevation>162.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111386</id>
+    <displayName>CENTRALIA, IL US</displayName>
+    <minDate>1899-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5547</latitude>
+    <longitude>-89.1297</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6169</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141408</id>
+    <displayName>CENTRALIA, KS US</displayName>
+    <minDate>1909-04-01</minDate>
+    <maxDate>2011-04-22</maxDate>
+    <latitude>39.7241</latitude>
+    <longitude>-96.1258</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231482</id>
+    <displayName>CENTRALIA, MO US</displayName>
+    <minDate>1938-09-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.2105</latitude>
+    <longitude>-92.1341</longitude>
+    <elevation>270.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9142</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451276</id>
+    <displayName>CENTRALIA, WA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>46.72</latitude>
+    <longitude>-122.9527</longitude>
+    <elevation>56.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00471360</id>
+    <displayName>CENTRALIA, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1897-01-31</maxDate>
+    <latitude>44.35</latitude>
+    <longitude>-89.83333</longitude>
+    <elevation>273.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9263</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461526</id>
+    <displayName>CENTRALIA, WV US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>1993-08-31</maxDate>
+    <latitude>38.62306</latitude>
+    <longitude>-80.56639</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00011512</id>
+    <displayName>CENTRE 4 SW, AL US</displayName>
+    <minDate>1956-02-01</minDate>
+    <maxDate>1984-10-31</maxDate>
+    <latitude>34.11667</latitude>
+    <longitude>-85.73333</longitude>
+    <elevation>188.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361324</id>
+    <displayName>CENTRE HALL, PA US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>1942-02-28</maxDate>
+    <latitude>40.85</latitude>
+    <longitude>-77.683333</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00011490</id>
+    <displayName>CENTRE, AL US</displayName>
+    <minDate>2002-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.15</latitude>
+    <longitude>-85.6846</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9075</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFX0032</id>
+    <displayName>CENTREVILLE 1.0 W, VA US</displayName>
+    <minDate>2006-01-02</minDate>
+    <maxDate>2010-02-10</maxDate>
+    <latitude>38.8494</latitude>
+    <longitude>-77.4613</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1359</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSC0011</id>
+    <displayName>CENTREVILLE 1.9 E, IL US</displayName>
+    <minDate>2009-05-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5735</latitude>
+    <longitude>-90.066</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSC0008</id>
+    <displayName>CENTREVILLE 2.5 E, IL US</displayName>
+    <minDate>2007-05-17</minDate>
+    <maxDate>2011-06-27</maxDate>
+    <latitude>38.5716</latitude>
+    <longitude>-90.0552</longitude>
+    <elevation>178.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1084</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003881</id>
+    <displayName>CENTREVILLE WSMO, AL US</displayName>
+    <minDate>1974-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9</latitude>
+    <longitude>-87.25</longitude>
+    <elevation>138.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00011520</id>
+    <displayName>CENTREVILLE, AL US</displayName>
+    <minDate>1916-12-15</minDate>
+    <maxDate>1974-11-30</maxDate>
+    <latitude>32.95</latitude>
+    <longitude>-87.13333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9049</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00181627</id>
+    <displayName>CENTREVILLE, MD US</displayName>
+    <minDate>1953-02-01</minDate>
+    <maxDate>1985-09-30</maxDate>
+    <latitude>39.05</latitude>
+    <longitude>-76.06667</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9371</coverage>
+  </station>
+</stationCollection>

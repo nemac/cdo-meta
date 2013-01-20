@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="197">
+  <station>
+    <id>GHCND:USC00314260</id>
+    <displayName>HOT SPRINGS, NC US</displayName>
+    <minDate>1927-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.895</latitude>
+    <longitude>-82.83111</longitude>
+    <elevation>425.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6268</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263790</id>
+    <displayName>HOT SPRINGS, NV US</displayName>
+    <minDate>1890-08-09</minDate>
+    <maxDate>1902-03-31</maxDate>
+    <latitude>39.783333</latitude>
+    <longitude>-119.016667</longitude>
+    <elevation>1241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394007</id>
+    <displayName>HOT SPRINGS, SD US</displayName>
+    <minDate>1894-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.4377</latitude>
+    <longitude>-103.4738</longitude>
+    <elevation>1085.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414299</id>
+    <displayName>HOT SPRINGS, TX US</displayName>
+    <minDate>1939-03-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>29.18333</latitude>
+    <longitude>-103</longitude>
+    <elevation>670.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4072</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444128</id>
+    <displayName>HOT SPRINGS, VA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9969</latitude>
+    <longitude>-79.8316</longitude>
+    <elevation>681.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9558</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054129</id>
+    <displayName>HOT SULPHUR SPRINGS 2 SW, CO US</displayName>
+    <minDate>1941-12-01</minDate>
+    <maxDate>1981-06-30</maxDate>
+    <latitude>40.05</latitude>
+    <longitude>-106.15</longitude>
+    <elevation>2318</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.747</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0001</id>
+    <displayName>HOTCHKISS 1.8 NNE, CO US</displayName>
+    <minDate>2002-03-22</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.8232</latitude>
+    <longitude>-107.706</longitude>
+    <elevation>1759.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0016</id>
+    <displayName>HOTCHKISS 4.7 W, CO US</displayName>
+    <minDate>2006-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8128</latitude>
+    <longitude>-107.8031</longitude>
+    <elevation>1748</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8357</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0022</id>
+    <displayName>HOTCHKISS 5.1 WNW, CO US</displayName>
+    <minDate>2009-06-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8394</latitude>
+    <longitude>-107.7985</longitude>
+    <elevation>1923.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0026</id>
+    <displayName>HOTCHKISS 7.1 WNW, CO US</displayName>
+    <minDate>2010-08-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8578</latitude>
+    <longitude>-107.8283</longitude>
+    <elevation>2011.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0008</id>
+    <displayName>HOTCHKISS 9.0 WNW, CO US</displayName>
+    <minDate>2004-03-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8511</latitude>
+    <longitude>-107.8753</longitude>
+    <elevation>1897.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NHOT</id>
+    <displayName>HOTEL NORTH DAKOTA, ND US</displayName>
+    <minDate>2001-03-22</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.9667</latitude>
+    <longitude>-102.2167</longitude>
+    <elevation>578.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024228</id>
+    <displayName>HOUCK 2 W, AZ US</displayName>
+    <minDate>1957-06-12</minDate>
+    <maxDate>1957-11-30</maxDate>
+    <latitude>35.28333</latitude>
+    <longitude>-109.23333</longitude>
+    <elevation>1772.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9244</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIHG0001</id>
+    <displayName>HOUGHTON 1.6 ESE, MI US</displayName>
+    <minDate>2008-06-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.1077</latitude>
+    <longitude>-88.5294</longitude>
+    <elevation>190.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8698</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIRS0003</id>
+    <displayName>HOUGHTON LAKE 0.7 SSE, MI US</displayName>
+    <minDate>2009-03-18</minDate>
+    <maxDate>2012-04-26</maxDate>
+    <latitude>44.3033</latitude>
+    <longitude>-84.7597</longitude>
+    <elevation>367.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203930</id>
+    <displayName>HOUGHTON LAKE 2 NW, MI US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3122</latitude>
+    <longitude>-84.7747</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIRS0001</id>
+    <displayName>HOUGHTON LAKE 4.9 NE, MI US</displayName>
+    <minDate>2008-11-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3543</latitude>
+    <longitude>-84.6832</longitude>
+    <elevation>346.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8384</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203932</id>
+    <displayName>HOUGHTON LAKE 6 WSW, MI US</displayName>
+    <minDate>1912-12-03</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.3119</latitude>
+    <longitude>-84.8922</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094814</id>
+    <displayName>HOUGHTON LAKE ROSCOMMON CO AIRPORT, MI US</displayName>
+    <minDate>1964-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.3591</latitude>
+    <longitude>-84.6738</longitude>
+    <elevation>350.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203914</id>
+    <displayName>HOUGHTON MICH TECH, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1950-06-30</maxDate>
+    <latitude>47.11667</latitude>
+    <longitude>-88.56667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203917</id>
+    <displayName>HOUGHTON MTU, MI US</displayName>
+    <minDate>1993-11-01</minDate>
+    <maxDate>2003-08-31</maxDate>
+    <latitude>47.11667</latitude>
+    <longitude>-88.55</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00464309</id>
+    <displayName>HOULT LOCK 15, WV US</displayName>
+    <minDate>1921-09-01</minDate>
+    <maxDate>1967-08-31</maxDate>
+    <latitude>39.5</latitude>
+    <longitude>-80.13333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00173944</id>
+    <displayName>HOULTON 5 N, ME US</displayName>
+    <minDate>1985-06-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>46.2061</latitude>
+    <longitude>-67.8418</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014609</id>
+    <displayName>HOULTON INTERNATIONAL AIRPORT, ME US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.1236</latitude>
+    <longitude>-67.7928</longitude>
+    <elevation>145.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00173897</id>
+    <displayName>HOULTON, ME US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1985-04-30</maxDate>
+    <latitude>46.13333</latitude>
+    <longitude>-67.83333</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164410</id>
+    <displayName>HOUMA 2, LA US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>29.58333</latitude>
+    <longitude>-90.73333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012927</id>
+    <displayName>HOUMA TERREBONNE AIRPORT, LA US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1945-07-31</maxDate>
+    <latitude>29.56639</latitude>
+    <longitude>-90.66028</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164407</id>
+    <displayName>HOUMA, LA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6407</latitude>
+    <longitude>-90.816</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9221</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054135</id>
+    <displayName>HOURGLASS RESERVOIR, CO US</displayName>
+    <minDate>1988-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.583</latitude>
+    <longitude>-105.632</longitude>
+    <elevation>2901.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0015</id>
+    <displayName>HOUSE 0.1 S, NM US</displayName>
+    <minDate>2010-05-22</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>34.6465</latitude>
+    <longitude>-103.9031</longitude>
+    <elevation>1432.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0014</id>
+    <displayName>HOUSE 0.1 S, NM US</displayName>
+    <minDate>2010-05-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6459</latitude>
+    <longitude>-103.903</longitude>
+    <elevation>1432.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5118</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMQY0006</id>
+    <displayName>HOUSE 10.1 N, NM US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2012-04-05</maxDate>
+    <latitude>34.7945</latitude>
+    <longitude>-103.9115</longitude>
+    <elevation>1484.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024240</id>
+    <displayName>HOUSE ROCK, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1957-04-30</maxDate>
+    <latitude>36.73333</latitude>
+    <longitude>-112.05</longitude>
+    <elevation>1641</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4358</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294175</id>
+    <displayName>HOUSE, NM US</displayName>
+    <minDate>1940-10-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>34.6344</latitude>
+    <longitude>-103.8902</longitude>
+    <elevation>1470.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHOU</id>
+    <displayName>HOUSEROCK ARIZONA, AZ US</displayName>
+    <minDate>1994-09-26</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.5644</latitude>
+    <longitude>-111.9781</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9634</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0018</id>
+    <displayName>HOUSTON 0.3 ESE, MO US</displayName>
+    <minDate>2008-03-22</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>37.3203</latitude>
+    <longitude>-91.9551</longitude>
+    <elevation>354.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0791</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0008</id>
+    <displayName>HOUSTON 0.3 SE, MO US</displayName>
+    <minDate>2006-08-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3195</latitude>
+    <longitude>-91.9548</longitude>
+    <elevation>360.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9107</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSH0005</id>
+    <displayName>HOUSTON 0.5 SE, OH US</displayName>
+    <minDate>2009-04-09</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>40.2489</latitude>
+    <longitude>-84.3308</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234021</id>
+    <displayName>HOUSTON 1 SE, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.31667</latitude>
+    <longitude>-91.96667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSH0011</id>
+    <displayName>HOUSTON 1.3 NNE, OH US</displayName>
+    <minDate>2011-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2709</latitude>
+    <longitude>-84.3247</longitude>
+    <elevation>298.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR020</id>
+    <displayName>HOUSTON 1.4 NE, TX US</displayName>
+    <minDate>2008-03-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7845</latitude>
+    <longitude>-95.372</longitude>
+    <elevation>20.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR085</id>
+    <displayName>HOUSTON 11.8 WNW, TX US</displayName>
+    <minDate>2012-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.8066</latitude>
+    <longitude>-95.5607</longitude>
+    <elevation>29.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR034</id>
+    <displayName>HOUSTON 13.0 NE, TX US</displayName>
+    <minDate>2008-10-01</minDate>
+    <maxDate>2009-07-23</maxDate>
+    <latitude>29.8949</latitude>
+    <longitude>-95.2123</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR081</id>
+    <displayName>HOUSTON 16.4 NNW, TX US</displayName>
+    <minDate>2011-08-30</minDate>
+    <maxDate>2012-10-07</maxDate>
+    <latitude>29.9861</latitude>
+    <longitude>-95.4905</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234023</id>
+    <displayName>HOUSTON 2 W, MO US</displayName>
+    <minDate>1975-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.3344</latitude>
+    <longitude>-92.0058</longitude>
+    <elevation>327.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA215</id>
+    <displayName>HOUSTON 2.0 S, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.2942</latitude>
+    <longitude>-91.9646</longitude>
+    <elevation>363.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0016</id>
+    <displayName>HOUSTON 2.2 NNW, MO US</displayName>
+    <minDate>2007-03-28</minDate>
+    <maxDate>2008-04-03</maxDate>
+    <latitude>37.3528</latitude>
+    <longitude>-91.9731</longitude>
+    <elevation>367</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR018</id>
+    <displayName>HOUSTON 2.8 S, TX US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7276</latitude>
+    <longitude>-95.3846</longitude>
+    <elevation>14.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0019</id>
+    <displayName>HOUSTON 3.4 WNW, MO US</displayName>
+    <minDate>2008-04-19</minDate>
+    <maxDate>2012-09-01</maxDate>
+    <latitude>37.3481</latitude>
+    <longitude>-92.0119</longitude>
+    <elevation>369.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2323</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR069</id>
+    <displayName>HOUSTON 3.9 SE, TX US</displayName>
+    <minDate>2010-06-18</minDate>
+    <maxDate>2011-02-21</maxDate>
+    <latitude>29.7353</latitude>
+    <longitude>-95.3347</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0007</id>
+    <displayName>HOUSTON 4.5 ESE, MO US</displayName>
+    <minDate>2006-08-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2896</latitude>
+    <longitude>-91.8896</longitude>
+    <elevation>413.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0021</id>
+    <displayName>HOUSTON 4.5 WSW, MO US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2011-09-19</maxDate>
+    <latitude>37.29</latitude>
+    <longitude>-92.0296</longitude>
+    <elevation>385</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1073</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPY0002</id>
+    <displayName>HOUSTON 5.0 S, AR US</displayName>
+    <minDate>2012-06-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9631</latitude>
+    <longitude>-92.7072</longitude>
+    <elevation>94.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6079</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR002</id>
+    <displayName>HOUSTON 5.8 SE, TX US</displayName>
+    <minDate>2006-08-30</minDate>
+    <maxDate>2009-04-28</maxDate>
+    <latitude>29.7207</latitude>
+    <longitude>-95.3073</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPY0003</id>
+    <displayName>HOUSTON 6.2 SW, AR US</displayName>
+    <minDate>2012-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9619</latitude>
+    <longitude>-92.7579</longitude>
+    <elevation>93.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8493</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTX0012</id>
+    <displayName>HOUSTON 6.3 ESE, MO US</displayName>
+    <minDate>2006-08-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2915</latitude>
+    <longitude>-91.8515</longitude>
+    <elevation>402</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9267</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSCS0001</id>
+    <displayName>HOUSTON 6.7 SSE, MS US</displayName>
+    <minDate>2008-08-17</minDate>
+    <maxDate>2009-01-11</maxDate>
+    <latitude>33.8152</latitude>
+    <longitude>-88.9381</longitude>
+    <elevation>89</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR073</id>
+    <displayName>HOUSTON 9.9 SW, TX US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2011-11-16</maxDate>
+    <latitude>29.6784</latitude>
+    <longitude>-95.5163</longitude>
+    <elevation>19.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.76</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414309</id>
+    <displayName>HOUSTON ADDICKS, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-04-30</maxDate>
+    <latitude>29.76889</latitude>
+    <longitude>-95.64389</longitude>
+    <elevation>27.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7716</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414311</id>
+    <displayName>HOUSTON ALIEF, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1964-12-31</maxDate>
+    <latitude>29.71472</latitude>
+    <longitude>-95.59472</longitude>
+    <elevation>21.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414313</id>
+    <displayName>HOUSTON BARKER, TX US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.8142</latitude>
+    <longitude>-95.7276</longitude>
+    <elevation>38.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410520</id>
+    <displayName>HOUSTON BARKER, TX US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1948-05-31</maxDate>
+    <latitude>29.8142</latitude>
+    <longitude>-95.7276</longitude>
+    <elevation>38.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012975</id>
+    <displayName>HOUSTON CLOVER FIELD, TX US</displayName>
+    <minDate>1997-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>29.51889</latitude>
+    <longitude>-95.24167</longitude>
+    <elevation>13.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414315</id>
+    <displayName>HOUSTON DEER PARK, TX US</displayName>
+    <minDate>1945-08-01</minDate>
+    <maxDate>2011-03-27</maxDate>
+    <latitude>29.72833</latitude>
+    <longitude>-95.13056</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412348</id>
+    <displayName>HOUSTON DEER PARK, TX US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1948-05-31</maxDate>
+    <latitude>29.72833</latitude>
+    <longitude>-95.13056</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012906</id>
+    <displayName>HOUSTON ELLINGTON AFB, TX US</displayName>
+    <minDate>1950-01-09</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>29.61667</latitude>
+    <longitude>-95.16667</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414319</id>
+    <displayName>HOUSTON GOLF CREST, TX US</displayName>
+    <minDate>1948-06-09</minDate>
+    <maxDate>1950-05-01</maxDate>
+    <latitude>29.68333</latitude>
+    <longitude>-95.28333</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8439</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414321</id>
+    <displayName>HOUSTON HEIGHTS, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2012-02-19</maxDate>
+    <latitude>29.79139</latitude>
+    <longitude>-95.42611</longitude>
+    <elevation>19.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9096</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414310</id>
+    <displayName>HOUSTON HEIGHTS, TX US</displayName>
+    <minDate>1947-10-01</minDate>
+    <maxDate>1948-05-31</maxDate>
+    <latitude>29.79139</latitude>
+    <longitude>-95.42611</longitude>
+    <elevation>19.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053910</id>
+    <displayName>HOUSTON HOOKS MEMORIAL AIRPORT, TX US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.0675</latitude>
+    <longitude>-95.55611</longitude>
+    <elevation>46.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414430</id>
+    <displayName>HOUSTON INDEPENDENCE HEIGHTS, TX US</displayName>
+    <minDate>1947-10-01</minDate>
+    <maxDate>1948-05-31</maxDate>
+    <latitude>29.86667</latitude>
+    <longitude>-95.41667</longitude>
+    <elevation>28.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414323</id>
+    <displayName>HOUSTON INDEPENDENCE HEIGHTS, TX US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>1995-06-30</maxDate>
+    <latitude>29.86667</latitude>
+    <longitude>-95.41667</longitude>
+    <elevation>28.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012960</id>
+    <displayName>HOUSTON INTERCONTINENTAL AIRPORT, TX US</displayName>
+    <minDate>1969-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.98</latitude>
+    <longitude>-95.36</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414333</id>
+    <displayName>HOUSTON NATIONAL WEATHER SERVICE OFFICE, TX US</displayName>
+    <minDate>1905-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.4718</latitude>
+    <longitude>-95.0832</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2293</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414327</id>
+    <displayName>HOUSTON NORTH HOUSTON, TX US</displayName>
+    <minDate>1947-09-01</minDate>
+    <maxDate>2012-11-27</maxDate>
+    <latitude>29.8732</latitude>
+    <longitude>-95.5274</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414326</id>
+    <displayName>HOUSTON PORT, TX US</displayName>
+    <minDate>1991-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7456</latitude>
+    <longitude>-95.28</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9375</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414328</id>
+    <displayName>HOUSTON SAN JACINTO, TX US</displayName>
+    <minDate>1954-06-01</minDate>
+    <maxDate>1996-09-30</maxDate>
+    <latitude>29.91667</latitude>
+    <longitude>-95.15</longitude>
+    <elevation>17.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414329</id>
+    <displayName>HOUSTON SATSUMA, TX US</displayName>
+    <minDate>1923-03-01</minDate>
+    <maxDate>1964-12-31</maxDate>
+    <latitude>29.93333</latitude>
+    <longitude>-95.63333</longitude>
+    <elevation>37.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413043</id>
+    <displayName>HOUSTON SPRING BRCH, TX US</displayName>
+    <minDate>1947-09-01</minDate>
+    <maxDate>1948-05-31</maxDate>
+    <latitude>29.80417</latitude>
+    <longitude>-95.49139</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414317</id>
+    <displayName>HOUSTON SPRING BRCH, TX US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>1954-03-31</maxDate>
+    <latitude>29.80417</latitude>
+    <longitude>-95.49139</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9133</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414331</id>
+    <displayName>HOUSTON SPRING BRCH, TX US</displayName>
+    <minDate>1954-04-01</minDate>
+    <maxDate>2000-12-31</maxDate>
+    <latitude>29.80417</latitude>
+    <longitude>-95.49139</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9208</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012977</id>
+    <displayName>HOUSTON SUGARLAND MEM, TX US</displayName>
+    <minDate>2000-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>29.62222</latitude>
+    <longitude>-95.65639</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012945</id>
+    <displayName>HOUSTON WEATHER BUREAU CITY, TX US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>1990-08-31</maxDate>
+    <latitude>29.76667</latitude>
+    <longitude>-95.36667</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414325</id>
+    <displayName>HOUSTON WESTBURY, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.66</latitude>
+    <longitude>-95.6275</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012918</id>
+    <displayName>HOUSTON WILLIAM P HOBBY AIRPORT, TX US</displayName>
+    <minDate>1941-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.63806</latitude>
+    <longitude>-95.28194</longitude>
+    <elevation>13.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9584</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503731</id>
+    <displayName>HOUSTON, AK US</displayName>
+    <minDate>1984-11-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>61.6311</latitude>
+    <longitude>-149.8019</longitude>
+    <elevation>82.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234019</id>
+    <displayName>HOUSTON, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3187</latitude>
+    <longitude>-91.9626</longitude>
+    <elevation>385</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.705</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224265</id>
+    <displayName>HOUSTON, MS US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2008-08-31</maxDate>
+    <latitude>33.9279</latitude>
+    <longitude>-89.0083</longitude>
+    <elevation>83.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9145</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234031</id>
+    <displayName>HOUSTONIA, MO US</displayName>
+    <minDate>1894-07-01</minDate>
+    <maxDate>1901-02-28</maxDate>
+    <latitude>38.898906</latitude>
+    <longitude>-93.358265</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDWL0002</id>
+    <displayName>HOVEN 2.4 N, SD US</displayName>
+    <minDate>2007-06-02</minDate>
+    <maxDate>2012-11-06</maxDate>
+    <latitude>45.2771</latitude>
+    <longitude>-99.7744</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394025</id>
+    <displayName>HOVEN, SD US</displayName>
+    <minDate>2005-06-01</minDate>
+    <maxDate>2006-05-31</maxDate>
+    <latitude>45.24056</latitude>
+    <longitude>-99.77444</longitude>
+    <elevation>583.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424100</id>
+    <displayName>HOVENWEEP NATIONAL MONUMENT, UT US</displayName>
+    <minDate>1957-04-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3858</latitude>
+    <longitude>-109.075</longitude>
+    <elevation>1597.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414334</id>
+    <displayName>HOVEY NEAR, TX US</displayName>
+    <minDate>1923-03-01</minDate>
+    <maxDate>1931-12-31</maxDate>
+    <latitude>30.566667</latitude>
+    <longitude>-103.3</longitude>
+    <elevation>1143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213913</id>
+    <displayName>HOVLAND, MN US</displayName>
+    <minDate>1900-06-01</minDate>
+    <maxDate>1907-10-31</maxDate>
+    <latitude>47.833333</latitude>
+    <longitude>-90</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5947</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMN0004</id>
+    <displayName>HOWARD 0.1 WNW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>44.0126</latitude>
+    <longitude>-97.5253</longitude>
+    <elevation>480.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.236</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0032</id>
+    <displayName>HOWARD 1.6 S, CO US</displayName>
+    <minDate>2004-04-03</minDate>
+    <maxDate>2007-04-01</maxDate>
+    <latitude>38.4242</latitude>
+    <longitude>-105.8344</longitude>
+    <elevation>2129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6417</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0035</id>
+    <displayName>HOWARD 1.8 SSE, CO US</displayName>
+    <minDate>2004-06-11</minDate>
+    <maxDate>2005-08-22</maxDate>
+    <latitude>38.4248</latitude>
+    <longitude>-105.8193</longitude>
+    <elevation>2062.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5068</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMN0003</id>
+    <displayName>HOWARD 1.9 S, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>43.985</latitude>
+    <longitude>-97.5305</longitude>
+    <elevation>474.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2252</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMN0010</id>
+    <displayName>HOWARD 10.3 NNE, SD US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.1569</latitude>
+    <longitude>-97.471</longitude>
+    <elevation>522.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5633</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364099</id>
+    <displayName>HOWARD 4 SW, PA US</displayName>
+    <minDate>1950-11-01</minDate>
+    <maxDate>1953-06-30</maxDate>
+    <latitude>40.98333</latitude>
+    <longitude>-77.71667</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+</stationCollection>

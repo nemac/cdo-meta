@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="208">
+  <station>
+    <id>GHCND:USC00404590</id>
+    <displayName>JAMESTOWN, TN US</displayName>
+    <minDate>1951-10-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4256</latitude>
+    <longitude>-84.9414</longitude>
+    <elevation>515.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404587</id>
+    <displayName>JAMESTOWN, TN US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>36.43333</latitude>
+    <longitude>-84.93333</longitude>
+    <elevation>519.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9861</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMT0002</id>
+    <displayName>JAMESVILLE 1.5 SSE, NC US</displayName>
+    <minDate>2011-03-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.7919</latitude>
+    <longitude>-76.8896</longitude>
+    <elevation>13.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMT0007</id>
+    <displayName>JAMESVILLE 6.1 SW, NC US</displayName>
+    <minDate>2011-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7426</latitude>
+    <longitude>-76.9673</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.752</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0013</id>
+    <displayName>JAMUL 11.0 ESE, CA US</displayName>
+    <minDate>2008-11-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.6802</latitude>
+    <longitude>-116.7061</longitude>
+    <elevation>834.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVLW0002</id>
+    <displayName>JANE LEW 1.3 WSW, WV US</displayName>
+    <minDate>2012-02-22</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>39.1028</latitude>
+    <longitude>-80.4325</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5754</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00464559</id>
+    <displayName>JANE LEW, WV US</displayName>
+    <minDate>1923-08-01</minDate>
+    <maxDate>1976-06-30</maxDate>
+    <latitude>39.11667</latitude>
+    <longitude>-80.41667</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.921</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIRK0007</id>
+    <displayName>JANESVILLE 4.9 N, WI US</displayName>
+    <minDate>2010-07-05</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>42.7543</latitude>
+    <longitude>-89.0343</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4754</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114465</id>
+    <displayName>JANESVILLE, IL US</displayName>
+    <minDate>1944-10-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.36667</latitude>
+    <longitude>-88.25</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473979</id>
+    <displayName>JANESVILLE, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1987-02-28</maxDate>
+    <latitude>42.66667</latitude>
+    <longitude>-89.01667</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254210</id>
+    <displayName>JANSEN 3 NE, NE US</displayName>
+    <minDate>1995-06-01</minDate>
+    <maxDate>1999-06-30</maxDate>
+    <latitude>40.2</latitude>
+    <longitude>-97.03333</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253581</id>
+    <displayName>JANSEN 3 NE, NE US</displayName>
+    <minDate>1958-04-01</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>40.2</latitude>
+    <longitude>-97.03333</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10jeff023</id>
+    <displayName>JANSEN 4.3 NE, NE US</displayName>
+    <minDate>2007-04-15</minDate>
+    <maxDate>2007-10-16</maxDate>
+    <latitude>40.2335</latitude>
+    <longitude>-97.0303</longitude>
+    <elevation>431.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8541</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10jeff016</id>
+    <displayName>JANSEN 5.8 E, NE US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>40.1971</latitude>
+    <longitude>-96.9734</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144041</id>
+    <displayName>JAQUA, KS US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>1899-01-31</maxDate>
+    <latitude>39.6</latitude>
+    <longitude>-102.033333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4611</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264038</id>
+    <displayName>JARBIDGE 4 N, NV US</displayName>
+    <minDate>1916-11-01</minDate>
+    <maxDate>1995-06-30</maxDate>
+    <latitude>41.93333</latitude>
+    <longitude>-115.43333</longitude>
+    <elevation>1880.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264039</id>
+    <displayName>JARBIDGE 7 N, NV US</displayName>
+    <minDate>1995-07-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>41.9797</latitude>
+    <longitude>-115.4327</longitude>
+    <elevation>1844</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9808</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NJEF</id>
+    <displayName>JARBIDGE EAST FORK WQ NEVADA, NV US</displayName>
+    <minDate>2002-10-11</minDate>
+    <maxDate>2008-11-09</maxDate>
+    <latitude>41.9197</latitude>
+    <longitude>-115.3306</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NJWF</id>
+    <displayName>JARBIDGE WEST FORK WQ NEVADA, NV US</displayName>
+    <minDate>2002-10-11</minDate>
+    <maxDate>2008-12-03</maxDate>
+    <latitude>41.8975</latitude>
+    <longitude>-115.4267</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8722</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CJAR</id>
+    <displayName>JARBO GAP CALIFORNIA, CA US</displayName>
+    <minDate>2003-04-21</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>39.7358</latitude>
+    <longitude>-121.4889</longitude>
+    <elevation>759</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9284</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244462</id>
+    <displayName>JARDINE, MT US</displayName>
+    <minDate>1951-06-26</minDate>
+    <maxDate>1976-10-31</maxDate>
+    <latitude>45.06667</latitude>
+    <longitude>-110.63333</longitude>
+    <elevation>1966.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCS0005</id>
+    <displayName>JAROSO 0.4 ESE, CO US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2006-10-27</maxDate>
+    <latitude>36.9998</latitude>
+    <longitude>-105.6181</longitude>
+    <elevation>2314</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0923</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054346</id>
+    <displayName>JAROSO, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1949-02-28</maxDate>
+    <latitude>37</latitude>
+    <longitude>-105.63333</longitude>
+    <elevation>2308.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1981</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0021</id>
+    <displayName>JARRELL 0.3 S, TX US</displayName>
+    <minDate>2007-10-09</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.8201</latitude>
+    <longitude>-97.6059</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1453</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0113</id>
+    <displayName>JARRELL 4.4 W, TX US</displayName>
+    <minDate>2012-02-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8324</latitude>
+    <longitude>-97.6773</longitude>
+    <elevation>266.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8239</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414556</id>
+    <displayName>JARRELL, TX US</displayName>
+    <minDate>1926-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.8472</latitude>
+    <longitude>-97.5994</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9378</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDHR0012</id>
+    <displayName>JARRETTSVILLE 1.3 N, MD US</displayName>
+    <minDate>2007-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6226</latitude>
+    <longitude>-76.4702</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9022</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDHR0010</id>
+    <displayName>JARRETTSVILLE 4.8 N, MD US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2011-07-09</maxDate>
+    <latitude>39.6722</latitude>
+    <longitude>-76.4609</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0277</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424321</id>
+    <displayName>JARVIE RANCH, UT US</displayName>
+    <minDate>2002-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8991</latitude>
+    <longitude>-109.1788</longitude>
+    <elevation>1662.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9088</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124364</id>
+    <displayName>JASONVILLE 1 E, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1969-12-31</maxDate>
+    <latitude>39.16667</latitude>
+    <longitude>-87.18333</longitude>
+    <elevation>187.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8981</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCY0004</id>
+    <displayName>JASONVILLE 4.0 ENE, IN US</displayName>
+    <minDate>2008-06-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1814</latitude>
+    <longitude>-87.1291</longitude>
+    <elevation>157</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8705</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAPC0001</id>
+    <displayName>JASPER 0.6 ENE, GA US</displayName>
+    <minDate>2008-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4715</latitude>
+    <longitude>-84.4185</longitude>
+    <elevation>439.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8654</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDB0002</id>
+    <displayName>JASPER 0.7 N, IN US</displayName>
+    <minDate>2006-07-26</minDate>
+    <maxDate>2008-07-13</maxDate>
+    <latitude>38.4037</latitude>
+    <longitude>-86.9338</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9249</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094648</id>
+    <displayName>JASPER 1 NNW, GA US</displayName>
+    <minDate>1937-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.4758</latitude>
+    <longitude>-84.4461</longitude>
+    <elevation>446.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0003</id>
+    <displayName>JASPER 1.7 N, TN US</displayName>
+    <minDate>2007-08-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0841</latitude>
+    <longitude>-85.6289</longitude>
+    <elevation>199</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414564</id>
+    <displayName>JASPER 2 E, TX US</displayName>
+    <minDate>1948-12-15</minDate>
+    <maxDate>1952-11-30</maxDate>
+    <latitude>30.91667</latitude>
+    <longitude>-93.96667</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7249</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARNW0002</id>
+    <displayName>JASPER 2.1 NW, AR US</displayName>
+    <minDate>2010-03-22</minDate>
+    <maxDate>2011-07-25</maxDate>
+    <latitude>36.0282</latitude>
+    <longitude>-93.2148</longitude>
+    <elevation>497.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6497</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARNW0006</id>
+    <displayName>JASPER 2.7 WNW, AR US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.027</latitude>
+    <longitude>-93.23</longitude>
+    <elevation>619.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALWK0003</id>
+    <displayName>JASPER 2.8 SW, AL US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2012-09-15</maxDate>
+    <latitude>33.8201</latitude>
+    <longitude>-87.3006</longitude>
+    <elevation>135.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3128</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALWK0001</id>
+    <displayName>JASPER 3.8 NE, AL US</displayName>
+    <minDate>2007-10-17</minDate>
+    <maxDate>2010-05-21</maxDate>
+    <latitude>33.8977</latitude>
+    <longitude>-87.2328</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9346</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084393</id>
+    <displayName>JASPER 5 WNW, FL US</displayName>
+    <minDate>1898-01-01</minDate>
+    <maxDate>1952-09-30</maxDate>
+    <latitude>30.53333</latitude>
+    <longitude>-83.01667</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4811</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHM0001</id>
+    <displayName>JASPER 5.5 S, FL US</displayName>
+    <minDate>2008-01-19</minDate>
+    <maxDate>2010-03-08</maxDate>
+    <latitude>30.4387</latitude>
+    <longitude>-82.9442</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7244</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDB0006</id>
+    <displayName>JASPER 5.7 ESE, IN US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.3644</latitude>
+    <longitude>-86.8453</longitude>
+    <elevation>170.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXJS0002</id>
+    <displayName>JASPER 6.7 W, TX US</displayName>
+    <minDate>2007-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.903</latitude>
+    <longitude>-94.1065</longitude>
+    <elevation>81.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094653</id>
+    <displayName>JASPER 7 W, GA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-23</maxDate>
+    <latitude>34.48333</latitude>
+    <longitude>-84.5</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5883</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDB0007</id>
+    <displayName>JASPER 8.8 NW, IN US</displayName>
+    <minDate>2008-01-04</minDate>
+    <maxDate>2012-10-02</maxDate>
+    <latitude>38.4899</latitude>
+    <longitude>-87.0399</longitude>
+    <elevation>153.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014225</id>
+    <displayName>JASPER, AL US</displayName>
+    <minDate>1891-10-01</minDate>
+    <maxDate>1960-08-03</maxDate>
+    <latitude>33.83333</latitude>
+    <longitude>-87.28333</longitude>
+    <elevation>113.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1394</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014226</id>
+    <displayName>JASPER, AL US</displayName>
+    <minDate>1960-08-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.90472</latitude>
+    <longitude>-87.31528</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9149</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033600</id>
+    <displayName>JASPER, AR US</displayName>
+    <minDate>1948-02-05</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>36.0074</latitude>
+    <longitude>-93.1871</longitude>
+    <elevation>260.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084394</id>
+    <displayName>JASPER, FL US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5228</latitude>
+    <longitude>-82.9447</longitude>
+    <elevation>44.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124372</id>
+    <displayName>JASPER, IN US</displayName>
+    <minDate>1893-03-28</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.3856</latitude>
+    <longitude>-86.9406</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404596</id>
+    <displayName>JASPER, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1955-07-29</maxDate>
+    <latitude>35.06667</latitude>
+    <longitude>-85.61667</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414563</id>
+    <displayName>JASPER, TX US</displayName>
+    <minDate>1878-09-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.9152</latitude>
+    <longitude>-94.0097</longitude>
+    <elevation>88.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AJAT</id>
+    <displayName>JATAHMUND LAKE ALASKA, AK US</displayName>
+    <minDate>1990-07-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>62.6</latitude>
+    <longitude>-142.0833</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8371</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344564</id>
+    <displayName>JAY 1 NE, OK US</displayName>
+    <minDate>1940-09-01</minDate>
+    <maxDate>1978-09-30</maxDate>
+    <latitude>36.41667</latitude>
+    <longitude>-94.8</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9378</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CJAY</id>
+    <displayName>JAY COLORADO, CO US</displayName>
+    <minDate>1984-07-11</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.8417</latitude>
+    <longitude>-107.7361</longitude>
+    <elevation>1889.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9168</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00484920</id>
+    <displayName>JAY EM, WY US</displayName>
+    <minDate>1949-05-07</minDate>
+    <maxDate>1975-11-30</maxDate>
+    <latitude>42.46667</latitude>
+    <longitude>-104.36667</longitude>
+    <elevation>1406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9163</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00434189</id>
+    <displayName>JAY PEAK, VT US</displayName>
+    <minDate>1988-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.938</latitude>
+    <longitude>-72.5022</longitude>
+    <elevation>560.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344567</id>
+    <displayName>JAY TOWER, OK US</displayName>
+    <minDate>1979-08-01</minDate>
+    <maxDate>1997-04-30</maxDate>
+    <latitude>36.42361</latitude>
+    <longitude>-94.79667</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454010</id>
+    <displayName>JAY, WA US</displayName>
+    <minDate>1913-06-01</minDate>
+    <maxDate>1918-01-31</maxDate>
+    <latitude>48.233333</latitude>
+    <longitude>-119.916667</longitude>
+    <elevation>1158.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSPK0002</id>
+    <displayName>JAYESS 5.6 SW, MS US</displayName>
+    <minDate>2010-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.3006</latitude>
+    <longitude>-90.2616</longitude>
+    <elevation>131.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9511</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414570</id>
+    <displayName>JAYTON, TX US</displayName>
+    <minDate>1910-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2544</latitude>
+    <longitude>-100.5724</longitude>
+    <elevation>612.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.577</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00664911</id>
+    <displayName>JAYUYA 1 SE, PR US</displayName>
+    <minDate>1960-03-01</minDate>
+    <maxDate>1981-05-31</maxDate>
+    <latitude>18.2</latitude>
+    <longitude>-66.58333</longitude>
+    <elevation>530</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7863</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00664910</id>
+    <displayName>JAYUYA, PR US</displayName>
+    <minDate>1909-04-01</minDate>
+    <maxDate>2002-08-31</maxDate>
+    <latitude>18.215</latitude>
+    <longitude>-66.59306</longitude>
+    <elevation>469.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264040</id>
+    <displayName>JEAN, NV US</displayName>
+    <minDate>1907-05-25</minDate>
+    <maxDate>1915-08-31</maxDate>
+    <latitude>35.783333</latitude>
+    <longitude>-115.316667</longitude>
+    <elevation>872.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164674</id>
+    <displayName>JEANERETTE 5 NW, LA US</displayName>
+    <minDate>1892-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.9591</latitude>
+    <longitude>-91.7108</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404605</id>
+    <displayName>JEAROLDSTOWN, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.36667</latitude>
+    <longitude>-82.68333</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024438</id>
+    <displayName>JEDDITO, AZ US</displayName>
+    <minDate>1931-12-01</minDate>
+    <maxDate>1955-10-31</maxDate>
+    <latitude>35.76667</latitude>
+    <longitude>-110.13333</longitude>
+    <elevation>2044</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414575</id>
+    <displayName>JEDDO 3 S, TX US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.7663</latitude>
+    <longitude>-97.3163</longitude>
+    <elevation>126.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9769</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204184</id>
+    <displayName>JEDDO, MI US</displayName>
+    <minDate>1891-09-01</minDate>
+    <maxDate>1920-03-31</maxDate>
+    <latitude>43.13333</latitude>
+    <longitude>-82.56667</longitude>
+    <elevation>203.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAGN0002</id>
+    <displayName>JEFFERSON 0.2 WSW, IA US</displayName>
+    <minDate>2007-09-03</minDate>
+    <maxDate>2008-11-04</maxDate>
+    <latitude>42.0172</latitude>
+    <longitude>-94.3801</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0089</id>
+    <displayName>JEFFERSON 12.1 SE, CO US</displayName>
+    <minDate>2010-12-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.27</latitude>
+    <longitude>-105.62</longitude>
+    <elevation>2875.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6875</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0073</id>
+    <displayName>JEFFERSON 2.1 WNW, CO US</displayName>
+    <minDate>2004-11-28</minDate>
+    <maxDate>2008-02-29</maxDate>
+    <latitude>39.3862</latitude>
+    <longitude>-105.8391</longitude>
+    <elevation>3084</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3162</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0032</id>
+    <displayName>JEFFERSON 2.6 WNW, CO US</displayName>
+    <minDate>2003-11-07</minDate>
+    <maxDate>2005-05-03</maxDate>
+    <latitude>39.3906</latitude>
+    <longitude>-105.8474</longitude>
+    <elevation>3034.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6599</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MELN0003</id>
+    <displayName>JEFFERSON 4.4 NW, ME US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2011-04-06</maxDate>
+    <latitude>44.2493</latitude>
+    <longitude>-69.5171</longitude>
+    <elevation>78.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9007</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAJC0005</id>
+    <displayName>JEFFERSON 4.4 SW, GA US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2010-12-22</maxDate>
+    <latitude>34.0465</latitude>
+    <longitude>-83.5406</longitude>
+    <elevation>260.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274321</id>
+    <displayName>JEFFERSON 5 SSW, NH US</displayName>
+    <minDate>1967-08-18</minDate>
+    <maxDate>1976-10-31</maxDate>
+    <latitude>44.35</latitude>
+    <longitude>-71.51667</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9346</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORMN0021</id>
+    <displayName>JEFFERSON 5.2 NNW, OR US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7903</latitude>
+    <longitude>-123.0317</longitude>
+    <elevation>96.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6582</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234272</id>
+    <displayName>JEFFERSON BARRACKS, MO US</displayName>
+    <minDate>1942-02-20</minDate>
+    <maxDate>1946-10-31</maxDate>
+    <latitude>38.516667</latitude>
+    <longitude>-90.266667</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8018</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNJF0005</id>
+    <displayName>JEFFERSON CITY 0.9 SE, TN US</displayName>
+    <minDate>2009-07-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.111</latitude>
+    <longitude>-83.4738</longitude>
+    <elevation>370.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8684</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCE0009</id>
+    <displayName>JEFFERSON CITY 2.6 NW, MO US</displayName>
+    <minDate>2010-11-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6033</latitude>
+    <longitude>-92.2188</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8385</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA051</id>
+    <displayName>JEFFERSON CITY 3.0 ESE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.5598</latitude>
+    <longitude>-92.1376</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCE0010</id>
+    <displayName>JEFFERSON CITY 3.1 ESE, MO US</displayName>
+    <minDate>2011-09-01</minDate>
+    <maxDate>2012-10-16</maxDate>
+    <latitude>38.5531</latitude>
+    <longitude>-92.138</longitude>
+    <elevation>183.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCE0005</id>
+    <displayName>JEFFERSON CITY 3.1 W, MO US</displayName>
+    <minDate>2009-01-09</minDate>
+    <maxDate>2011-06-03</maxDate>
+    <latitude>38.5772</latitude>
+    <longitude>-92.247</longitude>
+    <elevation>236.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCE0007</id>
+    <displayName>JEFFERSON CITY 5.9 W, MO US</displayName>
+    <minDate>2009-12-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5589</latitude>
+    <longitude>-92.2976</longitude>
+    <elevation>225.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9042</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404609</id>
+    <displayName>JEFFERSON CITY EVAP, TN US</displayName>
+    <minDate>1910-04-01</minDate>
+    <maxDate>1981-08-31</maxDate>
+    <latitude>36.11667</latitude>
+    <longitude>-83.5</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003963</id>
+    <displayName>JEFFERSON CITY MEMORIAL AIRPORT, MO US</displayName>
+    <minDate>1997-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.59111</latitude>
+    <longitude>-92.15583</longitude>
+    <elevation>174.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234271</id>
+    <displayName>JEFFERSON CITY WATER PLANT, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5852</latitude>
+    <longitude>-92.1825</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234276</id>
+    <displayName>JEFFERSON CITY, MO US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>38.58694</latitude>
+    <longitude>-92.17972</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9308</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404613</id>
+    <displayName>JEFFERSON CITY, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>2010-07-29</maxDate>
+    <latitude>36.12222</latitude>
+    <longitude>-83.47389</longitude>
+    <elevation>337.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TJCT</id>
+    <displayName>JEFFERSON CO TOWER TENNESSEE, TN US</displayName>
+    <minDate>2003-10-29</minDate>
+    <maxDate>2010-07-09</maxDate>
+    <latitude>36.0703</latitude>
+    <longitude>-83.4886</longitude>
+    <elevation>533.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274340</id>
+    <displayName>JEFFERSON HIGHLANDS, NH US</displayName>
+    <minDate>1903-09-01</minDate>
+    <maxDate>1932-06-30</maxDate>
+    <latitude>44.366667</latitude>
+    <longitude>-71.366667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1148</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274318</id>
+    <displayName>JEFFERSON NUMBER 2, NH US</displayName>
+    <minDate>1996-01-01</minDate>
+    <maxDate>1996-06-30</maxDate>
+    <latitude>44.35</latitude>
+    <longitude>-71.5</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0018</id>
+    <displayName>JEFFERSON TWP 2.4 ENE, NJ US</displayName>
+    <minDate>2009-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0127</latitude>
+    <longitude>-74.5103</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9439</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474108</id>
+    <displayName>JEFFERSON WWTP, WI US</displayName>
+    <minDate>2004-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.9944</latitude>
+    <longitude>-88.8041</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134228</id>
+    <displayName>JEFFERSON, IA US</displayName>
+    <minDate>1893-01-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0347</latitude>
+    <longitude>-94.4113</longitude>
+    <elevation>321.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193931</id>
+    <displayName>JEFFERSON, MA US</displayName>
+    <minDate>1897-05-01</minDate>
+    <maxDate>1959-07-31</maxDate>
+    <latitude>42.36667</latitude>
+    <longitude>-71.9</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8162</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314496</id>
+    <displayName>JEFFERSON, NC US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4161</latitude>
+    <longitude>-81.4286</longitude>
+    <elevation>844.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8717</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274314</id>
+    <displayName>JEFFERSON, NH US</displayName>
+    <minDate>1940-10-01</minDate>
+    <maxDate>1961-05-31</maxDate>
+    <latitude>44.4</latitude>
+    <longitude>-71.45</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8676</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274329</id>
+    <displayName>JEFFERSON, NH US</displayName>
+    <minDate>1963-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.4169</latitude>
+    <longitude>-71.5008</longitude>
+    <elevation>376.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7221</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="86">
+  <station>
+    <id>GHCND:US1NMOT0024</id>
+    <displayName>CLOUDCROFT 0.5 NNW, NM US</displayName>
+    <minDate>2005-11-25</minDate>
+    <maxDate>2012-12-03</maxDate>
+    <latitude>32.9601</latitude>
+    <longitude>-105.7413</longitude>
+    <elevation>2694.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0001</id>
+    <displayName>CLOUDCROFT 1.8 SW, NM US</displayName>
+    <minDate>2005-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9319</latitude>
+    <longitude>-105.7602</longitude>
+    <elevation>2734.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9057</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0026</id>
+    <displayName>CLOUDCROFT 11.8 E, NM US</displayName>
+    <minDate>2006-03-12</minDate>
+    <maxDate>2009-09-18</maxDate>
+    <latitude>32.982</latitude>
+    <longitude>-105.5378</longitude>
+    <elevation>2286.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6193</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0017</id>
+    <displayName>CLOUDCROFT 16 ESE, NM US</displayName>
+    <minDate>2005-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8937</latitude>
+    <longitude>-105.4779</longitude>
+    <elevation>2005</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291929</id>
+    <displayName>CLOUDCROFT 2, NM US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1949-10-31</maxDate>
+    <latitude>32.95</latitude>
+    <longitude>-105.73333</longitude>
+    <elevation>2653.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.529</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0056</id>
+    <displayName>CLOUDCROFT 2.3 S, NM US</displayName>
+    <minDate>2007-11-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9204</latitude>
+    <longitude>-105.747</longitude>
+    <elevation>2658.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8049</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0038</id>
+    <displayName>CLOUDCROFT 3.8 S, NM US</displayName>
+    <minDate>2006-09-09</minDate>
+    <maxDate>2008-12-09</maxDate>
+    <latitude>32.8973</latitude>
+    <longitude>-105.7389</longitude>
+    <elevation>2657.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0027</id>
+    <displayName>CLOUDCROFT 4.0 E, NM US</displayName>
+    <minDate>2006-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9465</latitude>
+    <longitude>-105.6714</longitude>
+    <elevation>2688.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0035</id>
+    <displayName>CLOUDCROFT 4.9 NE, NM US</displayName>
+    <minDate>2006-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9957</latitude>
+    <longitude>-105.6719</longitude>
+    <elevation>2538.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4184</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0013</id>
+    <displayName>CLOUDCROFT 5.4 W, NM US</displayName>
+    <minDate>2005-06-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9514</latitude>
+    <longitude>-105.8336</longitude>
+    <elevation>2012</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0052</id>
+    <displayName>CLOUDCROFT 5.8 WSW, NM US</displayName>
+    <minDate>2008-07-08</minDate>
+    <maxDate>2011-11-26</maxDate>
+    <latitude>32.9363</latitude>
+    <longitude>-105.8375</longitude>
+    <elevation>2118.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.118</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291931</id>
+    <displayName>CLOUDCROFT, NM US</displayName>
+    <minDate>1987-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.9544</latitude>
+    <longitude>-105.7352</longitude>
+    <elevation>2645.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9814</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291927</id>
+    <displayName>CLOUDCROFT, NM US</displayName>
+    <minDate>1901-12-01</minDate>
+    <maxDate>1987-06-30</maxDate>
+    <latitude>32.96667</latitude>
+    <longitude>-105.75</longitude>
+    <elevation>2688.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411843</id>
+    <displayName>CLOUDT RANCH, TX US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1964-08-31</maxDate>
+    <latitude>30.18333</latitude>
+    <longitude>-100.36667</longitude>
+    <elevation>686.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7443</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341936</id>
+    <displayName>CLOUDY TOWER, OK US</displayName>
+    <minDate>1938-11-01</minDate>
+    <maxDate>1973-02-28</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-95.25</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7611</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0016</id>
+    <displayName>CLOVER 2.7 ESE, SC US</displayName>
+    <minDate>2012-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0971</latitude>
+    <longitude>-81.1824</longitude>
+    <elevation>238.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAHL0001</id>
+    <displayName>CLOVER 3.1 NNE, VA US</displayName>
+    <minDate>2011-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>36.8717</latitude>
+    <longitude>-78.7027</longitude>
+    <elevation>111.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5583</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0002</id>
+    <displayName>CLOVER 3.4 SW, SC US</displayName>
+    <minDate>2008-02-24</minDate>
+    <maxDate>2012-10-08</maxDate>
+    <latitude>35.0798</latitude>
+    <longitude>-81.2733</longitude>
+    <elevation>235.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1456</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011D08S</id>
+    <displayName>CLOVER MEADOW, MT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.0167</latitude>
+    <longitude>-111.85</longitude>
+    <elevation>2682.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8663</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0014H01S</id>
+    <displayName>CLOVER VALLEY, NV US</displayName>
+    <minDate>1987-10-01</minDate>
+    <maxDate>1998-10-18</maxDate>
+    <latitude>40.9667</latitude>
+    <longitude>-114.9667</longitude>
+    <elevation>1722.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00261740</id>
+    <displayName>CLOVER VALLEY, NV US</displayName>
+    <minDate>1896-10-01</minDate>
+    <maxDate>2011-10-04</maxDate>
+    <latitude>40.8796</latitude>
+    <longitude>-114.9697</longitude>
+    <elevation>1730</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6056</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASN0078</id>
+    <displayName>CLOVERDALE 0.6 W, CA US</displayName>
+    <minDate>2009-03-15</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>38.799</latitude>
+    <longitude>-123.0277</longitude>
+    <elevation>116.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4034</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASN0022</id>
+    <displayName>CLOVERDALE 0.8 SSW, CA US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2011-11-04</maxDate>
+    <latitude>38.7893</latitude>
+    <longitude>-123.022</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8188</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASN0065</id>
+    <displayName>CLOVERDALE 0.9 S, CA US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2011-07-17</maxDate>
+    <latitude>38.7861</latitude>
+    <longitude>-123.0174</longitude>
+    <elevation>105.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041837</id>
+    <displayName>CLOVERDALE 1 S, CA US</displayName>
+    <minDate>1893-01-13</minDate>
+    <maxDate>1955-10-31</maxDate>
+    <latitude>38.78833</latitude>
+    <longitude>-123.01806</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8243</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041840</id>
+    <displayName>CLOVERDALE 11 W, CA US</displayName>
+    <minDate>1939-11-26</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.76667</latitude>
+    <longitude>-123.21667</longitude>
+    <elevation>555</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3231</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASN0029</id>
+    <displayName>CLOVERDALE 3.2 ESE, CA US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.781</latitude>
+    <longitude>-122.963</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00121647</id>
+    <displayName>CLOVERDALE 4 WNW, IN US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2006-12-01</maxDate>
+    <latitude>39.5386</latitude>
+    <longitude>-86.8522</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291935</id>
+    <displayName>CLOVERDALE 4 WNW, NM US</displayName>
+    <minDate>1922-03-01</minDate>
+    <maxDate>1932-07-31</maxDate>
+    <latitude>31.43333</latitude>
+    <longitude>-108.98333</longitude>
+    <elevation>1621.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0009</id>
+    <displayName>CLOVERDALE 6.6 WSW, AL US</displayName>
+    <minDate>2007-10-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9129</latitude>
+    <longitude>-87.8829</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9538</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041838</id>
+    <displayName>CLOVERDALE, CA US</displayName>
+    <minDate>1950-07-22</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.8</latitude>
+    <longitude>-123.0175</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8536</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00351682</id>
+    <displayName>CLOVERDALE, OR US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.205</latitude>
+    <longitude>-123.8925</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151651</id>
+    <displayName>CLOVERPORT, KY US</displayName>
+    <minDate>1913-12-01</minDate>
+    <maxDate>1928-03-31</maxDate>
+    <latitude>37.83333</latitude>
+    <longitude>-86.63333</longitude>
+    <elevation>128.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291963</id>
+    <displayName>CLOVIS 13 N, NM US</displayName>
+    <minDate>1949-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5988</latitude>
+    <longitude>-103.2161</longitude>
+    <elevation>1351.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMCR0005</id>
+    <displayName>CLOVIS 13.1 N, NM US</displayName>
+    <minDate>2007-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6</latitude>
+    <longitude>-103.22</longitude>
+    <elevation>1367.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAFR0002</id>
+    <displayName>CLOVIS 2.9 N, CA US</displayName>
+    <minDate>2008-09-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8611</latitude>
+    <longitude>-119.6931</longitude>
+    <elevation>116.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291956</id>
+    <displayName>CLOVIS 3 W, NM US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1949-03-14</maxDate>
+    <latitude>34.41667</latitude>
+    <longitude>-103.23333</longitude>
+    <elevation>1302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8432</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291961</id>
+    <displayName>CLOVIS 6 SW, NM US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1949-03-17</maxDate>
+    <latitude>34.35</latitude>
+    <longitude>-103.31667</longitude>
+    <elevation>1293</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8724</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMCR0013</id>
+    <displayName>CLOVIS 6.5 WNW, NM US</displayName>
+    <minDate>2012-03-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.4352</latitude>
+    <longitude>-103.3124</longitude>
+    <elevation>1333.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.96</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMCR0006</id>
+    <displayName>CLOVIS 6.6 SE, NM US</displayName>
+    <minDate>2008-07-03</minDate>
+    <maxDate>2012-06-13</maxDate>
+    <latitude>34.3328</latitude>
+    <longitude>-103.1352</longitude>
+    <elevation>1271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053008</id>
+    <displayName>CLOVIS 7 N, NM US</displayName>
+    <minDate>2009-12-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.5119</latitude>
+    <longitude>-103.1744</longitude>
+    <elevation>1315.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291950</id>
+    <displayName>CLOVIS 8 NW, NM US</displayName>
+    <minDate>1942-10-01</minDate>
+    <maxDate>1949-01-02</maxDate>
+    <latitude>34.48333</latitude>
+    <longitude>-103.31667</longitude>
+    <elevation>1335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3513</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023008</id>
+    <displayName>CLOVIS CANNON AFB, NM US</displayName>
+    <minDate>1951-12-08</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-103.31667</longitude>
+    <elevation>1309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291939</id>
+    <displayName>CLOVIS, NM US</displayName>
+    <minDate>1910-11-24</minDate>
+    <maxDate>2011-10-19</maxDate>
+    <latitude>34.4288</latitude>
+    <longitude>-103.1991</longitude>
+    <elevation>1309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131704</id>
+    <displayName>CLUTIER, IA US</displayName>
+    <minDate>1973-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.08</latitude>
+    <longitude>-92.405</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHW0034</id>
+    <displayName>CLYDE 0.4 NNE, NC US</displayName>
+    <minDate>2012-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5386</latitude>
+    <longitude>-82.9097</longitude>
+    <elevation>792.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8009</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHW0016</id>
+    <displayName>CLYDE 0.6 SSE, NC US</displayName>
+    <minDate>2008-01-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5261</latitude>
+    <longitude>-82.9073</longitude>
+    <elevation>779.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8717</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSD0003</id>
+    <displayName>CLYDE 0.7 N, OH US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-08-20</maxDate>
+    <latitude>41.3148</latitude>
+    <longitude>-82.9761</longitude>
+    <elevation>197.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9476</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHW0021</id>
+    <displayName>CLYDE 0.9 SW, NC US</displayName>
+    <minDate>2008-04-25</minDate>
+    <maxDate>2010-10-14</maxDate>
+    <latitude>35.5235</latitude>
+    <longitude>-82.9215</longitude>
+    <elevation>805.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8361</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHW0012</id>
+    <displayName>CLYDE 1.5 SW, NC US</displayName>
+    <minDate>2007-12-02</minDate>
+    <maxDate>2012-06-06</maxDate>
+    <latitude>35.5193</latitude>
+    <longitude>-82.933</longitude>
+    <elevation>837.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9673</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSD0007</id>
+    <displayName>CLYDE 1.8 WSW, OH US</displayName>
+    <minDate>2012-04-29</minDate>
+    <maxDate>2012-09-15</maxDate>
+    <latitude>41.2924</latitude>
+    <longitude>-83.0078</longitude>
+    <elevation>209.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8214</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHW0013</id>
+    <displayName>CLYDE 2.4 NNW, NC US</displayName>
+    <minDate>2007-12-07</minDate>
+    <maxDate>2012-01-21</maxDate>
+    <latitude>35.5635</latitude>
+    <longitude>-82.9337</longitude>
+    <elevation>849.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHW0023</id>
+    <displayName>CLYDE 2.6 W, NC US</displayName>
+    <minDate>2008-09-03</minDate>
+    <maxDate>2011-01-07</maxDate>
+    <latitude>35.5284</latitude>
+    <longitude>-82.9578</longitude>
+    <elevation>785.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHW0032</id>
+    <displayName>CLYDE 9.5 N, NC US</displayName>
+    <minDate>2012-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6697</latitude>
+    <longitude>-82.9349</longitude>
+    <elevation>847</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301580</id>
+    <displayName>CLYDE LOCK 26, NY US</displayName>
+    <minDate>1932-01-02</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>43.059</latitude>
+    <longitude>-76.8385</longitude>
+    <elevation>119.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9513</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241842</id>
+    <displayName>CLYDE PARK 2 SE, MT US</displayName>
+    <minDate>1910-07-01</minDate>
+    <maxDate>1959-10-31</maxDate>
+    <latitude>45.85</latitude>
+    <longitude>-110.58333</longitude>
+    <elevation>1442.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3104</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241840</id>
+    <displayName>CLYDE PARK, MT US</displayName>
+    <minDate>2001-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.89</latitude>
+    <longitude>-110.5988</longitude>
+    <elevation>1490.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141635</id>
+    <displayName>CLYDE RIVER, KS US</displayName>
+    <minDate>1918-05-01</minDate>
+    <maxDate>1930-03-31</maxDate>
+    <latitude>39.583333</latitude>
+    <longitude>-96.4</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9407</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141632</id>
+    <displayName>CLYDE, KS US</displayName>
+    <minDate>1984-01-01</minDate>
+    <maxDate>2011-11-28</maxDate>
+    <latitude>39.6</latitude>
+    <longitude>-97.40028</longitude>
+    <elevation>395</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1316</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00471681</id>
+    <displayName>CLYMAN, WI US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>43.3125</latitude>
+    <longitude>-88.7197</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361563</id>
+    <displayName>CLYMER, PA US</displayName>
+    <minDate>1921-05-01</minDate>
+    <maxDate>1935-01-31</maxDate>
+    <latitude>40.666667</latitude>
+    <longitude>-79.033333</longitude>
+    <elevation>402.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092055</id>
+    <displayName>CLYO, SC US</displayName>
+    <minDate>1978-07-01</minDate>
+    <maxDate>2003-07-31</maxDate>
+    <latitude>32.53333</latitude>
+    <longitude>-81.26667</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6297</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCOU</id>
+    <displayName>CO LINE CALIFORNIA, CA US</displayName>
+    <minDate>1994-10-31</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>39.0189</latitude>
+    <longitude>-122.4119</longitude>
+    <elevation>635.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9515</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00342169</id>
+    <displayName>CO LINE, OK US</displayName>
+    <minDate>1940-01-20</minDate>
+    <maxDate>1947-12-26</maxDate>
+    <latitude>34.45</latitude>
+    <longitude>-97.566667</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0018D08S</id>
+    <displayName>CO LINE, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.1833</latitude>
+    <longitude>-118.5333</longitude>
+    <elevation>1463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9282</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILGY0004</id>
+    <displayName>COAL CITY 0.4 N, IL US</displayName>
+    <minDate>2008-10-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2947</latitude>
+    <longitude>-88.2778</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051681</id>
+    <displayName>COAL CREEK CANYON, CO US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.8958</latitude>
+    <longitude>-105.3847</longitude>
+    <elevation>2728</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031508</id>
+    <displayName>COAL HILL, AR US</displayName>
+    <minDate>1998-03-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.4363</latitude>
+    <longitude>-93.6716</longitude>
+    <elevation>142</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9713</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILHY0005</id>
+    <displayName>COAL VALLEY 1.9 SE, IL US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4334</latitude>
+    <longitude>-90.4175</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051693</id>
+    <displayName>COALDALE 1 NW, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.38333</latitude>
+    <longitude>-105.78333</longitude>
+    <elevation>1988.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACB0011</id>
+    <displayName>COALDALE 1.5 N, PA US</displayName>
+    <minDate>2006-06-07</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>40.8444</latitude>
+    <longitude>-75.9157</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9012</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051698</id>
+    <displayName>COALDALE 2 SW, CO US</displayName>
+    <minDate>1963-10-01</minDate>
+    <maxDate>1964-11-30</maxDate>
+    <latitude>38.35</latitude>
+    <longitude>-105.78333</longitude>
+    <elevation>2104.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00261755</id>
+    <displayName>COALDALE JUNCTION, NV US</displayName>
+    <minDate>1941-10-01</minDate>
+    <maxDate>1970-01-13</maxDate>
+    <latitude>38.05</latitude>
+    <longitude>-117.9</longitude>
+    <elevation>1403</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5278</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341954</id>
+    <displayName>COALGATE 1 WNW, OK US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>1982-05-31</maxDate>
+    <latitude>34.55</latitude>
+    <longitude>-96.23333</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5649</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041867</id>
+    <displayName>COALINGA 1 SE, CA US</displayName>
+    <minDate>1911-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.13333</latitude>
+    <longitude>-120.35</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8134</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041869</id>
+    <displayName>COALINGA 14 WNW, CA US</displayName>
+    <minDate>1950-01-01</minDate>
+    <maxDate>1973-05-31</maxDate>
+    <latitude>36.23333</latitude>
+    <longitude>-120.56667</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041864</id>
+    <displayName>COALINGA, CA US</displayName>
+    <minDate>1942-01-02</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>36.1356</latitude>
+    <longitude>-120.3606</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9731</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJK0024</id>
+    <displayName>COALMONT 9.3 SSE, CO US</displayName>
+    <minDate>2009-09-19</minDate>
+    <maxDate>2012-10-10</maxDate>
+    <latitude>40.4418</latitude>
+    <longitude>-106.3748</longitude>
+    <elevation>2711.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3238</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJK0017</id>
+    <displayName>COALMONT 9.3 WNW, CO US</displayName>
+    <minDate>2006-05-02</minDate>
+    <maxDate>2009-08-15</maxDate>
+    <latitude>40.631</latitude>
+    <longitude>-106.5884</longitude>
+    <elevation>2596.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.287</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401887</id>
+    <displayName>COALMONT, TN US</displayName>
+    <minDate>1999-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3684</latitude>
+    <longitude>-85.7014</longitude>
+    <elevation>565.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361583</id>
+    <displayName>COALPORT 1 NW, PA US</displayName>
+    <minDate>2002-01-01</minDate>
+    <maxDate>2002-12-31</maxDate>
+    <latitude>40.75694</latitude>
+    <longitude>-78.54889</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361581</id>
+    <displayName>COALPORT, PA US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>1949-11-11</maxDate>
+    <latitude>40.75</latitude>
+    <longitude>-78.53333</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00421590</id>
+    <displayName>COALVILLE 13 E, UT US</displayName>
+    <minDate>1974-10-11</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.9383</latitude>
+    <longitude>-111.1472</longitude>
+    <elevation>1984.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024120</id>
+    <displayName>COALVILLE, UT US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>2012-05-31</maxDate>
+    <latitude>40.9138</latitude>
+    <longitude>-111.3983</longitude>
+    <elevation>1691.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6648</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461798</id>
+    <displayName>COALWOOD, WV US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>37.38333</latitude>
+    <longitude>-81.65</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00662723</id>
+    <displayName>COAMO 2 SW, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>2003-12-31</maxDate>
+    <latitude>18.06639</latitude>
+    <longitude>-66.37806</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041878</id>
+    <displayName>COARSEGOLD 1 SW, CA US</displayName>
+    <minDate>1977-08-01</minDate>
+    <maxDate>2007-12-31</maxDate>
+    <latitude>37.25028</latitude>
+    <longitude>-119.70528</longitude>
+    <elevation>679.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041879</id>
+    <displayName>COARSEGOLD 4 SE, CA US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.21194</latitude>
+    <longitude>-119.69</longitude>
+    <elevation>676</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411860</id>
+    <displayName>COATES RANCH, TX US</displayName>
+    <minDate>1931-04-01</minDate>
+    <maxDate>1934-06-30</maxDate>
+    <latitude>30.7</latitude>
+    <longitude>-102.416667</longitude>
+    <elevation>914.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4406</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361589</id>
+    <displayName>COATESVILLE 1 SW, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1982-11-30</maxDate>
+    <latitude>39.96667</latitude>
+    <longitude>-75.83333</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361591</id>
+    <displayName>COATESVILLE 2 W, PA US</displayName>
+    <minDate>1983-03-01</minDate>
+    <maxDate>2007-12-31</maxDate>
+    <latitude>39.9847</latitude>
+    <longitude>-75.86</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361594</id>
+    <displayName>COATESVILLE, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1955-11-30</maxDate>
+    <latitude>39.98333</latitude>
+    <longitude>-75.81667</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHR0002</id>
+    <displayName>COATS 0.7 W, NC US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4049</latitude>
+    <longitude>-78.681</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9574</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0014</id>
+    <displayName>COATS 1.7 SW, KS US</displayName>
+    <minDate>2011-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.494</latitude>
+    <longitude>-98.8481</longitude>
+    <elevation>598.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9157</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0011</id>
+    <displayName>COATS 3.3 NNE, KS US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>37.5576</latitude>
+    <longitude>-98.8117</longitude>
+    <elevation>611.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0744</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBA0006</id>
+    <displayName>COATS 6.6 WSW, KS US</displayName>
+    <minDate>2006-08-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.4666</latitude>
+    <longitude>-98.9309</longitude>
+    <elevation>577.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111767</id>
+    <displayName>COATSBURG, IL US</displayName>
+    <minDate>1895-06-17</minDate>
+    <maxDate>1913-02-28</maxDate>
+    <latitude>40.01667</latitude>
+    <longitude>-91.16667</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9502</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101938</id>
+    <displayName>COBALT BLACKBIRD MIN, ID US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>1960-04-30</maxDate>
+    <latitude>45.11667</latitude>
+    <longitude>-114.35</longitude>
+    <elevation>2076.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103289</id>
+    <displayName>COBALT BLACKBIRD MIN, ID US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>45.11667</latitude>
+    <longitude>-114.35</longitude>
+    <elevation>2076.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101932</id>
+    <displayName>COBALT, ID US</displayName>
+    <minDate>1961-10-13</minDate>
+    <maxDate>1986-08-31</maxDate>
+    <latitude>45.08333</latitude>
+    <longitude>-114.23333</longitude>
+    <elevation>1526.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9144</coverage>
+  </station>
+</stationCollection>

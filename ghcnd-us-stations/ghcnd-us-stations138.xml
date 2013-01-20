@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="138">
+  <station>
+    <id>GHCND:USC00422700</id>
+    <displayName>FAIRVIEW, UT US</displayName>
+    <minDate>1985-01-01</minDate>
+    <maxDate>1997-02-07</maxDate>
+    <latitude>39.61667</latitude>
+    <longitude>-111.43333</longitude>
+    <elevation>1816.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0437</id>
+    <displayName>FAIRWAY ESTATES, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.5197</latitude>
+    <longitude>-105.0694</longitude>
+    <elevation>1530.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4861</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASP0012</id>
+    <displayName>FAIRWOOD 1.1 ENE, WA US</displayName>
+    <minDate>2008-06-25</minDate>
+    <maxDate>2009-11-03</maxDate>
+    <latitude>47.7701</latitude>
+    <longitude>-117.394</longitude>
+    <elevation>552.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103113</id>
+    <displayName>FAIRYLAWN, ID US</displayName>
+    <minDate>1954-12-17</minDate>
+    <maxDate>1958-07-31</maxDate>
+    <latitude>42.55</latitude>
+    <longitude>-116.96667</longitude>
+    <elevation>1495</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00312971</id>
+    <displayName>FAISON, NC US</displayName>
+    <minDate>1954-02-16</minDate>
+    <maxDate>1970-11-15</maxDate>
+    <latitude>35.1</latitude>
+    <longitude>-78.15</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0010</id>
+    <displayName>FAITH 14.3 S, SD US</displayName>
+    <minDate>2007-07-23</minDate>
+    <maxDate>2011-09-19</maxDate>
+    <latitude>44.8196</latitude>
+    <longitude>-102.044</longitude>
+    <elevation>704.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2039</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0028</id>
+    <displayName>FAITH 20.5 NW, SD US</displayName>
+    <minDate>2012-03-31</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>45.2483</latitude>
+    <longitude>-102.3166</longitude>
+    <elevation>723.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0011</id>
+    <displayName>FAITH 22.7 WSW, SD US</displayName>
+    <minDate>2007-07-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8754</latitude>
+    <longitude>-102.4487</longitude>
+    <elevation>801</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9428</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPK0010</id>
+    <displayName>FAITH 29.5 N, SD US</displayName>
+    <minDate>2007-08-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.4521</latitude>
+    <longitude>-102.0661</longitude>
+    <elevation>779.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1423</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0009</id>
+    <displayName>FAITH 36.3 W, SD US</displayName>
+    <minDate>2007-07-07</minDate>
+    <maxDate>2012-12-11</maxDate>
+    <latitude>44.925</latitude>
+    <longitude>-102.7628</longitude>
+    <elevation>800.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094056</id>
+    <displayName>FAITH MUNICIPAL AIRPORT, SD US</displayName>
+    <minDate>1998-05-21</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.03194</latitude>
+    <longitude>-102.01917</longitude>
+    <elevation>786.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392852</id>
+    <displayName>FAITH, SD US</displayName>
+    <minDate>1913-04-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>45.0203</latitude>
+    <longitude>-102.0367</longitude>
+    <elevation>790</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8444</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00663657</id>
+    <displayName>FAJARDO, PR US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1996-01-31</maxDate>
+    <latitude>18.3102</latitude>
+    <longitude>-65.663</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012832</id>
+    <displayName>FALCO OPEN POND TOWER, AL US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>1964-07-31</maxDate>
+    <latitude>31.1</latitude>
+    <longitude>-86.55</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8317</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0121</id>
+    <displayName>FALCON 1.6 NNE, CO US</displayName>
+    <minDate>2003-11-11</minDate>
+    <maxDate>2004-10-01</maxDate>
+    <latitude>38.9501</latitude>
+    <longitude>-104.6038</longitude>
+    <elevation>2115</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.635</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0018</id>
+    <displayName>FALCON 1.7 ESE, CO US</displayName>
+    <minDate>2004-04-22</minDate>
+    <maxDate>2005-06-21</maxDate>
+    <latitude>38.9247</latitude>
+    <longitude>-104.5781</longitude>
+    <elevation>2065.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6784</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0095</id>
+    <displayName>FALCON 2.0 NNE, CO US</displayName>
+    <minDate>2003-06-16</minDate>
+    <maxDate>2007-05-12</maxDate>
+    <latitude>38.9539</latitude>
+    <longitude>-104.5997</longitude>
+    <elevation>2122</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0041</id>
+    <displayName>FALCON 2.3 E, CO US</displayName>
+    <minDate>2006-01-20</minDate>
+    <maxDate>2007-09-06</maxDate>
+    <latitude>38.9294</latitude>
+    <longitude>-104.5766</longitude>
+    <elevation>2078.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4017</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0237</id>
+    <displayName>FALCON 2.3 NNE, CO US</displayName>
+    <minDate>2011-07-02</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>38.9621</latitude>
+    <longitude>-104.606</longitude>
+    <elevation>2140.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9786</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0099</id>
+    <displayName>FALCON 2.5 E, CO US</displayName>
+    <minDate>2003-05-31</minDate>
+    <maxDate>2005-07-15</maxDate>
+    <latitude>38.9238</latitude>
+    <longitude>-104.575</longitude>
+    <elevation>2065.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.26</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0053</id>
+    <displayName>FALCON 3.1 ESE, CO US</displayName>
+    <minDate>2003-05-31</minDate>
+    <maxDate>2009-08-12</maxDate>
+    <latitude>38.9188</latitude>
+    <longitude>-104.5648</longitude>
+    <elevation>2054</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7123</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0195</id>
+    <displayName>FALCON 3.3 NNE, CO US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2011-06-08</maxDate>
+    <latitude>38.9749</latitude>
+    <longitude>-104.5992</longitude>
+    <elevation>2155.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0071</id>
+    <displayName>FALCON 3.8 ENE, CO US</displayName>
+    <minDate>2003-06-18</minDate>
+    <maxDate>2008-07-26</maxDate>
+    <latitude>38.9473</latitude>
+    <longitude>-104.5528</longitude>
+    <elevation>2062</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2353</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0244</id>
+    <displayName>FALCON 4.3 SSE, CO US</displayName>
+    <minDate>2011-06-28</minDate>
+    <maxDate>2012-07-09</maxDate>
+    <latitude>38.8696</latitude>
+    <longitude>-104.6012</longitude>
+    <elevation>2037.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6772</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0197</id>
+    <displayName>FALCON 4.6 ESE, CO US</displayName>
+    <minDate>2010-07-31</minDate>
+    <maxDate>2011-09-17</maxDate>
+    <latitude>38.9115</latitude>
+    <longitude>-104.5377</longitude>
+    <elevation>2012.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4734</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0096</id>
+    <displayName>FALCON 4.8 SE, CO US</displayName>
+    <minDate>2003-05-31</minDate>
+    <maxDate>2007-05-25</maxDate>
+    <latitude>38.8881</latitude>
+    <longitude>-104.5479</longitude>
+    <elevation>1998.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0131</id>
+    <displayName>FALCON 6.6 ESE, CO US</displayName>
+    <minDate>2004-04-14</minDate>
+    <maxDate>2005-08-02</maxDate>
+    <latitude>38.8912</latitude>
+    <longitude>-104.5072</longitude>
+    <elevation>1996.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413060</id>
+    <displayName>FALCON DAM, TX US</displayName>
+    <minDate>1962-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.558</latitude>
+    <longitude>-99.1372</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0077</id>
+    <displayName>FALCON ESTATES 1.1 W, CO US</displayName>
+    <minDate>2003-04-21</minDate>
+    <maxDate>2007-03-11</maxDate>
+    <latitude>38.9308</latitude>
+    <longitude>-104.8206</longitude>
+    <elevation>1934.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8747</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0111</id>
+    <displayName>FALCON ESTATES 1.9 SE, CO US</displayName>
+    <minDate>2003-07-01</minDate>
+    <maxDate>2004-10-04</maxDate>
+    <latitude>38.9147</latitude>
+    <longitude>-104.7711</longitude>
+    <elevation>2037.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6255</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0093</id>
+    <displayName>FALCON ESTATES 2.3 NNE, CO US</displayName>
+    <minDate>2003-04-14</minDate>
+    <maxDate>2006-11-17</maxDate>
+    <latitude>38.958</latitude>
+    <longitude>-104.7767</longitude>
+    <elevation>2076</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1423</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0189</id>
+    <displayName>FALCON ESTATES 2.4 WNW, CO US</displayName>
+    <minDate>2009-08-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9384</latitude>
+    <longitude>-104.8426</longitude>
+    <elevation>1996.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0054</id>
+    <displayName>FALCON ESTATES 2.6 SW, CO US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2010-06-28</maxDate>
+    <latitude>38.9087</latitude>
+    <longitude>-104.8394</longitude>
+    <elevation>1964.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.523</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0082</id>
+    <displayName>FALCON ESTATES 2.9 N, CO US</displayName>
+    <minDate>2003-05-22</minDate>
+    <maxDate>2007-05-04</maxDate>
+    <latitude>38.9714</latitude>
+    <longitude>-104.7928</longitude>
+    <elevation>2040.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4037</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0084</id>
+    <displayName>FALCON ESTATES 3.7 ENE, CO US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2005-12-31</maxDate>
+    <latitude>38.9497</latitude>
+    <longitude>-104.735</longitude>
+    <elevation>2101.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0107</id>
+    <displayName>FALCON ESTATES 4.7 NNE, CO US</displayName>
+    <minDate>2003-05-21</minDate>
+    <maxDate>2007-03-25</maxDate>
+    <latitude>38.9872</latitude>
+    <longitude>-104.7514</longitude>
+    <elevation>2162.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8463</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00022927</id>
+    <displayName>FALCON FIELD, AZ US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>1976-09-30</maxDate>
+    <latitude>33.43333</latitude>
+    <longitude>-111.75</longitude>
+    <elevation>402.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TFAL</id>
+    <displayName>FALCON LAKE TEXAS, TX US</displayName>
+    <minDate>2002-11-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>26.5547</latitude>
+    <longitude>-99.1356</longitude>
+    <elevation>66.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRK002</id>
+    <displayName>FALFURRIAS 0.5 WNW, TX US</displayName>
+    <minDate>2010-06-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.2255</latitude>
+    <longitude>-98.1525</longitude>
+    <elevation>36.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1441</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRK003</id>
+    <displayName>FALFURRIAS 8.9 SSW, TX US</displayName>
+    <minDate>2011-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.1059</latitude>
+    <longitude>-98.2058</longitude>
+    <elevation>45.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413063</id>
+    <displayName>FALFURRIAS, TX US</displayName>
+    <minDate>1907-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.1395</latitude>
+    <longitude>-98.1201</longitude>
+    <elevation>42.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMG0009</id>
+    <displayName>FALKVILLE 5.1 E, AL US</displayName>
+    <minDate>2007-11-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3638</latitude>
+    <longitude>-86.8217</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9858</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM202</id>
+    <displayName>FALKVILLE 6.0 ENE, AL US</displayName>
+    <minDate>2008-12-16</minDate>
+    <maxDate>2011-07-31</maxDate>
+    <latitude>34.4092</latitude>
+    <longitude>-86.8119</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012840</id>
+    <displayName>FALKVILLE, AL US</displayName>
+    <minDate>1938-08-01</minDate>
+    <maxDate>1992-06-30</maxDate>
+    <latitude>34.36667</latitude>
+    <longitude>-86.88333</longitude>
+    <elevation>190.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403036</id>
+    <displayName>FALL BRANCH, TN US</displayName>
+    <minDate>1949-02-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>36.41667</latitude>
+    <longitude>-82.63333</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0039</id>
+    <displayName>FALL CITY 0.4 SW, WA US</displayName>
+    <minDate>2008-07-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.5637</latitude>
+    <longitude>-121.9014</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355076</id>
+    <displayName>FALL CREEK DAM, OR US</displayName>
+    <minDate>1911-12-14</minDate>
+    <maxDate>1959-05-31</maxDate>
+    <latitude>43.95</latitude>
+    <longitude>-122.76667</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403040</id>
+    <displayName>FALL CREEK FALLS SP, TN US</displayName>
+    <minDate>1999-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6391</latitude>
+    <longitude>-85.3586</longitude>
+    <elevation>545.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OFAL</id>
+    <displayName>FALL MOUNTAIN OREGON, OR US</displayName>
+    <minDate>1985-07-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.2939</latitude>
+    <longitude>-119.0333</longitude>
+    <elevation>1813.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.927</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352793</id>
+    <displayName>FALL RIVER HATCHERY, OR US</displayName>
+    <minDate>1928-07-17</minDate>
+    <maxDate>1942-09-30</maxDate>
+    <latitude>43.76667</latitude>
+    <longitude>-121.63333</longitude>
+    <elevation>1311.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142686</id>
+    <displayName>FALL RIVER LAKE, KS US</displayName>
+    <minDate>1896-11-01</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>37.6475</latitude>
+    <longitude>-96.078</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7436</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042964</id>
+    <displayName>FALL RIVER MILLS, CA US</displayName>
+    <minDate>1923-05-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>41.008</latitude>
+    <longitude>-121.435</longitude>
+    <elevation>1005.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.598</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192642</id>
+    <displayName>FALL RIVER, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1976-04-18</maxDate>
+    <latitude>41.71667</latitude>
+    <longitude>-71.13333</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0071</id>
+    <displayName>FALLBROOK 1.4 SSE, CA US</displayName>
+    <minDate>2012-01-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>33.3517</latitude>
+    <longitude>-117.2247</longitude>
+    <elevation>188.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053151</id>
+    <displayName>FALLBROOK 5 NE, CA US</displayName>
+    <minDate>2008-05-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.4392</latitude>
+    <longitude>-117.1904</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0026</id>
+    <displayName>FALLBROOK 6.5 NE, CA US</displayName>
+    <minDate>2009-01-24</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.4363</latitude>
+    <longitude>-117.1603</longitude>
+    <elevation>419.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042958</id>
+    <displayName>FALLBROOK, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.35</latitude>
+    <longitude>-117.25</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.23</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020L10S</id>
+    <displayName>FALLEN LEAF, CA US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.9333</latitude>
+    <longitude>-120.05</longitude>
+    <elevation>1920.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7685</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVBY0002</id>
+    <displayName>FALLING WATERS 2.4 NW, WV US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5875</latitude>
+    <longitude>-77.9181</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCH0001</id>
+    <displayName>FALLON 0.5 E, NV US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>39.4745</latitude>
+    <longitude>-118.7678</longitude>
+    <elevation>1206.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.239</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCH0002</id>
+    <displayName>FALLON 0.6 ESE, NV US</displayName>
+    <minDate>2007-05-01</minDate>
+    <maxDate>2012-06-18</maxDate>
+    <latitude>39.4715</latitude>
+    <longitude>-118.7688</longitude>
+    <elevation>1211</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCH0005</id>
+    <displayName>FALLON 0.8 WSW, NV US</displayName>
+    <minDate>2008-01-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4712</latitude>
+    <longitude>-118.7915</longitude>
+    <elevation>1213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093123</id>
+    <displayName>FALLON CAA AIRPORT, NV US</displayName>
+    <minDate>1950-03-13</minDate>
+    <maxDate>1954-12-31</maxDate>
+    <latitude>39.41667</latitude>
+    <longitude>-118.71667</longitude>
+    <elevation>1200</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262780</id>
+    <displayName>FALLON EXPERIMENT STATION, NV US</displayName>
+    <minDate>1903-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.4572</latitude>
+    <longitude>-118.7811</longitude>
+    <elevation>1208.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9675</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093102</id>
+    <displayName>FALLON NAAS, NV US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.41667</latitude>
+    <longitude>-118.71667</longitude>
+    <elevation>1199.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8131</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242871</id>
+    <displayName>FALLON, MT US</displayName>
+    <minDate>1904-11-01</minDate>
+    <maxDate>1917-01-31</maxDate>
+    <latitude>46.833333</latitude>
+    <longitude>-105.133333</longitude>
+    <elevation>673</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442922</id>
+    <displayName>FALLS CHURCH 2 SW, VA US</displayName>
+    <minDate>1949-12-01</minDate>
+    <maxDate>1970-10-31</maxDate>
+    <latitude>38.85</latitude>
+    <longitude>-77.2</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00443583</id>
+    <displayName>FALLS CHURCH 2 SW, VA US</displayName>
+    <minDate>1946-01-01</minDate>
+    <maxDate>1949-11-30</maxDate>
+    <latitude>38.85</latitude>
+    <longitude>-77.2</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9329</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10rich010</id>
+    <displayName>FALLS CITY 1.5 E, NE US</displayName>
+    <minDate>2007-05-08</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>40.0582</latitude>
+    <longitude>-95.5736</longitude>
+    <elevation>299.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10rich006</id>
+    <displayName>FALLS CITY 11.2 N, NE US</displayName>
+    <minDate>2007-04-16</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>40.2224</latitude>
+    <longitude>-95.5778</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10rich013</id>
+    <displayName>FALLS CITY 13.4 WSW, NE US</displayName>
+    <minDate>2010-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0052</latitude>
+    <longitude>-95.8484</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9316</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352800</id>
+    <displayName>FALLS CITY 2 SSW, OR US</displayName>
+    <minDate>1896-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.83583</latitude>
+    <longitude>-123.4525</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5282</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10rich007</id>
+    <displayName>FALLS CITY 5.5 NE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>40.1164</latitude>
+    <longitude>-95.5256</longitude>
+    <elevation>303</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9352</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413065</id>
+    <displayName>FALLS CITY 7 WSW, TX US</displayName>
+    <minDate>1946-08-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>28.9613</latitude>
+    <longitude>-98.1102</longitude>
+    <elevation>104.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10rich002</id>
+    <displayName>FALLS CITY 7.2 NNE, NE US</displayName>
+    <minDate>2007-03-15</minDate>
+    <maxDate>2012-09-13</maxDate>
+    <latitude>40.16</latitude>
+    <longitude>-95.559</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4483</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012848</id>
+    <displayName>FALLS CITY BLK POND, AL US</displayName>
+    <minDate>1940-07-01</minDate>
+    <maxDate>1965-04-30</maxDate>
+    <latitude>34.06667</latitude>
+    <longitude>-87.33333</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094957</id>
+    <displayName>FALLS CITY BRENNER FIELD, NE US</displayName>
+    <minDate>1912-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.08028</latitude>
+    <longitude>-95.59194</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9735</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413067</id>
+    <displayName>FALLS CITY NEAR SOIL CONSERVATION SERVICE NUMBER 3, TX US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>1941-12-31</maxDate>
+    <latitude>28.983333</latitude>
+    <longitude>-98</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352805</id>
+    <displayName>FALLS CITY NUMBER 2, OR US</displayName>
+    <minDate>1961-05-08</minDate>
+    <maxDate>2001-03-31</maxDate>
+    <latitude>44.85778</latitude>
+    <longitude>-123.43083</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403044</id>
+    <displayName>FALLS CREEK PARK, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>35.68333</latitude>
+    <longitude>-85.31667</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00362751</id>
+    <displayName>FALLS CREEK, PA US</displayName>
+    <minDate>1920-02-19</minDate>
+    <maxDate>1932-06-30</maxDate>
+    <latitude>41.15</latitude>
+    <longitude>-78.816667</longitude>
+    <elevation>455.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00312993</id>
+    <displayName>FALLS LAKE, NC US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.9808</latitude>
+    <longitude>-78.6529</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9499</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103117</id>
+    <displayName>FALLS RANGER STATION, ID US</displayName>
+    <minDate>1928-03-01</minDate>
+    <maxDate>1936-02-29</maxDate>
+    <latitude>48.283333</latitude>
+    <longitude>-116.95</longitude>
+    <elevation>699.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00062655</id>
+    <displayName>FALLS VILLAGE 1, CT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1921-06-30</maxDate>
+    <latitude>41.93333</latitude>
+    <longitude>-73.31667</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9662</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00062658</id>
+    <displayName>FALLS VILLAGE, CT US</displayName>
+    <minDate>1916-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.95</latitude>
+    <longitude>-73.36667</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00152740</id>
+    <displayName>FALLSBURG 5 NW, KY US</displayName>
+    <minDate>1982-11-01</minDate>
+    <maxDate>1984-05-31</maxDate>
+    <latitude>38.18333</latitude>
+    <longitude>-82.75</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDHR0019</id>
+    <displayName>FALLSTON 2.6 WNW, MD US</displayName>
+    <minDate>2011-02-19</minDate>
+    <maxDate>2011-06-18</maxDate>
+    <latitude>39.5413</latitude>
+    <longitude>-76.4665</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.85</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDHR0016</id>
+    <displayName>FALLSTON 3.9 WNW, MD US</displayName>
+    <minDate>2008-09-28</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>39.5517</latitude>
+    <longitude>-76.4889</longitude>
+    <elevation>171.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.336</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00183050</id>
+    <displayName>FALLSTON, MD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1953-04-30</maxDate>
+    <latitude>39.51667</latitude>
+    <longitude>-76.4</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9553</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0013</id>
+    <displayName>FALMOUTH 0.6 NNW, MA US</displayName>
+    <minDate>2011-02-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5538</latitude>
+    <longitude>-70.6115</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0008</id>
+    <displayName>FALMOUTH 1.8 WSW, MA US</displayName>
+    <minDate>2009-05-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5395</latitude>
+    <longitude>-70.641</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0003</id>
+    <displayName>FALMOUTH 3.0 E, MA US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5531</latitude>
+    <longitude>-70.5504</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0002</id>
+    <displayName>FALMOUTH 3.1 NNW, MA US</displayName>
+    <minDate>2009-02-28</minDate>
+    <maxDate>2012-11-05</maxDate>
+    <latitude>41.5871</latitude>
+    <longitude>-70.6321</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014704</id>
+    <displayName>FALMOUTH OTIS AFB, MA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-70.51667</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00152775</id>
+    <displayName>FALMOUTH, KY US</displayName>
+    <minDate>1887-09-01</minDate>
+    <maxDate>2010-05-12</maxDate>
+    <latitude>38.67528</latitude>
+    <longitude>-84.325</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00172751</id>
+    <displayName>FALMOUTH, ME US</displayName>
+    <minDate>1991-06-01</minDate>
+    <maxDate>1995-08-31</maxDate>
+    <latitude>43.73333</latitude>
+    <longitude>-70.21667</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142693</id>
+    <displayName>FALUN, KS US</displayName>
+    <minDate>1973-07-14</minDate>
+    <maxDate>1983-11-30</maxDate>
+    <latitude>38.66667</latitude>
+    <longitude>-97.75</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1537</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CFAN</id>
+    <displayName>FANCHER CREEK CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.8839</latitude>
+    <longitude>-119.4658</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9454</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142721</id>
+    <displayName>FANNING, KS US</displayName>
+    <minDate>1897-12-01</minDate>
+    <maxDate>1901-07-31</maxDate>
+    <latitude>39.833333</latitude>
+    <longitude>-95.166667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9581</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343065</id>
+    <displayName>FANSHAWE, OK US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>34.9511</latitude>
+    <longitude>-94.908</longitude>
+    <elevation>166.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9292</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="356">
+  <station>
+    <id>GHCND:USR0000IROC</id>
+    <displayName>ROCK LAKE IDAHO, ID US</displayName>
+    <minDate>1990-07-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.9717</latitude>
+    <longitude>-114.0631</longitude>
+    <elevation>1298.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017025</id>
+    <displayName>ROCK MILLS, AL US</displayName>
+    <minDate>1938-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.158</latitude>
+    <longitude>-85.2911</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8123</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOAT0006</id>
+    <displayName>ROCK PORT 7.1 NNE, MO US</displayName>
+    <minDate>2011-08-25</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>40.5114</latitude>
+    <longitude>-95.4889</longitude>
+    <elevation>341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137147</id>
+    <displayName>ROCK RAPIDS, IA US</displayName>
+    <minDate>1893-04-24</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.43</latitude>
+    <longitude>-96.1686</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508025</id>
+    <displayName>ROCK RIDGE DRIVE, AK US</displayName>
+    <minDate>1972-10-01</minDate>
+    <maxDate>1980-10-31</maxDate>
+    <latitude>61.11667</latitude>
+    <longitude>-149.75</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500824</id>
+    <displayName>ROCK RIDGE DRIVE, AK US</displayName>
+    <minDate>1965-10-17</minDate>
+    <maxDate>1972-06-30</maxDate>
+    <latitude>61.11667</latitude>
+    <longitude>-149.75</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487836</id>
+    <displayName>ROCK RIVER 13 NNW, WY US</displayName>
+    <minDate>2006-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.9167</latitude>
+    <longitude>-106.0369</longitude>
+    <elevation>2026.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8184</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYCR0005</id>
+    <displayName>ROCK RIVER 9.6 WSW, WY US</displayName>
+    <minDate>2005-10-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6597</latitude>
+    <longitude>-106.1332</longitude>
+    <elevation>2194.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9611</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487830</id>
+    <displayName>ROCK RIVER, WY US</displayName>
+    <minDate>1912-11-13</minDate>
+    <maxDate>1918-12-31</maxDate>
+    <latitude>41.783333</latitude>
+    <longitude>-105.966667</longitude>
+    <elevation>2100.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NROC</id>
+    <displayName>ROCK SPRING CREEK NEVADA, NV US</displayName>
+    <minDate>1990-06-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.6431</latitude>
+    <longitude>-114.4375</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9652</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSW0010</id>
+    <displayName>ROCK SPRINGS 0.5 E, WY US</displayName>
+    <minDate>2007-08-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.597</latitude>
+    <longitude>-109.2112</longitude>
+    <elevation>1909.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSW0001</id>
+    <displayName>ROCK SPRINGS 0.6 W, WY US</displayName>
+    <minDate>2005-08-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.587</latitude>
+    <longitude>-109.2162</longitude>
+    <elevation>1916.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8016</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSW0006</id>
+    <displayName>ROCK SPRINGS 0.7 WNW, WY US</displayName>
+    <minDate>2005-10-08</minDate>
+    <maxDate>2012-09-14</maxDate>
+    <latitude>41.6008</latitude>
+    <longitude>-109.2348</longitude>
+    <elevation>1930</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSW0014</id>
+    <displayName>ROCK SPRINGS 1.6 SSE, WY US</displayName>
+    <minDate>2008-10-04</minDate>
+    <maxDate>2009-08-24</maxDate>
+    <latitude>41.5773</latitude>
+    <longitude>-109.21</longitude>
+    <elevation>1948</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7662</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSW0003</id>
+    <displayName>ROCK SPRINGS 2.4 WSW, WY US</displayName>
+    <minDate>2005-04-19</minDate>
+    <maxDate>2010-10-08</maxDate>
+    <latitude>41.5756</latitude>
+    <longitude>-109.2466</longitude>
+    <elevation>1915.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1201</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WISK0002</id>
+    <displayName>ROCK SPRINGS 2.8 WSW, WI US</displayName>
+    <minDate>2009-08-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.459</latitude>
+    <longitude>-89.9654</longitude>
+    <elevation>341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9014</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477319</id>
+    <displayName>ROCK SPRINGS 3 SW, WI US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2002-02-28</maxDate>
+    <latitude>43.445</latitude>
+    <longitude>-89.96972</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247140</id>
+    <displayName>ROCK SPRINGS 7 SE, MT US</displayName>
+    <minDate>1915-05-01</minDate>
+    <maxDate>1950-09-30</maxDate>
+    <latitude>46.78333</latitude>
+    <longitude>-106.13333</longitude>
+    <elevation>976</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9733</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSW0016</id>
+    <displayName>ROCK SPRINGS 7.1 SSE, WY US</displayName>
+    <minDate>2009-11-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5072</latitude>
+    <longitude>-109.1554</longitude>
+    <elevation>2057.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6575</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487847</id>
+    <displayName>ROCK SPRINGS FIRE DEPARTMENT, WY US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5777</latitude>
+    <longitude>-109.2394</longitude>
+    <elevation>1911.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024027</id>
+    <displayName>ROCK SPRINGS SWEETWATER CO AIRPORT, WY US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.5944</latitude>
+    <longitude>-109.0529</longitude>
+    <elevation>2054.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247136</id>
+    <displayName>ROCK SPRINGS, MT US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.8202</latitude>
+    <longitude>-106.2452</longitude>
+    <elevation>921.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9554</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0018F01S</id>
+    <displayName>ROCK SPRINGS, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.9833</latitude>
+    <longitude>-118.85</longitude>
+    <elevation>1554.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487840</id>
+    <displayName>ROCK SPRINGS, WY US</displayName>
+    <minDate>1898-11-01</minDate>
+    <maxDate>1979-05-16</maxDate>
+    <latitude>41.58333</latitude>
+    <longitude>-109.21667</longitude>
+    <elevation>1943.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5197</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRD0055</id>
+    <displayName>ROCK VALE 4.5S, TN US</displayName>
+    <minDate>2008-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7003</latitude>
+    <longitude>-86.525</longitude>
+    <elevation>237.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9695</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137152</id>
+    <displayName>ROCK VALLEY, IA US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2044</latitude>
+    <longitude>-96.3061</longitude>
+    <elevation>379.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146907</id>
+    <displayName>ROCK, KS US</displayName>
+    <minDate>1977-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.4199</latitude>
+    <longitude>-97.0497</longitude>
+    <elevation>368.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4285</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0006</id>
+    <displayName>ROCKAWAY 0.4 NNW, NJ US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9018</latitude>
+    <longitude>-74.5189</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOTY0008</id>
+    <displayName>ROCKAWAY BEACH 1.3 NNW, MO US</displayName>
+    <minDate>2006-08-13</minDate>
+    <maxDate>2010-05-11</maxDate>
+    <latitude>36.7201</latitude>
+    <longitude>-93.1655</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0004</id>
+    <displayName>ROCKAWAY TWP 0.7 NE, NJ US</displayName>
+    <minDate>2008-02-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9658</latitude>
+    <longitude>-74.4878</longitude>
+    <elevation>250.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.287</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMLM003</id>
+    <displayName>ROCKDALE 0.5 NE, TX US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.6608</latitude>
+    <longitude>-97.0032</longitude>
+    <elevation>145.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMLM002</id>
+    <displayName>ROCKDALE 3.6 SSW, TX US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.6081</latitude>
+    <longitude>-97.0317</longitude>
+    <elevation>146.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307195</id>
+    <displayName>ROCKDALE, NY US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>2007-12-31</maxDate>
+    <latitude>42.38333</latitude>
+    <longitude>-75.4</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9359</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417685</id>
+    <displayName>ROCKDALE, TX US</displayName>
+    <minDate>1963-03-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.64306</latitude>
+    <longitude>-97.03722</longitude>
+    <elevation>160.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9381</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457100</id>
+    <displayName>ROCKDALE, WA US</displayName>
+    <minDate>1914-11-01</minDate>
+    <maxDate>1921-04-15</maxDate>
+    <latitude>47.4</latitude>
+    <longitude>-121.433333</longitude>
+    <elevation>640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4228</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167932</id>
+    <displayName>ROCKEFELLR WL REFUGE, LA US</displayName>
+    <minDate>1964-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7286</latitude>
+    <longitude>-92.818</longitude>
+    <elevation>1.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012C11S</id>
+    <displayName>ROCKER PEAK, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.3667</latitude>
+    <longitude>-112.25</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYWR0019</id>
+    <displayName>ROCKFIELD 1.4 WSW, KY US</displayName>
+    <minDate>2011-09-15</minDate>
+    <maxDate>2012-07-22</maxDate>
+    <latitude>36.9005</latitude>
+    <longitude>-86.5872</longitude>
+    <elevation>184.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8077</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447312</id>
+    <displayName>ROCKFISH, VA US</displayName>
+    <minDate>1937-11-01</minDate>
+    <maxDate>1990-09-30</maxDate>
+    <latitude>37.8</latitude>
+    <longitude>-78.75</longitude>
+    <elevation>147.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWN0004</id>
+    <displayName>ROCKFORD 0.4 S, IL US</displayName>
+    <minDate>2007-03-25</minDate>
+    <maxDate>2007-08-14</maxDate>
+    <latitude>42.264</latitude>
+    <longitude>-89.0625</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8811</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0039</id>
+    <displayName>ROCKFORD 0.5 NE, MN US</displayName>
+    <minDate>2011-04-05</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.093</latitude>
+    <longitude>-93.7359</longitude>
+    <elevation>296.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4635</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWN0008</id>
+    <displayName>ROCKFORD 0.7 NW, IL US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2767</latitude>
+    <longitude>-89.0747</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9154</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWR0006</id>
+    <displayName>ROCKFORD 1.2 WNW, MN US</displayName>
+    <minDate>2010-01-23</minDate>
+    <maxDate>2012-05-24</maxDate>
+    <latitude>45.0969</latitude>
+    <longitude>-93.7636</longitude>
+    <elevation>299.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2532</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWN0026</id>
+    <displayName>ROCKFORD 1.5 ENE, IL US</displayName>
+    <minDate>2011-03-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2778</latitude>
+    <longitude>-89.0359</longitude>
+    <elevation>194.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALCS0008</id>
+    <displayName>ROCKFORD 12.3 WSW, AL US</displayName>
+    <minDate>2012-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8252</latitude>
+    <longitude>-86.4164</longitude>
+    <elevation>107.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0044</id>
+    <displayName>ROCKFORD 2.0 N, MI US</displayName>
+    <minDate>2008-07-27</minDate>
+    <maxDate>2010-12-10</maxDate>
+    <latitude>43.1548</latitude>
+    <longitude>-85.5599</longitude>
+    <elevation>219.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4245</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0046</id>
+    <displayName>ROCKFORD 2.2 N, MI US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2009-10-10</maxDate>
+    <latitude>43.1581</latitude>
+    <longitude>-85.5603</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6009</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0015</id>
+    <displayName>ROCKFORD 2.2 NNW, TN US</displayName>
+    <minDate>2008-11-02</minDate>
+    <maxDate>2012-07-11</maxDate>
+    <latitude>35.8582</latitude>
+    <longitude>-83.9551</longitude>
+    <elevation>273.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2656</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWN0013</id>
+    <displayName>ROCKFORD 2.4 ESE, IL US</displayName>
+    <minDate>2007-07-11</minDate>
+    <maxDate>2009-07-12</maxDate>
+    <latitude>42.2618</latitude>
+    <longitude>-89.017</longitude>
+    <elevation>252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2347</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWN0007</id>
+    <displayName>ROCKFORD 2.4 ESE, IL US</displayName>
+    <minDate>2007-03-30</minDate>
+    <maxDate>2007-09-09</maxDate>
+    <latitude>42.2525</latitude>
+    <longitude>-89.0227</longitude>
+    <elevation>273.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0004</id>
+    <displayName>ROCKFORD 2.6 S, MI US</displayName>
+    <minDate>2008-07-03</minDate>
+    <maxDate>2011-09-05</maxDate>
+    <latitude>43.0895</latitude>
+    <longitude>-85.5662</longitude>
+    <elevation>249.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBT0005</id>
+    <displayName>ROCKFORD 2.9 ENE, TN US</displayName>
+    <minDate>2007-04-04</minDate>
+    <maxDate>2008-08-27</maxDate>
+    <latitude>35.8439</latitude>
+    <longitude>-83.8865</longitude>
+    <elevation>387.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207072</id>
+    <displayName>ROCKFORD 3 SW, MI US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.08333</latitude>
+    <longitude>-85.59083</longitude>
+    <elevation>190.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWN0014</id>
+    <displayName>ROCKFORD 3.3 NE, IL US</displayName>
+    <minDate>2007-07-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2984</latitude>
+    <longitude>-89.0101</longitude>
+    <elevation>266.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8823</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0058</id>
+    <displayName>ROCKFORD 4.3 E, MI US</displayName>
+    <minDate>2011-03-15</minDate>
+    <maxDate>2012-03-18</maxDate>
+    <latitude>43.1294</latitude>
+    <longitude>-85.4711</longitude>
+    <elevation>286.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117377</id>
+    <displayName>ROCKFORD 6 ENE, IL US</displayName>
+    <minDate>1950-05-16</minDate>
+    <maxDate>1984-11-30</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-88.98333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWN0011</id>
+    <displayName>ROCKFORD 7.3 WNW, IL US</displayName>
+    <minDate>2007-08-27</minDate>
+    <maxDate>2010-04-16</maxDate>
+    <latitude>42.3115</latitude>
+    <longitude>-89.1937</longitude>
+    <elevation>252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1857</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014844</id>
+    <displayName>ROCKFORD CAA AIRPORT, IL US</displayName>
+    <minDate>1900-01-21</minDate>
+    <maxDate>1955-12-03</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-89.05</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094822</id>
+    <displayName>ROCKFORD GREATER ROCKFORD AIRPORT, IL US</displayName>
+    <minDate>1951-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.1927</latitude>
+    <longitude>-89.093</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337179</id>
+    <displayName>ROCKFORD WATER DEPARTMENT, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.68333</latitude>
+    <longitude>-84.65</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017020</id>
+    <displayName>ROCKFORD, AL US</displayName>
+    <minDate>1954-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.8711</latitude>
+    <longitude>-86.1758</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8264</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117375</id>
+    <displayName>ROCKFORD, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1957-06-30</maxDate>
+    <latitude>42.28333</latitude>
+    <longitude>-89.08333</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00217020</id>
+    <displayName>ROCKFORD, MN US</displayName>
+    <minDate>1978-08-01</minDate>
+    <maxDate>2012-12-10</maxDate>
+    <latitude>45.0896</latitude>
+    <longitude>-93.7399</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467658</id>
+    <displayName>ROCKFORD, WV US</displayName>
+    <minDate>1936-08-01</minDate>
+    <maxDate>1954-11-30</maxDate>
+    <latitude>39.13333</latitude>
+    <longitude>-80.33333</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397247</id>
+    <displayName>ROCKHAM 2 SW, SD US</displayName>
+    <minDate>1951-08-10</minDate>
+    <maxDate>1978-03-31</maxDate>
+    <latitude>44.9</latitude>
+    <longitude>-98.85</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9423</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397253</id>
+    <displayName>ROCKHAM 8 SW, SD US</displayName>
+    <minDate>1953-03-01</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>44.81667</latitude>
+    <longitude>-98.91667</longitude>
+    <elevation>420.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8137</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ORCK</id>
+    <displayName>ROCKHOUSE 1 OREGON, OR US</displayName>
+    <minDate>1997-07-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.925</latitude>
+    <longitude>-123.4694</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.882</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036214</id>
+    <displayName>ROCKHOUSE, AR US</displayName>
+    <minDate>1947-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.28333</latitude>
+    <longitude>-93.66667</longitude>
+    <elevation>369.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8028</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRC0002</id>
+    <displayName>ROCKINGHAM 0.6 WSW, NC US</displayName>
+    <minDate>2008-07-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.935</latitude>
+    <longitude>-79.771</longitude>
+    <elevation>62.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5268</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRC0007</id>
+    <displayName>ROCKINGHAM 4.9 ENE, NC US</displayName>
+    <minDate>2012-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9748</latitude>
+    <longitude>-79.6867</longitude>
+    <elevation>104.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NRCK</id>
+    <displayName>ROCKINGHAM NORTH CAROLINA, NC US</displayName>
+    <minDate>2000-02-28</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.96</latitude>
+    <longitude>-79.69</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8617</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317370</id>
+    <displayName>ROCKINGHAM, NC US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>1948-03-31</maxDate>
+    <latitude>34.95</latitude>
+    <longitude>-79.783333</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9225</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00177255</id>
+    <displayName>ROCKLAND 1 W, ME US</displayName>
+    <minDate>1948-12-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.10222</latitude>
+    <longitude>-69.11694</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417700</id>
+    <displayName>ROCKLAND 2 NW, TX US</displayName>
+    <minDate>1904-04-01</minDate>
+    <maxDate>1979-06-30</maxDate>
+    <latitude>31.01667</latitude>
+    <longitude>-94.4</longitude>
+    <elevation>26.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4555</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107808</id>
+    <displayName>ROCKLAND, ID US</displayName>
+    <minDate>2001-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.5138</latitude>
+    <longitude>-112.875</longitude>
+    <elevation>1432.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7278</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00177250</id>
+    <displayName>ROCKLAND, ME US</displayName>
+    <minDate>1937-10-10</minDate>
+    <maxDate>1976-09-30</maxDate>
+    <latitude>44.1</latitude>
+    <longitude>-69.11667</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207075</id>
+    <displayName>ROCKLAND, MI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1899-08-31</maxDate>
+    <latitude>46.58333</latitude>
+    <longitude>-89.25</longitude>
+    <elevation>362.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBV0013</id>
+    <displayName>ROCKLEDGE 1.1 WSW, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.3122</latitude>
+    <longitude>-80.7456</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBV0047</id>
+    <displayName>ROCKLEDGE 1.3 NE, FL US</displayName>
+    <minDate>2012-08-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>28.335</latitude>
+    <longitude>-80.717</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAPH0002</id>
+    <displayName>ROCKLEDGE 1.3 SE, PA US</displayName>
+    <minDate>2006-08-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0677</latitude>
+    <longitude>-75.0748</longitude>
+    <elevation>46.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GALR0004</id>
+    <displayName>ROCKLEDGE 1.8 SW, GA US</displayName>
+    <minDate>2010-01-25</minDate>
+    <maxDate>2011-12-31</maxDate>
+    <latitude>32.4212</latitude>
+    <longitude>-82.7164</longitude>
+    <elevation>81.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAPC0019</id>
+    <displayName>ROCKLIN 1.1 N, CA US</displayName>
+    <minDate>2011-10-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8175</latitude>
+    <longitude>-121.2436</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4499</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047516</id>
+    <displayName>ROCKLIN, CA US</displayName>
+    <minDate>1904-09-01</minDate>
+    <maxDate>1976-06-30</maxDate>
+    <latitude>38.8</latitude>
+    <longitude>-121.23333</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAPG0008</id>
+    <displayName>ROCKMART 9.6 SSE, GA US</displayName>
+    <minDate>2009-08-16</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>33.8751</latitude>
+    <longitude>-85.0122</longitude>
+    <elevation>395.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7639</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBST021</id>
+    <displayName>ROCKNE 1.9 NNW, TX US</displayName>
+    <minDate>2008-08-27</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.0218</latitude>
+    <longitude>-97.441</longitude>
+    <elevation>118.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5774</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEKX0001</id>
+    <displayName>ROCKPORT 0.1 SW, ME US</displayName>
+    <minDate>2009-12-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.1839</latitude>
+    <longitude>-69.0786</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6637</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA005</id>
+    <displayName>ROCKPORT 0.5 E, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4162</latitude>
+    <longitude>-95.5081</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAR0005</id>
+    <displayName>ROCKPORT 0.6 N, TX US</displayName>
+    <minDate>2009-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0497</latitude>
+    <longitude>-97.0531</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00196977</id>
+    <displayName>ROCKPORT 1 ESE, MA US</displayName>
+    <minDate>1902-05-01</minDate>
+    <maxDate>1983-01-16</maxDate>
+    <latitude>42.65</latitude>
+    <longitude>-70.6</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9606</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVWD0006</id>
+    <displayName>ROCKPORT 1.3 SSE, WV US</displayName>
+    <minDate>2009-06-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0566</latitude>
+    <longitude>-81.5503</longitude>
+    <elevation>325.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAR0007</id>
+    <displayName>ROCKPORT 1.3 WSW, TX US</displayName>
+    <minDate>2011-03-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0357</latitude>
+    <longitude>-97.0717</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAR0003</id>
+    <displayName>ROCKPORT 2.1 NNW, TX US</displayName>
+    <minDate>2007-10-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0694</latitude>
+    <longitude>-97.0648</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7198</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAR0009</id>
+    <displayName>ROCKPORT 2.3 NNE, TX US</displayName>
+    <minDate>2012-05-28</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>28.0723</latitude>
+    <longitude>-97.0389</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEKX0005</id>
+    <displayName>ROCKPORT 2.8 SW, ME US</displayName>
+    <minDate>2009-12-09</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>44.1519</latitude>
+    <longitude>-69.1116</longitude>
+    <elevation>45.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3104</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAR0006</id>
+    <displayName>ROCKPORT 3.0 NNW, TX US</displayName>
+    <minDate>2010-02-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>28.0825</latitude>
+    <longitude>-97.0626</longitude>
+    <elevation>3.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9858</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127511</id>
+    <displayName>ROCKPORT 4 N, IN US</displayName>
+    <minDate>1992-06-01</minDate>
+    <maxDate>2001-06-30</maxDate>
+    <latitude>37.93917</latitude>
+    <longitude>-87.05889</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASG0017</id>
+    <displayName>ROCKPORT 6.5 E, WA US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.505</latitude>
+    <longitude>-121.48</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012972</id>
+    <displayName>ROCKPORT ARANSAS CO AIRPORT, TX US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>28.08361</latitude>
+    <longitude>-97.04639</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117400</id>
+    <displayName>ROCKPORT, IL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1971-01-31</maxDate>
+    <latitude>39.53333</latitude>
+    <longitude>-91.01667</longitude>
+    <elevation>143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127508</id>
+    <displayName>ROCKPORT, IN US</displayName>
+    <minDate>1897-09-01</minDate>
+    <maxDate>1901-03-31</maxDate>
+    <latitude>37.883333</latitude>
+    <longitude>-87.05</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7544</coverage>
+  </station>
+</stationCollection>

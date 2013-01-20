@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="364">
+  <station>
+    <id>GHCND:USS0007H06S</id>
+    <displayName>SAGE CREEK BASIN, WY US</displayName>
+    <minDate>2002-01-18</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.4</latitude>
+    <longitude>-107.25</longitude>
+    <elevation>2392.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OSAG</id>
+    <displayName>SAGE HEN OREGON, OR US</displayName>
+    <minDate>1986-10-03</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.5097</latitude>
+    <longitude>-119.2925</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9723</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347844</id>
+    <displayName>SAGEEYAH, OK US</displayName>
+    <minDate>1928-07-01</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>36.36667</latitude>
+    <longitude>-95.66667</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047641</id>
+    <displayName>SAGEHEN CREEK, CA US</displayName>
+    <minDate>1953-06-01</minDate>
+    <maxDate>2007-06-30</maxDate>
+    <latitude>39.43167</latitude>
+    <longitude>-120.24056</longitude>
+    <elevation>1931.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9318</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457247</id>
+    <displayName>SAGEMOOR, WA US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.39528</latitude>
+    <longitude>-119.07111</longitude>
+    <elevation>181.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0032</id>
+    <displayName>SAGINAW 1.5 WNW, TX US</displayName>
+    <minDate>2008-05-05</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>32.8729</latitude>
+    <longitude>-97.389</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MISG0013</id>
+    <displayName>SAGINAW 2.4 NW, MI US</displayName>
+    <minDate>2012-03-23</minDate>
+    <maxDate>2012-09-24</maxDate>
+    <latitude>43.4461</latitude>
+    <longitude>-83.9798</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7849</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0054</id>
+    <displayName>SAGINAW 2.4 WSW, TX US</displayName>
+    <minDate>2008-08-29</minDate>
+    <maxDate>2009-04-30</maxDate>
+    <latitude>32.8556</latitude>
+    <longitude>-97.4053</longitude>
+    <elevation>232.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MISG0010</id>
+    <displayName>SAGINAW 2.8 S, MI US</displayName>
+    <minDate>2009-07-02</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>43.3789</latitude>
+    <longitude>-83.9403</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2729</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MISG0011</id>
+    <displayName>SAGINAW 3.0 NW, MI US</displayName>
+    <minDate>2010-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4557</latitude>
+    <longitude>-83.9846</longitude>
+    <elevation>185.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9111</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207225</id>
+    <displayName>SAGINAW 5 W, MI US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4172</latitude>
+    <longitude>-84.0641</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.95</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207220</id>
+    <displayName>SAGINAW 9 W, MI US</displayName>
+    <minDate>1997-08-01</minDate>
+    <maxDate>2006-09-30</maxDate>
+    <latitude>43.4099</latitude>
+    <longitude>-84.1316</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207217</id>
+    <displayName>SAGINAW CON POWER CO, MI US</displayName>
+    <minDate>1955-03-01</minDate>
+    <maxDate>1987-09-30</maxDate>
+    <latitude>43.45</latitude>
+    <longitude>-83.96667</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014845</id>
+    <displayName>SAGINAW MBS INTERNATIONAL AIRPORT, MI US</displayName>
+    <minDate>1898-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.53306</latitude>
+    <longitude>-84.07972</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSAG</id>
+    <displayName>SAGINAW MINNESOTA, MN US</displayName>
+    <minDate>2003-05-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.8436</latitude>
+    <longitude>-92.4617</longitude>
+    <elevation>405.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207222</id>
+    <displayName>SAGINAW NUMBER 3, MI US</displayName>
+    <minDate>1910-02-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4122</latitude>
+    <longitude>-83.9561</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.582</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357444</id>
+    <displayName>SAGINAW, OR US</displayName>
+    <minDate>1923-10-01</minDate>
+    <maxDate>1971-04-30</maxDate>
+    <latitude>43.83333</latitude>
+    <longitude>-123.03333</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417887</id>
+    <displayName>SAGINAW, TX US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>1901-04-30</maxDate>
+    <latitude>32.86667</latitude>
+    <longitude>-97.36667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9383</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBR0003</id>
+    <displayName>SAGLE 1.8 NNE, ID US</displayName>
+    <minDate>2009-05-25</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.2357</latitude>
+    <longitude>-116.5447</longitude>
+    <elevation>682.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.84</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBR0014</id>
+    <displayName>SAGLE 6.2 WSW, ID US</displayName>
+    <minDate>2009-07-27</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>48.1856</latitude>
+    <longitude>-116.6779</longitude>
+    <elevation>716</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003079</id>
+    <displayName>SAGUACHE 2 WNW, CO US</displayName>
+    <minDate>2009-06-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.0989</latitude>
+    <longitude>-106.1709</longitude>
+    <elevation>2384.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057337</id>
+    <displayName>SAGUACHE, CO US</displayName>
+    <minDate>1894-04-01</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>38.0857</latitude>
+    <longitude>-106.1445</longitude>
+    <elevation>2347.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9121</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ASAG</id>
+    <displayName>SAGUARO ARIZONA, AZ US</displayName>
+    <minDate>1995-06-29</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>32.3167</latitude>
+    <longitude>-110.8133</longitude>
+    <elevation>944.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6455</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027398</id>
+    <displayName>SAGUARO NATIONAL MONUMENT, AZ US</displayName>
+    <minDate>2009-06-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1794</latitude>
+    <longitude>-110.7363</longitude>
+    <elevation>938.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247273</id>
+    <displayName>SAHARA, MT US</displayName>
+    <minDate>1930-11-23</minDate>
+    <maxDate>1940-06-30</maxDate>
+    <latitude>46.63333</latitude>
+    <longitude>-109.16667</longitude>
+    <elevation>1476.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9139</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427501</id>
+    <displayName>SAHARA, UT US</displayName>
+    <minDate>1913-04-20</minDate>
+    <maxDate>1915-08-31</maxDate>
+    <latitude>38</latitude>
+    <longitude>-113.45</longitude>
+    <elevation>1587.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0190</id>
+    <displayName>SAHUARITA 1.4 WNW, AZ US</displayName>
+    <minDate>2011-07-24</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>31.9587</latitude>
+    <longitude>-110.9708</longitude>
+    <elevation>833.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0163</id>
+    <displayName>SAHUARITA 1.5 NW, AZ US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2011-08-25</maxDate>
+    <latitude>31.9659</latitude>
+    <longitude>-110.9682</longitude>
+    <elevation>830.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027403</id>
+    <displayName>SAHUARITA 2 NW, AZ US</displayName>
+    <minDate>1956-02-14</minDate>
+    <maxDate>1972-08-31</maxDate>
+    <latitude>31.96667</latitude>
+    <longitude>-110.96667</longitude>
+    <elevation>819.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0109</id>
+    <displayName>SAHUARITA 2.6 WNW, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>31.9607</latitude>
+    <longitude>-110.9919</longitude>
+    <elevation>874.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0113</id>
+    <displayName>SAHUARITA 3.3 SW, AZ US</displayName>
+    <minDate>2009-12-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.9202</latitude>
+    <longitude>-110.9941</longitude>
+    <elevation>889.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4661</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027419</id>
+    <displayName>SAHUARITA 8 W, AZ US</displayName>
+    <minDate>1983-11-01</minDate>
+    <maxDate>1988-03-31</maxDate>
+    <latitude>31.9</latitude>
+    <longitude>-111.06667</longitude>
+    <elevation>1085.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168094</id>
+    <displayName>SAILES FIRE TOWER, LA US</displayName>
+    <minDate>1952-06-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>32.35889</latitude>
+    <longitude>-93.14278</longitude>
+    <elevation>109.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6156</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467852</id>
+    <displayName>SAINT ALBANS, WV US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3833</latitude>
+    <longitude>-81.8344</longitude>
+    <elevation>196.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0008</id>
+    <displayName>SAINT ANTHONY 0.9 WNW, MN US</displayName>
+    <minDate>2010-05-11</minDate>
+    <maxDate>2012-11-06</maxDate>
+    <latitude>45.0269</latitude>
+    <longitude>-93.2346</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2569</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108022</id>
+    <displayName>SAINT ANTHONY, ID US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>43.9518</latitude>
+    <longitude>-111.6789</longitude>
+    <elevation>1496.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017157</id>
+    <displayName>SAINT BERNARD, AL US</displayName>
+    <minDate>1907-07-16</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.1736</latitude>
+    <longitude>-86.8133</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036376</id>
+    <displayName>SAINT CHARLES, AR US</displayName>
+    <minDate>1930-02-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.3702</latitude>
+    <longitude>-91.1241</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9003</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207253</id>
+    <displayName>SAINT CHARLES, MI US</displayName>
+    <minDate>1940-05-14</minDate>
+    <maxDate>1997-04-30</maxDate>
+    <latitude>43.3</latitude>
+    <longitude>-84.16667</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9009</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSR0004</id>
+    <displayName>SAINT CLOUD 4.7 W, MN US</displayName>
+    <minDate>2009-12-13</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>45.5668</latitude>
+    <longitude>-94.2366</longitude>
+    <elevation>319.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSR0003</id>
+    <displayName>SAINT CLOUD 5.4 WNW, MN US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2010-11-14</maxDate>
+    <latitude>45.5779</latitude>
+    <longitude>-94.247</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8481</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10boon002</id>
+    <displayName>SAINT EDWARD 7.3 WSW, NE US</displayName>
+    <minDate>2007-03-28</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>41.5249</latitude>
+    <longitude>-97.9933</longitude>
+    <elevation>540.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5641</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCN0002</id>
+    <displayName>SAINT FRANCIS 0.3 SSW, KS US</displayName>
+    <minDate>2005-03-23</minDate>
+    <maxDate>2010-09-15</maxDate>
+    <latitude>39.7676</latitude>
+    <longitude>-101.8025</longitude>
+    <elevation>1022.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1158</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147094</id>
+    <displayName>SAINT FRANCIS 1 SE, KS US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>39.76667</latitude>
+    <longitude>-101.8</longitude>
+    <elevation>1031.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8586</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0022</id>
+    <displayName>SAINT FRANCIS 1.3 ESE, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.3934</latitude>
+    <longitude>-93.365</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCN0003</id>
+    <displayName>SAINT FRANCIS 10.3 SSE, KS US</displayName>
+    <minDate>2006-10-09</minDate>
+    <maxDate>2012-02-11</maxDate>
+    <latitude>39.6354</latitude>
+    <longitude>-101.7115</longitude>
+    <elevation>1090</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1219</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCN0001</id>
+    <displayName>SAINT FRANCIS 2.7 ESE, KS US</displayName>
+    <minDate>2005-03-01</minDate>
+    <maxDate>2010-09-13</maxDate>
+    <latitude>39.7568</latitude>
+    <longitude>-101.7526</longitude>
+    <elevation>1025</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9852</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0004</id>
+    <displayName>SAINT FRANCIS 4.0 E, MN US</displayName>
+    <minDate>2010-01-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.409</latitude>
+    <longitude>-93.309</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9088</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036380</id>
+    <displayName>SAINT FRANCIS, AR US</displayName>
+    <minDate>1927-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4546</latitude>
+    <longitude>-90.1459</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147093</id>
+    <displayName>SAINT FRANCIS, KS US</displayName>
+    <minDate>1908-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.7675</latitude>
+    <longitude>-101.8066</longitude>
+    <elevation>1024.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097720</id>
+    <displayName>SAINT GEORGE, GA US</displayName>
+    <minDate>1905-11-01</minDate>
+    <maxDate>1929-05-31</maxDate>
+    <latitude>30.516667</latitude>
+    <longitude>-82.033333</longitude>
+    <elevation>23.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9226</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00387542</id>
+    <displayName>SAINT GEORGE, SC US</displayName>
+    <minDate>1893-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.18333</latitude>
+    <longitude>-80.58333</longitude>
+    <elevation>31.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4451</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047646</id>
+    <displayName>SAINT HELENA 4 WSW, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.493</latitude>
+    <longitude>-122.5383</longitude>
+    <elevation>542.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047649</id>
+    <displayName>SAINT HELENA 6 NE, CA US</displayName>
+    <minDate>1948-07-03</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.55</latitude>
+    <longitude>-122.38333</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047643</id>
+    <displayName>SAINT HELENA, CA US</displayName>
+    <minDate>1907-10-24</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>38.5066</latitude>
+    <longitude>-122.4713</longitude>
+    <elevation>68.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLE0022</id>
+    <displayName>SAINT JAMES CITY 0.4 SSE, FL US</displayName>
+    <minDate>2008-12-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.4946</latitude>
+    <longitude>-82.0774</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417894</id>
+    <displayName>SAINT JO, TX US</displayName>
+    <minDate>1941-03-31</minDate>
+    <maxDate>1942-05-31</maxDate>
+    <latitude>33.7</latitude>
+    <longitude>-97.516667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8173</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047656</id>
+    <displayName>SAINT JOHN, CA US</displayName>
+    <minDate>1907-11-01</minDate>
+    <maxDate>1963-01-31</maxDate>
+    <latitude>39.71667</latitude>
+    <longitude>-122</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8758</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457267</id>
+    <displayName>SAINT JOHN, WA US</displayName>
+    <minDate>1963-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.0933</latitude>
+    <longitude>-117.5878</longitude>
+    <elevation>595</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027435</id>
+    <displayName>SAINT JOHNS, AZ US</displayName>
+    <minDate>1901-08-26</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>34.5172</latitude>
+    <longitude>-109.4028</longitude>
+    <elevation>1764.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9207</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207280</id>
+    <displayName>SAINT JOHNS, MI US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.0113</latitude>
+    <longitude>-84.5541</longitude>
+    <elevation>226.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054742</id>
+    <displayName>SAINT JOHNSBURY, VT US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.42</latitude>
+    <longitude>-72.0194</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508102</id>
+    <displayName>SAINT JOSEPHS MISSION, AK US</displayName>
+    <minDate>1893-09-05</minDate>
+    <maxDate>1898-06-17</maxDate>
+    <latitude>62.25</latitude>
+    <longitude>-163.75</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00087851</id>
+    <displayName>SAINT LEO, FL US</displayName>
+    <minDate>1895-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>28.3378</latitude>
+    <longitude>-82.26</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237462</id>
+    <displayName>SAINT LOUIS 12 NNW, MO US</displayName>
+    <minDate>1976-02-01</minDate>
+    <maxDate>1980-12-31</maxDate>
+    <latitude>38.76667</latitude>
+    <longitude>-90.26667</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0038</id>
+    <displayName>SAINT LOUIS PARK 0.3 N, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-07-02</maxDate>
+    <latitude>44.9533</latitude>
+    <longitude>-93.3653</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4183</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108062</id>
+    <displayName>SAINT MARIES, ID US</displayName>
+    <minDate>1897-04-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.3165</latitude>
+    <longitude>-116.5789</longitude>
+    <elevation>655.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047661</id>
+    <displayName>SAINT MARYS COLLEGE, CA US</displayName>
+    <minDate>1942-12-01</minDate>
+    <maxDate>1981-07-31</maxDate>
+    <latitude>37.83333</latitude>
+    <longitude>-122.1</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127724</id>
+    <displayName>SAINT MEINRAD, IN US</displayName>
+    <minDate>1959-12-01</minDate>
+    <maxDate>2011-08-31</maxDate>
+    <latitude>38.1641</latitude>
+    <longitude>-86.8094</longitude>
+    <elevation>155.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9698</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWR0008</id>
+    <displayName>SAINT MICHAEL 1.3 E, MN US</displayName>
+    <minDate>2010-04-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.2012</latitude>
+    <longitude>-93.6658</longitude>
+    <elevation>292.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397418</id>
+    <displayName>SAINT ONGE 2 S, SD US</displayName>
+    <minDate>1993-09-01</minDate>
+    <maxDate>2012-04-30</maxDate>
+    <latitude>44.6924</latitude>
+    <longitude>-103.7269</longitude>
+    <elevation>1069.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0030</id>
+    <displayName>SAINT PAUL 1.7 N, MN US</displayName>
+    <minDate>2012-04-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.9718</latitude>
+    <longitude>-93.1031</longitude>
+    <elevation>266.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0009</id>
+    <displayName>SAINT PAUL 2.4 WSW, MN US</displayName>
+    <minDate>2009-12-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.93</latitude>
+    <longitude>-93.147</longitude>
+    <elevation>278.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8608</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0007</id>
+    <displayName>SAINT PAUL 3.3 WNW, MN US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9589</latitude>
+    <longitude>-93.1703</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9195</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRM0022</id>
+    <displayName>SAINT PAUL 4.1 WNW, MN US</displayName>
+    <minDate>2011-03-27</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.9599</latitude>
+    <longitude>-93.1857</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3761</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10howa008</id>
+    <displayName>SAINT PAUL 7.6 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2009-10-25</maxDate>
+    <latitude>41.3219</latitude>
+    <longitude>-98.428</longitude>
+    <elevation>599.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWG0015</id>
+    <displayName>SAINT PAUL PARK 0.7 NNE, MN US</displayName>
+    <minDate>2011-03-28</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.8465</latitude>
+    <longitude>-92.9909</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257515</id>
+    <displayName>SAINT PAUL, NE US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2077</latitude>
+    <longitude>-98.4608</longitude>
+    <elevation>547.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNNC0003</id>
+    <displayName>SAINT PETER 6.2 WSW, MN US</displayName>
+    <minDate>2011-06-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2885</latitude>
+    <longitude>-94.0764</longitude>
+    <elevation>296.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8219</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247318</id>
+    <displayName>SAINT REGIS 1 NE, MT US</displayName>
+    <minDate>1960-10-21</minDate>
+    <maxDate>2011-02-28</maxDate>
+    <latitude>47.3036</latitude>
+    <longitude>-115.0909</longitude>
+    <elevation>810.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9459</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00387575</id>
+    <displayName>SAINT STEPHENS, SC US</displayName>
+    <minDate>1892-04-01</minDate>
+    <maxDate>1907-08-31</maxDate>
+    <latitude>33.4</latitude>
+    <longitude>-79.933333</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267240</id>
+    <displayName>SAINT THOMAS, NV US</displayName>
+    <minDate>1895-04-01</minDate>
+    <maxDate>1898-08-31</maxDate>
+    <latitude>36.416667</latitude>
+    <longitude>-114.333333</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8959</coverage>
+  </station>
+  <station>
+    <id>GHCND:CQC00914855</id>
+    <displayName>SAIPAN INTERNATIONAL AIRPORT, US</displayName>
+    <minDate>1988-11-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>15.11667</latitude>
+    <longitude>145.71667</longitude>
+    <elevation>65.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:CQC00914860</id>
+    <displayName>SAIPAN LORAN, US</displayName>
+    <minDate>1954-01-01</minDate>
+    <maxDate>1978-12-31</maxDate>
+    <latitude>15.13333</latitude>
+    <longitude>145.7</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6437</coverage>
+  </station>
+  <station>
+    <id>GHCND:CQW00041412</id>
+    <displayName>SAIPAN MARSHALL ISLANDS, US</displayName>
+    <minDate>1945-07-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>15.21667</latitude>
+    <longitude>145.75</longitude>
+    <elevation>11.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9218</coverage>
+  </station>
+  <station>
+    <id>GHCND:CQW00041408</id>
+    <displayName>SAIPAN MARSHALL ISLANDS, US</displayName>
+    <minDate>1945-11-20</minDate>
+    <maxDate>1957-06-29</maxDate>
+    <latitude>15.11667</latitude>
+    <longitude>145.7</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2236</coverage>
+  </station>
+  <station>
+    <id>GHCND:CQC00914861</id>
+    <displayName>SAIPAN NUMBER 2, US</displayName>
+    <minDate>1960-02-01</minDate>
+    <maxDate>1963-07-31</maxDate>
+    <latitude>15.21667</latitude>
+    <longitude>145.73333</longitude>
+    <elevation>152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8324</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALCN0005</id>
+    <displayName>SAKS 0.7 ESE, AL US</displayName>
+    <minDate>2007-11-23</minDate>
+    <maxDate>2008-08-14</maxDate>
+    <latitude>33.7069</latitude>
+    <longitude>-85.8421</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9286</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027445</id>
+    <displayName>SALA RANCH, AZ US</displayName>
+    <minDate>1947-08-01</minDate>
+    <maxDate>1978-08-31</maxDate>
+    <latitude>31.86667</latitude>
+    <longitude>-109.98333</longitude>
+    <elevation>1574</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBEL010</id>
+    <displayName>SALADO 1.5 S, TX US</displayName>
+    <minDate>2009-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.9294</latitude>
+    <longitude>-97.524</longitude>
+    <elevation>205.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417903</id>
+    <displayName>SALADO, TX US</displayName>
+    <minDate>1910-05-01</minDate>
+    <maxDate>1919-10-31</maxDate>
+    <latitude>30.95</latitude>
+    <longitude>-97.53333</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307400</id>
+    <displayName>SALAMANCA 2, NY US</displayName>
+    <minDate>1991-05-01</minDate>
+    <maxDate>2008-04-08</maxDate>
+    <latitude>42.1506</latitude>
+    <longitude>-78.7204</longitude>
+    <elevation>431.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307397</id>
+    <displayName>SALAMANCA, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>42.159</latitude>
+    <longitude>-78.722</longitude>
+    <elevation>418.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307398</id>
+    <displayName>SALAMANCA, NY US</displayName>
+    <minDate>1951-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.159</latitude>
+    <longitude>-78.722</longitude>
+    <elevation>418.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127747</id>
+    <displayName>SALAMONIA, IN US</displayName>
+    <minDate>1906-04-01</minDate>
+    <maxDate>1976-03-31</maxDate>
+    <latitude>40.38333</latitude>
+    <longitude>-84.86667</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9768</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ASLC</id>
+    <displayName>SALCHA ALASKA, AK US</displayName>
+    <minDate>1996-07-29</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>64.59</latitude>
+    <longitude>-146.14</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508156</id>
+    <displayName>SALCHA RIVER AT JOHNSON S, AK US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>64.5254</latitude>
+    <longitude>-146.3726</longitude>
+    <elevation>233.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0402</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508140</id>
+    <displayName>SALCHA, AK US</displayName>
+    <minDate>1919-06-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>64.49417</latitude>
+    <longitude>-146.97667</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427540</id>
+    <displayName>SALDURO, UT US</displayName>
+    <minDate>1920-11-01</minDate>
+    <maxDate>1926-08-19</maxDate>
+    <latitude>40.733333</latitude>
+    <longitude>-113.866667</longitude>
+    <elevation>1286.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VARN0002</id>
+    <displayName>SALEM 0.1 NNE, VA US</displayName>
+    <minDate>2009-01-07</minDate>
+    <maxDate>2009-10-07</maxDate>
+    <latitude>37.2885</latitude>
+    <longitude>-80.055</longitude>
+    <elevation>315.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9015</coverage>
+  </station>
+</stationCollection>

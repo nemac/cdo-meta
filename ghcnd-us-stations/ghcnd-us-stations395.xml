@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="395">
+  <station>
+    <id>GHCND:US1CANP0007</id>
+    <displayName>ST. HELENA 1.1 S, CA US</displayName>
+    <minDate>2009-10-14</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>38.4891</latitude>
+    <longitude>-122.4623</longitude>
+    <elevation>75.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1702</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10ceda002</id>
+    <displayName>ST. HELENA 4.1 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>42.7652</latitude>
+    <longitude>-97.3027</longitude>
+    <elevation>401.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCB0008</id>
+    <displayName>ST. HELENS 1 W, OR US</displayName>
+    <minDate>2008-01-02</minDate>
+    <maxDate>2009-10-14</maxDate>
+    <latitude>45.861</latitude>
+    <longitude>-122.8314</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5399</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207275</id>
+    <displayName>ST. IGNACE MDOT, MI US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.8518</latitude>
+    <longitude>-84.7043</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLE0012</id>
+    <displayName>ST. JAMES CITY 6.4 NNW, FL US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.5891</latitude>
+    <longitude>-82.1089</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00128436</id>
+    <displayName>ST. JOE 2 W, IN US</displayName>
+    <minDate>2006-03-01</minDate>
+    <maxDate>2012-04-27</maxDate>
+    <latitude>41.3174</latitude>
+    <longitude>-84.9461</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8057</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSF0010</id>
+    <displayName>ST. JOHN 0.1 S, KS US</displayName>
+    <minDate>2008-08-09</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>37.9994</latitude>
+    <longitude>-98.7604</longitude>
+    <elevation>580.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4434</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLK0046</id>
+    <displayName>ST. JOHN 0.2 WSW, IN US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4463</latitude>
+    <longitude>-87.4802</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSF0006</id>
+    <displayName>ST. JOHN 0.5 ESE, KS US</displayName>
+    <minDate>2007-03-16</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>37.9994</latitude>
+    <longitude>-98.7519</longitude>
+    <elevation>587</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7525</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLK0035</id>
+    <displayName>ST. JOHN 1.9 ENE, IN US</displayName>
+    <minDate>2008-06-26</minDate>
+    <maxDate>2012-12-06</maxDate>
+    <latitude>41.4559</latitude>
+    <longitude>-87.4412</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSF0008</id>
+    <displayName>ST. JOHN 6.2 NE, KS US</displayName>
+    <minDate>2007-05-15</minDate>
+    <maxDate>2010-08-24</maxDate>
+    <latitude>38.0585</latitude>
+    <longitude>-98.6725</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327810</id>
+    <displayName>ST. JOHN, ND US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1900-08-31</maxDate>
+    <latitude>48.933333</latitude>
+    <longitude>-99.683333</longitude>
+    <elevation>592.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8278</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427525</id>
+    <displayName>ST. JOHN, UT US</displayName>
+    <minDate>1911-05-01</minDate>
+    <maxDate>1929-05-31</maxDate>
+    <latitude>40.366667</latitude>
+    <longitude>-112.416667</longitude>
+    <elevation>1528.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCP0091</id>
+    <displayName>ST. JOSEPH 0.6 NE, IL US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.1191</latitude>
+    <longitude>-88.0336</longitude>
+    <elevation>205.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8177</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCP0031</id>
+    <displayName>ST. JOSEPH 0.9 SSW, IL US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1014</latitude>
+    <longitude>-88.0487</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8015</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIBN0012</id>
+    <displayName>ST. JOSEPH 3.0 S, MI US</displayName>
+    <minDate>2011-03-26</minDate>
+    <maxDate>2012-10-23</maxDate>
+    <latitude>42.0537</latitude>
+    <longitude>-86.4853</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2059</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBC0004</id>
+    <displayName>ST. JOSEPH 4.4 E, MO US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.77</latitude>
+    <longitude>-94.74</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9275</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009F27S</id>
+    <displayName>ST. LAWRENCE ALT, WY US</displayName>
+    <minDate>1983-10-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>43.0333</latitude>
+    <longitude>-109.1667</longitude>
+    <elevation>2627.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8474</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10merr009</id>
+    <displayName>ST. LIBORY 4.0 ENE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.102</latitude>
+    <longitude>-98.2847</longitude>
+    <elevation>558.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257485</id>
+    <displayName>ST. LIBORY, NE US</displayName>
+    <minDate>1896-06-01</minDate>
+    <maxDate>1917-07-31</maxDate>
+    <latitude>41.083333</latitude>
+    <longitude>-98.35</longitude>
+    <elevation>575.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSL0035</id>
+    <displayName>ST. LOUIS 1.0 SW, MO US</displayName>
+    <minDate>2011-02-27</minDate>
+    <maxDate>2011-08-02</maxDate>
+    <latitude>38.6254</latitude>
+    <longitude>-90.2555</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSLC004</id>
+    <displayName>ST. LOUIS 1.5 S, MO US</displayName>
+    <minDate>2009-10-21</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.6137</latitude>
+    <longitude>-90.2451</longitude>
+    <elevation>155.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.464</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSLC005</id>
+    <displayName>ST. LOUIS 2.4 S, MO US</displayName>
+    <minDate>2009-12-17</minDate>
+    <maxDate>2010-12-17</maxDate>
+    <latitude>38.6022</latitude>
+    <longitude>-90.2501</longitude>
+    <elevation>153.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8279</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSLC006</id>
+    <displayName>ST. LOUIS 4.9 SW, MO US</displayName>
+    <minDate>2010-11-05</minDate>
+    <maxDate>2012-08-26</maxDate>
+    <latitude>38.5981</latitude>
+    <longitude>-90.2915</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6127</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBW0003</id>
+    <displayName>ST. MARIES 2.8 S, ID US</displayName>
+    <minDate>2009-03-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.275</latitude>
+    <longitude>-116.577</longitude>
+    <elevation>766.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9433</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBW0002</id>
+    <displayName>ST. MARIES 7.4 WNW, ID US</displayName>
+    <minDate>2009-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.3647</latitude>
+    <longitude>-116.7106</longitude>
+    <elevation>662</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6203</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWK0002</id>
+    <displayName>ST. MARKS 8.2 SW, FL US</displayName>
+    <minDate>2008-02-16</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.0657</latitude>
+    <longitude>-84.2857</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWK0001</id>
+    <displayName>ST. MARKS 9.2 W, FL US</displayName>
+    <minDate>2008-02-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1834</latitude>
+    <longitude>-84.3602</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000FSTM</id>
+    <displayName>ST. MARKS EAST FLORIDA, FL US</displayName>
+    <minDate>2002-12-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.1333</latitude>
+    <longitude>-84.1333</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9314</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSJC0007</id>
+    <displayName>ST. MARTIN 0.7 NNW, MS US</displayName>
+    <minDate>2009-02-06</minDate>
+    <maxDate>2009-10-17</maxDate>
+    <latitude>30.4472</latitude>
+    <longitude>-88.8742</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LASM0002</id>
+    <displayName>ST. MARTINVILLE 0.2 S, LA US</displayName>
+    <minDate>2010-03-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1221</latitude>
+    <longitude>-91.831</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004130</id>
+    <displayName>ST. MARY 1 SSW, MT US</displayName>
+    <minDate>2003-09-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.7412</latitude>
+    <longitude>-113.4330</longitude>
+    <elevation>1388.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSTM</id>
+    <displayName>ST. MARY MONTANA, MT US</displayName>
+    <minDate>1986-01-17</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.7375</latitude>
+    <longitude>-113.4305</longitude>
+    <elevation>1389.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9537</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247295</id>
+    <displayName>ST. MARY S LAKE, MT US</displayName>
+    <minDate>1913-11-15</minDate>
+    <maxDate>1918-03-31</maxDate>
+    <latitude>48.75</latitude>
+    <longitude>-113.433333</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6452</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACM0002</id>
+    <displayName>ST. MARYS 1.4 SW, GA US</displayName>
+    <minDate>2008-05-20</minDate>
+    <maxDate>2009-09-03</maxDate>
+    <latitude>30.7467</latitude>
+    <longitude>-81.595</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3835</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAEL0001</id>
+    <displayName>ST. MARYS 1.7 SE, PA US</displayName>
+    <minDate>2005-10-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4107</latitude>
+    <longitude>-78.5348</longitude>
+    <elevation>554.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACM0009</id>
+    <displayName>ST. MARYS 3.4 NNE, GA US</displayName>
+    <minDate>2010-06-12</minDate>
+    <maxDate>2012-08-13</maxDate>
+    <latitude>30.8063</latitude>
+    <longitude>-81.5595</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7481</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAZ0002</id>
+    <displayName>ST. MARYS 4.4 SSW, OH US</displayName>
+    <minDate>2009-07-23</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>40.489</latitude>
+    <longitude>-84.4345</longitude>
+    <elevation>271.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3017</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACM0006</id>
+    <displayName>ST. MARYS 5.5 N, GA US</displayName>
+    <minDate>2008-12-31</minDate>
+    <maxDate>2011-04-01</maxDate>
+    <latitude>30.839</latitude>
+    <longitude>-81.5753</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367762</id>
+    <displayName>ST. MARYS, PA US</displayName>
+    <minDate>1896-06-01</minDate>
+    <maxDate>1910-05-31</maxDate>
+    <latitude>41.416667</latitude>
+    <longitude>-78.583333</longitude>
+    <elevation>530.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9339</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCA0001</id>
+    <displayName>ST. MATTHEWS 3.2 ENE, SC US</displayName>
+    <minDate>2008-03-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.6874</latitude>
+    <longitude>-80.7301</longitude>
+    <elevation>76.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.225</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDTB0004</id>
+    <displayName>ST. MICHAELS 0.7 SE, MD US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.782</latitude>
+    <longitude>-76.2115</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHCH0001</id>
+    <displayName>ST. PARIS 2.9 NE, OH US</displayName>
+    <minDate>2009-02-27</minDate>
+    <maxDate>2012-11-13</maxDate>
+    <latitude>40.1548</latitude>
+    <longitude>-83.9167</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2603</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSNO0005</id>
+    <displayName>ST. PAUL 0.4 ESE, KS US</displayName>
+    <minDate>2011-01-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5159</latitude>
+    <longitude>-95.1677</longitude>
+    <elevation>271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8579</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10howa001</id>
+    <displayName>ST. PAUL 0.5 ENE, NE US</displayName>
+    <minDate>2007-03-25</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>41.2185</latitude>
+    <longitude>-98.4512</longitude>
+    <elevation>548</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00217379</id>
+    <displayName>ST. PAUL 3 SW, MN US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>44.9312</latitude>
+    <longitude>-93.154</longitude>
+    <elevation>285.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025711</id>
+    <displayName>ST. PAUL 4 NE, AK US</displayName>
+    <minDate>2005-08-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>57.1575</latitude>
+    <longitude>-170.2119</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRB0004</id>
+    <displayName>ST. PAULS 0.6 NW, NC US</displayName>
+    <minDate>2009-06-23</minDate>
+    <maxDate>2010-11-05</maxDate>
+    <latitude>34.8142</latitude>
+    <longitude>-78.9801</longitude>
+    <elevation>49.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2036</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00118219</id>
+    <displayName>ST. PETER, IL US</displayName>
+    <minDate>1906-05-01</minDate>
+    <maxDate>1915-05-31</maxDate>
+    <latitude>38.483333</latitude>
+    <longitude>-88.333333</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8098</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247305</id>
+    <displayName>ST. PETER, MT US</displayName>
+    <minDate>1901-05-01</minDate>
+    <maxDate>1906-11-30</maxDate>
+    <latitude>47.266667</latitude>
+    <longitude>-111.866667</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSS0012</id>
+    <displayName>ST. PETERS 2.5 NW, MO US</displayName>
+    <minDate>2007-05-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8033</latitude>
+    <longitude>-90.6389</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5256</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACL0001</id>
+    <displayName>ST. PETERSBURG 0.1 WSW, PA US</displayName>
+    <minDate>2009-04-20</minDate>
+    <maxDate>2010-03-22</maxDate>
+    <latitude>41.1614</latitude>
+    <longitude>-79.6548</longitude>
+    <elevation>420.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.632</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0022</id>
+    <displayName>ST. PETERSBURG 1.3 SE, FL US</displayName>
+    <minDate>2007-12-14</minDate>
+    <maxDate>2008-10-19</maxDate>
+    <latitude>27.7454</latitude>
+    <longitude>-82.6253</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9132</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0009</id>
+    <displayName>ST. PETERSBURG 2.3 SSE, FL US</displayName>
+    <minDate>2007-10-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.7255</latitude>
+    <longitude>-82.6325</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8035</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0013</id>
+    <displayName>ST. PETERSBURG 2.3 SSW, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>27.7286</latitude>
+    <longitude>-82.6592</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8118</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0033</id>
+    <displayName>ST. PETERSBURG 2.4 NW, FL US</displayName>
+    <minDate>2010-02-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.7841</latitude>
+    <longitude>-82.6689</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9054</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0026</id>
+    <displayName>ST. PETERSBURG 3.1 WNW, FL US</displayName>
+    <minDate>2009-01-15</minDate>
+    <maxDate>2009-10-28</maxDate>
+    <latitude>27.772</latitude>
+    <longitude>-82.69</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6272</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0034</id>
+    <displayName>ST. PETERSBURG 3.2 NNW, FL US</displayName>
+    <minDate>2010-06-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.8033</latitude>
+    <longitude>-82.6546</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0014</id>
+    <displayName>ST. PETERSBURG 3.9 N, FL US</displayName>
+    <minDate>2007-10-02</minDate>
+    <maxDate>2009-08-06</maxDate>
+    <latitude>27.8139</latitude>
+    <longitude>-82.6434</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8015</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0004</id>
+    <displayName>ST. PETERSBURG 5.0 NW, FL US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.8016</latitude>
+    <longitude>-82.7103</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8128</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSTR</id>
+    <displayName>ST. REGIS MONTANA, MT US</displayName>
+    <minDate>2001-08-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.3108</latitude>
+    <longitude>-115.1097</longitude>
+    <elevation>816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9099</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247314</id>
+    <displayName>ST. REGIS, MT US</displayName>
+    <minDate>1908-01-01</minDate>
+    <maxDate>1911-08-31</maxDate>
+    <latitude>47.016667</latitude>
+    <longitude>-115.05</longitude>
+    <elevation>812</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8536</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOPU0018</id>
+    <displayName>ST. ROBERT 1.9 E, MO US</displayName>
+    <minDate>2012-04-23</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>37.8161</latitude>
+    <longitude>-92.1208</longitude>
+    <elevation>293.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOPU0006</id>
+    <displayName>ST. ROBERT 2.4 N, MO US</displayName>
+    <minDate>2008-03-17</minDate>
+    <maxDate>2010-12-01</maxDate>
+    <latitude>37.8566</latitude>
+    <longitude>-92.1522</longitude>
+    <elevation>308.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5232</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAGN0005</id>
+    <displayName>ST. SIMONS 1.1 SW, GA US</displayName>
+    <minDate>2010-01-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.1641</latitude>
+    <longitude>-81.3964</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9344</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCBK0027</id>
+    <displayName>ST. STEPHEN 1.3 SSW, SC US</displayName>
+    <minDate>2011-02-02</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.3888</latitude>
+    <longitude>-79.9362</longitude>
+    <elevation>22.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9648</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247848</id>
+    <displayName>STACEY, MT US</displayName>
+    <minDate>1913-10-01</minDate>
+    <maxDate>1916-12-31</maxDate>
+    <latitude>45.6</latitude>
+    <longitude>-105.883333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7416</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCG0007</id>
+    <displayName>STACY 1.4 NW, MN US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>45.395</latitude>
+    <longitude>-93.0181</longitude>
+    <elevation>277.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9091</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448014</id>
+    <displayName>STACY, VA US</displayName>
+    <minDate>1955-10-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>37.31667</latitude>
+    <longitude>-81.98333</longitude>
+    <elevation>433.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9004</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSF0003</id>
+    <displayName>STAFFORD 0.2 SSW, KS US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>37.9608</latitude>
+    <longitude>-98.6005</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXFB0020</id>
+    <displayName>STAFFORD 1.7 SE, TX US</displayName>
+    <minDate>2010-03-25</minDate>
+    <maxDate>2010-08-10</maxDate>
+    <latitude>29.6084</latitude>
+    <longitude>-95.5421</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYGN0006</id>
+    <displayName>STAFFORD 1.8 NE, NY US</displayName>
+    <minDate>2011-08-29</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.9989</latitude>
+    <longitude>-78.0483</longitude>
+    <elevation>274</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9109</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VASF0003</id>
+    <displayName>STAFFORD 2.0 NNW, VA US</displayName>
+    <minDate>2009-08-24</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>38.4475</latitude>
+    <longitude>-77.4125</longitude>
+    <elevation>47.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8861</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSF0002</id>
+    <displayName>STAFFORD 5.9 ESE, KS US</displayName>
+    <minDate>2007-01-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9185</latitude>
+    <longitude>-98.508</longitude>
+    <elevation>548</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9387</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSF0005</id>
+    <displayName>STAFFORD 8.6 S, KS US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2007-12-31</maxDate>
+    <latitude>37.8382</latitude>
+    <longitude>-98.6146</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8144</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSF0004</id>
+    <displayName>STAFFORD 9.4 NE, KS US</displayName>
+    <minDate>2007-04-06</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>38.0569</latitude>
+    <longitude>-98.4742</longitude>
+    <elevation>545.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4529</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000GSTA</id>
+    <displayName>STAFFORD CUIS GEORGIA, GA US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.9172</latitude>
+    <longitude>-81.4294</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9018</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000KSTA</id>
+    <displayName>STAFFORD KANSAS, KS US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.1669</latitude>
+    <longitude>-98.5</longitude>
+    <elevation>540.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9153</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00067959</id>
+    <displayName>STAFFORD SPRINGS 2, CT US</displayName>
+    <minDate>1966-09-01</minDate>
+    <maxDate>2006-10-10</maxDate>
+    <latitude>41.95</latitude>
+    <longitude>-72.3</longitude>
+    <elevation>138.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTTL0005</id>
+    <displayName>STAFFORD SPRINGS 3.7 W, CT US</displayName>
+    <minDate>2010-03-26</minDate>
+    <maxDate>2011-12-08</maxDate>
+    <latitude>41.9453</latitude>
+    <longitude>-72.3802</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6019</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00067949</id>
+    <displayName>STAFFORD SPRINGS NEAR, CT US</displayName>
+    <minDate>1932-11-08</minDate>
+    <maxDate>1934-08-22</maxDate>
+    <latitude>41.95</latitude>
+    <longitude>-72.2</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00067946</id>
+    <displayName>STAFFORD SPRINGS, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1964-10-31</maxDate>
+    <latitude>41.95</latitude>
+    <longitude>-72.3</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8126</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJOC0012</id>
+    <displayName>STAFFORD TWP 2.1 NW, NJ US</displayName>
+    <minDate>2008-11-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7287</latitude>
+    <longitude>-74.2894</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8528</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJOC0051</id>
+    <displayName>STAFFORD TWP 2.2 NNE, NJ US</displayName>
+    <minDate>2011-09-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.735</latitude>
+    <longitude>-74.2525</longitude>
+    <elevation>26.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8235</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJOC0039</id>
+    <displayName>STAFFORD TWP 2.5 NNW, NJ US</displayName>
+    <minDate>2010-10-10</minDate>
+    <maxDate>2011-07-30</maxDate>
+    <latitude>39.7372</latitude>
+    <longitude>-74.2855</longitude>
+    <elevation>23.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00067904</id>
+    <displayName>STAFFORD, CT US</displayName>
+    <minDate>1964-12-01</minDate>
+    <maxDate>1966-08-31</maxDate>
+    <latitude>42</latitude>
+    <longitude>-72.28333</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5133</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308152</id>
+    <displayName>STAFFORD, NY US</displayName>
+    <minDate>1931-10-01</minDate>
+    <maxDate>1967-09-30</maxDate>
+    <latitude>42.98333</latitude>
+    <longitude>-78.08333</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358034</id>
+    <displayName>STAFFORD, OR US</displayName>
+    <minDate>1896-04-01</minDate>
+    <maxDate>1919-08-31</maxDate>
+    <latitude>45.41667</latitude>
+    <longitude>-122.75</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYJH0004</id>
+    <displayName>STAFFORDSVILLE 2.5 NNW, KY US</displayName>
+    <minDate>2012-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8609</latitude>
+    <longitude>-82.8615</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8551</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448022</id>
+    <displayName>STAFFORDSVILLE 3 ENE, VA US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2714</latitude>
+    <longitude>-80.7131</longitude>
+    <elevation>594.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00067958</id>
+    <displayName>STAFFORDVILLE, CT US</displayName>
+    <minDate>2002-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.9984</latitude>
+    <longitude>-72.2606</longitude>
+    <elevation>224.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NSTA</id>
+    <displayName>STAG MOUNTAIN NEVADA, NV US</displayName>
+    <minDate>1997-10-03</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.5178</latitude>
+    <longitude>-115.3928</longitude>
+    <elevation>2069.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0014A12S</id>
+    <displayName>STAHL PEAK, MT US</displayName>
+    <minDate>1975-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.9167</latitude>
+    <longitude>-114.8667</longitude>
+    <elevation>1837.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207812</id>
+    <displayName>STAMBAUGH 2 SSE, MI US</displayName>
+    <minDate>1922-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.0555</latitude>
+    <longitude>-88.6275</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDL0003</id>
+    <displayName>STAMFORD 0.7 NNW, NY US</displayName>
+    <minDate>2005-07-02</minDate>
+    <maxDate>2010-05-01</maxDate>
+    <latitude>42.4189</latitude>
+    <longitude>-74.621</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418583</id>
+    <displayName>STAMFORD 1, TX US</displayName>
+    <minDate>1911-02-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.9402</latitude>
+    <longitude>-99.8036</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10harl010</id>
+    <displayName>STAMFORD 1.9 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>40.1273</latitude>
+    <longitude>-99.5572</longitude>
+    <elevation>615.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258096</id>
+    <displayName>STAMFORD 2 E, NE US</displayName>
+    <minDate>1964-04-27</minDate>
+    <maxDate>1977-09-30</maxDate>
+    <latitude>40.1314</latitude>
+    <longitude>-99.5542</longitude>
+    <elevation>603.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418584</id>
+    <displayName>STAMFORD 2, TX US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.95</latitude>
+    <longitude>-99.8</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTFR0012</id>
+    <displayName>STAMFORD 3.3 NW, CT US</displayName>
+    <minDate>2009-06-27</minDate>
+    <maxDate>2011-08-26</maxDate>
+    <latitude>41.1306</latitude>
+    <longitude>-73.5961</longitude>
+    <elevation>98.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4463</coverage>
+  </station>
+</stationCollection>

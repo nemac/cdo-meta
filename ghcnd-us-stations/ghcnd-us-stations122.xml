@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="122">
+  <station>
+    <id>GHCND:USC00462590</id>
+    <displayName>EAST BANK, WV US</displayName>
+    <minDate>1897-08-01</minDate>
+    <maxDate>1900-12-31</maxDate>
+    <latitude>39.2</latitude>
+    <longitude>-81.616667</longitude>
+    <elevation>781.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWH0006</id>
+    <displayName>EAST BERNARD 1.5 SSE, TX US</displayName>
+    <minDate>2009-05-28</minDate>
+    <maxDate>2012-04-12</maxDate>
+    <latitude>29.508</latitude>
+    <longitude>-96.054</longitude>
+    <elevation>35.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0016</id>
+    <displayName>EAST BETHEL 1.1 NNW, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.3712</latitude>
+    <longitude>-93.2115</longitude>
+    <elevation>281.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0005</id>
+    <displayName>EAST BETHEL 3.1 NE, MN US</displayName>
+    <minDate>2010-03-21</minDate>
+    <maxDate>2012-10-28</maxDate>
+    <latitude>45.3846</latitude>
+    <longitude>-93.1553</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.68</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302277</id>
+    <displayName>EAST BLOOMFIELD, NY US</displayName>
+    <minDate>1956-06-13</minDate>
+    <maxDate>1984-12-18</maxDate>
+    <latitude>42.9</latitude>
+    <longitude>-77.43333</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00362358</id>
+    <displayName>EAST BLOOMSBURG, PA US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>1904-12-31</maxDate>
+    <latitude>40.990642</latitude>
+    <longitude>-76.434945</longitude>
+    <elevation>175.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9651</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00362363</id>
+    <displayName>EAST BRADY, PA US</displayName>
+    <minDate>1918-04-01</minDate>
+    <maxDate>1977-05-31</maxDate>
+    <latitude>40.98333</latitude>
+    <longitude>-79.61667</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDL0017</id>
+    <displayName>EAST BRANCH 0.2 S, NY US</displayName>
+    <minDate>2009-03-21</minDate>
+    <maxDate>2009-10-08</maxDate>
+    <latitude>41.9893</latitude>
+    <longitude>-75.1318</longitude>
+    <elevation>305.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302282</id>
+    <displayName>EAST BRANCH, NY US</displayName>
+    <minDate>1948-05-02</minDate>
+    <maxDate>1961-03-31</maxDate>
+    <latitude>41.4</latitude>
+    <longitude>-73.58333</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192107</id>
+    <displayName>EAST BRIMFIELD LAKE, MA US</displayName>
+    <minDate>1962-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.1103</latitude>
+    <longitude>-72.1269</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00432150</id>
+    <displayName>EAST BROOKFIELD, VT US</displayName>
+    <minDate>1940-10-01</minDate>
+    <maxDate>1943-02-28</maxDate>
+    <latitude>44.016667</latitude>
+    <longitude>-72.566667</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7491</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMD0039</id>
+    <displayName>EAST BRUNSWICK TWP 3.3 NNE, NJ US</displayName>
+    <minDate>2011-12-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.4739</latitude>
+    <longitude>-74.4</longitude>
+    <elevation>16.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8363</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0015</id>
+    <displayName>EAST CALAIS 1.5 SW, VT US</displayName>
+    <minDate>2009-05-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3552</latitude>
+    <longitude>-72.4554</longitude>
+    <elevation>321.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7038</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00272250</id>
+    <displayName>EAST CANTERBURY, NH US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>1894-09-30</maxDate>
+    <latitude>43.35</latitude>
+    <longitude>-71.5</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422294</id>
+    <displayName>EAST CANYON, UT US</displayName>
+    <minDate>1952-09-08</minDate>
+    <maxDate>1971-10-31</maxDate>
+    <latitude>40.85</latitude>
+    <longitude>-111.58333</longitude>
+    <elevation>1780.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302286</id>
+    <displayName>EAST CHATHAM, NY US</displayName>
+    <minDate>2001-05-01</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>42.43944</latitude>
+    <longitude>-73.50278</longitude>
+    <elevation>281.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412695</id>
+    <displayName>EAST COLUMBIA, TX US</displayName>
+    <minDate>1897-01-01</minDate>
+    <maxDate>1912-05-31</maxDate>
+    <latitude>29.15</latitude>
+    <longitude>-95.61667</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00272284</id>
+    <displayName>EAST DEERING, NH US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1976-04-15</maxDate>
+    <latitude>43.06667</latitude>
+    <longitude>-71.81667</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00272290</id>
+    <displayName>EAST DERRY, NH US</displayName>
+    <minDate>1997-03-01</minDate>
+    <maxDate>1997-07-31</maxDate>
+    <latitude>42.88333</latitude>
+    <longitude>-71.26667</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00172207</id>
+    <displayName>EAST DOVER, ME US</displayName>
+    <minDate>1969-10-01</minDate>
+    <maxDate>1973-06-30</maxDate>
+    <latitude>45.18333</latitude>
+    <longitude>-69.16667</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232406</id>
+    <displayName>EAST END, MO US</displayName>
+    <minDate>1941-10-01</minDate>
+    <maxDate>1959-11-30</maxDate>
+    <latitude>37.68333</latitude>
+    <longitude>-91.03333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8946</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00672551</id>
+    <displayName>EAST END, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.3347</latitude>
+    <longitude>-64.7594</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8314</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0019</id>
+    <displayName>EAST FALMOUTH 0.7 NW, MA US</displayName>
+    <minDate>2011-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5843</latitude>
+    <longitude>-70.5687</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0016</id>
+    <displayName>EAST FALMOUTH 1.1 SSW, MA US</displayName>
+    <minDate>2011-03-19</minDate>
+    <maxDate>2012-03-22</maxDate>
+    <latitude>41.564</latitude>
+    <longitude>-70.5663</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8351</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0017</id>
+    <displayName>EAST FALMOUTH 1.2 WNW, MA US</displayName>
+    <minDate>2011-02-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5828</latitude>
+    <longitude>-70.5803</longitude>
+    <elevation>12.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHN0012</id>
+    <displayName>EAST FLAT ROCK 0.5 NNE, NC US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.291</latitude>
+    <longitude>-82.4143</longitude>
+    <elevation>647.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9639</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHN0004</id>
+    <displayName>EAST FLAT ROCK 2.1 W, NC US</displayName>
+    <minDate>2007-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2817</latitude>
+    <longitude>-82.4564</longitude>
+    <elevation>737</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00312574</id>
+    <displayName>EAST FLAT ROCK 3 SE, NC US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.2458</latitude>
+    <longitude>-82.3891</longitude>
+    <elevation>563.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00482845</id>
+    <displayName>EAST GATE Y NATIONAL PARK, WY US</displayName>
+    <minDate>1907-09-01</minDate>
+    <maxDate>1952-11-30</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-110</longitude>
+    <elevation>2122.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242629</id>
+    <displayName>EAST GLACIER, MT US</displayName>
+    <minDate>1953-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.4469</latitude>
+    <longitude>-113.2238</longitude>
+    <elevation>1464.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9435</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243551</id>
+    <displayName>EAST GLACIER, MT US</displayName>
+    <minDate>1949-08-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>48.4469</latitude>
+    <longitude>-113.2238</longitude>
+    <elevation>1464.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192150</id>
+    <displayName>EAST GLOUCESTER, MA US</displayName>
+    <minDate>1930-04-01</minDate>
+    <maxDate>1946-10-31</maxDate>
+    <latitude>42.616667</latitude>
+    <longitude>-70.65</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIKN0007</id>
+    <displayName>EAST GRAND RAPIDS 0.7 SSW, MI US</displayName>
+    <minDate>2008-06-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.938</latitude>
+    <longitude>-85.6134</longitude>
+    <elevation>227.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0069</id>
+    <displayName>EAST GREENVILLE 2.2 WNW, PA US</displayName>
+    <minDate>2011-02-05</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.414</latitude>
+    <longitude>-75.5466</longitude>
+    <elevation>178.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4429</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1RIKN0002</id>
+    <displayName>EAST GREENWICH 2.3 ESE, RI US</displayName>
+    <minDate>2008-04-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6625</latitude>
+    <longitude>-71.4159</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9495</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJGL0022</id>
+    <displayName>EAST GREENWICH TWP 0.7 N, NJ US</displayName>
+    <minDate>2011-12-11</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>39.8009</latitude>
+    <longitude>-75.2387</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5342</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJGL0023</id>
+    <displayName>EAST GREENWICH TWP 1.7 NE, NJ US</displayName>
+    <minDate>2011-12-20</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.8111</latitude>
+    <longitude>-75.2214</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9284</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCS0006</id>
+    <displayName>EAST GULL LAKE 1.6 NE, MN US</displayName>
+    <minDate>2012-04-29</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>46.4094</latitude>
+    <longitude>-94.3288</longitude>
+    <elevation>369.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7556</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTMD0001</id>
+    <displayName>EAST HAMPTON 0.6 NE, CT US</displayName>
+    <minDate>2009-09-11</minDate>
+    <maxDate>2012-11-04</maxDate>
+    <latitude>41.5779</latitude>
+    <longitude>-72.4866</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00062169</id>
+    <displayName>EAST HAVEN SALTONSTA, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1997-12-31</maxDate>
+    <latitude>41.28472</latitude>
+    <longitude>-72.85639</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5575</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00432314</id>
+    <displayName>EAST HAVEN, VT US</displayName>
+    <minDate>1993-09-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>44.6425</latitude>
+    <longitude>-71.8908</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00432318</id>
+    <displayName>EAST HAVEN, VT US</displayName>
+    <minDate>1941-05-01</minDate>
+    <maxDate>1943-10-17</maxDate>
+    <latitude>44.633333</latitude>
+    <longitude>-71.9</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8689</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242634</id>
+    <displayName>EAST HELENA, MT US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>1958-02-28</maxDate>
+    <latitude>46.58333</latitude>
+    <longitude>-111.91667</longitude>
+    <elevation>1189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00672560</id>
+    <displayName>EAST HILL, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>17.7561</latitude>
+    <longitude>-64.6494</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9371</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00173794</id>
+    <displayName>EAST HIRAM, ME US</displayName>
+    <minDate>1965-06-01</minDate>
+    <maxDate>1970-10-31</maxDate>
+    <latitude>43.87861</latitude>
+    <longitude>-70.75389</longitude>
+    <elevation>160.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00172238</id>
+    <displayName>EAST HIRAM, ME US</displayName>
+    <minDate>1970-11-07</minDate>
+    <maxDate>2009-07-31</maxDate>
+    <latitude>43.87861</latitude>
+    <longitude>-70.75389</longitude>
+    <elevation>160.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302356</id>
+    <displayName>EAST HOMER 2, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1969-06-30</maxDate>
+    <latitude>42.71667</latitude>
+    <longitude>-76.11667</longitude>
+    <elevation>476.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302351</id>
+    <displayName>EAST HOMER, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-25</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-76.11667</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510450</id>
+    <displayName>EAST HONOKANE 183.2, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1975-01-31</maxDate>
+    <latitude>20.11667</latitude>
+    <longitude>-155.71667</longitude>
+    <elevation>1293</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510452</id>
+    <displayName>EAST HONOMANU 345, HI US</displayName>
+    <minDate>1950-06-01</minDate>
+    <maxDate>1961-01-31</maxDate>
+    <latitude>20.81667</latitude>
+    <longitude>-156.2</longitude>
+    <elevation>976</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202376</id>
+    <displayName>EAST HOUGHTON LAKE, MI US</displayName>
+    <minDate>1998-07-01</minDate>
+    <maxDate>2003-01-20</maxDate>
+    <latitude>44.36694</latitude>
+    <longitude>-84.68917</longitude>
+    <elevation>349.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0022</id>
+    <displayName>EAST ITHACA 2.6 ENE, NY US</displayName>
+    <minDate>2008-06-09</minDate>
+    <maxDate>2010-08-19</maxDate>
+    <latitude>42.4356</latitude>
+    <longitude>-76.4166</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9252</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0016</id>
+    <displayName>EAST ITHACA 3.6 SE, NY US</displayName>
+    <minDate>2008-04-09</minDate>
+    <maxDate>2008-10-19</maxDate>
+    <latitude>42.3949</latitude>
+    <longitude>-76.4105</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7268</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0018</id>
+    <displayName>EAST ITHACA 4.7 E, NY US</displayName>
+    <minDate>2008-04-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4191</latitude>
+    <longitude>-76.3733</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302362</id>
+    <displayName>EAST JEWETT, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>42.25</latitude>
+    <longitude>-74.18333</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302366</id>
+    <displayName>EAST JEWETT, NY US</displayName>
+    <minDate>1985-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2356</latitude>
+    <longitude>-74.1433</longitude>
+    <elevation>606.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MICX0006</id>
+    <displayName>EAST JORDAN 1.6 SSE, MI US</displayName>
+    <minDate>2012-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.1346</latitude>
+    <longitude>-85.123</longitude>
+    <elevation>181.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8082</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202382</id>
+    <displayName>EAST JORDAN 2 NW, MI US</displayName>
+    <minDate>2011-07-14</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.18639</latitude>
+    <longitude>-85.14778</longitude>
+    <elevation>196.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202381</id>
+    <displayName>EAST JORDAN, MI US</displayName>
+    <minDate>1926-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.1519</latitude>
+    <longitude>-85.1322</longitude>
+    <elevation>178.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTWN0004</id>
+    <displayName>EAST KILLINGLY 1.3 SW, CT US</displayName>
+    <minDate>2009-08-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.8381</latitude>
+    <longitude>-71.8391</longitude>
+    <elevation>112.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8936</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIIH0003</id>
+    <displayName>EAST LANSING 1.2 NE, MI US</displayName>
+    <minDate>2008-10-21</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>42.7487</latitude>
+    <longitude>-84.4687</longitude>
+    <elevation>262.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIIH0018</id>
+    <displayName>EAST LANSING 1.8 NNE, MI US</displayName>
+    <minDate>2009-07-09</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.7605</latitude>
+    <longitude>-84.4702</longitude>
+    <elevation>258.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6331</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202395</id>
+    <displayName>EAST LANSING 4 S, MI US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>2011-05-14</maxDate>
+    <latitude>42.67417</latitude>
+    <longitude>-84.485</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9472</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202393</id>
+    <displayName>EAST LANSING EXPERIM, MI US</displayName>
+    <minDate>1910-05-06</minDate>
+    <maxDate>1960-10-31</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-84.46667</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9578</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202394</id>
+    <displayName>EAST LANSING, MI US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1959-04-30</maxDate>
+    <latitude>42.73333</latitude>
+    <longitude>-84.48333</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4356</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0010</id>
+    <displayName>EAST LAS VEGAS 1.3 NNW, NV US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>36.1128</latitude>
+    <longitude>-115.0543</longitude>
+    <elevation>516.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510456</id>
+    <displayName>EAST LAWAI 934, HI US</displayName>
+    <minDate>1905-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.9011</latitude>
+    <longitude>-159.4969</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHLG0002</id>
+    <displayName>EAST LIBERTY 4.2 SSE, OH US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2012-09-22</maxDate>
+    <latitude>40.273</latitude>
+    <longitude>-83.5597</longitude>
+    <elevation>332.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014823</id>
+    <displayName>EAST LIVERPOOL WEATHER BUREAU AIRPORT, OH US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1948-08-31</maxDate>
+    <latitude>40.68333</latitude>
+    <longitude>-80.63333</longitude>
+    <elevation>355.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00462622</id>
+    <displayName>EAST LYNN LAKE, WV US</displayName>
+    <minDate>1997-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1436</latitude>
+    <longitude>-82.3828</longitude>
+    <elevation>201.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232416</id>
+    <displayName>EAST LYNNE, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1900-12-31</maxDate>
+    <latitude>38.668345</latitude>
+    <longitude>-94.22939</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9627</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00172320</id>
+    <displayName>EAST MACHIAS, ME US</displayName>
+    <minDate>1999-05-01</minDate>
+    <maxDate>2009-11-30</maxDate>
+    <latitude>44.7236</latitude>
+    <longitude>-67.3817</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00022782</id>
+    <displayName>EAST MESA, AZ US</displayName>
+    <minDate>2002-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.4191</latitude>
+    <longitude>-111.6444</longitude>
+    <elevation>462.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00272302</id>
+    <displayName>EAST MILFORD, NH US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8266</latitude>
+    <longitude>-71.626</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0020</id>
+    <displayName>EAST MILLCREEK 1.5 NNW, UT US</displayName>
+    <minDate>2008-07-03</minDate>
+    <maxDate>2010-01-06</maxDate>
+    <latitude>40.7088</latitude>
+    <longitude>-111.8338</longitude>
+    <elevation>1382.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014753</id>
+    <displayName>EAST MILTON BLUE HILL OBSERVATORY, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2123</latitude>
+    <longitude>-71.1137</longitude>
+    <elevation>190.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSF0019</id>
+    <displayName>EAST MORICHES 0.6 WNW, NY US</displayName>
+    <minDate>2009-06-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8123</latitude>
+    <longitude>-72.7718</longitude>
+    <elevation>12.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9724</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPT0008</id>
+    <displayName>EAST PALATKA 3.5 NNW, FL US</displayName>
+    <minDate>2009-08-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6962</latitude>
+    <longitude>-81.6264</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042640</id>
+    <displayName>EAST PARK RESERVOIR, CA US</displayName>
+    <minDate>1910-11-01</minDate>
+    <maxDate>2003-08-31</maxDate>
+    <latitude>39.35917</latitude>
+    <longitude>-122.51778</longitude>
+    <elevation>367.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILTZ0007</id>
+    <displayName>EAST PEORIA 1.6 SSE, IL US</displayName>
+    <minDate>2007-03-14</minDate>
+    <maxDate>2007-09-05</maxDate>
+    <latitude>40.6494</latitude>
+    <longitude>-89.5415</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00112620</id>
+    <displayName>EAST PEORIA 6 NE, IL US</displayName>
+    <minDate>2006-12-01</minDate>
+    <maxDate>2007-06-30</maxDate>
+    <latitude>40.70778</latitude>
+    <longitude>-89.48056</longitude>
+    <elevation>219.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192369</id>
+    <displayName>EAST PEPPERELL, MA US</displayName>
+    <minDate>1955-11-10</minDate>
+    <maxDate>1970-05-31</maxDate>
+    <latitude>42.66667</latitude>
+    <longitude>-71.56667</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFT0019</id>
+    <displayName>EAST POINT 6.3 WNW, GA US</displayName>
+    <minDate>2008-11-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7014</latitude>
+    <longitude>-84.5722</longitude>
+    <elevation>264.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA004032335</id>
+    <displayName>EAST POPLAR RIVER, US</displayName>
+    <minDate>1961-07-01</minDate>
+    <maxDate>1979-05-31</maxDate>
+    <latitude>49</latitude>
+    <longitude>-105.42</longitude>
+    <elevation>739</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00462638</id>
+    <displayName>EAST RAINELLE 3 NNE, WV US</displayName>
+    <minDate>1942-01-19</minDate>
+    <maxDate>1981-01-31</maxDate>
+    <latitude>38</latitude>
+    <longitude>-80.75</longitude>
+    <elevation>737.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7632</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHL0003</id>
+    <displayName>EAST RIDGE 1.2 W, TN US</displayName>
+    <minDate>2007-05-05</minDate>
+    <maxDate>2009-01-29</maxDate>
+    <latitude>34.9949</latitude>
+    <longitude>-85.2495</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010F17S</id>
+    <displayName>EAST RIM DIVIDE, WY US</displayName>
+    <minDate>1985-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.1333</latitude>
+    <longitude>-110.2</longitude>
+    <elevation>2417.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9705</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYMR0004</id>
+    <displayName>EAST ROCHESTER 0.3 SE, NY US</displayName>
+    <minDate>2007-12-12</minDate>
+    <maxDate>2008-06-23</maxDate>
+    <latitude>43.1089</latitude>
+    <longitude>-77.4823</longitude>
+    <elevation>128.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYMR0005</id>
+    <displayName>EAST ROCHESTER 2.1 NW, NY US</displayName>
+    <minDate>2008-04-02</minDate>
+    <maxDate>2011-06-07</maxDate>
+    <latitude>43.1305</latitude>
+    <longitude>-77.5202</longitude>
+    <elevation>106.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9096</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00432578</id>
+    <displayName>EAST RYEGATE, VT US</displayName>
+    <minDate>1930-05-01</minDate>
+    <maxDate>1949-06-30</maxDate>
+    <latitude>44.2</latitude>
+    <longitude>-72.06667</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0010</id>
+    <displayName>EAST SANDWICH 2.3 SE, MA US</displayName>
+    <minDate>2011-01-30</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>41.722</latitude>
+    <longitude>-70.4179</longitude>
+    <elevation>25.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192372</id>
+    <displayName>EAST SANDWICH, MA US</displayName>
+    <minDate>2009-10-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7145</latitude>
+    <longitude>-70.4718</longitude>
+    <elevation>45.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00172442</id>
+    <displayName>EAST SANGERVILLE 5 S, ME US</displayName>
+    <minDate>1947-05-01</minDate>
+    <maxDate>1969-05-31</maxDate>
+    <latitude>45.13333</latitude>
+    <longitude>-69.28333</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9559</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00172440</id>
+    <displayName>EAST SANGERVILLE, ME US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.13694</latitude>
+    <longitude>-69.28056</longitude>
+    <elevation>193.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9096</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302454</id>
+    <displayName>EAST SIDNEY, NY US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3329</latitude>
+    <longitude>-75.2296</longitude>
+    <elevation>352</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1419</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00452376</id>
+    <displayName>EAST SOUND, WA US</displayName>
+    <minDate>1891-07-01</minDate>
+    <maxDate>1912-12-31</maxDate>
+    <latitude>48.666667</latitude>
+    <longitude>-122.933333</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00112614</id>
+    <displayName>EAST ST LOUIS PARKS COLLEGE, IL US</displayName>
+    <minDate>1910-07-01</minDate>
+    <maxDate>1968-12-31</maxDate>
+    <latitude>38.56667</latitude>
+    <longitude>-90.18333</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00362442</id>
+    <displayName>EAST STROUDSBURG UNIVERSITY, PA US</displayName>
+    <minDate>1975-03-01</minDate>
+    <maxDate>1985-06-30</maxDate>
+    <latitude>41</latitude>
+    <longitude>-75.16667</longitude>
+    <elevation>157.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6657</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEHN0002</id>
+    <displayName>EAST SURRY, ME US</displayName>
+    <minDate>2009-07-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.49</latitude>
+    <longitude>-68.46</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9467</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00172443</id>
+    <displayName>EAST SURRY, ME US</displayName>
+    <minDate>2011-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.4934</latitude>
+    <longitude>-68.4582</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+</stationCollection>

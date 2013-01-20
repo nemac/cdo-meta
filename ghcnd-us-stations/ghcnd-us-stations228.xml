@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="228">
+  <station>
+    <id>GHCND:USC00134557</id>
+    <displayName>LAKE MILLS, IA US</displayName>
+    <minDate>1955-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4177</latitude>
+    <longitude>-93.5347</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474482</id>
+    <displayName>LAKE MILLS, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0802</latitude>
+    <longitude>-88.8966</longitude>
+    <elevation>249</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334340</id>
+    <displayName>LAKE MILTON, OH US</displayName>
+    <minDate>1920-01-01</minDate>
+    <maxDate>1949-01-31</maxDate>
+    <latitude>41.11667</latitude>
+    <longitude>-80.98333</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6482</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ALMI</id>
+    <displayName>LAKE MINCHUMINA ALASKA, AK US</displayName>
+    <minDate>1992-06-22</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>63.8933</latitude>
+    <longitude>-152.3106</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9169</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364727</id>
+    <displayName>LAKE MINISINK, PA US</displayName>
+    <minDate>1959-06-01</minDate>
+    <maxDate>1987-07-31</maxDate>
+    <latitude>41.21667</latitude>
+    <longitude>-75.05</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00184980</id>
+    <displayName>LAKE MONTEBELLO BALTIMORE CITY, MD US</displayName>
+    <minDate>1905-12-01</minDate>
+    <maxDate>1922-10-31</maxDate>
+    <latitude>39.333333</latitude>
+    <longitude>-76.583333</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7182</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054750</id>
+    <displayName>LAKE MORAINE, CO US</displayName>
+    <minDate>1894-05-11</minDate>
+    <maxDate>2009-11-10</maxDate>
+    <latitude>38.81667</latitude>
+    <longitude>-104.98333</longitude>
+    <elevation>3128.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044690</id>
+    <displayName>LAKE MOUNTAIN, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.01667</latitude>
+    <longitude>-123.4</longitude>
+    <elevation>964.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505374</id>
+    <displayName>LAKE NERKA, AK US</displayName>
+    <minDate>1952-01-09</minDate>
+    <maxDate>1965-05-31</maxDate>
+    <latitude>59.56667</latitude>
+    <longitude>-159.03333</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5685</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHM0006</id>
+    <displayName>LAKE NORDEN 3.3 WNW, SD US</displayName>
+    <minDate>2007-06-14</minDate>
+    <maxDate>2009-06-27</maxDate>
+    <latitude>44.5968</latitude>
+    <longitude>-97.2697</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.157</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHM0008</id>
+    <displayName>LAKE NORDEN 4.3 ENE, SD US</displayName>
+    <minDate>2007-06-24</minDate>
+    <maxDate>2010-09-25</maxDate>
+    <latitude>44.5943</latitude>
+    <longitude>-97.1241</longitude>
+    <elevation>509</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CANV0014</id>
+    <displayName>LAKE OF THE PINES 1.0 WSW, CA US</displayName>
+    <minDate>2009-01-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0322</latitude>
+    <longitude>-121.0774</longitude>
+    <elevation>480.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9203</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CANV0019</id>
+    <displayName>LAKE OF THE PINES 1.3 NNW, CA US</displayName>
+    <minDate>2009-01-02</minDate>
+    <maxDate>2011-11-21</maxDate>
+    <latitude>39.0558</latitude>
+    <longitude>-121.0699</longitude>
+    <elevation>465.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CANV0033</id>
+    <displayName>LAKE OF THE PINES 4.7 WNW, CA US</displayName>
+    <minDate>2009-01-02</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>39.0535</latitude>
+    <longitude>-121.1456</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444692</id>
+    <displayName>LAKE OF THE WOODS, VA US</displayName>
+    <minDate>1999-08-01</minDate>
+    <maxDate>2001-10-31</maxDate>
+    <latitude>38.35056</latitude>
+    <longitude>-77.75306</longitude>
+    <elevation>109.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9757</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0062</id>
+    <displayName>LAKE ORION 4.3 SSE, MI US</displayName>
+    <minDate>2012-03-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7228</latitude>
+    <longitude>-83.2256</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0031</id>
+    <displayName>LAKE OSWEGO 1.3 ESE, OR US</displayName>
+    <minDate>2009-07-30</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.4059</latitude>
+    <longitude>-122.6725</longitude>
+    <elevation>88.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344978</id>
+    <displayName>LAKE OVERHOLSER, OK US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.4879</latitude>
+    <longitude>-97.6645</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414979</id>
+    <displayName>LAKE PALO PINTO, TX US</displayName>
+    <minDate>1994-05-01</minDate>
+    <maxDate>2005-02-24</maxDate>
+    <latitude>32.64333</latitude>
+    <longitude>-98.31806</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IADK0006</id>
+    <displayName>LAKE PARK 0.2 N, IA US</displayName>
+    <minDate>2010-04-19</minDate>
+    <maxDate>2012-10-23</maxDate>
+    <latitude>43.4516</latitude>
+    <longitude>-95.3251</longitude>
+    <elevation>447.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5234</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GALW0004</id>
+    <displayName>LAKE PARK 2.8 W, GA US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.683</latitude>
+    <longitude>-83.236</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IADK0003</id>
+    <displayName>LAKE PARK 3.2 SSE, IA US</displayName>
+    <minDate>2008-10-11</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>43.403</latitude>
+    <longitude>-95.3079</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6586</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNBK0002</id>
+    <displayName>LAKE PARK 4.8 SW, MN US</displayName>
+    <minDate>2010-04-15</minDate>
+    <maxDate>2011-05-31</maxDate>
+    <latitude>46.8298</latitude>
+    <longitude>-96.1605</longitude>
+    <elevation>444.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5607</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134561</id>
+    <displayName>LAKE PARK, IA US</displayName>
+    <minDate>1912-08-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>43.4483</latitude>
+    <longitude>-95.3247</longitude>
+    <elevation>446.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9001</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044698</id>
+    <displayName>LAKE PILLSBURY 2, CA US</displayName>
+    <minDate>1964-02-01</minDate>
+    <maxDate>1970-04-30</maxDate>
+    <latitude>39.41667</latitude>
+    <longitude>-122.98333</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044697</id>
+    <displayName>LAKE PILLSBURY, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>39.41667</latitude>
+    <longitude>-122.96667</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044156</id>
+    <displayName>LAKE PILLSBURY, CA US</displayName>
+    <minDate>1909-10-10</minDate>
+    <maxDate>1937-07-31</maxDate>
+    <latitude>39.41667</latitude>
+    <longitude>-122.96667</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHL0003</id>
+    <displayName>LAKE PLACID 1.1 WSW, FL US</displayName>
+    <minDate>2005-10-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.2877</latitude>
+    <longitude>-81.3853</longitude>
+    <elevation>32.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6596</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYES0001</id>
+    <displayName>LAKE PLACID 1.5 N, NY US</displayName>
+    <minDate>2008-09-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3049</latitude>
+    <longitude>-73.9864</longitude>
+    <elevation>578.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304555</id>
+    <displayName>LAKE PLACID 2 S, NY US</displayName>
+    <minDate>1897-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.249</latitude>
+    <longitude>-73.985</longitude>
+    <elevation>591.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084845</id>
+    <displayName>LAKE PLACID 2 SW, FL US</displayName>
+    <minDate>1933-03-01</minDate>
+    <maxDate>1968-12-31</maxDate>
+    <latitude>27.28333</latitude>
+    <longitude>-81.38333</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9209</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHL0018</id>
+    <displayName>LAKE PLACID 2.5 S, FL US</displayName>
+    <minDate>2008-07-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.2614</latitude>
+    <longitude>-81.3715</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHL0024</id>
+    <displayName>LAKE PLACID 2.6 SW, FL US</displayName>
+    <minDate>2010-01-20</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>27.2714</latitude>
+    <longitude>-81.4005</longitude>
+    <elevation>32.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1116</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHL0017</id>
+    <displayName>LAKE PLACID 3.8 W, FL US</displayName>
+    <minDate>2008-04-02</minDate>
+    <maxDate>2009-05-27</maxDate>
+    <latitude>27.3068</latitude>
+    <longitude>-81.4312</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6057</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHL0016</id>
+    <displayName>LAKE PLACID 3.9 WNW, FL US</displayName>
+    <minDate>2008-02-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.3169</latitude>
+    <longitude>-81.4297</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHL0023</id>
+    <displayName>LAKE PLACID 4.0 NE, FL US</displayName>
+    <minDate>2009-11-22</minDate>
+    <maxDate>2011-03-08</maxDate>
+    <latitude>27.3358</latitude>
+    <longitude>-81.321</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9534</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHL0001</id>
+    <displayName>LAKE PLACID 9.4 SE, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.2054</latitude>
+    <longitude>-81.2574</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024770</id>
+    <displayName>LAKE PLEASANT, AZ US</displayName>
+    <minDate>1959-01-01</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>33.8383</latitude>
+    <longitude>-112.2661</longitude>
+    <elevation>468.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00021295</id>
+    <displayName>LAKE PLEASANT, AZ US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>1958-12-31</maxDate>
+    <latitude>33.8383</latitude>
+    <longitude>-112.2661</longitude>
+    <elevation>468.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDKY0001</id>
+    <displayName>LAKE PRESTON 4.0 SW, SD US</displayName>
+    <minDate>2007-06-25</minDate>
+    <maxDate>2008-02-28</maxDate>
+    <latitude>44.3193</latitude>
+    <longitude>-97.4303</longitude>
+    <elevation>515.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9277</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165090</id>
+    <displayName>LAKE PROVIDENCE, LA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8066</latitude>
+    <longitude>-91.173</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0005</id>
+    <displayName>LAKE PURDY 0.6 NNE, AL US</displayName>
+    <minDate>2007-10-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.438</latitude>
+    <longitude>-86.6755</longitude>
+    <elevation>193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0048</id>
+    <displayName>LAKE PURDY 2.6 ESE, AL US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4198</latitude>
+    <longitude>-86.6378</longitude>
+    <elevation>291.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0014</id>
+    <displayName>LAKE PURDY 3.6 ENE, AL US</displayName>
+    <minDate>2007-10-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4446</latitude>
+    <longitude>-86.6212</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8721</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0002</id>
+    <displayName>LAKE PURDY 5.8 ENE, AL US</displayName>
+    <minDate>2002-02-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4631</latitude>
+    <longitude>-86.5874</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4228</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314780</id>
+    <displayName>LAKE RALEIGH, NC US</displayName>
+    <minDate>1926-11-14</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>35.75</latitude>
+    <longitude>-78.68333</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414914</id>
+    <displayName>LAKE RAY HUBBARD, TX US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.8</latitude>
+    <longitude>-96.48333</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5556</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAPW0001</id>
+    <displayName>LAKE RIDGE 1.7 SW, VA US</displayName>
+    <minDate>2005-11-01</minDate>
+    <maxDate>2010-08-10</maxDate>
+    <latitude>38.6736</latitude>
+    <longitude>-77.3233</longitude>
+    <elevation>89.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304563</id>
+    <displayName>LAKE RONKONKOMA, NY US</displayName>
+    <minDate>1948-05-02</minDate>
+    <maxDate>1967-08-31</maxDate>
+    <latitude>40.83333</latitude>
+    <longitude>-73.13333</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044705</id>
+    <displayName>LAKE SABRINA, CA US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>37.213</latitude>
+    <longitude>-118.6136</longitude>
+    <elevation>2763</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6548</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0012</id>
+    <displayName>LAKE SARASOTA 4.0 ESE, FL US</displayName>
+    <minDate>2007-10-02</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>27.2615</latitude>
+    <longitude>-82.3834</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.717</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394766</id>
+    <displayName>LAKE SHARPE PROJECT, SD US</displayName>
+    <minDate>1972-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.0644</latitude>
+    <longitude>-99.4602</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00390649</id>
+    <displayName>LAKE SHARPE PROJECT, SD US</displayName>
+    <minDate>1965-04-01</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>44.0644</latitude>
+    <longitude>-99.4602</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044712</id>
+    <displayName>LAKE SOLANO, CA US</displayName>
+    <minDate>1975-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.493</latitude>
+    <longitude>-122.0047</longitude>
+    <elevation>50.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044714</id>
+    <displayName>LAKE SPAULDING DAM, CA US</displayName>
+    <minDate>1955-07-23</minDate>
+    <maxDate>1971-09-30</maxDate>
+    <latitude>39.33333</latitude>
+    <longitude>-120.63333</longitude>
+    <elevation>1562.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044713</id>
+    <displayName>LAKE SPAULDING, CA US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>2003-05-31</maxDate>
+    <latitude>39.31833</latitude>
+    <longitude>-120.63917</longitude>
+    <elevation>1571.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114833</id>
+    <displayName>LAKE SPRINGFIELD, IL US</displayName>
+    <minDate>2003-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.7578</latitude>
+    <longitude>-89.6044</longitude>
+    <elevation>178.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9386</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0074</id>
+    <displayName>LAKE STEVENS 0.9 NW, WA US</displayName>
+    <minDate>2010-11-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.0279</latitude>
+    <longitude>-122.0773</longitude>
+    <elevation>120.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505397</id>
+    <displayName>LAKE SUSITNA, AK US</displayName>
+    <minDate>1990-05-01</minDate>
+    <maxDate>2003-12-31</maxDate>
+    <latitude>62.45278</latitude>
+    <longitude>-146.67889</longitude>
+    <elevation>723.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454438</id>
+    <displayName>LAKE SUTHERLAND, WA US</displayName>
+    <minDate>1928-11-01</minDate>
+    <maxDate>1976-05-31</maxDate>
+    <latitude>48.08333</latitude>
+    <longitude>-123.7</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414980</id>
+    <displayName>LAKE TAWAKONI, TX US</displayName>
+    <minDate>1994-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.85222</latitude>
+    <longitude>-95.88639</longitude>
+    <elevation>136.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9902</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414483</id>
+    <displayName>LAKE TAWAKONI, TX US</displayName>
+    <minDate>1975-05-01</minDate>
+    <maxDate>1993-12-31</maxDate>
+    <latitude>32.85222</latitude>
+    <longitude>-95.88639</longitude>
+    <elevation>136.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344984</id>
+    <displayName>LAKE THOMAS, OK US</displayName>
+    <minDate>1940-07-01</minDate>
+    <maxDate>1942-10-18</maxDate>
+    <latitude>34.716667</latitude>
+    <longitude>-98.516667</longitude>
+    <elevation>419.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCTR0014</id>
+    <displayName>LAKE TOXAWAY 1.3 NNW, NC US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2011-03-06</maxDate>
+    <latitude>35.1504</latitude>
+    <longitude>-82.939</longitude>
+    <elevation>954</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8781</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCTR0004</id>
+    <displayName>LAKE TOXAWAY 1.4 NE, NC US</displayName>
+    <minDate>2007-09-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1461</latitude>
+    <longitude>-82.9165</longitude>
+    <elevation>1027.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314788</id>
+    <displayName>LAKE TOXAWAY 2 SW, NC US</displayName>
+    <minDate>1950-07-04</minDate>
+    <maxDate>2012-08-02</maxDate>
+    <latitude>35.115</latitude>
+    <longitude>-82.9566</longitude>
+    <elevation>938.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9213</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCTR0018</id>
+    <displayName>LAKE TOXAWAY 3.2 ENE, NC US</displayName>
+    <minDate>2012-06-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1445</latitude>
+    <longitude>-82.8791</longitude>
+    <elevation>798.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8222</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084866</id>
+    <displayName>LAKE TRAFFORD, FL US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>1968-06-30</maxDate>
+    <latitude>26.43333</latitude>
+    <longitude>-81.48333</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264384</id>
+    <displayName>LAKE VALLEY STEWARD, NV US</displayName>
+    <minDate>1971-01-01</minDate>
+    <maxDate>1998-11-30</maxDate>
+    <latitude>38.31667</latitude>
+    <longitude>-114.65</longitude>
+    <elevation>1935.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264379</id>
+    <displayName>LAKE VALLEY, NV US</displayName>
+    <minDate>1966-09-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>38.36667</latitude>
+    <longitude>-114.61667</longitude>
+    <elevation>1823.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5196</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414981</id>
+    <displayName>LAKE VICTOR 3 W, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-11-30</maxDate>
+    <latitude>30.9</latitude>
+    <longitude>-98.23333</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IASC0003</id>
+    <displayName>LAKE VIEW 1.3 ESE, IA US</displayName>
+    <minDate>2012-05-02</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>42.3024</latitude>
+    <longitude>-95.0224</longitude>
+    <elevation>369.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00034015</id>
+    <displayName>LAKE VIEW, AR US</displayName>
+    <minDate>2001-11-01</minDate>
+    <maxDate>2005-02-28</maxDate>
+    <latitude>34.41639</latitude>
+    <longitude>-90.79861</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9457</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134569</id>
+    <displayName>LAKE VIEW, IA US</displayName>
+    <minDate>1938-08-01</minDate>
+    <maxDate>1962-09-30</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-95.05</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9913</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0009</id>
+    <displayName>LAKE VILLA 1.1 SSW, IL US</displayName>
+    <minDate>2007-03-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4031</latitude>
+    <longitude>-88.0905</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9251</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114837</id>
+    <displayName>LAKE VILLA 2 NE, IL US</displayName>
+    <minDate>1985-12-01</minDate>
+    <maxDate>2006-02-01</maxDate>
+    <latitude>42.4308</latitude>
+    <longitude>-88.0594</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0005</id>
+    <displayName>LAKE VILLA 2.1 NNE, IL US</displayName>
+    <minDate>2007-02-22</minDate>
+    <maxDate>2011-12-21</maxDate>
+    <latitude>42.4471</latitude>
+    <longitude>-88.0693</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3209</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INNW0010</id>
+    <displayName>LAKE VILLAGE 2.3 W, IN US</displayName>
+    <minDate>2011-05-08</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.1371</latitude>
+    <longitude>-87.4929</longitude>
+    <elevation>197.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARCH0001</id>
+    <displayName>LAKE VILLAGE 2.9 NNE, AR US</displayName>
+    <minDate>2012-08-02</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>33.3657</latitude>
+    <longitude>-91.2718</longitude>
+    <elevation>37.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124778</id>
+    <displayName>LAKE VILLAGE 7 SE, IN US</displayName>
+    <minDate>2003-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0856</latitude>
+    <longitude>-87.3828</longitude>
+    <elevation>205.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCL0017</id>
+    <displayName>LAKE WACCAMAW 3.1 SSW, NC US</displayName>
+    <minDate>2012-01-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.28</latitude>
+    <longitude>-78.54</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0038</id>
+    <displayName>LAKE WALES 4.6 NW, FL US</displayName>
+    <minDate>2009-01-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.96</latitude>
+    <longitude>-81.66</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9404</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPK0021</id>
+    <displayName>LAKE WALES 5.8 NNE, FL US</displayName>
+    <minDate>2007-11-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.973</latitude>
+    <longitude>-81.539</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234660</id>
+    <displayName>LAKE WAPPAPELLO STATE PARK, MO US</displayName>
+    <minDate>2006-08-01</minDate>
+    <maxDate>2011-05-17</maxDate>
+    <latitude>36.9381</latitude>
+    <longitude>-90.3223</longitude>
+    <elevation>177.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454446</id>
+    <displayName>LAKE WENATCHEE, WA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>2012-10-16</maxDate>
+    <latitude>47.8374</latitude>
+    <longitude>-120.7977</longitude>
+    <elevation>623.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7089</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454454</id>
+    <displayName>LAKE WHATCOM, WA US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>1954-05-16</maxDate>
+    <latitude>48.68333</latitude>
+    <longitude>-122.3</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9398</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044722</id>
+    <displayName>LAKE WILENOR, CA US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>39.6</latitude>
+    <longitude>-121.53333</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7814</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214534</id>
+    <displayName>LAKE WILSON, MN US</displayName>
+    <minDate>1973-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.9981</latitude>
+    <longitude>-95.9572</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044726</id>
+    <displayName>LAKE WOHLFORD, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.16667</latitude>
+    <longitude>-117</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPB0013</id>
+    <displayName>LAKE WORTH 1.0 NNW, FL US</displayName>
+    <minDate>2007-11-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.6331</latitude>
+    <longitude>-80.0661</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPB0019</id>
+    <displayName>LAKE WORTH 1.2 N, FL US</displayName>
+    <minDate>2009-06-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.6362</latitude>
+    <longitude>-80.0558</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPB0020</id>
+    <displayName>LAKE WORTH 8.9 W, FL US</displayName>
+    <minDate>2009-07-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.6211</latitude>
+    <longitude>-80.2021</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0003</id>
+    <displayName>LAKE WYLIE 2.3 SW, SC US</displayName>
+    <minDate>2008-02-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0842</latitude>
+    <longitude>-81.0775</longitude>
+    <elevation>199.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485345</id>
+    <displayName>LAKE YELLOWSTONE, WY US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.5619</latitude>
+    <longitude>-110.3986</longitude>
+    <elevation>2398.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8876</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0067</id>
+    <displayName>LAKE ZURICH 1.3 E, IL US</displayName>
+    <minDate>2012-04-14</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>42.1954</latitude>
+    <longitude>-88.0638</longitude>
+    <elevation>253.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105080</id>
+    <displayName>LAKE, ID US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1937-11-30</maxDate>
+    <latitude>44.7</latitude>
+    <longitude>-111.366667</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224824</id>
+    <displayName>LAKE, MS US</displayName>
+    <minDate>1892-07-01</minDate>
+    <maxDate>1933-03-31</maxDate>
+    <latitude>32.35</latitude>
+    <longitude>-89.33333</longitude>
+    <elevation>143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214453</id>
+    <displayName>LAKEFIELD, MN US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.7022</latitude>
+    <longitude>-95.1519</longitude>
+    <elevation>466.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.29</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010J25S</id>
+    <displayName>LAKEFORK BASIN, UT US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.75</latitude>
+    <longitude>-110.6167</longitude>
+    <elevation>3322.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8386</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010J10S</id>
+    <displayName>LAKEFORK NUMBER 1, UT US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.6</latitude>
+    <longitude>-110.4333</longitude>
+    <elevation>3078.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8841</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="315">
+  <station>
+    <id>GHCND:USW00014950</id>
+    <displayName>OTTUMWA INDUSTRIAL AIRPORT, IA US</displayName>
+    <minDate>1948-01-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.1077</latitude>
+    <longitude>-92.4466</longitude>
+    <elevation>256.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014948</id>
+    <displayName>OTTUMWA NAS, IA US</displayName>
+    <minDate>1945-02-01</minDate>
+    <maxDate>1947-07-31</maxDate>
+    <latitude>41.1</latitude>
+    <longitude>-92.43333</longitude>
+    <elevation>257.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8233</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00136392</id>
+    <displayName>OTTUMWA NUMBER 1, IA US</displayName>
+    <minDate>2000-11-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.0244</latitude>
+    <longitude>-92.4083</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7372</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00136391</id>
+    <displayName>OTTUMWA, IA US</displayName>
+    <minDate>1917-04-01</minDate>
+    <maxDate>1964-12-31</maxDate>
+    <latitude>41.01667</latitude>
+    <longitude>-92.43333</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396397</id>
+    <displayName>OTTUMWA, SD US</displayName>
+    <minDate>1908-04-01</minDate>
+    <maxDate>1944-12-31</maxDate>
+    <latitude>44.21667</latitude>
+    <longitude>-101.36667</longitude>
+    <elevation>641</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9154</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256415</id>
+    <displayName>OUGH, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1901-10-31</maxDate>
+    <latitude>40.333333</latitude>
+    <longitude>-101.533333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOR0003</id>
+    <displayName>OURAY 0.2 SSW, CO US</displayName>
+    <minDate>2004-07-14</minDate>
+    <maxDate>2007-05-10</maxDate>
+    <latitude>38.019</latitude>
+    <longitude>-107.6729</longitude>
+    <elevation>2389</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.259</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00426565</id>
+    <displayName>OURAY 1 E, UT US</displayName>
+    <minDate>1975-10-01</minDate>
+    <maxDate>1976-02-29</maxDate>
+    <latitude>40.08333</latitude>
+    <longitude>-109.66667</longitude>
+    <elevation>1421</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOR0004</id>
+    <displayName>OURAY 1.4 N, CO US</displayName>
+    <minDate>2004-07-17</minDate>
+    <maxDate>2006-06-13</maxDate>
+    <latitude>38.0432</latitude>
+    <longitude>-107.6728</longitude>
+    <elevation>2930</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3171</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COOR0005</id>
+    <displayName>OURAY 2.2 NNW, CO US</displayName>
+    <minDate>2004-07-29</minDate>
+    <maxDate>2006-06-13</maxDate>
+    <latitude>38.0525</latitude>
+    <longitude>-107.6876</longitude>
+    <elevation>2331.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3139</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00426568</id>
+    <displayName>OURAY 4 NE, UT US</displayName>
+    <minDate>1941-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.1342</latitude>
+    <longitude>-109.6422</longitude>
+    <elevation>1421.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056205</id>
+    <displayName>OURAY NUMBER 2, CO US</displayName>
+    <minDate>2004-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0263</latitude>
+    <longitude>-107.6725</longitude>
+    <elevation>2352.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056203</id>
+    <displayName>OURAY, CO US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>2006-05-31</maxDate>
+    <latitude>38.0205</latitude>
+    <longitude>-107.6686</longitude>
+    <elevation>2389.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTSH0003</id>
+    <displayName>OUTLOOK 5.6 WNW, MT US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.9135</latitude>
+    <longitude>-104.8999</longitude>
+    <elevation>696.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246292</id>
+    <displayName>OUTLOOK, MT US</displayName>
+    <minDate>1918-09-07</minDate>
+    <maxDate>1951-07-08</maxDate>
+    <latitude>48.9</latitude>
+    <longitude>-104.83333</longitude>
+    <elevation>668.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506853</id>
+    <displayName>OUZINKIE, AK US</displayName>
+    <minDate>1989-05-01</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>57.92556</latitude>
+    <longitude>-152.50111</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTPW0003</id>
+    <displayName>OVANDO 2.9 SW, MT US</displayName>
+    <minDate>2008-08-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.9937</latitude>
+    <longitude>-113.1742</longitude>
+    <elevation>1236.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4189</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246307</id>
+    <displayName>OVANDO 7 WNW, MT US</displayName>
+    <minDate>1949-11-19</minDate>
+    <maxDate>1969-07-31</maxDate>
+    <latitude>47.05</latitude>
+    <longitude>-113.28333</longitude>
+    <elevation>1220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246304</id>
+    <displayName>OVANDO 9 SSE, MT US</displayName>
+    <minDate>1976-08-05</minDate>
+    <maxDate>2011-02-28</maxDate>
+    <latitude>46.8819</latitude>
+    <longitude>-113.0564</longitude>
+    <elevation>1318.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246302</id>
+    <displayName>OVANDO, MT US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1976-05-31</maxDate>
+    <latitude>47.01889</latitude>
+    <longitude>-113.13139</longitude>
+    <elevation>1252.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSOS0011</id>
+    <displayName>OVERBROOK 1.2 NW, KS US</displayName>
+    <minDate>2008-03-13</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.7907</latitude>
+    <longitude>-95.575</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146154</id>
+    <displayName>OVERBROOK 7 SE, KS US</displayName>
+    <minDate>1928-03-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.7316</latitude>
+    <longitude>-95.4429</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146159</id>
+    <displayName>OVERBROOK 9 E, KS US</displayName>
+    <minDate>1922-04-01</minDate>
+    <maxDate>1950-05-31</maxDate>
+    <latitude>38.78333</latitude>
+    <longitude>-95.4</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0032</id>
+    <displayName>OVERLAND PARK 0.5 NE, KS US</displayName>
+    <minDate>2009-07-28</minDate>
+    <maxDate>2010-07-30</maxDate>
+    <latitude>38.9196</latitude>
+    <longitude>-94.6783</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3071</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0021</id>
+    <displayName>OVERLAND PARK 0.5 SE, KS US</displayName>
+    <minDate>2008-06-24</minDate>
+    <maxDate>2009-06-25</maxDate>
+    <latitude>38.9087</latitude>
+    <longitude>-94.6785</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5422</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0034</id>
+    <displayName>OVERLAND PARK 0.6 SE, KS US</displayName>
+    <minDate>2010-01-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9765</latitude>
+    <longitude>-94.6618</longitude>
+    <elevation>323.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0028</id>
+    <displayName>OVERLAND PARK 2.6 N, KS US</displayName>
+    <minDate>2009-04-18</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>38.9512</latitude>
+    <longitude>-94.6939</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2598</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0008</id>
+    <displayName>OVERLAND PARK 4.3 NNE, KS US</displayName>
+    <minDate>2005-09-16</minDate>
+    <maxDate>2011-01-08</maxDate>
+    <latitude>38.9749</latitude>
+    <longitude>-94.6687</longitude>
+    <elevation>316.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSJO0036</id>
+    <displayName>OVERLAND PARK 4.6 S, KS US</displayName>
+    <minDate>2010-06-06</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.8495</latitude>
+    <longitude>-94.6713</longitude>
+    <elevation>299.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6824</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146168</id>
+    <displayName>OVERLAND PARK S 87TH, KS US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.9534</latitude>
+    <longitude>-94.7143</longitude>
+    <elevation>321.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0420</id>
+    <displayName>OVERLAND PONDS, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.5703</latitude>
+    <longitude>-105.135</longitude>
+    <elevation>1560.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007K14S</id>
+    <displayName>OVERLAND RES., CO US</displayName>
+    <minDate>1989-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.0833</latitude>
+    <longitude>-107.6333</longitude>
+    <elevation>3011.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10daws014</id>
+    <displayName>OVERTON 2.2 SE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2010-06-23</maxDate>
+    <latitude>40.7135</latitude>
+    <longitude>-99.5213</longitude>
+    <elevation>707.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8142</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256439</id>
+    <displayName>OVERTON 3 W, NE US</displayName>
+    <minDate>1984-04-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>40.74556</latitude>
+    <longitude>-99.59</longitude>
+    <elevation>710.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9817</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256435</id>
+    <displayName>OVERTON, NE US</displayName>
+    <minDate>1925-04-01</minDate>
+    <maxDate>1949-11-30</maxDate>
+    <latitude>40.73333</latitude>
+    <longitude>-99.48333</longitude>
+    <elevation>708.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2858</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265846</id>
+    <displayName>OVERTON, NV US</displayName>
+    <minDate>1939-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5508</latitude>
+    <longitude>-114.458</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6515</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416722</id>
+    <displayName>OVERTON, TX US</displayName>
+    <minDate>1943-12-01</minDate>
+    <maxDate>1987-10-31</maxDate>
+    <latitude>32.26667</latitude>
+    <longitude>-94.98333</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00226626</id>
+    <displayName>OVETT, MS US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>31.48333</latitude>
+    <longitude>-89.03333</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSG0027</id>
+    <displayName>OVID 0.1 WNW, CO US</displayName>
+    <minDate>2010-03-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9604</latitude>
+    <longitude>-102.3902</longitude>
+    <elevation>1076.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8464</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSG0024</id>
+    <displayName>OVID 3.7 S, CO US</displayName>
+    <minDate>2006-01-08</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>40.9066</latitude>
+    <longitude>-102.383</longitude>
+    <elevation>1152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306346</id>
+    <displayName>OVID 4 S, NY US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1972-07-31</maxDate>
+    <latitude>42.61667</latitude>
+    <longitude>-76.81667</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSG0017</id>
+    <displayName>OVID 4.5 SSW, CO US</displayName>
+    <minDate>2004-05-11</minDate>
+    <maxDate>2007-10-15</maxDate>
+    <latitude>40.8976</latitude>
+    <longitude>-102.4085</longitude>
+    <elevation>1189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSN0002</id>
+    <displayName>OVID 5.2 N, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2005-11-30</maxDate>
+    <latitude>42.75</latitude>
+    <longitude>-76.8167</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.96</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056225</id>
+    <displayName>OVID, CO US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>40.96667</latitude>
+    <longitude>-102.38333</longitude>
+    <elevation>1076.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206292</id>
+    <displayName>OVID, MI US</displayName>
+    <minDate>1891-09-01</minDate>
+    <maxDate>1911-03-31</maxDate>
+    <latitude>42.96667</latitude>
+    <longitude>-84.33333</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8706</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSM0012</id>
+    <displayName>OVIEDO 4.0 W, FL US</displayName>
+    <minDate>2009-08-02</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>28.6593</latitude>
+    <longitude>-81.2474</longitude>
+    <elevation>15.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXEL0019</id>
+    <displayName>OVILLA 1.2 SSE, TX US</displayName>
+    <minDate>2011-12-04</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.5248</latitude>
+    <longitude>-96.8833</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4152</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXEL0010</id>
+    <displayName>OVILLA 2.6 S, TX US</displayName>
+    <minDate>2008-04-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5019</latitude>
+    <longitude>-96.8983</longitude>
+    <elevation>218.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9291</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406914</id>
+    <displayName>OVILLA, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.31667</latitude>
+    <longitude>-87.56667</longitude>
+    <elevation>296</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSE0990</id>
+    <displayName>OWATONNA 0.7 ESE, MN US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2010-12-20</maxDate>
+    <latitude>44.088</latitude>
+    <longitude>-93.216</longitude>
+    <elevation>353</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5525</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSE0002</id>
+    <displayName>OWATONNA 0.8 E, MN US</displayName>
+    <minDate>2009-12-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0917</latitude>
+    <longitude>-93.2138</longitude>
+    <elevation>353.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9679</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSE0006</id>
+    <displayName>OWATONNA 1.3 ENE, MN US</displayName>
+    <minDate>2012-04-16</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>44.0968</latitude>
+    <longitude>-93.2045</longitude>
+    <elevation>367.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9526</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSE0005</id>
+    <displayName>OWATONNA 1.7 NE, MN US</displayName>
+    <minDate>2011-05-02</minDate>
+    <maxDate>2012-08-15</maxDate>
+    <latitude>44.1121</latitude>
+    <longitude>-93.2099</longitude>
+    <elevation>364.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216287</id>
+    <displayName>OWATONNA, MN US</displayName>
+    <minDate>1961-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.098</latitude>
+    <longitude>-93.2308</longitude>
+    <elevation>350.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTG0007</id>
+    <displayName>OWEGO 1.3 NW, NY US</displayName>
+    <minDate>2006-10-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1167</latitude>
+    <longitude>-76.2833</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTG0019</id>
+    <displayName>OWEGO 2.5 ENE, NY US</displayName>
+    <minDate>2011-03-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1246</latitude>
+    <longitude>-76.2213</longitude>
+    <elevation>359.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9195</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306356</id>
+    <displayName>OWEGO 3 WSW, NY US</displayName>
+    <minDate>1979-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0811</latitude>
+    <longitude>-76.3177</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9685</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476357</id>
+    <displayName>OWEN 3 W, WI US</displayName>
+    <minDate>1946-07-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9801</latitude>
+    <longitude>-90.5544</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000COWE</id>
+    <displayName>OWENS CAMP LOC CALIFORNIA, CA US</displayName>
+    <minDate>1989-09-25</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>38.7333</latitude>
+    <longitude>-120.245</longitude>
+    <elevation>1597.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9081</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016196</id>
+    <displayName>OWENS CROSS ROADS 3 S, AL US</displayName>
+    <minDate>2004-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5528</latitude>
+    <longitude>-86.445</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0023</id>
+    <displayName>OWENS CROSSROADS 1.0 ENE, AL US</displayName>
+    <minDate>2007-11-16</minDate>
+    <maxDate>2008-11-16</maxDate>
+    <latitude>34.5899</latitude>
+    <longitude>-86.4446</longitude>
+    <elevation>181.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9673</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0067</id>
+    <displayName>OWENS CROSSROADS 1.3 SE, AL US</displayName>
+    <minDate>2010-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5678</latitude>
+    <longitude>-86.444</longitude>
+    <elevation>179.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4209</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0076</id>
+    <displayName>OWENS CROSSROADS 4.3 SW, AL US</displayName>
+    <minDate>2012-05-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5312</latitude>
+    <longitude>-86.5045</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9163</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CHARM004</id>
+    <displayName>OWENS CROSSROADS 4.7 WNW, AL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.6014</latitude>
+    <longitude>-86.5397</longitude>
+    <elevation>181.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMD0018</id>
+    <displayName>OWENS CROSSROADS 4.7 WNW, AL US</displayName>
+    <minDate>2007-11-15</minDate>
+    <maxDate>2012-07-12</maxDate>
+    <latitude>34.5973</latitude>
+    <longitude>-86.54</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316499</id>
+    <displayName>OWENS GAP, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.21667</latitude>
+    <longitude>-82.96667</longitude>
+    <elevation>1074.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416728</id>
+    <displayName>OWENS NEAR SOIL CONSERVATION SERVICE NUMBER 1, TX US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1941-06-26</maxDate>
+    <latitude>31.866667</latitude>
+    <longitude>-98.9</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000COWV</id>
+    <displayName>OWENS VALLEY CALIFORNIA, CA US</displayName>
+    <minDate>1992-09-28</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>37.39</latitude>
+    <longitude>-118.5506</longitude>
+    <elevation>1414.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156094</id>
+    <displayName>OWENSBORO 3 E, KY US</displayName>
+    <minDate>1994-08-01</minDate>
+    <maxDate>2012-11-27</maxDate>
+    <latitude>37.7908</latitude>
+    <longitude>-87.0663</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9159</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156096</id>
+    <displayName>OWENSBORO TRTMNT PLANT, KY US</displayName>
+    <minDate>1928-01-01</minDate>
+    <maxDate>1990-03-30</maxDate>
+    <latitude>37.76667</latitude>
+    <longitude>-87.08333</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9238</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156091</id>
+    <displayName>OWENSBORO, IN US</displayName>
+    <minDate>1896-07-01</minDate>
+    <maxDate>1998-09-30</maxDate>
+    <latitude>37.78278</latitude>
+    <longitude>-87.11833</longitude>
+    <elevation>120.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INGB0007</id>
+    <displayName>OWENSVILLE 0.1 SW, IN US</displayName>
+    <minDate>2007-09-06</minDate>
+    <maxDate>2009-12-25</maxDate>
+    <latitude>38.2702</latitude>
+    <longitude>-87.6924</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4572</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA073</id>
+    <displayName>OWENSVILLE 0.5 S, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3407</latitude>
+    <longitude>-91.4984</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035498</id>
+    <displayName>OWENSVILLE 3 E, AR US</displayName>
+    <minDate>1944-04-11</minDate>
+    <maxDate>2007-04-30</maxDate>
+    <latitude>34.6133</latitude>
+    <longitude>-92.7742</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9475</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236438</id>
+    <displayName>OWENSVILLE, MO US</displayName>
+    <minDate>1923-10-01</minDate>
+    <maxDate>1979-01-14</maxDate>
+    <latitude>38.35</latitude>
+    <longitude>-91.5</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9589</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156107</id>
+    <displayName>OWENTON 1, KY US</displayName>
+    <minDate>1895-11-01</minDate>
+    <maxDate>1911-06-30</maxDate>
+    <latitude>38.516667</latitude>
+    <longitude>-84.816667</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156106</id>
+    <displayName>OWENTON 2 S, KY US</displayName>
+    <minDate>1963-05-01</minDate>
+    <maxDate>1970-02-28</maxDate>
+    <latitude>38.53333</latitude>
+    <longitude>-84.83333</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156104</id>
+    <displayName>OWENTON, KY US</displayName>
+    <minDate>1970-03-01</minDate>
+    <maxDate>1984-03-31</maxDate>
+    <latitude>38.51667</latitude>
+    <longitude>-84.81667</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9036</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00186770</id>
+    <displayName>OWINGS FERRY LANDING, MD US</displayName>
+    <minDate>1917-01-01</minDate>
+    <maxDate>1998-02-28</maxDate>
+    <latitude>38.68333</latitude>
+    <longitude>-76.66667</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDBL0001</id>
+    <displayName>OWINGS MILLS 2.5 ESE, MD US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2006-08-31</maxDate>
+    <latitude>39.3984</latitude>
+    <longitude>-76.7492</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008F01S</id>
+    <displayName>OWL CREEK, WY US</displayName>
+    <minDate>1980-08-21</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.6667</latitude>
+    <longitude>-109.0167</longitude>
+    <elevation>2735.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MISW0001</id>
+    <displayName>OWOSSO 4.6 SW, MI US</displayName>
+    <minDate>2008-07-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.956</latitude>
+    <longitude>-84.2487</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206297</id>
+    <displayName>OWOSSO 5 SSE, MI US</displayName>
+    <minDate>1998-03-01</minDate>
+    <maxDate>2001-11-30</maxDate>
+    <latitude>42.92611</latitude>
+    <longitude>-84.15472</longitude>
+    <elevation>252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9314</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206300</id>
+    <displayName>OWOSSO WWTP, MI US</displayName>
+    <minDate>1896-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0161</latitude>
+    <longitude>-84.18</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356405</id>
+    <displayName>OWYHEE DAM, OR US</displayName>
+    <minDate>1935-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6501</latitude>
+    <longitude>-117.2466</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OOWY</id>
+    <displayName>OWYHEE RIDGE OREGON, OR US</displayName>
+    <minDate>1985-01-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.5833</latitude>
+    <longitude>-117.2333</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265869</id>
+    <displayName>OWYHEE, NV US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1985-01-31</maxDate>
+    <latitude>41.95</latitude>
+    <longitude>-116.1</longitude>
+    <elevation>1645</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10furn018</id>
+    <displayName>OXFORD 0.2 WNW, NE US</displayName>
+    <minDate>2007-01-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2499</latitude>
+    <longitude>-99.6375</longitude>
+    <elevation>640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316507</id>
+    <displayName>OXFORD 1 E, NC US</displayName>
+    <minDate>1920-04-01</minDate>
+    <maxDate>1994-02-28</maxDate>
+    <latitude>36.3</latitude>
+    <longitude>-78.61667</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHBT0008</id>
+    <displayName>OXFORD 1.5 S, OH US</displayName>
+    <minDate>2009-08-10</minDate>
+    <maxDate>2011-06-26</maxDate>
+    <latitude>39.4837</latitude>
+    <longitude>-84.7467</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2012</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSLY0008</id>
+    <displayName>OXFORD 10.7 W, MS US</displayName>
+    <minDate>2010-03-23</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.3522</latitude>
+    <longitude>-89.7135</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEOX0010</id>
+    <displayName>OXFORD 2.2 NE, ME US</displayName>
+    <minDate>2010-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.1616</latitude>
+    <longitude>-70.4755</longitude>
+    <elevation>105.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10furn002</id>
+    <displayName>OXFORD 3.6 NW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-08-02</maxDate>
+    <latitude>40.2928</latitude>
+    <longitude>-99.6693</longitude>
+    <elevation>677.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4782</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GANW0002</id>
+    <displayName>OXFORD 4.6 N, GA US</displayName>
+    <minDate>2010-09-12</minDate>
+    <maxDate>2011-01-05</maxDate>
+    <latitude>33.6903</latitude>
+    <longitude>-83.8732</longitude>
+    <elevation>241.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10furn019</id>
+    <displayName>OXFORD 5.3 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-07-30</maxDate>
+    <latitude>40.2596</latitude>
+    <longitude>-99.7367</longitude>
+    <elevation>643.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4382</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476360</id>
+    <displayName>OXFORD 6 N, WI US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2009-03-13</maxDate>
+    <latitude>43.8619</latitude>
+    <longitude>-89.5619</longitude>
+    <elevation>290.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9252</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACH0004</id>
+    <displayName>OXFORD 6.1 SW, PA US</displayName>
+    <minDate>2008-06-19</minDate>
+    <maxDate>2008-10-15</maxDate>
+    <latitude>39.7253</latitude>
+    <longitude>-76.0648</longitude>
+    <elevation>154.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8403</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGV0003</id>
+    <displayName>OXFORD 6.3 S, NC US</displayName>
+    <minDate>2009-01-25</minDate>
+    <maxDate>2011-07-06</maxDate>
+    <latitude>36.2221</latitude>
+    <longitude>-78.6114</longitude>
+    <elevation>101.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256454</id>
+    <displayName>OXFORD 7 NW, NE US</displayName>
+    <minDate>1993-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1942</latitude>
+    <longitude>-99.3909</longitude>
+    <elevation>693.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316510</id>
+    <displayName>OXFORD AG, NC US</displayName>
+    <minDate>1994-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.30222</latitude>
+    <longitude>-78.61083</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+</stationCollection>

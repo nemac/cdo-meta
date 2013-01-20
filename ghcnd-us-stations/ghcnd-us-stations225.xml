@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="225">
+  <station>
+    <id>GHCND:US1INLP0016</id>
+    <displayName>LA PORTE 5.7 WNW, IN US</displayName>
+    <minDate>2007-04-22</minDate>
+    <maxDate>2008-03-20</maxDate>
+    <latitude>41.6351</latitude>
+    <longitude>-86.8179</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.488</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0041</id>
+    <displayName>LA PORTE 6.2 N, IN US</displayName>
+    <minDate>2009-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6978</latitude>
+    <longitude>-86.7092</longitude>
+    <elevation>217.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0004</id>
+    <displayName>LA PORTE 7.2 NNE, IN US</displayName>
+    <minDate>2006-09-10</minDate>
+    <maxDate>2008-02-15</maxDate>
+    <latitude>41.7094</latitude>
+    <longitude>-86.6845</longitude>
+    <elevation>246</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5229</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044773</id>
+    <displayName>LA PORTE, CA US</displayName>
+    <minDate>1894-04-01</minDate>
+    <maxDate>1958-10-31</maxDate>
+    <latitude>39.68333</latitude>
+    <longitude>-120.98333</longitude>
+    <elevation>1519.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414920</id>
+    <displayName>LA PRYOR, TX US</displayName>
+    <minDate>1915-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>28.983</latitude>
+    <longitude>-99.8685</longitude>
+    <elevation>231.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8786</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASA0030</id>
+    <displayName>LA RIVIERA 1.0 NE, CA US</displayName>
+    <minDate>2010-10-19</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>38.5753</latitude>
+    <longitude>-121.34</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334409</id>
+    <displayName>LA RUE, OH US</displayName>
+    <minDate>1917-07-07</minDate>
+    <maxDate>1991-06-30</maxDate>
+    <latitude>40.58333</latitude>
+    <longitude>-83.38333</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9168</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424947</id>
+    <displayName>LA SAL 1 SW, UT US</displayName>
+    <minDate>1978-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.3013</latitude>
+    <longitude>-109.2664</longitude>
+    <elevation>2068.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9497</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424946</id>
+    <displayName>LA SAL, UT US</displayName>
+    <minDate>1901-02-02</minDate>
+    <maxDate>1978-03-31</maxDate>
+    <latitude>38.31667</latitude>
+    <longitude>-109.25</longitude>
+    <elevation>2129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7738</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLS0034</id>
+    <displayName>LA SALLE 0.1 W, IL US</displayName>
+    <minDate>2009-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3401</latitude>
+    <longitude>-89.0959</longitude>
+    <elevation>183.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLS0021</id>
+    <displayName>LA SALLE 0.4 SW, IL US</displayName>
+    <minDate>2008-06-11</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.3348</latitude>
+    <longitude>-89.0984</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0319</id>
+    <displayName>LA SALLE 4.3 SW, CO US</displayName>
+    <minDate>2008-09-03</minDate>
+    <maxDate>2010-11-05</maxDate>
+    <latitude>40.2991</latitude>
+    <longitude>-104.754</longitude>
+    <elevation>1444.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9421</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0295</id>
+    <displayName>LA SALLE 4.5 E, CO US</displayName>
+    <minDate>2008-07-25</minDate>
+    <maxDate>2010-11-17</maxDate>
+    <latitude>40.3406</latitude>
+    <longitude>-104.6203</longitude>
+    <elevation>1440.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1619</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114923</id>
+    <displayName>LA SALLE, IL US</displayName>
+    <minDate>1950-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.31444</latitude>
+    <longitude>-89.09083</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414931</id>
+    <displayName>LA TUNA 1 S, TX US</displayName>
+    <minDate>1943-03-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>31.98</latitude>
+    <longitude>-106.5975</longitude>
+    <elevation>1158.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474424</id>
+    <displayName>LA VALLE 4 NNE, WI US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6391</latitude>
+    <longitude>-90.1077</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474422</id>
+    <displayName>LA VALLE, WI US</displayName>
+    <minDate>2001-10-01</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>43.5825</latitude>
+    <longitude>-90.11806</longitude>
+    <elevation>270.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294684</id>
+    <displayName>LA VENTANA, NM US</displayName>
+    <minDate>1941-04-01</minDate>
+    <maxDate>1947-11-28</maxDate>
+    <latitude>35.81667</latitude>
+    <longitude>-106.98333</longitude>
+    <elevation>1966.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8816</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRD0059</id>
+    <displayName>LA VERGNE 0.9 SE, TN US</displayName>
+    <minDate>2008-07-18</minDate>
+    <maxDate>2010-04-15</maxDate>
+    <latitude>35.9916</latitude>
+    <longitude>-86.561</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRD0080</id>
+    <displayName>LA VERGNE 1.8 SW, TN US</displayName>
+    <minDate>2011-08-14</minDate>
+    <maxDate>2011-12-12</maxDate>
+    <latitude>35.9795</latitude>
+    <longitude>-86.5947</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRD0070</id>
+    <displayName>LA VERGNE 2.1 SW, TN US</displayName>
+    <minDate>2011-01-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9768</latitude>
+    <longitude>-86.5989</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8046</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRD0057</id>
+    <displayName>LA VERGNE 4.0 NNE, TN US</displayName>
+    <minDate>2008-06-09</minDate>
+    <maxDate>2010-10-04</maxDate>
+    <latitude>36.0521</latitude>
+    <longitude>-86.5435</longitude>
+    <elevation>156.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2524</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTWG0002</id>
+    <displayName>LA VERKIN 0.3 W, UT US</displayName>
+    <minDate>2010-02-22</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>37.2058</latitude>
+    <longitude>-113.2787</longitude>
+    <elevation>985.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424968</id>
+    <displayName>LA VERKIN, UT US</displayName>
+    <minDate>1950-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2009</latitude>
+    <longitude>-113.2685</longitude>
+    <elevation>973.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044840</id>
+    <displayName>LA VERNE HTS FC 560, CA US</displayName>
+    <minDate>1963-10-01</minDate>
+    <maxDate>1972-10-31</maxDate>
+    <latitude>34.11667</latitude>
+    <longitude>-117.75</longitude>
+    <elevation>368.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041777</id>
+    <displayName>LA VERNE HTS FC 560, CA US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>1963-09-30</maxDate>
+    <latitude>34.11667</latitude>
+    <longitude>-117.75</longitude>
+    <elevation>368.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044993</id>
+    <displayName>LA VERNE HTS FC 560, CA US</displayName>
+    <minDate>1916-12-01</minDate>
+    <maxDate>1960-12-31</maxDate>
+    <latitude>34.11667</latitude>
+    <longitude>-117.75</longitude>
+    <elevation>368.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0023</id>
+    <displayName>LA VERNIA 0.5 SW, TX US</displayName>
+    <minDate>2009-06-08</minDate>
+    <maxDate>2010-11-13</maxDate>
+    <latitude>29.3498</latitude>
+    <longitude>-98.1215</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0013</id>
+    <displayName>LA VERNIA 4.0 SSE, TX US</displayName>
+    <minDate>2008-04-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.2982</latitude>
+    <longitude>-98.0981</longitude>
+    <elevation>160.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9048</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0003</id>
+    <displayName>LA VERNIA 5.3 SSW, TX US</displayName>
+    <minDate>2007-07-15</minDate>
+    <maxDate>2009-09-15</maxDate>
+    <latitude>29.2869</latitude>
+    <longitude>-98.1566</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414934</id>
+    <displayName>LA VERNIA, TX US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1950-05-05</maxDate>
+    <latitude>29.36667</latitude>
+    <longitude>-98.1</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8047</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COHF0002</id>
+    <displayName>LA VETA .56 NW, CO US</displayName>
+    <minDate>2003-12-05</minDate>
+    <maxDate>2005-12-01</maxDate>
+    <latitude>37.5118</latitude>
+    <longitude>-105.0135</longitude>
+    <elevation>2137.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5124</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COHF0030</id>
+    <displayName>LA VETA 0.5 SSW, CO US</displayName>
+    <minDate>2012-04-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.503</latitude>
+    <longitude>-105.0109</longitude>
+    <elevation>2156.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9214</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COHF0017</id>
+    <displayName>LA VETA 15.2 NW, CO US</displayName>
+    <minDate>2005-02-19</minDate>
+    <maxDate>2010-07-18</maxDate>
+    <latitude>37.639</latitude>
+    <longitude>-105.2298</longitude>
+    <elevation>2779.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.208</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COHF0003</id>
+    <displayName>LA VETA 7.7 W, CO US</displayName>
+    <minDate>2003-12-22</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.5166</latitude>
+    <longitude>-105.1472</longitude>
+    <elevation>2582.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1451</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054870</id>
+    <displayName>LA VETA PASS, CO US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1954-01-15</maxDate>
+    <latitude>37.46667</latitude>
+    <longitude>-105.16667</longitude>
+    <elevation>2817</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9393</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054865</id>
+    <displayName>LA VETA, CO US</displayName>
+    <minDate>1963-08-01</minDate>
+    <maxDate>1971-05-31</maxDate>
+    <latitude>37.5</latitude>
+    <longitude>-105</longitude>
+    <elevation>2144</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164958</id>
+    <displayName>LAARK, LA US</displayName>
+    <minDate>1912-01-24</minDate>
+    <maxDate>1914-06-30</maxDate>
+    <latitude>32.96667</latitude>
+    <longitude>-91.5</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9291</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAAP0001</id>
+    <displayName>LABADIEVILLE 0.9 NNW, LA US</displayName>
+    <minDate>2008-03-26</minDate>
+    <maxDate>2012-04-03</maxDate>
+    <latitude>29.8348</latitude>
+    <longitude>-90.9629</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5381</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474320</id>
+    <displayName>LAC DU FLAMBEAU, WI US</displayName>
+    <minDate>1910-08-01</minDate>
+    <maxDate>1912-05-31</maxDate>
+    <latitude>45.95</latitude>
+    <longitude>-89.88333</longitude>
+    <elevation>484.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214410</id>
+    <displayName>LAC QUI PARLE DAM, MN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1953-09-30</maxDate>
+    <latitude>45.01667</latitude>
+    <longitude>-95.86667</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9463</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474383</id>
+    <displayName>LAC VIEUX DESERT, WI US</displayName>
+    <minDate>1908-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.1211</latitude>
+    <longitude>-89.0758</longitude>
+    <elevation>536.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMG0012</id>
+    <displayName>LACEY S SPRING 3.4 SSW, AL US</displayName>
+    <minDate>2008-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4907</latitude>
+    <longitude>-86.6328</longitude>
+    <elevation>394.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJOC0017</id>
+    <displayName>LACEY TWP 6.3 E, NJ US</displayName>
+    <minDate>2009-02-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8626</latitude>
+    <longitude>-74.141</longitude>
+    <elevation>0.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304486</id>
+    <displayName>LACKAWACK, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>41.78333</latitude>
+    <longitude>-74.4</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR118</id>
+    <displayName>LACKLAND AFB 2.0 NNW, TX US</displayName>
+    <minDate>2008-06-18</minDate>
+    <maxDate>2011-01-14</maxDate>
+    <latitude>29.4114</latitude>
+    <longitude>-98.6348</longitude>
+    <elevation>228.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR013</id>
+    <displayName>LACKLAND AFB 2.4 NW, TX US</displayName>
+    <minDate>2007-03-24</minDate>
+    <maxDate>2009-06-04</maxDate>
+    <latitude>29.4075</latitude>
+    <longitude>-98.6555</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9353</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR015</id>
+    <displayName>LACKLAND AFB 3.5 SSE, TX US</displayName>
+    <minDate>2007-05-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.3387</latitude>
+    <longitude>-98.5987</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9461</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR116</id>
+    <displayName>LACKLAND AFB 4.3 ESE, TX US</displayName>
+    <minDate>2008-06-21</minDate>
+    <maxDate>2012-11-27</maxDate>
+    <latitude>29.3667</latitude>
+    <longitude>-98.5569</longitude>
+    <elevation>199.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR136</id>
+    <displayName>LACKLAND AFB 7.8 WNW, TX US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.4337</latitude>
+    <longitude>-98.7417</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9063</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254580</id>
+    <displayName>LACLEDE, NE US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>1903-02-28</maxDate>
+    <latitude>41.1</latitude>
+    <longitude>-97.7833</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLN0011</id>
+    <displayName>LACOMB 1 W, OR US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>44.5757</latitude>
+    <longitude>-122.7757</longitude>
+    <elevation>140.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3019</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354603</id>
+    <displayName>LACOMB 1 WNW, OR US</displayName>
+    <minDate>1941-02-21</minDate>
+    <maxDate>1973-02-28</maxDate>
+    <latitude>44.58333</latitude>
+    <longitude>-122.75</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354606</id>
+    <displayName>LACOMB 3 NNE, OR US</displayName>
+    <minDate>1973-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6253</latitude>
+    <longitude>-122.7189</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAST0008</id>
+    <displayName>LACOMBE 1.4 N, LA US</displayName>
+    <minDate>2010-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3282</latitude>
+    <longitude>-89.9313</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9501</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114805</id>
+    <displayName>LACON, IL US</displayName>
+    <minDate>1950-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0187</latitude>
+    <longitude>-89.4153</longitude>
+    <elevation>139.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8107</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOS0001</id>
+    <displayName>LACONA 3.6 SSE, NY US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>43.5964</latitude>
+    <longitude>-76.0373</longitude>
+    <elevation>191.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.739</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOS0013</id>
+    <displayName>LACONA 9.3 E, NY US</displayName>
+    <minDate>2009-11-05</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>43.6392</latitude>
+    <longitude>-75.8825</longitude>
+    <elevation>395.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134523</id>
+    <displayName>LACONA, IA US</displayName>
+    <minDate>1899-04-01</minDate>
+    <maxDate>1937-10-31</maxDate>
+    <latitude>41.18333</latitude>
+    <longitude>-93.36667</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHBK0010</id>
+    <displayName>LACONIA 2.8 S, NH US</displayName>
+    <minDate>2009-08-29</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>43.5287</latitude>
+    <longitude>-71.4791</longitude>
+    <elevation>151.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHBK0007</id>
+    <displayName>LACONIA 7.9 E, NH US</displayName>
+    <minDate>2009-07-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.5541</latitude>
+    <longitude>-71.3231</longitude>
+    <elevation>171.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9552</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124698</id>
+    <displayName>LACONIA, IN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1897-07-31</maxDate>
+    <latitude>38.05</latitude>
+    <longitude>-86.13333</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144401</id>
+    <displayName>LACROSSE, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1922-12-31</maxDate>
+    <latitude>38.533333</latitude>
+    <longitude>-99.3</longitude>
+    <elevation>628.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6408</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454338</id>
+    <displayName>LACROSSE, WA US</displayName>
+    <minDate>1908-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.8167</latitude>
+    <longitude>-117.883</longitude>
+    <elevation>449.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILBU0001</id>
+    <displayName>LADD 0.4 WSW, IL US</displayName>
+    <minDate>2007-04-25</minDate>
+    <maxDate>2009-05-28</maxDate>
+    <latitude>41.3797</latitude>
+    <longitude>-89.2212</longitude>
+    <elevation>202.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026403</id>
+    <displayName>LADD AAB, AK US</displayName>
+    <minDate>1946-01-05</minDate>
+    <maxDate>1960-10-31</maxDate>
+    <latitude>64.85</latitude>
+    <longitude>-147.58333</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLDR</id>
+    <displayName>LADDER BUTTE CALIFORNIA, CA US</displayName>
+    <minDate>1988-04-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.8072</latitude>
+    <longitude>-121.2967</longitude>
+    <elevation>1752.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9276</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394671</id>
+    <displayName>LADNER 9 SW, SD US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.7406</latitude>
+    <longitude>-103.8836</longitude>
+    <elevation>955.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134529</id>
+    <displayName>LADORA, IA US</displayName>
+    <minDate>2011-04-26</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.7565</latitude>
+    <longitude>-92.1845</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLAD</id>
+    <displayName>LADORE COLORADO, CO US</displayName>
+    <minDate>1987-06-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.7392</latitude>
+    <longitude>-108.8347</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9044</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCDC0012</id>
+    <displayName>LADSON 2.1 SW, SC US</displayName>
+    <minDate>2008-04-10</minDate>
+    <maxDate>2008-10-30</maxDate>
+    <latitude>32.988</latitude>
+    <longitude>-80.1313</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCDC0001</id>
+    <displayName>LADSON 2.3 SW, SC US</displayName>
+    <minDate>2008-02-22</minDate>
+    <maxDate>2011-05-16</maxDate>
+    <latitude>32.9857</latitude>
+    <longitude>-80.1328</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCDC0015</id>
+    <displayName>LADSON 2.7 E, SC US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0219</latitude>
+    <longitude>-80.2473</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8452</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00384771</id>
+    <displayName>LADSON OAKBROOK, SC US</displayName>
+    <minDate>1997-09-01</minDate>
+    <maxDate>2001-06-30</maxDate>
+    <latitude>32.96389</latitude>
+    <longitude>-80.15278</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSL0020</id>
+    <displayName>LADUE 1.6 N, MO US</displayName>
+    <minDate>2009-05-13</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>38.6601</latitude>
+    <longitude>-90.3816</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7162</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLK0006</id>
+    <displayName>LADY LAKE 1.2 W, FL US</displayName>
+    <minDate>2008-10-10</minDate>
+    <maxDate>2010-06-24</maxDate>
+    <latitude>28.9264</latitude>
+    <longitude>-81.9479</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLK0016</id>
+    <displayName>LADY LAKE 2.5 SSW, FL US</displayName>
+    <minDate>2012-02-11</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>28.8925</latitude>
+    <longitude>-81.9404</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4405</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLST0004</id>
+    <displayName>LADY LAKE 3.2 WSW, FL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2010-01-14</maxDate>
+    <latitude>28.903</latitude>
+    <longitude>-81.9735</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5702</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLST0009</id>
+    <displayName>LADY LAKE 4.3 SSW, FL US</displayName>
+    <minDate>2008-05-04</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>28.8699</latitude>
+    <longitude>-81.9544</longitude>
+    <elevation>20.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMR0004</id>
+    <displayName>LADY LAKE 4.8 WNW, FL US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>28.9609</latitude>
+    <longitude>-81.9979</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLST0007</id>
+    <displayName>LADY LAKE 5.0 W, FL US</displayName>
+    <minDate>2007-10-18</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>28.9249</latitude>
+    <longitude>-82.0119</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5153</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMR0008</id>
+    <displayName>LADY LAKE 5.2 NW, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2008-05-17</maxDate>
+    <latitude>28.9758</latitude>
+    <longitude>-81.9961</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLST0011</id>
+    <displayName>LADY LAKE 5.2 W, FL US</displayName>
+    <minDate>2008-08-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>28.9408</latitude>
+    <longitude>-82.0143</longitude>
+    <elevation>20.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIRS0001</id>
+    <displayName>LADYSMITH 2.8 WNW, WI US</displayName>
+    <minDate>2010-07-12</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>45.4818</latitude>
+    <longitude>-91.1468</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474391</id>
+    <displayName>LADYSMITH 3 W, WI US</displayName>
+    <minDate>1901-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4653</latitude>
+    <longitude>-91.1236</longitude>
+    <elevation>353</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5736</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474396</id>
+    <displayName>LADYSMITH WTP, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.4429</latitude>
+    <longitude>-91.0894</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515150</id>
+    <displayName>LAE APUKI 67.12, HI US</displayName>
+    <minDate>1989-09-01</minDate>
+    <maxDate>1995-02-19</maxDate>
+    <latitude>19.31667</latitude>
+    <longitude>-155.06667</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0105</id>
+    <displayName>LAFAYETTE .74 NW, CO US</displayName>
+    <minDate>2003-04-30</minDate>
+    <maxDate>2003-08-19</maxDate>
+    <latitude>40.0007</latitude>
+    <longitude>-105.1009</longitude>
+    <elevation>1609</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0018</id>
+    <displayName>LAFAYETTE 0.2 S, CO US</displayName>
+    <minDate>2001-06-04</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>39.9914</latitude>
+    <longitude>-105.098</longitude>
+    <elevation>1599.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7659</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0083</id>
+    <displayName>LAFAYETTE 0.3 N, CO US</displayName>
+    <minDate>2004-01-03</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>39.9977</latitude>
+    <longitude>-105.0892</longitude>
+    <elevation>1597.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0885</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INTP0002</id>
+    <displayName>LAFAYETTE 0.3 SW, IN US</displayName>
+    <minDate>2006-04-30</minDate>
+    <maxDate>2006-10-11</maxDate>
+    <latitude>40.4075</latitude>
+    <longitude>-86.8743</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.897</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0055</id>
+    <displayName>LAFAYETTE 0.4 N, CO US</displayName>
+    <minDate>2002-06-18</minDate>
+    <maxDate>2004-08-28</maxDate>
+    <latitude>40.0065</latitude>
+    <longitude>-105.0917</longitude>
+    <elevation>1608.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8394</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0008</id>
+    <displayName>LAFAYETTE 0.4 WSW, CO US</displayName>
+    <minDate>2000-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9925</latitude>
+    <longitude>-105.1057</longitude>
+    <elevation>1610.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9264</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INTP0020</id>
+    <displayName>LAFAYETTE 0.5 S, IN US</displayName>
+    <minDate>2008-07-15</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>40.4037</latitude>
+    <longitude>-86.8718</longitude>
+    <elevation>205.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6325</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0229</id>
+    <displayName>LAFAYETTE 0.6 SSW, CO US</displayName>
+    <minDate>2006-10-29</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>39.9862</latitude>
+    <longitude>-105.1012</longitude>
+    <elevation>1592.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5393</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CACC0006</id>
+    <displayName>LAFAYETTE 0.7 E, CA US</displayName>
+    <minDate>2009-01-22</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>37.8937</latitude>
+    <longitude>-122.1043</longitude>
+    <elevation>75.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2988</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0266</id>
+    <displayName>LAFAYETTE 0.8 WSW, CO US</displayName>
+    <minDate>2008-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9893</latitude>
+    <longitude>-105.1111</longitude>
+    <elevation>1609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.927</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444676</id>
+    <displayName>LAFAYETTE 1 NE, VA US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2392</latitude>
+    <longitude>-80.1994</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INTP0018</id>
+    <displayName>LAFAYETTE 1.2 SSW, IN US</displayName>
+    <minDate>2008-05-22</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>40.3938</latitude>
+    <longitude>-86.8784</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1284</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INTP0026</id>
+    <displayName>LAFAYETTE 1.3 W, IN US</displayName>
+    <minDate>2010-05-16</minDate>
+    <maxDate>2012-05-07</maxDate>
+    <latitude>40.4078</latitude>
+    <longitude>-86.8955</longitude>
+    <elevation>178.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2033</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="321">
+  <station>
+    <id>GHCND:USR0000CPAR</id>
+    <displayName>PARKFIELD CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.8989</latitude>
+    <longitude>-120.4319</longitude>
+    <elevation>467.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9496</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046703</id>
+    <displayName>PARKFIELD, CA US</displayName>
+    <minDate>1943-02-01</minDate>
+    <maxDate>1975-02-28</maxDate>
+    <latitude>35.88333</latitude>
+    <longitude>-120.43333</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035586</id>
+    <displayName>PARKIN, AR US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1963-09-30</maxDate>
+    <latitude>35.26667</latitude>
+    <longitude>-90.58333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0003</id>
+    <displayName>PARKLAND 0.9 NE, WA US</displayName>
+    <minDate>2008-06-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.1473</latitude>
+    <longitude>-122.4169</longitude>
+    <elevation>118</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0046</id>
+    <displayName>PARKLAND 1.0 WSW, WA US</displayName>
+    <minDate>2010-06-06</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.1309</latitude>
+    <longitude>-122.4481</longitude>
+    <elevation>95.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3428</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBW0019</id>
+    <displayName>PARKLAND 2.1 E, FL US</displayName>
+    <minDate>2008-08-03</minDate>
+    <maxDate>2012-12-06</maxDate>
+    <latitude>26.3203</latitude>
+    <longitude>-80.2042</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9219</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487079</id>
+    <displayName>PARKMAN 5 WNW, WY US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>1983-11-30</maxDate>
+    <latitude>44.98333</latitude>
+    <longitude>-107.43333</longitude>
+    <elevation>1352.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487078</id>
+    <displayName>PARKMAN, WY US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>1903-08-31</maxDate>
+    <latitude>44.916667</latitude>
+    <longitude>-107.333333</longitude>
+    <elevation>1307.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dund022</id>
+    <displayName>PARKS 13.8 N, NE US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2010-09-23</maxDate>
+    <latitude>40.2415</latitude>
+    <longitude>-101.7007</longitude>
+    <elevation>1032.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dund009</id>
+    <displayName>PARKS 16.4 N, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.2787</latitude>
+    <longitude>-101.6933</longitude>
+    <elevation>1022</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256552</id>
+    <displayName>PARKS 17 N, NE US</displayName>
+    <minDate>1997-03-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.3213</latitude>
+    <longitude>-101.6736</longitude>
+    <elevation>1011.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dund010</id>
+    <displayName>PARKS 6.0 NW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1177</latitude>
+    <longitude>-101.7821</longitude>
+    <elevation>994</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dund004</id>
+    <displayName>PARKS 8.7 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2011-10-24</maxDate>
+    <latitude>40.1626</latitude>
+    <longitude>-101.6806</longitude>
+    <elevation>1015.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9289</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296572</id>
+    <displayName>PARKS SPRING RANCH, NM US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>1932-06-30</maxDate>
+    <latitude>35.26667</latitude>
+    <longitude>-104.93333</longitude>
+    <elevation>1554.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8336</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035591</id>
+    <displayName>PARKS, AR US</displayName>
+    <minDate>1956-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7844</latitude>
+    <longitude>-93.9786</longitude>
+    <elevation>184.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAAC0001</id>
+    <displayName>PARKSLEY 0.3 NNE, VA US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2008-09-08</maxDate>
+    <latitude>37.7896</latitude>
+    <longitude>-75.6523</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2172</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446520</id>
+    <displayName>PARKSLEY, VA US</displayName>
+    <minDate>1942-10-05</minDate>
+    <maxDate>1943-07-31</maxDate>
+    <latitude>37.783333</latitude>
+    <longitude>-75.666667</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.88</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHT0007</id>
+    <displayName>PARKSTON 0.1 NW, SD US</displayName>
+    <minDate>2011-08-22</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>43.3947</latitude>
+    <longitude>-97.987</longitude>
+    <elevation>426.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHT0002</id>
+    <displayName>PARKSTON 6.6 S, SD US</displayName>
+    <minDate>2008-02-25</minDate>
+    <maxDate>2012-11-05</maxDate>
+    <latitude>43.2976</latitude>
+    <longitude>-97.9876</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.155</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396462</id>
+    <displayName>PARKSTON 8 ENE, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1976-08-31</maxDate>
+    <latitude>43.43333</latitude>
+    <longitude>-97.83333</longitude>
+    <elevation>402.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306426</id>
+    <displayName>PARKSTON, NY US</displayName>
+    <minDate>1948-05-02</minDate>
+    <maxDate>1970-07-31</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-74.81667</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9477</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407007</id>
+    <displayName>PARKSVILLE, TN US</displayName>
+    <minDate>1890-05-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.1</latitude>
+    <longitude>-84.65</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00186844</id>
+    <displayName>PARKTON 2 SW, MD US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1986-12-31</maxDate>
+    <latitude>39.63333</latitude>
+    <longitude>-76.7</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCM0033</id>
+    <displayName>PARKTON 3.6 N, NC US</displayName>
+    <minDate>2011-05-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9541</latitude>
+    <longitude>-79.0199</longitude>
+    <elevation>38.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOPT0006</id>
+    <displayName>PARKVILLE 3.1 NW, MO US</displayName>
+    <minDate>2008-11-30</minDate>
+    <maxDate>2012-08-10</maxDate>
+    <latitude>39.2222</latitude>
+    <longitude>-94.7195</longitude>
+    <elevation>278.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9133</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236524</id>
+    <displayName>PARKVILLE, KS US</displayName>
+    <minDate>1908-07-01</minDate>
+    <maxDate>1909-08-31</maxDate>
+    <latitude>39.166667</latitude>
+    <longitude>-94.683333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206371</id>
+    <displayName>PARKVILLE, MI US</displayName>
+    <minDate>1888-01-01</minDate>
+    <maxDate>1899-03-31</maxDate>
+    <latitude>42.01667</latitude>
+    <longitude>-85.55</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8053</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456381</id>
+    <displayName>PARKWAY, WA US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1944-11-30</maxDate>
+    <latitude>46.98333</latitude>
+    <longitude>-121.53333</longitude>
+    <elevation>805</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011J52S</id>
+    <displayName>PARLEY S SUMMIT, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.7667</latitude>
+    <longitude>-111.6167</longitude>
+    <elevation>2286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8832</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0039</id>
+    <displayName>PARLIN 2.7 ESE, CO US</displayName>
+    <minDate>2009-06-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4843</latitude>
+    <longitude>-106.6742</longitude>
+    <elevation>2439.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHCY0016</id>
+    <displayName>PARMA 1.8 SE, OH US</displayName>
+    <minDate>2011-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.3677</latitude>
+    <longitude>-81.7018</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106844</id>
+    <displayName>PARMA EXPERIMENT STATION, ID US</displayName>
+    <minDate>1922-11-07</minDate>
+    <maxDate>2012-06-16</maxDate>
+    <latitude>43.8023</latitude>
+    <longitude>-116.9442</longitude>
+    <elevation>698</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236532</id>
+    <displayName>PARMA, MO US</displayName>
+    <minDate>1920-10-01</minDate>
+    <maxDate>1999-08-31</maxDate>
+    <latitude>36.6125</latitude>
+    <longitude>-89.81611</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9216</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396477</id>
+    <displayName>PARMELEE, SD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.33333</latitude>
+    <longitude>-101.03333</longitude>
+    <elevation>808</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOWH0004</id>
+    <displayName>PARNELL 3.3 ESE, MO US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>40.4139</latitude>
+    <longitude>-94.5696</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4618</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00426686</id>
+    <displayName>PAROWAN POWER PLANT, UT US</displayName>
+    <minDate>1893-01-15</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>37.86222</latitude>
+    <longitude>-112.82917</longitude>
+    <elevation>1791.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386688</id>
+    <displayName>PARR, SC US</displayName>
+    <minDate>1946-03-10</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>34.2931</latitude>
+    <longitude>-81.3181</longitude>
+    <elevation>78.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9504</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093844</id>
+    <displayName>PARRIS ISLAND MCAS, SC US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>1946-02-14</maxDate>
+    <latitude>32.31667</latitude>
+    <longitude>-80.68333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011J68S</id>
+    <displayName>PARRISH CREEK, UT US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.9333</latitude>
+    <longitude>-111.8</longitude>
+    <elevation>2359.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086880</id>
+    <displayName>PARRISH, FL US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>27.6089</latitude>
+    <longitude>-82.3478</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056342</id>
+    <displayName>PARSHALL 10 SSE, CO US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>1973-06-30</maxDate>
+    <latitude>39.91667</latitude>
+    <longitude>-106.11667</longitude>
+    <elevation>2521.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8652</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGR0052</id>
+    <displayName>PARSHALL 3.0 NNW, CO US</displayName>
+    <minDate>2009-11-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0911</latitude>
+    <longitude>-106.2</longitude>
+    <elevation>2405.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00326867</id>
+    <displayName>PARSHALL, ND US</displayName>
+    <minDate>1916-06-01</minDate>
+    <maxDate>1979-08-31</maxDate>
+    <latitude>47.95</latitude>
+    <longitude>-102.13333</longitude>
+    <elevation>594.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0039</id>
+    <displayName>PARSIPPANY TROY HILLS TWP 1.3, NJ US</displayName>
+    <minDate>2009-11-11</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>40.8533</latitude>
+    <longitude>-74.447</longitude>
+    <elevation>94.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.343</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0036</id>
+    <displayName>PARSIPPANY TROY HILLS TWP 2.1, NJ US</displayName>
+    <minDate>2009-08-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8656</latitude>
+    <longitude>-74.3851</longitude>
+    <elevation>64.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9676</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDR0002</id>
+    <displayName>PARSONS 0.5 E, TN US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6528</latitude>
+    <longitude>-88.1158</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9107</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466867</id>
+    <displayName>PARSONS 1 NE, WV US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>2012-03-28</maxDate>
+    <latitude>39.1031</latitude>
+    <longitude>-79.6658</longitude>
+    <elevation>556.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466871</id>
+    <displayName>PARSONS 2 N, WV US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>2007-03-02</maxDate>
+    <latitude>39.11667</latitude>
+    <longitude>-79.68333</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.159</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146242</id>
+    <displayName>PARSONS 2 NW, KS US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.3677</latitude>
+    <longitude>-95.2891</longitude>
+    <elevation>277.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466868</id>
+    <displayName>PARSONS 2, WV US</displayName>
+    <minDate>1952-11-01</minDate>
+    <maxDate>1954-02-28</maxDate>
+    <latitude>39.1</latitude>
+    <longitude>-79.68333</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003998</id>
+    <displayName>PARSONS TRI CITY AIRPORT, KS US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.32778</latitude>
+    <longitude>-95.50417</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407015</id>
+    <displayName>PARSONS WATER PLANT, TN US</displayName>
+    <minDate>1968-09-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.6082</latitude>
+    <longitude>-88.12</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.544</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDWC0009</id>
+    <displayName>PARSONSBURG 1.6 WNW, MD US</displayName>
+    <minDate>2007-07-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3904</latitude>
+    <longitude>-75.5027</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEYK0046</id>
+    <displayName>PARSONSFIELD 3.9 NE, ME US</displayName>
+    <minDate>2011-05-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.7652</latitude>
+    <longitude>-70.8686</longitude>
+    <elevation>143.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.74</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEYK0025</id>
+    <displayName>PARSONSFIELD 4.2 NE, ME US</displayName>
+    <minDate>2010-02-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.7669</latitude>
+    <longitude>-70.8657</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9179</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035602</id>
+    <displayName>PARTHENON, AR US</displayName>
+    <minDate>1940-03-11</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.9547</latitude>
+    <longitude>-93.2405</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7553</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446533</id>
+    <displayName>PARTLOW 3 WNW, VA US</displayName>
+    <minDate>1952-06-01</minDate>
+    <maxDate>1976-12-31</maxDate>
+    <latitude>38.05</latitude>
+    <longitude>-77.7</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00426708</id>
+    <displayName>PARTOUN, UT US</displayName>
+    <minDate>1905-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.6309</latitude>
+    <longitude>-113.8858</longitude>
+    <elevation>1456.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5904</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0035</id>
+    <displayName>PARTRIDGE 2.3 NE, KS US</displayName>
+    <minDate>2009-04-27</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>37.9947</latitude>
+    <longitude>-98.0685</longitude>
+    <elevation>488.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1256</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0004</id>
+    <displayName>PARTRIDGE 2.5 ESE, KS US</displayName>
+    <minDate>2007-01-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9557</latitude>
+    <longitude>-98.0509</longitude>
+    <elevation>487.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8619</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0014</id>
+    <displayName>PARTRIDGE 2.5 NNE, KS US</displayName>
+    <minDate>2007-01-08</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>37.9993</latitude>
+    <longitude>-98.0718</longitude>
+    <elevation>491.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0033</id>
+    <displayName>PARTRIDGE 4.4 NNE, KS US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.0275</latitude>
+    <longitude>-98.0672</longitude>
+    <elevation>489.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0012</id>
+    <displayName>PARTRIDGE 5.7 SSE, KS US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2009-11-19</maxDate>
+    <latitude>37.8921</latitude>
+    <longitude>-98.0502</longitude>
+    <elevation>481</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0010</id>
+    <displayName>PASADENA 0.7 SE, MD US</displayName>
+    <minDate>2006-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1038</latitude>
+    <longitude>-76.5443</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0013</id>
+    <displayName>PASADENA 1.1 NNW, MD US</displayName>
+    <minDate>2006-10-17</minDate>
+    <maxDate>2009-03-02</maxDate>
+    <latitude>39.1263</latitude>
+    <longitude>-76.5596</longitude>
+    <elevation>18.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7154</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0036</id>
+    <displayName>PASADENA 2.0 SE, CA US</displayName>
+    <minDate>2011-07-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>34.1392</latitude>
+    <longitude>-118.1161</longitude>
+    <elevation>225.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR076</id>
+    <displayName>PASADENA 2.4 WSW, TX US</displayName>
+    <minDate>2011-06-28</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.6471</latitude>
+    <longitude>-95.1895</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8153</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0039</id>
+    <displayName>PASADENA 2.6 ESE, MD US</displayName>
+    <minDate>2010-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0916</latitude>
+    <longitude>-76.5112</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR084</id>
+    <displayName>PASADENA 2.8 SW, TX US</displayName>
+    <minDate>2011-11-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6339</latitude>
+    <longitude>-95.1881</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3018</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR094</id>
+    <displayName>PASADENA 3.6 WNW, TX US</displayName>
+    <minDate>2012-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6746</latitude>
+    <longitude>-95.2104</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR093</id>
+    <displayName>PASADENA 4.4 WNW, TX US</displayName>
+    <minDate>2012-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6849</latitude>
+    <longitude>-95.2197</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9858</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416825</id>
+    <displayName>PASADENA HOUSTON, TX US</displayName>
+    <minDate>1956-10-01</minDate>
+    <maxDate>1960-01-31</maxDate>
+    <latitude>29.71667</latitude>
+    <longitude>-95.21667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046719</id>
+    <displayName>PASADENA, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1483</latitude>
+    <longitude>-118.1447</longitude>
+    <elevation>263.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8817</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296619</id>
+    <displayName>PASAMONTE, NM US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2994</latitude>
+    <longitude>-103.7408</longitude>
+    <elevation>1722.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00226718</id>
+    <displayName>PASCAGOULA 3 NE, MS US</displayName>
+    <minDate>1909-02-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>30.3961</latitude>
+    <longitude>-88.478</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7064</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053858</id>
+    <displayName>PASCAGOULA LOTT INTERNATIONAL AIRPORT, MS US</displayName>
+    <minDate>1997-09-03</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.46361</latitude>
+    <longitude>-88.53194</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024163</id>
+    <displayName>PASCO TRI CITIES AIRPORT, WA US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.26667</latitude>
+    <longitude>-119.11667</longitude>
+    <elevation>124.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2361</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456400</id>
+    <displayName>PASCO, WA US</displayName>
+    <minDate>1900-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.22639</latitude>
+    <longitude>-119.10333</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1273</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046726</id>
+    <displayName>PASKENTA RANGER STATION, CA US</displayName>
+    <minDate>1937-10-01</minDate>
+    <maxDate>2001-10-31</maxDate>
+    <latitude>39.8875</latitude>
+    <longitude>-122.5538</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9436</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASL0006</id>
+    <displayName>PASO ROBLES 1.8 WSW, CA US</displayName>
+    <minDate>2010-12-25</minDate>
+    <maxDate>2012-04-12</maxDate>
+    <latitude>35.6218</latitude>
+    <longitude>-120.6932</longitude>
+    <elevation>233.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046736</id>
+    <displayName>PASO ROBLES 5 NW, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.68333</latitude>
+    <longitude>-120.75</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9082</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093209</id>
+    <displayName>PASO ROBLES MUNICIPAL AIRPORT, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.6697</latitude>
+    <longitude>-120.6283</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046730</id>
+    <displayName>PASO ROBLES, CA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6277</latitude>
+    <longitude>-120.6855</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9417</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0010</id>
+    <displayName>PASS CHRISTIAN 3.5 NE, MS US</displayName>
+    <minDate>2009-02-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3608</latitude>
+    <longitude>-89.2084</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9154</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0019</id>
+    <displayName>PASS CHRISTIAN 5.0 N, MS US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3911</latitude>
+    <longitude>-89.2503</longitude>
+    <elevation>15.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0015</id>
+    <displayName>PASS CHRISTIAN 8.9 NNW, MS US</displayName>
+    <minDate>2009-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4434</latitude>
+    <longitude>-89.2813</longitude>
+    <elevation>25.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296630</id>
+    <displayName>PASTURA 6 SSE, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1956-10-31</maxDate>
+    <latitude>34.7</latitude>
+    <longitude>-104.91667</longitude>
+    <elevation>1649.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.94</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026282</id>
+    <displayName>PATAGONIA, AZ US</displayName>
+    <minDate>1978-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.548</latitude>
+    <longitude>-110.7516</longitude>
+    <elevation>1277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026280</id>
+    <displayName>PATAGONIA, AZ US</displayName>
+    <minDate>1921-07-01</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>31.548</latitude>
+    <longitude>-110.7516</longitude>
+    <elevation>1277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHLC0002</id>
+    <displayName>PATASKALA 4.4 WNW, OH US</displayName>
+    <minDate>2009-02-03</minDate>
+    <maxDate>2012-12-06</maxDate>
+    <latitude>40.0273</latitude>
+    <longitude>-82.749</longitude>
+    <elevation>324</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4091</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306441</id>
+    <displayName>PATCHOGUE 2 N, NY US</displayName>
+    <minDate>1937-05-01</minDate>
+    <maxDate>1997-10-31</maxDate>
+    <latitude>40.79667</latitude>
+    <longitude>-73.00139</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456410</id>
+    <displayName>PATEROS, WA US</displayName>
+    <minDate>1903-04-01</minDate>
+    <maxDate>1943-01-31</maxDate>
+    <latitude>48.05</latitude>
+    <longitude>-119.9</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJPS0018</id>
+    <displayName>PATERSON 2.0 W, NJ US</displayName>
+    <minDate>2010-06-18</minDate>
+    <maxDate>2012-11-06</maxDate>
+    <latitude>40.9163</latitude>
+    <longitude>-74.2005</longitude>
+    <elevation>39.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3448</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00286775</id>
+    <displayName>PATERSON, NJ US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1974-09-30</maxDate>
+    <latitude>40.9</latitude>
+    <longitude>-74.15</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9539</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA001146000</id>
+    <displayName>PATERSON, WA US</displayName>
+    <minDate>1954-04-01</minDate>
+    <maxDate>1963-06-30</maxDate>
+    <latitude>49</latitude>
+    <longitude>-117.82</longitude>
+    <elevation>673</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487105</id>
+    <displayName>PATHFINDER DAM, WY US</displayName>
+    <minDate>1905-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.4716</latitude>
+    <longitude>-106.8527</longitude>
+    <elevation>1803.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAAL0009</id>
+    <displayName>PATHFINDER, PA US</displayName>
+    <minDate>2008-09-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3416</latitude>
+    <longitude>-80.0485</longitude>
+    <elevation>338.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2864</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666904</id>
+    <displayName>PATILLAS DAM, PR US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1969-01-31</maxDate>
+    <latitude>18.03333</latitude>
+    <longitude>-66.03333</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666900</id>
+    <displayName>PATILLAS, PR US</displayName>
+    <minDate>1982-04-01</minDate>
+    <maxDate>2003-06-30</maxDate>
+    <latitude>18.0025</latitude>
+    <longitude>-66.01278</longitude>
+    <elevation>13.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8554</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OPAT</id>
+    <displayName>PATJENS OREGON, OR US</displayName>
+    <minDate>1990-08-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.3222</latitude>
+    <longitude>-120.925</longitude>
+    <elevation>679.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9578</coverage>
+  </station>
+</stationCollection>

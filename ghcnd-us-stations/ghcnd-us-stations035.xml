@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="35">
+  <station>
+    <id>GHCND:USC00170593</id>
+    <displayName>BIDDEFORD, ME US</displayName>
+    <minDate>1925-10-01</minDate>
+    <maxDate>1927-01-31</maxDate>
+    <latitude>43.483333</latitude>
+    <longitude>-70.466667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2582</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240743</id>
+    <displayName>BIDDLE 8 SW, MT US</displayName>
+    <minDate>1963-10-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.0402</latitude>
+    <longitude>-105.4855</longitude>
+    <elevation>1096.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240739</id>
+    <displayName>BIDDLE, MT US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.0983</latitude>
+    <longitude>-105.338</longitude>
+    <elevation>1014.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040731</id>
+    <displayName>BIEBER, CA US</displayName>
+    <minDate>1906-02-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.1208</latitude>
+    <longitude>-121.1347</longitude>
+    <elevation>1257.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LABV0001</id>
+    <displayName>BIENVILLE 0.5 S, LA US</displayName>
+    <minDate>2008-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3547</latitude>
+    <longitude>-92.9775</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8388</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00160800</id>
+    <displayName>BIENVILLE 3 NE, LA US</displayName>
+    <minDate>1972-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3744</latitude>
+    <longitude>-92.9433</longitude>
+    <elevation>93.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MBIE</id>
+    <displayName>BIENVILLE MISSISSIPPI, MS US</displayName>
+    <minDate>2001-07-05</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.355</latitude>
+    <longitude>-89.4692</longitude>
+    <elevation>147.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240748</id>
+    <displayName>BIG ARM, MT US</displayName>
+    <minDate>1966-06-01</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>47.8</latitude>
+    <longitude>-114.3</longitude>
+    <elevation>887.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040738</id>
+    <displayName>BIG BAR 4 E, CA US</displayName>
+    <minDate>1943-10-18</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.7405</latitude>
+    <longitude>-123.2077</longitude>
+    <elevation>381.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9229</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBBR</id>
+    <displayName>BIG BAR CALIFORNIA, CA US</displayName>
+    <minDate>1989-11-13</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.7333</latitude>
+    <longitude>-123.2333</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350733</id>
+    <displayName>BIG BASIN, OR US</displayName>
+    <minDate>1902-10-01</minDate>
+    <maxDate>1915-07-31</maxDate>
+    <latitude>44.65</latitude>
+    <longitude>-119.633333</longitude>
+    <elevation>853.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200770</id>
+    <displayName>BIG BAY 1 NW, MI US</displayName>
+    <minDate>1945-02-21</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>46.8325</latitude>
+    <longitude>-87.7504</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200767</id>
+    <displayName>BIG BAY 4 NW, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-08-31</maxDate>
+    <latitude>46.85</latitude>
+    <longitude>-87.8</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9133</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200771</id>
+    <displayName>BIG BAY 9 SW, MI US</displayName>
+    <minDate>2011-12-13</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>46.74611</latitude>
+    <longitude>-87.88167</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500766</id>
+    <displayName>BIG BAY RANGER STATION, AK US</displayName>
+    <minDate>1991-08-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>58.55194</latitude>
+    <longitude>-152.60806</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040742</id>
+    <displayName>BIG BEAR LAKE DAM, CA US</displayName>
+    <minDate>1914-12-01</minDate>
+    <maxDate>1971-09-30</maxDate>
+    <latitude>34.2413</latitude>
+    <longitude>-116.9744</longitude>
+    <elevation>2077.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6497</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040741</id>
+    <displayName>BIG BEAR LAKE, CA US</displayName>
+    <minDate>1960-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.2441</latitude>
+    <longitude>-116.904</longitude>
+    <elevation>2060.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040747</id>
+    <displayName>BIG BEN RANGER STATION, CA US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>39.3</latitude>
+    <longitude>-120.51667</longitude>
+    <elevation>1751.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIWK0008</id>
+    <displayName>BIG BEND 0.1 WNW, WI US</displayName>
+    <minDate>2007-07-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.882</latitude>
+    <longitude>-88.2046</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NBIG</id>
+    <displayName>BIG BEND NEVADA, NV US</displayName>
+    <minDate>1986-11-05</minDate>
+    <maxDate>1995-12-11</maxDate>
+    <latitude>35.1186</latitude>
+    <longitude>-114.6933</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410764</id>
+    <displayName>BIG BEND RANCH SP, TX US</displayName>
+    <minDate>1995-02-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>29.4371</latitude>
+    <longitude>-103.9582</longitude>
+    <elevation>1261.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9682</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015H04S</id>
+    <displayName>BIG BEND, NV US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.7667</latitude>
+    <longitude>-115.7167</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140800</id>
+    <displayName>BIG BOW 2 S, KS US</displayName>
+    <minDate>1981-02-01</minDate>
+    <maxDate>1991-10-31</maxDate>
+    <latitude>37.53333</latitude>
+    <longitude>-101.56667</longitude>
+    <elevation>966.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140802</id>
+    <displayName>BIG BOW 4 WSW, KS US</displayName>
+    <minDate>1940-04-17</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.5515</latitude>
+    <longitude>-101.6344</longitude>
+    <elevation>984.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2006</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000LBBR</id>
+    <displayName>BIG BRANCH NWR LOUISIANA, LA US</displayName>
+    <minDate>2002-12-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.3167</latitude>
+    <longitude>-89.9333</longitude>
+    <elevation>3.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9274</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350745</id>
+    <displayName>BIG CAMAS RANGER STATION, OR US</displayName>
+    <minDate>1937-11-13</minDate>
+    <maxDate>1940-03-13</maxDate>
+    <latitude>43.23333</latitude>
+    <longitude>-122.46667</longitude>
+    <elevation>942.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMN0001</id>
+    <displayName>BIG COPPITT KEY 0.2 NW, FL US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>24.5986</latitude>
+    <longitude>-81.6622</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9359</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080735</id>
+    <displayName>BIG CORKSCREW, FL US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>26.3651</latitude>
+    <longitude>-81.5477</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369380</id>
+    <displayName>BIG COVE TANNERY, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.81667</latitude>
+    <longitude>-78.08333</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040755</id>
+    <displayName>BIG CREEK PH 1, CA US</displayName>
+    <minDate>1915-06-01</minDate>
+    <maxDate>2011-06-30</maxDate>
+    <latitude>37.2064</latitude>
+    <longitude>-119.2419</longitude>
+    <elevation>1486.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6026</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0017K04S</id>
+    <displayName>BIG CREEK SUM, NV US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.3</latitude>
+    <longitude>-117.1167</longitude>
+    <elevation>2651.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015E02S</id>
+    <displayName>BIG CREEK SUMMIT, ID US</displayName>
+    <minDate>1981-10-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.6333</latitude>
+    <longitude>-115.8</longitude>
+    <elevation>2005.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100835</id>
+    <displayName>BIG CREEK, ID US</displayName>
+    <minDate>1908-05-24</minDate>
+    <maxDate>1970-07-31</maxDate>
+    <latitude>45.13333</latitude>
+    <longitude>-115.31667</longitude>
+    <elevation>1731.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150687</id>
+    <displayName>BIG CREEK, KY US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2003-10-31</maxDate>
+    <latitude>37.15972</latitude>
+    <longitude>-83.56306</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00220730</id>
+    <displayName>BIG CREEK, MS US</displayName>
+    <minDate>1910-09-01</minDate>
+    <maxDate>1913-08-31</maxDate>
+    <latitude>33.85</latitude>
+    <longitude>-89.416667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8376</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240749</id>
+    <displayName>BIG CREEK, MT US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1910-06-30</maxDate>
+    <latitude>45.316667</latitude>
+    <longitude>-110.85</longitude>
+    <elevation>1766</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480655</id>
+    <displayName>BIG CREEK, WY US</displayName>
+    <minDate>1909-02-02</minDate>
+    <maxDate>1924-04-26</maxDate>
+    <latitude>41.083333</latitude>
+    <longitude>-106.5</longitude>
+    <elevation>2286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080739</id>
+    <displayName>BIG CYPRESS RESERVATION, FL US</displayName>
+    <minDate>1940-08-07</minDate>
+    <maxDate>1969-02-28</maxDate>
+    <latitude>26.31667</latitude>
+    <longitude>-81</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080737</id>
+    <displayName>BIG CYPRESS, FL US</displayName>
+    <minDate>2002-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.32833</latitude>
+    <longitude>-80.99583</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040758</id>
+    <displayName>BIG DALTON DAM FC223, CA US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>1980-12-31</maxDate>
+    <latitude>34.16667</latitude>
+    <longitude>-117.81667</longitude>
+    <elevation>484.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026415</id>
+    <displayName>BIG DELTA AIRPORT, AK US</displayName>
+    <minDate>1917-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>63.9944</latitude>
+    <longitude>-145.7214</longitude>
+    <elevation>389.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500775</id>
+    <displayName>BIG DIPPER FARM, AK US</displayName>
+    <minDate>1968-05-01</minDate>
+    <maxDate>1970-04-26</maxDate>
+    <latitude>60.55</latitude>
+    <longitude>-150.88333</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310795</id>
+    <displayName>BIG EAST FORK PIGEON, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1950-07-31</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-82.81667</longitude>
+    <elevation>1030.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350753</id>
+    <displayName>BIG EDDY, OR US</displayName>
+    <minDate>1916-04-01</minDate>
+    <maxDate>1957-03-31</maxDate>
+    <latitude>45.61667</latitude>
+    <longitude>-121.11667</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470773</id>
+    <displayName>BIG FALLS HYDRO, WI US</displayName>
+    <minDate>1956-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.5556</latitude>
+    <longitude>-90.9592</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210746</id>
+    <displayName>BIG FALLS, MN US</displayName>
+    <minDate>1930-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.1969</latitude>
+    <longitude>-93.7994</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030662</id>
+    <displayName>BIG FLAT, AR US</displayName>
+    <minDate>1944-12-21</minDate>
+    <maxDate>1951-10-31</maxDate>
+    <latitude>36</latitude>
+    <longitude>-92.4</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8923</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012L07S</id>
+    <displayName>BIG FLAT, UT US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.3</latitude>
+    <longitude>-112.35</longitude>
+    <elevation>3136.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9008</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCM0012</id>
+    <displayName>BIG FLATS 1.1 W, NY US</displayName>
+    <minDate>2008-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1437</latitude>
+    <longitude>-76.9512</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCM0005</id>
+    <displayName>BIG FLATS 1.1 WNW, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2004-10-31</maxDate>
+    <latitude>42.15</latitude>
+    <longitude>-76.95</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYST0004</id>
+    <displayName>BIG FLATS 2.0 W, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.1404</latitude>
+    <longitude>-76.9703</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030664</id>
+    <displayName>BIG FORK 1 SSE, AR US</displayName>
+    <minDate>1944-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4619</latitude>
+    <longitude>-93.9983</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9467</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450672</id>
+    <displayName>BIG FOUR, WA US</displayName>
+    <minDate>1929-09-12</minDate>
+    <maxDate>1942-04-30</maxDate>
+    <latitude>48.06667</latitude>
+    <longitude>-121.5</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5772</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007E22S</id>
+    <displayName>BIG GOOSE, WY US</displayName>
+    <minDate>1998-09-24</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.5667</latitude>
+    <longitude>-107.2</longitude>
+    <elevation>2435.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9376</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBIH</id>
+    <displayName>BIG HILL CALIFORNIA, CA US</displayName>
+    <minDate>1997-03-31</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.0975</latitude>
+    <longitude>-123.6358</longitude>
+    <elevation>1088.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140810</id>
+    <displayName>BIG HILL LAKE, KS US</displayName>
+    <minDate>1998-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.2757</latitude>
+    <longitude>-95.4728</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBIG</id>
+    <displayName>BIG HORN COLORADO, CO US</displayName>
+    <minDate>1993-05-17</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.0203</latitude>
+    <longitude>-106.2006</longitude>
+    <elevation>2540.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480680</id>
+    <displayName>BIG HORN, WY US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6828</latitude>
+    <longitude>-107.0089</longitude>
+    <elevation>1282.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2559</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000BIGI</id>
+    <displayName>BIG INDIAN VALLEY LASAL 6 S U, UT US</displayName>
+    <minDate>1987-09-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.2244</latitude>
+    <longitude>-109.2783</longitude>
+    <elevation>2121.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440712</id>
+    <displayName>BIG KNOB, VA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.66667</latitude>
+    <longitude>-82.5</longitude>
+    <elevation>961</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9407</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCRK014</id>
+    <displayName>BIG LAKE 11.0 S, TX US</displayName>
+    <minDate>2010-12-24</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>31.0352</latitude>
+    <longitude>-101.4502</longitude>
+    <elevation>781.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3081</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410777</id>
+    <displayName>BIG LAKE 13 SSW, TX US</displayName>
+    <minDate>1941-09-17</minDate>
+    <maxDate>1949-04-15</maxDate>
+    <latitude>31.01667</latitude>
+    <longitude>-101.55</longitude>
+    <elevation>854</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500781</id>
+    <displayName>BIG LAKE 2, AK US</displayName>
+    <minDate>1971-06-29</minDate>
+    <maxDate>1977-08-31</maxDate>
+    <latitude>61.56667</latitude>
+    <longitude>-149.96667</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7478</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410779</id>
+    <displayName>BIG LAKE 2, TX US</displayName>
+    <minDate>1963-08-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.2001</latitude>
+    <longitude>-101.4626</longitude>
+    <elevation>833.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9369</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSH0010</id>
+    <displayName>BIG LAKE 5.6 NNE, MN US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4141</latitude>
+    <longitude>-93.6919</longitude>
+    <elevation>296.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABIL</id>
+    <displayName>BIG LAKE ALASKA, AK US</displayName>
+    <minDate>2000-04-28</minDate>
+    <maxDate>2011-05-10</maxDate>
+    <latitude>61.5183</latitude>
+    <longitude>-149.9078</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410776</id>
+    <displayName>BIG LAKE LCRA 140, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>31.2</latitude>
+    <longitude>-101.46667</longitude>
+    <elevation>819.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030676</id>
+    <displayName>BIG LAKE OUTLET, AR US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1960-07-31</maxDate>
+    <latitude>35.85</latitude>
+    <longitude>-90.13333</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500777</id>
+    <displayName>BIG LAKE, AK US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>1961-12-31</maxDate>
+    <latitude>61.53333</latitude>
+    <longitude>-149.83333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3746</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020758</id>
+    <displayName>BIG LAKE, AZ US</displayName>
+    <minDate>1955-04-19</minDate>
+    <maxDate>1957-02-15</maxDate>
+    <latitude>33.86667</latitude>
+    <longitude>-109.41667</longitude>
+    <elevation>2745</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6248</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00400700</id>
+    <displayName>BIG LICK, TN US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.81667</latitude>
+    <longitude>-85.03333</longitude>
+    <elevation>540.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0019K08S</id>
+    <displayName>BIG MEADOW, NV US</displayName>
+    <minDate>1983-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.45</latitude>
+    <longitude>-119.95</longitude>
+    <elevation>2529.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440725</id>
+    <displayName>BIG MEADOWS 2, VA US</displayName>
+    <minDate>1943-04-10</minDate>
+    <maxDate>1949-10-31</maxDate>
+    <latitude>38.5</latitude>
+    <longitude>-78.41667</longitude>
+    <elevation>1007.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440720</id>
+    <displayName>BIG MEADOWS, VA US</displayName>
+    <minDate>1935-01-01</minDate>
+    <maxDate>2012-07-30</maxDate>
+    <latitude>38.5216</latitude>
+    <longitude>-78.4355</longitude>
+    <elevation>1079</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300668</id>
+    <displayName>BIG MOOSE 3 SE, NY US</displayName>
+    <minDate>1931-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.8</latitude>
+    <longitude>-74.8667</longitude>
+    <elevation>536.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IBIO</id>
+    <displayName>BIG OAKS INDIANA, IN US</displayName>
+    <minDate>2003-01-24</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.9253</latitude>
+    <longitude>-85.3625</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9139</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00460784</id>
+    <displayName>BIG OTTER, WV US</displayName>
+    <minDate>2011-01-02</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>38.6033</latitude>
+    <longitude>-81.0328</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240759</id>
+    <displayName>BIG OX, MT US</displayName>
+    <minDate>1916-08-01</minDate>
+    <maxDate>1928-02-29</maxDate>
+    <latitude>46.783333</latitude>
+    <longitude>-112.366667</longitude>
+    <elevation>1463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBPI</id>
+    <displayName>BIG PINE FLAT CALIFORNIA, CA US</displayName>
+    <minDate>2001-12-13</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.3194</latitude>
+    <longitude>-117.0131</longitude>
+    <elevation>2091.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9246</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMN0018</id>
+    <displayName>BIG PINE KEY 3.2 NW, FL US</displayName>
+    <minDate>2011-03-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>24.7222</latitude>
+    <longitude>-81.3994</longitude>
+    <elevation>0.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8515</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080747</id>
+    <displayName>BIG PINE KEY, FL US</displayName>
+    <minDate>1950-05-01</minDate>
+    <maxDate>1955-11-30</maxDate>
+    <latitude>24.71667</latitude>
+    <longitude>-81.38333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9201</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBIP</id>
+    <displayName>BIG PINES CALIFORNIA, CA US</displayName>
+    <minDate>2002-11-21</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.3789</latitude>
+    <longitude>-117.6919</longitude>
+    <elevation>2108.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9336</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040779</id>
+    <displayName>BIG PINES PARK FC83B, CA US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>1996-09-30</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-117.68333</longitude>
+    <elevation>2086.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9495</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSL0004</id>
+    <displayName>BIG PINEY 5.4 NNW, WY US</displayName>
+    <minDate>2005-09-24</minDate>
+    <maxDate>2007-03-21</maxDate>
+    <latitude>42.6112</latitude>
+    <longitude>-110.1631</longitude>
+    <elevation>2150.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024164</id>
+    <displayName>BIG PINEY MARBLETON AIRPORT, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.58444</latitude>
+    <longitude>-110.1075</longitude>
+    <elevation>2124.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8775</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230628</id>
+    <displayName>BIG PINEY, MO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1896-02-29</maxDate>
+    <latitude>37.671987</latitude>
+    <longitude>-92.09794</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420686</id>
+    <displayName>BIG PLAINS, UT US</displayName>
+    <minDate>1915-11-01</minDate>
+    <maxDate>1927-08-31</maxDate>
+    <latitude>37.066667</latitude>
+    <longitude>-113.1</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1819</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240758</id>
+    <displayName>BIG PRAIRIE RANGER STATION, MT US</displayName>
+    <minDate>1914-08-01</minDate>
+    <maxDate>1915-10-31</maxDate>
+    <latitude>47.5</latitude>
+    <longitude>-113.23333</longitude>
+    <elevation>1414.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2188</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330715</id>
+    <displayName>BIG PRAIRIE, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1901-09-30</maxDate>
+    <latitude>40.683333</latitude>
+    <longitude>-82.1</longitude>
+    <elevation>288.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9386</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIME0002</id>
+    <displayName>BIG RAPIDS 0.7 ENE, MI US</displayName>
+    <minDate>2009-04-23</minDate>
+    <maxDate>2011-08-04</maxDate>
+    <latitude>43.7075</latitude>
+    <longitude>-85.4739</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9568</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIME0001</id>
+    <displayName>BIG RAPIDS 1.4 SSE, MI US</displayName>
+    <minDate>2008-09-21</minDate>
+    <maxDate>2010-04-30</maxDate>
+    <latitude>43.6849</latitude>
+    <longitude>-85.4752</longitude>
+    <elevation>284.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6065</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIME0003</id>
+    <displayName>BIG RAPIDS 3.2 NE, MI US</displayName>
+    <minDate>2009-05-11</minDate>
+    <maxDate>2012-08-21</maxDate>
+    <latitude>43.7383</latitude>
+    <longitude>-85.4433</longitude>
+    <elevation>307.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.357</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200779</id>
+    <displayName>BIG RAPIDS WATERWORK, MI US</displayName>
+    <minDate>1896-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.7072</latitude>
+    <longitude>-85.4822</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0022G21S</id>
+    <displayName>BIG RED MOUNTAIN, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-122.85</longitude>
+    <elevation>1905</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9228</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500788</id>
+    <displayName>BIG RIVER LAKES, AK US</displayName>
+    <minDate>1978-01-01</minDate>
+    <maxDate>2010-11-30</maxDate>
+    <latitude>60.81417</latitude>
+    <longitude>-152.29694</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9286</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBIR</id>
+    <displayName>BIG ROCK CALIFORNIA, CA US</displayName>
+    <minDate>2003-09-29</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>38.0394</latitude>
+    <longitude>-122.57</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8687</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTCH0001</id>
+    <displayName>BIG SANDY 0.1 SW, MT US</displayName>
+    <minDate>2007-05-05</minDate>
+    <maxDate>2008-12-15</maxDate>
+    <latitude>48.1777</latitude>
+    <longitude>-110.1144</longitude>
+    <elevation>823</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBN0002</id>
+    <displayName>BIG SANDY 6.5 SSE, TN US</displayName>
+    <minDate>2011-03-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.2393</latitude>
+    <longitude>-88.08</longitude>
+    <elevation>132</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000KBSN</id>
+    <displayName>BIG SANDY KENTUCKY, KY US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.75</latitude>
+    <longitude>-82.6333</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9319</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009G09S</id>
+    <displayName>BIG SANDY OPENING, WY US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.65</latitude>
+    <longitude>-109.2667</longitude>
+    <elevation>2767.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8698</coverage>
+  </station>
+</stationCollection>

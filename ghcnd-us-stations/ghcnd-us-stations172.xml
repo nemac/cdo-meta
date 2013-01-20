@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="172">
+  <station>
+    <id>GHCND:US1AZPM0172</id>
+    <displayName>GREEN VALLEY 3.9 NE, AZ US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.8942</latitude>
+    <longitude>-110.9461</longitude>
+    <elevation>872.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6242</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0165</id>
+    <displayName>GREEN VALLEY 4.0 ENE, AZ US</displayName>
+    <minDate>2010-07-08</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>31.8836</latitude>
+    <longitude>-110.9352</longitude>
+    <elevation>893.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1884</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0091</id>
+    <displayName>GREEN VALLEY 4.8 NW, AZ US</displayName>
+    <minDate>2009-09-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.8906</latitude>
+    <longitude>-110.9314</longitude>
+    <elevation>890</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0133</id>
+    <displayName>GREEN VALLEY SSW 3.9, AZ US</displayName>
+    <minDate>2010-01-19</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>31.8027</latitude>
+    <longitude>-111.0221</longitude>
+    <elevation>943.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7262</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023668</id>
+    <displayName>GREEN VALLEY, AZ US</displayName>
+    <minDate>1988-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.893</latitude>
+    <longitude>-110.9977</longitude>
+    <elevation>883.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9733</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203410</id>
+    <displayName>GREEN, MI US</displayName>
+    <minDate>1911-05-25</minDate>
+    <maxDate>1913-12-31</maxDate>
+    <latitude>46.83333</latitude>
+    <longitude>-89.43333</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7007</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333345</id>
+    <displayName>GREEN, OH US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>1924-12-31</maxDate>
+    <latitude>39.65</latitude>
+    <longitude>-84.65</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9816</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPB0016</id>
+    <displayName>GREENACRES 1.8 NNW, FL US</displayName>
+    <minDate>2008-08-07</minDate>
+    <maxDate>2011-08-29</maxDate>
+    <latitude>26.6551</latitude>
+    <longitude>-80.1475</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3238</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPB0001</id>
+    <displayName>GREENACRES CITY 2.5 W, FL US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2008-07-23</maxDate>
+    <latitude>26.6241</latitude>
+    <longitude>-80.1804</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0523</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAAC0008</id>
+    <displayName>GREENBACKVILLE 0.4 WNW, VA US</displayName>
+    <minDate>2010-11-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0131</latitude>
+    <longitude>-75.3978</longitude>
+    <elevation>0.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAIS0002</id>
+    <displayName>GREENBANK 0.1 SE, WA US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.0963</latitude>
+    <longitude>-122.572</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAIS0001</id>
+    <displayName>GREENBANK 0.5 WSW, WA US</displayName>
+    <minDate>2008-06-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.0961</latitude>
+    <longitude>-122.5829</longitude>
+    <elevation>82.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9721</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAIS0022</id>
+    <displayName>GREENBANK 0.8 W, WA US</displayName>
+    <minDate>2011-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.0988</latitude>
+    <longitude>-122.5911</longitude>
+    <elevation>55.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9558</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00443565</id>
+    <displayName>GREENBAY 3 NE, VA US</displayName>
+    <minDate>2004-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1756</latitude>
+    <longitude>-78.2786</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDPG0044</id>
+    <displayName>GREENBELT 0.5 NE, MD US</displayName>
+    <minDate>2009-03-08</minDate>
+    <maxDate>2010-06-17</maxDate>
+    <latitude>38.9992</latitude>
+    <longitude>-76.8773</longitude>
+    <elevation>53</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDPG0040</id>
+    <displayName>GREENBELT 1.0 N, MD US</displayName>
+    <minDate>2007-01-20</minDate>
+    <maxDate>2010-01-08</maxDate>
+    <latitude>39.0093</latitude>
+    <longitude>-76.8876</longitude>
+    <elevation>63.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2783</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDPG0047</id>
+    <displayName>GREENBELT 2.2 E, MD US</displayName>
+    <minDate>2010-09-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9964</latitude>
+    <longitude>-76.8444</longitude>
+    <elevation>65.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.183</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00183860</id>
+    <displayName>GREENBELT, MD US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1960-12-31</maxDate>
+    <latitude>39</latitude>
+    <longitude>-76.88333</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRB0015</id>
+    <displayName>GREENBRIER 1.4 N, TN US</displayName>
+    <minDate>2007-08-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4437</latitude>
+    <longitude>-86.7981</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRB0030</id>
+    <displayName>GREENBRIER 2.0 SSW, TN US</displayName>
+    <minDate>2008-08-26</minDate>
+    <maxDate>2010-05-03</maxDate>
+    <latitude>36.3943</latitude>
+    <longitude>-86.8091</longitude>
+    <elevation>268.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4675</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARFK0016</id>
+    <displayName>GREENBRIER 2.8 W, AR US</displayName>
+    <minDate>2012-07-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2277</latitude>
+    <longitude>-92.4324</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9023</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRB0010</id>
+    <displayName>GREENBRIER 3.8 WSW, TN US</displayName>
+    <minDate>2007-05-11</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>36.4074</latitude>
+    <longitude>-86.8662</longitude>
+    <elevation>228.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5428</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00032962</id>
+    <displayName>GREENBRIER, AR US</displayName>
+    <minDate>1940-07-18</minDate>
+    <maxDate>2004-05-31</maxDate>
+    <latitude>35.23528</latitude>
+    <longitude>-92.36194</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8095</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIAC0003</id>
+    <displayName>GREENBUSH 2.5 S, MI US</displayName>
+    <minDate>2012-05-24</minDate>
+    <maxDate>2012-10-22</maxDate>
+    <latitude>44.55</latitude>
+    <longitude>-83.3167</longitude>
+    <elevation>178.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAFN0001</id>
+    <displayName>GREENCASTLE 0.3 SSE, PA US</displayName>
+    <minDate>2007-12-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7866</latitude>
+    <longitude>-77.7253</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8264</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAFN0006</id>
+    <displayName>GREENCASTLE 0.6 NE, PA US</displayName>
+    <minDate>2009-06-19</minDate>
+    <maxDate>2011-12-08</maxDate>
+    <latitude>39.7976</latitude>
+    <longitude>-77.72</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.268</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123513</id>
+    <displayName>GREENCASTLE 1 E, IN US</displayName>
+    <minDate>1895-09-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.644</latitude>
+    <longitude>-86.8766</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPM0011</id>
+    <displayName>GREENCASTLE 3.6 ESE, IN US</displayName>
+    <minDate>2011-03-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6221</latitude>
+    <longitude>-86.779</longitude>
+    <elevation>240.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPM0010</id>
+    <displayName>GREENCASTLE 3.9 SSE, IN US</displayName>
+    <minDate>2009-08-09</minDate>
+    <maxDate>2013-01-17</maxDate>
+    <latitude>39.5885</latitude>
+    <longitude>-86.8177</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPM0009</id>
+    <displayName>GREENCASTLE 8.6 WSW, IN US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2010-10-25</maxDate>
+    <latitude>39.6263</latitude>
+    <longitude>-87.0012</longitude>
+    <elevation>249</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3377</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153404</id>
+    <displayName>GREENCASTLE, KY US</displayName>
+    <minDate>1933-06-01</minDate>
+    <maxDate>1936-08-31</maxDate>
+    <latitude>37.08333</latitude>
+    <longitude>-86.5</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9369</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103835</id>
+    <displayName>GREENCREEK 3 N, ID US</displayName>
+    <minDate>1964-12-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>46.15</latitude>
+    <longitude>-116.26667</longitude>
+    <elevation>1022</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9719</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIMW0023</id>
+    <displayName>GREENDALE 1.0 ENE, WI US</displayName>
+    <minDate>2012-03-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.9409</latitude>
+    <longitude>-87.9823</longitude>
+    <elevation>244.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9342</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153408</id>
+    <displayName>GREENDALE, KY US</displayName>
+    <minDate>1893-05-01</minDate>
+    <maxDate>1896-10-31</maxDate>
+    <latitude>38.1</latitude>
+    <longitude>-84.53333</longitude>
+    <elevation>288.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9359</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCN0003</id>
+    <displayName>GREENE 0.3 NE, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>42.3333</latitude>
+    <longitude>-75.7667</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCN0006</id>
+    <displayName>GREENE 1.2 ESE, NY US</displayName>
+    <minDate>2008-01-14</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>42.3225</latitude>
+    <longitude>-75.7507</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5545</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEAN0016</id>
+    <displayName>GREENE 4.5 NNW, ME US</displayName>
+    <minDate>2010-11-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2477</latitude>
+    <longitude>-70.18</longitude>
+    <elevation>96.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7708</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303444</id>
+    <displayName>GREENE, NY US</displayName>
+    <minDate>1909-02-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3239</latitude>
+    <longitude>-75.7711</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00373260</id>
+    <displayName>GREENE, RI US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1925-05-31</maxDate>
+    <latitude>41.666667</latitude>
+    <longitude>-71.75</longitude>
+    <elevation>130.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9137</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGN0001</id>
+    <displayName>GREENEVILLE 10.1 S, TN US</displayName>
+    <minDate>2008-01-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0195</latitude>
+    <longitude>-82.8309</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9635</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGN0008</id>
+    <displayName>GREENEVILLE 3.0 S, TN US</displayName>
+    <minDate>2008-02-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1224</latitude>
+    <longitude>-82.8162</longitude>
+    <elevation>467.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9733</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403684</id>
+    <displayName>GREENEVILLE 5 SSW, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.1</latitude>
+    <longitude>-82.83333</longitude>
+    <elevation>420.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGN0002</id>
+    <displayName>GREENEVILLE 6.4 SSE, TN US</displayName>
+    <minDate>2008-06-27</minDate>
+    <maxDate>2010-08-01</maxDate>
+    <latitude>36.0858</latitude>
+    <longitude>-82.7608</longitude>
+    <elevation>441</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403679</id>
+    <displayName>GREENEVILLE EXPERIMENTAL STATION, TN US</displayName>
+    <minDate>1890-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1056</latitude>
+    <longitude>-82.8436</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7672</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHN0012</id>
+    <displayName>GREENFIELD 0.4 SW, IN US</displayName>
+    <minDate>2007-04-26</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>39.7879</latitude>
+    <longitude>-85.7752</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4264</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILGR0005</id>
+    <displayName>GREENFIELD 0.6 W, IL US</displayName>
+    <minDate>2008-10-22</minDate>
+    <maxDate>2012-03-16</maxDate>
+    <latitude>39.3434</latitude>
+    <longitude>-90.2184</longitude>
+    <elevation>181.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA057</id>
+    <displayName>GREENFIELD 0.8 SSW, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.4056</latitude>
+    <longitude>-93.846</longitude>
+    <elevation>341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333356</id>
+    <displayName>GREENFIELD 1 WNW, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.35417</latitude>
+    <longitude>-83.40556</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHN0026</id>
+    <displayName>GREENFIELD 1.5 S, IN US</displayName>
+    <minDate>2011-04-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7713</latitude>
+    <longitude>-85.7739</longitude>
+    <elevation>272.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHN0002</id>
+    <displayName>GREENFIELD 2.4 W, IN US</displayName>
+    <minDate>2006-03-19</minDate>
+    <maxDate>2010-05-11</maxDate>
+    <latitude>39.791</latitude>
+    <longitude>-85.816</longitude>
+    <elevation>266.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8449</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHN0018</id>
+    <displayName>GREENFIELD 3.6 ESE, IN US</displayName>
+    <minDate>2009-02-13</minDate>
+    <maxDate>2012-09-01</maxDate>
+    <latitude>39.7709</latitude>
+    <longitude>-85.7083</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303452</id>
+    <displayName>GREENFIELD CENTER, NY US</displayName>
+    <minDate>1903-05-01</minDate>
+    <maxDate>1955-05-31</maxDate>
+    <latitude>43.11667</latitude>
+    <longitude>-73.83333</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123532</id>
+    <displayName>GREENFIELD HIGHWAY G, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.78333</latitude>
+    <longitude>-85.78333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193229</id>
+    <displayName>GREENFIELD NUMBER 3, MA US</displayName>
+    <minDate>2005-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.5719</latitude>
+    <longitude>-72.5975</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133438</id>
+    <displayName>GREENFIELD, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.298</latitude>
+    <longitude>-94.4561</longitude>
+    <elevation>408.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113666</id>
+    <displayName>GREENFIELD, IL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.3425</latitude>
+    <longitude>-90.2058</longitude>
+    <elevation>167</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123527</id>
+    <displayName>GREENFIELD, IN US</displayName>
+    <minDate>1903-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7858</latitude>
+    <longitude>-85.7611</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193224</id>
+    <displayName>GREENFIELD, MA US</displayName>
+    <minDate>1929-03-01</minDate>
+    <maxDate>1946-06-30</maxDate>
+    <latitude>42.583333</latitude>
+    <longitude>-72.6</longitude>
+    <elevation>56.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233420</id>
+    <displayName>GREENFIELD, MO US</displayName>
+    <minDate>1981-06-02</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.3981</latitude>
+    <longitude>-93.7931</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1121</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403697</id>
+    <displayName>GREENFIELD, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.16778</latitude>
+    <longitude>-88.7975</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043599</id>
+    <displayName>GREENHORN MOUNTAIN PARK, CA US</displayName>
+    <minDate>1951-03-01</minDate>
+    <maxDate>1952-02-29</maxDate>
+    <latitude>35.73333</latitude>
+    <longitude>-118.55</longitude>
+    <elevation>1859.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8251</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353513</id>
+    <displayName>GREENHORN, OR US</displayName>
+    <minDate>1909-12-10</minDate>
+    <maxDate>1914-11-30</maxDate>
+    <latitude>44.683333</latitude>
+    <longitude>-118.633333</longitude>
+    <elevation>1905</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9923</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHRC0013</id>
+    <displayName>GREENLAND 1.5 SSE, NH US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0159</latitude>
+    <longitude>-70.8272</longitude>
+    <elevation>26.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9738</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203421</id>
+    <displayName>GREENLAND 6 N, MI US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.8736</latitude>
+    <longitude>-89.1006</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00053584</id>
+    <displayName>GREENLAND 6 NE, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.2166</latitude>
+    <longitude>-104.7383</longitude>
+    <elevation>2103.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00053579</id>
+    <displayName>GREENLAND 9 SE, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.1044</latitude>
+    <longitude>-104.7286</longitude>
+    <elevation>2279.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00053570</id>
+    <displayName>GREENLAND, CO US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>1981-09-30</maxDate>
+    <latitude>39.18333</latitude>
+    <longitude>-104.85</longitude>
+    <elevation>2097.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273626</id>
+    <displayName>GREENLAND, NH US</displayName>
+    <minDate>1973-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.0167</latitude>
+    <longitude>-70.8333</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSWS0006</id>
+    <displayName>GREENLEAF 2.3 NNE, KS US</displayName>
+    <minDate>2007-03-17</minDate>
+    <maxDate>2009-11-16</maxDate>
+    <latitude>39.7549</latitude>
+    <longitude>-96.9576</longitude>
+    <elevation>408.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1342</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSWS0008</id>
+    <displayName>GREENLEAF 3.7 ENE, KS US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7548</latitude>
+    <longitude>-96.9209</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2517</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSWS0002</id>
+    <displayName>GREENLEAF 7.8 SSE, KS US</displayName>
+    <minDate>2006-03-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.6189</latitude>
+    <longitude>-96.9377</longitude>
+    <elevation>430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143233</id>
+    <displayName>GREENLEAF, KS US</displayName>
+    <minDate>1941-02-16</minDate>
+    <maxDate>1946-12-31</maxDate>
+    <latitude>39.733333</latitude>
+    <longitude>-96.983333</longitude>
+    <elevation>430.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353515</id>
+    <displayName>GREENLEAF, OR US</displayName>
+    <minDate>1908-06-01</minDate>
+    <maxDate>1940-08-31</maxDate>
+    <latitude>44.116667</latitude>
+    <longitude>-123.65</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0718</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393430</id>
+    <displayName>GREENMONT, SD US</displayName>
+    <minDate>1909-05-01</minDate>
+    <maxDate>1923-01-31</maxDate>
+    <latitude>44.35</latitude>
+    <longitude>-103.833333</longitude>
+    <elevation>1932.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTMS0017</id>
+    <displayName>GREENOUGH 2.0 NNE, MT US</displayName>
+    <minDate>2008-01-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.9461</latitude>
+    <longitude>-113.4296</longitude>
+    <elevation>1127.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7233</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021D01S</id>
+    <displayName>GREENPOINT, OR US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.6167</latitude>
+    <longitude>-121.7</longitude>
+    <elevation>975.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9145</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303464</id>
+    <displayName>GREENPORT POWER HOUS, NY US</displayName>
+    <minDate>1958-06-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.10194</latitude>
+    <longitude>-72.37306</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7156</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NGRC</id>
+    <displayName>GREENS CROSS NORTH CAROLINA, NC US</displayName>
+    <minDate>2002-04-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>36.0175</latitude>
+    <longitude>-76.8917</longitude>
+    <elevation>12.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9365</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0006</id>
+    <displayName>GREENSBORO 0.4 S, NC US</displayName>
+    <minDate>2008-01-10</minDate>
+    <maxDate>2010-10-26</maxDate>
+    <latitude>36.0725</latitude>
+    <longitude>-79.8261</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1263</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0017</id>
+    <displayName>GREENSBORO 0.9 WNW, NC US</displayName>
+    <minDate>2010-09-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.082</latitude>
+    <longitude>-79.8432</longitude>
+    <elevation>258.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9378</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0002</id>
+    <displayName>GREENSBORO 1.0 SE, NC US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2009-03-13</maxDate>
+    <latitude>36.0673</latitude>
+    <longitude>-79.8168</longitude>
+    <elevation>252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCL0009</id>
+    <displayName>GREENSBORO 1.4 ENE, MD US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9863</latitude>
+    <longitude>-75.7846</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0003</id>
+    <displayName>GREENSBORO 1.4 SW, NC US</displayName>
+    <minDate>2007-09-04</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>36.0672</latitude>
+    <longitude>-79.8466</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0001</id>
+    <displayName>GREENSBORO 1.8 NNW, NC US</displayName>
+    <minDate>2007-09-02</minDate>
+    <maxDate>2012-06-20</maxDate>
+    <latitude>36.1008</latitude>
+    <longitude>-79.8447</longitude>
+    <elevation>264.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0015</id>
+    <displayName>GREENSBORO 1.9 WSW, NC US</displayName>
+    <minDate>2009-06-17</minDate>
+    <maxDate>2011-07-07</maxDate>
+    <latitude>36.0661</latitude>
+    <longitude>-79.8573</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9707</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAGE0001</id>
+    <displayName>GREENSBORO 11.2 S, GA US</displayName>
+    <minDate>2008-06-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4145</latitude>
+    <longitude>-83.2168</longitude>
+    <elevation>157</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063893</id>
+    <displayName>GREENSBORO 2 WNW, AL US</displayName>
+    <minDate>2007-03-16</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>32.7169</latitude>
+    <longitude>-87.6226</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTOL0009</id>
+    <displayName>GREENSBORO 2.1 NNW, VT US</displayName>
+    <minDate>2011-09-14</minDate>
+    <maxDate>2012-12-08</maxDate>
+    <latitude>44.6053</latitude>
+    <longitude>-72.3094</longitude>
+    <elevation>456</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTOL0004</id>
+    <displayName>GREENSBORO 2.3 NNE, VT US</displayName>
+    <minDate>2009-02-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6058</latitude>
+    <longitude>-72.2726</longitude>
+    <elevation>497.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0018</id>
+    <displayName>GREENSBORO 4.9 N, NC US</displayName>
+    <minDate>2010-09-28</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>36.149</latitude>
+    <longitude>-79.8371</longitude>
+    <elevation>253.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.215</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0008</id>
+    <displayName>GREENSBORO 5.3 NNE, NC US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.1515</latitude>
+    <longitude>-79.7968</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0004</id>
+    <displayName>GREENSBORO 5.9 N, NC US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2011-03-03</maxDate>
+    <latitude>36.1626</latitude>
+    <longitude>-79.8096</longitude>
+    <elevation>251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAGE0002</id>
+    <displayName>GREENSBORO 6.2 WSW, GA US</displayName>
+    <minDate>2008-12-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5513</latitude>
+    <longitude>-83.2879</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0011</id>
+    <displayName>GREENSBORO 6.5 SSE, NC US</displayName>
+    <minDate>2008-03-20</minDate>
+    <maxDate>2011-01-24</maxDate>
+    <latitude>35.9911</latitude>
+    <longitude>-79.787</longitude>
+    <elevation>265.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363503</id>
+    <displayName>GREENSBORO LOCK 7, PA US</displayName>
+    <minDate>1888-10-01</minDate>
+    <maxDate>1996-09-30</maxDate>
+    <latitude>39.78333</latitude>
+    <longitude>-79.91667</longitude>
+    <elevation>240.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9738</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013723</id>
+    <displayName>GREENSBORO PIEDMONT TRIAD INTERNATIONAL AIRPORT, NC US</displayName>
+    <minDate>1928-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0969</latitude>
+    <longitude>-79.9432</longitude>
+    <elevation>271.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313625</id>
+    <displayName>GREENSBORO PUMP STATION, NC US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>36.0811</latitude>
+    <longitude>-79.8047</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5538</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013511</id>
+    <displayName>GREENSBORO, AL US</displayName>
+    <minDate>1890-02-17</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>32.7019</latitude>
+    <longitude>-87.5817</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9613</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00093899</id>
+    <displayName>GREENSBORO, GA US</displayName>
+    <minDate>1902-04-01</minDate>
+    <maxDate>1960-08-31</maxDate>
+    <latitude>33.56667</latitude>
+    <longitude>-83.21667</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313628</id>
+    <displayName>GREENSBORO, NC US</displayName>
+    <minDate>1892-04-15</minDate>
+    <maxDate>1946-11-30</maxDate>
+    <latitude>36.06667</latitude>
+    <longitude>-79.81667</longitude>
+    <elevation>256.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+</stationCollection>

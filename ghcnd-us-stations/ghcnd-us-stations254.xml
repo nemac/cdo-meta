@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="254">
+  <station>
+    <id>GHCND:USC00434765</id>
+    <displayName>LYMAN FALLS, VT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-01-31</maxDate>
+    <latitude>44.77444</latitude>
+    <longitude>-71.60167</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8113</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020A23S</id>
+    <displayName>LYMAN LAKE, WA US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.2</latitude>
+    <longitude>-120.9167</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255020</id>
+    <displayName>LYMAN, NE US</displayName>
+    <minDate>1924-12-23</minDate>
+    <maxDate>2006-09-30</maxDate>
+    <latitude>41.91694</latitude>
+    <longitude>-104.03583</longitude>
+    <elevation>1234.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485836</id>
+    <displayName>LYMAN, WY US</displayName>
+    <minDate>1956-10-12</minDate>
+    <maxDate>1960-03-24</maxDate>
+    <latitude>41.33333</latitude>
+    <longitude>-110.3</longitude>
+    <elevation>2044</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295313</id>
+    <displayName>LYNCH RANCH, NM US</displayName>
+    <minDate>1946-01-01</minDate>
+    <maxDate>1947-10-31</maxDate>
+    <latitude>34.6</latitude>
+    <longitude>-108.91667</longitude>
+    <elevation>1937</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155048</id>
+    <displayName>LYNCH, KY US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>1942-02-28</maxDate>
+    <latitude>36.91667</latitude>
+    <longitude>-82.88333</longitude>
+    <elevation>1216.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7318</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255040</id>
+    <displayName>LYNCH, NE US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.8294</latitude>
+    <longitude>-98.4583</longitude>
+    <elevation>423.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8665</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365275</id>
+    <displayName>LYNCH, PA US</displayName>
+    <minDate>1957-08-01</minDate>
+    <maxDate>1967-06-30</maxDate>
+    <latitude>41.6</latitude>
+    <longitude>-79.05</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNME0001</id>
+    <displayName>LYNCHBURG 0.7WNW, TN US</displayName>
+    <minDate>2007-05-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2866</latitude>
+    <longitude>-86.3692</longitude>
+    <elevation>257.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9213</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNME0006</id>
+    <displayName>LYNCHBURG 1.0 NNW, TN US</displayName>
+    <minDate>2012-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2986</latitude>
+    <longitude>-86.3611</longitude>
+    <elevation>251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VABD0016</id>
+    <displayName>LYNCHBURG 1.4 SSW, VA US</displayName>
+    <minDate>2012-02-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.384</latitude>
+    <longitude>-79.2044</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VALYC002</id>
+    <displayName>LYNCHBURG 1.5 SSW, VA US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2009-09-22</maxDate>
+    <latitude>37.3822</latitude>
+    <longitude>-79.2054</longitude>
+    <elevation>223.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7158</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VALYC001</id>
+    <displayName>LYNCHBURG 2.5 NNW, VA US</displayName>
+    <minDate>2008-03-23</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.4328</latitude>
+    <longitude>-79.2137</longitude>
+    <elevation>226.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9056</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VALYC004</id>
+    <displayName>LYNCHBURG 2.5 WSW, VA US</displayName>
+    <minDate>2010-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3831</latitude>
+    <longitude>-79.2314</longitude>
+    <elevation>217.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9345</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VABD0012</id>
+    <displayName>LYNCHBURG 2.6 WNW, VA US</displayName>
+    <minDate>2011-02-15</minDate>
+    <maxDate>2011-12-08</maxDate>
+    <latitude>37.4172</latitude>
+    <longitude>-79.2338</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNME0002</id>
+    <displayName>LYNCHBURG 4.0 ESE, TN US</displayName>
+    <minDate>2007-07-07</minDate>
+    <maxDate>2008-12-10</maxDate>
+    <latitude>35.2667</latitude>
+    <longitude>-86.2833</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHHG0002</id>
+    <displayName>LYNCHBURG 6.1 SW, OH US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1781</latitude>
+    <longitude>-83.8644</longitude>
+    <elevation>306.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9519</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VACM0007</id>
+    <displayName>LYNCHBURG 6.4 SSW, VA US</displayName>
+    <minDate>2011-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3186</latitude>
+    <longitude>-79.2438</longitude>
+    <elevation>293.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9116</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VACM0004</id>
+    <displayName>LYNCHBURG 6.7 ESE, VA US</displayName>
+    <minDate>2010-04-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3567</latitude>
+    <longitude>-79.083</longitude>
+    <elevation>226.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445115</id>
+    <displayName>LYNCHBURG 7 ST BRIDGE, VA US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1960-11-30</maxDate>
+    <latitude>37.42444</latitude>
+    <longitude>-79.15889</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9598</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445117</id>
+    <displayName>LYNCHBURG NUMBER 2, VA US</displayName>
+    <minDate>1998-04-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.3818</latitude>
+    <longitude>-79.233</longitude>
+    <elevation>224.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013733</id>
+    <displayName>LYNCHBURG REGIONAL AIRPORT, VA US</displayName>
+    <minDate>1944-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.3208</latitude>
+    <longitude>-79.2067</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445121</id>
+    <displayName>LYNCHBURG WEATHER BUREAU OFFICE, VA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1944-07-31</maxDate>
+    <latitude>37.41667</latitude>
+    <longitude>-79.15</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405525</id>
+    <displayName>LYNCHBURG, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.29833</latitude>
+    <longitude>-86.36306</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4177</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214987</id>
+    <displayName>LYND NUMBER 1, MN US</displayName>
+    <minDate>1897-08-01</minDate>
+    <maxDate>1907-08-31</maxDate>
+    <latitude>44.36667</latitude>
+    <longitude>-95.86667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214989</id>
+    <displayName>LYND NUMBER 2, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1929-06-30</maxDate>
+    <latitude>44.36667</latitude>
+    <longitude>-95.86667</longitude>
+    <elevation>358.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0002</id>
+    <displayName>LYNDEN 0.8 ENE, WA US</displayName>
+    <minDate>2008-06-12</minDate>
+    <maxDate>2012-03-15</maxDate>
+    <latitude>48.9617</latitude>
+    <longitude>-122.4303</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0010</id>
+    <displayName>LYNDEN 0.8 NE, WA US</displayName>
+    <minDate>2008-06-10</minDate>
+    <maxDate>2010-02-24</maxDate>
+    <latitude>48.9565</latitude>
+    <longitude>-122.4424</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8528</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWC0035</id>
+    <displayName>LYNDEN 1.0 SW, WA US</displayName>
+    <minDate>2011-10-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.9368</latitude>
+    <longitude>-122.4684</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSOS0001</id>
+    <displayName>LYNDON 0.2 S, KS US</displayName>
+    <minDate>2005-07-14</minDate>
+    <maxDate>2005-11-15</maxDate>
+    <latitude>38.6067</latitude>
+    <longitude>-95.6847</longitude>
+    <elevation>315.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.904</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSOS0008</id>
+    <displayName>LYNDON 0.7 N, KS US</displayName>
+    <minDate>2007-10-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.6208</latitude>
+    <longitude>-95.6848</longitude>
+    <elevation>337.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8799</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSOS0020</id>
+    <displayName>LYNDON 0.7 W, KS US</displayName>
+    <minDate>2009-09-02</minDate>
+    <maxDate>2012-11-05</maxDate>
+    <latitude>38.6088</latitude>
+    <longitude>-95.6985</longitude>
+    <elevation>314.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9302</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYJF0029</id>
+    <displayName>LYNDON 1.1 E, KY US</displayName>
+    <minDate>2010-08-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2636</latitude>
+    <longitude>-85.584</longitude>
+    <elevation>191.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144912</id>
+    <displayName>LYNDON 3 ENE, KS US</displayName>
+    <minDate>1965-01-01</minDate>
+    <maxDate>2003-06-30</maxDate>
+    <latitude>38.62278</latitude>
+    <longitude>-95.63222</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSOS0018</id>
+    <displayName>LYNDON 7.0 NNE, KS US</displayName>
+    <minDate>2008-11-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.7053</latitude>
+    <longitude>-95.6399</longitude>
+    <elevation>313</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9278</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144910</id>
+    <displayName>LYNDON, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1967-04-30</maxDate>
+    <latitude>38.61667</latitude>
+    <longitude>-95.68333</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304940</id>
+    <displayName>LYNDONVILLE 1, NY US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>1910-08-31</maxDate>
+    <latitude>43.316667</latitude>
+    <longitude>-78.383333</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8835</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTCL0014</id>
+    <displayName>LYNDONVILLE 1.1 W, VT US</displayName>
+    <minDate>2010-01-29</minDate>
+    <maxDate>2012-02-17</maxDate>
+    <latitude>44.5355</latitude>
+    <longitude>-72.0255</longitude>
+    <elevation>309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.34</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304939</id>
+    <displayName>LYNDONVILLE, NY US</displayName>
+    <minDate>2004-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3391</latitude>
+    <longitude>-78.3893</longitude>
+    <elevation>102.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6111</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MAES0007</id>
+    <displayName>LYNN 0.8 NE, MA US</displayName>
+    <minDate>2009-04-21</minDate>
+    <maxDate>2009-09-29</maxDate>
+    <latitude>42.4814</latitude>
+    <longitude>-70.9497</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00194360</id>
+    <displayName>LYNN, MA US</displayName>
+    <minDate>1885-10-01</minDate>
+    <maxDate>1900-03-31</maxDate>
+    <latitude>42.466667</latitude>
+    <longitude>-70.933333</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8657</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00085237</id>
+    <displayName>LYNNE, FL US</displayName>
+    <minDate>1914-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>29.2003</latitude>
+    <longitude>-81.9306</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125212</id>
+    <displayName>LYNNVILLE 3 N, IN US</displayName>
+    <minDate>1948-07-02</minDate>
+    <maxDate>1951-09-01</maxDate>
+    <latitude>38.25</latitude>
+    <longitude>-87.3</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405535</id>
+    <displayName>LYNNVILLE 4 SSW, TN US</displayName>
+    <minDate>1890-05-01</minDate>
+    <maxDate>1971-12-31</maxDate>
+    <latitude>35.33333</latitude>
+    <longitude>-87.05</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGL0001</id>
+    <displayName>LYNNVILLE 6.6 NW, TN US</displayName>
+    <minDate>2007-05-21</minDate>
+    <maxDate>2010-05-16</maxDate>
+    <latitude>35.4386</latitude>
+    <longitude>-87.0958</longitude>
+    <elevation>305.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155059</id>
+    <displayName>LYNNVILLE, KY US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>1910-10-31</maxDate>
+    <latitude>36.56667</latitude>
+    <longitude>-88.58333</longitude>
+    <elevation>146.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9824</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0017</id>
+    <displayName>LYNNWOOD 2.3 N, WA US</displayName>
+    <minDate>2007-09-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.8605</latitude>
+    <longitude>-122.3115</longitude>
+    <elevation>149.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0035</id>
+    <displayName>LYNNWOOD 3.3 NNE, WA US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2010-09-27</maxDate>
+    <latitude>47.8663</latitude>
+    <longitude>-122.2938</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125217</id>
+    <displayName>LYNNWOOD FARMS, IN US</displayName>
+    <minDate>1976-04-01</minDate>
+    <maxDate>1988-12-31</maxDate>
+    <latitude>39.96667</latitude>
+    <longitude>-86.05</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006J06S</id>
+    <displayName>LYNX PASS, CO US</displayName>
+    <minDate>1980-06-22</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.0833</latitude>
+    <longitude>-106.6667</longitude>
+    <elevation>2706.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419904</id>
+    <displayName>LYNXHAVEN RANCH, TX US</displayName>
+    <minDate>1976-04-01</minDate>
+    <maxDate>1983-08-31</maxDate>
+    <latitude>29.96667</latitude>
+    <longitude>-99.43333</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415449</id>
+    <displayName>LYNXHAVEN RANCH, TX US</displayName>
+    <minDate>1941-09-30</minDate>
+    <maxDate>1976-02-29</maxDate>
+    <latitude>29.96667</latitude>
+    <longitude>-99.43333</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474937</id>
+    <displayName>LYNXVILLE DAM 9, WI US</displayName>
+    <minDate>1936-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2118</latitude>
+    <longitude>-91.0985</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9897</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0085</id>
+    <displayName>LYONS .7 NNW, CO US</displayName>
+    <minDate>2003-08-18</minDate>
+    <maxDate>2005-10-31</maxDate>
+    <latitude>40.2337</latitude>
+    <longitude>-105.2781</longitude>
+    <elevation>1702.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2742</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0237</id>
+    <displayName>LYONS 0.2 NE, CO US</displayName>
+    <minDate>2007-02-19</minDate>
+    <maxDate>2010-07-22</maxDate>
+    <latitude>40.2247</latitude>
+    <longitude>-105.2665</longitude>
+    <elevation>1655.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7232</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0146</id>
+    <displayName>LYONS 0.3 NNE, CO US</displayName>
+    <minDate>2001-05-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.2263</latitude>
+    <longitude>-105.2667</longitude>
+    <elevation>1645.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLN0012</id>
+    <displayName>LYONS 1.6 SSW, OR US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.7571</latitude>
+    <longitude>-122.6245</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRC0002</id>
+    <displayName>LYONS 1.7 S, KS US</displayName>
+    <minDate>2009-06-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.321</latitude>
+    <longitude>-98.2025</longitude>
+    <elevation>504.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7417</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0137</id>
+    <displayName>LYONS 1.8 N, CO US</displayName>
+    <minDate>2004-04-17</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>40.2494</latitude>
+    <longitude>-105.2646</longitude>
+    <elevation>1975.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORMN0035</id>
+    <displayName>LYONS 11.4 ENE, OR US</displayName>
+    <minDate>2009-04-28</minDate>
+    <maxDate>2010-02-28</maxDate>
+    <latitude>44.8271</latitude>
+    <longitude>-122.3842</longitude>
+    <elevation>361.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345437</id>
+    <displayName>LYONS 2 N, OK US</displayName>
+    <minDate>1942-06-01</minDate>
+    <maxDate>2003-09-30</maxDate>
+    <latitude>35.76278</latitude>
+    <longitude>-94.73444</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0033</id>
+    <displayName>LYONS 2 NNW, CO US</displayName>
+    <minDate>2002-10-30</minDate>
+    <maxDate>2008-08-25</maxDate>
+    <latitude>40.2655</latitude>
+    <longitude>-105.2954</longitude>
+    <elevation>1766</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLN0020</id>
+    <displayName>LYONS 2.1 S, OR US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7475</latitude>
+    <longitude>-122.6069</longitude>
+    <elevation>507.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355092</id>
+    <displayName>LYONS 3 N, OR US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>44.79389</latitude>
+    <longitude>-122.595</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7233</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144920</id>
+    <displayName>LYONS 3 S, KS US</displayName>
+    <minDate>1895-12-01</minDate>
+    <maxDate>1976-11-30</maxDate>
+    <latitude>38.30556</latitude>
+    <longitude>-98.18889</longitude>
+    <elevation>496.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5632</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORMN0036</id>
+    <displayName>LYONS 3.4 ESE, OR US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>44.7659</latitude>
+    <longitude>-122.5386</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4602</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0142</id>
+    <displayName>LYONS 3.8 NNW, CO US</displayName>
+    <minDate>2001-07-12</minDate>
+    <maxDate>2003-10-10</maxDate>
+    <latitude>40.2762</latitude>
+    <longitude>-105.3026</longitude>
+    <elevation>1836.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0050</id>
+    <displayName>LYONS 4.8 N, CO US</displayName>
+    <minDate>2002-12-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2934</latitude>
+    <longitude>-105.2692</longitude>
+    <elevation>1712.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9247</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095401</id>
+    <displayName>LYONS 5 SSW, GA US</displayName>
+    <minDate>1999-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2024</latitude>
+    <longitude>-82.3305</longitude>
+    <elevation>65.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395058</id>
+    <displayName>LYONS 5 SSW, SD US</displayName>
+    <minDate>1982-07-01</minDate>
+    <maxDate>2000-04-30</maxDate>
+    <latitude>43.64528</latitude>
+    <longitude>-96.9125</longitude>
+    <elevation>460.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8382</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0735</id>
+    <displayName>LYONS 6.4 NW, CO US</displayName>
+    <minDate>2007-03-11</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.2797</latitude>
+    <longitude>-105.3636</longitude>
+    <elevation>2032.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304944</id>
+    <displayName>LYONS FALLS, NY US</displayName>
+    <minDate>1926-08-01</minDate>
+    <maxDate>2000-12-31</maxDate>
+    <latitude>43.61667</latitude>
+    <longitude>-75.36667</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334789</id>
+    <displayName>LYONS HIGH SCHOOL, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-06-18</maxDate>
+    <latitude>41.7</latitude>
+    <longitude>-84.06667</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5076</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLYO</id>
+    <displayName>LYONS VALLEY CALIFORNIA, CA US</displayName>
+    <minDate>1988-03-16</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>39.1258</latitude>
+    <longitude>-123.0736</longitude>
+    <elevation>975.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9632</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255050</id>
+    <displayName>LYONS, NE US</displayName>
+    <minDate>1895-07-14</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>41.9377</latitude>
+    <longitude>-96.4788</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6279</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304942</id>
+    <displayName>LYONS, NY US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>1908-03-31</maxDate>
+    <latitude>43.1</latitude>
+    <longitude>-77</longitude>
+    <elevation>129.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9362</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYNT0014</id>
+    <displayName>LYSITE 12 NE, WY US</displayName>
+    <minDate>2005-05-07</minDate>
+    <maxDate>2012-12-22</maxDate>
+    <latitude>43.3499</latitude>
+    <longitude>-107.4803</longitude>
+    <elevation>1842.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485850</id>
+    <displayName>LYSITE 12 NNW, WY US</displayName>
+    <minDate>1950-08-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>43.43333</latitude>
+    <longitude>-107.71667</longitude>
+    <elevation>1708.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485843</id>
+    <displayName>LYSITE, WY US</displayName>
+    <minDate>1949-07-01</minDate>
+    <maxDate>1961-05-31</maxDate>
+    <latitude>43.26667</latitude>
+    <longitude>-107.7</longitude>
+    <elevation>1603.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415454</id>
+    <displayName>LYTLE 3 W, TX US</displayName>
+    <minDate>1976-12-01</minDate>
+    <maxDate>2007-07-31</maxDate>
+    <latitude>29.2358</latitude>
+    <longitude>-98.8433</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLYT</id>
+    <displayName>LYTLE CREEK CALIFORNIA, CA US</displayName>
+    <minDate>2002-02-19</minDate>
+    <maxDate>2012-06-20</maxDate>
+    <latitude>34.2339</latitude>
+    <longitude>-117.4803</longitude>
+    <elevation>851</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9272</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045212</id>
+    <displayName>LYTLE CREEK FOOTHILL, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.095</latitude>
+    <longitude>-117.3347</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045215</id>
+    <displayName>LYTLE CREEK PH, CA US</displayName>
+    <minDate>1906-04-01</minDate>
+    <maxDate>1967-08-31</maxDate>
+    <latitude>34.2</latitude>
+    <longitude>-117.45</longitude>
+    <elevation>686.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8006</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045218</id>
+    <displayName>LYTLE CREEK RANGER STATION, CA US</displayName>
+    <minDate>1921-04-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>34.23833</latitude>
+    <longitude>-117.47083</longitude>
+    <elevation>832.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425252</id>
+    <displayName>LYTLE RANCH, UT US</displayName>
+    <minDate>1988-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.143</latitude>
+    <longitude>-114.0213</longitude>
+    <elevation>849.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9092</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKF0004</id>
+    <displayName>MABANK 0.3 S, TX US</displayName>
+    <minDate>2012-01-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3611</latitude>
+    <longitude>-96.103</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6111</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKF0007</id>
+    <displayName>MABANK 1.4 WSW, TX US</displayName>
+    <minDate>2012-01-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.359</latitude>
+    <longitude>-96.1264</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKF0006</id>
+    <displayName>MABANK 2.1 NE, TX US</displayName>
+    <minDate>2012-01-07</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.3835</latitude>
+    <longitude>-96.0757</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3235</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415461</id>
+    <displayName>MABANK 4 SW, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.33333</latitude>
+    <longitude>-96.15</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXVZ0005</id>
+    <displayName>MABANK 5.5 NE, TX US</displayName>
+    <minDate>2012-01-04</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.4191</latitude>
+    <longitude>-96.0336</longitude>
+    <elevation>132.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3448</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXVZ0006</id>
+    <displayName>MABANK 6.7 NE, TX US</displayName>
+    <minDate>2012-01-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4455</latitude>
+    <longitude>-96.0388</longitude>
+    <elevation>135.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6051</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKF0005</id>
+    <displayName>MABANK 6.8 N, TX US</displayName>
+    <minDate>2012-01-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4645</latitude>
+    <longitude>-96.107</longitude>
+    <elevation>125.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSOK0022</id>
+    <displayName>MABEN 6.0 SSE, MS US</displayName>
+    <minDate>2010-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.4697</latitude>
+    <longitude>-89.0527</longitude>
+    <elevation>115.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2848</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00225350</id>
+    <displayName>MABEN NEAR, MS US</displayName>
+    <minDate>1940-12-20</minDate>
+    <maxDate>1942-06-23</maxDate>
+    <latitude>33.533333</latitude>
+    <longitude>-89</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACB0020</id>
+    <displayName>MABLETON 0.6 NNW, GA US</displayName>
+    <minDate>2010-02-12</minDate>
+    <maxDate>2012-09-05</maxDate>
+    <latitude>33.8205</latitude>
+    <longitude>-84.5672</longitude>
+    <elevation>302.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095404</id>
+    <displayName>MABLETON 1 N, GA US</displayName>
+    <minDate>1993-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8533</latitude>
+    <longitude>-84.5783</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245303</id>
+    <displayName>MAC KENZIE, MT US</displayName>
+    <minDate>1950-06-20</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.1422</latitude>
+    <longitude>-104.7352</longitude>
+    <elevation>856.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505602</id>
+    <displayName>MAC LEOD HARBOR, AK US</displayName>
+    <minDate>1972-02-15</minDate>
+    <maxDate>1978-06-30</maxDate>
+    <latitude>59.88333</latitude>
+    <longitude>-147.75</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBK0002</id>
+    <displayName>MACCLENNY 2.5 S, FL US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>30.2447</latitude>
+    <longitude>-82.1224</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3378</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBK0007</id>
+    <displayName>MACCLENNY 4.9 SSW, FL US</displayName>
+    <minDate>2010-01-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.2161</latitude>
+    <longitude>-82.1606</longitude>
+    <elevation>40.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9261</coverage>
+  </station>
+</stationCollection>

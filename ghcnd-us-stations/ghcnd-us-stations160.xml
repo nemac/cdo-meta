@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="160">
+  <station>
+    <id>GHCND:USS0021G04S</id>
+    <displayName>GERBER RESERVOIR, OR US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-121.1333</longitude>
+    <elevation>1478.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot014</id>
+    <displayName>GERING 0.4 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.824</latitude>
+    <longitude>-103.6533</longitude>
+    <elevation>1186.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.947</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot023</id>
+    <displayName>GERING 1.0 ESE, NE US</displayName>
+    <minDate>2007-04-03</minDate>
+    <maxDate>2011-08-29</maxDate>
+    <latitude>41.8667</latitude>
+    <longitude>-103.5969</longitude>
+    <elevation>1202.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10bann009</id>
+    <displayName>GERING 10.1 S, NE US</displayName>
+    <minDate>2010-06-19</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>41.6804</latitude>
+    <longitude>-103.6852</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9163</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253195</id>
+    <displayName>GERING 2 W, NE US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1949-11-09</maxDate>
+    <latitude>41.81667</latitude>
+    <longitude>-103.68333</longitude>
+    <elevation>1253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot019</id>
+    <displayName>GERING 3.9 S, NE US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2011-10-09</maxDate>
+    <latitude>41.7686</latitude>
+    <longitude>-103.6536</longitude>
+    <elevation>1213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10scot012</id>
+    <displayName>GERING 7.3 S, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-07-10</maxDate>
+    <latitude>41.7199</latitude>
+    <longitude>-103.6684</longitude>
+    <elevation>1320.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9678</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263090</id>
+    <displayName>GERLACH, NV US</displayName>
+    <minDate>1948-01-17</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>40.655</latitude>
+    <longitude>-119.3515</longitude>
+    <elevation>1200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6063</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSP0005</id>
+    <displayName>GERMAN VALLEY 0.5 W, IL US</displayName>
+    <minDate>2007-03-18</minDate>
+    <maxDate>2009-12-08</maxDate>
+    <latitude>42.2152</latitude>
+    <longitude>-89.4934</longitude>
+    <elevation>267</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9007</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00223331</id>
+    <displayName>GERMANIA, MS US</displayName>
+    <minDate>1913-07-14</minDate>
+    <maxDate>1980-03-31</maxDate>
+    <latitude>32.63333</latitude>
+    <longitude>-90.6</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363211</id>
+    <displayName>GERMANIA, PA US</displayName>
+    <minDate>1973-01-01</minDate>
+    <maxDate>1985-12-22</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-77.66667</longitude>
+    <elevation>589.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSH0004</id>
+    <displayName>GERMANTOWN 0.2 WNW, TN US</displayName>
+    <minDate>2007-04-08</minDate>
+    <maxDate>2009-06-20</maxDate>
+    <latitude>35.0897</latitude>
+    <longitude>-89.7957</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7404</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDMG0046</id>
+    <displayName>GERMANTOWN 2.5 NE, MD US</displayName>
+    <minDate>2006-09-04</minDate>
+    <maxDate>2007-02-09</maxDate>
+    <latitude>39.208</latitude>
+    <longitude>-77.2347</longitude>
+    <elevation>167</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333125</id>
+    <displayName>GERMANTOWN 3 NE, OH US</displayName>
+    <minDate>1914-04-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>39.66667</latitude>
+    <longitude>-84.33333</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403447</id>
+    <displayName>GERMANTOWN 4 SE, TN US</displayName>
+    <minDate>2000-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0761</latitude>
+    <longitude>-89.743</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDMG0054</id>
+    <displayName>GERMANTOWN 4.6 NNE, MD US</displayName>
+    <minDate>2008-10-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.2385</latitude>
+    <longitude>-77.2258</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333120</id>
+    <displayName>GERMANTOWN DAM, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-11-13</maxDate>
+    <latitude>39.6358</latitude>
+    <longitude>-84.4003</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWF0004</id>
+    <displayName>GERMANTOWN HILLS 0.9 ESE, IL US</displayName>
+    <minDate>2007-01-22</minDate>
+    <maxDate>2009-01-09</maxDate>
+    <latitude>40.7632</latitude>
+    <longitude>-89.4519</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8581</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWF0012</id>
+    <displayName>GERMANTOWN HILLS 1.3 NW, IL US</displayName>
+    <minDate>2009-12-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7846</latitude>
+    <longitude>-89.4822</longitude>
+    <elevation>219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113395</id>
+    <displayName>GERMANTOWN HILLS, IL US</displayName>
+    <minDate>2007-01-16</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.7578</latitude>
+    <longitude>-89.4764</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.735</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00183585</id>
+    <displayName>GERMANTOWN, MD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1953-01-31</maxDate>
+    <latitude>39.16667</latitude>
+    <longitude>-77.38333</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473058</id>
+    <displayName>GERMANTOWN, WI US</displayName>
+    <minDate>1944-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2388</latitude>
+    <longitude>-88.1222</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453095</id>
+    <displayName>GERMOME, WA US</displayName>
+    <minDate>1911-08-01</minDate>
+    <maxDate>1912-12-31</maxDate>
+    <latitude>48.033333</latitude>
+    <longitude>-118.3</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026458</id>
+    <displayName>GERSTLE RIVER, AK US</displayName>
+    <minDate>1969-11-01</minDate>
+    <maxDate>1970-09-16</maxDate>
+    <latitude>63.85</latitude>
+    <longitude>-144.98333</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153203</id>
+    <displayName>GEST LOCK 3, KY US</displayName>
+    <minDate>1923-11-01</minDate>
+    <maxDate>2002-08-31</maxDate>
+    <latitude>38.41694</latitude>
+    <longitude>-84.88194</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IGET</id>
+    <displayName>GETCH HOLLOW IDAHO, ID US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>1995-12-05</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-111.2378</longitude>
+    <elevation>1953.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8211</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043392</id>
+    <displayName>GETTY CENTER, CA US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0869</latitude>
+    <longitude>-118.4794</longitude>
+    <elevation>340.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9127</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAAD0005</id>
+    <displayName>GETTYSBURG 0.8 NNE, PA US</displayName>
+    <minDate>2011-09-15</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>39.84</latitude>
+    <longitude>-77.227</longitude>
+    <elevation>152.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8403</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363223</id>
+    <displayName>GETTYSBURG 1 S, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.8</latitude>
+    <longitude>-77.23333</longitude>
+    <elevation>161.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393302</id>
+    <displayName>GETTYSBURG 13 W, SD US</displayName>
+    <minDate>1978-01-01</minDate>
+    <maxDate>2010-09-30</maxDate>
+    <latitude>45.0136</latitude>
+    <longitude>-100.2175</longitude>
+    <elevation>565.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393300</id>
+    <displayName>GETTYSBURG 14 W, SD US</displayName>
+    <minDate>1963-07-01</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>45</latitude>
+    <longitude>-100.23333</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPT0001</id>
+    <displayName>GETTYSBURG 14.7 NNW, SD US</displayName>
+    <minDate>2007-07-04</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>45.1875</latitude>
+    <longitude>-100.1142</longitude>
+    <elevation>601.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5271</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363218</id>
+    <displayName>GETTYSBURG, PA US</displayName>
+    <minDate>1892-11-01</minDate>
+    <maxDate>1982-03-31</maxDate>
+    <latitude>39.83333</latitude>
+    <longitude>-77.23333</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393294</id>
+    <displayName>GETTYSBURG, SD US</displayName>
+    <minDate>1901-03-01</minDate>
+    <maxDate>2012-11-04</maxDate>
+    <latitude>45.0194</latitude>
+    <longitude>-99.9402</longitude>
+    <elevation>637</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7314</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243463</id>
+    <displayName>GEYSER 8 E, MT US</displayName>
+    <minDate>1913-05-01</minDate>
+    <maxDate>1918-03-31</maxDate>
+    <latitude>47.266667</latitude>
+    <longitude>-110.333333</longitude>
+    <elevation>1264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9143</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263101</id>
+    <displayName>GEYSER RANCH, NV US</displayName>
+    <minDate>1904-02-01</minDate>
+    <maxDate>2002-01-31</maxDate>
+    <latitude>38.66833</latitude>
+    <longitude>-114.63611</longitude>
+    <elevation>1834.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3586</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASN0004</id>
+    <displayName>GEYSERVILLE 10.6 WNW, CA US</displayName>
+    <minDate>2008-10-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7367</latitude>
+    <longitude>-123.0982</longitude>
+    <elevation>404.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9122</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163562</id>
+    <displayName>GHEENS, LA US</displayName>
+    <minDate>1947-04-01</minDate>
+    <maxDate>1947-11-21</maxDate>
+    <latitude>29.7</latitude>
+    <longitude>-90.46667</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNLY0003</id>
+    <displayName>GHENT 2.8 ENE, MN US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>44.524</latitude>
+    <longitude>-95.8395</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00223340</id>
+    <displayName>GHOLSON 8 W, MS US</displayName>
+    <minDate>1940-05-23</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>32.9266</latitude>
+    <longitude>-88.8536</longitude>
+    <elevation>151.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293511</id>
+    <displayName>GHOST RANCH, NM US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>36.3336</latitude>
+    <longitude>-106.4744</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043397</id>
+    <displayName>GIANT FOREST, CA US</displayName>
+    <minDate>1921-06-06</minDate>
+    <maxDate>1968-11-07</maxDate>
+    <latitude>36.56667</latitude>
+    <longitude>-118.76667</longitude>
+    <elevation>1955</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10buff012</id>
+    <displayName>GIBBON 0.2 WNW, NE US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2012-08-07</maxDate>
+    <latitude>40.7494</latitude>
+    <longitude>-98.8479</longitude>
+    <elevation>630</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2505</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253205</id>
+    <displayName>GIBBON, NE US</displayName>
+    <minDate>1894-12-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.7344</latitude>
+    <longitude>-98.8453</longitude>
+    <elevation>627.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.11</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353250</id>
+    <displayName>GIBBON, OR US</displayName>
+    <minDate>1972-11-01</minDate>
+    <maxDate>1995-10-31</maxDate>
+    <latitude>45.7</latitude>
+    <longitude>-118.36667</longitude>
+    <elevation>530</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9492</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243479</id>
+    <displayName>GIBBONS PASS, MT US</displayName>
+    <minDate>1950-04-03</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.6928</latitude>
+    <longitude>-113.955</longitude>
+    <elevation>2154.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103558</id>
+    <displayName>GIBBONSVILLE NUMBER 2, ID US</displayName>
+    <minDate>2005-01-01</minDate>
+    <maxDate>2012-06-19</maxDate>
+    <latitude>45.5469</latitude>
+    <longitude>-113.9258</longitude>
+    <elevation>1365.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00103554</id>
+    <displayName>GIBBONSVILLE, ID US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>2011-09-15</maxDate>
+    <latitude>45.5395</latitude>
+    <longitude>-113.9274</longitude>
+    <elevation>1365.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263114</id>
+    <displayName>GIBBS RANCH, NV US</displayName>
+    <minDate>1952-11-01</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>41.5697</latitude>
+    <longitude>-115.2111</longitude>
+    <elevation>1816.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.941</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473116</id>
+    <displayName>GIBBSVILLE, WI US</displayName>
+    <minDate>2001-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6561</latitude>
+    <longitude>-87.8144</longitude>
+    <elevation>221.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043402</id>
+    <displayName>GIBRALTAR DAM 2, CA US</displayName>
+    <minDate>1958-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.5225</latitude>
+    <longitude>-119.6822</longitude>
+    <elevation>474.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9334</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043401</id>
+    <displayName>GIBRALTAR DAM, CA US</displayName>
+    <minDate>1913-03-03</minDate>
+    <maxDate>1957-12-31</maxDate>
+    <latitude>34.51667</latitude>
+    <longitude>-119.7</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2103</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163600</id>
+    <displayName>GIBSLAND NEAR SOIL CONSERVATION SERVICE NUMBER 15, LA US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1942-12-31</maxDate>
+    <latitude>32.533333</latitude>
+    <longitude>-93.033333</longitude>
+    <elevation>70.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243486</id>
+    <displayName>GIBSON 2 NE, MT US</displayName>
+    <minDate>1951-06-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.04</latitude>
+    <longitude>-109.4938</longitude>
+    <elevation>1360.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILFD0009</id>
+    <displayName>GIBSON 3.0 WNW, IL US</displayName>
+    <minDate>2012-04-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4789</latitude>
+    <longitude>-88.4332</longitude>
+    <elevation>244.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113413</id>
+    <displayName>GIBSON CITY, IL US</displayName>
+    <minDate>1935-07-01</minDate>
+    <maxDate>2008-03-31</maxDate>
+    <latitude>40.47306</latitude>
+    <longitude>-88.36528</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9721</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243489</id>
+    <displayName>GIBSON DAM, MT US</displayName>
+    <minDate>1911-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.6017</latitude>
+    <longitude>-112.7536</longitude>
+    <elevation>1399</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043405</id>
+    <displayName>GIBSON HIGHWAY MNT S, CA US</displayName>
+    <minDate>1965-04-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>41.01667</latitude>
+    <longitude>-122.4</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9705</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00093695</id>
+    <displayName>GIBSON, GA US</displayName>
+    <minDate>1955-12-06</minDate>
+    <maxDate>2012-10-01</maxDate>
+    <latitude>33.2261</latitude>
+    <longitude>-82.5949</longitude>
+    <elevation>126.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143040</id>
+    <displayName>GIBSON, KS US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>1899-12-31</maxDate>
+    <latitude>38.7667</latitude>
+    <longitude>-100.15</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9271</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0023</id>
+    <displayName>GIBSONTON 1.5 SE, FL US</displayName>
+    <minDate>2007-10-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.8277</latitude>
+    <longitude>-82.3503</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCGL0012</id>
+    <displayName>GIBSONVILLE 6.9 NW, NC US</displayName>
+    <minDate>2008-03-24</minDate>
+    <maxDate>2008-09-27</maxDate>
+    <latitude>36.1629</latitude>
+    <longitude>-79.6414</longitude>
+    <elevation>235.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7713</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLE0003</id>
+    <displayName>GIDDINGS 4.2 E, TX US</displayName>
+    <minDate>2008-05-22</minDate>
+    <maxDate>2010-10-27</maxDate>
+    <latitude>30.1813</latitude>
+    <longitude>-96.858</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3093</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413525</id>
+    <displayName>GIDDINGS 5 E, TX US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>30.1872</latitude>
+    <longitude>-96.8594</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MONM0001</id>
+    <displayName>GIDEON 2.1 SSW, MO US</displayName>
+    <minDate>2007-04-25</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>36.4247</latitude>
+    <longitude>-89.9297</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9231</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOPM0002</id>
+    <displayName>GIDEON 6.0 SSW, MO US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>36.366</latitude>
+    <longitude>-89.935</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9226</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363237</id>
+    <displayName>GIFFORD, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1958-11-30</maxDate>
+    <latitude>41.85</latitude>
+    <longitude>-78.6</longitude>
+    <elevation>677</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9185</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0043</id>
+    <displayName>GIG HARBOR 0.9 SE, WA US</displayName>
+    <minDate>2010-06-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.3178</latitude>
+    <longitude>-122.5767</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0054</id>
+    <displayName>GIG HARBOR 1.6 W, WA US</displayName>
+    <minDate>2012-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.3245</latitude>
+    <longitude>-122.6224</longitude>
+    <elevation>83.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7888</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0036</id>
+    <displayName>GIG HARBOR 4.3 N, WA US</displayName>
+    <minDate>2008-12-02</minDate>
+    <maxDate>2010-05-28</maxDate>
+    <latitude>47.3913</latitude>
+    <longitude>-122.589</longitude>
+    <elevation>101.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0042</id>
+    <displayName>GIG HARBOR 4.4 NNE, WA US</displayName>
+    <minDate>2010-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.3881</latitude>
+    <longitude>-122.5529</longitude>
+    <elevation>63.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6661</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293528</id>
+    <displayName>GILA 6 NNE, NM US</displayName>
+    <minDate>1954-10-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>33.03333</latitude>
+    <longitude>-108.53333</longitude>
+    <elevation>1417.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053176</id>
+    <displayName>GILA BEND 3 ENE, AZ US</displayName>
+    <minDate>2010-09-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.9649</latitude>
+    <longitude>-112.6697</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023168</id>
+    <displayName>GILA BEND FAA AIRPORT, AZ US</displayName>
+    <minDate>1944-01-13</minDate>
+    <maxDate>1966-12-31</maxDate>
+    <latitude>32.88333</latitude>
+    <longitude>-112.71667</longitude>
+    <elevation>260</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023393</id>
+    <displayName>GILA BEND, AZ US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.9481</latitude>
+    <longitude>-112.7131</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9131</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293530</id>
+    <displayName>GILA HOT SPRINGS, NM US</displayName>
+    <minDate>1957-05-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.1975</latitude>
+    <longitude>-108.2075</longitude>
+    <elevation>1717.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9401</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293533</id>
+    <displayName>GILA PLANTING STATION, NM US</displayName>
+    <minDate>1910-09-22</minDate>
+    <maxDate>1919-05-31</maxDate>
+    <latitude>32.83333</latitude>
+    <longitude>-108.13333</longitude>
+    <elevation>1972.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IASR0019</id>
+    <displayName>GILBERT 0.2 W, IA US</displayName>
+    <minDate>2007-08-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.1079</latitude>
+    <longitude>-93.6511</longitude>
+    <elevation>302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8803</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IASR0008</id>
+    <displayName>GILBERT 0.3 SE, IA US</displayName>
+    <minDate>2007-08-24</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>42.1038</latitude>
+    <longitude>-93.6434</longitude>
+    <elevation>306</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0257</id>
+    <displayName>GILBERT 1.1 NE, AZ US</displayName>
+    <minDate>2010-01-23</minDate>
+    <maxDate>2010-08-20</maxDate>
+    <latitude>33.3592</latitude>
+    <longitude>-111.7636</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8571</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0039</id>
+    <displayName>GILBERT 1.2 SSW, SC US</displayName>
+    <minDate>2009-02-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9071</latitude>
+    <longitude>-81.4009</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9521</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0130</id>
+    <displayName>GILBERT 2.1 SSW, AZ US</displayName>
+    <minDate>2009-09-20</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.3036</latitude>
+    <longitude>-111.7752</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9727</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0280</id>
+    <displayName>GILBERT 2.4 NW, AZ US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.372</latitude>
+    <longitude>-111.812</longitude>
+    <elevation>372.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0218</id>
+    <displayName>GILBERT 3.6 ENE, AZ US</displayName>
+    <minDate>2009-09-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3671</latitude>
+    <longitude>-111.7204</longitude>
+    <elevation>395.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0075</id>
+    <displayName>GILBERT 3.8 NW, AZ US</displayName>
+    <minDate>2009-09-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3741</latitude>
+    <longitude>-111.8053</longitude>
+    <elevation>373.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0321</id>
+    <displayName>GILBERT 7.0 SE, AZ US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2011-08-16</maxDate>
+    <latitude>33.2842</latitude>
+    <longitude>-111.6869</longitude>
+    <elevation>408.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9783</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0069</id>
+    <displayName>GILBERT 7.1 SE, AZ US</displayName>
+    <minDate>2009-09-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2505</latitude>
+    <longitude>-111.689</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.89</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLX0029</id>
+    <displayName>GILBERT 7.2 NNW, SC US</displayName>
+    <minDate>2008-05-23</minDate>
+    <maxDate>2012-02-27</maxDate>
+    <latitude>34.0234</latitude>
+    <longitude>-81.4306</longitude>
+    <elevation>117.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3358</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0338</id>
+    <displayName>GILBERT 9.9 SSE, AZ US</displayName>
+    <minDate>2012-03-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2108</latitude>
+    <longitude>-111.7424</longitude>
+    <elevation>399.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7175</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00032794</id>
+    <displayName>GILBERT, AR US</displayName>
+    <minDate>1924-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9914</latitude>
+    <longitude>-92.7147</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9738</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013308</id>
+    <displayName>GILBERTOWN, AL US</displayName>
+    <minDate>1957-07-01</minDate>
+    <maxDate>1979-03-31</maxDate>
+    <latitude>31.88333</latitude>
+    <longitude>-88.33333</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKN0098</id>
+    <displayName>GILBERTS 0.5 N, IL US</displayName>
+    <minDate>2012-03-23</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>42.1085</latitude>
+    <longitude>-88.367</longitude>
+    <elevation>274.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0001</id>
+    <displayName>GILBERTSVILLE 0.9 S, PA US</displayName>
+    <minDate>2005-10-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.31</latitude>
+    <longitude>-75.607</longitude>
+    <elevation>93</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154414</id>
+    <displayName>GILBERTSVILLE KY DAM, KY US</displayName>
+    <minDate>1945-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>37.0147</latitude>
+    <longitude>-88.2677</longitude>
+    <elevation>109.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153223</id>
+    <displayName>GILBERTSVILLE KY DAM, KY US</displayName>
+    <minDate>1967-05-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>37.0147</latitude>
+    <longitude>-88.2677</longitude>
+    <elevation>109.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193110</id>
+    <displayName>GILBERTVILLE, MA US</displayName>
+    <minDate>1885-06-01</minDate>
+    <maxDate>1895-09-30</maxDate>
+    <latitude>42.283333</latitude>
+    <longitude>-72.216667</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243530</id>
+    <displayName>GILDFORD, MT US</displayName>
+    <minDate>1958-09-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>48.5653</latitude>
+    <longitude>-110.3022</longitude>
+    <elevation>859.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9805</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10thay012</id>
+    <displayName>GILEAD 0.6 WNW, NE US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2012-11-13</maxDate>
+    <latitude>40.1493</latitude>
+    <longitude>-97.4241</longitude>
+    <elevation>459</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7458</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00173110</id>
+    <displayName>GILEAD, ME US</displayName>
+    <minDate>1943-05-01</minDate>
+    <maxDate>1965-07-31</maxDate>
+    <latitude>44.4</latitude>
+    <longitude>-70.96667</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9147</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423220</id>
+    <displayName>GILES, UT US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>1906-09-30</maxDate>
+    <latitude>38.366667</latitude>
+    <longitude>-110.85</longitude>
+    <elevation>1237.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9699</coverage>
+  </station>
+</stationCollection>
