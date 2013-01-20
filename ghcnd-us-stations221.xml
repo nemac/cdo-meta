@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="221">
+  <station>
+    <id>GHCND:US1KSPL0001</id>
+    <displayName>KIRWIN 0.2 NW, KS US</displayName>
+    <minDate>2005-03-03</minDate>
+    <maxDate>2005-11-28</maxDate>
+    <latitude>39.6729</latitude>
+    <longitude>-99.125</longitude>
+    <elevation>523</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144357</id>
+    <displayName>KIRWIN DAM, KS US</displayName>
+    <minDate>1952-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.6619</latitude>
+    <longitude>-99.1228</longitude>
+    <elevation>517.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9371</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009F24S</id>
+    <displayName>KIRWIN, WY US</displayName>
+    <minDate>1980-08-21</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.8667</latitude>
+    <longitude>-109.3167</longitude>
+    <elevation>2910.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.878</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000LKIS</id>
+    <displayName>KISATCHIE FTS LOUISIANA, LA US</displayName>
+    <minDate>1999-03-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>31.495</latitude>
+    <longitude>-93.1981</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164905</id>
+    <displayName>KISATCHIE, LA US</displayName>
+    <minDate>1939-03-24</minDate>
+    <maxDate>1946-02-28</maxDate>
+    <latitude>31.466667</latitude>
+    <longitude>-93.183333</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00504701</id>
+    <displayName>KISHMAN COVE, AK US</displayName>
+    <minDate>1940-08-01</minDate>
+    <maxDate>1943-08-31</maxDate>
+    <latitude>57.6833</latitude>
+    <longitude>-136.1</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9698</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114770</id>
+    <displayName>KISHWAUKEE, IL US</displayName>
+    <minDate>1896-02-23</minDate>
+    <maxDate>1914-03-31</maxDate>
+    <latitude>42.13333</latitude>
+    <longitude>-89.11667</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9448</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSW0008</id>
+    <displayName>KISMET 11.4 NW, KS US</displayName>
+    <minDate>2010-07-10</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.3303</latitude>
+    <longitude>-100.835</longitude>
+    <elevation>873.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.265</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144362</id>
+    <displayName>KISMET 4 WNW, KS US</displayName>
+    <minDate>1998-08-01</minDate>
+    <maxDate>2000-05-31</maxDate>
+    <latitude>37.22667</latitude>
+    <longitude>-100.76028</longitude>
+    <elevation>850.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144363</id>
+    <displayName>KISMET NEAR, KS US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1947-05-31</maxDate>
+    <latitude>37.333333</latitude>
+    <longitude>-100.883333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084625</id>
+    <displayName>KISSIMMEE 2, FL US</displayName>
+    <minDate>1948-09-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.2763</latitude>
+    <longitude>-81.424</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084620</id>
+    <displayName>KISSIMMEE CITY HALL, FL US</displayName>
+    <minDate>1892-02-01</minDate>
+    <maxDate>1961-03-03</maxDate>
+    <latitude>28.3</latitude>
+    <longitude>-81.4</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086404</id>
+    <displayName>KISSIMMEE RIVER, FL US</displayName>
+    <minDate>1955-07-14</minDate>
+    <maxDate>1956-11-30</maxDate>
+    <latitude>27.8</latitude>
+    <longitude>-81.18333</longitude>
+    <elevation>14.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00083571</id>
+    <displayName>KISSIMMEE RIVER, FL US</displayName>
+    <minDate>1940-03-08</minDate>
+    <maxDate>1959-11-30</maxDate>
+    <latitude>27.8</latitude>
+    <longitude>-81.18333</longitude>
+    <elevation>14.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00089048</id>
+    <displayName>KISSIMMEE RIVER, FL US</displayName>
+    <minDate>1954-08-01</minDate>
+    <maxDate>1955-07-13</maxDate>
+    <latitude>27.8</latitude>
+    <longitude>-81.18333</longitude>
+    <elevation>14.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8213</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088165</id>
+    <displayName>KISSIMMEE RIVER, FL US</displayName>
+    <minDate>1960-05-18</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>27.8</latitude>
+    <longitude>-81.18333</longitude>
+    <elevation>14.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0002</id>
+    <displayName>KIT CARSON 0.1 SW, CO US</displayName>
+    <minDate>2000-05-15</minDate>
+    <maxDate>2003-09-08</maxDate>
+    <latitude>38.7643</latitude>
+    <longitude>-102.7956</longitude>
+    <elevation>1311.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.736</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0033</id>
+    <displayName>KIT CARSON 10.6 SE, CO US</displayName>
+    <minDate>2012-01-11</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>38.6542</latitude>
+    <longitude>-102.6579</longitude>
+    <elevation>1255.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8487</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0024</id>
+    <displayName>KIT CARSON 3.2 SE, CO US</displayName>
+    <minDate>2005-04-28</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>38.7263</latitude>
+    <longitude>-102.7581</longitude>
+    <elevation>1297.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1065</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054606</id>
+    <displayName>KIT CARSON 9 NNE, CO US</displayName>
+    <minDate>1996-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8867</latitude>
+    <longitude>-102.7232</longitude>
+    <elevation>1405.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0010</id>
+    <displayName>KIT CARSON 9 NNE, CO US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>38.8885</latitude>
+    <longitude>-102.7229</longitude>
+    <elevation>1325.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCH0009</id>
+    <displayName>KIT CARSON, CO US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>38.7645</latitude>
+    <longitude>-102.7863</longitude>
+    <elevation>1307.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054603</id>
+    <displayName>KIT CARSON, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.7659</latitude>
+    <longitude>-102.803</longitude>
+    <elevation>1316.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094862</id>
+    <displayName>KITE, GA US</displayName>
+    <minDate>2004-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7125</latitude>
+    <longitude>-82.54139</longitude>
+    <elevation>94.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00504812</id>
+    <displayName>KITOI BAY, AK US</displayName>
+    <minDate>1954-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>58.1913</latitude>
+    <longitude>-152.3722</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024675</id>
+    <displayName>KITT PEAK, AZ US</displayName>
+    <minDate>1960-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.96</latitude>
+    <longitude>-111.5972</longitude>
+    <elevation>2069.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364611</id>
+    <displayName>KITTANNING LOCK 7, PA US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.81667</latitude>
+    <longitude>-79.53333</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9329</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEYK0002</id>
+    <displayName>KITTERY POINT 0.8 WSW, ME US</displayName>
+    <minDate>2009-07-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.081</latitude>
+    <longitude>-70.7138</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9545</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404903</id>
+    <displayName>KITTIE, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.45</latitude>
+    <longitude>-84.16667</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0128</id>
+    <displayName>KITTREDGE 2.5 SSE, CO US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>39.6183</latitude>
+    <longitude>-105.2793</longitude>
+    <elevation>2475</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9717</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCDR0022</id>
+    <displayName>KITTY HAWK 4.0 NNW, NC US</displayName>
+    <minDate>2012-04-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1232</latitude>
+    <longitude>-75.7496</longitude>
+    <elevation>1.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00504823</id>
+    <displayName>KIUPOLIK ISLAND, AK US</displayName>
+    <minDate>1927-07-01</minDate>
+    <maxDate>1928-12-31</maxDate>
+    <latitude>58.6167</latitude>
+    <longitude>-153.9167</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDL0022</id>
+    <displayName>KL2RR MUNCIE 0.3 S, IN US</displayName>
+    <minDate>2011-12-15</minDate>
+    <maxDate>2012-05-30</maxDate>
+    <latitude>40.1931</latitude>
+    <longitude>-85.3916</longitude>
+    <elevation>288.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9107</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024686</id>
+    <displayName>KLAGETOH 12 WNW, AZ US</displayName>
+    <minDate>1959-11-21</minDate>
+    <maxDate>1993-04-30</maxDate>
+    <latitude>35.55</latitude>
+    <longitude>-109.7</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024683</id>
+    <displayName>KLAGETOH, AZ US</displayName>
+    <minDate>1950-08-18</minDate>
+    <maxDate>1959-01-31</maxDate>
+    <latitude>35.5</latitude>
+    <longitude>-109.53333</longitude>
+    <elevation>1951.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9158</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354499</id>
+    <displayName>KLAMATH AGENCY 1, OR US</displayName>
+    <minDate>1908-08-24</minDate>
+    <maxDate>1913-06-26</maxDate>
+    <latitude>42.6</latitude>
+    <longitude>-121.933333</longitude>
+    <elevation>1270.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9072</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354501</id>
+    <displayName>KLAMATH FALLS 1 NW, OR US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2303</latitude>
+    <longitude>-121.7633</longitude>
+    <elevation>1295.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORKL0002</id>
+    <displayName>KLAMATH FALLS 1.5 ENE, OR US</displayName>
+    <minDate>2007-12-28</minDate>
+    <maxDate>2009-12-31</maxDate>
+    <latitude>42.2261</latitude>
+    <longitude>-121.7436</longitude>
+    <elevation>1289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354506</id>
+    <displayName>KLAMATH FALLS 2 SSW, OR US</displayName>
+    <minDate>1887-05-11</minDate>
+    <maxDate>2001-05-31</maxDate>
+    <latitude>42.20083</latitude>
+    <longitude>-121.78139</longitude>
+    <elevation>1249.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORKL0008</id>
+    <displayName>KLAMATH FALLS 3.3 E, OR US</displayName>
+    <minDate>2008-01-04</minDate>
+    <maxDate>2012-10-04</maxDate>
+    <latitude>42.2187</latitude>
+    <longitude>-121.7093</longitude>
+    <elevation>1337.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8226</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORKL0005</id>
+    <displayName>KLAMATH FALLS 3.4 ESE, OR US</displayName>
+    <minDate>2007-12-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2097</latitude>
+    <longitude>-121.7069</longitude>
+    <elevation>1307.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8753</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORKL0004</id>
+    <displayName>KLAMATH FALLS 8 SE, OR US</displayName>
+    <minDate>2007-12-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1568</latitude>
+    <longitude>-121.6353</longitude>
+    <elevation>1251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024224</id>
+    <displayName>KLAMATH FALLS INTERNATIONAL AIRPORT, OR US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1959-08-31</maxDate>
+    <latitude>42.14694</latitude>
+    <longitude>-121.72417</longitude>
+    <elevation>1244.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094236</id>
+    <displayName>KLAMATH FALLS INTERNATIONAL AIRPORT, OR US</displayName>
+    <minDate>1959-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.14694</latitude>
+    <longitude>-121.72417</longitude>
+    <elevation>1244.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024249</id>
+    <displayName>KLAMATH FALLS NAS, OR US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>1945-09-30</maxDate>
+    <latitude>42.13333</latitude>
+    <longitude>-121.75</longitude>
+    <elevation>1247.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CKLA</id>
+    <displayName>KLAMATH NWR CALIFORNIA, OR US</displayName>
+    <minDate>2002-06-19</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>42.9533</latitude>
+    <longitude>-121.5819</longitude>
+    <elevation>1381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9291</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044577</id>
+    <displayName>KLAMATH, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2006-11-30</maxDate>
+    <latitude>41.57861</latitude>
+    <longitude>-124.07472</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AKLA</id>
+    <displayName>KLAWASI ALASKA, AK US</displayName>
+    <minDate>1991-06-10</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>62.1472</latitude>
+    <longitude>-144.9281</longitude>
+    <elevation>944.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025367</id>
+    <displayName>KLAWOCK AIRPORT, AK US</displayName>
+    <minDate>1997-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>55.58</latitude>
+    <longitude>-133.075</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTMH0006</id>
+    <displayName>KLEIN 0.6 S, MT US</displayName>
+    <minDate>2008-11-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.3958</latitude>
+    <longitude>-108.5489</longitude>
+    <elevation>1010.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244710</id>
+    <displayName>KLEINSMITH CREEK, MT US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1910-09-30</maxDate>
+    <latitude>46.25</latitude>
+    <longitude>-112.166667</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054614</id>
+    <displayName>KLINE 3 W, CO US</displayName>
+    <minDate>1941-07-01</minDate>
+    <maxDate>1949-06-24</maxDate>
+    <latitude>37.11667</latitude>
+    <longitude>-108.18333</longitude>
+    <elevation>2019</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024698</id>
+    <displayName>KLONDYKE 3 SE, AZ US</displayName>
+    <minDate>1953-09-01</minDate>
+    <maxDate>1978-04-30</maxDate>
+    <latitude>32.8</latitude>
+    <longitude>-110.3</longitude>
+    <elevation>1100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454259</id>
+    <displayName>KLOSHE NANITCH, WA US</displayName>
+    <minDate>1942-07-01</minDate>
+    <maxDate>1946-08-31</maxDate>
+    <latitude>48.06667</latitude>
+    <longitude>-124.13333</longitude>
+    <elevation>1007.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4485</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00504929</id>
+    <displayName>KLUKWAN, AK US</displayName>
+    <minDate>1908-01-21</minDate>
+    <maxDate>1922-04-29</maxDate>
+    <latitude>59.4</latitude>
+    <longitude>-135.9</longitude>
+    <elevation>27.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414841</id>
+    <displayName>KNAPP 2 SW, TX US</displayName>
+    <minDate>1931-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.6259</latitude>
+    <longitude>-101.1503</longitude>
+    <elevation>698</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304450</id>
+    <displayName>KNAPP CREEK, NY US</displayName>
+    <minDate>1937-05-01</minDate>
+    <maxDate>1951-06-30</maxDate>
+    <latitude>42</latitude>
+    <longitude>-78.51667</longitude>
+    <elevation>723</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.921</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474230</id>
+    <displayName>KNAPP, WI US</displayName>
+    <minDate>1898-01-01</minDate>
+    <maxDate>1902-06-19</maxDate>
+    <latitude>44.95</latitude>
+    <longitude>-92.1</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7197</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAHM0038</id>
+    <displayName>KNEELAND 0.4 NNW, CA US</displayName>
+    <minDate>2011-03-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7659</latitude>
+    <longitude>-123.9985</longitude>
+    <elevation>612</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044586</id>
+    <displayName>KNEELAND 2, CA US</displayName>
+    <minDate>1948-07-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.66667</latitude>
+    <longitude>-123.91667</longitude>
+    <elevation>811.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9199</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAHM0034</id>
+    <displayName>KNEELAND 4.8 WNW, CA US</displayName>
+    <minDate>2010-11-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.7895</latitude>
+    <longitude>-124.0795</longitude>
+    <elevation>32.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3789</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTG0005</id>
+    <displayName>KNICKERBOCKER 3.2 SW, TX US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.2467</latitude>
+    <longitude>-100.6723</longitude>
+    <elevation>636.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414848</id>
+    <displayName>KNICKERBOCKER, TX US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>1932-03-31</maxDate>
+    <latitude>31.266667</latitude>
+    <longitude>-100.633333</longitude>
+    <elevation>624.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9539</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0064</id>
+    <displayName>KNIGHTDALE 1.3 WSW, NC US</displayName>
+    <minDate>2008-04-29</minDate>
+    <maxDate>2010-11-25</maxDate>
+    <latitude>35.7887</latitude>
+    <longitude>-78.5083</longitude>
+    <elevation>72.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0048</id>
+    <displayName>KNIGHTDALE 1.9 WSW, NC US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.7779</latitude>
+    <longitude>-78.5161</longitude>
+    <elevation>86.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9257</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0008</id>
+    <displayName>KNIGHTDALE 2.6 SSW, NC US</displayName>
+    <minDate>2007-08-29</minDate>
+    <maxDate>2012-03-03</maxDate>
+    <latitude>35.7564</latitude>
+    <longitude>-78.5003</longitude>
+    <elevation>77.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044590</id>
+    <displayName>KNIGHTS FERRY 2 SE, CA US</displayName>
+    <minDate>1959-08-01</minDate>
+    <maxDate>1977-05-31</maxDate>
+    <latitude>37.8</latitude>
+    <longitude>-120.65</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASS0001</id>
+    <displayName>KNIGHTS FERRY 5.2 WSW, CA US</displayName>
+    <minDate>2008-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7892</latitude>
+    <longitude>-120.7518</longitude>
+    <elevation>43.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9293</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044592</id>
+    <displayName>KNIGHTS LANDING SOUTHERN PACIFIC RAILROAD, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1918-03-25</maxDate>
+    <latitude>38.8</latitude>
+    <longitude>-121.716667</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2083</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044591</id>
+    <displayName>KNIGHTS LANDING, CA US</displayName>
+    <minDate>1906-11-01</minDate>
+    <maxDate>1958-05-31</maxDate>
+    <latitude>38.8</latitude>
+    <longitude>-121.71667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044593</id>
+    <displayName>KNIGHTS VALLEY, CA US</displayName>
+    <minDate>1964-01-01</minDate>
+    <maxDate>1969-02-28</maxDate>
+    <latitude>38.61667</latitude>
+    <longitude>-122.66667</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6723</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124642</id>
+    <displayName>KNIGHTSTOWN 2 ENE, IN US</displayName>
+    <minDate>1896-04-01</minDate>
+    <maxDate>2012-03-17</maxDate>
+    <latitude>39.8075</latitude>
+    <longitude>-85.4877</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193985</id>
+    <displayName>KNIGHTVILLE DAM, MA US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1997-06-30</maxDate>
+    <latitude>42.28333</latitude>
+    <longitude>-72.86667</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AKAB0008</id>
+    <displayName>KNIK 10.0 ESE, AK US</displayName>
+    <minDate>2007-06-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>61.4176</latitude>
+    <longitude>-149.4477</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9076</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00504943</id>
+    <displayName>KNIK, AK US</displayName>
+    <minDate>1951-07-20</minDate>
+    <maxDate>1952-03-31</maxDate>
+    <latitude>61.46667</latitude>
+    <longitude>-149.71667</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYMC0003</id>
+    <displayName>KNOB LICK 1.0 WNW, KY US</displayName>
+    <minDate>2010-02-27</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.0809</latitude>
+    <longitude>-85.7124</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYMC0002</id>
+    <displayName>KNOB LICK 3.7 S, KY US</displayName>
+    <minDate>2008-05-07</minDate>
+    <maxDate>2010-04-19</maxDate>
+    <latitude>37.025</latitude>
+    <longitude>-85.697</longitude>
+    <elevation>299.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4334</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154449</id>
+    <displayName>KNOB LICK 4 S, KY US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>37.0245</latitude>
+    <longitude>-85.6987</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033930</id>
+    <displayName>KNOBEL 5 NE, AR US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2008-02-29</maxDate>
+    <latitude>36.3425</latitude>
+    <longitude>-90.51861</longitude>
+    <elevation>86.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244713</id>
+    <displayName>KNOBLES RANCH, MT US</displayName>
+    <minDate>1911-04-01</minDate>
+    <maxDate>1919-12-31</maxDate>
+    <latitude>48.983333</latitude>
+    <longitude>-111.6</longitude>
+    <elevation>1325.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00464941</id>
+    <displayName>KNOBLY MOUNTAIN, WV US</displayName>
+    <minDate>1938-01-01</minDate>
+    <maxDate>1961-01-21</maxDate>
+    <latitude>39.36667</latitude>
+    <longitude>-79</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244715</id>
+    <displayName>KNOBS, MT US</displayName>
+    <minDate>1951-09-05</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.8727</latitude>
+    <longitude>-104.1583</longitude>
+    <elevation>940.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264268</id>
+    <displayName>KNOLL CREEK FIELD ST, NV US</displayName>
+    <minDate>1971-11-01</minDate>
+    <maxDate>1979-10-31</maxDate>
+    <latitude>41.63333</latitude>
+    <longitude>-114.73333</longitude>
+    <elevation>1830</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424748</id>
+    <displayName>KNOLLS 10 NE, UT US</displayName>
+    <minDate>1986-05-01</minDate>
+    <maxDate>2004-11-30</maxDate>
+    <latitude>40.81333</latitude>
+    <longitude>-113.2</longitude>
+    <elevation>1292.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9772</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424746</id>
+    <displayName>KNOLLS, UT US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-04-30</maxDate>
+    <latitude>40.71667</latitude>
+    <longitude>-113.28333</longitude>
+    <elevation>1293</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8046</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294512</id>
+    <displayName>KNOWLES NEAR, NM US</displayName>
+    <minDate>1910-07-01</minDate>
+    <maxDate>1918-11-30</maxDate>
+    <latitude>32.88333</latitude>
+    <longitude>-103.13333</longitude>
+    <elevation>1127.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474282</id>
+    <displayName>KNOWLTON 1 W, WI US</displayName>
+    <minDate>1915-05-01</minDate>
+    <maxDate>1953-01-31</maxDate>
+    <latitude>44.71667</latitude>
+    <longitude>-89.7</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.807</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MKNO</id>
+    <displayName>KNOWLTON MONTANA, MT US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.3117</latitude>
+    <longitude>-105.0222</longitude>
+    <elevation>1011.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9634</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0018</id>
+    <displayName>KNOWLTON TWP 3.2 SSE, NJ US</displayName>
+    <minDate>2009-07-31</minDate>
+    <maxDate>2011-10-29</maxDate>
+    <latitude>40.8902</latitude>
+    <longitude>-75.0318</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0016</id>
+    <displayName>KNOWLTON TWP 5.2 SSE, NJ US</displayName>
+    <minDate>2009-07-30</minDate>
+    <maxDate>2009-11-10</maxDate>
+    <latitude>40.8597</latitude>
+    <longitude>-75.0304</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244730</id>
+    <displayName>KNOWLTON, MT US</displayName>
+    <minDate>1915-01-01</minDate>
+    <maxDate>1943-02-28</maxDate>
+    <latitude>46.3</latitude>
+    <longitude>-105</longitude>
+    <elevation>1097.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4084</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INST0005</id>
+    <displayName>KNOX 0.6 ESE, IN US</displayName>
+    <minDate>2006-11-22</minDate>
+    <maxDate>2007-12-16</maxDate>
+    <latitude>41.29</latitude>
+    <longitude>-86.61</longitude>
+    <elevation>221</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INST0002</id>
+    <displayName>KNOX 1.2 S, IN US</displayName>
+    <minDate>2006-11-10</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>41.2742</latitude>
+    <longitude>-86.6193</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6071</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INST0003</id>
+    <displayName>KNOX 4.1 SW, IN US</displayName>
+    <minDate>2006-11-09</minDate>
+    <maxDate>2012-11-22</maxDate>
+    <latitude>41.244</latitude>
+    <longitude>-86.669</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414852</id>
+    <displayName>KNOX CITY, TX US</displayName>
+    <minDate>1935-06-01</minDate>
+    <maxDate>1965-11-30</maxDate>
+    <latitude>33.41667</latitude>
+    <longitude>-99.81667</longitude>
+    <elevation>467</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124657</id>
+    <displayName>KNOX WWTP, IN US</displayName>
+    <minDate>1897-03-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>41.3053</latitude>
+    <longitude>-86.6285</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKX0009</id>
+    <displayName>KNOXVILLE 0.7 NW, IL US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9136</latitude>
+    <longitude>-90.2935</longitude>
+    <elevation>235.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234603</id>
+    <displayName>KNOXVILLE 2 SSE, MO US</displayName>
+    <minDate>1949-05-06</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.43333</latitude>
+    <longitude>-94</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARJH0001</id>
+    <displayName>KNOXVILLE 2.0 NE, AR US</displayName>
+    <minDate>2009-05-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.394</latitude>
+    <longitude>-93.3363</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNKX0001</id>
+    <displayName>KNOXVILLE 4.5 NNW, TN US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0344</latitude>
+    <longitude>-83.9793</longitude>
+    <elevation>325.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8343</coverage>
+  </station>
+</stationCollection>

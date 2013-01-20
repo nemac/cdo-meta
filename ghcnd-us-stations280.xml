@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="280">
+  <station>
+    <id>GHCND:US1MIOC0002</id>
+    <displayName>MONTAGUE 8.1 NW, MI US</displayName>
+    <minDate>2008-08-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.5</latitude>
+    <longitude>-86.47</longitude>
+    <elevation>224.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00194903</id>
+    <displayName>MONTAGUE CITY, MA US</displayName>
+    <minDate>1936-10-01</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>42.58333</latitude>
+    <longitude>-72.58333</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9138</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024259</id>
+    <displayName>MONTAGUE SISKIYOU CO AIRPORT, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.7806</latitude>
+    <longitude>-122.4717</longitude>
+    <elevation>803.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2511</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSS0028</id>
+    <displayName>MONTAGUE TWP 2.7 WNW, NJ US</displayName>
+    <minDate>2011-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3037</latitude>
+    <longitude>-74.7808</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024214</id>
+    <displayName>MONTAGUE YREKA MUNICIPAL AIRPORT, CA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>41.73333</latitude>
+    <longitude>-122.55</longitude>
+    <elevation>767.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305438</id>
+    <displayName>MONTAGUE, NY US</displayName>
+    <minDate>1998-02-01</minDate>
+    <maxDate>1999-12-31</maxDate>
+    <latitude>43.76111</latitude>
+    <longitude>-75.68028</longitude>
+    <elevation>542.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416014</id>
+    <displayName>MONTAGUE, TX US</displayName>
+    <minDate>1943-06-01</minDate>
+    <maxDate>1964-02-29</maxDate>
+    <latitude>33.66667</latitude>
+    <longitude>-97.75</longitude>
+    <elevation>328.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9607</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTJF0003</id>
+    <displayName>MONTANA CITY 2.3 SE, MT US</displayName>
+    <minDate>2011-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.5169</latitude>
+    <longitude>-111.8946</longitude>
+    <elevation>1445.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505889</id>
+    <displayName>MONTANA CREEK DOT, AK US</displayName>
+    <minDate>2004-11-02</minDate>
+    <maxDate>2006-05-31</maxDate>
+    <latitude>65.36</latitude>
+    <longitude>-146.08639</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505888</id>
+    <displayName>MONTANA CREEK, AK US</displayName>
+    <minDate>1963-06-01</minDate>
+    <maxDate>1981-09-30</maxDate>
+    <latitude>62.10444</latitude>
+    <longitude>-150.05889</longitude>
+    <elevation>74.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0411</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245845</id>
+    <displayName>MONTANA RANGE SHEEP EXPERIMENT STATION, MT US</displayName>
+    <minDate>1939-03-01</minDate>
+    <maxDate>1940-09-30</maxDate>
+    <latitude>45.85</latitude>
+    <longitude>-110.766667</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295834</id>
+    <displayName>MONTANO GRANT, NM US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.16667</latitude>
+    <longitude>-107.01667</longitude>
+    <elevation>1809</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9474</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054780</id>
+    <displayName>MONTAUK AIRPORT, NY US</displayName>
+    <minDate>1998-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.07306</latitude>
+    <longitude>-71.92333</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9497</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235715</id>
+    <displayName>MONTAUK STATE PARK, MO US</displayName>
+    <minDate>2002-10-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>37.4525</latitude>
+    <longitude>-91.6825</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305441</id>
+    <displayName>MONTAUK, NY US</displayName>
+    <minDate>1973-05-01</minDate>
+    <maxDate>1979-07-31</maxDate>
+    <latitude>41.05</latitude>
+    <longitude>-71.95</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASR0018</id>
+    <displayName>MONTCLAIR 1.2 NE, CA US</displayName>
+    <minDate>2009-12-30</minDate>
+    <maxDate>2010-05-14</maxDate>
+    <latitude>34.0857</latitude>
+    <longitude>-117.6816</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJES0015</id>
+    <displayName>MONTCLAIR 2.2 NNE, NJ US</displayName>
+    <minDate>2012-01-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8565</latitude>
+    <longitude>-74.2004</longitude>
+    <elevation>113.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8284</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALC0011</id>
+    <displayName>MONTDALE 0.8 SE, PA US</displayName>
+    <minDate>2011-08-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5257</latitude>
+    <longitude>-75.5993</longitude>
+    <elevation>415.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416017</id>
+    <displayName>MONTE ALTO, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1950-05-24</maxDate>
+    <latitude>26.55</latitude>
+    <longitude>-97.96667</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9419</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666270</id>
+    <displayName>MONTE BELLO MANATI, PR US</displayName>
+    <minDate>1969-10-01</minDate>
+    <maxDate>2001-09-30</maxDate>
+    <latitude>18.37944</latitude>
+    <longitude>-66.51528</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011H57S</id>
+    <displayName>MONTE CRISTO, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.4667</latitude>
+    <longitude>-111.5</longitude>
+    <elevation>2731</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9103</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455539</id>
+    <displayName>MONTE CRISTO, WA US</displayName>
+    <minDate>1895-02-01</minDate>
+    <maxDate>1902-10-31</maxDate>
+    <latitude>47.98333</latitude>
+    <longitude>-121.38333</longitude>
+    <elevation>875.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0008</id>
+    <displayName>MONTE NIDO 0.2 SSW, CA US</displayName>
+    <minDate>2008-12-11</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>34.0786</latitude>
+    <longitude>-118.687</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASN0045</id>
+    <displayName>MONTE RIO 1.6 W, CA US</displayName>
+    <minDate>2009-01-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4636</latitude>
+    <longitude>-123.0416</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7288</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015529</id>
+    <displayName>MONTE SANO, AL US</displayName>
+    <minDate>1900-03-15</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.75</latitude>
+    <longitude>-86.51667</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3449</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASC0005</id>
+    <displayName>MONTE SERENO 0.4 SSW, CA US</displayName>
+    <minDate>2008-10-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2324</latitude>
+    <longitude>-121.9902</longitude>
+    <elevation>142.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0017</id>
+    <displayName>MONTE VISTA 0.7 W, CO US</displayName>
+    <minDate>2008-07-21</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>37.5803</latitude>
+    <longitude>-106.1565</longitude>
+    <elevation>2339.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055706</id>
+    <displayName>MONTE VISTA 2 W, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.581</latitude>
+    <longitude>-106.1871</longitude>
+    <elevation>2344.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.579</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0010</id>
+    <displayName>MONTE VISTA 2.4 E, CO US</displayName>
+    <minDate>2005-12-27</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>37.577</latitude>
+    <longitude>-106.1004</longitude>
+    <elevation>2332</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.752</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0015</id>
+    <displayName>MONTE VISTA 3.6 NE, CO US</displayName>
+    <minDate>2007-07-09</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>37.613</latitude>
+    <longitude>-106.0936</longitude>
+    <elevation>2329.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0007</id>
+    <displayName>MONTE VISTA 4.1 S, CO US</displayName>
+    <minDate>2005-03-10</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>37.5216</latitude>
+    <longitude>-106.1613</longitude>
+    <elevation>2347</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0020</id>
+    <displayName>MONTE VISTA 7.0 SE, CO US</displayName>
+    <minDate>2009-07-08</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>37.5213</latitude>
+    <longitude>-106.0393</longitude>
+    <elevation>2317.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055711</id>
+    <displayName>MONTE VISTA REFUGE, CO US</displayName>
+    <minDate>1989-02-01</minDate>
+    <maxDate>1993-05-31</maxDate>
+    <latitude>37.48333</latitude>
+    <longitude>-106.15</longitude>
+    <elevation>2339.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9513</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0006</id>
+    <displayName>MONTEAGLE 1.6 SW, TN US</displayName>
+    <minDate>2007-11-28</minDate>
+    <maxDate>2008-10-31</maxDate>
+    <latitude>35.2207</latitude>
+    <longitude>-85.8579</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8171</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGY0007</id>
+    <displayName>MONTEAGLE 2.0 E, TN US</displayName>
+    <minDate>2007-11-28</minDate>
+    <maxDate>2011-09-17</maxDate>
+    <latitude>35.2366</latitude>
+    <longitude>-85.805</longitude>
+    <elevation>577</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGY0001</id>
+    <displayName>MONTEAGLE 2.6 SSE, TN US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2012-09-18</maxDate>
+    <latitude>35.2022</latitude>
+    <longitude>-85.8232</longitude>
+    <elevation>535.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0007</id>
+    <displayName>MONTEAGLE 8.7 E, TN US</displayName>
+    <minDate>2007-11-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2136</latitude>
+    <longitude>-85.6885</longitude>
+    <elevation>558.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9486</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406162</id>
+    <displayName>MONTEAGLE, TN US</displayName>
+    <minDate>1938-11-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2244</latitude>
+    <longitude>-85.8417</longitude>
+    <elevation>563.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445685</id>
+    <displayName>MONTEBELLO 3 NE, VA US</displayName>
+    <minDate>1937-07-05</minDate>
+    <maxDate>2007-03-02</maxDate>
+    <latitude>37.88139</latitude>
+    <longitude>-79.13167</longitude>
+    <elevation>816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445690</id>
+    <displayName>MONTEBELLO FISH HATCHERY, VA US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8444</latitude>
+    <longitude>-79.1303</longitude>
+    <elevation>812.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1136</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045790</id>
+    <displayName>MONTEBELLO, CA US</displayName>
+    <minDate>1979-01-01</minDate>
+    <maxDate>2011-02-26</maxDate>
+    <latitude>34.0191</latitude>
+    <longitude>-118.1052</longitude>
+    <elevation>75</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CMNC</id>
+    <displayName>MONTECITO CALIFORNIA, CA US</displayName>
+    <minDate>1996-09-20</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.4614</latitude>
+    <longitude>-119.6481</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9572</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416019</id>
+    <displayName>MONTELL, TX US</displayName>
+    <minDate>1912-09-12</minDate>
+    <maxDate>1944-02-29</maxDate>
+    <latitude>29.53333</latitude>
+    <longitude>-100.01667</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265352</id>
+    <displayName>MONTELLO 2 SE, NV US</displayName>
+    <minDate>1895-04-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2782</latitude>
+    <longitude>-114.1708</longitude>
+    <elevation>1472.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00475581</id>
+    <displayName>MONTELLO, WI US</displayName>
+    <minDate>1954-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.7805</latitude>
+    <longitude>-89.3169</longitude>
+    <elevation>239.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMT0001</id>
+    <displayName>MONTEREY 1.0 W, CA US</displayName>
+    <minDate>2008-10-03</minDate>
+    <maxDate>2009-05-06</maxDate>
+    <latitude>36.6029</latitude>
+    <longitude>-121.8991</longitude>
+    <elevation>37.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5185</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMT0007</id>
+    <displayName>MONTEREY 1.5 ESE, CA US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2012-10-20</maxDate>
+    <latitude>36.5937</latitude>
+    <longitude>-121.8557</longitude>
+    <elevation>32.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0004</id>
+    <displayName>MONTEREY 3.9 W, TN US</displayName>
+    <minDate>2007-05-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1264</latitude>
+    <longitude>-85.3139</longitude>
+    <elevation>554.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8222</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCM0018</id>
+    <displayName>MONTEREY 4.3 S, TN US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0712</latitude>
+    <longitude>-85.2383</longitude>
+    <elevation>568.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406175</id>
+    <displayName>MONTEREY 5 NE, TN US</displayName>
+    <minDate>1963-06-01</minDate>
+    <maxDate>1965-11-30</maxDate>
+    <latitude>36.16667</latitude>
+    <longitude>-85.23333</longitude>
+    <elevation>512.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCM0011</id>
+    <displayName>MONTEREY 6.4 ESE, TN US</displayName>
+    <minDate>2007-07-10</minDate>
+    <maxDate>2010-10-23</maxDate>
+    <latitude>36.1058</latitude>
+    <longitude>-85.1351</longitude>
+    <elevation>563.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8028</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAHG0002</id>
+    <displayName>MONTEREY 6.5 SSW, VA US</displayName>
+    <minDate>2012-06-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3284</latitude>
+    <longitude>-79.6371</longitude>
+    <elevation>742.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6573</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023245</id>
+    <displayName>MONTEREY NAF, CA US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1969-01-31</maxDate>
+    <latitude>36.6</latitude>
+    <longitude>-121.86667</longitude>
+    <elevation>50</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7173</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045802</id>
+    <displayName>MONTEREY NWSFO, CA US</displayName>
+    <minDate>1995-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.5927</latitude>
+    <longitude>-121.8555</longitude>
+    <elevation>37.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023259</id>
+    <displayName>MONTEREY PENINSUL AIRPORT, CA US</displayName>
+    <minDate>1968-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.58806</latitude>
+    <longitude>-121.84528</longitude>
+    <elevation>50.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.515</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045795</id>
+    <displayName>MONTEREY, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>36.5902</latitude>
+    <longitude>-121.9102</longitude>
+    <elevation>117.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6693</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406170</id>
+    <displayName>MONTEREY, TN US</displayName>
+    <minDate>1904-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1482</latitude>
+    <longitude>-85.2649</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7197</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445698</id>
+    <displayName>MONTEREY, VA US</displayName>
+    <minDate>1894-12-02</minDate>
+    <maxDate>1990-05-31</maxDate>
+    <latitude>38.41667</latitude>
+    <longitude>-79.58333</longitude>
+    <elevation>890.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6257</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455549</id>
+    <displayName>MONTESANO 1 S, WA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1953-01-31</maxDate>
+    <latitude>46.9675</latitude>
+    <longitude>-123.6064</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8783</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAGH0029</id>
+    <displayName>MONTESANO 2.1 SSW, WA US</displayName>
+    <minDate>2011-09-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.9852</latitude>
+    <longitude>-123.595</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8547</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAGH0022</id>
+    <displayName>MONTESANO 4.2 ESE, WA US</displayName>
+    <minDate>2011-06-10</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.9941</latitude>
+    <longitude>-123.5007</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8703</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAGH0026</id>
+    <displayName>MONTESANO 4.2 NW, WA US</displayName>
+    <minDate>2011-06-20</minDate>
+    <maxDate>2012-04-11</maxDate>
+    <latitude>47.0526</latitude>
+    <longitude>-123.6535</longitude>
+    <elevation>32.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAGH0025</id>
+    <displayName>MONTESANO 4.5 SW, WA US</displayName>
+    <minDate>2011-09-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.9705</latitude>
+    <longitude>-123.6528</longitude>
+    <elevation>47.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8896</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAGH0028</id>
+    <displayName>MONTESANO 5.8 WNW, WA US</displayName>
+    <minDate>2011-10-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.057</latitude>
+    <longitude>-123.69</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8593</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALSH0036</id>
+    <displayName>MONTEVALLO 0.2 SW, AL US</displayName>
+    <minDate>2006-05-20</minDate>
+    <maxDate>2011-01-19</maxDate>
+    <latitude>33.1073</latitude>
+    <longitude>-86.8604</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1172</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015539</id>
+    <displayName>MONTEVALLO 5 NW, AL US</displayName>
+    <minDate>1995-11-01</minDate>
+    <maxDate>1998-01-31</maxDate>
+    <latitude>33.1525</latitude>
+    <longitude>-86.92278</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8505</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015537</id>
+    <displayName>MONTEVALLO, AL US</displayName>
+    <minDate>1893-12-02</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.098</latitude>
+    <longitude>-86.8658</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5299</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCP0001</id>
+    <displayName>MONTEVIDEO 0.4 SSW, MN US</displayName>
+    <minDate>2010-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9453</latitude>
+    <longitude>-95.7203</longitude>
+    <elevation>309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215563</id>
+    <displayName>MONTEVIDEO 1 SW, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9342</latitude>
+    <longitude>-95.746</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106080</id>
+    <displayName>MONTEVIEW, ID US</displayName>
+    <minDate>1921-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.0367</latitude>
+    <longitude>-112.5163</longitude>
+    <elevation>1475.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.078</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0002</id>
+    <displayName>MONTEVISTA 2.7 SSE, CO US</displayName>
+    <minDate>2003-07-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5459</latitude>
+    <longitude>-106.1217</longitude>
+    <elevation>2332.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125829</id>
+    <displayName>MONTEZUMA 1 SE, IN US</displayName>
+    <minDate>2000-07-01</minDate>
+    <maxDate>2006-07-31</maxDate>
+    <latitude>39.7886</latitude>
+    <longitude>-87.3638</longitude>
+    <elevation>154.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00135650</id>
+    <displayName>MONTEZUMA 1 W, IA US</displayName>
+    <minDate>1896-07-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>41.5836</latitude>
+    <longitude>-92.5497</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00025635</id>
+    <displayName>MONTEZUMA CASTLE NM, AZ US</displayName>
+    <minDate>1938-10-12</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>34.6105</latitude>
+    <longitude>-111.838</longitude>
+    <elevation>969.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00025633</id>
+    <displayName>MONTEZUMA, AZ US</displayName>
+    <minDate>1959-02-10</minDate>
+    <maxDate>1963-07-31</maxDate>
+    <latitude>33.1</latitude>
+    <longitude>-113.38333</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095979</id>
+    <displayName>MONTEZUMA, GA US</displayName>
+    <minDate>1904-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2903</latitude>
+    <longitude>-84.0314</longitude>
+    <elevation>99.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125827</id>
+    <displayName>MONTEZUMA, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>39.79417</latitude>
+    <longitude>-87.37056</longitude>
+    <elevation>157.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1035</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00145421</id>
+    <displayName>MONTEZUMA, KS US</displayName>
+    <minDate>1996-08-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.5922</latitude>
+    <longitude>-100.439</longitude>
+    <elevation>844.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDV0011</id>
+    <displayName>MONTGOMERY 0.1 SE, IN US</displayName>
+    <minDate>2007-05-18</minDate>
+    <maxDate>2009-05-15</maxDate>
+    <latitude>38.6636</latitude>
+    <longitude>-87.0452</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8038</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMNG021</id>
+    <displayName>MONTGOMERY 0.4 N, TX US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3976</latitude>
+    <longitude>-95.6954</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9826</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0005</id>
+    <displayName>MONTGOMERY 0.8 SSE, IL US</displayName>
+    <minDate>2007-03-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7202</latitude>
+    <longitude>-88.334</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8087</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0023</id>
+    <displayName>MONTGOMERY 1.7 SSE, IL US</displayName>
+    <minDate>2008-03-03</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.7087</latitude>
+    <longitude>-88.3251</longitude>
+    <elevation>205.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9258</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMY0007</id>
+    <displayName>MONTGOMERY 2.2 NE, AL US</displayName>
+    <minDate>2008-12-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3772</latitude>
+    <longitude>-86.2575</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNLS0001</id>
+    <displayName>MONTGOMERY 2.6 E, MN US</displayName>
+    <minDate>2010-04-24</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>44.449</latitude>
+    <longitude>-93.5264</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7138</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMNG014</id>
+    <displayName>MONTGOMERY 2.6 NE, TX US</displayName>
+    <minDate>2012-05-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.413</latitude>
+    <longitude>-95.66</longitude>
+    <elevation>79.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8947</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRC0001</id>
+    <displayName>MONTGOMERY 3.2 ENE, MN US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.464</latitude>
+    <longitude>-93.5198</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0001</id>
+    <displayName>MONTGOMERY 3.5 WSW, IL US</displayName>
+    <minDate>2006-12-21</minDate>
+    <maxDate>2008-02-17</maxDate>
+    <latitude>41.71</latitude>
+    <longitude>-88.4045</longitude>
+    <elevation>202.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4434</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMNG020</id>
+    <displayName>MONTGOMERY 3.8 ESE, TX US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3774</latitude>
+    <longitude>-95.6335</longitude>
+    <elevation>61.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8391</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMY0010</id>
+    <displayName>MONTGOMERY 3.9 WNW, AL US</displayName>
+    <minDate>2012-01-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3816</latitude>
+    <longitude>-86.3437</longitude>
+    <elevation>51.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8391</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMY0004</id>
+    <displayName>MONTGOMERY 4.0 ENE, AL US</displayName>
+    <minDate>2008-06-19</minDate>
+    <maxDate>2010-06-10</maxDate>
+    <latitude>32.3862</latitude>
+    <longitude>-86.2273</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4003</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMY0001</id>
+    <displayName>MONTGOMERY 4.0 ESE, AL US</displayName>
+    <minDate>2008-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3357</latitude>
+    <longitude>-86.2194</longitude>
+    <elevation>75</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMNG004</id>
+    <displayName>MONTGOMERY 4.0 N, TX US</displayName>
+    <minDate>2009-03-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>30.4496</latitude>
+    <longitude>-95.6901</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3053</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDV0005</id>
+    <displayName>MONTGOMERY 4.1 S, IN US</displayName>
+    <minDate>2006-05-24</minDate>
+    <maxDate>2008-07-31</maxDate>
+    <latitude>38.6051</latitude>
+    <longitude>-87.0449</longitude>
+    <elevation>156.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8275</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMY0009</id>
+    <displayName>MONTGOMERY 4.3 ENE, AL US</displayName>
+    <minDate>2011-02-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3788</latitude>
+    <longitude>-86.2159</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015553</id>
+    <displayName>MONTGOMERY 6 SW, AL US</displayName>
+    <minDate>1998-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.26</latitude>
+    <longitude>-86.218</longitude>
+    <elevation>68.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMNG003</id>
+    <displayName>MONTGOMERY 8.7 SW, TX US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2010-02-22</maxDate>
+    <latitude>30.2755</latitude>
+    <longitude>-95.7612</longitude>
+    <elevation>90.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8246</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013895</id>
+    <displayName>MONTGOMERY AIRPORT, AL US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.29972</latitude>
+    <longitude>-86.4075</longitude>
+    <elevation>61.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406180</id>
+    <displayName>MONTGOMERY BELL SP, TN US</displayName>
+    <minDate>2005-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.10139</latitude>
+    <longitude>-87.28472</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA139</id>
+    <displayName>MONTGOMERY CITY 0.8 SE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9658</latitude>
+    <longitude>-91.4962</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235728</id>
+    <displayName>MONTGOMERY CITY, MO US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>1906-10-15</maxDate>
+    <latitude>38.966667</latitude>
+    <longitude>-91.5</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+</stationCollection>

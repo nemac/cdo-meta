@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="371">
+  <station>
+    <id>GHCND:USC00427686</id>
+    <displayName>SANTAQUIN CHLOR, UT US</displayName>
+    <minDate>1914-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.9578</latitude>
+    <longitude>-111.7794</longitude>
+    <elevation>1572.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0028</id>
+    <displayName>SANTEE 0.8 W, CA US</displayName>
+    <minDate>2009-02-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8561</latitude>
+    <longitude>-116.9956</longitude>
+    <elevation>142</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00387712</id>
+    <displayName>SANTEE COOP SPLWY, SC US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.44861</latitude>
+    <longitude>-80.16222</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1378</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257555</id>
+    <displayName>SANTEE, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1938-09-30</maxDate>
+    <latitude>42.83333</latitude>
+    <longitude>-97.85</longitude>
+    <elevation>374.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317659</id>
+    <displayName>SANTEETLAH DAM, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.38333</latitude>
+    <longitude>-83.88333</longitude>
+    <elevation>595</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9492</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317664</id>
+    <displayName>SANTEETLAH GAP, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.35</latitude>
+    <longitude>-83.9</longitude>
+    <elevation>848</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00217502</id>
+    <displayName>SANTIAGO 3 E, MN US</displayName>
+    <minDate>1959-09-14</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.546</latitude>
+    <longitude>-93.7572</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047987</id>
+    <displayName>SANTIAGO DAM, CA US</displayName>
+    <minDate>1948-07-03</minDate>
+    <maxDate>1965-09-30</maxDate>
+    <latitude>33.78694</latitude>
+    <longitude>-117.72167</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021E05S</id>
+    <displayName>SANTIAM JCT., OR US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.4333</latitude>
+    <longitude>-121.9333</longitude>
+    <elevation>1143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9149</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357554</id>
+    <displayName>SANTIAM JUNCTION, OR US</displayName>
+    <minDate>1949-10-18</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.4356</latitude>
+    <longitude>-121.9433</longitude>
+    <elevation>1143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3534</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357559</id>
+    <displayName>SANTIAM PASS, OR US</displayName>
+    <minDate>1946-12-01</minDate>
+    <maxDate>1985-09-30</maxDate>
+    <latitude>44.41667</latitude>
+    <longitude>-121.86667</longitude>
+    <elevation>1447.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418062</id>
+    <displayName>SANTO, TX US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1941-09-30</maxDate>
+    <latitude>32.61667</latitude>
+    <longitude>-98.23333</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00387722</id>
+    <displayName>SANTUCK, SC US</displayName>
+    <minDate>1893-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.635</latitude>
+    <longitude>-81.5205</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSM0012</id>
+    <displayName>SAPELLO 5.1 WNW, NM US</displayName>
+    <minDate>2011-03-05</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.7965</latitude>
+    <longitude>-105.3395</longitude>
+    <elevation>2214.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7695</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAMI0002</id>
+    <displayName>SAPELO ISLAND 2.3 NW, GA US</displayName>
+    <minDate>2008-05-11</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>31.4259</latitude>
+    <longitude>-81.258</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097808</id>
+    <displayName>SAPELO ISLAND, GA US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.3972</latitude>
+    <longitude>-81.2811</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9198</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057455</id>
+    <displayName>SAPINERO 8 E, CO US</displayName>
+    <minDate>1948-10-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>38.48333</latitude>
+    <longitude>-107.18333</longitude>
+    <elevation>2354.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3409</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457319</id>
+    <displayName>SAPPHO 8 E, WA US</displayName>
+    <minDate>1936-09-01</minDate>
+    <maxDate>1997-06-30</maxDate>
+    <latitude>48.06667</latitude>
+    <longitude>-124.11667</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8289</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247367</id>
+    <displayName>SAPPINGTON, MT US</displayName>
+    <minDate>1950-06-02</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>45.8</latitude>
+    <longitude>-111.76667</longitude>
+    <elevation>1281.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8019</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347921</id>
+    <displayName>SAPULPA 1 W, OK US</displayName>
+    <minDate>1899-01-21</minDate>
+    <maxDate>1975-07-31</maxDate>
+    <latitude>36</latitude>
+    <longitude>-96.13333</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5039</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NSAR</id>
+    <displayName>SARA NEW YORK, NY US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.0078</latitude>
+    <longitude>-73.6511</longitude>
+    <elevation>114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8472</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227807</id>
+    <displayName>SARAH 3 SE, MS US</displayName>
+    <minDate>1943-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5369</latitude>
+    <longitude>-90.1933</longitude>
+    <elevation>102.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0018</id>
+    <displayName>SARALAND 1.4 E, AL US</displayName>
+    <minDate>2008-01-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.817</latitude>
+    <longitude>-88.0757</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9027</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0014</id>
+    <displayName>SARALAND 6.8 NNW, AL US</displayName>
+    <minDate>2008-01-14</minDate>
+    <maxDate>2012-01-18</maxDate>
+    <latitude>30.9156</latitude>
+    <longitude>-88.124</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIIN0001</id>
+    <displayName>SARANAC 2.6 NE, MI US</displayName>
+    <minDate>2009-03-14</minDate>
+    <maxDate>2012-12-08</maxDate>
+    <latitude>42.9576</latitude>
+    <longitude>-85.1738</longitude>
+    <elevation>203.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094740</id>
+    <displayName>SARANAC LAKE ADIRONDACK REGIONAL AIRPORT, NY US</displayName>
+    <minDate>1998-06-06</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.38528</latitude>
+    <longitude>-74.20667</longitude>
+    <elevation>506.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307472</id>
+    <displayName>SARANAC LAKE, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1966-04-30</maxDate>
+    <latitude>44.33333</latitude>
+    <longitude>-74.13333</longitude>
+    <elevation>481.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4713</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207358</id>
+    <displayName>SARANAC, MI US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>1939-06-30</maxDate>
+    <latitude>42.9</latitude>
+    <longitude>-85.2</longitude>
+    <elevation>194.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0002</id>
+    <displayName>SARASOTA 2.2 WSW, FL US</displayName>
+    <minDate>2008-01-18</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.3212</latitude>
+    <longitude>-82.5789</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8549</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0033</id>
+    <displayName>SARASOTA 2.3 SSE, FL US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2010-01-01</maxDate>
+    <latitude>27.3051</latitude>
+    <longitude>-82.5332</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0004</id>
+    <displayName>SARASOTA 2.8 NE, FL US</displayName>
+    <minDate>2007-09-25</minDate>
+    <maxDate>2012-12-12</maxDate>
+    <latitude>27.3574</latitude>
+    <longitude>-82.4915</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1558</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0003</id>
+    <displayName>SARASOTA 4.0 E, FL US</displayName>
+    <minDate>2007-11-23</minDate>
+    <maxDate>2010-05-27</maxDate>
+    <latitude>27.3399</latitude>
+    <longitude>-82.4662</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7852</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0027</id>
+    <displayName>SARASOTA 4.9 SE, FL US</displayName>
+    <minDate>2008-08-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.2996</latitude>
+    <longitude>-82.4621</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088024</id>
+    <displayName>SARASOTA 5 E, FL US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>1950-10-31</maxDate>
+    <latitude>27.33333</latitude>
+    <longitude>-82.46667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0010</id>
+    <displayName>SARASOTA 5.8 SE, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.261</latitude>
+    <longitude>-82.4885</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9468</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012871</id>
+    <displayName>SARASOTA BRADENTON AIRPORT, FL US</displayName>
+    <minDate>1999-03-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>27.40139</latitude>
+    <longitude>-82.55861</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0011</id>
+    <displayName>SARASOTA SPRINGS 0.3 ESE, FL US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2010-01-01</maxDate>
+    <latitude>27.3076</latitude>
+    <longitude>-82.4756</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0019</id>
+    <displayName>SARASOTA SPRINGS 0.9 SE, FL US</displayName>
+    <minDate>2007-12-14</minDate>
+    <maxDate>2009-09-23</maxDate>
+    <latitude>27.3007</latitude>
+    <longitude>-82.4685</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSS0018</id>
+    <displayName>SARASOTA SPRINGS 1.8 N, FL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2009-06-24</maxDate>
+    <latitude>27.3351</latitude>
+    <longitude>-82.4831</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8195</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088021</id>
+    <displayName>SARASOTA, FL US</displayName>
+    <minDate>1947-09-01</minDate>
+    <maxDate>1976-08-31</maxDate>
+    <latitude>27.35</latitude>
+    <longitude>-82.53333</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYCR0011</id>
+    <displayName>SARATOGA 0.3 ESE USDA SERVICE, WY US</displayName>
+    <minDate>2008-05-15</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>41.4493</latitude>
+    <longitude>-106.8073</longitude>
+    <elevation>2078.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6121</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASC0015</id>
+    <displayName>SARATOGA 0.5 N, CA US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2748</latitude>
+    <longitude>-122.0227</longitude>
+    <elevation>113.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYCR0006</id>
+    <displayName>SARATOGA 0.9 SSE, WY US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2008-06-08</maxDate>
+    <latitude>41.4405</latitude>
+    <longitude>-106.8048</longitude>
+    <elevation>2093.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488001</id>
+    <displayName>SARATOGA 10 S, WY US</displayName>
+    <minDate>1953-10-21</minDate>
+    <maxDate>1958-06-26</maxDate>
+    <latitude>41.31667</latitude>
+    <longitude>-106.76667</longitude>
+    <elevation>2155.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488000</id>
+    <displayName>SARATOGA 10 SW, WY US</displayName>
+    <minDate>1949-10-18</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>41.31667</latitude>
+    <longitude>-106.88333</longitude>
+    <elevation>2165.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8036</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488010</id>
+    <displayName>SARATOGA 16 SE, WY US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2011-04-30</maxDate>
+    <latitude>41.3438</latitude>
+    <longitude>-106.5327</longitude>
+    <elevation>2450.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8417</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137410</id>
+    <displayName>SARATOGA 2 E, IA US</displayName>
+    <minDate>1949-05-01</minDate>
+    <maxDate>1968-02-29</maxDate>
+    <latitude>43.36667</latitude>
+    <longitude>-92.36667</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487995</id>
+    <displayName>SARATOGA 4 N, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.5047</latitude>
+    <longitude>-106.7888</longitude>
+    <elevation>2072.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487999</id>
+    <displayName>SARATOGA 9 SW, WY US</displayName>
+    <minDate>1952-06-01</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>41.35</latitude>
+    <longitude>-106.86667</longitude>
+    <elevation>2172</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488003</id>
+    <displayName>SARATOGA NEAR, WY US</displayName>
+    <minDate>1910-03-20</minDate>
+    <maxDate>1914-12-31</maxDate>
+    <latitude>41.416667</latitude>
+    <longitude>-106.533333</longitude>
+    <elevation>2255.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSR0004</id>
+    <displayName>SARATOGA SPRINGS 0.5 S, NY US</displayName>
+    <minDate>2008-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0603</latitude>
+    <longitude>-73.7801</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSR0002</id>
+    <displayName>SARATOGA SPRINGS 2.0 WSW, NY US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2008-07-13</maxDate>
+    <latitude>43.054</latitude>
+    <longitude>-73.8127</longitude>
+    <elevation>100</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSR0014</id>
+    <displayName>SARATOGA SPRINGS 3.9 NW, NY US</displayName>
+    <minDate>2002-05-25</minDate>
+    <maxDate>2009-12-04</maxDate>
+    <latitude>43.1025</latitude>
+    <longitude>-73.8397</longitude>
+    <elevation>170.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307480</id>
+    <displayName>SARATOGA SPRINGS 4 N, NY US</displayName>
+    <minDate>1895-02-01</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>43.1</latitude>
+    <longitude>-73.83333</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307484</id>
+    <displayName>SARATOGA SPRINGS 4 S, NY US</displayName>
+    <minDate>1955-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.0333</latitude>
+    <longitude>-73.8167</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487990</id>
+    <displayName>SARATOGA, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2008-03-11</maxDate>
+    <latitude>41.45278</latitude>
+    <longitude>-106.80528</longitude>
+    <elevation>2069.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267319</id>
+    <displayName>SARCOBATUS, NV US</displayName>
+    <minDate>1941-10-01</minDate>
+    <maxDate>1961-06-30</maxDate>
+    <latitude>37.26667</latitude>
+    <longitude>-117.01667</longitude>
+    <elevation>1225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9292</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOJS0019</id>
+    <displayName>SARCOXIE 1.0 W, MO US</displayName>
+    <minDate>2011-06-10</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>37.0651</latitude>
+    <longitude>-94.1401</longitude>
+    <elevation>350.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237521</id>
+    <displayName>SARCOXIE, MO US</displayName>
+    <minDate>1893-07-01</minDate>
+    <maxDate>1907-05-31</maxDate>
+    <latitude>37.066667</latitude>
+    <longitude>-94.133333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9791</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSPN0005</id>
+    <displayName>SARDIS 9.5 W, MS US</displayName>
+    <minDate>2010-03-31</minDate>
+    <maxDate>2010-08-30</maxDate>
+    <latitude>34.4378</latitude>
+    <longitude>-90.0801</longitude>
+    <elevation>74.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227815</id>
+    <displayName>SARDIS DAM, MS US</displayName>
+    <minDate>1940-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3961</latitude>
+    <longitude>-89.7902</longitude>
+    <elevation>92.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9093</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227820</id>
+    <displayName>SAREPTA 1 NNE, MS US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.12</latitude>
+    <longitude>-89.29472</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10cust028</id>
+    <displayName>SARGENT 0.9 W, NE US</displayName>
+    <minDate>2007-05-15</minDate>
+    <maxDate>2010-06-12</maxDate>
+    <latitude>41.6399</latitude>
+    <longitude>-99.3898</longitude>
+    <elevation>712</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.112</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508211</id>
+    <displayName>SARGENT CREEK, AK US</displayName>
+    <minDate>1964-06-06</minDate>
+    <maxDate>1965-01-24</maxDate>
+    <latitude>59.96667</latitude>
+    <longitude>-152.71667</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257591</id>
+    <displayName>SARGENT, NE US</displayName>
+    <minDate>1896-03-01</minDate>
+    <maxDate>1912-07-31</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-99.366667</longitude>
+    <elevation>712.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4023</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257589</id>
+    <displayName>SARGENT, NE US</displayName>
+    <minDate>1993-09-01</minDate>
+    <maxDate>2004-09-30</maxDate>
+    <latitude>41.64278</latitude>
+    <longitude>-99.375</longitude>
+    <elevation>704.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSA0035</id>
+    <displayName>SARGENTS 0.3 NE, CO US</displayName>
+    <minDate>2008-06-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.4026</latitude>
+    <longitude>-106.4157</longitude>
+    <elevation>2593.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9442</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057461</id>
+    <displayName>SARGENTS 6 W, CO US</displayName>
+    <minDate>1947-07-01</minDate>
+    <maxDate>1958-08-31</maxDate>
+    <latitude>38.4</latitude>
+    <longitude>-106.5</longitude>
+    <elevation>2479.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057460</id>
+    <displayName>SARGENTS, CO US</displayName>
+    <minDate>1899-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.4039</latitude>
+    <longitude>-106.4236</longitude>
+    <elevation>2578.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418081</id>
+    <displayName>SARITA 7 E, TX US</displayName>
+    <minDate>1899-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.2169</latitude>
+    <longitude>-97.6955</longitude>
+    <elevation>11.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9483</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327844</id>
+    <displayName>SARLES, ND US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-08-31</maxDate>
+    <latitude>48.945</latitude>
+    <longitude>-98.9947</longitude>
+    <elevation>483.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8241</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247374</id>
+    <displayName>SARPY CREEK, MT US</displayName>
+    <minDate>1925-09-01</minDate>
+    <maxDate>1942-12-31</maxDate>
+    <latitude>46.1195</latitude>
+    <longitude>-107.1</longitude>
+    <elevation>823</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSR0007</id>
+    <displayName>SARTELL 1.3 WSW, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-09-04</maxDate>
+    <latitude>45.6181</latitude>
+    <longitude>-94.2338</longitude>
+    <elevation>314.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4245</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSR0009</id>
+    <displayName>SARTELL 1.4 SSE, MN US</displayName>
+    <minDate>2011-06-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.6018</latitude>
+    <longitude>-94.1991</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027625</id>
+    <displayName>SASABE 6 NNE, AZ US</displayName>
+    <minDate>1987-01-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>31.5716</latitude>
+    <longitude>-111.5055</longitude>
+    <elevation>1065.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027622</id>
+    <displayName>SASABE 7 NW, AZ US</displayName>
+    <minDate>1950-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.6036</latitude>
+    <longitude>-111.6022</longitude>
+    <elevation>1165.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9192</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ASAS</id>
+    <displayName>SASABE ARIZONA, AZ US</displayName>
+    <minDate>1992-03-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>31.6908</latitude>
+    <longitude>-111.45</longitude>
+    <elevation>1066.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027619</id>
+    <displayName>SASABE, AZ US</displayName>
+    <minDate>1959-02-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.483</latitude>
+    <longitude>-111.5436</longitude>
+    <elevation>1094.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9493</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408098</id>
+    <displayName>SASSAFRAS KNOB, TN US</displayName>
+    <minDate>1948-09-04</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.1</latitude>
+    <longitude>-84.41667</longitude>
+    <elevation>1007.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00387737</id>
+    <displayName>SASSAFRAS MOUNTAIN, SC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.06667</latitude>
+    <longitude>-82.78333</longitude>
+    <elevation>1068</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.89</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021B51S</id>
+    <displayName>SASSE RIDGE, WA US</displayName>
+    <minDate>1983-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.3667</latitude>
+    <longitude>-121.05</longitude>
+    <elevation>1280.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9073</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSHS0002</id>
+    <displayName>SATANTA 10.1 N, KS US</displayName>
+    <minDate>2007-04-04</minDate>
+    <maxDate>2008-05-18</maxDate>
+    <latitude>37.5826</latitude>
+    <longitude>-100.9862</longitude>
+    <elevation>906.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSHS0004</id>
+    <displayName>SATANTA 12.2 N, KS US</displayName>
+    <minDate>2010-10-15</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.6119</latitude>
+    <longitude>-101.013</longitude>
+    <elevation>919.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.304</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSHS0005</id>
+    <displayName>SATANTA 17.6 N, KS US</displayName>
+    <minDate>2011-07-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6905</latitude>
+    <longitude>-100.9987</longitude>
+    <elevation>914.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9651</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227831</id>
+    <displayName>SATARTIA 8 SW, MS US</displayName>
+    <minDate>2003-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.5861</latitude>
+    <longitude>-90.6261</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457328</id>
+    <displayName>SATSOP 1 W, WA US</displayName>
+    <minDate>1948-10-01</minDate>
+    <maxDate>1953-03-31</maxDate>
+    <latitude>47</latitude>
+    <longitude>-123.5</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457327</id>
+    <displayName>SATSOP, WA US</displayName>
+    <minDate>1928-04-09</minDate>
+    <maxDate>1947-12-31</maxDate>
+    <latitude>46.96667</latitude>
+    <longitude>-123.53333</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9452</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPT0004</id>
+    <displayName>SATSUMA 0.2 WSW, FL US</displayName>
+    <minDate>2008-01-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5517</latitude>
+    <longitude>-81.6579</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPT0007</id>
+    <displayName>SATSUMA 4.0 NE, FL US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5909</latitude>
+    <longitude>-81.6063</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088040</id>
+    <displayName>SATSUMA HEIGHTS, FL US</displayName>
+    <minDate>1908-04-01</minDate>
+    <maxDate>1922-03-31</maxDate>
+    <latitude>29.55</latitude>
+    <longitude>-81.65</longitude>
+    <elevation>23.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457342</id>
+    <displayName>SATUS PASS 2 SSW, WA US</displayName>
+    <minDate>1968-01-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>45.9481</latitude>
+    <longitude>-120.6669</longitude>
+    <elevation>787.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457340</id>
+    <displayName>SATUS PASS, WA US</displayName>
+    <minDate>1956-06-14</minDate>
+    <maxDate>1967-11-30</maxDate>
+    <latitude>46</latitude>
+    <longitude>-120.65</longitude>
+    <elevation>946.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0022</id>
+    <displayName>SAUCIER 1.7 NNE, MS US</displayName>
+    <minDate>2010-11-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6592</latitude>
+    <longitude>-89.1297</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9109</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0023</id>
+    <displayName>SAUCIER 6.4 ESE, MS US</displayName>
+    <minDate>2010-12-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.617</latitude>
+    <longitude>-89.03</longitude>
+    <elevation>52.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7427</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0006</id>
+    <displayName>SAUCIER 6.6 SW, MS US</displayName>
+    <minDate>2009-02-21</minDate>
+    <maxDate>2010-07-10</maxDate>
+    <latitude>30.5748</latitude>
+    <longitude>-89.2188</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8634</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227840</id>
+    <displayName>SAUCIER EXPERIMENTAL FOREST, MS US</displayName>
+    <minDate>1954-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.6263</latitude>
+    <longitude>-89.0549</longitude>
+    <elevation>69.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207361</id>
+    <displayName>SAUGATUCK NEAR, MI US</displayName>
+    <minDate>1924-05-01</minDate>
+    <maxDate>1928-08-31</maxDate>
+    <latitude>42.655025</latitude>
+    <longitude>-86.201983</longitude>
+    <elevation>181.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00067157</id>
+    <displayName>SAUGATUCK RESERVOIR, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.25</latitude>
+    <longitude>-73.35</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8319</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSAU</id>
+    <displayName>SAUGUS CALIFORNIA, CA US</displayName>
+    <minDate>1994-09-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.425</latitude>
+    <longitude>-118.525</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9429</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048014</id>
+    <displayName>SAUGUS POWER PLANT 1, CA US</displayName>
+    <minDate>1918-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.5894</latitude>
+    <longitude>-118.4547</longitude>
+    <elevation>636.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.92</coverage>
+  </station>
+</stationCollection>

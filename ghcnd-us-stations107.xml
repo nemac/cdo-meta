@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="107">
+  <station>
+    <id>GHCND:USR0000GDAW</id>
+    <displayName>DAWSONVILLE GEORGIA, GA US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.3761</latitude>
+    <longitude>-84.0597</longitude>
+    <elevation>369.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9244</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092583</id>
+    <displayName>DAWSONVILLE WEATHER BUREAU, GA US</displayName>
+    <minDate>1956-08-01</minDate>
+    <maxDate>1957-04-30</maxDate>
+    <latitude>34.35</latitude>
+    <longitude>-84.13333</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092578</id>
+    <displayName>DAWSONVILLE, GA US</displayName>
+    <minDate>1947-04-21</minDate>
+    <maxDate>2003-10-31</maxDate>
+    <latitude>34.42056</latitude>
+    <longitude>-84.10389</longitude>
+    <elevation>409.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042306</id>
+    <displayName>DAY, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.2122</latitude>
+    <longitude>-121.3741</longitude>
+    <elevation>1112.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00312270</id>
+    <displayName>DAYBOOK, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.98333</latitude>
+    <longitude>-82.3</longitude>
+    <elevation>716.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10jeff014</id>
+    <displayName>DAYKIN 1.2 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3073</latitude>
+    <longitude>-97.3119</longitude>
+    <elevation>452.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10jeff021</id>
+    <displayName>DAYKIN 5.3 E, NE US</displayName>
+    <minDate>2007-03-28</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>40.3296</latitude>
+    <longitude>-97.1982</longitude>
+    <elevation>455.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.568</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORDG0003</id>
+    <displayName>DAYS CREEK 1 N, OR US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.9419</latitude>
+    <longitude>-123.0306</longitude>
+    <elevation>311.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8613</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSH0015</id>
+    <displayName>DAYTON 0.2 NE, WY US</displayName>
+    <minDate>2007-06-12</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>44.875</latitude>
+    <longitude>-107.261</longitude>
+    <elevation>1193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2632</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0033</id>
+    <displayName>DAYTON 0.4 NE, MN US</displayName>
+    <minDate>2011-03-22</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>45.2443</latitude>
+    <longitude>-93.5115</longitude>
+    <elevation>264.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7075</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRH0001</id>
+    <displayName>DAYTON 0.5 NNW, TN US</displayName>
+    <minDate>2007-05-24</minDate>
+    <maxDate>2008-05-24</maxDate>
+    <latitude>35.4994</latitude>
+    <longitude>-85.0159</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00452030</id>
+    <displayName>DAYTON 1 WSW, WA US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.3152</latitude>
+    <longitude>-118.0022</longitude>
+    <elevation>474.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRH0002</id>
+    <displayName>DAYTON 1.0 SSE, TN US</displayName>
+    <minDate>2007-05-05</minDate>
+    <maxDate>2012-09-04</maxDate>
+    <latitude>35.4802</latitude>
+    <longitude>-85.0036</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8221</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0001</id>
+    <displayName>DAYTON 1.7 SW, NV US</displayName>
+    <minDate>2007-05-31</minDate>
+    <maxDate>2010-05-28</maxDate>
+    <latitude>39.2374</latitude>
+    <longitude>-119.5891</longitude>
+    <elevation>1328</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSH0012</id>
+    <displayName>DAYTON 11.9 WNW, WY US</displayName>
+    <minDate>2006-09-26</minDate>
+    <maxDate>2012-12-06</maxDate>
+    <latitude>44.9604</latitude>
+    <longitude>-107.4728</longitude>
+    <elevation>1453</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5261</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402360</id>
+    <displayName>DAYTON 2 SE, TN US</displayName>
+    <minDate>1956-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4717</latitude>
+    <longitude>-84.9947</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACB0001</id>
+    <displayName>DAYTON 2.2 SW, WA US</displayName>
+    <minDate>2010-01-21</minDate>
+    <maxDate>2011-06-06</maxDate>
+    <latitude>46.2982</latitude>
+    <longitude>-118.0143</longitude>
+    <elevation>461.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4641</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAWB0006</id>
+    <displayName>DAYTON 2.4 NW, IA US</displayName>
+    <minDate>2007-08-20</minDate>
+    <maxDate>2010-01-08</maxDate>
+    <latitude>42.282</latitude>
+    <longitude>-94.11</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0005</id>
+    <displayName>DAYTON 2.5 ENE, NV US</displayName>
+    <minDate>2007-07-30</minDate>
+    <maxDate>2010-01-31</maxDate>
+    <latitude>39.2706</latitude>
+    <longitude>-119.5267</longitude>
+    <elevation>1327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACB0002</id>
+    <displayName>DAYTON 2.6 SSE, WA US</displayName>
+    <minDate>2012-07-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.2834</latitude>
+    <longitude>-117.9549</longitude>
+    <elevation>544.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9784</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0053</id>
+    <displayName>DAYTON 3.4 SSE, MN US</displayName>
+    <minDate>2011-05-02</minDate>
+    <maxDate>2012-09-24</maxDate>
+    <latitude>45.1984</latitude>
+    <longitude>-93.4813</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4414</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0009</id>
+    <displayName>DAYTON 3.5 NNE, NV US</displayName>
+    <minDate>2008-02-17</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>39.3057</latitude>
+    <longitude>-119.5516</longitude>
+    <elevation>1347.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8722</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00452035</id>
+    <displayName>DAYTON 5 NW, WA US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.36667</latitude>
+    <longitude>-118.06667</longitude>
+    <elevation>522.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6478</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLR0003</id>
+    <displayName>DAYTON 6.8 SE, TX US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2010-02-10</maxDate>
+    <latitude>29.9698</latitude>
+    <longitude>-94.8311</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9381</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00452037</id>
+    <displayName>DAYTON 9 SE, WA US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.21667</latitude>
+    <longitude>-117.85</longitude>
+    <elevation>714.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093815</id>
+    <displayName>DAYTON INTERNATIONAL AIRPORT, OH US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.90611</latitude>
+    <longitude>-84.21861</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332067</id>
+    <displayName>DAYTON MCD, OH US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.7633</latitude>
+    <longitude>-84.1911</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9056</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00112178</id>
+    <displayName>DAYTON RIVER, IL US</displayName>
+    <minDate>1990-10-01</minDate>
+    <maxDate>1997-09-30</maxDate>
+    <latitude>41.38667</latitude>
+    <longitude>-88.79056</longitude>
+    <elevation>140.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TDAY</id>
+    <displayName>DAYTON TEXAS, TX US</displayName>
+    <minDate>2003-06-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.105</latitude>
+    <longitude>-94.9314</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9191</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053859</id>
+    <displayName>DAYTON WRIGHT BROTHERS AIRPORT, OH US</displayName>
+    <minDate>1997-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.59361</latitude>
+    <longitude>-84.22639</longitude>
+    <elevation>293.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013840</id>
+    <displayName>DAYTON WRIGHT PATTERSON AFB, OH US</displayName>
+    <minDate>1946-10-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>39.83333</latitude>
+    <longitude>-84.05</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9201</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012188</id>
+    <displayName>DAYTON, AL US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1982-03-31</maxDate>
+    <latitude>32.36667</latitude>
+    <longitude>-87.65</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9558</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242230</id>
+    <displayName>DAYTON, MT US</displayName>
+    <minDate>1903-02-19</minDate>
+    <maxDate>1926-04-30</maxDate>
+    <latitude>47.9</latitude>
+    <longitude>-114.283333</longitude>
+    <elevation>891.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9207</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00482399</id>
+    <displayName>DAYTON, WY US</displayName>
+    <minDate>1951-03-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.8728</latitude>
+    <longitude>-107.2659</longitude>
+    <elevation>1203.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4071</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLVL0012</id>
+    <displayName>DAYTONA BEACH 9.1 WSW, FL US</displayName>
+    <minDate>2008-10-07</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>29.1205</latitude>
+    <longitude>-81.1791</longitude>
+    <elevation>11.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012834</id>
+    <displayName>DAYTONA BEACH INTERNATIONAL AIRPORT, FL US</displayName>
+    <minDate>1937-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.1828</latitude>
+    <longitude>-81.0483</longitude>
+    <elevation>9.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082150</id>
+    <displayName>DAYTONA BEACH, FL US</displayName>
+    <minDate>1923-02-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>29.1966</latitude>
+    <longitude>-81.0084</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5584</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352173</id>
+    <displayName>DAYVILLE 8 NW, OR US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>44.5563</latitude>
+    <longitude>-119.6447</longitude>
+    <elevation>688.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9541</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352168</id>
+    <displayName>DAYVILLE, OR US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>1978-09-30</maxDate>
+    <latitude>44.46667</latitude>
+    <longitude>-119.53333</longitude>
+    <elevation>719.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9176</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBR0003</id>
+    <displayName>DAZEY 3.6 N, ND US</displayName>
+    <minDate>2010-03-05</minDate>
+    <maxDate>2010-09-25</maxDate>
+    <latitude>47.24</latitude>
+    <longitude>-98.191</longitude>
+    <elevation>430.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLVL0017</id>
+    <displayName>DE BARY 2.5 W, FL US</displayName>
+    <minDate>2009-10-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>28.8862</latitude>
+    <longitude>-81.3534</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052121</id>
+    <displayName>DE BEQUE, CO US</displayName>
+    <minDate>1951-12-01</minDate>
+    <maxDate>1954-06-30</maxDate>
+    <latitude>39.33333</latitude>
+    <longitude>-108.21667</longitude>
+    <elevation>1510</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082220</id>
+    <displayName>DE FUNIAK SPRINGS 1 E, FL US</displayName>
+    <minDate>1896-10-01</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>30.72444</latitude>
+    <longitude>-86.09389</longitude>
+    <elevation>74.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9262</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWT0005</id>
+    <displayName>DE FUNIAK SPRINGS 12.5 NW, FL US</displayName>
+    <minDate>2007-11-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8445</latitude>
+    <longitude>-86.2757</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWT0012</id>
+    <displayName>DE FUNIAK SPRINGS 2.9 N, FL US</displayName>
+    <minDate>2010-06-05</minDate>
+    <maxDate>2012-09-05</maxDate>
+    <latitude>30.7617</latitude>
+    <longitude>-86.1228</longitude>
+    <elevation>69.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2464</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWT0006</id>
+    <displayName>DE FUNIAK SPRINGS 4.5 NW, FL US</displayName>
+    <minDate>2007-11-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.7656</latitude>
+    <longitude>-86.1757</longitude>
+    <elevation>64.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8309</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWT0013</id>
+    <displayName>DE FUNIAK SPRINGS 5.3 NW, FL US</displayName>
+    <minDate>2010-08-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.779</latitude>
+    <longitude>-86.1796</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142046</id>
+    <displayName>DE GRAFF, KS US</displayName>
+    <minDate>1953-10-01</minDate>
+    <maxDate>1975-05-31</maxDate>
+    <latitude>37.98333</latitude>
+    <longitude>-96.86667</longitude>
+    <elevation>430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBWE002</id>
+    <displayName>DE KALB 0.1 SE, TX US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2011-11-22</maxDate>
+    <latitude>33.5077</latitude>
+    <longitude>-94.6161</longitude>
+    <elevation>124.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBWE001</id>
+    <displayName>DE KALB 0.1 SSW, TX US</displayName>
+    <minDate>2008-06-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5058</latitude>
+    <longitude>-94.6173</longitude>
+    <elevation>125.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDK0006</id>
+    <displayName>DE KALB 0.3 ENE, IL US</displayName>
+    <minDate>2007-08-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.9324</latitude>
+    <longitude>-88.747</longitude>
+    <elevation>273.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDK0002</id>
+    <displayName>DE KALB 0.8 SSW, IL US</displayName>
+    <minDate>2007-01-05</minDate>
+    <maxDate>2012-01-12</maxDate>
+    <latitude>41.9206</latitude>
+    <longitude>-88.7584</longitude>
+    <elevation>273.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3217</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDK0001</id>
+    <displayName>DE KALB 1.4 W, IL US</displayName>
+    <minDate>2007-04-23</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>41.9292</latitude>
+    <longitude>-88.7791</longitude>
+    <elevation>268.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5429</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00222282</id>
+    <displayName>DE KALB 2, MS US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>32.7623</latitude>
+    <longitude>-88.6495</longitude>
+    <elevation>120.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDK0009</id>
+    <displayName>DE KALB 3.2 WNW, IL US</displayName>
+    <minDate>2008-05-14</minDate>
+    <maxDate>2012-10-29</maxDate>
+    <latitude>41.9441</latitude>
+    <longitude>-88.8108</longitude>
+    <elevation>271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5344</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSKM0002</id>
+    <displayName>DE KALB 3.3 W, MS US</displayName>
+    <minDate>2009-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7601</latitude>
+    <longitude>-88.7118</longitude>
+    <elevation>138.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00222281</id>
+    <displayName>DE KALB 4 W, MS US</displayName>
+    <minDate>2005-12-01</minDate>
+    <maxDate>2008-08-21</maxDate>
+    <latitude>32.76556</latitude>
+    <longitude>-88.74444</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3779</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSKM0001</id>
+    <displayName>DE KALB 4.3 S, MS US</displayName>
+    <minDate>2009-03-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7064</latitude>
+    <longitude>-88.6562</longitude>
+    <elevation>101.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9637</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00112223</id>
+    <displayName>DE KALB, IL US</displayName>
+    <minDate>1966-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.9342</latitude>
+    <longitude>-88.7756</longitude>
+    <elevation>266.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLVL0018</id>
+    <displayName>DE LAND 0.7 W, FL US</displayName>
+    <minDate>2009-11-22</minDate>
+    <maxDate>2012-03-25</maxDate>
+    <latitude>29.035</latitude>
+    <longitude>-81.3093</longitude>
+    <elevation>17.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1368</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLVL0003</id>
+    <displayName>DE LAND 4.5 NW, FL US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>29.087</latitude>
+    <longitude>-81.344</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.902</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLVL0009</id>
+    <displayName>DE LAND 5.7 NW, FL US</displayName>
+    <minDate>2008-07-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.0995</latitude>
+    <longitude>-81.3569</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.96</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCMN001</id>
+    <displayName>DE LEON 4.5 W, TX US</displayName>
+    <minDate>2009-06-29</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>32.0998</latitude>
+    <longitude>-98.613</longitude>
+    <elevation>399.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412350</id>
+    <displayName>DE LEON 5 SW, TX US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2011-04-24</maxDate>
+    <latitude>32.0783</latitude>
+    <longitude>-98.6058</longitude>
+    <elevation>374.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7156</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLVL0004</id>
+    <displayName>DE LEON SPRINGS 0.4 SE, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2009-11-22</maxDate>
+    <latitude>29.113</latitude>
+    <longitude>-81.348</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9656</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412317</id>
+    <displayName>DE LONG RANCH, TX US</displayName>
+    <minDate>1948-04-01</minDate>
+    <maxDate>1958-11-30</maxDate>
+    <latitude>30.98333</latitude>
+    <longitude>-100.8</longitude>
+    <elevation>732.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9764</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0020</id>
+    <displayName>DE MOTTE 0.3 ESE, IN US</displayName>
+    <minDate>2006-09-03</minDate>
+    <maxDate>2008-04-11</maxDate>
+    <latitude>41.1983</latitude>
+    <longitude>-87.193</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5673</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0037</id>
+    <displayName>DE MOTTE 0.8 NNW, IN US</displayName>
+    <minDate>2008-05-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2104</latitude>
+    <longitude>-87.2054</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0045</id>
+    <displayName>DE MOTTE 1.2 SSW, IN US</displayName>
+    <minDate>2010-03-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1842</latitude>
+    <longitude>-87.2099</longitude>
+    <elevation>203</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0036</id>
+    <displayName>DE MOTTE 1.3 SW, IN US</displayName>
+    <minDate>2008-04-12</minDate>
+    <maxDate>2012-02-28</maxDate>
+    <latitude>41.1868</latitude>
+    <longitude>-87.2172</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4471</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0051</id>
+    <displayName>DE MOTTE 2.9 SE, IN US</displayName>
+    <minDate>2010-05-02</minDate>
+    <maxDate>2012-12-04</maxDate>
+    <latitude>41.1756</latitude>
+    <longitude>-87.154</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6519</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0040</id>
+    <displayName>DE MOTTE 3.5 SSW, IN US</displayName>
+    <minDate>2008-08-11</minDate>
+    <maxDate>2010-07-18</maxDate>
+    <latitude>41.1548</latitude>
+    <longitude>-87.2304</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1429</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0049</id>
+    <displayName>DE MOTTE 4.1 SW, IN US</displayName>
+    <minDate>2010-04-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1668</latitude>
+    <longitude>-87.264</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9439</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0031</id>
+    <displayName>DE MOTTE 5.9 S, IN US</displayName>
+    <minDate>2007-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1149</latitude>
+    <longitude>-87.1997</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8161</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIBN0008</id>
+    <displayName>DE PERE 2.4 W, WI US</displayName>
+    <minDate>2011-07-06</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>44.442</latitude>
+    <longitude>-88.1192</longitude>
+    <elevation>194.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031952</id>
+    <displayName>DE QUEEN DAM, AR US</displayName>
+    <minDate>2002-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1002</latitude>
+    <longitude>-94.3724</longitude>
+    <elevation>169.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7006</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053925</id>
+    <displayName>DE QUEEN SEVIER CO AIRPORT, AR US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.05</latitude>
+    <longitude>-94.40083</longitude>
+    <elevation>108.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162364</id>
+    <displayName>DE QUINCY FIRE TOWER, LA US</displayName>
+    <minDate>1982-11-01</minDate>
+    <maxDate>1985-10-31</maxDate>
+    <latitude>30.36667</latitude>
+    <longitude>-93.46667</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162361</id>
+    <displayName>DE QUINCY, LA US</displayName>
+    <minDate>1940-05-18</minDate>
+    <maxDate>2003-08-31</maxDate>
+    <latitude>30.43472</latitude>
+    <longitude>-93.46917</longitude>
+    <elevation>24.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9033</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162367</id>
+    <displayName>DE RIDDER, LA US</displayName>
+    <minDate>1903-02-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8427</latitude>
+    <longitude>-93.2869</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8124</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302079</id>
+    <displayName>DE RUYTER 4 N, NY US</displayName>
+    <minDate>1903-01-01</minDate>
+    <maxDate>1984-03-31</maxDate>
+    <latitude>42.81667</latitude>
+    <longitude>-75.88333</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9166</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042402</id>
+    <displayName>DE SABLA, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8716</latitude>
+    <longitude>-121.6108</longitude>
+    <elevation>826</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392302</id>
+    <displayName>DE SMET, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.3866</latitude>
+    <longitude>-97.5605</longitude>
+    <elevation>536.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142117</id>
+    <displayName>DE SOTO, KS US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>38.9708</latitude>
+    <longitude>-94.9775</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8044</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232220</id>
+    <displayName>DE SOTO, MO US</displayName>
+    <minDate>1901-03-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.1402</latitude>
+    <longitude>-90.5058</longitude>
+    <elevation>222.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202089</id>
+    <displayName>DE TOUR, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.98333</latitude>
+    <longitude>-83.91667</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9115</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARAR0002</id>
+    <displayName>DE WITT 0.2 N, AR US</displayName>
+    <minDate>2011-03-11</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.293</latitude>
+    <longitude>-91.338</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MICT0003</id>
+    <displayName>DE WITT 1.2 W, MI US</displayName>
+    <minDate>2008-06-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8326</latitude>
+    <longitude>-84.5982</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7996</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACN0001</id>
+    <displayName>DE WITT 1.4 WNW, IA US</displayName>
+    <minDate>2007-08-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8292</latitude>
+    <longitude>-90.5731</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1332</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0002</id>
+    <displayName>DE WITT 1.4 WSW, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0333</latitude>
+    <longitude>-76.1</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132236</id>
+    <displayName>DE WITT 4 S, IA US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.7663</latitude>
+    <longitude>-90.5404</longitude>
+    <elevation>188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132235</id>
+    <displayName>DE WITT, IA US</displayName>
+    <minDate>1954-09-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>41.8108</latitude>
+    <longitude>-90.5405</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NDEA</id>
+    <displayName>DEAD CAMEL MOUNTAIN NEVADA, NV US</displayName>
+    <minDate>1987-03-05</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.2636</latitude>
+    <longitude>-118.9433</longitude>
+    <elevation>1368.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9531</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDEA</id>
+    <displayName>DEAD HORSE COLORADO, CO US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.0786</latitude>
+    <longitude>-107.3786</longitude>
+    <elevation>2731</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8225</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00482410</id>
+    <displayName>DEAD HORSE CREEK, WY US</displayName>
+    <minDate>1962-04-05</minDate>
+    <maxDate>1992-10-31</maxDate>
+    <latitude>44.18333</latitude>
+    <longitude>-105.9</longitude>
+    <elevation>1353.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8768</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ODEA</id>
+    <displayName>DEAD INDIAN OREGON, OR US</displayName>
+    <minDate>1985-01-12</minDate>
+    <maxDate>2005-07-19</maxDate>
+    <latitude>42.2833</latitude>
+    <longitude>-122.3167</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9733</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IDEA</id>
+    <displayName>DEAD INDIAN RIDGE IDAHO, ID US</displayName>
+    <minDate>1990-06-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.3256</latitude>
+    <longitude>-117.1678</longitude>
+    <elevation>1088.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00027406</id>
+    <displayName>DEADHORSE AIRPORT, AK US</displayName>
+    <minDate>1999-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>70.1917</latitude>
+    <longitude>-148.4772</longitude>
+    <elevation>18.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010C09S</id>
+    <displayName>DEADMAN CREEK, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.8</latitude>
+    <longitude>-110.6833</longitude>
+    <elevation>1966</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9125</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0005J06S</id>
+    <displayName>DEADMAN HILL, CO US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.8</latitude>
+    <longitude>-105.7667</longitude>
+    <elevation>3115.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9102</coverage>
+  </station>
+</stationCollection>

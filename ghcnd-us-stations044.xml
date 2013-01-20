@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="44">
+  <station>
+    <id>GHCND:US1NCWT0034</id>
+    <displayName>BOONE 4.9 NNE, NC US</displayName>
+    <minDate>2011-08-15</minDate>
+    <maxDate>2012-05-22</maxDate>
+    <latitude>36.2774</latitude>
+    <longitude>-81.6465</longitude>
+    <elevation>986.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4362</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABN0001</id>
+    <displayName>BOONE 5.7 ESE, IA US</displayName>
+    <minDate>2007-07-27</minDate>
+    <maxDate>2009-04-29</maxDate>
+    <latitude>42.0224</latitude>
+    <longitude>-93.776</longitude>
+    <elevation>338</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050837</id>
+    <displayName>BOONE 6 SSW, CO US</displayName>
+    <minDate>2002-03-01</minDate>
+    <maxDate>2007-04-30</maxDate>
+    <latitude>38.1728</latitude>
+    <longitude>-104.3082</longitude>
+    <elevation>1400.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050839</id>
+    <displayName>BOONE 9 NNW, CO US</displayName>
+    <minDate>2002-03-01</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>38.3709</latitude>
+    <longitude>-104.3056</longitude>
+    <elevation>1460</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00400909</id>
+    <displayName>BOONE DAM, TN US</displayName>
+    <minDate>1950-12-08</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.43333</latitude>
+    <longitude>-82.43333</longitude>
+    <elevation>406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9695</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130807</id>
+    <displayName>BOONE, IA US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0416</latitude>
+    <longitude>-93.8905</longitude>
+    <elevation>320.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310977</id>
+    <displayName>BOONE, NC US</displayName>
+    <minDate>1929-01-01</minDate>
+    <maxDate>1980-05-31</maxDate>
+    <latitude>36.21667</latitude>
+    <longitude>-81.66667</longitude>
+    <elevation>987.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310982</id>
+    <displayName>BOONE, NC US</displayName>
+    <minDate>1980-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2114</latitude>
+    <longitude>-81.6442</longitude>
+    <elevation>1024.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFR0006</id>
+    <displayName>BOONES MILL 12.6 E, VA US</displayName>
+    <minDate>2008-09-21</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>37.1397</latitude>
+    <longitude>-79.7232</longitude>
+    <elevation>248.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFR0015</id>
+    <displayName>BOONES MILL 5.5 E, VA US</displayName>
+    <minDate>2011-04-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1259</latitude>
+    <longitude>-79.8522</longitude>
+    <elevation>339.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150858</id>
+    <displayName>BOONEVILLE 1 SE, KY US</displayName>
+    <minDate>2002-02-01</minDate>
+    <maxDate>2011-06-07</maxDate>
+    <latitude>37.46667</latitude>
+    <longitude>-83.66056</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150860</id>
+    <displayName>BOONEVILLE 12 SW, KY US</displayName>
+    <minDate>2002-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3577</latitude>
+    <longitude>-83.7705</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030828</id>
+    <displayName>BOONEVILLE 3 W, AR US</displayName>
+    <minDate>1915-04-01</minDate>
+    <maxDate>1949-04-29</maxDate>
+    <latitude>35.15</latitude>
+    <longitude>-93.96667</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9365</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABNV</id>
+    <displayName>BOONEVILLE ARKANSAS, AR US</displayName>
+    <minDate>1998-04-29</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>35.1428</latitude>
+    <longitude>-93.895</longitude>
+    <elevation>104.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9299</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030832</id>
+    <displayName>BOONEVILLE, AR US</displayName>
+    <minDate>1978-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.093</latitude>
+    <longitude>-93.9258</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030830</id>
+    <displayName>BOONEVILLE, AR US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1977-03-31</maxDate>
+    <latitude>35.093</latitude>
+    <longitude>-93.9258</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00220955</id>
+    <displayName>BOONEVILLE, MS US</displayName>
+    <minDate>1892-07-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.63444</latitude>
+    <longitude>-88.56222</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9376</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00180990</id>
+    <displayName>BOONSBORO 1 NE, MD US</displayName>
+    <minDate>1972-11-16</minDate>
+    <maxDate>1977-04-30</maxDate>
+    <latitude>39.51667</latitude>
+    <longitude>-77.65</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00180995</id>
+    <displayName>BOONSBORO 1, MD US</displayName>
+    <minDate>1899-03-01</minDate>
+    <maxDate>1904-03-31</maxDate>
+    <latitude>39.533333</latitude>
+    <longitude>-77.65</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00180986</id>
+    <displayName>BOONSBORO, MD US</displayName>
+    <minDate>1960-05-14</minDate>
+    <maxDate>1972-11-15</maxDate>
+    <latitude>39.51667</latitude>
+    <longitude>-77.65</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00400920</id>
+    <displayName>BOONSHILL, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.21667</latitude>
+    <longitude>-86.73333</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00280907</id>
+    <displayName>BOONTON 1 SE, NJ US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8922</latitude>
+    <longitude>-74.4033</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8642</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0011</id>
+    <displayName>BOONTON TWP 1.6 SSE, NJ US</displayName>
+    <minDate>2008-09-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9096</latitude>
+    <longitude>-74.4141</longitude>
+    <elevation>188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9394</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOD0004</id>
+    <displayName>BOONVILLE 0.2 NW, NY US</displayName>
+    <minDate>2004-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4833</latitude>
+    <longitude>-75.3333</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8145</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00120852</id>
+    <displayName>BOONVILLE 1 S, IN US</displayName>
+    <minDate>1897-10-10</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.0302</latitude>
+    <longitude>-87.2736</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230815</id>
+    <displayName>BOONVILLE 1 W, MO US</displayName>
+    <minDate>2008-11-03</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>38.9718</latitude>
+    <longitude>-92.757</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWK0012</id>
+    <displayName>BOONVILLE 1.4 N WBNL RADIO, IN US</displayName>
+    <minDate>2006-08-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.0649</latitude>
+    <longitude>-87.2739</longitude>
+    <elevation>142</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300780</id>
+    <displayName>BOONVILLE 2 N, NY US</displayName>
+    <minDate>1912-12-01</minDate>
+    <maxDate>1966-02-22</maxDate>
+    <latitude>43.51667</latitude>
+    <longitude>-75.36667</longitude>
+    <elevation>360</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMD0003</id>
+    <displayName>BOONVILLE 2.2 WSW, CA US</displayName>
+    <minDate>2009-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0062</latitude>
+    <longitude>-123.4084</longitude>
+    <elevation>323.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8611</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWK0005</id>
+    <displayName>BOONVILLE 2.4 N, IN US</displayName>
+    <minDate>2006-07-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0805</latitude>
+    <longitude>-87.2758</longitude>
+    <elevation>143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230820</id>
+    <displayName>BOONVILLE 3 SW, MO US</displayName>
+    <minDate>2005-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9461</latitude>
+    <longitude>-92.7716</longitude>
+    <elevation>239.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA053</id>
+    <displayName>BOONVILLE 3.7 SE, MO US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9341</latitude>
+    <longitude>-92.6907</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300785</id>
+    <displayName>BOONVILLE 4 SSW, NY US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4361</latitude>
+    <longitude>-75.3697</longitude>
+    <elevation>472.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230824</id>
+    <displayName>BOONVILLE 4 SW, MO US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.93917</latitude>
+    <longitude>-92.81028</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOD0001</id>
+    <displayName>BOONVILLE 8.0 E, NY US</displayName>
+    <minDate>2005-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4783</latitude>
+    <longitude>-75.1696</longitude>
+    <elevation>440.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4273</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBOO</id>
+    <displayName>BOONVILLE CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-01</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>38.9875</latitude>
+    <longitude>-123.3486</longitude>
+    <elevation>196.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040973</id>
+    <displayName>BOONVILLE HMS, CA US</displayName>
+    <minDate>1959-05-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>39.01667</latitude>
+    <longitude>-123.36667</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230812</id>
+    <displayName>BOONVILLE, MO US</displayName>
+    <minDate>1893-01-02</minDate>
+    <maxDate>1950-10-31</maxDate>
+    <latitude>38.96667</latitude>
+    <longitude>-92.75</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9706</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230817</id>
+    <displayName>BOONVILLE, MO US</displayName>
+    <minDate>1937-10-01</minDate>
+    <maxDate>2008-11-18</maxDate>
+    <latitude>38.9708</latitude>
+    <longitude>-92.7603</longitude>
+    <elevation>226.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MBOO</id>
+    <displayName>BOORMAN MONTANA, MT US</displayName>
+    <minDate>2002-06-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.1333</latitude>
+    <longitude>-114.7167</longitude>
+    <elevation>1207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7568</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABOO</id>
+    <displayName>BOOTH LAKE ALASKA, AK US</displayName>
+    <minDate>1995-07-24</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>57.2678</latitude>
+    <longitude>-154.565</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVTA0003</id>
+    <displayName>BOOTHSVILLE 1.4 SE, WV US</displayName>
+    <minDate>2010-02-06</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>39.3782</latitude>
+    <longitude>-80.1786</longitude>
+    <elevation>379.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012884</id>
+    <displayName>BOOTHVILLE ASOS, LA US</displayName>
+    <minDate>1965-02-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>29.333</latitude>
+    <longitude>-89.4075</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410947</id>
+    <displayName>BOOTLEG CORNER, TX US</displayName>
+    <minDate>1976-12-01</minDate>
+    <maxDate>1982-10-31</maxDate>
+    <latitude>34.83333</latitude>
+    <longitude>-102.81667</longitude>
+    <elevation>1253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410950</id>
+    <displayName>BOQUILLAS RANGER STATION, TX US</displayName>
+    <minDate>1910-06-15</minDate>
+    <maxDate>2006-12-01</maxDate>
+    <latitude>29.18528</latitude>
+    <longitude>-102.96222</longitude>
+    <elevation>566.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5584</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OBOR</id>
+    <displayName>BORAX LAKE OREGON, OR US</displayName>
+    <minDate>1990-07-09</minDate>
+    <maxDate>1997-11-20</maxDate>
+    <latitude>42.3278</latitude>
+    <longitude>-118.6</longitude>
+    <elevation>1243.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00670820</id>
+    <displayName>BORDEAUX MOUNTAIN, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>1984-07-31</maxDate>
+    <latitude>18.33333</latitude>
+    <longitude>-64.73333</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7093</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCK0017</id>
+    <displayName>BORDEN 0.3 SW, IN US</displayName>
+    <minDate>2008-03-18</minDate>
+    <maxDate>2010-08-13</maxDate>
+    <latitude>38.4659</latitude>
+    <longitude>-85.9482</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6382</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCK0016</id>
+    <displayName>BORDEN 3.1 S, IN US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2008-11-24</maxDate>
+    <latitude>38.4142</latitude>
+    <longitude>-85.9299</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190759</id>
+    <displayName>BORDEN BROOK RSVR, MA US</displayName>
+    <minDate>1969-05-01</minDate>
+    <maxDate>1995-05-31</maxDate>
+    <latitude>42.13333</latitude>
+    <longitude>-72.93333</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9585</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480915</id>
+    <displayName>BORDER 3 N, WY US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>1993-09-30</maxDate>
+    <latitude>42.21278</latitude>
+    <longitude>-111.04556</longitude>
+    <elevation>1849.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003024</id>
+    <displayName>BORGER HUTCHINSON CO AIRPORT, TX US</displayName>
+    <minDate>1997-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.695</latitude>
+    <longitude>-101.395</longitude>
+    <elevation>930.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410955</id>
+    <displayName>BORGER, TX US</displayName>
+    <minDate>1944-04-26</minDate>
+    <maxDate>1961-10-31</maxDate>
+    <latitude>35.65</latitude>
+    <longitude>-101.4</longitude>
+    <elevation>949.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410958</id>
+    <displayName>BORGER, TX US</displayName>
+    <minDate>1949-02-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.63639</latitude>
+    <longitude>-101.45417</longitude>
+    <elevation>934.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0011</id>
+    <displayName>BORING 1 E, OR US</displayName>
+    <minDate>2008-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4231</latitude>
+    <longitude>-122.3725</longitude>
+    <elevation>162.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQW00011603</id>
+    <displayName>BORINQUEN AIRPORT, PR US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.4977</latitude>
+    <longitude>-67.1294</longitude>
+    <elevation>66.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBOR</id>
+    <displayName>BORON CALIFORNIA, CA US</displayName>
+    <minDate>1991-09-23</minDate>
+    <maxDate>1996-12-10</maxDate>
+    <latitude>35.0767</latitude>
+    <longitude>-117.585</longitude>
+    <elevation>881.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040983</id>
+    <displayName>BORREGO DESERT PARK, CA US</displayName>
+    <minDate>1942-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.2313</latitude>
+    <longitude>-116.4144</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9288</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0014</id>
+    <displayName>BORREGO SPRINGS 2.4 WSW, CA US</displayName>
+    <minDate>2008-12-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2225</latitude>
+    <longitude>-116.3904</longitude>
+    <elevation>236.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040986</id>
+    <displayName>BORREGO SPRINGS 3 NN, CA US</displayName>
+    <minDate>1944-12-01</minDate>
+    <maxDate>1967-08-31</maxDate>
+    <latitude>33.28333</latitude>
+    <longitude>-116.35</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHMR0033</id>
+    <displayName>BOSCAWEN 2.2 SE, NH US</displayName>
+    <minDate>2010-11-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2862</latitude>
+    <longitude>-71.6043</longitude>
+    <elevation>110.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094994</id>
+    <displayName>BOSCOBEL AIRPORT, WI US</displayName>
+    <minDate>1999-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.15611</latitude>
+    <longitude>-90.6775</longitude>
+    <elevation>204.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470950</id>
+    <displayName>BOSCOBEL, WI US</displayName>
+    <minDate>1895-10-12</minDate>
+    <maxDate>1897-02-28</maxDate>
+    <latitude>43.1</latitude>
+    <longitude>-90.733333</longitude>
+    <elevation>216.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020923</id>
+    <displayName>BOSLEY RANCH, AZ US</displayName>
+    <minDate>1941-07-01</minDate>
+    <maxDate>1966-05-31</maxDate>
+    <latitude>32.56667</latitude>
+    <longitude>-110.2</longitude>
+    <elevation>1464</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSC0021</id>
+    <displayName>BOSQUE 3.2 SSW, NM US</displayName>
+    <minDate>2010-03-13</minDate>
+    <maxDate>2011-08-04</maxDate>
+    <latitude>34.5142</latitude>
+    <longitude>-106.8008</longitude>
+    <elevation>1453.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9569</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291138</id>
+    <displayName>BOSQUE DEL APACHE, NM US</displayName>
+    <minDate>1894-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.8044</latitude>
+    <longitude>-106.8908</longitude>
+    <elevation>1375.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9224</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMVL0012</id>
+    <displayName>BOSQUE FARMS 0.6 NNW, NM US</displayName>
+    <minDate>2005-04-09</minDate>
+    <maxDate>2009-10-28</maxDate>
+    <latitude>34.8625</latitude>
+    <longitude>-106.7036</longitude>
+    <elevation>1483.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMVL0021</id>
+    <displayName>BOSQUE FARMS 1.0 N, NM US</displayName>
+    <minDate>2006-08-26</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>34.8695</latitude>
+    <longitude>-106.7015</longitude>
+    <elevation>1485</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00161200</id>
+    <displayName>BOSSIER CITY 2, LA US</displayName>
+    <minDate>1976-08-01</minDate>
+    <maxDate>2011-04-05</maxDate>
+    <latitude>32.533</latitude>
+    <longitude>-93.71</longitude>
+    <elevation>49.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3255</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LABS0001</id>
+    <displayName>BOSSIER CITY 6.7 NNW, LA US</displayName>
+    <minDate>2008-02-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.6061</latitude>
+    <longitude>-93.7129</longitude>
+    <elevation>52.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9032</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LABS0003</id>
+    <displayName>BOSSIER CITY 7.9 NNW, LA US</displayName>
+    <minDate>2009-03-29</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>32.6221</latitude>
+    <longitude>-93.7199</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0014G01S</id>
+    <displayName>BOSTETTER RANGER STATION, ID US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.1667</latitude>
+    <longitude>-114.1833</longitude>
+    <elevation>2286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101090</id>
+    <displayName>BOSTETTER, ID US</displayName>
+    <minDate>1916-06-01</minDate>
+    <maxDate>1936-09-30</maxDate>
+    <latitude>42.166667</latitude>
+    <longitude>-114.166667</longitude>
+    <elevation>2316.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3503</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRT0001</id>
+    <displayName>BOSTIC 1.7 SSE, NC US</displayName>
+    <minDate>2008-02-08</minDate>
+    <maxDate>2011-06-13</maxDate>
+    <latitude>35.3407</latitude>
+    <longitude>-81.8193</longitude>
+    <elevation>291.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.527</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCRT0004</id>
+    <displayName>BOSTIC 1.9 ENE, NC US</displayName>
+    <minDate>2008-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3685</latitude>
+    <longitude>-81.8025</longitude>
+    <elevation>323.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.175</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MASF0001</id>
+    <displayName>BOSTON 0.5 WSW, MA US</displayName>
+    <minDate>2009-02-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.357</latitude>
+    <longitude>-71.0671</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4113</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0065</id>
+    <displayName>BOSTON 1.5 NE, NY US</displayName>
+    <minDate>2009-10-16</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>42.6547</latitude>
+    <longitude>-78.7201</longitude>
+    <elevation>475.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2153</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATH0005</id>
+    <displayName>BOSTON 3.4 NNW, GA US</displayName>
+    <minDate>2009-01-29</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.8403</latitude>
+    <longitude>-83.8033</longitude>
+    <elevation>59.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440860</id>
+    <displayName>BOSTON 4 SE, VA US</displayName>
+    <minDate>1998-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5459</latitude>
+    <longitude>-78.0981</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150875</id>
+    <displayName>BOSTON 6 SW, KY US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>37.7436</latitude>
+    <longitude>-85.7483</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094701</id>
+    <displayName>BOSTON CITY WEATHER SERVICE OFFICE, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1935-12-31</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-71.06667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014739</id>
+    <displayName>BOSTON LOGAN INTERNATIONAL AIRPORT, MA US</displayName>
+    <minDate>1936-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.3606</latitude>
+    <longitude>-71.0106</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150874</id>
+    <displayName>BOSTON NUMBER 2, KY US</displayName>
+    <minDate>1948-12-01</minDate>
+    <maxDate>1951-11-14</maxDate>
+    <latitude>37.76611</latitude>
+    <longitude>-85.70444</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190768</id>
+    <displayName>BOSTON, MA US</displayName>
+    <minDate>1891-01-01</minDate>
+    <maxDate>1912-04-30</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-71.066667</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.758</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00120858</id>
+    <displayName>BOSWELL 4 WNW, IN US</displayName>
+    <minDate>1989-04-01</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>40.535</latitude>
+    <longitude>-87.4531</longitude>
+    <elevation>235.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360820</id>
+    <displayName>BOSWELL 6 WNW, PA US</displayName>
+    <minDate>1942-12-12</minDate>
+    <maxDate>1960-02-29</maxDate>
+    <latitude>40.16667</latitude>
+    <longitude>-79.13333</longitude>
+    <elevation>783.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340980</id>
+    <displayName>BOSWELL, OK US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1999-08-31</maxDate>
+    <latitude>34.02111</latitude>
+    <longitude>-95.87222</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360821</id>
+    <displayName>BOSWELL, PA US</displayName>
+    <minDate>1960-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.1597</latitude>
+    <longitude>-79.0287</longitude>
+    <elevation>570.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8581</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0128</id>
+    <displayName>BOTHELL 2.5 SSW, WA US</displayName>
+    <minDate>2009-11-26</minDate>
+    <maxDate>2012-01-15</maxDate>
+    <latitude>47.7288</latitude>
+    <longitude>-122.2247</longitude>
+    <elevation>122.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0029</id>
+    <displayName>BOTHELL 4.1 NNE, WA US</displayName>
+    <minDate>2008-06-14</minDate>
+    <maxDate>2012-10-08</maxDate>
+    <latitude>47.8185</latitude>
+    <longitude>-122.1986</longitude>
+    <elevation>86.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7161</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0056</id>
+    <displayName>BOTHELL 4.1 NNW, WA US</displayName>
+    <minDate>2009-10-14</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>47.8205</latitude>
+    <longitude>-122.225</longitude>
+    <elevation>104.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1349</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0007</id>
+    <displayName>BOTHELL 4.4 N, WA US</displayName>
+    <minDate>2008-06-15</minDate>
+    <maxDate>2011-11-26</maxDate>
+    <latitude>47.8238</latitude>
+    <longitude>-122.2059</longitude>
+    <elevation>66.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8706</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0012</id>
+    <displayName>BOTHELL 4.9 NNW, WA US</displayName>
+    <minDate>2008-06-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.8302</latitude>
+    <longitude>-122.2154</longitude>
+    <elevation>89.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8513</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450826</id>
+    <displayName>BOTHELL, WA US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1959-05-31</maxDate>
+    <latitude>47.76667</latitude>
+    <longitude>-122.21667</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9373</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTBE0011</id>
+    <displayName>BOTHWELL 0.9 ENE, UT US</displayName>
+    <minDate>2011-06-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.725</latitude>
+    <longitude>-112.2534</longitude>
+    <elevation>1323.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8045</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTBE0010</id>
+    <displayName>BOTHWELL 2.6 WSW, UT US</displayName>
+    <minDate>2011-06-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.7095</latitude>
+    <longitude>-112.3179</longitude>
+    <elevation>1460</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8024</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420841</id>
+    <displayName>BOTHWELL, UT US</displayName>
+    <minDate>1946-07-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>41.71667</latitude>
+    <longitude>-112.25</longitude>
+    <elevation>1321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030842</id>
+    <displayName>BOTKINBURG 3 NE, AR US</displayName>
+    <minDate>1939-06-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>35.72</latitude>
+    <longitude>-92.4708</longitude>
+    <elevation>394.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBT0001</id>
+    <displayName>BOTTINEAU 4.1 NNE, ND US</displayName>
+    <minDate>2008-10-24</minDate>
+    <maxDate>2012-12-08</maxDate>
+    <latitude>48.8791</latitude>
+    <longitude>-100.403</longitude>
+    <elevation>636.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320946</id>
+    <displayName>BOTTINEAU STATE PARK, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>48.93333</latitude>
+    <longitude>-100.36667</longitude>
+    <elevation>659</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8342</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="247">
+  <station>
+    <id>GHCND:US1ALCM0008</id>
+    <displayName>LOGAN 2.8 NNE, AL US</displayName>
+    <minDate>2008-03-14</minDate>
+    <maxDate>2009-12-09</maxDate>
+    <latitude>34.1778</latitude>
+    <longitude>-86.9958</longitude>
+    <elevation>288</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3632</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425194</id>
+    <displayName>LOGAN 5 SW EXPERIMENTAL FARM, UT US</displayName>
+    <minDate>1969-05-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>41.6661</latitude>
+    <longitude>-111.8913</longitude>
+    <elevation>1367.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAHR0005</id>
+    <displayName>LOGAN 6.5 NW, IA US</displayName>
+    <minDate>2008-06-25</minDate>
+    <maxDate>2009-10-25</maxDate>
+    <latitude>41.7138</latitude>
+    <longitude>-95.876</longitude>
+    <elevation>404.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2418</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094128</id>
+    <displayName>LOGAN CACHE AIRPORT, UT US</displayName>
+    <minDate>1998-10-04</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.78722</latitude>
+    <longitude>-111.85333</longitude>
+    <elevation>1357.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245123</id>
+    <displayName>LOGAN LANDFILL, MT US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.8814</latitude>
+    <longitude>-111.4164</longitude>
+    <elevation>1293.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014866</id>
+    <displayName>LOGAN MARTIN DAM, AL US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.42583</latitude>
+    <longitude>-86.33861</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134898</id>
+    <displayName>LOGAN NUMBER 2, IA US</displayName>
+    <minDate>1951-01-02</minDate>
+    <maxDate>1981-05-22</maxDate>
+    <latitude>41.6425</latitude>
+    <longitude>-95.7825</longitude>
+    <elevation>313.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425182</id>
+    <displayName>LOGAN RADIO KVNU, UT US</displayName>
+    <minDate>1956-11-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7353</latitude>
+    <longitude>-111.8561</longitude>
+    <elevation>1362.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425183</id>
+    <displayName>LOGAN SUGAR FACTORY, UT US</displayName>
+    <minDate>1924-08-01</minDate>
+    <maxDate>1941-04-30</maxDate>
+    <latitude>41.7</latitude>
+    <longitude>-111.86667</longitude>
+    <elevation>1366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425190</id>
+    <displayName>LOGAN USU EXPERIMENTAL STATION, UT US</displayName>
+    <minDate>1950-09-01</minDate>
+    <maxDate>1978-08-31</maxDate>
+    <latitude>41.76667</latitude>
+    <longitude>-111.81667</longitude>
+    <elevation>1406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425186</id>
+    <displayName>LOGAN UT STATE UNIVERSITY, UT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>41.7456</latitude>
+    <longitude>-111.8033</longitude>
+    <elevation>1460</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134894</id>
+    <displayName>LOGAN, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.638</latitude>
+    <longitude>-95.7883</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144775</id>
+    <displayName>LOGAN, KS US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.6658</latitude>
+    <longitude>-99.5772</longitude>
+    <elevation>591.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295056</id>
+    <displayName>LOGAN, NM US</displayName>
+    <minDate>1906-01-17</minDate>
+    <maxDate>1960-01-31</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-103.41667</longitude>
+    <elevation>1168</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334672</id>
+    <displayName>LOGAN, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5332</latitude>
+    <longitude>-82.3944</longitude>
+    <elevation>218.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469416</id>
+    <displayName>LOGAN, WV US</displayName>
+    <minDate>1977-01-01</minDate>
+    <maxDate>1978-05-31</maxDate>
+    <latitude>37.8716</latitude>
+    <longitude>-81.9947</longitude>
+    <elevation>192.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00465353</id>
+    <displayName>LOGAN, WV US</displayName>
+    <minDate>1901-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8716</latitude>
+    <longitude>-81.9947</longitude>
+    <elevation>192.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8677</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264651</id>
+    <displayName>LOGANDALE, NV US</displayName>
+    <minDate>1968-02-01</minDate>
+    <maxDate>1992-01-31</maxDate>
+    <latitude>36.61667</latitude>
+    <longitude>-114.48333</longitude>
+    <elevation>429.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264646</id>
+    <displayName>LOGANDALE, NV US</displayName>
+    <minDate>1906-04-18</minDate>
+    <maxDate>1938-02-28</maxDate>
+    <latitude>36.6</latitude>
+    <longitude>-114.48333</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCS0004</id>
+    <displayName>LOGANSPORT 0.8 E, IN US</displayName>
+    <minDate>2007-11-21</minDate>
+    <maxDate>2011-05-27</maxDate>
+    <latitude>40.7532</latitude>
+    <longitude>-86.3431</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCS0009</id>
+    <displayName>LOGANSPORT 1.7 ENE, IN US</displayName>
+    <minDate>2010-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7603</latitude>
+    <longitude>-86.327</longitude>
+    <elevation>194.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCS0007</id>
+    <displayName>LOGANSPORT 2.2 NNW, IN US</displayName>
+    <minDate>2009-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7822</latitude>
+    <longitude>-86.374</longitude>
+    <elevation>221.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165527</id>
+    <displayName>LOGANSPORT 4 ENE, LA US</displayName>
+    <minDate>1968-07-01</minDate>
+    <maxDate>1993-12-31</maxDate>
+    <latitude>31.98333</latitude>
+    <longitude>-93.95</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125117</id>
+    <displayName>LOGANSPORT CICOTT ST, IN US</displayName>
+    <minDate>1891-07-03</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.7477</latitude>
+    <longitude>-86.3877</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9436</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125122</id>
+    <displayName>LOGANSPORT RADIO WSA, IN US</displayName>
+    <minDate>1955-12-01</minDate>
+    <maxDate>1990-02-28</maxDate>
+    <latitude>40.75</latitude>
+    <longitude>-86.35</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165522</id>
+    <displayName>LOGANSPORT, LA US</displayName>
+    <minDate>1903-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.9672</latitude>
+    <longitude>-94.0002</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAWL0008</id>
+    <displayName>LOGANVILLE 1.1 SW, GA US</displayName>
+    <minDate>2010-01-30</minDate>
+    <maxDate>2011-01-20</maxDate>
+    <latitude>33.8243</latitude>
+    <longitude>-83.9073</longitude>
+    <elevation>271.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7388</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAWL0007</id>
+    <displayName>LOGANVILLE 4.0 SSE, GA US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7917</latitude>
+    <longitude>-83.8719</longitude>
+    <elevation>278.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAWL0001</id>
+    <displayName>LOGANVILLE 4.5 SW, GA US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7981</latitude>
+    <longitude>-83.9583</longitude>
+    <elevation>285.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9391</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLOG</id>
+    <displayName>LOGCHUTE COLORADO, CO US</displayName>
+    <minDate>2001-08-30</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.3517</latitude>
+    <longitude>-107.915</longitude>
+    <elevation>2514.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4279</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154882</id>
+    <displayName>LOGLICK 1 S, KY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.85</latitude>
+    <longitude>-84.03333</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMCC006</id>
+    <displayName>LOHN 4.8 NNE, TX US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2010-09-07</maxDate>
+    <latitude>31.3905</latitude>
+    <longitude>-99.388</longitude>
+    <elevation>443.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245146</id>
+    <displayName>LOLO HOT SPRINGS 2 NE, MT US</displayName>
+    <minDate>1959-10-01</minDate>
+    <maxDate>1984-08-31</maxDate>
+    <latitude>46.7506</latitude>
+    <longitude>-114.5139</longitude>
+    <elevation>1236</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245144</id>
+    <displayName>LOLO HOT SPRINGS, MT US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>46.7248</latitude>
+    <longitude>-114.5341</longitude>
+    <elevation>1272.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0014C05S</id>
+    <displayName>LOLO PASS, ID US</displayName>
+    <minDate>1983-02-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.6333</latitude>
+    <longitude>-114.5833</longitude>
+    <elevation>1597.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245153</id>
+    <displayName>LOMA 1 WNW, MT US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>47.9441</latitude>
+    <longitude>-110.5308</longitude>
+    <elevation>786.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9884</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COME0044</id>
+    <displayName>LOMA 4.4 ENE, CO US</displayName>
+    <minDate>2004-04-22</minDate>
+    <maxDate>2005-04-25</maxDate>
+    <latitude>39.2267</latitude>
+    <longitude>-108.7397</longitude>
+    <elevation>1424.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415303</id>
+    <displayName>LOMA ALTA, TX US</displayName>
+    <minDate>1947-10-01</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>28.1569</latitude>
+    <longitude>-98.5141</longitude>
+    <elevation>132.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0040</id>
+    <displayName>LOMBARD 1.0 NNW, IL US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8884</latitude>
+    <longitude>-88.0229</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9008</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0096</id>
+    <displayName>LOMBARD 1.0 WSW, IL US</displayName>
+    <minDate>2010-11-23</minDate>
+    <maxDate>2012-05-04</maxDate>
+    <latitude>41.8678</latitude>
+    <longitude>-88.033</longitude>
+    <elevation>212.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2174</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0083</id>
+    <displayName>LOMBARD 1.2 NNW, IL US</displayName>
+    <minDate>2009-06-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8912</latitude>
+    <longitude>-88.0223</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115158</id>
+    <displayName>LOMBARD, IL US</displayName>
+    <minDate>1951-01-01</minDate>
+    <maxDate>1953-12-31</maxDate>
+    <latitude>41.88333</latitude>
+    <longitude>-88.03333</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8394</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415308</id>
+    <displayName>LOMETA, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>31.21667</latitude>
+    <longitude>-98.4</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7248</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045064</id>
+    <displayName>LOMPOC, CA US</displayName>
+    <minDate>1917-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.6538</latitude>
+    <longitude>-120.4513</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6763</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYLL0001</id>
+    <displayName>LONDON 1.7 NE, KY US</displayName>
+    <minDate>2008-03-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1462</latitude>
+    <longitude>-84.0625</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYLL0003</id>
+    <displayName>LONDON 11.0 SE, KY US</displayName>
+    <minDate>2012-02-01</minDate>
+    <maxDate>2012-09-26</maxDate>
+    <latitude>37.0244</latitude>
+    <longitude>-83.9312</longitude>
+    <elevation>374.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415312</id>
+    <displayName>LONDON 3 N, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>30.713</latitude>
+    <longitude>-99.568</longitude>
+    <elevation>548.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1331</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334683</id>
+    <displayName>LONDON 5 N, OH US</displayName>
+    <minDate>1951-01-01</minDate>
+    <maxDate>1953-12-31</maxDate>
+    <latitude>39.95</latitude>
+    <longitude>-83.43333</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9434</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003849</id>
+    <displayName>LONDON CORBIN AIRPORT, KY US</displayName>
+    <minDate>1954-11-08</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.08722</latitude>
+    <longitude>-84.07694</longitude>
+    <elevation>362.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00465365</id>
+    <displayName>LONDON LOCKS, WV US</displayName>
+    <minDate>1934-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1947</latitude>
+    <longitude>-81.3706</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115163</id>
+    <displayName>LONDON MILLS 1 SW, IL US</displayName>
+    <minDate>1999-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7072</latitude>
+    <longitude>-90.28</longitude>
+    <elevation>155.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0846</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILFL0009</id>
+    <displayName>LONDON MILLS 1.4 SE, IL US</displayName>
+    <minDate>2011-11-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.6995</latitude>
+    <longitude>-90.2454</longitude>
+    <elevation>194.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334681</id>
+    <displayName>LONDON STATE FISH HATCHERY, OH US</displayName>
+    <minDate>1918-04-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>39.8972</latitude>
+    <longitude>-83.5096</longitude>
+    <elevation>346.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9073</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154905</id>
+    <displayName>LONDON STATE POLICE, KY US</displayName>
+    <minDate>1981-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.13583</latitude>
+    <longitude>-84.10389</longitude>
+    <elevation>370.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9169</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334686</id>
+    <displayName>LONDON WWTP, OH US</displayName>
+    <minDate>1974-05-01</minDate>
+    <maxDate>1988-11-30</maxDate>
+    <latitude>39.88333</latitude>
+    <longitude>-83.43333</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9026</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154893</id>
+    <displayName>LONDON, KY US</displayName>
+    <minDate>1914-02-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1475</latitude>
+    <longitude>-84.0833</longitude>
+    <elevation>390.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1583</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355008</id>
+    <displayName>LONDON, OR US</displayName>
+    <minDate>1947-07-01</minDate>
+    <maxDate>1967-11-30</maxDate>
+    <latitude>43.65</latitude>
+    <longitude>-123.08333</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHRC0027</id>
+    <displayName>LONDONDERRY 1.0 NW, NH US</displayName>
+    <minDate>2010-03-08</minDate>
+    <maxDate>2012-12-11</maxDate>
+    <latitude>42.8666</latitude>
+    <longitude>-71.3749</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1634</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008M07S</id>
+    <displayName>LONE CONE, CO US</displayName>
+    <minDate>1980-07-20</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.9</latitude>
+    <longitude>-108.1833</longitude>
+    <elevation>2926.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9136</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCR0004</id>
+    <displayName>LONE GROVE 1.9 SSE, OK US</displayName>
+    <minDate>2008-12-22</minDate>
+    <maxDate>2009-11-20</maxDate>
+    <latitude>34.1667</latitude>
+    <longitude>-97.2556</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.485</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011D19S</id>
+    <displayName>LONE MOUNTAIN, MT US</displayName>
+    <minDate>1988-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.2833</latitude>
+    <longitude>-111.4333</longitude>
+    <elevation>2706.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8377</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045067</id>
+    <displayName>LONE PINE COTTNWD PH, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.443</latitude>
+    <longitude>-118.0433</longitude>
+    <elevation>1155.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021C26S</id>
+    <displayName>LONE PINE, WA US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.2667</latitude>
+    <longitude>-121.9667</longitude>
+    <elevation>1158.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8754</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014921</id>
+    <displayName>LONE ROCK TRI CO AIRPORT, WI US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.21194</latitude>
+    <longitude>-90.18139</longitude>
+    <elevation>218.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7223</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0113</id>
+    <displayName>LONE TREE 1.5 NNW, CO US</displayName>
+    <minDate>2006-05-30</minDate>
+    <maxDate>2007-05-31</maxDate>
+    <latitude>39.5559</latitude>
+    <longitude>-104.8982</longitude>
+    <elevation>1780.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3733</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0133</id>
+    <displayName>LONE TREE 2.0 SW, CO US</displayName>
+    <minDate>2007-03-29</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>39.5137</latitude>
+    <longitude>-104.9085</longitude>
+    <elevation>1865.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9377</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045074</id>
+    <displayName>LONE TREE CANYON, CA US</displayName>
+    <minDate>1943-10-09</minDate>
+    <maxDate>1969-06-30</maxDate>
+    <latitude>37.63333</latitude>
+    <longitude>-121.4</longitude>
+    <elevation>100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9107</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454738</id>
+    <displayName>LONE TREE, WA US</displayName>
+    <minDate>1909-02-01</minDate>
+    <maxDate>1921-01-31</maxDate>
+    <latitude>46.95</latitude>
+    <longitude>-124.133333</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245164</id>
+    <displayName>LONEPINE 1 WNW, MT US</displayName>
+    <minDate>1918-11-22</minDate>
+    <maxDate>1969-06-30</maxDate>
+    <latitude>47.71667</latitude>
+    <longitude>-114.65</longitude>
+    <elevation>878.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245169</id>
+    <displayName>LONEPINE, MT US</displayName>
+    <minDate>1950-09-26</minDate>
+    <maxDate>1951-06-03</maxDate>
+    <latitude>47.7</latitude>
+    <longitude>-114.63333</longitude>
+    <elevation>865.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355014</id>
+    <displayName>LONEROCK, OR US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1940-08-31</maxDate>
+    <latitude>45.083333</latitude>
+    <longitude>-119.866667</longitude>
+    <elevation>949.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245177</id>
+    <displayName>LONESOME LAKE, MT US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1981-01-31</maxDate>
+    <latitude>48.25</latitude>
+    <longitude>-110.2</longitude>
+    <elevation>841.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485703</id>
+    <displayName>LONETREE NUMBER 1, WY US</displayName>
+    <minDate>1993-11-01</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>41.0547</latitude>
+    <longitude>-110.1541</longitude>
+    <elevation>2301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9758</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045078</id>
+    <displayName>LONG BARN EXPERMENT, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.18333</latitude>
+    <longitude>-120.01667</longitude>
+    <elevation>1585.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9714</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0027</id>
+    <displayName>LONG BEACH 0.7 S, MS US</displayName>
+    <minDate>2011-07-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3515</latitude>
+    <longitude>-89.1675</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8622</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0020</id>
+    <displayName>LONG BEACH 0.7 WSW, IN US</displayName>
+    <minDate>2007-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7411</latitude>
+    <longitude>-86.8634</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9006</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0012</id>
+    <displayName>LONG BEACH 0.8 SSE, MS US</displayName>
+    <minDate>2009-02-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3517</latitude>
+    <longitude>-89.1599</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8592</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHR0025</id>
+    <displayName>LONG BEACH 1.3 SE, MS US</displayName>
+    <minDate>2011-01-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3476</latitude>
+    <longitude>-89.1534</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.527</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBR0007</id>
+    <displayName>LONG BEACH 2.9 NE, NC US</displayName>
+    <minDate>2008-05-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9451</latitude>
+    <longitude>-78.1116</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454752</id>
+    <displayName>LONG BEACH 3 NNE, WA US</displayName>
+    <minDate>1922-06-01</minDate>
+    <maxDate>1967-07-31</maxDate>
+    <latitude>46.38333</latitude>
+    <longitude>-124.03333</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3146</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045082</id>
+    <displayName>LONG BEACH AQUARIUM, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1969-11-30</maxDate>
+    <latitude>33.76111</latitude>
+    <longitude>-118.19694</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045080</id>
+    <displayName>LONG BEACH AQUARIUM, CA US</displayName>
+    <minDate>1970-03-01</minDate>
+    <maxDate>1973-04-30</maxDate>
+    <latitude>33.76111</latitude>
+    <longitude>-118.19694</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023129</id>
+    <displayName>LONG BEACH DAUGHERTY FIELD, CA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.8116</latitude>
+    <longitude>-118.1463</longitude>
+    <elevation>9.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454748</id>
+    <displayName>LONG BEACH EXPERIMENTAL STATION, WA US</displayName>
+    <minDate>1967-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.3675</latitude>
+    <longitude>-124.0377</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0048</id>
+    <displayName>LONG BRANCH 0.5 W, NJ US</displayName>
+    <minDate>2011-08-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.297</latitude>
+    <longitude>-74.0015</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9386</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00284987</id>
+    <displayName>LONG BRANCH OAKHURST, NJ US</displayName>
+    <minDate>1907-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.2797</latitude>
+    <longitude>-74.0047</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235050</id>
+    <displayName>LONG BRANCH RESERVOR, MO US</displayName>
+    <minDate>1989-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7505</latitude>
+    <longitude>-92.5065</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295073</id>
+    <displayName>LONG CANYON, CO US</displayName>
+    <minDate>1941-02-22</minDate>
+    <maxDate>1959-08-31</maxDate>
+    <latitude>37</latitude>
+    <longitude>-103.65</longitude>
+    <elevation>1623.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9583</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355020</id>
+    <displayName>LONG CREEK, OR US</displayName>
+    <minDate>1908-12-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7135</latitude>
+    <longitude>-119.1018</longitude>
+    <elevation>1140</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5468</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00385278</id>
+    <displayName>LONG CREEK, SC US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7975</latitude>
+    <longitude>-83.2678</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8191</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDL0023</id>
+    <displayName>LONG EDDY 6.5 NNE, NY US</displayName>
+    <minDate>2012-04-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.9351</latitude>
+    <longitude>-75.0784</longitude>
+    <elevation>532.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8376</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSV0006</id>
+    <displayName>LONG EDDY, NY US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>41.85</latitude>
+    <longitude>-75.1333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7678</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171870</id>
+    <displayName>LONG FALLS DAM, ME US</displayName>
+    <minDate>1951-07-01</minDate>
+    <maxDate>1953-01-31</maxDate>
+    <latitude>45.22194</latitude>
+    <longitude>-70.19833</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174781</id>
+    <displayName>LONG FALLS DAM, ME US</displayName>
+    <minDate>1953-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.22194</latitude>
+    <longitude>-70.19833</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013M02S</id>
+    <displayName>LONG FLAT, UT US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.5167</latitude>
+    <longitude>-113.4</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDBL0009</id>
+    <displayName>LONG GREEN 0.6 SW, MD US</displayName>
+    <minDate>2006-04-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4692</latitude>
+    <longitude>-76.531</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLK0002</id>
+    <displayName>LONG GROVE 1.1 NNE, IL US</displayName>
+    <minDate>2006-12-17</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>42.209</latitude>
+    <longitude>-87.9919</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105358</id>
+    <displayName>LONG GULCH, ID US</displayName>
+    <minDate>1909-05-01</minDate>
+    <maxDate>1925-06-29</maxDate>
+    <latitude>43.55</latitude>
+    <longitude>-115.65</longitude>
+    <elevation>1310.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0002</id>
+    <displayName>LONG HILL TWP 1.2 SSE, NJ US</displayName>
+    <minDate>2008-02-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.667</latitude>
+    <longitude>-74.4827</longitude>
+    <elevation>66.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0019</id>
+    <displayName>LONG HILL TWP 1.8 WSW, NJ US</displayName>
+    <minDate>2009-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6713</latitude>
+    <longitude>-74.5175</longitude>
+    <elevation>86</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9218</coverage>
+  </station>
+</stationCollection>

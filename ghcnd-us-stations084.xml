@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="84">
+  <station>
+    <id>GHCND:USW00054792</id>
+    <displayName>CLEARFIELD LAWRENCE AIRPORT, PA US</displayName>
+    <minDate>2000-01-25</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.04667</latitude>
+    <longitude>-78.41167</longitude>
+    <elevation>462.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361519</id>
+    <displayName>CLEARFIELD, PA US</displayName>
+    <minDate>1904-12-01</minDate>
+    <maxDate>2001-08-31</maxDate>
+    <latitude>41.01667</latitude>
+    <longitude>-78.45</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041806</id>
+    <displayName>CLEARLAKE 4 SE, CA US</displayName>
+    <minDate>1954-10-26</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.9238</latitude>
+    <longitude>-122.5672</longitude>
+    <elevation>411.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9207</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041807</id>
+    <displayName>CLEARLAKE PARK, CA US</displayName>
+    <minDate>1911-07-01</minDate>
+    <maxDate>1954-10-25</maxDate>
+    <latitude>38.98333</latitude>
+    <longitude>-122.71667</longitude>
+    <elevation>406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYJN0011</id>
+    <displayName>CLEARMONT 14.2 SE, WY US</displayName>
+    <minDate>2005-07-26</minDate>
+    <maxDate>2011-10-17</maxDate>
+    <latitude>44.4956</latitude>
+    <longitude>-106.1763</longitude>
+    <elevation>1158.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSH0008</id>
+    <displayName>CLEARMONT 4.2 N CLOSED, WY US</displayName>
+    <minDate>2005-07-02</minDate>
+    <maxDate>2005-11-18</maxDate>
+    <latitude>44.6996</latitude>
+    <longitude>-106.391</longitude>
+    <elevation>1225</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7286</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481816</id>
+    <displayName>CLEARMONT 5 SW, WY US</displayName>
+    <minDate>1881-11-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.578</latitude>
+    <longitude>-106.4472</longitude>
+    <elevation>1217.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4755</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSH0010</id>
+    <displayName>CLEARMONT 5.1 NNE, WY US</displayName>
+    <minDate>2005-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7029</latitude>
+    <longitude>-106.3261</longitude>
+    <elevation>1161.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSH0011</id>
+    <displayName>CLEARMONT 8.9 WSW CLOSED, WY US</displayName>
+    <minDate>2006-06-28</minDate>
+    <maxDate>2007-10-22</maxDate>
+    <latitude>44.5691</latitude>
+    <longitude>-106.532</longitude>
+    <elevation>1246</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASN0016</id>
+    <displayName>CLEARVIEW 0.8 SW, WA US</displayName>
+    <minDate>2008-06-10</minDate>
+    <maxDate>2011-01-08</maxDate>
+    <latitude>47.826</latitude>
+    <longitude>-122.1386</longitude>
+    <elevation>140.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9639</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0087</id>
+    <displayName>CLEARWATER 0.4 WNW, KS US</displayName>
+    <minDate>2012-06-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.5075</latitude>
+    <longitude>-97.5074</longitude>
+    <elevation>388.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6381</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0016</id>
+    <displayName>CLEARWATER 2.2 S, FL US</displayName>
+    <minDate>2007-10-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.948</latitude>
+    <longitude>-82.7605</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0085</id>
+    <displayName>CLEARWATER 4.1 N, KS US</displayName>
+    <minDate>2012-06-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.564</latitude>
+    <longitude>-97.515</longitude>
+    <elevation>422.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9444</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0024</id>
+    <displayName>CLEARWATER 6.8 NNE, KS US</displayName>
+    <minDate>2008-05-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.5923</latitude>
+    <longitude>-97.4439</longitude>
+    <elevation>400.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081635</id>
+    <displayName>CLEARWATER BEACH, FL US</displayName>
+    <minDate>1954-01-01</minDate>
+    <maxDate>1959-09-30</maxDate>
+    <latitude>27.98333</latitude>
+    <longitude>-82.83333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231674</id>
+    <displayName>CLEARWATER DAM, MO US</displayName>
+    <minDate>1946-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1319</latitude>
+    <longitude>-90.7755</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9638</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502019</id>
+    <displayName>CLEARWATER, AK US</displayName>
+    <minDate>1964-10-01</minDate>
+    <maxDate>1994-08-31</maxDate>
+    <latitude>64.05</latitude>
+    <longitude>-145.51667</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081632</id>
+    <displayName>CLEARWATER, FL US</displayName>
+    <minDate>1931-09-01</minDate>
+    <maxDate>1977-03-31</maxDate>
+    <latitude>27.96667</latitude>
+    <longitude>-82.76667</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8677</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211585</id>
+    <displayName>CLEARWATER, MN US</displayName>
+    <minDate>1893-09-01</minDate>
+    <maxDate>1895-11-30</maxDate>
+    <latitude>45.41667</latitude>
+    <longitude>-94.08333</longitude>
+    <elevation>292.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00251696</id>
+    <displayName>CLEARWATER, NE US</displayName>
+    <minDate>1992-12-01</minDate>
+    <maxDate>2005-02-21</maxDate>
+    <latitude>42.1844</latitude>
+    <longitude>-98.1911</longitude>
+    <elevation>547.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451496</id>
+    <displayName>CLEARWATER, WA US</displayName>
+    <minDate>1895-06-05</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.5711</latitude>
+    <longitude>-124.2922</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7607</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341873</id>
+    <displayName>CLEBIT 2 ESE, OK US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>1982-12-31</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-94.98333</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXJN0003</id>
+    <displayName>CLEBURNE 1.5 S, TX US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3277</latitude>
+    <longitude>-97.4062</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9167</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411804</id>
+    <displayName>CLEBURNE 7 SE, TX US</displayName>
+    <minDate>1995-03-01</minDate>
+    <maxDate>2009-04-29</maxDate>
+    <latitude>32.33</latitude>
+    <longitude>-97.3122</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411800</id>
+    <displayName>CLEBURNE, TX US</displayName>
+    <minDate>1907-01-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>32.3138</latitude>
+    <longitude>-97.4061</longitude>
+    <elevation>238.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9572</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLO0008</id>
+    <displayName>CLEGG 0.1 S, TX US</displayName>
+    <minDate>2008-04-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.1195</latitude>
+    <longitude>-98.2617</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1597</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACK0003</id>
+    <displayName>CLEGHORN 2.5 NNE, IA US</displayName>
+    <minDate>2012-03-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8475</latitude>
+    <longitude>-95.7024</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9604</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACK0001</id>
+    <displayName>CLEGHORN 4.4 N, IA US</displayName>
+    <minDate>2007-09-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8747</latitude>
+    <longitude>-95.7182</longitude>
+    <elevation>429.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6617</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCFR0002</id>
+    <displayName>CLEMMONS 2.4 SSE, NC US</displayName>
+    <minDate>2007-09-14</minDate>
+    <maxDate>2009-08-31</maxDate>
+    <latitude>35.9897</latitude>
+    <longitude>-80.3677</longitude>
+    <elevation>246</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00311845</id>
+    <displayName>CLEMMONS, NC US</displayName>
+    <minDate>1938-03-01</minDate>
+    <maxDate>1939-10-31</maxDate>
+    <latitude>36.083333</latitude>
+    <longitude>-80.383333</longitude>
+    <elevation>255.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241810</id>
+    <displayName>CLEMONS, MT US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>1912-12-31</maxDate>
+    <latitude>47.45</latitude>
+    <longitude>-112.383333</longitude>
+    <elevation>1424</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0013</id>
+    <displayName>CLEMSON 1.6 ESE, SC US</displayName>
+    <minDate>2012-04-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6751</latitude>
+    <longitude>-82.7877</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.77</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381775</id>
+    <displayName>CLEMSON COLLEGE DARY, SC US</displayName>
+    <minDate>1948-08-11</minDate>
+    <maxDate>1949-05-31</maxDate>
+    <latitude>34.65</latitude>
+    <longitude>-82.81667</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053850</id>
+    <displayName>CLEMSON OCONEE CO AIRPORT, SC US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.67194</latitude>
+    <longitude>-82.88639</longitude>
+    <elevation>271.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8786</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381770</id>
+    <displayName>CLEMSON UNIVERSITY, SC US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.6603</latitude>
+    <longitude>-82.8236</longitude>
+    <elevation>251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461723</id>
+    <displayName>CLENDENIN, WV US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>2007-07-31</maxDate>
+    <latitude>38.49333</latitude>
+    <longitude>-81.34833</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9342</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331642</id>
+    <displayName>CLENDENING LAKE, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1987-07-31</maxDate>
+    <latitude>40.26667</latitude>
+    <longitude>-81.28333</longitude>
+    <elevation>281.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341882</id>
+    <displayName>CLEO, OK US</displayName>
+    <minDate>1902-08-01</minDate>
+    <maxDate>1905-09-30</maxDate>
+    <latitude>36.416667</latitude>
+    <longitude>-98.45</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7373</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLK0010</id>
+    <displayName>CLERMONT 0.4 SW, FL US</displayName>
+    <minDate>2009-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.5472</latitude>
+    <longitude>-81.7628</longitude>
+    <elevation>45.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361526</id>
+    <displayName>CLERMONT 1 NW, PA US</displayName>
+    <minDate>2000-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.6961</latitude>
+    <longitude>-78.4878</longitude>
+    <elevation>634</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHL0003</id>
+    <displayName>CLERMONT 1.0 SSE, GA US</displayName>
+    <minDate>2008-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4635</latitude>
+    <longitude>-83.7666</longitude>
+    <elevation>424.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9493</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0008</id>
+    <displayName>CLERMONT 1.6 ESE, IN US</displayName>
+    <minDate>2006-02-27</minDate>
+    <maxDate>2006-10-30</maxDate>
+    <latitude>39.8101</latitude>
+    <longitude>-86.2926</longitude>
+    <elevation>226.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLK0014</id>
+    <displayName>CLERMONT 3.6 E, FL US</displayName>
+    <minDate>2011-01-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.5526</latitude>
+    <longitude>-81.6991</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8336</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0001</id>
+    <displayName>CLERMONT 3.9 S, IN US</displayName>
+    <minDate>2005-12-09</minDate>
+    <maxDate>2008-10-08</maxDate>
+    <latitude>39.761</latitude>
+    <longitude>-86.325</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091998</id>
+    <displayName>CLERMONT 4 WSW, GA US</displayName>
+    <minDate>1940-06-18</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.4503</latitude>
+    <longitude>-83.855</longitude>
+    <elevation>390.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2453</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0006</id>
+    <displayName>CLERMONT 4.0 S, IN US</displayName>
+    <minDate>2006-02-22</minDate>
+    <maxDate>2006-07-19</maxDate>
+    <latitude>39.7592</latitude>
+    <longitude>-86.3228</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.723</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361534</id>
+    <displayName>CLERMONT 8 SW, PA US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>1999-06-30</maxDate>
+    <latitude>41.73333</latitude>
+    <longitude>-78.53333</longitude>
+    <elevation>493.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081641</id>
+    <displayName>CLERMONT, FL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.4558</latitude>
+    <longitude>-81.7234</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131610</id>
+    <displayName>CLERMONT, IA US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>42.9975</latitude>
+    <longitude>-91.6583</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00151611</id>
+    <displayName>CLERMONT, KY US</displayName>
+    <minDate>1936-09-01</minDate>
+    <maxDate>1970-02-28</maxDate>
+    <latitude>37.91667</latitude>
+    <longitude>-85.66667</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8136</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154784</id>
+    <displayName>CLERMONT, KY US</displayName>
+    <minDate>1951-10-25</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>37.91667</latitude>
+    <longitude>-85.66667</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361529</id>
+    <displayName>CLERMONT, PA US</displayName>
+    <minDate>1951-10-01</minDate>
+    <maxDate>1960-12-31</maxDate>
+    <latitude>41.68333</latitude>
+    <longitude>-78.5</longitude>
+    <elevation>641</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLR0001</id>
+    <displayName>CLEVELAND 0.9 SW, TX US</displayName>
+    <minDate>2009-01-12</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.3336</latitude>
+    <longitude>-95.0889</longitude>
+    <elevation>48.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341891</id>
+    <displayName>CLEVELAND 1, OK US</displayName>
+    <minDate>1913-05-01</minDate>
+    <maxDate>1952-07-31</maxDate>
+    <latitude>36.31667</latitude>
+    <longitude>-96.46667</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0012</id>
+    <displayName>CLEVELAND 2.2 NNW, TN US</displayName>
+    <minDate>2011-04-05</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>35.2088</latitude>
+    <longitude>-84.8779</longitude>
+    <elevation>309.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7061</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0005</id>
+    <displayName>CLEVELAND 2.3 WNW, TN US</displayName>
+    <minDate>2007-09-12</minDate>
+    <maxDate>2011-02-10</maxDate>
+    <latitude>35.1934</latitude>
+    <longitude>-84.9034</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221743</id>
+    <displayName>CLEVELAND 3 N, MS US</displayName>
+    <minDate>1989-06-01</minDate>
+    <maxDate>2011-02-10</maxDate>
+    <latitude>33.79417</latitude>
+    <longitude>-90.71278</longitude>
+    <elevation>42.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381804</id>
+    <displayName>CLEVELAND 3 S, SC US</displayName>
+    <minDate>1943-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0269</latitude>
+    <longitude>-82.5011</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0004</id>
+    <displayName>CLEVELAND 3.0 ESE, TN US</displayName>
+    <minDate>2007-05-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1579</latitude>
+    <longitude>-84.8204</longitude>
+    <elevation>298.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9648</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0006</id>
+    <displayName>CLEVELAND 3.6 W, TN US</displayName>
+    <minDate>2008-03-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1859</latitude>
+    <longitude>-84.9311</longitude>
+    <elevation>260.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8511</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAWH0003</id>
+    <displayName>CLEVELAND 3.9 WNW, GA US</displayName>
+    <minDate>2008-09-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.612</latitude>
+    <longitude>-83.826</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341902</id>
+    <displayName>CLEVELAND 4 WSW, OK US</displayName>
+    <minDate>1984-05-01</minDate>
+    <maxDate>2001-05-31</maxDate>
+    <latitude>36.29028</latitude>
+    <longitude>-96.53694</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9583</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0008</id>
+    <displayName>CLEVELAND 4.1 NNE, TN US</displayName>
+    <minDate>2008-04-14</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>35.2336</latitude>
+    <longitude>-84.8438</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5134</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0001</id>
+    <displayName>CLEVELAND 4.2 NNE, TN US</displayName>
+    <minDate>2007-04-27</minDate>
+    <maxDate>2009-04-18</maxDate>
+    <latitude>35.2366</latitude>
+    <longitude>-84.8471</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0010</id>
+    <displayName>CLEVELAND 4.6 S, TN US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.1104</latitude>
+    <longitude>-84.8711</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0011</id>
+    <displayName>CLEVELAND 4.6 SE, TN US</displayName>
+    <minDate>2011-04-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1362</latitude>
+    <longitude>-84.8046</longitude>
+    <elevation>284.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8351</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBR0003</id>
+    <displayName>CLEVELAND 4.7 NNW, TN US</displayName>
+    <minDate>2007-05-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1765</latitude>
+    <longitude>-84.8814</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6383</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241824</id>
+    <displayName>CLEVELAND 5 ENE, MT US</displayName>
+    <minDate>1957-06-12</minDate>
+    <maxDate>1989-08-31</maxDate>
+    <latitude>48.31667</latitude>
+    <longitude>-109.06667</longitude>
+    <elevation>1015.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0033</id>
+    <displayName>CLEVELAND 5.0 NNE, SC US</displayName>
+    <minDate>2010-01-22</minDate>
+    <maxDate>2010-08-27</maxDate>
+    <latitude>35.1426</latitude>
+    <longitude>-82.5067</longitude>
+    <elevation>372.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.867</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALBL0008</id>
+    <displayName>CLEVELAND 5.1 SW, AL US</displayName>
+    <minDate>2007-11-22</minDate>
+    <maxDate>2009-03-26</maxDate>
+    <latitude>33.94</latitude>
+    <longitude>-86.63</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2057</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCPC0004</id>
+    <displayName>CLEVELAND 8.0 WSW, SC US</displayName>
+    <minDate>2008-03-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.059</latitude>
+    <longitude>-82.6667</longitude>
+    <elevation>398.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004853</id>
+    <displayName>CLEVELAND BURKE LAKEFRONT AIRPORT, OH US</displayName>
+    <minDate>1998-02-12</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.5175</latitude>
+    <longitude>-81.68361</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331644</id>
+    <displayName>CLEVELAND CARROLL UNIVERSITY, OH US</displayName>
+    <minDate>1924-01-01</minDate>
+    <maxDate>1930-12-31</maxDate>
+    <latitude>41.48333</latitude>
+    <longitude>-81.7</longitude>
+    <elevation>229.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9484</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401808</id>
+    <displayName>CLEVELAND FILTER PLANT, TN US</displayName>
+    <minDate>1955-10-30</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.2203</latitude>
+    <longitude>-84.7981</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014820</id>
+    <displayName>CLEVELAND HOPKINS INTERNATIONAL AIRPORT, OH US</displayName>
+    <minDate>1938-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.405</latitude>
+    <longitude>-81.85278</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341903</id>
+    <displayName>CLEVELAND LAKE, OK US</displayName>
+    <minDate>1944-11-01</minDate>
+    <maxDate>1946-06-30</maxDate>
+    <latitude>36.266667</latitude>
+    <longitude>-96.583333</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9638</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331652</id>
+    <displayName>CLEVELAND LUTHERAN M, OH US</displayName>
+    <minDate>1971-07-01</minDate>
+    <maxDate>1978-05-31</maxDate>
+    <latitude>41.48333</latitude>
+    <longitude>-81.71667</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8797</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331650</id>
+    <displayName>CLEVELAND SEVEN HILL, OH US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1949-06-30</maxDate>
+    <latitude>41.36667</latitude>
+    <longitude>-81.66667</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331653</id>
+    <displayName>CLEVELAND SHAKER HEI, OH US</displayName>
+    <minDate>1942-12-01</minDate>
+    <maxDate>1953-11-30</maxDate>
+    <latitude>41.46667</latitude>
+    <longitude>-81.56667</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9087</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401813</id>
+    <displayName>CLEVELAND SUBSTN, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.18333</latitude>
+    <longitude>-84.81667</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331662</id>
+    <displayName>CLEVELAND WEATHER BUREAU CITY, OH US</displayName>
+    <minDate>1871-01-01</minDate>
+    <maxDate>1957-11-12</maxDate>
+    <latitude>41.5</latitude>
+    <longitude>-81.66667</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9017</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092006</id>
+    <displayName>CLEVELAND, GA US</displayName>
+    <minDate>1943-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.58583</latitude>
+    <longitude>-83.76583</longitude>
+    <elevation>477.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221738</id>
+    <displayName>CLEVELAND, MS US</displayName>
+    <minDate>1901-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7367</latitude>
+    <longitude>-90.7445</longitude>
+    <elevation>42.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7512</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241820</id>
+    <displayName>CLEVELAND, MT US</displayName>
+    <minDate>1903-02-17</minDate>
+    <maxDate>1957-06-11</maxDate>
+    <latitude>48.26667</latitude>
+    <longitude>-109.15</longitude>
+    <elevation>1068</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1106</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301541</id>
+    <displayName>CLEVELAND, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.23333</latitude>
+    <longitude>-75.88333</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341900</id>
+    <displayName>CLEVELAND, OK US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1982-11-30</maxDate>
+    <latitude>36.3</latitude>
+    <longitude>-96.46667</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.94</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411810</id>
+    <displayName>CLEVELAND, TX US</displayName>
+    <minDate>1954-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3637</latitude>
+    <longitude>-95.084</longitude>
+    <elevation>59.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441776</id>
+    <displayName>CLEVELAND, VA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.95</latitude>
+    <longitude>-82.15</longitude>
+    <elevation>470</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCR0025</id>
+    <displayName>CLEVER 0.9 NE, MO US</displayName>
+    <minDate>2008-06-20</minDate>
+    <maxDate>2009-01-12</maxDate>
+    <latitude>37.0398</latitude>
+    <longitude>-93.4594</longitude>
+    <elevation>408.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCR0020</id>
+    <displayName>CLEVER 4.0 ENE, MO US</displayName>
+    <minDate>2008-04-02</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.058</latitude>
+    <longitude>-93.4054</longitude>
+    <elevation>356.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9519</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSE0014</id>
+    <displayName>CLEVER 5.7 SE, MO US</displayName>
+    <minDate>2008-04-10</minDate>
+    <maxDate>2009-12-29</maxDate>
+    <latitude>36.9716</latitude>
+    <longitude>-93.3971</longitude>
+    <elevation>390.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8824</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHHM0004</id>
+    <displayName>CLEVES 2.7 NNW, OH US</displayName>
+    <minDate>2009-01-29</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>39.1967</latitude>
+    <longitude>-84.7741</longitude>
+    <elevation>149.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2041</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHY0005</id>
+    <displayName>CLEWISTON 11.2 WSW, FL US</displayName>
+    <minDate>2010-11-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.6639</latitude>
+    <longitude>-81.09</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.52</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHY0002</id>
+    <displayName>CLEWISTON 21.1 SSW, FL US</displayName>
+    <minDate>2008-08-07</minDate>
+    <maxDate>2009-07-11</maxDate>
+    <latitude>26.4602</latitude>
+    <longitude>-81.0339</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHY0004</id>
+    <displayName>CLEWISTON 29.5 S, FL US</displayName>
+    <minDate>2009-12-05</minDate>
+    <maxDate>2010-03-30</maxDate>
+    <latitude>26.3293</latitude>
+    <longitude>-80.9937</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081651</id>
+    <displayName>CLEWISTON NUMBER 2, FL US</displayName>
+    <minDate>2002-09-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>26.73611</latitude>
+    <longitude>-81.04917</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081654</id>
+    <displayName>CLEWISTON, FL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2003-06-30</maxDate>
+    <latitude>26.74222</latitude>
+    <longitude>-80.94</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9566</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081649</id>
+    <displayName>CLEWISTON, FL US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1966-07-31</maxDate>
+    <latitude>26.73333</latitude>
+    <longitude>-80.95</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9311</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291910</id>
+    <displayName>CLIFF 11 SE, NM US</displayName>
+    <minDate>1944-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.834</latitude>
+    <longitude>-108.5048</longitude>
+    <elevation>1454.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMGR0027</id>
+    <displayName>CLIFF 5.7 NE, NM US</displayName>
+    <minDate>2008-10-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.023</latitude>
+    <longitude>-108.5441</longitude>
+    <elevation>1427.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+</stationCollection>

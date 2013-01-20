@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="459">
+  <station>
+    <id>GHCND:USC00249240</id>
+    <displayName>YELLOWTAIL DAM, MT US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.3127</latitude>
+    <longitude>-107.9383</longitude>
+    <elevation>1007.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00038084</id>
+    <displayName>YELLVILLE 2 SSE, AR US</displayName>
+    <minDate>1944-12-10</minDate>
+    <maxDate>1993-03-19</maxDate>
+    <latitude>36.2</latitude>
+    <longitude>-92.66667</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARMR0012</id>
+    <displayName>YELLVILLE 5.0 NW, AR US</displayName>
+    <minDate>2012-07-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.274</latitude>
+    <longitude>-92.7549</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9249</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARMR0013</id>
+    <displayName>YELLVILLE 7.3 NW, AR US</displayName>
+    <minDate>2012-07-29</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.3141</latitude>
+    <longitude>-92.7641</longitude>
+    <elevation>385.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8817</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WATH0011</id>
+    <displayName>YELM 6.3 S, WA US</displayName>
+    <minDate>2008-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.8565</latitude>
+    <longitude>-122.5793</longitude>
+    <elevation>135</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00459485</id>
+    <displayName>YELM, WA US</displayName>
+    <minDate>1949-11-01</minDate>
+    <maxDate>1951-09-29</maxDate>
+    <latitude>46.95</latitude>
+    <longitude>-122.6</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8238</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCHM0004</id>
+    <displayName>YEMASSEE 0.2 NNE, SC US</displayName>
+    <minDate>2009-03-03</minDate>
+    <maxDate>2010-01-01</maxDate>
+    <latitude>32.6973</latitude>
+    <longitude>-80.8512</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9639</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCL0001</id>
+    <displayName>YEMASSEE 7.6 NE, SC US</displayName>
+    <minDate>2008-03-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7756</latitude>
+    <longitude>-80.765</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00389469</id>
+    <displayName>YEMASSEE, SC US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.6802</latitude>
+    <longitude>-80.8419</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9635</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505359</id>
+    <displayName>YENTNA R. LAKE CREEK, AK US</displayName>
+    <minDate>1923-08-15</minDate>
+    <maxDate>1924-09-30</maxDate>
+    <latitude>61.90028</latitude>
+    <longitude>-150.91806</longitude>
+    <elevation>45.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00269234</id>
+    <displayName>YERINGTON 2, NV US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39</latitude>
+    <longitude>-119.16667</longitude>
+    <elevation>1335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0013</id>
+    <displayName>YERINGTON 3.4 SSW, NV US</displayName>
+    <minDate>2010-12-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9458</latitude>
+    <longitude>-119.1942</longitude>
+    <elevation>1356.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.883</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVLY0003</id>
+    <displayName>YERINGTON 3.4 SSW, NV US</displayName>
+    <minDate>2007-07-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9433</latitude>
+    <longitude>-119.1916</longitude>
+    <elevation>1350.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00269229</id>
+    <displayName>YERINGTON, NV US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9991</latitude>
+    <longitude>-119.1575</longitude>
+    <elevation>1335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299851</id>
+    <displayName>YESO 2 S, NM US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>34.403</latitude>
+    <longitude>-104.6128</longitude>
+    <elevation>1478.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9568</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299857</id>
+    <displayName>YESO OVERTON RANCH, NM US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>1959-07-31</maxDate>
+    <latitude>34.31667</latitude>
+    <longitude>-104.73333</longitude>
+    <elevation>1524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8131</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914950</id>
+    <displayName>YIGO, US</displayName>
+    <minDate>1978-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>13.5478</latitude>
+    <longitude>144.8928</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLV0012</id>
+    <displayName>YOAKUM 10.3 SE, TX US</displayName>
+    <minDate>2007-02-21</minDate>
+    <maxDate>2010-02-04</maxDate>
+    <latitude>29.204</latitude>
+    <longitude>-97.0082</longitude>
+    <elevation>62.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3444</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLV0020</id>
+    <displayName>YOAKUM 6.2 NNE, TX US</displayName>
+    <minDate>2009-04-07</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.3695</latitude>
+    <longitude>-97.0942</longitude>
+    <elevation>89</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDW0007</id>
+    <displayName>YOAKUM 6.2 WNW, TX US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.3354</latitude>
+    <longitude>-97.2363</longitude>
+    <elevation>125.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDW0003</id>
+    <displayName>YOAKUM 7.2 S, TX US</displayName>
+    <minDate>2007-03-27</minDate>
+    <maxDate>2012-03-29</maxDate>
+    <latitude>29.1895</latitude>
+    <longitude>-97.1255</longitude>
+    <elevation>73.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1443</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419952</id>
+    <displayName>YOAKUM, TX US</displayName>
+    <minDate>1917-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.2738</latitude>
+    <longitude>-97.1555</longitude>
+    <elevation>89.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0018</id>
+    <displayName>YODER 1.9 SW, WY US</displayName>
+    <minDate>2007-08-17</minDate>
+    <maxDate>2012-09-26</maxDate>
+    <latitude>41.8999</latitude>
+    <longitude>-104.322</longitude>
+    <elevation>1300</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0014</id>
+    <displayName>YODER 10.5 WSW, WY US</displayName>
+    <minDate>2005-04-20</minDate>
+    <maxDate>2006-06-21</maxDate>
+    <latitude>41.8711</latitude>
+    <longitude>-104.4906</longitude>
+    <elevation>1375</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00489925</id>
+    <displayName>YODER 2 WSW, WY US</displayName>
+    <minDate>1921-10-01</minDate>
+    <maxDate>2011-06-02</maxDate>
+    <latitude>41.913</latitude>
+    <longitude>-104.388</longitude>
+    <elevation>1319.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0001</id>
+    <displayName>YODER 4.1 S, WY US</displayName>
+    <minDate>2004-07-04</minDate>
+    <maxDate>2011-02-25</maxDate>
+    <latitude>41.8567</latitude>
+    <longitude>-104.2994</longitude>
+    <elevation>1313.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9493</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRN0009</id>
+    <displayName>YODER 4.2 S, KS US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-11-30</maxDate>
+    <latitude>37.8817</latitude>
+    <longitude>-97.8611</longitude>
+    <elevation>480.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0029</id>
+    <displayName>YODER 4.2 SE, CO US</displayName>
+    <minDate>2004-12-16</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>38.7969</latitude>
+    <longitude>-104.1652</longitude>
+    <elevation>1848</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7192</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INAL0045</id>
+    <displayName>YODER 4.6 WNW, IN US</displayName>
+    <minDate>2011-04-26</minDate>
+    <maxDate>2011-11-04</maxDate>
+    <latitude>40.9633</latitude>
+    <longitude>-85.2531</longitude>
+    <elevation>250.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5544</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0174</id>
+    <displayName>YODER 6.5 SSE, CO US</displayName>
+    <minDate>2009-04-13</minDate>
+    <maxDate>2012-07-03</maxDate>
+    <latitude>38.7385</latitude>
+    <longitude>-104.1886</longitude>
+    <elevation>1840.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2699</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0011</id>
+    <displayName>YODER 6.5 SSE, WY US</displayName>
+    <minDate>2005-04-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8284</latitude>
+    <longitude>-104.2531</longitude>
+    <elevation>1314</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8523</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CYOL</id>
+    <displayName>YOLLA BOLLA CALIFORNIA, CA US</displayName>
+    <minDate>1990-09-24</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.3383</latitude>
+    <longitude>-123.065</longitude>
+    <elevation>2059.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6442</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00349820</id>
+    <displayName>YONKERS, OK US</displayName>
+    <minDate>1922-06-01</minDate>
+    <maxDate>1923-06-30</maxDate>
+    <latitude>36.05</latitude>
+    <longitude>-95.266667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9241</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359604</id>
+    <displayName>YONNA, OR US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1949-01-31</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-121.48333</longitude>
+    <elevation>1275</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9146</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAOR0003</id>
+    <displayName>YORBA LINDA 1.9 SSW, CA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2009-02-13</maxDate>
+    <latitude>33.8645</latitude>
+    <longitude>-117.7814</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049847</id>
+    <displayName>YORBA LINDA, CA US</displayName>
+    <minDate>1912-10-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>33.89</latitude>
+    <longitude>-117.8188</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york003</id>
+    <displayName>YORK 0.6 SW, NE US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>40.8622</latitude>
+    <longitude>-97.5935</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york010</id>
+    <displayName>YORK 0.9 SW, NE US</displayName>
+    <minDate>2007-02-24</minDate>
+    <maxDate>2007-12-01</maxDate>
+    <latitude>40.8573</latitude>
+    <longitude>-97.6025</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369938</id>
+    <displayName>YORK 1 S FILTER PLAN, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.94</latitude>
+    <longitude>-76.72528</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york002</id>
+    <displayName>YORK 1.0 E, NE US</displayName>
+    <minDate>2007-03-24</minDate>
+    <maxDate>2012-12-04</maxDate>
+    <latitude>40.8683</latitude>
+    <longitude>-97.574</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7148</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york029</id>
+    <displayName>YORK 1.0 ESE, NE US</displayName>
+    <minDate>2007-05-04</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>40.8584</latitude>
+    <longitude>-97.5774</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6032</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york040</id>
+    <displayName>YORK 1.0 WSW, NE US</displayName>
+    <minDate>2011-07-11</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.8587</latitude>
+    <longitude>-97.6075</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5159</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york037</id>
+    <displayName>YORK 1.0 WSW, NE US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2012-04-16</maxDate>
+    <latitude>40.8587</latitude>
+    <longitude>-97.6075</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0010</id>
+    <displayName>YORK 1.8 ESE, SC US</displayName>
+    <minDate>2009-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9899</latitude>
+    <longitude>-81.2048</longitude>
+    <elevation>216.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2045</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york018</id>
+    <displayName>YORK 1.9 SSE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2009-10-06</maxDate>
+    <latitude>40.8431</latitude>
+    <longitude>-97.5786</longitude>
+    <elevation>502</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9772</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAYR0017</id>
+    <displayName>YORK 2.5 NNW, PA US</displayName>
+    <minDate>2011-05-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9965</latitude>
+    <longitude>-76.7533</longitude>
+    <elevation>126.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259513</id>
+    <displayName>YORK 3 N, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9152</latitude>
+    <longitude>-97.5997</longitude>
+    <elevation>491.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369933</id>
+    <displayName>YORK 3 SSW PUMP STATION, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.91667</latitude>
+    <longitude>-76.75</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9046</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0004</id>
+    <displayName>YORK 3.0 NNE, SC US</displayName>
+    <minDate>2008-03-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.0362</latitude>
+    <longitude>-81.2214</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAYR0016</id>
+    <displayName>YORK 3.2 WSW, PA US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2012-06-19</maxDate>
+    <latitude>39.9427</latitude>
+    <longitude>-76.7861</longitude>
+    <elevation>148.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7638</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york025</id>
+    <displayName>YORK 3.3 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2010-08-29</maxDate>
+    <latitude>40.8831</latitude>
+    <longitude>-97.6515</longitude>
+    <elevation>502</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york011</id>
+    <displayName>YORK 3.5 NNE, NE US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>40.9149</latitude>
+    <longitude>-97.5677</longitude>
+    <elevation>505.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1563</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00389625</id>
+    <displayName>YORK 4 S, SC US</displayName>
+    <minDate>2005-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9386</latitude>
+    <longitude>-81.225</longitude>
+    <elevation>221</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york033</id>
+    <displayName>YORK 4.0 NNW, NE US</displayName>
+    <minDate>2011-06-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9234</latitude>
+    <longitude>-97.6173</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0021</id>
+    <displayName>YORK 4.1 NW, SC US</displayName>
+    <minDate>2012-04-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0422</latitude>
+    <longitude>-81.2796</longitude>
+    <elevation>229.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAYR0015</id>
+    <displayName>YORK 4.2 NE, PA US</displayName>
+    <minDate>2010-02-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0092</latitude>
+    <longitude>-76.6782</longitude>
+    <elevation>187.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york012</id>
+    <displayName>YORK 4.6 WNW, NE US</displayName>
+    <minDate>2007-04-25</minDate>
+    <maxDate>2012-07-25</maxDate>
+    <latitude>40.889</latitude>
+    <longitude>-97.6761</longitude>
+    <elevation>508.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1256</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york035</id>
+    <displayName>YORK 4.9 SSW, NE US</displayName>
+    <minDate>2010-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8003</latitude>
+    <longitude>-97.622</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0019</id>
+    <displayName>YORK 6.2 ENE, SC US</displayName>
+    <minDate>2012-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0368</latitude>
+    <longitude>-81.1398</longitude>
+    <elevation>209.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8156</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0006</id>
+    <displayName>YORK 6.3 E, SC US</displayName>
+    <minDate>2009-01-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9845</latitude>
+    <longitude>-81.1254</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9199</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york032</id>
+    <displayName>YORK 6.9 NE, NE US</displayName>
+    <minDate>2008-04-08</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.9538</latitude>
+    <longitude>-97.5226</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093778</id>
+    <displayName>YORK AIRPORT, PA US</displayName>
+    <minDate>1997-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.91806</latitude>
+    <longitude>-76.87417</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEYK0033</id>
+    <displayName>YORK BEACH 0.6 ESE, ME US</displayName>
+    <minDate>2010-05-19</minDate>
+    <maxDate>2012-10-22</maxDate>
+    <latitude>43.1681</latitude>
+    <longitude>-70.5972</longitude>
+    <elevation>13.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEYK0007</id>
+    <displayName>YORK HARBOR 3.3 WNW, ME US</displayName>
+    <minDate>2009-08-07</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>43.155</latitude>
+    <longitude>-70.7099</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3082</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369950</id>
+    <displayName>YORK HAVEN, PA US</displayName>
+    <minDate>1921-03-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.11389</latitude>
+    <longitude>-76.71222</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9814</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369943</id>
+    <displayName>YORK INDIAN ROCK DAM, PA US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>1946-12-31</maxDate>
+    <latitude>39.92</latitude>
+    <longitude>-76.751833</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00279966</id>
+    <displayName>YORK POND, NH US</displayName>
+    <minDate>1931-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5002</latitude>
+    <longitude>-71.333</longitude>
+    <elevation>466.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292362</id>
+    <displayName>YORK RANCH, NM US</displayName>
+    <minDate>1957-04-02</minDate>
+    <maxDate>1974-05-31</maxDate>
+    <latitude>33.8</latitude>
+    <longitude>-108.33333</longitude>
+    <elevation>2073.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8689</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290989</id>
+    <displayName>YORK RANCH, NM US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1957-02-28</maxDate>
+    <latitude>33.8</latitude>
+    <longitude>-108.33333</longitude>
+    <elevation>2073.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9612</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299882</id>
+    <displayName>YORK RANCH, NM US</displayName>
+    <minDate>1974-07-01</minDate>
+    <maxDate>1974-11-30</maxDate>
+    <latitude>33.8</latitude>
+    <longitude>-108.33333</longitude>
+    <elevation>2073.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAAD0003</id>
+    <displayName>YORK SPRINGS 0.7 SE, PA US</displayName>
+    <minDate>2008-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0014</latitude>
+    <longitude>-77.1089</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369959</id>
+    <displayName>YORK VIOLET HILL SUBSTATION, PA US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1946-02-28</maxDate>
+    <latitude>39.937833</latitude>
+    <longitude>-76.717</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9618</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259510</id>
+    <displayName>YORK, NE US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>2008-11-11</maxDate>
+    <latitude>40.8678</latitude>
+    <longitude>-97.5922</longitude>
+    <elevation>490.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9464</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309640</id>
+    <displayName>YORK, NY US</displayName>
+    <minDate>1911-12-01</minDate>
+    <maxDate>1926-11-19</maxDate>
+    <latitude>42.883333</latitude>
+    <longitude>-77.883333</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDW0004</id>
+    <displayName>YORKTOWN 0.4 E, TX US</displayName>
+    <minDate>2007-07-26</minDate>
+    <maxDate>2012-06-20</maxDate>
+    <latitude>28.9825</latitude>
+    <longitude>-97.4981</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1295</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDL0012</id>
+    <displayName>YORKTOWN 1.1 NNW, IN US</displayName>
+    <minDate>2011-04-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1865</latitude>
+    <longitude>-85.4897</longitude>
+    <elevation>282.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAYR0002</id>
+    <displayName>YORKTOWN 2.8 SE, VA US</displayName>
+    <minDate>2008-05-17</minDate>
+    <maxDate>2012-02-28</maxDate>
+    <latitude>37.1991</latitude>
+    <longitude>-76.4804</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7578</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDW0008</id>
+    <displayName>YORKTOWN 9.8 WNW, TX US</displayName>
+    <minDate>2009-04-17</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>29.0423</latitude>
+    <longitude>-97.6523</longitude>
+    <elevation>133.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.134</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYWC0007</id>
+    <displayName>YORKTOWN HEIGHTS 0.6 SW, NY US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2649</latitude>
+    <longitude>-73.7899</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309670</id>
+    <displayName>YORKTOWN HEIGHTS 1 W, NY US</displayName>
+    <minDate>1965-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2664</latitude>
+    <longitude>-73.7975</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309660</id>
+    <displayName>YORKTOWN HEIGHTS, NY US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>1950-01-31</maxDate>
+    <latitude>41.26667</latitude>
+    <longitude>-73.76667</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419953</id>
+    <displayName>YORKTOWN, TX US</displayName>
+    <minDate>1940-04-07</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>28.9802</latitude>
+    <longitude>-97.5185</longitude>
+    <elevation>79.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0033</id>
+    <displayName>YORKVILLE 0.2 WSW, IL US</displayName>
+    <minDate>2012-03-22</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.6414</latitude>
+    <longitude>-88.4502</longitude>
+    <elevation>186.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0026</id>
+    <displayName>YORKVILLE 0.7 NE, IL US</displayName>
+    <minDate>2008-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6486</latitude>
+    <longitude>-88.4362</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8827</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0012</id>
+    <displayName>YORKVILLE 1.1 W, IL US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6413</latitude>
+    <longitude>-88.4696</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8204</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0025</id>
+    <displayName>YORKVILLE 1.8 SSE, IL US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>41.6208</latitude>
+    <longitude>-88.4286</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3071</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00119827</id>
+    <displayName>YORKVILLE 3 SW, IL US</displayName>
+    <minDate>1997-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.61222</latitude>
+    <longitude>-88.47917</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049851</id>
+    <displayName>YORKVILLE, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.90528</latitude>
+    <longitude>-123.23139</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1756</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00119822</id>
+    <displayName>YORKVILLE, IL US</displayName>
+    <minDate>1900-02-18</minDate>
+    <maxDate>1915-05-31</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-88.45</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00159151</id>
+    <displayName>YOSEMITE 2 S, KY US</displayName>
+    <minDate>1995-03-01</minDate>
+    <maxDate>1999-02-28</maxDate>
+    <latitude>37.31667</latitude>
+    <longitude>-84.81667</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9788</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMA0003</id>
+    <displayName>YOSEMITE LAKES 4.7 S, CA US</displayName>
+    <minDate>2011-12-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1241</latitude>
+    <longitude>-119.761</longitude>
+    <elevation>487.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9195</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049855</id>
+    <displayName>YOSEMITE PARK HDQTRS, CA US</displayName>
+    <minDate>1905-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.75</latitude>
+    <longitude>-119.58972</longitude>
+    <elevation>1224.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9313</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053150</id>
+    <displayName>YOSEMITE VILLAGE 12 W, CA US</displayName>
+    <minDate>2007-09-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.7592</latitude>
+    <longitude>-119.8208</longitude>
+    <elevation>2017.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXZV0007</id>
+    <displayName>YOUNDBLOOD, TX US</displayName>
+    <minDate>2008-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.8073</latitude>
+    <longitude>-99.9242</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9274</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029626</id>
+    <displayName>YOUNG 12 N, AZ US</displayName>
+    <minDate>1952-04-01</minDate>
+    <maxDate>1956-11-30</maxDate>
+    <latitude>34.26667</latitude>
+    <longitude>-110.9</longitude>
+    <elevation>1989.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00219208</id>
+    <displayName>YOUNG AMERICA 1 SW, MN US</displayName>
+    <minDate>1954-12-01</minDate>
+    <maxDate>1995-09-30</maxDate>
+    <latitude>44.80556</latitude>
+    <longitude>-94.01667</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129905</id>
+    <displayName>YOUNG AMERICA 3 ESE, IN US</displayName>
+    <minDate>1948-10-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5615</latitude>
+    <longitude>-86.3424</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3065</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAUN0005</id>
+    <displayName>YOUNG HARRIS 2.0 SSW, GA US</displayName>
+    <minDate>2010-05-23</minDate>
+    <maxDate>2010-11-01</maxDate>
+    <latitude>34.9046</latitude>
+    <longitude>-83.8557</longitude>
+    <elevation>587</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8037</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00099805</id>
+    <displayName>YOUNG HARRIS, GA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.93333</latitude>
+    <longitude>-83.85</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419959</id>
+    <displayName>YOUNG, TX US</displayName>
+    <minDate>1940-02-15</minDate>
+    <maxDate>1948-08-31</maxDate>
+    <latitude>31.85</latitude>
+    <longitude>-96.08333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4806</coverage>
+  </station>
+</stationCollection>

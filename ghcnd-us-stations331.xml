@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="331">
+  <station>
+    <id>GHCND:USC00407241</id>
+    <displayName>PITTMAN CENTER, TN US</displayName>
+    <minDate>1958-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.75</latitude>
+    <longitude>-83.4</longitude>
+    <elevation>399.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046950</id>
+    <displayName>PITTS RANCH, CA US</displayName>
+    <minDate>1956-09-01</minDate>
+    <maxDate>1963-12-31</maxDate>
+    <latitude>38.93333</latitude>
+    <longitude>-122.86667</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040510</id>
+    <displayName>PITTS RANCH, CA US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1956-08-31</maxDate>
+    <latitude>38.93333</latitude>
+    <longitude>-122.86667</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.832</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCH0003</id>
+    <displayName>PITTSBORO 5.4 NW, NC US</displayName>
+    <minDate>2007-09-16</minDate>
+    <maxDate>2011-11-04</maxDate>
+    <latitude>35.7666</latitude>
+    <longitude>-79.2522</longitude>
+    <elevation>156.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6347</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCH0005</id>
+    <displayName>PITTSBORO 6.5 W, NC US</displayName>
+    <minDate>2008-03-05</minDate>
+    <maxDate>2009-05-03</maxDate>
+    <latitude>35.7359</latitude>
+    <longitude>-79.2889</longitude>
+    <elevation>163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.88</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227036</id>
+    <displayName>PITTSBORO, MS US</displayName>
+    <minDate>1901-06-01</minDate>
+    <maxDate>1929-12-31</maxDate>
+    <latitude>33.93333</latitude>
+    <longitude>-89.33333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3264</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316818</id>
+    <displayName>PITTSBORO, NC US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1915-03-31</maxDate>
+    <latitude>35.716667</latitude>
+    <longitude>-79.166667</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCR0001</id>
+    <displayName>PITTSBURG 0.7 WSW, KS US</displayName>
+    <minDate>2005-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.4099</latitude>
+    <longitude>-94.7127</longitude>
+    <elevation>285.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCR0007</id>
+    <displayName>PITTSBURG 4.9 WSW, KS US</displayName>
+    <minDate>2007-06-24</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.3801</latitude>
+    <longitude>-94.7778</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417066</id>
+    <displayName>PITTSBURG 5 SSE, TX US</displayName>
+    <minDate>1949-04-23</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>32.9258</latitude>
+    <longitude>-94.9397</longitude>
+    <elevation>105.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9452</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCS0004</id>
+    <displayName>PITTSBURG 6.1 NE, NH US</displayName>
+    <minDate>2009-07-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.1106</latitude>
+    <longitude>-71.2976</longitude>
+    <elevation>591.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IPIT</id>
+    <displayName>PITTSBURG LANDING IDAHO, ID US</displayName>
+    <minDate>1993-10-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.6375</latitude>
+    <longitude>-116.4686</longitude>
+    <elevation>350.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8031</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00276856</id>
+    <displayName>PITTSBURG RESERVOIR, NH US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>45.0466</latitude>
+    <longitude>-71.3836</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0624</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146414</id>
+    <displayName>PITTSBURG, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3901</latitude>
+    <longitude>-94.7024</longitude>
+    <elevation>277.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00276850</id>
+    <displayName>PITTSBURG, NH US</displayName>
+    <minDate>1918-03-01</minDate>
+    <maxDate>1931-08-31</maxDate>
+    <latitude>45.2</latitude>
+    <longitude>-71.216667</longitude>
+    <elevation>585.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAAL0014</id>
+    <displayName>PITTSBURGH 1.6 SW, PA US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2011-09-05</maxDate>
+    <latitude>40.4226</latitude>
+    <longitude>-79.9974</longitude>
+    <elevation>340.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014762</id>
+    <displayName>PITTSBURGH ALLEGHENY CO AIRPORT, PA US</displayName>
+    <minDate>1935-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.35472</latitude>
+    <longitude>-79.92167</longitude>
+    <elevation>380.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094823</id>
+    <displayName>PITTSBURGH INTERNATIONAL AIRPORT, PA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.4846</latitude>
+    <longitude>-80.2144</longitude>
+    <elevation>366.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014861</id>
+    <displayName>PITTSBURGH WEATHER SERVICE OFFICE CITY, PA US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>1979-09-30</maxDate>
+    <latitude>40.45</latitude>
+    <longitude>-80</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9255</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHMR0026</id>
+    <displayName>PITTSFIELD 0.2 SSW, NH US</displayName>
+    <minDate>2010-10-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2988</latitude>
+    <longitude>-71.3345</longitude>
+    <elevation>176.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116833</id>
+    <displayName>PITTSFIELD 3 NE, IL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.61667</latitude>
+    <longitude>-90.75</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9402</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367000</id>
+    <displayName>PITTSFIELD 9 WSW, PA US</displayName>
+    <minDate>1966-12-01</minDate>
+    <maxDate>1967-11-19</maxDate>
+    <latitude>41.78333</latitude>
+    <longitude>-79.53333</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8249</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014763</id>
+    <displayName>PITTSFIELD MUNICIPAL AIRPORT, MA US</displayName>
+    <minDate>1925-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.42722</latitude>
+    <longitude>-73.28917</longitude>
+    <elevation>363.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6266</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116837</id>
+    <displayName>PITTSFIELD NUMBER 2, IL US</displayName>
+    <minDate>1991-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6222</latitude>
+    <longitude>-90.8058</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9226</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00196409</id>
+    <displayName>PITTSFIELD, MA US</displayName>
+    <minDate>1894-02-01</minDate>
+    <maxDate>1948-12-31</maxDate>
+    <latitude>42.45</latitude>
+    <longitude>-73.25</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6423</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438057</id>
+    <displayName>PITTSFIELD, VT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.77333</latitude>
+    <longitude>-72.815</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYMR0021</id>
+    <displayName>PITTSFORD 4.0 SSE, NY US</displayName>
+    <minDate>2009-05-27</minDate>
+    <maxDate>2012-09-08</maxDate>
+    <latitude>43.035</latitude>
+    <longitude>-77.4945</longitude>
+    <elevation>169.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.423</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSL0003</id>
+    <displayName>PITTSGROVE TWP 1.9 S, NJ US</displayName>
+    <minDate>2011-10-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5137</latitude>
+    <longitude>-75.1363</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9109</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00176721</id>
+    <displayName>PITTSTON FARM, ME US</displayName>
+    <minDate>1996-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.8944</latitude>
+    <longitude>-69.9647</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171516</id>
+    <displayName>PITTSTON FARM, ME US</displayName>
+    <minDate>1989-10-01</minDate>
+    <maxDate>1996-07-31</maxDate>
+    <latitude>45.8944</latitude>
+    <longitude>-69.9647</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8554</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016501</id>
+    <displayName>PITTSVIEW, AL US</displayName>
+    <minDate>1968-04-01</minDate>
+    <maxDate>1985-10-31</maxDate>
+    <latitude>32.18333</latitude>
+    <longitude>-85.16667</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8619</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIWD0004</id>
+    <displayName>PITTSVILLE 0.1 NE, WI US</displayName>
+    <minDate>2010-09-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.4412</latitude>
+    <longitude>-90.1289</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476622</id>
+    <displayName>PITTSVILLE, WI US</displayName>
+    <minDate>1938-10-01</minDate>
+    <maxDate>1987-01-31</maxDate>
+    <latitude>44.43333</latitude>
+    <longitude>-90.13333</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9383</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00426897</id>
+    <displayName>PIUTE DAM, UT US</displayName>
+    <minDate>1911-10-01</minDate>
+    <maxDate>1971-05-31</maxDate>
+    <latitude>38.31667</latitude>
+    <longitude>-112.18333</longitude>
+    <elevation>1800.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9424</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAOR0013</id>
+    <displayName>PLACENTIA 2.1 ESE, CA US</displayName>
+    <minDate>2009-02-14</minDate>
+    <maxDate>2011-02-14</maxDate>
+    <latitude>33.8685</latitude>
+    <longitude>-117.8218</longitude>
+    <elevation>78</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010D24S</id>
+    <displayName>PLACER BASIN, MT US</displayName>
+    <minDate>1980-08-13</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.4167</latitude>
+    <longitude>-110.1</longitude>
+    <elevation>2691.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356698</id>
+    <displayName>PLACER, OR US</displayName>
+    <minDate>1898-03-01</minDate>
+    <maxDate>1903-04-30</maxDate>
+    <latitude>42.633333</latitude>
+    <longitude>-123.316667</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9104</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAED0010</id>
+    <displayName>PLACERVILLE 0.8 NE, CA US</displayName>
+    <minDate>2010-02-06</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.7387</latitude>
+    <longitude>-120.7846</longitude>
+    <elevation>612.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAED0002</id>
+    <displayName>PLACERVILLE 2.9 WNW, CA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2011-06-07</maxDate>
+    <latitude>38.7532</latitude>
+    <longitude>-120.8401</longitude>
+    <elevation>548.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAED0003</id>
+    <displayName>PLACERVILLE 3.7 SW, CA US</displayName>
+    <minDate>2008-10-31</minDate>
+    <maxDate>2011-11-24</maxDate>
+    <latitude>38.6953</latitude>
+    <longitude>-120.849</longitude>
+    <elevation>534.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1545</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046963</id>
+    <displayName>PLACERVILLE DISP PLANT, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.7311</latitude>
+    <longitude>-120.8469</longitude>
+    <elevation>475.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046962</id>
+    <displayName>PLACERVILLE IFG, CA US</displayName>
+    <minDate>1955-02-01</minDate>
+    <maxDate>2012-11-26</maxDate>
+    <latitude>38.73333</latitude>
+    <longitude>-120.73333</longitude>
+    <elevation>839.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046960</id>
+    <displayName>PLACERVILLE, CA US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>38.6955</latitude>
+    <longitude>-120.8244</longitude>
+    <elevation>563.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8232</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056520</id>
+    <displayName>PLACERVILLE, CO US</displayName>
+    <minDate>2008-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.0177</latitude>
+    <longitude>-108.0513</longitude>
+    <elevation>2250.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9555</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056524</id>
+    <displayName>PLACERVILLE, CO US</displayName>
+    <minDate>1947-07-01</minDate>
+    <maxDate>2008-06-30</maxDate>
+    <latitude>37.9944</latitude>
+    <longitude>-108.0211</longitude>
+    <elevation>2301.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9483</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417072</id>
+    <displayName>PLACID, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-11-30</maxDate>
+    <latitude>31.31667</latitude>
+    <longitude>-99.18333</longitude>
+    <elevation>497.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0001</id>
+    <displayName>PLACITAS 1.8 ENE, NM US</displayName>
+    <minDate>2005-03-02</minDate>
+    <maxDate>2011-01-25</maxDate>
+    <latitude>35.3289</latitude>
+    <longitude>-106.4357</longitude>
+    <elevation>1737.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8145</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296912</id>
+    <displayName>PLACITAS 2 N, NM US</displayName>
+    <minDate>2000-06-01</minDate>
+    <maxDate>2007-07-31</maxDate>
+    <latitude>35.33417</latitude>
+    <longitude>-106.44167</longitude>
+    <elevation>1734.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0035</id>
+    <displayName>PLACITAS 2.1 SE, NM US</displayName>
+    <minDate>2009-01-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2986</latitude>
+    <longitude>-106.4385</longitude>
+    <elevation>1857.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0016</id>
+    <displayName>PLACITAS 3.4 W, NM US</displayName>
+    <minDate>2005-08-07</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>35.3174</latitude>
+    <longitude>-106.5261</longitude>
+    <elevation>1601.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8402</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0045</id>
+    <displayName>PLACITAS 3.8 ENE, NM US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3344</latitude>
+    <longitude>-106.4014</longitude>
+    <elevation>1857.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296911</id>
+    <displayName>PLACITAS 4 W, NM US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>35.3044</latitude>
+    <longitude>-106.4969</longitude>
+    <elevation>1681</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296913</id>
+    <displayName>PLACITAS NEAR, NM US</displayName>
+    <minDate>1910-10-01</minDate>
+    <maxDate>1913-02-28</maxDate>
+    <latitude>35.233333</latitude>
+    <longitude>-106.416667</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296908</id>
+    <displayName>PLACITAS, NM US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>35.30972</latitude>
+    <longitude>-106.42306</longitude>
+    <elevation>1822.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACH0035</id>
+    <displayName>PLAIN 0.8 NW, WA US</displayName>
+    <minDate>2009-12-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.7738</latitude>
+    <longitude>-120.6641</longitude>
+    <elevation>573.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LABS0004</id>
+    <displayName>PLAIN DEALING 3.3 ESE, LA US</displayName>
+    <minDate>2009-12-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8947</latitude>
+    <longitude>-93.6438</longitude>
+    <elevation>99.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167344</id>
+    <displayName>PLAIN DEALING 4 W, LA US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>32.9081</latitude>
+    <longitude>-93.7956</longitude>
+    <elevation>88.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456534</id>
+    <displayName>PLAIN, WA US</displayName>
+    <minDate>1937-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.7849</latitude>
+    <longitude>-120.6455</longitude>
+    <elevation>590.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9365</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHSL0001</id>
+    <displayName>PLAINFIELD 0.3 SW, NH US</displayName>
+    <minDate>2009-07-13</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>43.5303</latitude>
+    <longitude>-72.3597</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6811</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0007</id>
+    <displayName>PLAINFIELD 0.5 SE, IN US</displayName>
+    <minDate>2006-04-30</minDate>
+    <maxDate>2009-08-29</maxDate>
+    <latitude>39.6946</latitude>
+    <longitude>-86.3822</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4179</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0017</id>
+    <displayName>PLAINFIELD 0.9 S, IN US</displayName>
+    <minDate>2008-04-16</minDate>
+    <maxDate>2011-08-31</maxDate>
+    <latitude>39.6872</latitude>
+    <longitude>-86.3897</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0071</id>
+    <displayName>PLAINFIELD 1.1 SW, IL US</displayName>
+    <minDate>2010-05-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6049</latitude>
+    <longitude>-88.2187</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0008</id>
+    <displayName>PLAINFIELD 1.1 W, IN US</displayName>
+    <minDate>2006-04-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7013</latitude>
+    <longitude>-86.4079</longitude>
+    <elevation>221</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0002</id>
+    <displayName>PLAINFIELD 1.5 NW, IN US</displayName>
+    <minDate>2006-02-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.714</latitude>
+    <longitude>-86.409</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00196435</id>
+    <displayName>PLAINFIELD 2, MA US</displayName>
+    <minDate>1990-04-01</minDate>
+    <maxDate>2004-01-31</maxDate>
+    <latitude>42.51667</latitude>
+    <longitude>-72.91667</longitude>
+    <elevation>542.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0005</id>
+    <displayName>PLAINFIELD 2.1 NNW, IN US</displayName>
+    <minDate>2006-03-12</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.7305</latitude>
+    <longitude>-86.3959</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0051</id>
+    <displayName>PLAINFIELD 2.4 SSE, IL US</displayName>
+    <minDate>2009-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5819</latitude>
+    <longitude>-88.1937</longitude>
+    <elevation>181.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0012</id>
+    <displayName>PLAINFIELD 2.5 NNW, IN US</displayName>
+    <minDate>2007-03-15</minDate>
+    <maxDate>2009-01-01</maxDate>
+    <latitude>39.7339</latitude>
+    <longitude>-86.4065</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4294</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0009</id>
+    <displayName>PLAINFIELD 2.8 NW, IN US</displayName>
+    <minDate>2006-11-02</minDate>
+    <maxDate>2007-04-11</maxDate>
+    <latitude>39.7313</latitude>
+    <longitude>-86.4211</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116849</id>
+    <displayName>PLAINFIELD 3 NE, IL US</displayName>
+    <minDate>1999-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6386</latitude>
+    <longitude>-88.1881</longitude>
+    <elevation>187.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0058</id>
+    <displayName>PLAINFIELD 3.0 ESE, IL US</displayName>
+    <minDate>2010-04-02</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.604</latitude>
+    <longitude>-88.149</longitude>
+    <elevation>189.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7187</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0034</id>
+    <displayName>PLAINFIELD 3.0 SSE, IL US</displayName>
+    <minDate>2007-12-07</minDate>
+    <maxDate>2012-08-27</maxDate>
+    <latitude>41.5759</latitude>
+    <longitude>-88.1813</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0057</id>
+    <displayName>PLAINFIELD 3.5 SW, IL US</displayName>
+    <minDate>2010-03-25</minDate>
+    <maxDate>2011-05-26</maxDate>
+    <latitude>41.5763</latitude>
+    <longitude>-88.2465</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.535</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0027</id>
+    <displayName>PLAINFIELD 4.0 NNW, IL US</displayName>
+    <minDate>2007-06-08</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>41.6705</latitude>
+    <longitude>-88.2316</longitude>
+    <elevation>203.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.501</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHS0006</id>
+    <displayName>PLAINFIELD 4.6 N, IN US</displayName>
+    <minDate>2006-03-06</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>39.7663</latitude>
+    <longitude>-86.3839</longitude>
+    <elevation>260.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8551</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKD0034</id>
+    <displayName>PLAINFIELD 4.8 SW, IL US</displayName>
+    <minDate>2012-04-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5678</latitude>
+    <longitude>-88.2701</longitude>
+    <elevation>201.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00196425</id>
+    <displayName>PLAINFIELD, MA US</displayName>
+    <minDate>1930-10-01</minDate>
+    <maxDate>1990-03-31</maxDate>
+    <latitude>42.51667</latitude>
+    <longitude>-72.91667</longitude>
+    <elevation>493.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00287079</id>
+    <displayName>PLAINFIELD, NJ US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-04-13</maxDate>
+    <latitude>40.6036</latitude>
+    <longitude>-74.4025</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00436391</id>
+    <displayName>PLAINFIELD, VT US</displayName>
+    <minDate>1999-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2763</latitude>
+    <longitude>-72.4154</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9687</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSME0003</id>
+    <displayName>PLAINS CITY 0.3 NW, KS US</displayName>
+    <minDate>2006-04-01</minDate>
+    <maxDate>2007-03-31</maxDate>
+    <latitude>37.2666</latitude>
+    <longitude>-100.595</longitude>
+    <elevation>848</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9616</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSME0009</id>
+    <displayName>PLAINS CITY 0.3 W, KS US</displayName>
+    <minDate>2011-03-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2631</latitude>
+    <longitude>-100.595</longitude>
+    <elevation>841.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9328</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MPLN</id>
+    <displayName>PLAINS MONTANA, MT US</displayName>
+    <minDate>2002-09-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.45</latitude>
+    <longitude>-114.8667</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246562</id>
+    <displayName>PLAINS RANGER STATION, MT US</displayName>
+    <minDate>1898-09-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>47.4661</latitude>
+    <longitude>-114.8794</longitude>
+    <elevation>759</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000GPLA</id>
+    <displayName>PLAINS SUMTER GEORGIA, GA US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.0097</latitude>
+    <longitude>-84.33</longitude>
+    <elevation>160.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9259</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097087</id>
+    <displayName>PLAINS SW GA EXPERIMENTAL STATION, GA US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.0467</latitude>
+    <longitude>-84.3711</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146427</id>
+    <displayName>PLAINS, KS US</displayName>
+    <minDate>1910-04-16</minDate>
+    <maxDate>1974-10-31</maxDate>
+    <latitude>37.26667</latitude>
+    <longitude>-100.6</longitude>
+    <elevation>841.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417074</id>
+    <displayName>PLAINS, TX US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.18694</latitude>
+    <longitude>-102.82806</longitude>
+    <elevation>1120.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00287095</id>
+    <displayName>PLAINSBORO, NJ US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1948-12-31</maxDate>
+    <latitude>40.31667</latitude>
+    <longitude>-74.6</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7255</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256765</id>
+    <displayName>PLAINSVIEW RANCH, NE US</displayName>
+    <minDate>2002-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2613</latitude>
+    <longitude>-103.5188</longitude>
+    <elevation>1426.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9746</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10pier005</id>
+    <displayName>PLAINVIEW 0.4 NW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-10-23</maxDate>
+    <latitude>42.355</latitude>
+    <longitude>-97.7962</longitude>
+    <elevation>515.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4411</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHLE001</id>
+    <displayName>PLAINVIEW 2.2 WNW, TX US</displayName>
+    <minDate>2004-07-22</minDate>
+    <maxDate>2007-07-18</maxDate>
+    <latitude>34.1971</latitude>
+    <longitude>-101.7431</longitude>
+    <elevation>1040</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10pier010</id>
+    <displayName>PLAINVIEW 3.6 S, NE US</displayName>
+    <minDate>2007-05-23</minDate>
+    <maxDate>2009-11-11</maxDate>
+    <latitude>42.2982</latitude>
+    <longitude>-97.7963</longitude>
+    <elevation>516</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396636</id>
+    <displayName>PLAINVIEW 6 SSW, SD US</displayName>
+    <minDate>1949-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.5169</latitude>
+    <longitude>-102.2152</longitude>
+    <elevation>724.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5481</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10pier006</id>
+    <displayName>PLAINVIEW 6.2 SSE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.2646</latitude>
+    <longitude>-97.7561</longitude>
+    <elevation>527</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9451</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417081</id>
+    <displayName>PLAINVIEW WATER PRODUCTION, TX US</displayName>
+    <minDate>2000-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1981</latitude>
+    <longitude>-101.746</longitude>
+    <elevation>1051.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216571</id>
+    <displayName>PLAINVIEW, MN US</displayName>
+    <minDate>1941-03-01</minDate>
+    <maxDate>1941-11-05</maxDate>
+    <latitude>44.166667</latitude>
+    <longitude>-92.166667</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256761</id>
+    <displayName>PLAINVIEW, NE US</displayName>
+    <minDate>1978-06-01</minDate>
+    <maxDate>2000-09-30</maxDate>
+    <latitude>42.34917</latitude>
+    <longitude>-97.79306</longitude>
+    <elevation>512.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417079</id>
+    <displayName>PLAINVIEW, TX US</displayName>
+    <minDate>1908-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.18917</latitude>
+    <longitude>-101.70222</longitude>
+    <elevation>1027.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILAD0001</id>
+    <displayName>PLAINVILLE 0.2 NW, IL US</displayName>
+    <minDate>2007-06-29</minDate>
+    <maxDate>2012-05-10</maxDate>
+    <latitude>39.7867</latitude>
+    <longitude>-91.1843</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8234</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRO0001</id>
+    <displayName>PLAINVILLE 0.4 SE, KS US</displayName>
+    <minDate>2005-04-14</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>39.2293</latitude>
+    <longitude>-99.2968</longitude>
+    <elevation>658.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+</stationCollection>

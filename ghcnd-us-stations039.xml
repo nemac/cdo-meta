@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="39">
+  <station>
+    <id>GHCND:US1VAMN0006</id>
+    <displayName>BLACKSBURG 0.4 N, VA US</displayName>
+    <minDate>2007-08-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2377</latitude>
+    <longitude>-80.4272</longitude>
+    <elevation>638.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9473</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0011</id>
+    <displayName>BLACKSBURG 1.6 W, VA US</displayName>
+    <minDate>2010-08-14</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>37.2346</latitude>
+    <longitude>-80.4581</longitude>
+    <elevation>614.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0013</id>
+    <displayName>BLACKSBURG 1.7 ESE, VA US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.2205</latitude>
+    <longitude>-80.4017</longitude>
+    <elevation>667.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8603</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0012</id>
+    <displayName>BLACKSBURG 1.9 NNE, VA US</displayName>
+    <minDate>2009-11-07</minDate>
+    <maxDate>2011-03-01</maxDate>
+    <latitude>37.2567</latitude>
+    <longitude>-80.4128</longitude>
+    <elevation>692.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7042</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0017</id>
+    <displayName>BLACKSBURG 3.2 NNW, VA US</displayName>
+    <minDate>2010-11-16</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.276</latitude>
+    <longitude>-80.4503</longitude>
+    <elevation>774.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCK0001</id>
+    <displayName>BLACKSBURG 3.2 NW, SC US</displayName>
+    <minDate>2008-03-06</minDate>
+    <maxDate>2011-02-10</maxDate>
+    <latitude>35.151</latitude>
+    <longitude>-81.561</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6316</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0009</id>
+    <displayName>BLACKSBURG 5.0 W, VA US</displayName>
+    <minDate>2009-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2247</latitude>
+    <longitude>-80.5187</longitude>
+    <elevation>575.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9049</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAGL0001</id>
+    <displayName>BLACKSBURG 6.1 NW, VA US</displayName>
+    <minDate>2008-01-05</minDate>
+    <maxDate>2009-05-28</maxDate>
+    <latitude>37.2824</latitude>
+    <longitude>-80.5193</longitude>
+    <elevation>691.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440766</id>
+    <displayName>BLACKSBURG NATIONAL WEATHER SERVICE OFFICE, VA US</displayName>
+    <minDate>1952-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2017</latitude>
+    <longitude>-80.4133</longitude>
+    <elevation>640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440765</id>
+    <displayName>BLACKSBURG, VA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1952-10-31</maxDate>
+    <latitude>37.25</latitude>
+    <longitude>-80.41667</longitude>
+    <elevation>662</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9868</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420737</id>
+    <displayName>BLACKSMITH FORK, UT US</displayName>
+    <minDate>1904-05-01</minDate>
+    <maxDate>1944-08-31</maxDate>
+    <latitude>41.633333</latitude>
+    <longitude>-111.683333</longitude>
+    <elevation>1569.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1292</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013726</id>
+    <displayName>BLACKSTONE, VA US</displayName>
+    <minDate>1945-07-01</minDate>
+    <maxDate>1972-07-31</maxDate>
+    <latitude>37.08333</latitude>
+    <longitude>-77.95</longitude>
+    <elevation>135.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000BKTL</id>
+    <displayName>BLACKTAIL UTAH, UT US</displayName>
+    <minDate>2002-05-14</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.2692</latitude>
+    <longitude>-110.5622</longitude>
+    <elevation>2246.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9038</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00380764</id>
+    <displayName>BLACKVILLE 3 W, SC US</displayName>
+    <minDate>1894-06-01</minDate>
+    <maxDate>2002-07-31</maxDate>
+    <latitude>33.36306</latitude>
+    <longitude>-81.32917</longitude>
+    <elevation>98.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063826</id>
+    <displayName>BLACKVILLE 3 W, SC US</displayName>
+    <minDate>2002-07-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3550</latitude>
+    <longitude>-81.3279</longitude>
+    <elevation>96.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCBM0002</id>
+    <displayName>BLACKVILLE 3.7 E, SC US</displayName>
+    <minDate>2010-07-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3659</latitude>
+    <longitude>-81.2171</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MBLA</id>
+    <displayName>BLACKWATER MARYLAND, MD US</displayName>
+    <minDate>2002-11-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.4167</latitude>
+    <longitude>-76</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9312</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00180915</id>
+    <displayName>BLACKWATER REFUGE, MD US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>1976-11-30</maxDate>
+    <latitude>38.43333</latitude>
+    <longitude>-76.13333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009E13S</id>
+    <displayName>BLACKWATER, WY US</displayName>
+    <minDate>1981-05-02</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.3833</latitude>
+    <longitude>-109.8</longitude>
+    <elevation>2980.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8696</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKKY0008</id>
+    <displayName>BLACKWELL 0.3 NE, OK US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2009-09-10</maxDate>
+    <latitude>36.8042</latitude>
+    <longitude>-97.2948</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9639</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKKY0006</id>
+    <displayName>BLACKWELL 0.9 SSE, OK US</displayName>
+    <minDate>2008-03-11</minDate>
+    <maxDate>2012-08-14</maxDate>
+    <latitude>36.7886</latitude>
+    <longitude>-97.295</longitude>
+    <elevation>311.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340814</id>
+    <displayName>BLACKWELL 1 W, OK US</displayName>
+    <minDate>1916-03-26</minDate>
+    <maxDate>1974-11-30</maxDate>
+    <latitude>36.8</latitude>
+    <longitude>-97.3</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340810</id>
+    <displayName>BLACKWELL 4 SSE MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>36.75417</latitude>
+    <longitude>-97.25444</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410828</id>
+    <displayName>BLACKWELL 6 NE, TX US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2010-04-30</maxDate>
+    <latitude>32.1225</latitude>
+    <longitude>-100.23333</longitude>
+    <elevation>723</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340818</id>
+    <displayName>BLACKWELL, OK US</displayName>
+    <minDate>1953-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8048</latitude>
+    <longitude>-97.2764</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410826</id>
+    <displayName>BLACKWELL, TX US</displayName>
+    <minDate>1936-08-01</minDate>
+    <maxDate>1942-08-31</maxDate>
+    <latitude>32.1</latitude>
+    <longitude>-100.3</longitude>
+    <elevation>655.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.356</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040875</id>
+    <displayName>BLACKWELLS CORNER, CA US</displayName>
+    <minDate>1963-06-01</minDate>
+    <maxDate>1975-05-31</maxDate>
+    <latitude>35.61667</latitude>
+    <longitude>-119.9</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00280847</id>
+    <displayName>BLACKWELLS MILLS, NJ US</displayName>
+    <minDate>1956-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4604</latitude>
+    <longitude>-74.5825</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6553</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10webs002</id>
+    <displayName>BLADEN 1.7 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>40.3067</latitude>
+    <longitude>-98.5694</longitude>
+    <elevation>609.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9662</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10webs009</id>
+    <displayName>BLADEN 4.4 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2786</latitude>
+    <longitude>-98.6577</longitude>
+    <elevation>616.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9529</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10webs014</id>
+    <displayName>BLADEN 8.7 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2007-10-05</maxDate>
+    <latitude>40.2109</latitude>
+    <longitude>-98.6741</longitude>
+    <elevation>613.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9353</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBD0001</id>
+    <displayName>BLADENBORO 2.0 NNW, NC US</displayName>
+    <minDate>2009-08-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5656</latitude>
+    <longitude>-78.8113</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330775</id>
+    <displayName>BLADENSBURG, OH US</displayName>
+    <minDate>1893-05-01</minDate>
+    <maxDate>1916-02-29</maxDate>
+    <latitude>40.3</latitude>
+    <longitude>-82.3</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.78</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360725</id>
+    <displayName>BLAIN 5 SW, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.3027</latitude>
+    <longitude>-77.5894</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9824</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0020</id>
+    <displayName>BLAINE 0.4 S, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.1646</latitude>
+    <longitude>-93.2072</longitude>
+    <elevation>276.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6586</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0028</id>
+    <displayName>BLAINE 0.8 WNW, MN US</displayName>
+    <minDate>2011-12-06</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>45.176</latitude>
+    <longitude>-93.2226</longitude>
+    <elevation>273.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5167</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0006</id>
+    <displayName>BLAINE 2.4 W, MN US</displayName>
+    <minDate>2010-07-11</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.1708</latitude>
+    <longitude>-93.257</longitude>
+    <elevation>277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPT0011</id>
+    <displayName>BLAINE 3.3 SE, KS US</displayName>
+    <minDate>2008-12-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>39.475</latitude>
+    <longitude>-96.3514</longitude>
+    <elevation>406.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.583</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140875</id>
+    <displayName>BLAINE, KS US</displayName>
+    <minDate>1894-09-01</minDate>
+    <maxDate>1897-06-30</maxDate>
+    <latitude>37.5</latitude>
+    <longitude>-96.4</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140877</id>
+    <displayName>BLAINE, KS US</displayName>
+    <minDate>1955-03-02</minDate>
+    <maxDate>2004-12-31</maxDate>
+    <latitude>39.5025</latitude>
+    <longitude>-96.3169</longitude>
+    <elevation>469.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9333</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150752</id>
+    <displayName>BLAINE, KY US</displayName>
+    <minDate>1956-05-01</minDate>
+    <maxDate>1978-12-31</maxDate>
+    <latitude>38.03333</latitude>
+    <longitude>-82.83333</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9603</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450729</id>
+    <displayName>BLAINE, WA US</displayName>
+    <minDate>1893-10-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>48.9775</latitude>
+    <longitude>-122.7927</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00380777</id>
+    <displayName>BLAIR 1 NE, SC US</displayName>
+    <minDate>1982-05-01</minDate>
+    <maxDate>2007-12-31</maxDate>
+    <latitude>34.43333</latitude>
+    <longitude>-81.39111</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470885</id>
+    <displayName>BLAIR 2 NW, WI US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2012-05-08</maxDate>
+    <latitude>44.3125</latitude>
+    <longitude>-91.26528</longitude>
+    <elevation>261.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10wash004</id>
+    <displayName>BLAIR 2.1 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2011-09-01</maxDate>
+    <latitude>41.5182</latitude>
+    <longitude>-96.1473</longitude>
+    <elevation>363.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7103</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10wash003</id>
+    <displayName>BLAIR 5.2 S, NE US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>41.4692</latitude>
+    <longitude>-96.1369</longitude>
+    <elevation>378.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250930</id>
+    <displayName>BLAIR, NE US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>2001-12-31</maxDate>
+    <latitude>41.55361</latitude>
+    <longitude>-96.14056</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9642</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00380772</id>
+    <displayName>BLAIR, SC US</displayName>
+    <minDate>1905-08-01</minDate>
+    <maxDate>1982-04-30</maxDate>
+    <latitude>34.41667</latitude>
+    <longitude>-81.4</longitude>
+    <elevation>81.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470882</id>
+    <displayName>BLAIR, WI US</displayName>
+    <minDate>1925-02-01</minDate>
+    <maxDate>2011-02-10</maxDate>
+    <latitude>44.2905</latitude>
+    <longitude>-91.23</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9605</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0024</id>
+    <displayName>BLAIRSTOWN TWP 1.8 W, NJ US</displayName>
+    <minDate>2011-11-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9784</latitude>
+    <longitude>-75.0329</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8066</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0004</id>
+    <displayName>BLAIRSTOWN TWP 2.0 SE, NJ US</displayName>
+    <minDate>2008-03-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9611</latitude>
+    <longitude>-74.97</longitude>
+    <elevation>202.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0008</id>
+    <displayName>BLAIRSTOWN TWP 4.1 SE, NJ US</displayName>
+    <minDate>2010-03-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9408</latitude>
+    <longitude>-74.9385</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0022</id>
+    <displayName>BLAIRSTOWN TWP 5.0 NE, NJ US</displayName>
+    <minDate>2010-03-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.0238</latitude>
+    <longitude>-74.9212</longitude>
+    <elevation>206.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230713</id>
+    <displayName>BLAIRSTOWN, MO US</displayName>
+    <minDate>1965-09-02</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>38.5587</latitude>
+    <longitude>-93.9599</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAUN0001</id>
+    <displayName>BLAIRSVILLE 4.2 E, GA US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8697</latitude>
+    <longitude>-83.8768</longitude>
+    <elevation>644.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360734</id>
+    <displayName>BLAIRSVILLE 5 E 2, PA US</displayName>
+    <minDate>1986-07-01</minDate>
+    <maxDate>1988-09-30</maxDate>
+    <latitude>40.43333</latitude>
+    <longitude>-79.18333</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360736</id>
+    <displayName>BLAIRSVILLE 5 E, PA US</displayName>
+    <minDate>1936-12-01</minDate>
+    <maxDate>1976-08-31</maxDate>
+    <latitude>40.43333</latitude>
+    <longitude>-79.15</longitude>
+    <elevation>615.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360738</id>
+    <displayName>BLAIRSVILLE 5 E, PA US</displayName>
+    <minDate>1976-09-01</minDate>
+    <maxDate>1986-06-30</maxDate>
+    <latitude>40.43333</latitude>
+    <longitude>-79.15</longitude>
+    <elevation>615.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAUN0002</id>
+    <displayName>BLAIRSVILLE 6.8 SSE, GA US</displayName>
+    <minDate>2008-10-13</minDate>
+    <maxDate>2010-03-15</maxDate>
+    <latitude>34.7866</latitude>
+    <longitude>-83.896</longitude>
+    <elevation>621.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5395</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAUN0008</id>
+    <displayName>BLAIRSVILLE 8.5 WSW, GA US</displayName>
+    <minDate>2012-02-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8363</latitude>
+    <longitude>-84.0943</longitude>
+    <elevation>610.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090969</id>
+    <displayName>BLAIRSVILLE EXPERIMENTAL STATION, GA US</displayName>
+    <minDate>1931-08-13</minDate>
+    <maxDate>2012-08-09</maxDate>
+    <latitude>34.8544</latitude>
+    <longitude>-83.9444</longitude>
+    <elevation>594.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250939</id>
+    <displayName>BLAKE, NE US</displayName>
+    <minDate>1913-01-01</minDate>
+    <maxDate>1918-12-31</maxDate>
+    <latitude>42.066667</latitude>
+    <longitude>-99.2</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210811</id>
+    <displayName>BLAKELEY, MN US</displayName>
+    <minDate>1940-05-07</minDate>
+    <maxDate>1941-05-31</maxDate>
+    <latitude>44.6</latitude>
+    <longitude>-93.866667</longitude>
+    <elevation>223.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8205</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALC0004</id>
+    <displayName>BLAKELY 1.5 ESE, PA US</displayName>
+    <minDate>2005-04-01</minDate>
+    <maxDate>2008-09-07</maxDate>
+    <latitude>41.48</latitude>
+    <longitude>-75.57</longitude>
+    <elevation>274</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030764</id>
+    <displayName>BLAKELY MOUNTAIN DAM, AR US</displayName>
+    <minDate>1950-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5697</latitude>
+    <longitude>-93.1947</longitude>
+    <elevation>129.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090979</id>
+    <displayName>BLAKELY, GA US</displayName>
+    <minDate>1889-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.2239</latitude>
+    <longitude>-84.5554</longitude>
+    <elevation>81.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8502</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140883</id>
+    <displayName>BLAKEMAN, KS US</displayName>
+    <minDate>1908-05-01</minDate>
+    <maxDate>1920-08-31</maxDate>
+    <latitude>39.816667</latitude>
+    <longitude>-101.133333</longitude>
+    <elevation>882.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360743</id>
+    <displayName>BLAKESLEE CORNERS, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.1</latitude>
+    <longitude>-75.6</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9752</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240912</id>
+    <displayName>BLAKESLEE, MT US</displayName>
+    <minDate>1921-03-31</minDate>
+    <maxDate>1955-03-25</maxDate>
+    <latitude>47.2</latitude>
+    <longitude>-108.66667</longitude>
+    <elevation>1068</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0261</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350788</id>
+    <displayName>BLALOCK, OR US</displayName>
+    <minDate>1899-01-12</minDate>
+    <maxDate>1938-02-28</maxDate>
+    <latitude>45.633333</latitude>
+    <longitude>-120.4</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4176</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COCS0010</id>
+    <displayName>BLANCA 14.3 SW, CO US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2008-04-06</maxDate>
+    <latitude>37.3145</latitude>
+    <longitude>-105.7244</longitude>
+    <elevation>2286.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5484</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050776</id>
+    <displayName>BLANCA 4 NW, CO US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>37.4787</latitude>
+    <longitude>-105.5718</longitude>
+    <elevation>2349.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7409</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKGY0001</id>
+    <displayName>BLANCHARD 1.8 SW, OK US</displayName>
+    <minDate>2006-07-23</minDate>
+    <maxDate>2011-08-13</maxDate>
+    <latitude>35.1287</latitude>
+    <longitude>-97.6828</longitude>
+    <elevation>412.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340830</id>
+    <displayName>BLANCHARD 2 SSW, OK US</displayName>
+    <minDate>1952-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.11833</latitude>
+    <longitude>-97.67</longitude>
+    <elevation>388.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9605</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKMC0002</id>
+    <displayName>BLANCHARD 2.1 ESE, OK US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>35.1333</latitude>
+    <longitude>-97.6242</longitude>
+    <elevation>380.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210826</id>
+    <displayName>BLANCHARD POWER STATION, MN US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1985-12-31</maxDate>
+    <latitude>45.86667</latitude>
+    <longitude>-94.35</longitude>
+    <elevation>328.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00170655</id>
+    <displayName>BLANCHARD, ME US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.267</latitude>
+    <longitude>-69.5838</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7124</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470892</id>
+    <displayName>BLANCHARDVILLE NUMBER 2, WI US</displayName>
+    <minDate>1954-01-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>42.8122</latitude>
+    <longitude>-89.8622</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470890</id>
+    <displayName>BLANCHARDVILLE, WI US</displayName>
+    <minDate>1948-09-23</minDate>
+    <maxDate>1953-12-31</maxDate>
+    <latitude>42.8169</latitude>
+    <longitude>-89.8627</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6199</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100940</id>
+    <displayName>BLANCHE, ID US</displayName>
+    <minDate>1909-02-01</minDate>
+    <maxDate>1910-04-30</maxDate>
+    <latitude>43.083333</latitude>
+    <longitude>-114.933333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8744</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBLC012</id>
+    <displayName>BLANCO 1.8 ESE, TX US</displayName>
+    <minDate>2009-08-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.0921</latitude>
+    <longitude>-98.3927</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKN0048</id>
+    <displayName>BLANCO 10.5 W, TX US</displayName>
+    <minDate>2009-02-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.083</latitude>
+    <longitude>-98.5978</longitude>
+    <elevation>522.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2241</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBLC008</id>
+    <displayName>BLANCO 3.9 ESE, TX US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2009-11-04</maxDate>
+    <latitude>30.0727</latitude>
+    <longitude>-98.3636</longitude>
+    <elevation>385.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBLC006</id>
+    <displayName>BLANCO 5.5 E, TX US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.0912</latitude>
+    <longitude>-98.3297</longitude>
+    <elevation>366.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9005</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBLC007</id>
+    <displayName>BLANCO 6.8 SSE, TX US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.0109</latitude>
+    <longitude>-98.3701</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBLC003</id>
+    <displayName>BLANCO 7.0 WNW, TX US</displayName>
+    <minDate>2008-02-04</minDate>
+    <maxDate>2009-07-27</maxDate>
+    <latitude>30.1388</latitude>
+    <longitude>-98.5298</longitude>
+    <elevation>500.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBLC011</id>
+    <displayName>BLANCO 8.8 ENE, TX US</displayName>
+    <minDate>2009-05-21</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.1485</latitude>
+    <longitude>-98.2865</longitude>
+    <elevation>494.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6662</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410832</id>
+    <displayName>BLANCO, TX US</displayName>
+    <minDate>1896-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1061</latitude>
+    <longitude>-98.4285</longitude>
+    <elevation>420.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291028</id>
+    <displayName>BLAND, NM US</displayName>
+    <minDate>1915-04-01</minDate>
+    <maxDate>1923-05-31</maxDate>
+    <latitude>35.76667</latitude>
+    <longitude>-106.46667</longitude>
+    <elevation>2255.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9001</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440792</id>
+    <displayName>BLAND, VA US</displayName>
+    <minDate>1944-02-01</minDate>
+    <maxDate>2011-12-31</maxDate>
+    <latitude>37.0997</latitude>
+    <longitude>-81.1161</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053012</id>
+    <displayName>BLANDING 26 SSW, UT US</displayName>
+    <minDate>2010-08-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.2667</latitude>
+    <longitude>-109.6074</longitude>
+    <elevation>1338.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420738</id>
+    <displayName>BLANDING, UT US</displayName>
+    <minDate>1904-11-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.613</latitude>
+    <longitude>-109.4847</longitude>
+    <elevation>1838.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9706</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150757</id>
+    <displayName>BLANDVILLE, KY US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>1928-04-30</maxDate>
+    <latitude>36.9</latitude>
+    <longitude>-88.96667</longitude>
+    <elevation>135.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200793</id>
+    <displayName>BLANEY, MI US</displayName>
+    <minDate>1906-06-14</minDate>
+    <maxDate>1911-01-31</maxDate>
+    <latitude>46.11667</latitude>
+    <longitude>-85.9</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410839</id>
+    <displayName>BLANKET, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>31.81667</latitude>
+    <longitude>-98.78333</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310878</id>
+    <displayName>BLANTYRE 2, NC US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.3044</latitude>
+    <longitude>-82.6306</longitude>
+    <elevation>655.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0060</id>
+    <displayName>BLASDELL 1.5 SSW, NY US</displayName>
+    <minDate>2009-10-10</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.7766</latitude>
+    <longitude>-78.8444</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500832</id>
+    <displayName>BLASHKE ISLAND, US</displayName>
+    <minDate>2001-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>56.1172</latitude>
+    <longitude>-132.9016</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021D33S</id>
+    <displayName>BLAZED ALDER, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.4167</latitude>
+    <longitude>-121.8667</longitude>
+    <elevation>1112.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150770</id>
+    <displayName>BLEDSOE 2 SSE, KY US</displayName>
+    <minDate>1957-12-01</minDate>
+    <maxDate>1958-05-31</maxDate>
+    <latitude>36.9</latitude>
+    <longitude>-83.33333</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5769</coverage>
+  </station>
+</stationCollection>

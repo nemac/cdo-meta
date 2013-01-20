@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="415">
+  <station>
+    <id>GHCND:US1UTTL0009</id>
+    <displayName>TOOELE 1.6 NNE, UT US</displayName>
+    <minDate>2009-11-06</minDate>
+    <maxDate>2010-05-28</maxDate>
+    <latitude>40.5567</latitude>
+    <longitude>-112.2873</longitude>
+    <elevation>1480.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTTL0003</id>
+    <displayName>TOOELE 1.6 SSW, UT US</displayName>
+    <minDate>2008-08-31</minDate>
+    <maxDate>2010-05-18</maxDate>
+    <latitude>40.5168</latitude>
+    <longitude>-112.3176</longitude>
+    <elevation>1544.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4297</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTTL0001</id>
+    <displayName>TOOELE 1.7 N, UT US</displayName>
+    <minDate>2008-06-21</minDate>
+    <maxDate>2011-11-29</maxDate>
+    <latitude>40.5607</latitude>
+    <longitude>-112.2951</longitude>
+    <elevation>1460.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3723</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094138</id>
+    <displayName>TOOELE, UT US</displayName>
+    <minDate>1951-06-27</minDate>
+    <maxDate>1951-11-08</maxDate>
+    <latitude>40.15</latitude>
+    <longitude>-113.06667</longitude>
+    <elevation>1318</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00428771</id>
+    <displayName>TOOELE, UT US</displayName>
+    <minDate>1896-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.5277</latitude>
+    <longitude>-112.2975</longitude>
+    <elevation>1546.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506144</id>
+    <displayName>TOOLIK, AK US</displayName>
+    <minDate>1970-10-01</minDate>
+    <maxDate>1975-05-15</maxDate>
+    <latitude>68.63333</latitude>
+    <longitude>-149.56667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1736</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048963</id>
+    <displayName>TOPANGA CANYON WOODL, CA US</displayName>
+    <minDate>1927-10-01</minDate>
+    <maxDate>1930-12-31</maxDate>
+    <latitude>34.13333</latitude>
+    <longitude>-118.31667</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6086</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048967</id>
+    <displayName>TOPANGA PTRL STATION FC6, CA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.0841</latitude>
+    <longitude>-118.5988</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00238412</id>
+    <displayName>TOPAZ 4 NE, MO US</displayName>
+    <minDate>1939-06-01</minDate>
+    <maxDate>1969-02-28</maxDate>
+    <latitude>36.96667</latitude>
+    <longitude>-92.2</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00268202</id>
+    <displayName>TOPAZ LAKE 4 N, NV US</displayName>
+    <minDate>1986-12-01</minDate>
+    <maxDate>2000-08-31</maxDate>
+    <latitude>38.74556</latitude>
+    <longitude>-119.51</longitude>
+    <elevation>1699.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.95</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048970</id>
+    <displayName>TOPAZ LAKE, CA US</displayName>
+    <minDate>1955-03-23</minDate>
+    <maxDate>1957-06-30</maxDate>
+    <latitude>38.66667</latitude>
+    <longitude>-119.55</longitude>
+    <elevation>1537.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00268186</id>
+    <displayName>TOPAZ LAKE, CA US</displayName>
+    <minDate>1957-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.4137</latitude>
+    <longitude>-119.32</longitude>
+    <elevation>1544.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048969</id>
+    <displayName>TOPAZ, CA US</displayName>
+    <minDate>1953-04-01</minDate>
+    <maxDate>1955-01-31</maxDate>
+    <latitude>38.6</latitude>
+    <longitude>-119.48333</longitude>
+    <elevation>1539.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00428780</id>
+    <displayName>TOPAZ, UT US</displayName>
+    <minDate>1942-11-01</minDate>
+    <maxDate>1944-12-31</maxDate>
+    <latitude>39.433333</latitude>
+    <longitude>-112.75</longitude>
+    <elevation>1392.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSN0006</id>
+    <displayName>TOPEKA 0.4 SSW, KS US</displayName>
+    <minDate>2006-08-20</minDate>
+    <maxDate>2008-07-10</maxDate>
+    <latitude>39.0326</latitude>
+    <longitude>-95.6949</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8191</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSN0012</id>
+    <displayName>TOPEKA 0.9 WNW, KS US</displayName>
+    <minDate>2008-08-22</minDate>
+    <maxDate>2012-12-07</maxDate>
+    <latitude>39.041</latitude>
+    <longitude>-95.708</longitude>
+    <elevation>289.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8228</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSN0016</id>
+    <displayName>TOPEKA 2.1 WSW, KS US</displayName>
+    <minDate>2010-09-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0252</latitude>
+    <longitude>-95.7272</longitude>
+    <elevation>285.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9846</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSN0014</id>
+    <displayName>TOPEKA 4.1 W, KS US</displayName>
+    <minDate>2009-09-21</minDate>
+    <maxDate>2012-10-02</maxDate>
+    <latitude>39.0444</latitude>
+    <longitude>-95.7687</longitude>
+    <elevation>317.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1597</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSN0007</id>
+    <displayName>TOPEKA 4.6 ESE, KS US</displayName>
+    <minDate>2007-01-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0171</latitude>
+    <longitude>-95.6113</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9461</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSN0013</id>
+    <displayName>TOPEKA 4.9 SW, KS US</displayName>
+    <minDate>2009-04-29</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.9941</latitude>
+    <longitude>-95.7628</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSN0005</id>
+    <displayName>TOPEKA 8.5 E, KS US</displayName>
+    <minDate>2006-01-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0149</latitude>
+    <longitude>-95.5367</longitude>
+    <elevation>309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013920</id>
+    <displayName>TOPEKA FORBES FIELD, KS US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.95028</latitude>
+    <longitude>-95.66389</longitude>
+    <elevation>325.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013996</id>
+    <displayName>TOPEKA MUNICIPAL AIRPORT, KS US</displayName>
+    <minDate>1946-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.0725</latitude>
+    <longitude>-95.6261</longitude>
+    <elevation>267</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148168</id>
+    <displayName>TOPEKA NUMBER 2, KS US</displayName>
+    <minDate>1934-10-01</minDate>
+    <maxDate>1943-06-15</maxDate>
+    <latitude>39.066667</latitude>
+    <longitude>-95.7</longitude>
+    <elevation>272.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148170</id>
+    <displayName>TOPEKA NUMBER 3, KS US</displayName>
+    <minDate>1940-10-27</minDate>
+    <maxDate>1944-01-31</maxDate>
+    <latitude>39</latitude>
+    <longitude>-95.633333</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148171</id>
+    <displayName>TOPEKA NWS, KS US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.07222</latitude>
+    <longitude>-95.63028</longitude>
+    <elevation>267.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00128809</id>
+    <displayName>TOPEKA, IN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1905-08-31</maxDate>
+    <latitude>41.58333</latitude>
+    <longitude>-85.56667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148172</id>
+    <displayName>TOPEKA, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1958-05-31</maxDate>
+    <latitude>39.05</latitude>
+    <longitude>-95.66667</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148163</id>
+    <displayName>TOPEKA, KS US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1944-12-30</maxDate>
+    <latitude>39.06667</latitude>
+    <longitude>-95.65</longitude>
+    <elevation>259.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028686</id>
+    <displayName>TOPOCK 2 SSE, AZ US</displayName>
+    <minDate>1903-08-01</minDate>
+    <maxDate>1960-08-31</maxDate>
+    <latitude>34.7</latitude>
+    <longitude>-114.45</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2148</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMH0004</id>
+    <displayName>TOPOCK 3.3 NNW, AZ US</displayName>
+    <minDate>2010-01-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.7663</latitude>
+    <longitude>-114.4954</longitude>
+    <elevation>169.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9236</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028678</id>
+    <displayName>TOPOCK, AZ US</displayName>
+    <minDate>1961-02-01</minDate>
+    <maxDate>1963-09-30</maxDate>
+    <latitude>34.71667</latitude>
+    <longitude>-114.48333</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458530</id>
+    <displayName>TOPPENISH, WA US</displayName>
+    <minDate>1925-04-01</minDate>
+    <maxDate>1933-11-21</maxDate>
+    <latitude>46.366667</latitude>
+    <longitude>-120.283333</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.95</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCPD0002</id>
+    <displayName>TOPSAIL BEACH 0.9 E, NC US</displayName>
+    <minDate>2007-09-03</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>34.3756</latitude>
+    <longitude>-77.6176</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00178792</id>
+    <displayName>TOPSFIELD 2, ME US</displayName>
+    <minDate>2004-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4353</latitude>
+    <longitude>-67.7213</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00228899</id>
+    <displayName>TOPTON 2, MS US</displayName>
+    <minDate>2002-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4686</latitude>
+    <longitude>-88.6083</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00428785</id>
+    <displayName>TOQUERVILLE, UT US</displayName>
+    <minDate>1940-11-01</minDate>
+    <maxDate>1942-04-30</maxDate>
+    <latitude>37.25</latitude>
+    <longitude>-113.283333</longitude>
+    <elevation>1002.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NTOQ</id>
+    <displayName>TOQUOP WASH NEVADA, NV US</displayName>
+    <minDate>1990-06-12</minDate>
+    <maxDate>1998-02-10</maxDate>
+    <latitude>36.9133</latitude>
+    <longitude>-114.195</longitude>
+    <elevation>745.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468893</id>
+    <displayName>TORNADO 2 NW, WV US</displayName>
+    <minDate>1998-09-01</minDate>
+    <maxDate>2007-08-21</maxDate>
+    <latitude>38.36139</latitude>
+    <longitude>-81.84972</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419088</id>
+    <displayName>TORNILLO 2 SSE, TX US</displayName>
+    <minDate>1946-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.40278</latitude>
+    <longitude>-106.05806</longitude>
+    <elevation>1074.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4776</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00669432</id>
+    <displayName>TORO NEGRO FOREST, PR US</displayName>
+    <minDate>1982-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.1731</latitude>
+    <longitude>-66.4928</longitude>
+    <elevation>868.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9009</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00669466</id>
+    <displayName>TORO NEGRO PLANT 2, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1981-07-31</maxDate>
+    <latitude>18.16667</latitude>
+    <longitude>-66.51667</longitude>
+    <elevation>685.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSWO0001</id>
+    <displayName>TORONTO 0.2 N, KS US</displayName>
+    <minDate>2008-03-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.8012</latitude>
+    <longitude>-95.9489</longitude>
+    <elevation>292.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6372</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398320</id>
+    <displayName>TORONTO 5 NW, SD US</displayName>
+    <minDate>2003-11-01</minDate>
+    <maxDate>2007-09-30</maxDate>
+    <latitude>44.63667</latitude>
+    <longitude>-96.73639</longitude>
+    <elevation>609</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148191</id>
+    <displayName>TORONTO LAKE, KS US</displayName>
+    <minDate>1956-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.74167</latitude>
+    <longitude>-95.93333</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8272</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148186</id>
+    <displayName>TORONTO, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1962-11-30</maxDate>
+    <latitude>37.8</latitude>
+    <longitude>-95.95</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368901</id>
+    <displayName>TORPEDO 4 W, PA US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>1966-11-30</maxDate>
+    <latitude>41.78333</latitude>
+    <longitude>-79.53333</longitude>
+    <elevation>531</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9808</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368897</id>
+    <displayName>TORPEDO, PA US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>1973-04-30</maxDate>
+    <latitude>41.78333</latitude>
+    <longitude>-79.46667</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6587</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0003</id>
+    <displayName>TORRANCE 2.8 SW, CA US</displayName>
+    <minDate>2008-10-31</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.7902</latitude>
+    <longitude>-118.3369</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9545</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003122</id>
+    <displayName>TORRANCE AIRPORT, CA US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.8016</latitude>
+    <longitude>-118.3419</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299020</id>
+    <displayName>TORRANCE, NM US</displayName>
+    <minDate>1904-06-04</minDate>
+    <maxDate>1926-06-30</maxDate>
+    <latitude>34.35</latitude>
+    <longitude>-105.53333</longitude>
+    <elevation>1960.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299029</id>
+    <displayName>TORREON DAY SCHOOL, NM US</displayName>
+    <minDate>1944-07-01</minDate>
+    <maxDate>1946-08-31</maxDate>
+    <latitude>35.783333</latitude>
+    <longitude>-107.25</longitude>
+    <elevation>1905</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3485</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299031</id>
+    <displayName>TORREON NAVAJO MISSION, NM US</displayName>
+    <minDate>1961-01-13</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.7991</latitude>
+    <longitude>-107.1813</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053149</id>
+    <displayName>TORREY 7 E, UT US</displayName>
+    <minDate>2007-10-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.3028</latitude>
+    <longitude>-111.2935</longitude>
+    <elevation>1891</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00489000</id>
+    <displayName>TORRINGTON 1 S, WY US</displayName>
+    <minDate>1948-08-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-104.18333</longitude>
+    <elevation>1246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00068438</id>
+    <displayName>TORRINGTON 1, CT US</displayName>
+    <minDate>1915-07-01</minDate>
+    <maxDate>1924-12-31</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-73.116667</longitude>
+    <elevation>190.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9432</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0007</id>
+    <displayName>TORRINGTON 1.0 WSW, WY US</displayName>
+    <minDate>2008-06-05</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>42.0614</latitude>
+    <longitude>-104.2006</longitude>
+    <elevation>1250</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7333</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0021</id>
+    <displayName>TORRINGTON 1.2 WSW, WY US</displayName>
+    <minDate>2010-05-28</minDate>
+    <maxDate>2011-12-03</maxDate>
+    <latitude>42.0605</latitude>
+    <longitude>-104.2024</longitude>
+    <elevation>1248.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7027</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00068441</id>
+    <displayName>TORRINGTON 2, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-73.13333</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488997</id>
+    <displayName>TORRINGTON 29 N, WY US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.488</latitude>
+    <longitude>-104.1563</longitude>
+    <elevation>1481.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0002</id>
+    <displayName>TORRINGTON 4.6 SSW, WY US</displayName>
+    <minDate>2004-05-04</minDate>
+    <maxDate>2011-02-11</maxDate>
+    <latitude>42.002</latitude>
+    <longitude>-104.2153</longitude>
+    <elevation>1323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0020</id>
+    <displayName>TORRINGTON 9.6 SSE, WY US</displayName>
+    <minDate>2010-06-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.9442</latitude>
+    <longitude>-104.0962</longitude>
+    <elevation>1268.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0005</id>
+    <displayName>TORRINGTON AIRPORT, WY US</displayName>
+    <minDate>2003-10-05</minDate>
+    <maxDate>2006-03-31</maxDate>
+    <latitude>42.0666</latitude>
+    <longitude>-104.15</longitude>
+    <elevation>1278.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488995</id>
+    <displayName>TORRINGTON EXPERIMENTAL FARM, WY US</displayName>
+    <minDate>1922-01-01</minDate>
+    <maxDate>2007-06-27</maxDate>
+    <latitude>42.0802</latitude>
+    <longitude>-104.2236</longitude>
+    <elevation>1249.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094053</id>
+    <displayName>TORRINGTON MUNICIPAL AIRPORT, WY US</displayName>
+    <minDate>1998-05-28</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.0613</latitude>
+    <longitude>-104.1584</longitude>
+    <elevation>1279.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00068436</id>
+    <displayName>TORRINGTON, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-73.11667</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0009</id>
+    <displayName>TORRINGTON, WY US</displayName>
+    <minDate>2005-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0586</latitude>
+    <longitude>-104.1684</longitude>
+    <elevation>1249.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248314</id>
+    <displayName>TOSTON 1 W, MT US</displayName>
+    <minDate>1957-04-01</minDate>
+    <maxDate>1982-02-19</maxDate>
+    <latitude>46.16667</latitude>
+    <longitude>-111.46667</longitude>
+    <elevation>1199.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248313</id>
+    <displayName>TOSTON 2 SW, MT US</displayName>
+    <minDate>1895-09-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>46.15</latitude>
+    <longitude>-111.48333</longitude>
+    <elevation>1204.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0017C05S</id>
+    <displayName>TOUCHET NUMBER 2, WA US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.1167</latitude>
+    <longitude>-117.85</longitude>
+    <elevation>1685.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458543</id>
+    <displayName>TOUCHET RIDGE, WA US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1943-08-31</maxDate>
+    <latitude>46.11667</latitude>
+    <longitude>-117.98333</longitude>
+    <elevation>1097.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458540</id>
+    <displayName>TOUCHET, WA US</displayName>
+    <minDate>1905-02-21</minDate>
+    <maxDate>1940-09-30</maxDate>
+    <latitude>46.03333</latitude>
+    <longitude>-118.66667</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8712</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00118630</id>
+    <displayName>TOULON, IL US</displayName>
+    <minDate>1942-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0908</latitude>
+    <longitude>-89.8615</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6159</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419099</id>
+    <displayName>TOW, TX US</displayName>
+    <minDate>1978-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.8797</latitude>
+    <longitude>-98.4727</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368905</id>
+    <displayName>TOWANDA 1 S, PA US</displayName>
+    <minDate>1894-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7511</latitude>
+    <longitude>-76.443</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABF0006</id>
+    <displayName>TOWANDA 4.6 NNE, PA US</displayName>
+    <minDate>2007-11-16</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>41.8356</latitude>
+    <longitude>-76.4237</longitude>
+    <elevation>383.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5678</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBU0017</id>
+    <displayName>TOWANDA 4.9 NNE, KS US</displayName>
+    <minDate>2011-06-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8647</latitude>
+    <longitude>-96.9688</longitude>
+    <elevation>423.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218311</id>
+    <displayName>TOWER 2 S, MN US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.7817</latitude>
+    <longitude>-92.2784</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368912</id>
+    <displayName>TOWER CITY 2 E, PA US</displayName>
+    <minDate>1961-04-01</minDate>
+    <maxDate>1965-06-30</maxDate>
+    <latitude>40.58333</latitude>
+    <longitude>-76.51667</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368910</id>
+    <displayName>TOWER CITY 5 SW, PA US</displayName>
+    <minDate>1937-10-01</minDate>
+    <maxDate>1961-03-31</maxDate>
+    <latitude>40.51667</latitude>
+    <longitude>-76.61667</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368908</id>
+    <displayName>TOWER CITY, PA US</displayName>
+    <minDate>1949-08-01</minDate>
+    <maxDate>1951-02-07</maxDate>
+    <latitude>40.58333</latitude>
+    <longitude>-76.56667</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218307</id>
+    <displayName>TOWER DNR, MN US</displayName>
+    <minDate>1994-01-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>47.8002</latitude>
+    <longitude>-92.2866</longitude>
+    <elevation>432.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8402</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00489025</id>
+    <displayName>TOWER FALLS, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9166</latitude>
+    <longitude>-110.4202</longitude>
+    <elevation>1909.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006J29S</id>
+    <displayName>TOWER, CO US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.5333</latitude>
+    <longitude>-106.6833</longitude>
+    <elevation>3200.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418568</id>
+    <displayName>TOWN BLUFF DAM, TX US</displayName>
+    <minDate>1953-08-01</minDate>
+    <maxDate>1970-01-31</maxDate>
+    <latitude>30.793</latitude>
+    <longitude>-94.1819</longitude>
+    <elevation>65.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419101</id>
+    <displayName>TOWN BLUFF DAM, TX US</displayName>
+    <minDate>1970-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.793</latitude>
+    <longitude>-94.1819</longitude>
+    <elevation>65.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ITOW</id>
+    <displayName>TOWN CREEK IDAHO, ID US</displayName>
+    <minDate>1985-05-28</minDate>
+    <maxDate>2012-08-24</maxDate>
+    <latitude>43.9333</latitude>
+    <longitude>-115.9167</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8537</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478540</id>
+    <displayName>TOWN OF WESTFORD, WI US</displayName>
+    <minDate>2005-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4719</latitude>
+    <longitude>-88.8824</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00328792</id>
+    <displayName>TOWNER 2 NE, ND US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.3706</latitude>
+    <longitude>-100.3907</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKW0014</id>
+    <displayName>TOWNER 6.7 NW, CO US</displayName>
+    <minDate>2004-02-29</minDate>
+    <maxDate>2009-10-22</maxDate>
+    <latitude>38.5437</latitude>
+    <longitude>-102.1624</longitude>
+    <elevation>1221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.112</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTBW0001</id>
+    <displayName>TOWNSEND 11.5 E, MT US</displayName>
+    <minDate>2008-06-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.3346</latitude>
+    <longitude>-111.2827</longitude>
+    <elevation>1480.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9272</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248329</id>
+    <displayName>TOWNSEND 12 ENE, MT US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.3569</latitude>
+    <longitude>-111.2838</longitude>
+    <elevation>1539.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MAMD0004</id>
+    <displayName>TOWNSEND 3.2 NW, MA US</displayName>
+    <minDate>2009-03-21</minDate>
+    <maxDate>2009-11-16</maxDate>
+    <latitude>42.6985</latitude>
+    <longitude>-71.7519</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409065</id>
+    <displayName>TOWNSEND 5 S, TN US</displayName>
+    <minDate>1999-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6031</latitude>
+    <longitude>-83.7781</longitude>
+    <elevation>550.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAMI0005</id>
+    <displayName>TOWNSEND 5.5 SE, GA US</displayName>
+    <minDate>2009-02-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.5723</latitude>
+    <longitude>-81.3606</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSV0009</id>
+    <displayName>TOWNSEND 6.1 ENE, TN US</displayName>
+    <minDate>2010-06-21</minDate>
+    <maxDate>2012-03-30</maxDate>
+    <latitude>35.6979</latitude>
+    <longitude>-83.6466</longitude>
+    <elevation>516</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3082</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008G07S</id>
+    <displayName>TOWNSEND CREEK, WY US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-108.9</longitude>
+    <elevation>2651.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8401</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248324</id>
+    <displayName>TOWNSEND, MT US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.3308</latitude>
+    <longitude>-111.5378</longitude>
+    <elevation>1170.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409063</id>
+    <displayName>TOWNSEND, TN US</displayName>
+    <minDate>1951-07-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.68333</latitude>
+    <longitude>-83.75</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478561</id>
+    <displayName>TOWNSEND, WI US</displayName>
+    <minDate>1910-08-06</minDate>
+    <maxDate>1968-07-31</maxDate>
+    <latitude>45.33333</latitude>
+    <longitude>-88.58333</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3679</coverage>
+  </station>
+</stationCollection>

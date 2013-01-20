@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="252">
+  <station>
+    <id>GHCND:US1CALK0008</id>
+    <displayName>LOWER LAKE 4.0 SE, CA US</displayName>
+    <minDate>2009-08-16</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>38.8652</latitude>
+    <longitude>-122.5636</longitude>
+    <elevation>483.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425229</id>
+    <displayName>LOWER MILL CREEK POW, UT US</displayName>
+    <minDate>1913-12-01</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>40.7</latitude>
+    <longitude>-111.78333</longitude>
+    <elevation>1513</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454841</id>
+    <displayName>LOWER MONUMENTAL DAM, WA US</displayName>
+    <minDate>1962-10-01</minDate>
+    <maxDate>2007-03-23</maxDate>
+    <latitude>46.5642</latitude>
+    <longitude>-118.5397</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4139</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045162</id>
+    <displayName>LOWER OTAY RESERVOIR, CA US</displayName>
+    <minDate>1940-09-01</minDate>
+    <maxDate>1956-10-31</maxDate>
+    <latitude>32.61667</latitude>
+    <longitude>-116.93333</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214884</id>
+    <displayName>LOWER ST ANTHONY FALLS, MN US</displayName>
+    <minDate>1991-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9783</latitude>
+    <longitude>-93.2469</longitude>
+    <elevation>229.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000FLSU</id>
+    <displayName>LOWER SUWANNEE FLORIDA, FL US</displayName>
+    <minDate>2002-12-30</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>29.3731</latitude>
+    <longitude>-83.0344</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9128</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011D11S</id>
+    <displayName>LOWER TWIN, MT US</displayName>
+    <minDate>1980-08-16</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.5</latitude>
+    <longitude>-111.9167</longitude>
+    <elevation>2407.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8614</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJCM0004</id>
+    <displayName>LOWER TWP 2.2 NE, NJ US</displayName>
+    <minDate>2008-05-12</minDate>
+    <maxDate>2012-11-07</maxDate>
+    <latitude>39.0064</latitude>
+    <longitude>-74.8825</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245235</id>
+    <displayName>LOWETH, MT US</displayName>
+    <minDate>1926-07-01</minDate>
+    <maxDate>1959-07-24</maxDate>
+    <latitude>46.36667</latitude>
+    <longitude>-110.7</longitude>
+    <elevation>1769.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105426</id>
+    <displayName>LOWMAN 3 E NUMBER 2, ID US</displayName>
+    <minDate>1964-07-01</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>44.08333</latitude>
+    <longitude>-115.56667</longitude>
+    <elevation>1214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9257</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105420</id>
+    <displayName>LOWMAN 3 E, ID US</displayName>
+    <minDate>1961-08-18</minDate>
+    <maxDate>1964-06-30</maxDate>
+    <latitude>44.08333</latitude>
+    <longitude>-115.56667</longitude>
+    <elevation>1179.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9027</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105414</id>
+    <displayName>LOWMAN, ID US</displayName>
+    <minDate>1909-10-01</minDate>
+    <maxDate>2008-12-31</maxDate>
+    <latitude>44.08278</latitude>
+    <longitude>-115.61861</longitude>
+    <elevation>1194.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7406</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDWL0003</id>
+    <displayName>LOWRY 1.1 WNW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.3212</latitude>
+    <longitude>-100.0023</longitude>
+    <elevation>574.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3637</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSR0001</id>
+    <displayName>LOWRY CITY 3.8 ESE, MO US</displayName>
+    <minDate>2006-07-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.128</latitude>
+    <longitude>-93.6587</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCLL020</id>
+    <displayName>LOWRY CROSSING 0.3 SSE, TX US</displayName>
+    <minDate>2008-03-08</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.1636</latitude>
+    <longitude>-96.5432</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105427</id>
+    <displayName>LOWRY, ID US</displayName>
+    <minDate>1908-05-17</minDate>
+    <maxDate>1910-09-30</maxDate>
+    <latitude>42.55</latitude>
+    <longitude>-117</longitude>
+    <elevation>1432.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCS0001</id>
+    <displayName>LOWRYS 3.6 ENE, SC US</displayName>
+    <minDate>2008-02-27</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>34.8201</latitude>
+    <longitude>-81.1777</longitude>
+    <elevation>183.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304912</id>
+    <displayName>LOWVILLE, NY US</displayName>
+    <minDate>1891-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.7976</latitude>
+    <longitude>-75.4817</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00085184</id>
+    <displayName>LOXAHATCHEE NWR, FL US</displayName>
+    <minDate>1990-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>26.4985</latitude>
+    <longitude>-80.216</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9537</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00085182</id>
+    <displayName>LOXAHATCHEE, FL US</displayName>
+    <minDate>1940-07-30</minDate>
+    <maxDate>1988-01-31</maxDate>
+    <latitude>26.68333</latitude>
+    <longitude>-80.26667</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9864</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALBW0026</id>
+    <displayName>LOXLEY 0.4 SSW, AL US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6216</latitude>
+    <longitude>-87.7578</longitude>
+    <elevation>60</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365212</id>
+    <displayName>LOYALHANNA LAKE, PA US</displayName>
+    <minDate>1980-07-01</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>40.4586</latitude>
+    <longitude>-79.4503</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9329</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365216</id>
+    <displayName>LOYALSOCK, PA US</displayName>
+    <minDate>1926-12-05</minDate>
+    <maxDate>1938-12-29</maxDate>
+    <latitude>41.316667</latitude>
+    <longitude>-76.916667</longitude>
+    <elevation>183.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3008</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045171</id>
+    <displayName>LOYALTON, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1972-11-30</maxDate>
+    <latitude>39.68333</latitude>
+    <longitude>-120.25</longitude>
+    <elevation>1506.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5545</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165620</id>
+    <displayName>LSU BEN HUR FARM, LA US</displayName>
+    <minDate>1963-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.3644</latitude>
+    <longitude>-91.1672</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167368</id>
+    <displayName>LSU CITRUS RES STATION, LA US</displayName>
+    <minDate>1975-08-01</minDate>
+    <maxDate>1984-03-31</maxDate>
+    <latitude>29.58139</latitude>
+    <longitude>-89.82222</longitude>
+    <elevation>1.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162478</id>
+    <displayName>LSU CITRUS RES STATION, LA US</displayName>
+    <minDate>1958-09-25</minDate>
+    <maxDate>1975-07-31</maxDate>
+    <latitude>29.58139</latitude>
+    <longitude>-89.82222</longitude>
+    <elevation>1.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165624</id>
+    <displayName>LSU CITRUS RES STATION, LA US</displayName>
+    <minDate>1984-05-01</minDate>
+    <maxDate>2011-01-31</maxDate>
+    <latitude>29.58139</latitude>
+    <longitude>-89.82222</longitude>
+    <elevation>1.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165630</id>
+    <displayName>LSU DEAN LEE RES STATION, LA US</displayName>
+    <minDate>1976-03-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>31.17833</latitude>
+    <longitude>-92.41083</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAEB0033</id>
+    <displayName>LSU, LA US</displayName>
+    <minDate>2008-01-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4118</latitude>
+    <longitude>-91.1786</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HLUA</id>
+    <displayName>LUA MAKIKA HAWAII, HI US</displayName>
+    <minDate>2001-09-27</minDate>
+    <maxDate>2012-02-13</maxDate>
+    <latitude>20.5625</latitude>
+    <longitude>-156.5631</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8452</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515637</id>
+    <displayName>LUAKAHA LOWER 782, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>21.35</latitude>
+    <longitude>-157.81667</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515647</id>
+    <displayName>LUALUALEI 804, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.4212</latitude>
+    <longitude>-158.1351</longitude>
+    <elevation>36</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5141</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515650</id>
+    <displayName>LUALUALEI TR NL 803., HI US</displayName>
+    <minDate>1953-12-01</minDate>
+    <maxDate>1976-05-31</maxDate>
+    <latitude>21.48333</latitude>
+    <longitude>-158.13333</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0008</id>
+    <displayName>LUBBOCK 0.7 SE, TX US</displayName>
+    <minDate>2008-01-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5681</latitude>
+    <longitude>-101.8677</longitude>
+    <elevation>982.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9151</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0048</id>
+    <displayName>LUBBOCK 13.2 N, TX US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.7667</latitude>
+    <longitude>-101.8752</longitude>
+    <elevation>1013.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9152</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415412</id>
+    <displayName>LUBBOCK 2, TX US</displayName>
+    <minDate>1938-06-01</minDate>
+    <maxDate>1939-05-31</maxDate>
+    <latitude>33.58333</latitude>
+    <longitude>-101.88333</longitude>
+    <elevation>982.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0027</id>
+    <displayName>LUBBOCK 2.4 NW, TX US</displayName>
+    <minDate>2009-08-13</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>33.6041</latitude>
+    <longitude>-101.8992</longitude>
+    <elevation>980.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1327</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0017</id>
+    <displayName>LUBBOCK 2.6 W, TX US</displayName>
+    <minDate>2008-06-26</minDate>
+    <maxDate>2010-02-04</maxDate>
+    <latitude>33.5793</latitude>
+    <longitude>-101.9198</longitude>
+    <elevation>990</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7691</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0033</id>
+    <displayName>LUBBOCK 2.9 NW, TX US</displayName>
+    <minDate>2010-08-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.5999</latitude>
+    <longitude>-101.9168</longitude>
+    <elevation>989.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9102</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0021</id>
+    <displayName>LUBBOCK 3.1 S, TX US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>33.5317</latitude>
+    <longitude>-101.8817</longitude>
+    <elevation>982.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0011</id>
+    <displayName>LUBBOCK 3.3 S, TX US</displayName>
+    <minDate>2008-01-31</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>33.5281</latitude>
+    <longitude>-101.8762</longitude>
+    <elevation>986</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0012</id>
+    <displayName>LUBBOCK 4.2 SW, TX US</displayName>
+    <minDate>2008-05-15</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>33.5499</latitude>
+    <longitude>-101.9192</longitude>
+    <elevation>993</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1415</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0003</id>
+    <displayName>LUBBOCK 4.7 WNW, TX US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.5891</latitude>
+    <longitude>-101.955</longitude>
+    <elevation>999.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1503</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0050</id>
+    <displayName>LUBBOCK 5.0 W, TX US</displayName>
+    <minDate>2012-04-10</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>33.5812</latitude>
+    <longitude>-101.9618</longitude>
+    <elevation>1002.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0014</id>
+    <displayName>LUBBOCK 5.3 SSW, TX US</displayName>
+    <minDate>2008-06-18</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.5115</latitude>
+    <longitude>-101.926</longitude>
+    <elevation>990</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0005</id>
+    <displayName>LUBBOCK 5.5 SW, TX US</displayName>
+    <minDate>2007-10-18</minDate>
+    <maxDate>2008-02-17</maxDate>
+    <latitude>33.5101</latitude>
+    <longitude>-101.9283</longitude>
+    <elevation>990.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0031</id>
+    <displayName>LUBBOCK 5.6 S, TX US</displayName>
+    <minDate>2010-07-22</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.4958</latitude>
+    <longitude>-101.8935</longitude>
+    <elevation>983.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8595</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0039</id>
+    <displayName>LUBBOCK 5.7 SW, TX US</displayName>
+    <minDate>2010-08-31</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.5114</latitude>
+    <longitude>-101.9358</longitude>
+    <elevation>997.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415408</id>
+    <displayName>LUBBOCK 6 NNE, TX US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2010-01-31</maxDate>
+    <latitude>33.65778</latitude>
+    <longitude>-101.81333</longitude>
+    <elevation>991.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0006</id>
+    <displayName>LUBBOCK 6.1 SW, TX US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.5026</latitude>
+    <longitude>-101.9347</longitude>
+    <elevation>1000</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0032</id>
+    <displayName>LUBBOCK 6.5 WSW, TX US</displayName>
+    <minDate>2010-07-29</minDate>
+    <maxDate>2011-08-07</maxDate>
+    <latitude>33.525</latitude>
+    <longitude>-101.9705</longitude>
+    <elevation>999.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0028</id>
+    <displayName>LUBBOCK 6.6 SW, TX US</displayName>
+    <minDate>2009-10-09</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.5097</latitude>
+    <longitude>-101.9585</longitude>
+    <elevation>997.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1254</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0007</id>
+    <displayName>LUBBOCK 6.7 SW, TX US</displayName>
+    <minDate>2007-11-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.5172</latitude>
+    <longitude>-101.9681</longitude>
+    <elevation>1003.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0004</id>
+    <displayName>LUBBOCK 6.8 ENE, TX US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2010-07-27</maxDate>
+    <latitude>33.62</latitude>
+    <longitude>-101.77</longitude>
+    <elevation>972.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415410</id>
+    <displayName>LUBBOCK 9 N, TX US</displayName>
+    <minDate>1911-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6897</latitude>
+    <longitude>-101.8219</longitude>
+    <elevation>989.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023042</id>
+    <displayName>LUBBOCK INTERNATIONAL AIRPORT, TX US</displayName>
+    <minDate>1947-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.6656</latitude>
+    <longitude>-101.8231</longitude>
+    <elevation>991.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0022</id>
+    <displayName>LUBBOCK INTERNATIONAL, TX US</displayName>
+    <minDate>2008-09-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.6658</latitude>
+    <longitude>-101.8233</longitude>
+    <elevation>996.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415409</id>
+    <displayName>LUBBOCK WEATHER FORECAST OFFICE, TX US</displayName>
+    <minDate>2012-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.52806</latitude>
+    <longitude>-101.87611</longitude>
+    <elevation>986</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEWS0012</id>
+    <displayName>LUBEC 1.4 SE, ME US</displayName>
+    <minDate>2010-06-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8296</latitude>
+    <longitude>-66.9927</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8496</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEWS0008</id>
+    <displayName>LUBEC 4.1 W, ME US</displayName>
+    <minDate>2009-07-16</minDate>
+    <maxDate>2012-11-14</maxDate>
+    <latitude>44.8569</latitude>
+    <longitude>-67.0683</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245250</id>
+    <displayName>LUBEC, MT US</displayName>
+    <minDate>1907-11-01</minDate>
+    <maxDate>1910-02-28</maxDate>
+    <latitude>48.383333</latitude>
+    <longitude>-113.283333</longitude>
+    <elevation>1539.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013C38S</id>
+    <displayName>LUBRECHT FLUME, MT US</displayName>
+    <minDate>1970-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.8833</latitude>
+    <longitude>-113.3167</longitude>
+    <elevation>1426.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8676</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCLL017</id>
+    <displayName>LUCAS 3.7 E, TX US</displayName>
+    <minDate>2008-01-31</minDate>
+    <maxDate>2012-08-19</maxDate>
+    <latitude>33.108</latitude>
+    <longitude>-96.515</longitude>
+    <elevation>162.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1377</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRS0025</id>
+    <displayName>LUCAS 4.2 SSE, KS US</displayName>
+    <minDate>2007-09-22</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.9988</latitude>
+    <longitude>-98.5194</longitude>
+    <elevation>469.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1355</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155002</id>
+    <displayName>LUCAS, KY US</displayName>
+    <minDate>1941-04-09</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.88333</latitude>
+    <longitude>-86.03333</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6075</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSC0006</id>
+    <displayName>LUCASVILLE 4.5 SE, OH US</displayName>
+    <minDate>2012-06-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8296</latitude>
+    <longitude>-82.9411</longitude>
+    <elevation>254.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.84</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSGG0002</id>
+    <displayName>LUCEDALE 13.1 SE, MS US</displayName>
+    <minDate>2011-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.794</latitude>
+    <longitude>-88.429</longitude>
+    <elevation>46.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6257</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454849</id>
+    <displayName>LUCERNE 1 N, WA US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>48.23333</latitude>
+    <longitude>-120.6</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0788</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144877</id>
+    <displayName>LUCERNE 2 SE, KS US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>1969-09-30</maxDate>
+    <latitude>39.46667</latitude>
+    <longitude>-100.18333</longitude>
+    <elevation>762.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCS0006</id>
+    <displayName>LUCERNE 3.4 NE, IN US</displayName>
+    <minDate>2009-04-09</minDate>
+    <maxDate>2012-10-06</maxDate>
+    <latitude>40.8986</latitude>
+    <longitude>-86.355</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045182</id>
+    <displayName>LUCERNE VALLEY, CA US</displayName>
+    <minDate>1949-03-12</minDate>
+    <maxDate>1973-09-30</maxDate>
+    <latitude>34.45</latitude>
+    <longitude>-116.95</longitude>
+    <elevation>903.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235121</id>
+    <displayName>LUCERNE, MO US</displayName>
+    <minDate>1923-09-05</minDate>
+    <maxDate>1982-06-30</maxDate>
+    <latitude>40.46667</latitude>
+    <longitude>-93.3</longitude>
+    <elevation>289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045184</id>
+    <displayName>LUCIA WILLOW SPRINGS, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.878</latitude>
+    <longitude>-121.4497</longitude>
+    <elevation>108.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKNB0002</id>
+    <displayName>LUCIEN 6.6 N, OK US</displayName>
+    <minDate>2006-08-19</minDate>
+    <maxDate>2011-01-21</maxDate>
+    <latitude>36.375</latitude>
+    <longitude>-97.4435</longitude>
+    <elevation>334.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.927</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00225291</id>
+    <displayName>LUCIEN, MS US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>31.51667</latitude>
+    <longitude>-90.65</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDID0006</id>
+    <displayName>LUCILE 1.2 NNE, ID US</displayName>
+    <minDate>2009-11-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.5519</latitude>
+    <longitude>-116.3028</longitude>
+    <elevation>503.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105429</id>
+    <displayName>LUCILE, ID US</displayName>
+    <minDate>1979-08-01</minDate>
+    <maxDate>1980-10-31</maxDate>
+    <latitude>45.53333</latitude>
+    <longitude>-116.3</longitude>
+    <elevation>491</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024125</id>
+    <displayName>LUCIN, UT US</displayName>
+    <minDate>1905-04-01</minDate>
+    <maxDate>1990-12-31</maxDate>
+    <latitude>41.35</latitude>
+    <longitude>-113.9</longitude>
+    <elevation>1362.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5168</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIPK0009</id>
+    <displayName>LUCK 2.8 SSW, WI US</displayName>
+    <minDate>2012-02-29</minDate>
+    <maxDate>2012-11-26</maxDate>
+    <latitude>45.541</latitude>
+    <longitude>-92.4989</longitude>
+    <elevation>385.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5441</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00474894</id>
+    <displayName>LUCK, WI US</displayName>
+    <minDate>1971-05-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>45.5733</latitude>
+    <longitude>-92.4852</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ILUC</id>
+    <displayName>LUCKY PEAK IDAHO, ID US</displayName>
+    <minDate>1998-12-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.5875</latitude>
+    <longitude>-115.9925</longitude>
+    <elevation>966.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.95</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0018D06S</id>
+    <displayName>LUCKY STRIKE, OR US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.2833</latitude>
+    <longitude>-118.85</longitude>
+    <elevation>1539.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9265</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014895</id>
+    <displayName>LUCY, AL US</displayName>
+    <minDate>1904-09-24</minDate>
+    <maxDate>1910-08-31</maxDate>
+    <latitude>31.1</latitude>
+    <longitude>-85.166667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9705</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204959</id>
+    <displayName>LUDINGTON AIRPORT, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.96361</latitude>
+    <longitude>-86.41639</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204954</id>
+    <displayName>LUDINGTON, MI US</displayName>
+    <minDate>1896-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.9066</latitude>
+    <longitude>-86.3942</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWR0003</id>
+    <displayName>LUDLOW 0.5 WSW, VT US</displayName>
+    <minDate>2009-05-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3942</latitude>
+    <longitude>-72.7108</longitude>
+    <elevation>370</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7513</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395048</id>
+    <displayName>LUDLOW 3 SSE, SD US</displayName>
+    <minDate>1924-03-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.7849</latitude>
+    <longitude>-103.3719</longitude>
+    <elevation>911.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9786</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWR0006</id>
+    <displayName>LUDLOW 3.4 S, VT US</displayName>
+    <minDate>2010-03-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3472</latitude>
+    <longitude>-72.6968</longitude>
+    <elevation>526.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9278</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCP0023</id>
+    <displayName>LUDLOW 3.8 W, IL US</displayName>
+    <minDate>2007-09-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3852</latitude>
+    <longitude>-88.1976</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00194340</id>
+    <displayName>LUDLOW CENTER, MA US</displayName>
+    <minDate>1885-09-01</minDate>
+    <maxDate>1906-07-31</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-72.483333</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9466</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00434749</id>
+    <displayName>LUDLOW NUMBER 2, VT US</displayName>
+    <minDate>2012-04-18</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.3923</latitude>
+    <longitude>-72.6791</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00434747</id>
+    <displayName>LUDLOW, VT US</displayName>
+    <minDate>1970-06-01</minDate>
+    <maxDate>2005-04-28</maxDate>
+    <latitude>43.394</latitude>
+    <longitude>-72.7104</longitude>
+    <elevation>385.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095331</id>
+    <displayName>LUDOWICI, GA US</displayName>
+    <minDate>1998-02-01</minDate>
+    <maxDate>2001-02-28</maxDate>
+    <latitude>31.71417</latitude>
+    <longitude>-81.74778</longitude>
+    <elevation>33.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415415</id>
+    <displayName>LUFKIN 11 NW, TX US</displayName>
+    <minDate>1983-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.4269</latitude>
+    <longitude>-94.8942</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415427</id>
+    <displayName>LUFKIN 2, TX US</displayName>
+    <minDate>1990-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.3416</latitude>
+    <longitude>-94.7325</longitude>
+    <elevation>93</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8852</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAG0003</id>
+    <displayName>LUFKIN 3.0 SW, TX US</displayName>
+    <minDate>2011-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.3034</latitude>
+    <longitude>-94.7627</longitude>
+    <elevation>75.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9819</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAG0001</id>
+    <displayName>LUFKIN 7.0 W, TX US</displayName>
+    <minDate>2009-04-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.3213</latitude>
+    <longitude>-94.8445</longitude>
+    <elevation>91.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9071</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093987</id>
+    <displayName>LUFKIN ANGELINA CO AIRPORT, TX US</displayName>
+    <minDate>1906-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.23611</latitude>
+    <longitude>-94.75444</longitude>
+    <elevation>87.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415426</id>
+    <displayName>LUFKIN EXPERIMENT ST, TX US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>1946-04-30</maxDate>
+    <latitude>31.31667</latitude>
+    <longitude>-94.85</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8856</coverage>
+  </station>
+</stationCollection>

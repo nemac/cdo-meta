@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="420">
+  <station>
+    <id>GHCND:US1SDSP0001</id>
+    <displayName>TULARE 4.5 SSW, SD US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2012-12-06</maxDate>
+    <latitude>44.6769</latitude>
+    <longitude>-98.5346</longitude>
+    <elevation>402.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2328</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398406</id>
+    <displayName>TULARE, SD US</displayName>
+    <minDate>1951-07-01</minDate>
+    <maxDate>1976-02-29</maxDate>
+    <latitude>44.73333</latitude>
+    <longitude>-98.5</longitude>
+    <elevation>402.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8059</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0034</id>
+    <displayName>TULAROSA 0.3 SSW, NM US</displayName>
+    <minDate>2008-07-02</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>33.0723</latitude>
+    <longitude>-106.0212</longitude>
+    <elevation>1373.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1292</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0051</id>
+    <displayName>TULAROSA 1.0 E, NM US</displayName>
+    <minDate>2007-05-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.0767</latitude>
+    <longitude>-106.0017</longitude>
+    <elevation>1393.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9233</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMOT0014</id>
+    <displayName>TULAROSA 1.8 WSW, NM US</displayName>
+    <minDate>2005-07-01</minDate>
+    <maxDate>2006-07-02</maxDate>
+    <latitude>33.062</latitude>
+    <longitude>-106.0453</longitude>
+    <elevation>1338.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299165</id>
+    <displayName>TULAROSA, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.0719</latitude>
+    <longitude>-106.0412</longitude>
+    <elevation>1347.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TULE</id>
+    <displayName>TULE VALLEY DELTA 49 W UTAH, UT US</displayName>
+    <minDate>1987-09-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.35</latitude>
+    <longitude>-113.3847</longitude>
+    <elevation>1585</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049052</id>
+    <displayName>TULEFIELD, CA US</displayName>
+    <minDate>1959-10-01</minDate>
+    <maxDate>1969-07-31</maxDate>
+    <latitude>35.15</latitude>
+    <longitude>-119.01667</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049056</id>
+    <displayName>TULELAKE 5 WSW, CA US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1957-10-31</maxDate>
+    <latitude>41.91667</latitude>
+    <longitude>-121.56667</longitude>
+    <elevation>1229</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7586</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049053</id>
+    <displayName>TULELAKE, CA US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.96</latitude>
+    <longitude>-121.4744</longitude>
+    <elevation>1229.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9737</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358675</id>
+    <displayName>TULELAKE, OR US</displayName>
+    <minDate>1913-12-01</minDate>
+    <maxDate>1923-07-31</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-121.583333</longitude>
+    <elevation>1236</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8124</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419176</id>
+    <displayName>TULIA 6 NE, TX US</displayName>
+    <minDate>1896-07-01</minDate>
+    <maxDate>1952-11-30</maxDate>
+    <latitude>34.6</latitude>
+    <longitude>-101.7</longitude>
+    <elevation>1068</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419175</id>
+    <displayName>TULIA, TX US</displayName>
+    <minDate>1947-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.52694</latitude>
+    <longitude>-101.83917</longitude>
+    <elevation>1072.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9738</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCF0021</id>
+    <displayName>TULLAHOMA 1.2 E, TN US</displayName>
+    <minDate>2008-04-25</minDate>
+    <maxDate>2009-08-14</maxDate>
+    <latitude>35.3716</latitude>
+    <longitude>-86.1946</longitude>
+    <elevation>324.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCF0003</id>
+    <displayName>TULLAHOMA 1.7 SSW, TN US</displayName>
+    <minDate>2007-04-02</minDate>
+    <maxDate>2009-09-19</maxDate>
+    <latitude>35.3478</latitude>
+    <longitude>-86.2266</longitude>
+    <elevation>321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409157</id>
+    <displayName>TULLAHOMA 4 NE, TN US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.42944</latitude>
+    <longitude>-86.19667</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409155</id>
+    <displayName>TULLAHOMA, TN US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.34528</latitude>
+    <longitude>-86.20889</longitude>
+    <elevation>311.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0016</id>
+    <displayName>TULLY 0.1 ESE, NY US</displayName>
+    <minDate>2005-09-01</minDate>
+    <maxDate>2009-01-30</maxDate>
+    <latitude>42.7971</latitude>
+    <longitude>-76.1054</longitude>
+    <elevation>381.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0011</id>
+    <displayName>TULLY 0.2 NW, NY US</displayName>
+    <minDate>2004-06-01</minDate>
+    <maxDate>2007-01-31</maxDate>
+    <latitude>42.8</latitude>
+    <longitude>-76.11</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9549</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0043</id>
+    <displayName>TULLY 0.7 E, NY US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2011-11-30</maxDate>
+    <latitude>42.7993</latitude>
+    <longitude>-76.0938</longitude>
+    <elevation>389.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9131</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0004</id>
+    <displayName>TULLY 1.7 WSW, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.79</latitude>
+    <longitude>-76.14</longitude>
+    <elevation>369.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7857</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308625</id>
+    <displayName>TULLY 4 NE, NY US</displayName>
+    <minDate>1979-08-01</minDate>
+    <maxDate>1994-11-30</maxDate>
+    <latitude>42.83333</latitude>
+    <longitude>-76.03333</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308627</id>
+    <displayName>TULLY HEIBERG FOREST, NY US</displayName>
+    <minDate>1967-01-01</minDate>
+    <maxDate>2007-09-26</maxDate>
+    <latitude>42.76028</latitude>
+    <longitude>-76.08028</longitude>
+    <elevation>578.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198573</id>
+    <displayName>TULLY LAKE, MA US</displayName>
+    <minDate>1949-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.6394</latitude>
+    <longitude>-72.2244</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0026</id>
+    <displayName>TULSA 2.7 SSE, OK US</displayName>
+    <minDate>2011-05-13</minDate>
+    <maxDate>2012-08-25</maxDate>
+    <latitude>36.0935</latitude>
+    <longitude>-95.8934</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0035</id>
+    <displayName>TULSA 3.4 ENE, OK US</displayName>
+    <minDate>2012-05-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1483</latitude>
+    <longitude>-95.8618</longitude>
+    <elevation>195.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9004</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0014</id>
+    <displayName>TULSA 5.4 SSE, OK US</displayName>
+    <minDate>2009-07-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0572</latitude>
+    <longitude>-95.873</longitude>
+    <elevation>224.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0031</id>
+    <displayName>TULSA 5.9 S, OK US</displayName>
+    <minDate>2012-02-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0426</latitude>
+    <longitude>-95.9263</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0003</id>
+    <displayName>TULSA 6.0 SSW, OK US</displayName>
+    <minDate>2007-01-18</minDate>
+    <maxDate>2012-02-05</maxDate>
+    <latitude>36.0431</latitude>
+    <longitude>-95.9426</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0029</id>
+    <displayName>TULSA 6.3 S, OK US</displayName>
+    <minDate>2011-07-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0376</latitude>
+    <longitude>-95.8967</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0011</id>
+    <displayName>TULSA 9.4 SE, OK US</displayName>
+    <minDate>2008-08-13</minDate>
+    <maxDate>2009-10-30</maxDate>
+    <latitude>36.0153</latitude>
+    <longitude>-95.8916</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013968</id>
+    <displayName>TULSA INTERNATIONAL AIRPORT, OK US</displayName>
+    <minDate>1938-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.1994</latitude>
+    <longitude>-95.8872</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053908</id>
+    <displayName>TULSA RICHARD L JONES JR AIRPORT, OK US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.03944</latitude>
+    <longitude>-95.98444</longitude>
+    <elevation>194.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348987</id>
+    <displayName>TULSA, OK US</displayName>
+    <minDate>1889-01-01</minDate>
+    <maxDate>1959-09-25</maxDate>
+    <latitude>36.15</latitude>
+    <longitude>-96</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028865</id>
+    <displayName>TUMACACORI NATIONAL MONUMENT, AZ US</displayName>
+    <minDate>1946-04-21</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.5677</latitude>
+    <longitude>-111.0497</longitude>
+    <elevation>995.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OTUM</id>
+    <displayName>TUMALO RIDGE OREGON, OR US</displayName>
+    <minDate>2002-08-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.0494</latitude>
+    <longitude>-121.4003</longitude>
+    <elevation>1219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8996</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WATH0006</id>
+    <displayName>TUMWATER 0.6 ESE, WA US</displayName>
+    <minDate>2008-06-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.9951</latitude>
+    <longitude>-122.9056</longitude>
+    <elevation>55.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7493</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438483</id>
+    <displayName>TUNBRIDGE, VT US</displayName>
+    <minDate>1941-06-23</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>43.91667</latitude>
+    <longitude>-72.48333</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318764</id>
+    <displayName>TUNGSTEN MINES, NC US</displayName>
+    <minDate>1949-10-24</minDate>
+    <maxDate>1963-02-28</maxDate>
+    <latitude>36.51667</latitude>
+    <longitude>-78.45</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00228998</id>
+    <displayName>TUNICA 2 N, MS US</displayName>
+    <minDate>1959-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7281</latitude>
+    <longitude>-90.3683</longitude>
+    <elevation>62.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00228996</id>
+    <displayName>TUNICA, MS US</displayName>
+    <minDate>1935-01-01</minDate>
+    <maxDate>1964-03-31</maxDate>
+    <latitude>34.68333</latitude>
+    <longitude>-90.38333</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9149</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAWY0001</id>
+    <displayName>TUNKHANNOCK 4.2 NNW, PA US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>41.6</latitude>
+    <longitude>-75.9667</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9121</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368982</id>
+    <displayName>TUNKHANNOCK, PA US</displayName>
+    <minDate>1945-10-05</minDate>
+    <maxDate>1973-08-31</maxDate>
+    <latitude>41.56667</latitude>
+    <longitude>-75.9</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.243</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098854</id>
+    <displayName>TUNNEL HILL, GA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.86667</latitude>
+    <longitude>-85.03333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9328</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509452</id>
+    <displayName>TUNNEL, AK US</displayName>
+    <minDate>1921-11-07</minDate>
+    <maxDate>1925-04-30</maxDate>
+    <latitude>60.6833</latitude>
+    <longitude>-149.0333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7435</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368989</id>
+    <displayName>TUNNELTON, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.45</latitude>
+    <longitude>-79.38333</longitude>
+    <elevation>271.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049063</id>
+    <displayName>TUOLUMNE MEADOWS, CA US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>37.8769</latitude>
+    <longitude>-119.3436</longitude>
+    <elevation>2649.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7843</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSLE0004</id>
+    <displayName>TUPELO 0.9 ESE, MS US</displayName>
+    <minDate>2010-03-29</minDate>
+    <maxDate>2011-09-16</maxDate>
+    <latitude>34.2593</latitude>
+    <longitude>-88.7171</longitude>
+    <elevation>82.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00229004</id>
+    <displayName>TUPELO 2, MS US</displayName>
+    <minDate>1998-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.265</latitude>
+    <longitude>-88.7658</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9277</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSLE0008</id>
+    <displayName>TUPELO 2.0 S, MS US</displayName>
+    <minDate>2012-07-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2349</latitude>
+    <longitude>-88.7264</longitude>
+    <elevation>91.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9138</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00229006</id>
+    <displayName>TUPELO 3, MS US</displayName>
+    <minDate>1998-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2355</latitude>
+    <longitude>-88.6952</longitude>
+    <elevation>79.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093862</id>
+    <displayName>TUPELO REGIONAL AIRPORT, MS US</displayName>
+    <minDate>1962-11-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.2622</latitude>
+    <longitude>-88.7713</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00229005</id>
+    <displayName>TUPELO SUBSTN, MS US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.26667</latitude>
+    <longitude>-88.7</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00229000</id>
+    <displayName>TUPELO, MS US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>1969-04-30</maxDate>
+    <latitude>34.25</latitude>
+    <longitude>-88.71667</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308631</id>
+    <displayName>TUPPER LAKE SUNMOUNT, NY US</displayName>
+    <minDate>1899-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2307</latitude>
+    <longitude>-74.4382</longitude>
+    <elevation>512.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8482</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OTUP</id>
+    <displayName>TUPPER OREGON, OR US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.0708</latitude>
+    <longitude>-119.49</longitude>
+    <elevation>1219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308635</id>
+    <displayName>TURIN 1 N, NY US</displayName>
+    <minDate>1966-04-01</minDate>
+    <maxDate>1978-11-30</maxDate>
+    <latitude>43.65</latitude>
+    <longitude>-75.41667</longitude>
+    <elevation>402.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00138359</id>
+    <displayName>TURIN 4 S, IA US</displayName>
+    <minDate>1972-07-01</minDate>
+    <maxDate>1975-03-27</maxDate>
+    <latitude>41.9644</latitude>
+    <longitude>-95.9725</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.175</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00138360</id>
+    <displayName>TURIN 4 SSW, IA US</displayName>
+    <minDate>1972-07-01</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>41.9644</latitude>
+    <longitude>-95.9916</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1478</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308633</id>
+    <displayName>TURIN, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1896-05-31</maxDate>
+    <latitude>43.616667</latitude>
+    <longitude>-75.416667</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00158144</id>
+    <displayName>TURKEY CREEK SCHOOL, KY US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.75</latitude>
+    <longitude>-88.08333</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419191</id>
+    <displayName>TURKEY, TX US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.39556</latitude>
+    <longitude>-100.89722</longitude>
+    <elevation>710.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8238</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409163</id>
+    <displayName>TURLEY, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.36667</latitude>
+    <longitude>-84.26667</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9746</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049073</id>
+    <displayName>TURLOCK NUMBER 2, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>37.5005</latitude>
+    <longitude>-120.855</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8081</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NTUR</id>
+    <displayName>TURNBULL CREEK NORTH CAROLINA, NC US</displayName>
+    <minDate>2002-05-22</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.6831</latitude>
+    <longitude>-78.5817</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9358</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248415</id>
+    <displayName>TURNER 11 N, MT US</displayName>
+    <minDate>1985-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.9992</latitude>
+    <longitude>-108.3894</longitude>
+    <elevation>908.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEAN0001</id>
+    <displayName>TURNER 4.3 SSW, ME US</displayName>
+    <minDate>2009-07-28</minDate>
+    <maxDate>2011-06-11</maxDate>
+    <latitude>44.194</latitude>
+    <longitude>-70.2647</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4532</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORMN0026</id>
+    <displayName>TURNER 6.6 S, OR US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>44.7504</latitude>
+    <longitude>-122.9359</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9685</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00178817</id>
+    <displayName>TURNER, ME US</displayName>
+    <minDate>2002-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2822</latitude>
+    <longitude>-70.2561</longitude>
+    <elevation>172.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248413</id>
+    <displayName>TURNER, MT US</displayName>
+    <minDate>1932-06-01</minDate>
+    <maxDate>1984-09-30</maxDate>
+    <latitude>48.85</latitude>
+    <longitude>-108.4</longitude>
+    <elevation>928.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198580</id>
+    <displayName>TURNERS FALLS, MA US</displayName>
+    <minDate>1892-08-01</minDate>
+    <maxDate>1977-08-31</maxDate>
+    <latitude>42.61667</latitude>
+    <longitude>-72.55</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYHY0008</id>
+    <displayName>TURNERS STATION 2.0 SE, KY US</displayName>
+    <minDate>2010-10-24</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.5315</latitude>
+    <longitude>-85.146</longitude>
+    <elevation>272.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318778</id>
+    <displayName>TURNERSBURG, NC US</displayName>
+    <minDate>1955-12-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>35.9066</latitude>
+    <longitude>-80.8141</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0002</id>
+    <displayName>TURNERVILLE 2.0 NW, GA US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2011-02-10</maxDate>
+    <latitude>34.7122</latitude>
+    <longitude>-83.4398</longitude>
+    <elevation>507.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.215</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368998</id>
+    <displayName>TURNERVILLE, PA US</displayName>
+    <minDate>1920-04-01</minDate>
+    <maxDate>1923-08-29</maxDate>
+    <latitude>41.516667</latitude>
+    <longitude>-80.483333</longitude>
+    <elevation>318.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6308</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00037262</id>
+    <displayName>TURNPIKE, AR US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>35.66667</latitude>
+    <longitude>-93.08333</longitude>
+    <elevation>637</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049083</id>
+    <displayName>TURNTABLE CREEK, CA US</displayName>
+    <minDate>1947-06-01</minDate>
+    <maxDate>1969-10-31</maxDate>
+    <latitude>40.76667</latitude>
+    <longitude>-122.3</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9604</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPR0005</id>
+    <displayName>TURON 4.6 W, KS US</displayName>
+    <minDate>2007-02-08</minDate>
+    <maxDate>2008-10-31</maxDate>
+    <latitude>37.8046</latitude>
+    <longitude>-98.5125</longitude>
+    <elevation>569.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148257</id>
+    <displayName>TURON, KS US</displayName>
+    <minDate>1976-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.8083</latitude>
+    <longitude>-98.4305</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3738</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00349017</id>
+    <displayName>TURPIN 4 SSE, OK US</displayName>
+    <minDate>1982-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>36.8136</latitude>
+    <longitude>-100.8636</longitude>
+    <elevation>824.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9201</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00349014</id>
+    <displayName>TURPIN, OK US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1949-09-02</maxDate>
+    <latitude>36.86667</latitude>
+    <longitude>-100.86667</longitude>
+    <elevation>836.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6407</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299193</id>
+    <displayName>TURQUOISE BONANZA CR, NM US</displayName>
+    <minDate>1954-01-01</minDate>
+    <maxDate>1996-02-29</maxDate>
+    <latitude>35.55</latitude>
+    <longitude>-106.1</longitude>
+    <elevation>1866.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291236</id>
+    <displayName>TURQUOISE BONANZA CR, NM US</displayName>
+    <minDate>1953-06-11</minDate>
+    <maxDate>1953-12-31</maxDate>
+    <latitude>35.55</latitude>
+    <longitude>-106.1</longitude>
+    <elevation>1866.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00037267</id>
+    <displayName>TURRELL, AR US</displayName>
+    <minDate>1968-09-01</minDate>
+    <maxDate>1978-03-31</maxDate>
+    <latitude>35.36667</latitude>
+    <longitude>-90.25</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00328840</id>
+    <displayName>TURTLE LAKE, ND US</displayName>
+    <minDate>1912-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.5213</latitude>
+    <longitude>-100.8883</longitude>
+    <elevation>577</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9164</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369002</id>
+    <displayName>TURTLEPOINT 4 NE, PA US</displayName>
+    <minDate>1951-10-01</minDate>
+    <maxDate>1968-09-30</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-78.26667</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9008</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409173</id>
+    <displayName>TURTLETOWN, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.11667</latitude>
+    <longitude>-84.35</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDSP0002</id>
+    <displayName>TURTON 11.4 W, SD US</displayName>
+    <minDate>2011-08-18</minDate>
+    <maxDate>2012-12-23</maxDate>
+    <latitude>45.0535</latitude>
+    <longitude>-98.3298</longitude>
+    <elevation>395.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6397</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398420</id>
+    <displayName>TURTON, SD US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.0499</latitude>
+    <longitude>-98.0956</longitude>
+    <elevation>406.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ATUS</id>
+    <displayName>TUSAYAN ARIZONA, AZ US</displayName>
+    <minDate>1986-01-17</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.99</latitude>
+    <longitude>-112.12</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9492</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALTS0019</id>
+    <displayName>TUSCALOOSA 2.5 SSW, AL US</displayName>
+    <minDate>2011-07-16</minDate>
+    <maxDate>2012-07-28</maxDate>
+    <latitude>33.2046</latitude>
+    <longitude>-87.5574</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8786</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALTS0010</id>
+    <displayName>TUSCALOOSA 3.4 S, AL US</displayName>
+    <minDate>2007-11-24</minDate>
+    <maxDate>2010-10-28</maxDate>
+    <latitude>33.1883</latitude>
+    <longitude>-87.5328</longitude>
+    <elevation>65.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2075</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALTS0004</id>
+    <displayName>TUSCALOOSA 4.4 SE, AL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.1853</latitude>
+    <longitude>-87.4979</longitude>
+    <elevation>128.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018380</id>
+    <displayName>TUSCALOOSA ACFD, AL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.2119</latitude>
+    <longitude>-87.6161</longitude>
+    <elevation>51.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093806</id>
+    <displayName>TUSCALOOSA MUNICIPAL AIRPORT, AL US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.2119</latitude>
+    <longitude>-87.6161</longitude>
+    <elevation>45.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8024</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018385</id>
+    <displayName>TUSCALOOSA OLIVER DM, AL US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2097</latitude>
+    <longitude>-87.5936</longitude>
+    <elevation>46.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00268349</id>
+    <displayName>TUSCARORA ANDRAE RAN, NV US</displayName>
+    <minDate>1888-09-01</minDate>
+    <maxDate>1956-11-30</maxDate>
+    <latitude>41.4</latitude>
+    <longitude>-116.08333</longitude>
+    <elevation>1787</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00268346</id>
+    <displayName>TUSCARORA, NV US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.3144</latitude>
+    <longitude>-116.2226</longitude>
+    <elevation>1880.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9194</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDG0011</id>
+    <displayName>TUSCOLA 0.6 NNE, IL US</displayName>
+    <minDate>2012-04-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8063</latitude>
+    <longitude>-88.2769</longitude>
+    <elevation>198.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9094</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDG0003</id>
+    <displayName>TUSCOLA 1.4 NNE, IL US</displayName>
+    <minDate>2007-04-10</minDate>
+    <maxDate>2012-10-23</maxDate>
+    <latitude>39.8166</latitude>
+    <longitude>-88.2755</longitude>
+    <elevation>201.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7312</coverage>
+  </station>
+</stationCollection>

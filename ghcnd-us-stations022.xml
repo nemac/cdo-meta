@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="22">
+  <station>
+    <id>GHCND:USC00020582</id>
+    <displayName>BAGDAD, AZ US</displayName>
+    <minDate>1925-05-01</minDate>
+    <maxDate>1948-06-30</maxDate>
+    <latitude>34.6</latitude>
+    <longitude>-113.2</longitude>
+    <elevation>976</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020586</id>
+    <displayName>BAGDAD, AZ US</displayName>
+    <minDate>1925-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5972</latitude>
+    <longitude>-113.1738</longitude>
+    <elevation>1205.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYCR0012</id>
+    <displayName>BAGGS 0.2 NNW, WY US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>41.0386</latitude>
+    <longitude>-107.6572</longitude>
+    <elevation>1900.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9062</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480484</id>
+    <displayName>BAGGS, WY US</displayName>
+    <minDate>1979-09-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>41.0383</latitude>
+    <longitude>-107.6577</longitude>
+    <elevation>1926</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9792</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAGT0003</id>
+    <displayName>BAGLEY 0.1 W, IA US</displayName>
+    <minDate>2007-08-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8458</latitude>
+    <longitude>-94.431</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9051</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350388</id>
+    <displayName>BAGLEY S RANCH, OR US</displayName>
+    <minDate>1909-09-01</minDate>
+    <maxDate>1911-09-30</maxDate>
+    <latitude>44.716667</latitude>
+    <longitude>-117.7</longitude>
+    <elevation>1188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9447</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230402</id>
+    <displayName>BAGNELL, MO US</displayName>
+    <minDate>1894-03-01</minDate>
+    <maxDate>1916-07-31</maxDate>
+    <latitude>38.226699</latitude>
+    <longitude>-92.601574</longitude>
+    <elevation>175.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4541</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080414</id>
+    <displayName>BAHIA HONDA STATE PARK, FL US</displayName>
+    <minDate>2004-10-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>24.6589</latitude>
+    <longitude>-81.276</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0003</id>
+    <displayName>BAILEY 1.3 N, CO US</displayName>
+    <minDate>2002-05-13</minDate>
+    <maxDate>2004-10-12</maxDate>
+    <latitude>39.4232</latitude>
+    <longitude>-105.4755</longitude>
+    <elevation>2481.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0031</id>
+    <displayName>BAILEY 1.8 NE, CO US</displayName>
+    <minDate>2004-01-17</minDate>
+    <maxDate>2006-07-12</maxDate>
+    <latitude>39.427</latitude>
+    <longitude>-105.4526</longitude>
+    <elevation>2596</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0021</id>
+    <displayName>BAILEY 3.0 N, CO US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2005-05-30</maxDate>
+    <latitude>39.4135</latitude>
+    <longitude>-105.4721</longitude>
+    <elevation>2436</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4552</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0081</id>
+    <displayName>BAILEY 3.8 NE, CO US</displayName>
+    <minDate>2006-10-13</minDate>
+    <maxDate>2007-01-26</maxDate>
+    <latitude>39.4406</latitude>
+    <longitude>-105.4213</longitude>
+    <elevation>2510</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9434</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0091</id>
+    <displayName>BAILEY 4.5 NE, CO US</displayName>
+    <minDate>2012-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4537</latitude>
+    <longitude>-105.4219</longitude>
+    <elevation>2566.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0012</id>
+    <displayName>BAILEY 5.6 N, CO US</displayName>
+    <minDate>2002-10-23</minDate>
+    <maxDate>2004-12-23</maxDate>
+    <latitude>39.4855</latitude>
+    <longitude>-105.4739</longitude>
+    <elevation>2694.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0069</id>
+    <displayName>BAILEY 6.4 NNW, CO US</displayName>
+    <minDate>2004-07-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4905</latitude>
+    <longitude>-105.5239</longitude>
+    <elevation>2680.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9175</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0007</id>
+    <displayName>BAILEY 7.5 NNW, CO US</displayName>
+    <minDate>2002-10-19</minDate>
+    <maxDate>2004-07-26</maxDate>
+    <latitude>39.5058</latitude>
+    <longitude>-105.5278</longitude>
+    <elevation>2742.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBAI</id>
+    <displayName>BAILEY COLORADO, CO US</displayName>
+    <minDate>1995-03-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.3794</latitude>
+    <longitude>-105.3394</longitude>
+    <elevation>2420.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NBAI</id>
+    <displayName>BAILEY RANCH NEVADA, NV US</displayName>
+    <minDate>1986-09-16</minDate>
+    <maxDate>1997-04-16</maxDate>
+    <latitude>40.4361</latitude>
+    <longitude>-116.1667</longitude>
+    <elevation>1661.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050454</id>
+    <displayName>BAILEY, CO US</displayName>
+    <minDate>1901-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.4047</latitude>
+    <longitude>-105.4766</longitude>
+    <elevation>2356.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440403</id>
+    <displayName>BAILEYS CROSSROADS, VA US</displayName>
+    <minDate>1950-09-01</minDate>
+    <maxDate>1951-12-31</maxDate>
+    <latitude>38.85</latitude>
+    <longitude>-77.13333</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNGN0009</id>
+    <displayName>BAILEYTON 1.0 NW, TN US</displayName>
+    <minDate>2008-06-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.339</latitude>
+    <longitude>-82.8419</longitude>
+    <elevation>363.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSNM0006</id>
+    <displayName>BAILEYVILLE 1.0 S, KS US</displayName>
+    <minDate>2012-02-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8312</latitude>
+    <longitude>-96.1833</longitude>
+    <elevation>394.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9698</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140482</id>
+    <displayName>BAILEYVILLE, KS US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8311</latitude>
+    <longitude>-96.1833</longitude>
+    <elevation>395</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IBAI</id>
+    <displayName>BAILLY INDIANA, IN US</displayName>
+    <minDate>2003-02-19</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.6317</latitude>
+    <longitude>-87.0878</longitude>
+    <elevation>197.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9296</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300360</id>
+    <displayName>BAINBRIDGE 2 E, NY US</displayName>
+    <minDate>1907-12-01</minDate>
+    <maxDate>2011-12-06</maxDate>
+    <latitude>42.28333</latitude>
+    <longitude>-75.45</longitude>
+    <elevation>303</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADC0003</id>
+    <displayName>BAINBRIDGE 2.3 ESE, GA US</displayName>
+    <minDate>2012-07-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8909</latitude>
+    <longitude>-84.5428</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8432</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPM0001</id>
+    <displayName>BAINBRIDGE 3.6 E, IN US</displayName>
+    <minDate>2006-04-07</minDate>
+    <maxDate>2007-01-27</maxDate>
+    <latitude>39.7535</latitude>
+    <longitude>-86.7435</longitude>
+    <elevation>257.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPM0008</id>
+    <displayName>BAINBRIDGE 5.7 W, IN US</displayName>
+    <minDate>2008-09-06</minDate>
+    <maxDate>2011-03-13</maxDate>
+    <latitude>39.7622</latitude>
+    <longitude>-86.9191</longitude>
+    <elevation>260.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090586</id>
+    <displayName>BAINBRIDGE INTERNATIONAL PAPER, GA US</displayName>
+    <minDate>1977-10-01</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>30.82278</latitude>
+    <longitude>-84.6175</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8884</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0020</id>
+    <displayName>BAINBRIDGE ISLAND 2.4 SW, WA US</displayName>
+    <minDate>2008-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6297</latitude>
+    <longitude>-122.5686</longitude>
+    <elevation>109.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0006</id>
+    <displayName>BAINBRIDGE ISLAND 2.6 NNW, WA US</displayName>
+    <minDate>2008-06-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.6919</latitude>
+    <longitude>-122.5498</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0032</id>
+    <displayName>BAINBRIDGE ISLAND 2.6 NW, WA US</displayName>
+    <minDate>2009-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6417</latitude>
+    <longitude>-122.5714</longitude>
+    <elevation>23.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090581</id>
+    <displayName>BAINBRIDGE, GA US</displayName>
+    <minDate>1892-06-01</minDate>
+    <maxDate>1977-01-31</maxDate>
+    <latitude>30.91667</latitude>
+    <longitude>-84.58333</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9513</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00160422</id>
+    <displayName>BAINS, LA US</displayName>
+    <minDate>1935-03-10</minDate>
+    <maxDate>1937-08-31</maxDate>
+    <latitude>30.81667</latitude>
+    <longitude>-91.38333</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240408</id>
+    <displayName>BAINVILLE 6 NE, MT US</displayName>
+    <minDate>2006-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.1404</latitude>
+    <longitude>-104.1319</longitude>
+    <elevation>615.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410474</id>
+    <displayName>BAINVILLE NEAR SOIL CONSERVATION SERVICE NUMBER 1, TX US</displayName>
+    <minDate>1940-06-09</minDate>
+    <maxDate>1941-12-31</maxDate>
+    <latitude>28.716667</latitude>
+    <longitude>-97.933333</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9019</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340466</id>
+    <displayName>BAIRD 4 N, OK US</displayName>
+    <minDate>1952-05-01</minDate>
+    <maxDate>1980-07-31</maxDate>
+    <latitude>34.53333</latitude>
+    <longitude>-98.16667</longitude>
+    <elevation>331.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9616</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410478</id>
+    <displayName>BAIRD, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1980-04-30</maxDate>
+    <latitude>32.4</latitude>
+    <longitude>-99.4</longitude>
+    <elevation>527.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8388</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480498</id>
+    <displayName>BAIROIL, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>42.25</latitude>
+    <longitude>-107.55</longitude>
+    <elevation>2101</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9543</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300364</id>
+    <displayName>BAITING HOLLOW, NY US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.9338</latitude>
+    <longitude>-72.7394</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTFL0005</id>
+    <displayName>BAKER 0.2 SSW, MT US</displayName>
+    <minDate>2008-06-18</minDate>
+    <maxDate>2012-10-09</maxDate>
+    <latitude>46.3602</latitude>
+    <longitude>-104.2758</longitude>
+    <elevation>812</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.287</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORBK0002</id>
+    <displayName>BAKER 0.6 ENE, OR US</displayName>
+    <minDate>2008-01-04</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>44.776</latitude>
+    <longitude>-117.8201</longitude>
+    <elevation>1048.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2117</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTFL0002</id>
+    <displayName>BAKER 18.6 NNW, MT US</displayName>
+    <minDate>2007-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.6132</latitude>
+    <longitude>-104.4172</longitude>
+    <elevation>822.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4607</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTFL0003</id>
+    <displayName>BAKER 24.7 SSE, MT US</displayName>
+    <minDate>2007-05-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.0309</latitude>
+    <longitude>-104.0838</longitude>
+    <elevation>954.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053138</id>
+    <displayName>BAKER 5 W, NV US</displayName>
+    <minDate>2004-05-10</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.0118</latitude>
+    <longitude>-114.2090</longitude>
+    <elevation>2016.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9883</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLOK0018</id>
+    <displayName>BAKER 8.2 NE, FL US</displayName>
+    <minDate>2007-10-28</minDate>
+    <maxDate>2011-10-19</maxDate>
+    <latitude>30.8841</latitude>
+    <longitude>-86.5951</longitude>
+    <elevation>46.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6462</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040437</id>
+    <displayName>BAKER 9 NNW, CA US</displayName>
+    <minDate>1953-11-01</minDate>
+    <maxDate>1971-03-31</maxDate>
+    <latitude>35.38333</latitude>
+    <longitude>-116.11667</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011R06S</id>
+    <displayName>BAKER BUTTE, AZ US</displayName>
+    <minDate>1982-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.45</latitude>
+    <longitude>-111.4</longitude>
+    <elevation>2225</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBKR</id>
+    <displayName>BAKER CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>1997-12-15</maxDate>
+    <latitude>40.2789</latitude>
+    <longitude>-122.4869</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9458</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024130</id>
+    <displayName>BAKER CITY MUNICIPAL AIRPORT, OR US</displayName>
+    <minDate>1943-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.8428</latitude>
+    <longitude>-117.8086</longitude>
+    <elevation>1024.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NBAK</id>
+    <displayName>BAKER FLAT NEVADA, NV US</displayName>
+    <minDate>2000-04-04</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.0019</latitude>
+    <longitude>-114.2175</longitude>
+    <elevation>2084.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8619</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024199</id>
+    <displayName>BAKER KBKR, OR US</displayName>
+    <minDate>1928-01-01</minDate>
+    <maxDate>1981-12-31</maxDate>
+    <latitude>44.76667</latitude>
+    <longitude>-117.83333</longitude>
+    <elevation>1050</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450385</id>
+    <displayName>BAKER LAKE, WA US</displayName>
+    <minDate>1926-11-01</minDate>
+    <maxDate>1934-10-31</maxDate>
+    <latitude>48.716667</latitude>
+    <longitude>-121.616667</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.924</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094055</id>
+    <displayName>BAKER MUNICIPAL AIRPORT, MT US</displayName>
+    <minDate>1998-02-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.35833</latitude>
+    <longitude>-104.25</longitude>
+    <elevation>905.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000SBAK</id>
+    <displayName>BAKER PARK SOUTH DAKOTA, SD US</displayName>
+    <minDate>2001-10-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.9792</latitude>
+    <longitude>-103.425</longitude>
+    <elevation>1424.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9401</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420400</id>
+    <displayName>BAKER RANGER STATION, UT US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1926-07-31</maxDate>
+    <latitude>37.866667</latitude>
+    <longitude>-109.366667</longitude>
+    <elevation>2148.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190360</id>
+    <displayName>BAKER S BRIDGE, MA US</displayName>
+    <minDate>1905-11-01</minDate>
+    <maxDate>1925-07-31</maxDate>
+    <latitude>42.1</latitude>
+    <longitude>-71.333333</longitude>
+    <elevation>57</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040436</id>
+    <displayName>BAKER, CA US</displayName>
+    <minDate>1971-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.27611</latitude>
+    <longitude>-116.06278</longitude>
+    <elevation>293.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8197</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140491</id>
+    <displayName>BAKER, KS US</displayName>
+    <minDate>1895-10-01</minDate>
+    <maxDate>1911-02-28</maxDate>
+    <latitude>39.75</latitude>
+    <longitude>-95.55</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7214</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00160462</id>
+    <displayName>BAKER, LA US</displayName>
+    <minDate>1980-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5669</latitude>
+    <longitude>-91.1633</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9429</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240412</id>
+    <displayName>BAKER, MT US</displayName>
+    <minDate>1922-09-28</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.3662</latitude>
+    <longitude>-104.2821</longitude>
+    <elevation>894</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410479</id>
+    <displayName>BAKERS CROSSING, TX US</displayName>
+    <minDate>1981-01-01</minDate>
+    <maxDate>1987-12-31</maxDate>
+    <latitude>29.95</latitude>
+    <longitude>-101.15</longitude>
+    <elevation>460.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9511</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300368</id>
+    <displayName>BAKERS MILLS, NY US</displayName>
+    <minDate>1940-08-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>43.61667</latitude>
+    <longitude>-74.03333</longitude>
+    <elevation>481.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9213</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00100536</id>
+    <displayName>BAKERS RANCH, ID US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1938-02-28</maxDate>
+    <latitude>44.05</latitude>
+    <longitude>-114.46667</longitude>
+    <elevation>1830</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360352</id>
+    <displayName>BAKERS SUMMIT, PA US</displayName>
+    <minDate>1924-09-01</minDate>
+    <maxDate>1942-02-28</maxDate>
+    <latitude>40.266667</latitude>
+    <longitude>-78.416667</longitude>
+    <elevation>439.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9554</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410484</id>
+    <displayName>BAKERSFIELD 11 SSE, TX US</displayName>
+    <minDate>1980-07-01</minDate>
+    <maxDate>1982-05-31</maxDate>
+    <latitude>30.71667</latitude>
+    <longitude>-102.21667</longitude>
+    <elevation>939.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040444</id>
+    <displayName>BAKERSFIELD 5 NW, CA US</displayName>
+    <minDate>1999-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4186</latitude>
+    <longitude>-119.0508</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023155</id>
+    <displayName>BAKERSFIELD MEADOWS FIELD AIRPORT, CA US</displayName>
+    <minDate>1937-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.4344</latitude>
+    <longitude>-119.0542</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040439</id>
+    <displayName>BAKERSFIELD, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1937-09-30</maxDate>
+    <latitude>35.38333</latitude>
+    <longitude>-119.01667</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230413</id>
+    <displayName>BAKERSFIELD, MO US</displayName>
+    <minDate>1940-07-11</minDate>
+    <maxDate>1944-10-31</maxDate>
+    <latitude>36.533333</latitude>
+    <longitude>-92.133333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9091</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410482</id>
+    <displayName>BAKERSFIELD, TX US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8878</latitude>
+    <longitude>-102.3008</longitude>
+    <elevation>776.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360355</id>
+    <displayName>BAKERSTOWN 3 WNW, PA US</displayName>
+    <minDate>1948-06-06</minDate>
+    <maxDate>1990-07-31</maxDate>
+    <latitude>40.65</latitude>
+    <longitude>-79.98333</longitude>
+    <elevation>374.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9535</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCML0007</id>
+    <displayName>BAKERSVILLE 2.2 E, NC US</displayName>
+    <minDate>2008-07-30</minDate>
+    <maxDate>2009-03-20</maxDate>
+    <latitude>36.02</latitude>
+    <longitude>-82.12</longitude>
+    <elevation>826.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8333</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCML0003</id>
+    <displayName>BAKERSVILLE 2.3 E, NC US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2008-07-29</maxDate>
+    <latitude>36.0131</latitude>
+    <longitude>-82.1168</longitude>
+    <elevation>796.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9734</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCML0002</id>
+    <displayName>BAKERSVILLE 2.5 SE, NC US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.989</latitude>
+    <longitude>-82.128</longitude>
+    <elevation>893.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCML0001</id>
+    <displayName>BAKERSVILLE 5.4 N, NC US</displayName>
+    <minDate>2007-12-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.092</latitude>
+    <longitude>-82.175</longitude>
+    <elevation>1168</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCML0004</id>
+    <displayName>BAKERSVILLE 6.0 NNE, NC US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2009-12-16</maxDate>
+    <latitude>36.0921</latitude>
+    <longitude>-82.1105</longitude>
+    <elevation>1412.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8398</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00060227</id>
+    <displayName>BAKERSVILLE, CT US</displayName>
+    <minDate>1948-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8418</latitude>
+    <longitude>-73.0085</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7394</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310466</id>
+    <displayName>BAKERSVILLE, NC US</displayName>
+    <minDate>1871-10-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.01667</latitude>
+    <longitude>-82.16667</longitude>
+    <elevation>755.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0031</id>
+    <displayName>BALA CYNWYD 1.15 NNW, PA US</displayName>
+    <minDate>2007-03-28</minDate>
+    <maxDate>2009-02-09</maxDate>
+    <latitude>40.0291</latitude>
+    <longitude>-75.2366</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6204</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040449</id>
+    <displayName>BALCH POWER HOUSE, CA US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.9092</latitude>
+    <longitude>-119.0883</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TBEL</id>
+    <displayName>BALCONES TEXAS, TX US</displayName>
+    <minDate>2000-05-30</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.5661</latitude>
+    <longitude>-98.0389</longitude>
+    <elevation>315.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440411</id>
+    <displayName>BALCONY FALLS, VA US</displayName>
+    <minDate>1930-12-01</minDate>
+    <maxDate>1967-10-31</maxDate>
+    <latitude>37.61667</latitude>
+    <longitude>-79.45</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCYN0007</id>
+    <displayName>BALD CREEK 1.2 NW, NC US</displayName>
+    <minDate>2009-12-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9232</latitude>
+    <longitude>-82.4388</longitude>
+    <elevation>862.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARWH0004</id>
+    <displayName>BALD KNOB 4.2 N, AR US</displayName>
+    <minDate>2009-09-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.3681</latitude>
+    <longitude>-91.56</longitude>
+    <elevation>168.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030355</id>
+    <displayName>BALD KNOB 5 N, AR US</displayName>
+    <minDate>1967-04-01</minDate>
+    <maxDate>1975-03-31</maxDate>
+    <latitude>35.38333</latitude>
+    <longitude>-91.56667</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OBKL</id>
+    <displayName>BALD KNOB LOOKOUT OREGON, OR US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-124.0333</longitude>
+    <elevation>1106.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9486</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030350</id>
+    <displayName>BALD KNOB, AR US</displayName>
+    <minDate>1920-05-01</minDate>
+    <maxDate>1967-03-31</maxDate>
+    <latitude>35.3</latitude>
+    <longitude>-91.56667</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.391</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBAL</id>
+    <displayName>BALD MOUNTAIN LOC CALIFORNIA, CA US</displayName>
+    <minDate>1989-01-17</minDate>
+    <maxDate>2012-06-28</maxDate>
+    <latitude>38.9056</latitude>
+    <longitude>-120.6972</longitude>
+    <elevation>1426.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9181</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OBAL</id>
+    <displayName>BALD MOUNTAIN OREGON, OR US</displayName>
+    <minDate>1993-12-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.5556</latitude>
+    <longitude>-118.4042</longitude>
+    <elevation>1670.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9611</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007E21S</id>
+    <displayName>BALD MOUNTAIN, WY US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.8</latitude>
+    <longitude>-107.85</longitude>
+    <elevation>2859</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320450</id>
+    <displayName>BALDHILL DAM, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.0367</latitude>
+    <longitude>-98.0832</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GABN0001</id>
+    <displayName>BALDWIN 1.4 ESE, GA US</displayName>
+    <minDate>2008-03-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4821</latitude>
+    <longitude>-83.5293</longitude>
+    <elevation>403.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9521</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDBL0029</id>
+    <displayName>BALDWIN 2.7 WNW, MD US</displayName>
+    <minDate>2010-10-10</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>39.5044</latitude>
+    <longitude>-76.5187</longitude>
+    <elevation>156.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MBAL</id>
+    <displayName>BALDWIN MICHIGAN, MI US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.8933</latitude>
+    <longitude>-85.8506</longitude>
+    <elevation>253.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9219</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140496</id>
+    <displayName>BALDWIN, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.76667</latitude>
+    <longitude>-95.2</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200446</id>
+    <displayName>BALDWIN, MI US</displayName>
+    <minDate>1896-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9005</latitude>
+    <longitude>-85.8505</longitude>
+    <elevation>254.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360361</id>
+    <displayName>BALDWIN, PA US</displayName>
+    <minDate>1906-01-18</minDate>
+    <maxDate>1917-02-28</maxDate>
+    <latitude>41.033333</latitude>
+    <longitude>-79.733333</longitude>
+    <elevation>427.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9616</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470486</id>
+    <displayName>BALDWIN, WI US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9633</latitude>
+    <longitude>-92.3905</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0046</id>
+    <displayName>BALDWINSVILLE 3.5 NE, NY US</displayName>
+    <minDate>2011-05-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.1951</latitude>
+    <longitude>-76.2883</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.975</coverage>
+  </station>
+</stationCollection>

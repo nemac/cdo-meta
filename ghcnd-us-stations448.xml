@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="448">
+  <station>
+    <id>GHCND:USC00359290</id>
+    <displayName>WHITEHORSE RANCH, OR US</displayName>
+    <minDate>1965-04-01</minDate>
+    <maxDate>2006-03-31</maxDate>
+    <latitude>42.337</latitude>
+    <longitude>-118.2346</longitude>
+    <elevation>1335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8015</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00399220</id>
+    <displayName>WHITEHORSE, SD US</displayName>
+    <minDate>1904-07-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>45.26667</latitude>
+    <longitude>-100.88333</longitude>
+    <elevation>524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0949</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXSM0014</id>
+    <displayName>WHITEHOUSE 1.1 WSW, TX US</displayName>
+    <minDate>2012-03-18</minDate>
+    <maxDate>2012-10-27</maxDate>
+    <latitude>32.2227</latitude>
+    <longitude>-95.2388</longitude>
+    <elevation>156.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419708</id>
+    <displayName>WHITEHOUSE 2 SE, TX US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2008-09-12</maxDate>
+    <latitude>32.2039</latitude>
+    <longitude>-95.2342</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013930</id>
+    <displayName>WHITEMAN AFB, MO US</displayName>
+    <minDate>1946-03-20</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>38.71667</latitude>
+    <longitude>-93.55</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029271</id>
+    <displayName>WHITERIVER 1 SW, AZ US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>2012-01-04</maxDate>
+    <latitude>33.8215</latitude>
+    <longitude>-109.984</longitude>
+    <elevation>1575.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053019</id>
+    <displayName>WHITERIVER A 1 SW, AZ US</displayName>
+    <minDate>2011-06-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.8209</latitude>
+    <longitude>-109.9831</longitude>
+    <elevation>1576.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509790</id>
+    <displayName>WHITES CROSSING, AK US</displayName>
+    <minDate>1971-01-28</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>61.7066</latitude>
+    <longitude>-149.9977</longitude>
+    <elevation>82.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9258</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299701</id>
+    <displayName>WHITES RANCH, NM US</displayName>
+    <minDate>1941-06-26</minDate>
+    <maxDate>1941-11-30</maxDate>
+    <latitude>33.383333</latitude>
+    <longitude>-104.15</longitude>
+    <elevation>1188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCOO001</id>
+    <displayName>WHITESBORO 2.8 W, TX US</displayName>
+    <minDate>2007-05-28</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.657</latitude>
+    <longitude>-96.9521</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOD0014</id>
+    <displayName>WHITESBORO 3.9 NE, NY US</displayName>
+    <minDate>2007-11-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.1658</latitude>
+    <longitude>-75.2451</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419705</id>
+    <displayName>WHITESBORO SOIL CONSERVATION SERVICE 3, TX US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1941-06-30</maxDate>
+    <latitude>33.66667</latitude>
+    <longitude>-96.85</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9525</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00158635</id>
+    <displayName>WHITESBURG 2 SE, KY US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.1026</latitude>
+    <longitude>-82.8046</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00099368</id>
+    <displayName>WHITESBURG, GA US</displayName>
+    <minDate>1893-01-18</minDate>
+    <maxDate>1898-04-30</maxDate>
+    <latitude>33.5</latitude>
+    <longitude>-84.916667</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00158633</id>
+    <displayName>WHITESBURG, KY US</displayName>
+    <minDate>1925-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1187</latitude>
+    <longitude>-82.8281</longitude>
+    <elevation>355.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2547</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369655</id>
+    <displayName>WHITESBURG, PA US</displayName>
+    <minDate>1940-09-22</minDate>
+    <maxDate>2007-07-16</maxDate>
+    <latitude>40.76667</latitude>
+    <longitude>-79.41667</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359298</id>
+    <displayName>WHITESON 1 NW, OR US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1967-12-31</maxDate>
+    <latitude>45.16667</latitude>
+    <longitude>-123.2</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7098</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509793</id>
+    <displayName>WHITESTONE FARMS, AK US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>64.15389</latitude>
+    <longitude>-145.88944</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0014</id>
+    <displayName>WHITESTOWN 0.7 SSW, IN US</displayName>
+    <minDate>2006-04-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.986</latitude>
+    <longitude>-86.3518</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBN0047</id>
+    <displayName>WHITESTOWN 6.5 NE, IN US</displayName>
+    <minDate>2011-10-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0731</latitude>
+    <longitude>-86.2761</longitude>
+    <elevation>283.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129557</id>
+    <displayName>WHITESTOWN, IN US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>39.9962</latitude>
+    <longitude>-86.3543</longitude>
+    <elevation>289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319354</id>
+    <displayName>WHITESVILLE 5 S, NC US</displayName>
+    <minDate>1992-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.2572</latitude>
+    <longitude>-78.6872</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309425</id>
+    <displayName>WHITESVILLE, NY US</displayName>
+    <minDate>1954-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0398</latitude>
+    <longitude>-77.765</longitude>
+    <elevation>530.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469527</id>
+    <displayName>WHITESVILLE, WV US</displayName>
+    <minDate>2001-11-01</minDate>
+    <maxDate>2010-04-30</maxDate>
+    <latitude>37.9876</latitude>
+    <longitude>-81.5428</longitude>
+    <elevation>250.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00449094</id>
+    <displayName>WHITETOP MOUNTAIN, VA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1951-05-24</maxDate>
+    <latitude>36.63333</latitude>
+    <longitude>-81.6</longitude>
+    <elevation>1667.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCL0002</id>
+    <displayName>WHITEVILLE 0.3 SE, NC US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3264</latitude>
+    <longitude>-78.7006</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCL0012</id>
+    <displayName>WHITEVILLE 5.9 SW, NC US</displayName>
+    <minDate>2011-04-09</minDate>
+    <maxDate>2011-12-06</maxDate>
+    <latitude>34.2594</latitude>
+    <longitude>-78.7628</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7521</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCL0001</id>
+    <displayName>WHITEVILLE 6.3 NNW, NC US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>34.4137</latitude>
+    <longitude>-78.7519</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4514</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319357</id>
+    <displayName>WHITEVILLE 7 NW, NC US</displayName>
+    <minDate>1954-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4094</latitude>
+    <longitude>-78.7913</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCL0006</id>
+    <displayName>WHITEVILLE 7.0 S, NC US</displayName>
+    <minDate>2011-03-31</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>34.2285</latitude>
+    <longitude>-78.7168</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6391</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCL0005</id>
+    <displayName>WHITEVILLE 9.0 SSW, NC US</displayName>
+    <minDate>2011-09-25</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>34.207</latitude>
+    <longitude>-78.7592</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8333</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NWHI</id>
+    <displayName>WHITEVILLE NORTH CAROLINA, NC US</displayName>
+    <minDate>1999-09-10</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.3361</latitude>
+    <longitude>-78.7286</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9487</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319352</id>
+    <displayName>WHITEVILLE, NC US</displayName>
+    <minDate>1903-07-01</minDate>
+    <maxDate>1975-12-31</maxDate>
+    <latitude>34.31667</latitude>
+    <longitude>-78.71667</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIJF0005</id>
+    <displayName>WHITEWATER 1.3 NW, WI US</displayName>
+    <minDate>2008-04-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.848</latitude>
+    <longitude>-88.7542</longitude>
+    <elevation>256.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7615</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248941</id>
+    <displayName>WHITEWATER 18 NE, MT US</displayName>
+    <minDate>2001-06-01</minDate>
+    <maxDate>2012-11-25</maxDate>
+    <latitude>48.9702</latitude>
+    <longitude>-107.4223</longitude>
+    <elevation>840.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCG0002</id>
+    <displayName>WHITEWATER 3.4 W, MO US</displayName>
+    <minDate>2006-05-30</minDate>
+    <maxDate>2011-09-26</maxDate>
+    <latitude>37.2458</latitude>
+    <longitude>-89.8577</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1799</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COME0071</id>
+    <displayName>WHITEWATER 7.8 ESE, CO US</displayName>
+    <minDate>2009-07-02</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>38.9478</latitude>
+    <longitude>-108.2901</longitude>
+    <elevation>1657.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218951</id>
+    <displayName>WHITEWATER STATE PARK, MN US</displayName>
+    <minDate>1939-07-01</minDate>
+    <maxDate>1943-07-30</maxDate>
+    <latitude>44.083333</latitude>
+    <longitude>-92.033333</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248939</id>
+    <displayName>WHITEWATER, MT US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>48.7596</latitude>
+    <longitude>-107.6249</longitude>
+    <elevation>711.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299720</id>
+    <displayName>WHITEWATER, NM US</displayName>
+    <minDate>1948-05-22</minDate>
+    <maxDate>2003-12-31</maxDate>
+    <latitude>32.55778</latitude>
+    <longitude>-108.12639</longitude>
+    <elevation>1530.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9586</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00479190</id>
+    <displayName>WHITEWATER, WI US</displayName>
+    <minDate>1941-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8508</latitude>
+    <longitude>-88.7247</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0001</id>
+    <displayName>WHITEWOOD 4.2 NNW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5179</latitude>
+    <longitude>-103.6698</longitude>
+    <elevation>1108.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.981</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0021</id>
+    <displayName>WHITEWOOD 5.3 E, SD US</displayName>
+    <minDate>2007-09-18</minDate>
+    <maxDate>2011-10-24</maxDate>
+    <latitude>44.4656</latitude>
+    <longitude>-103.532</longitude>
+    <elevation>994</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2697</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGA0011</id>
+    <displayName>WHITEWRIGHT 6.5 W, TX US</displayName>
+    <minDate>2012-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.4962</latitude>
+    <longitude>-96.5067</longitude>
+    <elevation>239.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018925</id>
+    <displayName>WHITFIELD LOCK 3, AL US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1960-12-11</maxDate>
+    <latitude>32.28333</latitude>
+    <longitude>-88.01667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9622</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014840</id>
+    <displayName>WHITFIELD LOCK 3, AL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1950-01-31</maxDate>
+    <latitude>32.28333</latitude>
+    <longitude>-88.01667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEWS0011</id>
+    <displayName>WHITING 2.3 WSW, ME US</displayName>
+    <minDate>2010-05-22</minDate>
+    <maxDate>2012-11-14</maxDate>
+    <latitude>44.7756</latitude>
+    <longitude>-67.2177</longitude>
+    <elevation>23.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6267</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053847</id>
+    <displayName>WHITING FIELD NAS SOUTH, FL US</displayName>
+    <minDate>1996-07-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.70444</latitude>
+    <longitude>-87.02306</longitude>
+    <elevation>54.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4241</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093841</id>
+    <displayName>WHITING FIELD NAS, FL US</displayName>
+    <minDate>1945-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.71667</latitude>
+    <longitude>-87.01667</longitude>
+    <elevation>60.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129570</id>
+    <displayName>WHITING, IN US</displayName>
+    <minDate>1909-10-01</minDate>
+    <maxDate>1962-05-31</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-87.48333</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00439735</id>
+    <displayName>WHITINGHAM 1 W, VT US</displayName>
+    <minDate>1930-05-01</minDate>
+    <maxDate>1998-07-31</maxDate>
+    <latitude>42.8</latitude>
+    <longitude>-72.91667</longitude>
+    <elevation>427.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248946</id>
+    <displayName>WHITLASH, MT US</displayName>
+    <minDate>1905-04-01</minDate>
+    <maxDate>1906-07-31</maxDate>
+    <latitude>48.916667</latitude>
+    <longitude>-111.25</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9384</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029279</id>
+    <displayName>WHITLOCK VALLEY R2, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.81667</latitude>
+    <longitude>-109.51667</longitude>
+    <elevation>1003.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259260</id>
+    <displayName>WHITMAN 13 N, NE US</displayName>
+    <minDate>1945-12-01</minDate>
+    <maxDate>1951-10-31</maxDate>
+    <latitude>42.21667</latitude>
+    <longitude>-101.55</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9699</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gran011</id>
+    <displayName>WHITMAN 13.8 SSE, NE US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2009-06-19</maxDate>
+    <latitude>41.8507</latitude>
+    <longitude>-101.446</longitude>
+    <elevation>1086.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259266</id>
+    <displayName>WHITMAN 24 N, NE US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1984-05-31</maxDate>
+    <latitude>42.4</latitude>
+    <longitude>-101.43333</longitude>
+    <elevation>1049.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9458</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10cher026</id>
+    <displayName>WHITMAN 26.0 N, NE US</displayName>
+    <minDate>2008-08-11</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>42.4186</latitude>
+    <longitude>-101.557</longitude>
+    <elevation>1075</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259262</id>
+    <displayName>WHITMAN 4 E, NE US</displayName>
+    <minDate>1953-11-01</minDate>
+    <maxDate>1963-11-30</maxDate>
+    <latitude>42.0806</latitude>
+    <longitude>-101.4853</longitude>
+    <elevation>1088.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094079</id>
+    <displayName>WHITMAN 5 ENE, NE US</displayName>
+    <minDate>2004-09-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.0680</latitude>
+    <longitude>-101.4450</longitude>
+    <elevation>1140</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00489644</id>
+    <displayName>WHITMAN 5 NW, WY US</displayName>
+    <minDate>1951-04-18</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>42.91667</latitude>
+    <longitude>-104.2</longitude>
+    <elevation>1327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gran013</id>
+    <displayName>WHITMAN 5.6 SE, NE US</displayName>
+    <minDate>2011-08-17</minDate>
+    <maxDate>2012-06-20</maxDate>
+    <latitude>41.9721</latitude>
+    <longitude>-101.4685</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00459200</id>
+    <displayName>WHITMAN MISSION, WA US</displayName>
+    <minDate>1962-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.0436</latitude>
+    <longitude>-118.4628</longitude>
+    <elevation>192.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00259265</id>
+    <displayName>WHITMAN, NE US</displayName>
+    <minDate>1893-01-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-101.51667</longitude>
+    <elevation>1068</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2591</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00389218</id>
+    <displayName>WHITMIRE 4 NE, SC US</displayName>
+    <minDate>1941-01-02</minDate>
+    <maxDate>1991-01-31</maxDate>
+    <latitude>34.53333</latitude>
+    <longitude>-81.55</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9334</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000SWHI</id>
+    <displayName>WHITMIRE SOUTH CAROLINA, SC US</displayName>
+    <minDate>1997-02-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.6333</latitude>
+    <longitude>-81.6</longitude>
+    <elevation>155.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9508</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CWHT</id>
+    <displayName>WHITMORE CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.6194</latitude>
+    <longitude>-121.8994</longitude>
+    <elevation>736.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00208972</id>
+    <displayName>WHITMORE LAKE 1 NW, MI US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.4355</latitude>
+    <longitude>-83.783</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dawe012</id>
+    <displayName>WHITNEY 4.5 WSW, NE US</displayName>
+    <minDate>2007-04-12</minDate>
+    <maxDate>2008-09-08</maxDate>
+    <latitude>42.7625</latitude>
+    <longitude>-103.3398</longitude>
+    <elevation>1067.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419715</id>
+    <displayName>WHITNEY DAM, TX US</displayName>
+    <minDate>1949-10-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.8611</latitude>
+    <longitude>-97.375</longitude>
+    <elevation>175</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00069544</id>
+    <displayName>WHITNEY LAKE, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>41.33333</latitude>
+    <longitude>-72.91667</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9098</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYBM0014</id>
+    <displayName>WHITNEY POINT 1.7 SSE, NY US</displayName>
+    <minDate>2007-09-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3084</latitude>
+    <longitude>-75.9569</longitude>
+    <elevation>385.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYBM0010</id>
+    <displayName>WHITNEY POINT 3.7 ENE, NY US</displayName>
+    <minDate>2006-11-01</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-75.9</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0612</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309439</id>
+    <displayName>WHITNEY POINT 5 E, NY US</displayName>
+    <minDate>1974-07-01</minDate>
+    <maxDate>1979-07-31</maxDate>
+    <latitude>42.33333</latitude>
+    <longitude>-75.86667</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309442</id>
+    <displayName>WHITNEY POINT DAM, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3418</latitude>
+    <longitude>-75.9653</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309437</id>
+    <displayName>WHITNEY POINT LAKE, NY US</displayName>
+    <minDate>1933-04-01</minDate>
+    <maxDate>2001-09-30</maxDate>
+    <latitude>42.33333</latitude>
+    <longitude>-75.96667</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419716</id>
+    <displayName>WHITSETT 3 SW, TX US</displayName>
+    <minDate>1914-05-26</minDate>
+    <maxDate>1964-09-30</maxDate>
+    <latitude>28.63333</latitude>
+    <longitude>-98.26667</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419717</id>
+    <displayName>WHITSETT, TX US</displayName>
+    <minDate>1964-10-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>28.6611</latitude>
+    <longitude>-98.2554</longitude>
+    <elevation>78.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9783</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0010</id>
+    <displayName>WHITTIER 2.9 WNW, CA US</displayName>
+    <minDate>2009-02-23</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.9862</latitude>
+    <longitude>-118.0664</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCJC0007</id>
+    <displayName>WHITTIER 3.5 ESE, NC US</displayName>
+    <minDate>2009-12-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4254</latitude>
+    <longitude>-83.3</longitude>
+    <elevation>645</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8486</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0002</id>
+    <displayName>WHITTIER 3.6 ESE, CA US</displayName>
+    <minDate>2008-10-16</minDate>
+    <maxDate>2012-07-26</maxDate>
+    <latitude>33.9373</latitude>
+    <longitude>-117.9844</longitude>
+    <elevation>88.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3029</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049660</id>
+    <displayName>WHITTIER CITY YARD FC106C, CA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.9758</latitude>
+    <longitude>-118.0222</longitude>
+    <elevation>135.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CWHH</id>
+    <displayName>WHITTIER HILLS CALIFORNIA, CA US</displayName>
+    <minDate>1999-05-11</minDate>
+    <maxDate>2012-08-21</maxDate>
+    <latitude>33.9839</latitude>
+    <longitude>-118.01</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9373</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509829</id>
+    <displayName>WHITTIER, AK US</displayName>
+    <minDate>1942-03-01</minDate>
+    <maxDate>2011-06-30</maxDate>
+    <latitude>60.77639</latitude>
+    <longitude>-148.68583</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7371</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409731</id>
+    <displayName>WHITTLE SPRINGS, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1953-10-31</maxDate>
+    <latitude>36.01667</latitude>
+    <longitude>-83.91667</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9269</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0004</id>
+    <displayName>WHITWELL 0.3 SE, TN US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.198</latitude>
+    <longitude>-85.5143</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8152</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0005</id>
+    <displayName>WHITWELL 0.4 NNE, TN US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2011-11-06</maxDate>
+    <latitude>35.2063</latitude>
+    <longitude>-85.5148</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0010</id>
+    <displayName>WHITWELL 3.0 SSE, TN US</displayName>
+    <minDate>2012-03-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1638</latitude>
+    <longitude>-85.4918</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8232</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0008</id>
+    <displayName>WHITWELL 4.5 ENE, TN US</displayName>
+    <minDate>2007-11-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.229</latitude>
+    <longitude>-85.4457</longitude>
+    <elevation>234.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.95</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0001</id>
+    <displayName>WHITWELL 4.8 NNW, TN US</displayName>
+    <minDate>2007-04-18</minDate>
+    <maxDate>2008-05-20</maxDate>
+    <latitude>35.2552</latitude>
+    <longitude>-85.5516</longitude>
+    <elevation>558.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMA0009</id>
+    <displayName>WHITWELL 8.4 S, TN US</displayName>
+    <minDate>2011-08-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0803</latitude>
+    <longitude>-85.5162</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSQ0010</id>
+    <displayName>WHITWELL 8.6 NE, TN US</displayName>
+    <minDate>2010-03-04</minDate>
+    <maxDate>2011-01-31</maxDate>
+    <latitude>35.2909</latitude>
+    <longitude>-85.4129</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9551</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409691</id>
+    <displayName>WHITWELL SEQUATCHIE VALLEY, TN US</displayName>
+    <minDate>2000-08-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>35.2897</latitude>
+    <longitude>-85.4736</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248957</id>
+    <displayName>WIBAUX 2 E, MT US</displayName>
+    <minDate>1895-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.9878</latitude>
+    <longitude>-104.1567</longitude>
+    <elevation>821.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7365</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000SELK</id>
+    <displayName>WICA ELK MOUNTAIN SOUTH DAKOTA, SD US</displayName>
+    <minDate>1996-06-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.5608</latitude>
+    <longitude>-103.4914</longitude>
+    <elevation>1252.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0012</id>
+    <displayName>WICHITA 1.7 SE, KS US</displayName>
+    <minDate>2007-04-28</minDate>
+    <maxDate>2012-09-07</maxDate>
+    <latitude>37.6716</latitude>
+    <longitude>-97.3199</longitude>
+    <elevation>399.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4724</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0004</id>
+    <displayName>WICHITA 2.5 E, KS US</displayName>
+    <minDate>2006-06-26</minDate>
+    <maxDate>2008-11-25</maxDate>
+    <latitude>37.6893</latitude>
+    <longitude>-97.2966</longitude>
+    <elevation>416.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9253</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0014</id>
+    <displayName>WICHITA 2.5 WNW, KS US</displayName>
+    <minDate>2007-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6982</latitude>
+    <longitude>-97.3869</longitude>
+    <elevation>404.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8592</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0019</id>
+    <displayName>WICHITA 2.7 ESE, KS US</displayName>
+    <minDate>2007-07-15</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>37.6753</latitude>
+    <longitude>-97.2966</longitude>
+    <elevation>398.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0010</id>
+    <displayName>WICHITA 3 E, KS US</displayName>
+    <minDate>2007-03-29</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>37.6847</latitude>
+    <longitude>-97.4188</longitude>
+    <elevation>392</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9263</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSG0027</id>
+    <displayName>WICHITA 3.2 NW, KS US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7196</latitude>
+    <longitude>-97.3844</longitude>
+    <elevation>402</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9293</coverage>
+  </station>
+</stationCollection>

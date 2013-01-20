@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="377">
+  <station>
+    <id>GHCND:US1WACM0020</id>
+    <displayName>SEQUIM 1.3 SE, WA US</displayName>
+    <minDate>2012-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.0665</latitude>
+    <longitude>-123.0832</longitude>
+    <elevation>180.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9248</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457544</id>
+    <displayName>SEQUIM 2 E, WA US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.085</latitude>
+    <longitude>-123.0638</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACM0002</id>
+    <displayName>SEQUIM 5.4 SW, WA US</displayName>
+    <minDate>2008-06-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.0125</latitude>
+    <longitude>-123.1709</longitude>
+    <elevation>421.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACM0008</id>
+    <displayName>SEQUIM 5.5 NNW, WA US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.1492</latitude>
+    <longitude>-123.1577</longitude>
+    <elevation>14.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WACM0014</id>
+    <displayName>SEQUIM 5.8 WNW, WA US</displayName>
+    <minDate>2009-11-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.0944</latitude>
+    <longitude>-123.228</longitude>
+    <elevation>69.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457538</id>
+    <displayName>SEQUIM, WA US</displayName>
+    <minDate>1916-06-01</minDate>
+    <maxDate>1980-09-30</maxDate>
+    <latitude>48.08333</latitude>
+    <longitude>-123.1</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9463</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348056</id>
+    <displayName>SEQUOYAH O T S, OK US</displayName>
+    <minDate>1943-07-01</minDate>
+    <maxDate>1948-08-28</maxDate>
+    <latitude>35.85</latitude>
+    <longitude>-95</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7073</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298227</id>
+    <displayName>SERAFINA 6 WNW, NM US</displayName>
+    <minDate>1915-06-01</minDate>
+    <maxDate>1949-11-25</maxDate>
+    <latitude>35.41667</latitude>
+    <longitude>-105.41667</longitude>
+    <elevation>1983</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157272</id>
+    <displayName>SERGENT, KY US</displayName>
+    <minDate>1897-06-01</minDate>
+    <maxDate>1928-09-30</maxDate>
+    <latitude>37.15</latitude>
+    <longitude>-82.76667</longitude>
+    <elevation>376.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298235</id>
+    <displayName>SERVILLETA NEAR, NM US</displayName>
+    <minDate>1920-10-01</minDate>
+    <maxDate>1928-09-30</maxDate>
+    <latitude>36.5</latitude>
+    <longitude>-105.73333</longitude>
+    <elevation>2133.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307633</id>
+    <displayName>SETAUKET STRONG, NY US</displayName>
+    <minDate>1885-08-01</minDate>
+    <maxDate>2012-10-28</maxDate>
+    <latitude>40.9586</latitude>
+    <longitude>-73.1047</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9332</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSET</id>
+    <displayName>SETH MONTANA, MT US</displayName>
+    <minDate>1991-10-25</minDate>
+    <maxDate>1999-01-08</maxDate>
+    <latitude>46.6083</latitude>
+    <longitude>-111.9658</longitude>
+    <elevation>1897.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9176</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317789</id>
+    <displayName>SETTLE, NC US</displayName>
+    <minDate>1895-08-01</minDate>
+    <maxDate>1957-11-30</maxDate>
+    <latitude>36.01667</latitude>
+    <longitude>-80.76667</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9719</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0084</id>
+    <displayName>SEV 1.5 NE, CO US</displayName>
+    <minDate>1999-08-13</minDate>
+    <maxDate>2005-12-27</maxDate>
+    <latitude>40.5382</latitude>
+    <longitude>-104.8262</longitude>
+    <elevation>1498.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7716</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ASEV</id>
+    <displayName>SEVEN MILE ALASKA, AK US</displayName>
+    <minDate>1988-03-24</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>65.9383</latitude>
+    <longitude>-149.855</longitude>
+    <elevation>250.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCRC0003</id>
+    <displayName>SEVEN OAKS 2.2 NNE, SC US</displayName>
+    <minDate>2008-03-12</minDate>
+    <maxDate>2010-05-27</maxDate>
+    <latitude>34.0781</latitude>
+    <longitude>-81.1307</longitude>
+    <elevation>83.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9442</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048105</id>
+    <displayName>SEVEN OAKS, CA US</displayName>
+    <minDate>1909-12-01</minDate>
+    <maxDate>1955-03-31</maxDate>
+    <latitude>34.18333</latitude>
+    <longitude>-116.95</longitude>
+    <elevation>1549</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9109</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298252</id>
+    <displayName>SEVEN SPRINGS FISH H, NM US</displayName>
+    <minDate>1943-09-01</minDate>
+    <maxDate>1950-05-21</maxDate>
+    <latitude>35.93333</latitude>
+    <longitude>-106.7</longitude>
+    <elevation>2416.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418215</id>
+    <displayName>SEVEN SPRINGS RANCH, TX US</displayName>
+    <minDate>1944-02-01</minDate>
+    <maxDate>1946-07-31</maxDate>
+    <latitude>30.8</latitude>
+    <longitude>-103.783333</longitude>
+    <elevation>1310.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367942</id>
+    <displayName>SEVEN SPRINGS, PA US</displayName>
+    <minDate>1983-01-01</minDate>
+    <maxDate>1993-10-29</maxDate>
+    <latitude>40.01667</latitude>
+    <longitude>-79.3</longitude>
+    <elevation>865.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0022G33S</id>
+    <displayName>SEVENMILE MARSH, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.6833</latitude>
+    <longitude>-122.1333</longitude>
+    <elevation>1889.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9304</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267397</id>
+    <displayName>SEVENTY ONE RANCH, NV US</displayName>
+    <minDate>1939-06-01</minDate>
+    <maxDate>1952-11-30</maxDate>
+    <latitude>40.9</latitude>
+    <longitude>-115.31667</longitude>
+    <elevation>1662.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7447</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015H03S</id>
+    <displayName>SEVENTYSIX CREEK, NV US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.7</latitude>
+    <longitude>-115.4667</longitude>
+    <elevation>2164.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8902</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0324</id>
+    <displayName>SEVERANCE 0.6 SW, CO US</displayName>
+    <minDate>2008-09-21</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.5152</latitude>
+    <longitude>-104.8564</longitude>
+    <elevation>1489.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0376</id>
+    <displayName>SEVERANCE 0.9 ESE, CO US</displayName>
+    <minDate>2012-06-03</minDate>
+    <maxDate>2012-11-09</maxDate>
+    <latitude>40.5199</latitude>
+    <longitude>-104.8334</longitude>
+    <elevation>1492.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9188</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427744</id>
+    <displayName>SEVERE RANCH, UT US</displayName>
+    <minDate>1949-08-01</minDate>
+    <maxDate>1951-02-28</maxDate>
+    <latitude>40.33333</latitude>
+    <longitude>-112.73333</longitude>
+    <elevation>1342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8146</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0051</id>
+    <displayName>SEVERN 1.5 SSW, MD US</displayName>
+    <minDate>2011-11-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1147</latitude>
+    <longitude>-76.6989</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9032</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0027</id>
+    <displayName>SEVERN 1.7 E, MD US</displayName>
+    <minDate>2008-04-21</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>39.1373</latitude>
+    <longitude>-76.659</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7112</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0004</id>
+    <displayName>SEVERN 2.0 W, MD US</displayName>
+    <minDate>2005-09-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>39.1321</latitude>
+    <longitude>-76.728</longitude>
+    <elevation>68.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCNR0007</id>
+    <displayName>SEVERN 2.6 W, NC US</displayName>
+    <minDate>2011-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5167</latitude>
+    <longitude>-77.2363</longitude>
+    <elevation>33.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0024</id>
+    <displayName>SEVERNA PARK 1.9 ENE, MD US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2012-12-08</maxDate>
+    <latitude>39.0948</latitude>
+    <longitude>-76.541</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3108</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427740</id>
+    <displayName>SEVIER BRIDGE DAM, UT US</displayName>
+    <minDate>1922-06-01</minDate>
+    <maxDate>1932-09-30</maxDate>
+    <latitude>39.383333</latitude>
+    <longitude>-112.033333</longitude>
+    <elevation>1517.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9134</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427747</id>
+    <displayName>SEVIER DRY LAKE, UT US</displayName>
+    <minDate>1987-10-01</minDate>
+    <maxDate>1993-04-30</maxDate>
+    <latitude>38.73333</latitude>
+    <longitude>-113.21667</longitude>
+    <elevation>1378.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427742</id>
+    <displayName>SEVIER NEAR, UT US</displayName>
+    <minDate>1925-03-08</minDate>
+    <maxDate>1927-08-31</maxDate>
+    <latitude>38.583333</latitude>
+    <longitude>-112.35</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000SEVI</id>
+    <displayName>SEVIER RESERVOIR SCIPIO 9 NNE, UT US</displayName>
+    <minDate>1987-09-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.35</latitude>
+    <longitude>-112</longitude>
+    <elevation>1624.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSV0007</id>
+    <displayName>SEVIERVILLE 2.4 SE, TN US</displayName>
+    <minDate>2011-02-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8641</latitude>
+    <longitude>-83.5533</longitude>
+    <elevation>277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSV0003</id>
+    <displayName>SEVIERVILLE 2.8 NNW, TN US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9263</latitude>
+    <longitude>-83.6043</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5437</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSV0004</id>
+    <displayName>SEVIERVILLE 5.4 ENE, TN US</displayName>
+    <minDate>2008-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9199</latitude>
+    <longitude>-83.4872</longitude>
+    <elevation>331.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6771</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSV0005</id>
+    <displayName>SEVIERVILLE 7.3 SE, TN US</displayName>
+    <minDate>2008-09-27</minDate>
+    <maxDate>2010-03-04</maxDate>
+    <latitude>35.8255</latitude>
+    <longitude>-83.4674</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.376</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408176</id>
+    <displayName>SEVIERVILLE, TN US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.88333</latitude>
+    <longitude>-83.58333</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408179</id>
+    <displayName>SEVIERVILLE, TN US</displayName>
+    <minDate>1955-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.9296</latitude>
+    <longitude>-83.5983</longitude>
+    <elevation>274</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247462</id>
+    <displayName>SEVILLE, MT US</displayName>
+    <minDate>1910-11-10</minDate>
+    <maxDate>1912-06-30</maxDate>
+    <latitude>48.633333</latitude>
+    <longitude>-112.533333</longitude>
+    <elevation>1204</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNFK0011</id>
+    <displayName>SEWANEE 4.6 SE, TN US</displayName>
+    <minDate>2008-01-06</minDate>
+    <maxDate>2009-01-02</maxDate>
+    <latitude>35.1468</latitude>
+    <longitude>-85.8748</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408184</id>
+    <displayName>SEWANEE, TN US</displayName>
+    <minDate>1895-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.2028</latitude>
+    <longitude>-85.9172</longitude>
+    <elevation>587.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10sewa021</id>
+    <displayName>SEWARD 1.1 NE, NE US</displayName>
+    <minDate>2012-06-25</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>40.9207</latitude>
+    <longitude>-97.0893</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6335</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508377</id>
+    <displayName>SEWARD 19 N, AK US</displayName>
+    <minDate>1986-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>60.3538</latitude>
+    <longitude>-149.3483</longitude>
+    <elevation>157.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10sewa006</id>
+    <displayName>SEWARD 4.7 NE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.9596</latitude>
+    <longitude>-97.0415</longitude>
+    <elevation>463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508375</id>
+    <displayName>SEWARD 8 NW, AK US</displayName>
+    <minDate>1983-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>60.1883</latitude>
+    <longitude>-149.6274</longitude>
+    <elevation>129.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8045</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026438</id>
+    <displayName>SEWARD AIRPORT, AK US</displayName>
+    <minDate>1908-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>60.12833</latitude>
+    <longitude>-149.41667</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9369</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00257715</id>
+    <displayName>SEWARD, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.89972</latitude>
+    <longitude>-97.09083</longitude>
+    <elevation>440.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367956</id>
+    <displayName>SEWARD, PA US</displayName>
+    <minDate>1938-06-01</minDate>
+    <maxDate>1952-08-31</maxDate>
+    <latitude>40.41667</latitude>
+    <longitude>-79.01667</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00447666</id>
+    <displayName>SEXTON SHELTER, VA US</displayName>
+    <minDate>1935-02-15</minDate>
+    <maxDate>1940-07-30</maxDate>
+    <latitude>38.616667</latitude>
+    <longitude>-78.35</longitude>
+    <elevation>99.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7712</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024235</id>
+    <displayName>SEXTON SUMMIT, OR US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.6003</latitude>
+    <longitude>-123.3641</longitude>
+    <elevation>1168</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9349</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJK0008</id>
+    <displayName>SEYMOUR 0.2 SSW, IN US</displayName>
+    <minDate>2011-02-15</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>38.9558</latitude>
+    <longitude>-85.8876</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6681</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJK0006</id>
+    <displayName>SEYMOUR 0.8 S, IN US</displayName>
+    <minDate>2008-06-18</minDate>
+    <maxDate>2011-02-14</maxDate>
+    <latitude>38.9572</latitude>
+    <longitude>-85.8829</longitude>
+    <elevation>179.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOWB0013</id>
+    <displayName>SEYMOUR 0.9 SSW, MO US</displayName>
+    <minDate>2008-06-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1375</latitude>
+    <longitude>-92.7757</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9499</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237674</id>
+    <displayName>SEYMOUR 1 NNW, MO US</displayName>
+    <minDate>1896-01-01</minDate>
+    <maxDate>1960-09-30</maxDate>
+    <latitude>37.15</latitude>
+    <longitude>-92.76667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSV0010</id>
+    <displayName>SEYMOUR 1.1 ENE, TN US</displayName>
+    <minDate>2010-09-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8791</latitude>
+    <longitude>-83.7553</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJK0003</id>
+    <displayName>SEYMOUR 1.1 WSW, IN US</displayName>
+    <minDate>2006-09-05</minDate>
+    <maxDate>2008-06-08</maxDate>
+    <latitude>38.9537</latitude>
+    <longitude>-85.9065</longitude>
+    <elevation>173.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8072</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127935</id>
+    <displayName>SEYMOUR 2 N, IN US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.9822</latitude>
+    <longitude>-85.8988</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTNH0015</id>
+    <displayName>SEYMOUR 3.6 SW, CT US</displayName>
+    <minDate>2012-06-13</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.363</latitude>
+    <longitude>-73.128</longitude>
+    <elevation>163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127930</id>
+    <displayName>SEYMOUR HIGHWAY GARAGE, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.9616</latitude>
+    <longitude>-85.8608</longitude>
+    <elevation>181.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418221</id>
+    <displayName>SEYMOUR, TX US</displayName>
+    <minDate>1905-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6324</latitude>
+    <longitude>-99.2897</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477636</id>
+    <displayName>SEYMOUR, WI US</displayName>
+    <minDate>1983-03-01</minDate>
+    <maxDate>2001-05-31</maxDate>
+    <latitude>44.50444</latitude>
+    <longitude>-88.33333</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9223</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0434</id>
+    <displayName>SFTC SANITATION, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.4839</latitude>
+    <longitude>-105.0311</longitude>
+    <elevation>1487.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117833</id>
+    <displayName>SHABBONA 3 S, IL US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.7322</latitude>
+    <longitude>-88.8653</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9772</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054811</id>
+    <displayName>SHABBONA 5 NNE, IL US</displayName>
+    <minDate>2003-08-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.8430</latitude>
+    <longitude>-88.8513</longitude>
+    <elevation>262.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367965</id>
+    <displayName>SHADE GAP, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.18333</latitude>
+    <longitude>-77.86667</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397567</id>
+    <displayName>SHADEHILL DAM, SD US</displayName>
+    <minDate>1950-08-01</minDate>
+    <maxDate>1977-03-31</maxDate>
+    <latitude>45.76667</latitude>
+    <longitude>-102.2</longitude>
+    <elevation>680</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9705</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397569</id>
+    <displayName>SHADEHILL RESERVOIR, SD US</displayName>
+    <minDate>2001-05-01</minDate>
+    <maxDate>2012-07-25</maxDate>
+    <latitude>45.685</latitude>
+    <longitude>-102.2733</longitude>
+    <elevation>746.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSHQ</id>
+    <displayName>SHADEQUARTER CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.5672</latitude>
+    <longitude>-118.9556</longitude>
+    <elevation>1240.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9019</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0018</id>
+    <displayName>SHADY COVE 0.2 S, OR US</displayName>
+    <minDate>2007-12-07</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>42.6089</latitude>
+    <longitude>-122.8189</longitude>
+    <elevation>422.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8921</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0031</id>
+    <displayName>SHADY COVE 0.6 SSW, OR US</displayName>
+    <minDate>2008-01-14</minDate>
+    <maxDate>2010-02-28</maxDate>
+    <latitude>42.6038</latitude>
+    <longitude>-122.8243</longitude>
+    <elevation>450.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408203</id>
+    <displayName>SHADY GROVE, TN US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.75</latitude>
+    <longitude>-87.28333</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDN0001</id>
+    <displayName>SHADY SHORES 3.9 N, TX US</displayName>
+    <minDate>2006-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2191</latitude>
+    <longitude>-97.0532</longitude>
+    <elevation>168.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0009</id>
+    <displayName>SHADY SIDE 0.9 SW, MD US</displayName>
+    <minDate>2006-04-03</minDate>
+    <maxDate>2008-02-05</maxDate>
+    <latitude>38.8214</latitude>
+    <longitude>-76.5371</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7463</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0022</id>
+    <displayName>SHADY SIDE 1.6 NW, MD US</displayName>
+    <minDate>2007-07-20</minDate>
+    <maxDate>2012-11-18</maxDate>
+    <latitude>38.8434</latitude>
+    <longitude>-76.5499</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1452</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468083</id>
+    <displayName>SHADY SPRINGS 2 ESE, WV US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>1954-03-31</maxDate>
+    <latitude>37.7</latitude>
+    <longitude>-81.05</longitude>
+    <elevation>811.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418231</id>
+    <displayName>SHAEFFER RANCH, TX US</displayName>
+    <minDate>1901-09-01</minDate>
+    <maxDate>1903-02-28</maxDate>
+    <latitude>27.66667</latitude>
+    <longitude>-97.75</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048122</id>
+    <displayName>SHAFTER 6 E, CA US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.48667</latitude>
+    <longitude>-119.14583</longitude>
+    <elevation>123.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267410</id>
+    <displayName>SHAFTER, NV US</displayName>
+    <minDate>1914-03-01</minDate>
+    <maxDate>1915-06-30</maxDate>
+    <latitude>40.866667</latitude>
+    <longitude>-114.433333</longitude>
+    <elevation>1701.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508379</id>
+    <displayName>SHAGELUK, AK US</displayName>
+    <minDate>1985-09-01</minDate>
+    <maxDate>1986-12-18</maxDate>
+    <latitude>62.7</latitude>
+    <longitude>-159.56667</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6624</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127959</id>
+    <displayName>SHAKAMAK STATE PARK, IN US</displayName>
+    <minDate>1989-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.1613</latitude>
+    <longitude>-87.2436</longitude>
+    <elevation>161.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108303</id>
+    <displayName>SHAKE CREEK RANGER S, ID US</displayName>
+    <minDate>1926-08-01</minDate>
+    <maxDate>1928-10-31</maxDate>
+    <latitude>43.61667</latitude>
+    <longitude>-115.16667</longitude>
+    <elevation>1442.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSC0017</id>
+    <displayName>SHAKOPEE 3.9 ESE, MN US</displayName>
+    <minDate>2012-05-12</minDate>
+    <maxDate>2012-11-22</maxDate>
+    <latitude>44.7554</latitude>
+    <longitude>-93.4023</longitude>
+    <elevation>306.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00217573</id>
+    <displayName>SHAKOPEE, MN US</displayName>
+    <minDate>1895-02-01</minDate>
+    <maxDate>1909-05-31</maxDate>
+    <latitude>44.76667</latitude>
+    <longitude>-93.5</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8181</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508389</id>
+    <displayName>SHAKTOOLIK, AK US</displayName>
+    <minDate>1920-12-01</minDate>
+    <maxDate>1934-04-30</maxDate>
+    <latitude>64.33222</latitude>
+    <longitude>-161.15111</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLOK0016</id>
+    <displayName>SHALIMAR 1.0 N, FL US</displayName>
+    <minDate>2007-11-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4586</latitude>
+    <longitude>-86.5815</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8788</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00188191</id>
+    <displayName>SHALLMAR, MD US</displayName>
+    <minDate>1950-05-01</minDate>
+    <maxDate>1966-10-31</maxDate>
+    <latitude>39.38333</latitude>
+    <longitude>-79.2</longitude>
+    <elevation>519.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317817</id>
+    <displayName>SHALLOTTE 4 WNW, NC US</displayName>
+    <minDate>1962-06-01</minDate>
+    <maxDate>1971-11-30</maxDate>
+    <latitude>34</latitude>
+    <longitude>-78.45</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9415</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBR0005</id>
+    <displayName>SHALLOTTE 4.2 SSW, NC US</displayName>
+    <minDate>2008-04-19</minDate>
+    <maxDate>2009-10-03</maxDate>
+    <latitude>33.9192</latitude>
+    <longitude>-78.4132</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9099</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317813</id>
+    <displayName>SHALLOTTE AG, NC US</displayName>
+    <minDate>2005-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.9283</latitude>
+    <longitude>-78.3894</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0046</id>
+    <displayName>SHALLOWATER 1.2 SSE, TX US</displayName>
+    <minDate>2010-08-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6738</latitude>
+    <longitude>-101.9863</longitude>
+    <elevation>1014.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9218</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0009</id>
+    <displayName>SHALLOWATER 2.7 NW, TX US</displayName>
+    <minDate>2008-03-02</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.7177</latitude>
+    <longitude>-102.0256</longitude>
+    <elevation>1014.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2197</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLK0030</id>
+    <displayName>SHALLOWATER 8.3 NNW, TX US</displayName>
+    <minDate>2010-06-17</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.7952</latitude>
+    <longitude>-102.0621</longitude>
+    <elevation>1030.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418234</id>
+    <displayName>SHALLOWATER NEAR SOIL CONSERVATION SERVICE NUMBER 63, TX US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1942-03-31</maxDate>
+    <latitude>33.716667</latitude>
+    <longitude>-102</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8132</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418232</id>
+    <displayName>SHALLOWATER, TX US</displayName>
+    <minDate>2006-04-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.6877</latitude>
+    <longitude>-101.9854</longitude>
+    <elevation>1011.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367978</id>
+    <displayName>SHAMOKIN, PA US</displayName>
+    <minDate>1944-07-01</minDate>
+    <maxDate>1995-02-28</maxDate>
+    <latitude>40.8</latitude>
+    <longitude>-76.55</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCW0004</id>
+    <displayName>SHAMROCK 0.7 WSW, MO US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2011-01-14</maxDate>
+    <latitude>39.002</latitude>
+    <longitude>-91.7066</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9363</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418236</id>
+    <displayName>SHAMROCK 2, TX US</displayName>
+    <minDate>1962-09-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>35.215</latitude>
+    <longitude>-100.2502</longitude>
+    <elevation>719.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9581</coverage>
+  </station>
+</stationCollection>

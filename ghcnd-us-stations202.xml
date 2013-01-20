@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="202">
+  <station>
+    <id>GHCND:US10chas001</id>
+    <displayName>IMPERIAL 0.1 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5158</latitude>
+    <longitude>-101.6451</longitude>
+    <elevation>1004</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9049</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chas026</id>
+    <displayName>IMPERIAL 10.4 NW, NE US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2011-06-13</maxDate>
+    <latitude>40.6249</latitude>
+    <longitude>-101.7822</longitude>
+    <elevation>1036</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.099</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chas023</id>
+    <displayName>IMPERIAL 11.5 N, NE US</displayName>
+    <minDate>2007-03-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.6832</latitude>
+    <longitude>-101.6432</longitude>
+    <elevation>1018</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.246</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chas011</id>
+    <displayName>IMPERIAL 5.4 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-03-22</maxDate>
+    <latitude>40.5667</latitude>
+    <longitude>-101.7244</longitude>
+    <elevation>1014.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chas005</id>
+    <displayName>IMPERIAL 7.3 WNW, NE US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2010-09-30</maxDate>
+    <latitude>40.5495</latitude>
+    <longitude>-101.7773</longitude>
+    <elevation>1015.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chas003</id>
+    <displayName>IMPERIAL 7.6 S, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.4085</latitude>
+    <longitude>-101.6227</longitude>
+    <elevation>1054</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0003</id>
+    <displayName>IMPERIAL BEACH 3.3 E, CA US</displayName>
+    <minDate>2008-10-08</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>32.5738</latitude>
+    <longitude>-117.0625</longitude>
+    <elevation>42.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093115</id>
+    <displayName>IMPERIAL BEACH REAM FIELD NAS, CA US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.56667</latitude>
+    <longitude>-117.11667</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003144</id>
+    <displayName>IMPERIAL CO AIRPORT, CA US</displayName>
+    <minDate>1962-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.83417</latitude>
+    <longitude>-115.57861</longitude>
+    <elevation>-17.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6282</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024299</id>
+    <displayName>IMPERIAL DAM, CA US</displayName>
+    <minDate>1947-04-01</minDate>
+    <maxDate>1949-08-31</maxDate>
+    <latitude>32.88333</latitude>
+    <longitude>-114.46667</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024091</id>
+    <displayName>IMPERIAL MUNICIPAL AIRPORT, NE US</displayName>
+    <minDate>1950-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.51</latitude>
+    <longitude>-101.62</longitude>
+    <elevation>996.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5415</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044227</id>
+    <displayName>IMPERIAL SAND DUNES, CA US</displayName>
+    <minDate>1995-03-01</minDate>
+    <maxDate>1997-11-30</maxDate>
+    <latitude>32.96667</latitude>
+    <longitude>-115.18333</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044223</id>
+    <displayName>IMPERIAL, CA US</displayName>
+    <minDate>1901-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>32.8488</latitude>
+    <longitude>-115.5666</longitude>
+    <elevation>-19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8393</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143946</id>
+    <displayName>IMPERIAL, KS US</displayName>
+    <minDate>1940-04-01</minDate>
+    <maxDate>1983-11-30</maxDate>
+    <latitude>38.28333</latitude>
+    <longitude>-100.65</longitude>
+    <elevation>857.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254110</id>
+    <displayName>IMPERIAL, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5209</latitude>
+    <longitude>-101.655</longitude>
+    <elevation>999.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354153</id>
+    <displayName>IMPERIAL, OR US</displayName>
+    <minDate>1912-03-01</minDate>
+    <maxDate>1916-03-31</maxDate>
+    <latitude>43.766667</latitude>
+    <longitude>-120.4</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414425</id>
+    <displayName>IMPERIAL, TX US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.26667</latitude>
+    <longitude>-102.7</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104510</id>
+    <displayName>IMUS BROTHERS RANCH, ID US</displayName>
+    <minDate>1915-02-09</minDate>
+    <maxDate>1918-06-30</maxDate>
+    <latitude>44.233333</latitude>
+    <longitude>-113.616667</longitude>
+    <elevation>2179.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114363</id>
+    <displayName>INA, IL US</displayName>
+    <minDate>1972-03-01</minDate>
+    <maxDate>1990-02-28</maxDate>
+    <latitude>38.15</latitude>
+    <longitude>-88.9</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9185</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914275</id>
+    <displayName>INARAJAN AG STATION, US</displayName>
+    <minDate>1978-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>13.2853</latitude>
+    <longitude>144.7547</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00914278</id>
+    <displayName>INARAJAN NASA, US</displayName>
+    <minDate>1978-08-01</minDate>
+    <maxDate>1991-10-31</maxDate>
+    <latitude>13.31139</latitude>
+    <longitude>144.73639</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453903</id>
+    <displayName>INCHELIUM 2 NW, WA US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1975-09-30</maxDate>
+    <latitude>48.31667</latitude>
+    <longitude>-118.21667</longitude>
+    <elevation>515.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6259</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAFY0003</id>
+    <displayName>INCHELIUM 2.5 SE, WA US</displayName>
+    <minDate>2009-03-26</minDate>
+    <maxDate>2011-10-05</maxDate>
+    <latitude>48.3111</latitude>
+    <longitude>-118.2164</longitude>
+    <elevation>513.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5141</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABC0003</id>
+    <displayName>INDEPENDENCE 0.3 NNE, IA US</displayName>
+    <minDate>2008-04-07</minDate>
+    <maxDate>2010-11-29</maxDate>
+    <latitude>42.4725</latitude>
+    <longitude>-91.8877</longitude>
+    <elevation>286.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3278</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORPK0014</id>
+    <displayName>INDEPENDENCE 0.3 NNW, OR US</displayName>
+    <minDate>2007-12-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8592</latitude>
+    <longitude>-123.1947</longitude>
+    <elevation>53.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSMG0008</id>
+    <displayName>INDEPENDENCE 0.3 NW, KS US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2334</latitude>
+    <longitude>-95.7181</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224377</id>
+    <displayName>INDEPENDENCE 1 W, MS US</displayName>
+    <minDate>1957-11-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6988</latitude>
+    <longitude>-89.8213</longitude>
+    <elevation>105.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAGR0003</id>
+    <displayName>INDEPENDENCE 1.3 S, VA US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.6047</latitude>
+    <longitude>-81.1555</longitude>
+    <elevation>822.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWA0004</id>
+    <displayName>INDEPENDENCE 1.8 WSW, TX US</displayName>
+    <minDate>2007-10-10</minDate>
+    <maxDate>2011-12-30</maxDate>
+    <latitude>30.3093</latitude>
+    <longitude>-96.3752</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234158</id>
+    <displayName>INDEPENDENCE 2, MO US</displayName>
+    <minDate>1973-09-01</minDate>
+    <maxDate>1989-09-30</maxDate>
+    <latitude>39.06667</latitude>
+    <longitude>-94.38333</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.83</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444234</id>
+    <displayName>INDEPENDENCE 2, VA US</displayName>
+    <minDate>1953-01-01</minDate>
+    <maxDate>1989-06-30</maxDate>
+    <latitude>36.65</latitude>
+    <longitude>-81.16667</longitude>
+    <elevation>796.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAGR0002</id>
+    <displayName>INDEPENDENCE 2.2 E, VA US</displayName>
+    <minDate>2009-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.6212</latitude>
+    <longitude>-81.1117</longitude>
+    <elevation>807.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORPK0013</id>
+    <displayName>INDEPENDENCE 5.2 SE, OR US</displayName>
+    <minDate>2007-12-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7925</latitude>
+    <longitude>-123.1331</longitude>
+    <elevation>52.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020K04S</id>
+    <displayName>INDEPENDENCE CAMP, CA US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.45</latitude>
+    <longitude>-120.2833</longitude>
+    <elevation>2133.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020K03S</id>
+    <displayName>INDEPENDENCE CREEK, CA US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.4833</latitude>
+    <longitude>-120.2833</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7451</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020K05S</id>
+    <displayName>INDEPENDENCE LAKE, CA US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.4167</latitude>
+    <longitude>-120.3167</longitude>
+    <elevation>2575.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503914</id>
+    <displayName>INDEPENDENCE MINE, AK US</displayName>
+    <minDate>1971-01-28</minDate>
+    <maxDate>1971-11-30</maxDate>
+    <latitude>61.8</latitude>
+    <longitude>-149.3</longitude>
+    <elevation>1068</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4136</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134049</id>
+    <displayName>INDEPENDENCE NUMBER 1, IA US</displayName>
+    <minDate>1862-11-25</minDate>
+    <maxDate>2009-06-28</maxDate>
+    <latitude>42.527</latitude>
+    <longitude>-91.878</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044235</id>
+    <displayName>INDEPENDENCE ONION V, CA US</displayName>
+    <minDate>1948-12-08</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.76667</latitude>
+    <longitude>-118.33333</longitude>
+    <elevation>2799.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8637</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054270</id>
+    <displayName>INDEPENDENCE PASS 5 SW, CO US</displayName>
+    <minDate>1947-07-01</minDate>
+    <maxDate>1980-01-31</maxDate>
+    <latitude>39.08333</latitude>
+    <longitude>-106.61667</longitude>
+    <elevation>3200.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5489</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006K04S</id>
+    <displayName>INDEPENDENCE PASS, CO US</displayName>
+    <minDate>1980-07-31</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.0667</latitude>
+    <longitude>-106.6167</longitude>
+    <elevation>3230.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9231</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044232</id>
+    <displayName>INDEPENDENCE, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>36.798</latitude>
+    <longitude>-118.2036</longitude>
+    <elevation>1204</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7168</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134052</id>
+    <displayName>INDEPENDENCE, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.50694</latitude>
+    <longitude>-91.90139</longitude>
+    <elevation>275.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7203</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143954</id>
+    <displayName>INDEPENDENCE, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2363</latitude>
+    <longitude>-95.7002</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234154</id>
+    <displayName>INDEPENDENCE, MO US</displayName>
+    <minDate>1990-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0647</latitude>
+    <longitude>-94.3861</longitude>
+    <elevation>300.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9672</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444229</id>
+    <displayName>INDEPENDENCE, VA US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>36.6</latitude>
+    <longitude>-81.11667</longitude>
+    <elevation>772.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453910</id>
+    <displayName>INDEX 1 SSE, WA US</displayName>
+    <minDate>1956-02-01</minDate>
+    <maxDate>1957-06-30</maxDate>
+    <latitude>47.81667</latitude>
+    <longitude>-121.55</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5504</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453909</id>
+    <displayName>INDEX 1 SSE, WA US</displayName>
+    <minDate>1894-09-25</minDate>
+    <maxDate>1955-12-12</maxDate>
+    <latitude>47.81667</latitude>
+    <longitude>-121.55</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3474</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033584</id>
+    <displayName>INDEX, AR US</displayName>
+    <minDate>1947-07-03</minDate>
+    <maxDate>1968-08-31</maxDate>
+    <latitude>33.58333</latitude>
+    <longitude>-94.05</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414436</id>
+    <displayName>INDEX, TX US</displayName>
+    <minDate>1917-09-01</minDate>
+    <maxDate>1925-10-31</maxDate>
+    <latitude>33.55</latitude>
+    <longitude>-94.05</longitude>
+    <elevation>89.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBV0024</id>
+    <displayName>INDIALANTIC 0.8 N, FL US</displayName>
+    <minDate>2008-08-23</minDate>
+    <maxDate>2011-06-19</maxDate>
+    <latitude>28.0992</latitude>
+    <longitude>-80.5702</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010K01S</id>
+    <displayName>INDIAN CANYON, UT US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.9</latitude>
+    <longitude>-110.75</longitude>
+    <elevation>2773.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104526</id>
+    <displayName>INDIAN COVE, ID US</displayName>
+    <minDate>1912-09-15</minDate>
+    <maxDate>1937-06-30</maxDate>
+    <latitude>42.93333</latitude>
+    <longitude>-115.55</longitude>
+    <elevation>755.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263964</id>
+    <displayName>INDIAN CREEK RANCH DUCKWATER 29 WNW, NV US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>39.1039</latitude>
+    <longitude>-116.2037</longitude>
+    <elevation>2273.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9328</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424210</id>
+    <displayName>INDIAN CREEK, UT US</displayName>
+    <minDate>1940-09-01</minDate>
+    <maxDate>1954-04-30</maxDate>
+    <latitude>39.96667</latitude>
+    <longitude>-112.78333</longitude>
+    <elevation>1585.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4158</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010G22S</id>
+    <displayName>INDIAN CREEK, WY US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-110.6833</longitude>
+    <elevation>2872.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424217</id>
+    <displayName>INDIAN FARM, UT US</displayName>
+    <minDate>1915-03-13</minDate>
+    <maxDate>1918-08-31</maxDate>
+    <latitude>40.4</latitude>
+    <longitude>-112.716667</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414440</id>
+    <displayName>INDIAN GAP, TX US</displayName>
+    <minDate>1943-09-16</minDate>
+    <maxDate>1983-10-31</maxDate>
+    <latitude>31.66667</latitude>
+    <longitude>-98.41667</longitude>
+    <elevation>480.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TIND</id>
+    <displayName>INDIAN GRAVE TENNESSEE, TN US</displayName>
+    <minDate>1997-02-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>35.6236</latitude>
+    <longitude>-83.8083</longitude>
+    <elevation>823</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9033</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVDG0006</id>
+    <displayName>INDIAN HILLS 0.7 N, NV US</displayName>
+    <minDate>2007-07-10</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>39.0967</latitude>
+    <longitude>-119.7832</longitude>
+    <elevation>1506.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414443</id>
+    <displayName>INDIAN HOT SPRINGS, TX US</displayName>
+    <minDate>1939-07-01</minDate>
+    <maxDate>1953-06-30</maxDate>
+    <latitude>30.85</latitude>
+    <longitude>-105.33333</longitude>
+    <elevation>1129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304102</id>
+    <displayName>INDIAN LAKE 2 SW, NY US</displayName>
+    <minDate>1899-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.755</latitude>
+    <longitude>-74.2691</longitude>
+    <elevation>506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00084242</id>
+    <displayName>INDIAN LAKE ESTATES, FL US</displayName>
+    <minDate>1958-02-13</minDate>
+    <maxDate>1981-03-31</maxDate>
+    <latitude>27.8</latitude>
+    <longitude>-81.33333</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8522</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCLN0010</id>
+    <displayName>INDIAN LAND 4.7 S, SC US</displayName>
+    <minDate>2012-02-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9352</latitude>
+    <longitude>-80.8413</longitude>
+    <elevation>174.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.397</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164510</id>
+    <displayName>INDIAN LOOKOUT, LA US</displayName>
+    <minDate>1940-05-01</minDate>
+    <maxDate>1942-12-31</maxDate>
+    <latitude>31.7</latitude>
+    <longitude>-92.5</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9251</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00284229</id>
+    <displayName>INDIAN MILLS, NJ US</displayName>
+    <minDate>1901-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.8144</latitude>
+    <longitude>-74.7883</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00464430</id>
+    <displayName>INDIAN MILLS, WV US</displayName>
+    <minDate>1940-04-07</minDate>
+    <maxDate>1941-04-24</maxDate>
+    <latitude>37.566667</latitude>
+    <longitude>-80.8</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNST0011</id>
+    <displayName>INDIAN MOUND 3.5 N, TN US</displayName>
+    <minDate>2011-02-25</minDate>
+    <maxDate>2012-12-22</maxDate>
+    <latitude>36.5508</latitude>
+    <longitude>-87.6895</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9805</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNST0005</id>
+    <displayName>INDIAN MOUND 3.6SE, TN US</displayName>
+    <minDate>2007-07-09</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>36.4618</latitude>
+    <longitude>-87.6111</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026535</id>
+    <displayName>INDIAN MOUNTAIN AFS, AK US</displayName>
+    <minDate>1951-11-20</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>66</latitude>
+    <longitude>-153.7</longitude>
+    <elevation>388.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503910</id>
+    <displayName>INDIAN MOUNTAIN, AK US</displayName>
+    <minDate>1966-08-01</minDate>
+    <maxDate>1985-01-31</maxDate>
+    <latitude>65.98333</latitude>
+    <longitude>-153.68333</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9176</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304105</id>
+    <displayName>INDIAN RIVER, NY US</displayName>
+    <minDate>1926-08-01</minDate>
+    <maxDate>1934-04-30</maxDate>
+    <latitude>44</latitude>
+    <longitude>-75.366667</longitude>
+    <elevation>292.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263980</id>
+    <displayName>INDIAN SPRINGS, NV US</displayName>
+    <minDate>1913-10-22</minDate>
+    <maxDate>2012-08-26</maxDate>
+    <latitude>36.58333</latitude>
+    <longitude>-115.66667</longitude>
+    <elevation>955.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053147</id>
+    <displayName>INDIAN SPRINGS, NV US</displayName>
+    <minDate>2006-06-01</minDate>
+    <maxDate>2011-01-11</maxDate>
+    <latitude>36.58333</latitude>
+    <longitude>-115.68333</longitude>
+    <elevation>951.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7094</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453915</id>
+    <displayName>INDIAN SUMMER GOLF COURSE, WA US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>46.9847</latitude>
+    <longitude>-122.8311</longitude>
+    <elevation>60</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCUN0008</id>
+    <displayName>INDIAN TRAIL 3.1 SSE, NC US</displayName>
+    <minDate>2008-03-15</minDate>
+    <maxDate>2009-08-11</maxDate>
+    <latitude>35.0318</latitude>
+    <longitude>-80.6563</longitude>
+    <elevation>196.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.699</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCUN0002</id>
+    <displayName>INDIAN TRAIL 3.3 E, NC US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2012-05-15</maxDate>
+    <latitude>35.0746</latitude>
+    <longitude>-80.6207</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2328</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044249</id>
+    <displayName>INDIAN VALLEY, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1952-03-31</maxDate>
+    <latitude>39.08333</latitude>
+    <longitude>-122.56667</longitude>
+    <elevation>412.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9474</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104533</id>
+    <displayName>INDIAN VALLEY, ID US</displayName>
+    <minDate>1908-11-01</minDate>
+    <maxDate>1915-10-31</maxDate>
+    <latitude>44.566667</latitude>
+    <longitude>-116.466667</longitude>
+    <elevation>914.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9077</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444246</id>
+    <displayName>INDIAN VALLEY, VA US</displayName>
+    <minDate>1940-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.9</latitude>
+    <longitude>-80.56667</longitude>
+    <elevation>823</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CIND</id>
+    <displayName>INDIAN WELL CALIFORNIA, CA US</displayName>
+    <minDate>1997-05-13</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.7417</latitude>
+    <longitude>-121.5383</longitude>
+    <elevation>1453.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8538</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364214</id>
+    <displayName>INDIANA 3 SE, PA US</displayName>
+    <minDate>1946-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5972</latitude>
+    <longitude>-79.1186</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124244</id>
+    <displayName>INDIANA DUNES NAT LK, IN US</displayName>
+    <minDate>1989-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.6316</latitude>
+    <longitude>-87.0881</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364219</id>
+    <displayName>INDIANA, PA US</displayName>
+    <minDate>1896-06-01</minDate>
+    <maxDate>1953-01-08</maxDate>
+    <latitude>40.61667</latitude>
+    <longitude>-79.16667</longitude>
+    <elevation>396.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6422</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0082</id>
+    <displayName>INDIANAPOLIS 10.0 NE, IN US</displayName>
+    <minDate>2011-01-23</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>39.8807</latitude>
+    <longitude>-86.0392</longitude>
+    <elevation>255.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5385</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0075</id>
+    <displayName>INDIANAPOLIS 10.6 NW, IN US</displayName>
+    <minDate>2010-10-17</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>39.8873</latitude>
+    <longitude>-86.2837</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5714</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0083</id>
+    <displayName>INDIANAPOLIS 10.9 NW, IN US</displayName>
+    <minDate>2011-04-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8939</latitude>
+    <longitude>-86.2806</longitude>
+    <elevation>264</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7355</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0094</id>
+    <displayName>INDIANAPOLIS 12.6 NE, IN US</displayName>
+    <minDate>2011-03-21</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.9041</latitude>
+    <longitude>-85.9996</longitude>
+    <elevation>255.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8902</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0080</id>
+    <displayName>INDIANAPOLIS 12.6 NW, IN US</displayName>
+    <minDate>2010-12-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9077</latitude>
+    <longitude>-86.3116</longitude>
+    <elevation>271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9398</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0027</id>
+    <displayName>INDIANAPOLIS 3.2 E, IN US</displayName>
+    <minDate>2006-12-12</minDate>
+    <maxDate>2010-07-27</maxDate>
+    <latitude>39.7701</latitude>
+    <longitude>-86.0873</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8165</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0016</id>
+    <displayName>INDIANAPOLIS 3.2 S, IN US</displayName>
+    <minDate>2006-05-14</minDate>
+    <maxDate>2011-12-26</maxDate>
+    <latitude>39.7312</latitude>
+    <longitude>-86.1563</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0058</id>
+    <displayName>INDIANAPOLIS 3.7 E, IN US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2010-06-08</maxDate>
+    <latitude>39.7786</latitude>
+    <longitude>-86.0774</longitude>
+    <elevation>242.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0103</id>
+    <displayName>INDIANAPOLIS 3.8 E, IN US</displayName>
+    <minDate>2011-04-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.767</latitude>
+    <longitude>-86.0766</longitude>
+    <elevation>249.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7228</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0053</id>
+    <displayName>INDIANAPOLIS 4.4 N, IN US</displayName>
+    <minDate>2009-03-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.8397</latitude>
+    <longitude>-86.1536</longitude>
+    <elevation>221.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0034</id>
+    <displayName>INDIANAPOLIS 4.5 ENE, IN US</displayName>
+    <minDate>2006-12-17</minDate>
+    <maxDate>2010-07-06</maxDate>
+    <latitude>39.7937</latitude>
+    <longitude>-86.0654</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6225</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0031</id>
+    <displayName>INDIANAPOLIS 4.6 N, IN US</displayName>
+    <minDate>2007-01-06</minDate>
+    <maxDate>2012-10-10</maxDate>
+    <latitude>39.8423</latitude>
+    <longitude>-86.1591</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.38</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0050</id>
+    <displayName>INDIANAPOLIS 4.8 N, IN US</displayName>
+    <minDate>2009-01-14</minDate>
+    <maxDate>2012-02-10</maxDate>
+    <latitude>39.8461</latitude>
+    <longitude>-86.1353</longitude>
+    <elevation>226.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9083</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0084</id>
+    <displayName>INDIANAPOLIS 5.2 N, IN US</displayName>
+    <minDate>2011-01-28</minDate>
+    <maxDate>2012-02-16</maxDate>
+    <latitude>39.8496</latitude>
+    <longitude>-86.1651</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5143</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0064</id>
+    <displayName>INDIANAPOLIS 5.9 S, IN US</displayName>
+    <minDate>2009-12-04</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.6916</latitude>
+    <longitude>-86.1281</longitude>
+    <elevation>233.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6538</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0051</id>
+    <displayName>INDIANAPOLIS 6.2 SE, IN US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>39.7188</latitude>
+    <longitude>-86.0567</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9143</coverage>
+  </station>
+</stationCollection>

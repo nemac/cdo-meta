@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="324">
+  <station>
+    <id>GHCND:US1IAMA0005</id>
+    <displayName>PELLA 0.9 N, IA US</displayName>
+    <minDate>2008-02-04</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.4223</latitude>
+    <longitude>-92.9196</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8456</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00136527</id>
+    <displayName>PELLA 1 S, IA US</displayName>
+    <minDate>1898-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.3761</latitude>
+    <longitude>-92.9202</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7421</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAMA0002</id>
+    <displayName>PELLA 1.4 SW, IA US</displayName>
+    <minDate>2007-08-07</minDate>
+    <maxDate>2012-07-26</maxDate>
+    <latitude>41.392</latitude>
+    <longitude>-92.9355</longitude>
+    <elevation>252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1746</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206442</id>
+    <displayName>PELLSTON AIRPORT NUMBER 2, MI US</displayName>
+    <minDate>2002-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.5719</latitude>
+    <longitude>-84.7858</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9619</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014841</id>
+    <displayName>PELLSTON REGIONAL AIRPORT, MI US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.5644</latitude>
+    <longitude>-84.7927</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156206</id>
+    <displayName>PELLVILLE, KY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1894-12-31</maxDate>
+    <latitude>37.75</latitude>
+    <longitude>-86.8</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356532</id>
+    <displayName>PELTON DAM, OR US</displayName>
+    <minDate>1958-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7275</latitude>
+    <longitude>-121.2505</longitude>
+    <elevation>429.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106985</id>
+    <displayName>PELTON S RANCH, ID US</displayName>
+    <minDate>1932-07-01</minDate>
+    <maxDate>1943-09-30</maxDate>
+    <latitude>43.916667</latitude>
+    <longitude>-114.016667</longitude>
+    <elevation>2164.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0042</id>
+    <displayName>PELZER 6.6 ESE, SC US</displayName>
+    <minDate>2012-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6071</latitude>
+    <longitude>-82.354</longitude>
+    <elevation>249</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00386783</id>
+    <displayName>PELZER, SC US</displayName>
+    <minDate>1904-08-01</minDate>
+    <maxDate>1965-06-30</maxDate>
+    <latitude>34.65</latitude>
+    <longitude>-82.45</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0045</id>
+    <displayName>PEMBERTON 1.1 S, NJ US</displayName>
+    <minDate>2012-06-14</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>39.9551</latitude>
+    <longitude>-74.6817</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5258</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0010</id>
+    <displayName>PEMBERTON TWP 3.0 SSE, NJ US</displayName>
+    <minDate>2008-09-13</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>39.9164</latitude>
+    <longitude>-74.5788</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3171</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00286843</id>
+    <displayName>PEMBERTON, NJ US</displayName>
+    <minDate>1902-04-01</minDate>
+    <maxDate>2002-02-28</maxDate>
+    <latitude>39.97083</latitude>
+    <longitude>-74.68278</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7232</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014924</id>
+    <displayName>PEMBINA, ND US</displayName>
+    <minDate>1898-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.9711</latitude>
+    <longitude>-97.2416</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEWS0010</id>
+    <displayName>PEMBROKE 5.4 SSE, ME US</displayName>
+    <minDate>2010-05-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9095</latitude>
+    <longitude>-67.1268</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBW0004</id>
+    <displayName>PEMBROKE PINES 1.0 ENE, FL US</displayName>
+    <minDate>2007-10-05</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>26.0145</latitude>
+    <longitude>-80.3255</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8868</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBW0021</id>
+    <displayName>PEMBROKE PINES 2.4 ESE, FL US</displayName>
+    <minDate>2008-12-14</minDate>
+    <maxDate>2012-03-29</maxDate>
+    <latitude>26.0021</latitude>
+    <longitude>-80.2745</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00196262</id>
+    <displayName>PEMBROKE, MA US</displayName>
+    <minDate>1927-02-01</minDate>
+    <maxDate>1988-10-31</maxDate>
+    <latitude>42.01667</latitude>
+    <longitude>-70.81667</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296693</id>
+    <displayName>PENA BLANCA, NM US</displayName>
+    <minDate>1958-08-01</minDate>
+    <maxDate>1968-01-31</maxDate>
+    <latitude>35.58333</latitude>
+    <longitude>-106.33333</longitude>
+    <elevation>1595</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.96</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSKM0002</id>
+    <displayName>PENALOSA 0.4 N, KS US</displayName>
+    <minDate>2007-01-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7209</latitude>
+    <longitude>-98.3193</longitude>
+    <elevation>527</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296705</id>
+    <displayName>PENASCO RANGER STATION, NM US</displayName>
+    <minDate>1901-06-25</minDate>
+    <maxDate>1976-02-29</maxDate>
+    <latitude>36.16667</latitude>
+    <longitude>-105.68333</longitude>
+    <elevation>2416.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00126801</id>
+    <displayName>PENCE 1 SW, IN US</displayName>
+    <minDate>1992-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3522</latitude>
+    <longitude>-87.525</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256630</id>
+    <displayName>PENDER, NE US</displayName>
+    <minDate>1949-04-13</minDate>
+    <maxDate>1984-06-30</maxDate>
+    <latitude>42.1152</latitude>
+    <longitude>-96.7058</longitude>
+    <elevation>408.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORUM0001</id>
+    <displayName>PENDLETON 0.5 SSW, OR US</displayName>
+    <minDate>2007-11-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.6634</latitude>
+    <longitude>-118.7897</longitude>
+    <elevation>373.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORUM0011</id>
+    <displayName>PENDLETON 1.0 WNW, OR US</displayName>
+    <minDate>2009-01-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.6745</latitude>
+    <longitude>-118.8079</longitude>
+    <elevation>349.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9341</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYNG0017</id>
+    <displayName>PENDLETON 1.4 NE, NY US</displayName>
+    <minDate>2010-02-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.101</latitude>
+    <longitude>-78.7083</longitude>
+    <elevation>178.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMD0005</id>
+    <displayName>PENDLETON 1.9 ENE, IN US</displayName>
+    <minDate>2006-12-17</minDate>
+    <maxDate>2008-11-19</maxDate>
+    <latitude>40.0133</latitude>
+    <longitude>-85.7104</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.625</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORUM0009</id>
+    <displayName>PENDLETON 1.9 SW, OR US</displayName>
+    <minDate>2009-01-09</minDate>
+    <maxDate>2010-11-18</maxDate>
+    <latitude>45.6542</latitude>
+    <longitude>-118.8193</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAN0026</id>
+    <displayName>PENDLETON 6.6 E, SC US</displayName>
+    <minDate>2012-04-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.6603</latitude>
+    <longitude>-82.6679</longitude>
+    <elevation>252.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356540</id>
+    <displayName>PENDLETON BR EXPERIMENTAL STATION, OR US</displayName>
+    <minDate>1932-12-01</minDate>
+    <maxDate>2012-04-04</maxDate>
+    <latitude>45.7206</latitude>
+    <longitude>-118.6264</longitude>
+    <elevation>453.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356541</id>
+    <displayName>PENDLETON DOWNTOWN, OR US</displayName>
+    <minDate>1892-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.6703</latitude>
+    <longitude>-118.7964</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024155</id>
+    <displayName>PENDLETON E OR REGIONAL AIRPORT, OR US</displayName>
+    <minDate>1928-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.6983</latitude>
+    <longitude>-118.8547</longitude>
+    <elevation>452.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00126808</id>
+    <displayName>PENDLETON REFORMATOR, IN US</displayName>
+    <minDate>1943-11-22</minDate>
+    <maxDate>1966-06-30</maxDate>
+    <latitude>39.98333</latitude>
+    <longitude>-85.76667</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9316</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356550</id>
+    <displayName>PENDLETON WEATHER FORECAST OFFICE, OR US</displayName>
+    <minDate>2003-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.691</latitude>
+    <longitude>-118.8523</longitude>
+    <elevation>460.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046791</id>
+    <displayName>PENDOLA GAUGING STATION, CA US</displayName>
+    <minDate>1943-11-01</minDate>
+    <maxDate>1957-12-31</maxDate>
+    <latitude>34.51667</latitude>
+    <longitude>-119.56667</longitude>
+    <elevation>494.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9055</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246426</id>
+    <displayName>PENDROY 2 NNW, MT US</displayName>
+    <minDate>1940-09-01</minDate>
+    <maxDate>1990-01-31</maxDate>
+    <latitude>48.11667</latitude>
+    <longitude>-112.33333</longitude>
+    <elevation>1330.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9752</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336512</id>
+    <displayName>PENFIELD 1 SE, OH US</displayName>
+    <minDate>1980-04-01</minDate>
+    <maxDate>1983-09-30</maxDate>
+    <latitude>41.15</latitude>
+    <longitude>-82.1</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6408</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116699</id>
+    <displayName>PENFIELD 5 N, IL US</displayName>
+    <minDate>2000-08-01</minDate>
+    <maxDate>2006-09-14</maxDate>
+    <latitude>40.375</latitude>
+    <longitude>-87.9525</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9168</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356555</id>
+    <displayName>PENINSULA, OR US</displayName>
+    <minDate>1913-03-01</minDate>
+    <maxDate>1915-06-30</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-121.3</longitude>
+    <elevation>804.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296723</id>
+    <displayName>PENISTAJA, NM US</displayName>
+    <minDate>1943-09-01</minDate>
+    <maxDate>1955-12-31</maxDate>
+    <latitude>35.9</latitude>
+    <longitude>-107.15</longitude>
+    <elevation>2122.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9063</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAAL0004</id>
+    <displayName>PENN HILLS 1.5 E, PA US</displayName>
+    <minDate>2008-02-14</minDate>
+    <maxDate>2011-12-06</maxDate>
+    <latitude>40.4759</latitude>
+    <longitude>-79.7982</longitude>
+    <elevation>350.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2378</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366816</id>
+    <displayName>PENN NURSERY, PA US</displayName>
+    <minDate>1942-03-05</minDate>
+    <maxDate>1945-03-31</maxDate>
+    <latitude>40.773167</latitude>
+    <longitude>-77.617667</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9145</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYYT0005</id>
+    <displayName>PENN YAN 5.1 NNW, NY US</displayName>
+    <minDate>2012-07-22</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>42.7326</latitude>
+    <longitude>-77.0766</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9657</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306517</id>
+    <displayName>PENN YAN 8 W, NY US</displayName>
+    <minDate>1984-06-01</minDate>
+    <maxDate>1994-02-28</maxDate>
+    <latitude>42.66667</latitude>
+    <longitude>-77.18333</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054778</id>
+    <displayName>PENN YAN AIRPORT, NY US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.6425</latitude>
+    <longitude>-77.05639</longitude>
+    <elevation>275.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306510</id>
+    <displayName>PENN YAN, NY US</displayName>
+    <minDate>1897-08-01</minDate>
+    <maxDate>2001-07-31</maxDate>
+    <latitude>42.67111</latitude>
+    <longitude>-77.06278</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7039</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABK0013</id>
+    <displayName>PENNDEL 1.1 WSW, PA US</displayName>
+    <minDate>2008-05-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1499</latitude>
+    <longitude>-74.9333</longitude>
+    <elevation>39.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5264</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMC0001</id>
+    <displayName>PENNINGTON 0.6 ENE, NJ US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.33</latitude>
+    <longitude>-74.78</longitude>
+    <elevation>51.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9073</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016334</id>
+    <displayName>PENNINGTON 2 NE, AL US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>1998-06-30</maxDate>
+    <latitude>32.22583</latitude>
+    <longitude>-88.02806</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9627</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMC0008</id>
+    <displayName>PENNINGTON 3.3 W, NJ US</displayName>
+    <minDate>2008-03-15</minDate>
+    <maxDate>2012-11-24</maxDate>
+    <latitude>40.324</latitude>
+    <longitude>-74.8523</longitude>
+    <elevation>71</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2652</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446626</id>
+    <displayName>PENNINGTON GAP, VA US</displayName>
+    <minDate>1931-07-01</minDate>
+    <maxDate>2010-11-14</maxDate>
+    <latitude>36.73806</latitude>
+    <longitude>-82.99667</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9511</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016335</id>
+    <displayName>PENNINGTON LOCK 2, AL US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>1960-08-31</maxDate>
+    <latitude>32.13333</latitude>
+    <longitude>-88.03333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00014835</id>
+    <displayName>PENNINGTON LOCK 2, AL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1950-01-31</maxDate>
+    <latitude>32.13333</latitude>
+    <longitude>-88.03333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00296728</id>
+    <displayName>PENNINGTON, NM US</displayName>
+    <minDate>1925-02-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>36.31667</latitude>
+    <longitude>-103.58333</longitude>
+    <elevation>1708.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9586</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNKD0004</id>
+    <displayName>PENNOCK 6.7 N, MN US</displayName>
+    <minDate>2011-03-19</minDate>
+    <maxDate>2012-11-21</maxDate>
+    <latitude>45.2421</latitude>
+    <longitude>-95.1526</longitude>
+    <elevation>354.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366822</id>
+    <displayName>PENNS CREEK, PA US</displayName>
+    <minDate>1950-07-12</minDate>
+    <maxDate>1952-07-31</maxDate>
+    <latitude>40.86667</latitude>
+    <longitude>-77.05</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00286863</id>
+    <displayName>PENNSAUKEN, NJ US</displayName>
+    <minDate>1964-08-01</minDate>
+    <maxDate>1968-06-30</maxDate>
+    <latitude>39.95</latitude>
+    <longitude>-75.06667</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466920</id>
+    <displayName>PENNSBORO, WV US</displayName>
+    <minDate>1894-12-01</minDate>
+    <maxDate>1897-04-30</maxDate>
+    <latitude>39.283333</latitude>
+    <longitude>-80.966667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9172</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABK0004</id>
+    <displayName>PENNSBURG 3.0 ENE, PA US</displayName>
+    <minDate>2006-06-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.4105</latitude>
+    <longitude>-75.4427</longitude>
+    <elevation>175</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7472</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086988</id>
+    <displayName>PENNSUCO 5 WNW, FL US</displayName>
+    <minDate>1940-12-07</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>25.92972</latitude>
+    <longitude>-80.45389</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSL0007</id>
+    <displayName>PENNSVILLE TWP 2.0 NNW, NJ US</displayName>
+    <minDate>2012-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6537</latitude>
+    <longitude>-75.5182</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9555</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086969</id>
+    <displayName>PENNY FARMS, FL US</displayName>
+    <minDate>1927-12-08</minDate>
+    <maxDate>1933-02-28</maxDate>
+    <latitude>29.983333</latitude>
+    <longitude>-81.8</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00266130</id>
+    <displayName>PENOYER VALLEY, NV US</displayName>
+    <minDate>1967-03-01</minDate>
+    <maxDate>2006-09-30</maxDate>
+    <latitude>37.6486</latitude>
+    <longitude>-115.8008</longitude>
+    <elevation>1463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4354</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0010</id>
+    <displayName>PENROSE .70 WNW, CO US</displayName>
+    <minDate>2004-03-28</minDate>
+    <maxDate>2011-01-01</maxDate>
+    <latitude>38.4286</latitude>
+    <longitude>-105.0349</longitude>
+    <elevation>1631</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0069</id>
+    <displayName>PENROSE 0.6 N, CO US</displayName>
+    <minDate>2011-05-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.4396</latitude>
+    <longitude>-105.0132</longitude>
+    <elevation>1649.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.495</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCTR0017</id>
+    <displayName>PENROSE 1.0 E, NC US</displayName>
+    <minDate>2012-04-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2737</latitude>
+    <longitude>-82.6217</longitude>
+    <elevation>755</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9648</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0001</id>
+    <displayName>PENROSE 1.2 ESE, CO US</displayName>
+    <minDate>2004-01-08</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.4213</latitude>
+    <longitude>-105.0002</longitude>
+    <elevation>1623.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8155</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0065</id>
+    <displayName>PENROSE 1.3 W, CO US</displayName>
+    <minDate>2009-07-15</minDate>
+    <maxDate>2011-08-28</maxDate>
+    <latitude>38.4286</latitude>
+    <longitude>-105.0358</longitude>
+    <elevation>1624.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3032</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0008</id>
+    <displayName>PENROSE 1.7 WNW, CO US</displayName>
+    <minDate>2004-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.4431</latitude>
+    <longitude>-105.04</longitude>
+    <elevation>1656</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9052</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0050</id>
+    <displayName>PENROSE 2.3 NNW, CO US</displayName>
+    <minDate>2006-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4622</latitude>
+    <longitude>-105.0277</longitude>
+    <elevation>1709.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9678</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0051</id>
+    <displayName>PENROSE 3.3 ESE, CO US</displayName>
+    <minDate>2006-04-29</minDate>
+    <maxDate>2012-10-13</maxDate>
+    <latitude>38.4198</latitude>
+    <longitude>-104.9536</longitude>
+    <elevation>1594.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1169</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0016</id>
+    <displayName>PENROSE 3.6 ESE, CO US</displayName>
+    <minDate>2000-09-21</minDate>
+    <maxDate>2007-08-16</maxDate>
+    <latitude>38.4032</latitude>
+    <longitude>-104.9617</longitude>
+    <elevation>1595.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0587</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0053</id>
+    <displayName>PENROSE 7.2 NW, CO US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2007-03-31</maxDate>
+    <latitude>38.5044</latitude>
+    <longitude>-105.107</longitude>
+    <elevation>1816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056410</id>
+    <displayName>PENROSE, CO US</displayName>
+    <minDate>1924-02-01</minDate>
+    <maxDate>1973-01-11</maxDate>
+    <latitude>38.45</latitude>
+    <longitude>-105.06667</longitude>
+    <elevation>1649.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAPC0010</id>
+    <displayName>PENRYN 0.4 SE, CA US</displayName>
+    <minDate>2009-01-02</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>38.8472</latitude>
+    <longitude>-121.1584</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLES0010</id>
+    <displayName>PENSACOLA 3.8 N, FL US</displayName>
+    <minDate>2008-02-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5</latitude>
+    <longitude>-87.1894</longitude>
+    <elevation>32.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLES0016</id>
+    <displayName>PENSACOLA 4.8 N, FL US</displayName>
+    <minDate>2010-03-29</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.5137</latitude>
+    <longitude>-87.1758</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6131</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00086999</id>
+    <displayName>PENSACOLA 7 NNE, FL US</displayName>
+    <minDate>2001-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>30.5301</latitude>
+    <longitude>-87.1985</longitude>
+    <elevation>34.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093827</id>
+    <displayName>PENSACOLA BRONSON FIELD NAAS, FL US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>1945-12-21</maxDate>
+    <latitude>30.38333</latitude>
+    <longitude>-87.41667</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8649</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093828</id>
+    <displayName>PENSACOLA CORRY FIELD NAAS, FL US</displayName>
+    <minDate>1945-07-01</minDate>
+    <maxDate>1958-02-28</maxDate>
+    <latitude>30.4</latitude>
+    <longitude>-87.28333</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6176</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003855</id>
+    <displayName>PENSACOLA FOREST SHERMAN NAS, FL US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.35</latitude>
+    <longitude>-87.31667</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013899</id>
+    <displayName>PENSACOLA REGIONAL AIRPORT, FL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.47806</latitude>
+    <longitude>-87.18694</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003815</id>
+    <displayName>PENSACOLA SAUFLEY NAS, FL US</displayName>
+    <minDate>1950-12-01</minDate>
+    <maxDate>1970-10-31</maxDate>
+    <latitude>30.48333</latitude>
+    <longitude>-87.35</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093859</id>
+    <displayName>PENSACOLA WEATHER BUREAU CITY, FL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1963-09-30</maxDate>
+    <latitude>30.41667</latitude>
+    <longitude>-87.21667</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00346989</id>
+    <displayName>PENSACOLA, OK US</displayName>
+    <minDate>1923-11-01</minDate>
+    <maxDate>1948-07-09</maxDate>
+    <latitude>36.45</latitude>
+    <longitude>-95.13333</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00087005</id>
+    <displayName>PENSUCCO II, FL US</displayName>
+    <minDate>2002-05-01</minDate>
+    <maxDate>2006-04-12</maxDate>
+    <latitude>25.93833</latitude>
+    <longitude>-80.44056</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6957</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666983</id>
+    <displayName>PENUELAS 1 E, PR US</displayName>
+    <minDate>1971-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.0585</latitude>
+    <longitude>-66.7184</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8672</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666982</id>
+    <displayName>PENUELAS SALTO GARZA, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1971-02-28</maxDate>
+    <latitude>18.08333</latitude>
+    <longitude>-66.73333</longitude>
+    <elevation>349.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246440</id>
+    <displayName>PENWELL S RANCH, MT US</displayName>
+    <minDate>1914-06-01</minDate>
+    <maxDate>1916-05-31</maxDate>
+    <latitude>46.1</latitude>
+    <longitude>-106.433333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9248</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416932</id>
+    <displayName>PENWELL, TX US</displayName>
+    <minDate>1955-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.7356</latitude>
+    <longitude>-102.5897</longitude>
+    <elevation>894</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9746</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSM0003</id>
+    <displayName>PEOA 0.7 N, UT US</displayName>
+    <minDate>2009-11-13</minDate>
+    <maxDate>2010-11-21</maxDate>
+    <latitude>40.7294</latitude>
+    <longitude>-111.3291</longitude>
+    <elevation>1962</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4225</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456456</id>
+    <displayName>PEOLA, WA US</displayName>
+    <minDate>1909-03-17</minDate>
+    <maxDate>1936-07-23</maxDate>
+    <latitude>46.33333</latitude>
+    <longitude>-117.46667</longitude>
+    <elevation>1220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8435</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00066239</id>
+    <displayName>PEOPLES RANGER STATION, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>41.93333</latitude>
+    <longitude>-73</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116700</id>
+    <displayName>PEORIA 1, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1905-09-30</maxDate>
+    <latitude>40.7</latitude>
+    <longitude>-89.6</longitude>
+    <elevation>158.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9805</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILPR0005</id>
+    <displayName>PEORIA 1.7 SSE, IL US</displayName>
+    <minDate>2008-01-18</minDate>
+    <maxDate>2011-09-16</maxDate>
+    <latitude>40.7224</latitude>
+    <longitude>-89.5986</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9858</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0162</id>
+    <displayName>PEORIA 10.3 N, AZ US</displayName>
+    <minDate>2009-09-27</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.727</latitude>
+    <longitude>-112.1978</longitude>
+    <elevation>442.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9353</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILPR0007</id>
+    <displayName>PEORIA 2.4 SW, IL US</displayName>
+    <minDate>2009-08-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7231</latitude>
+    <longitude>-89.6441</longitude>
+    <elevation>179.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9367</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILPR0008</id>
+    <displayName>PEORIA 3.4 WNW, IL US</displayName>
+    <minDate>2011-09-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7683</latitude>
+    <longitude>-89.6672</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9898</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0095</id>
+    <displayName>PEORIA 4.9 SSE, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2011-07-04</maxDate>
+    <latitude>33.6202</latitude>
+    <longitude>-112.2212</longitude>
+    <elevation>365.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9003</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116710</id>
+    <displayName>PEORIA 5 NW, IL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7493</latitude>
+    <longitude>-89.6202</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+</stationCollection>

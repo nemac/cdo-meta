@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="407">
+  <station>
+    <id>GHCND:US1FLLN0017</id>
+    <displayName>TALLAHASSEE 4.3 N, FL US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2009-04-22</maxDate>
+    <latitude>30.5195</latitude>
+    <longitude>-84.2788</longitude>
+    <elevation>60</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9195</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0027</id>
+    <displayName>TALLAHASSEE 4.5 N, FL US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2011-03-14</maxDate>
+    <latitude>30.5211</latitude>
+    <longitude>-84.2913</longitude>
+    <elevation>48.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9536</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0049</id>
+    <displayName>TALLAHASSEE 4.7 N, FL US</displayName>
+    <minDate>2011-08-14</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>30.5252</latitude>
+    <longitude>-84.2774</longitude>
+    <elevation>68</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0047</id>
+    <displayName>TALLAHASSEE 5.2 E, FL US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4425</latitude>
+    <longitude>-84.1949</longitude>
+    <elevation>31.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0020</id>
+    <displayName>TALLAHASSEE 5.7 NNE, FL US</displayName>
+    <minDate>2008-02-18</minDate>
+    <maxDate>2012-05-30</maxDate>
+    <latitude>30.5348</latitude>
+    <longitude>-84.2497</longitude>
+    <elevation>47.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0004</id>
+    <displayName>TALLAHASSEE 5.7 SE, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3938</latitude>
+    <longitude>-84.22</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0039</id>
+    <displayName>TALLAHASSEE 5.8 NE, FL US</displayName>
+    <minDate>2008-10-05</minDate>
+    <maxDate>2009-12-03</maxDate>
+    <latitude>30.5137</latitude>
+    <longitude>-84.2094</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0015</id>
+    <displayName>TALLAHASSEE 6.1 E, FL US</displayName>
+    <minDate>2008-01-28</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>30.4608</latitude>
+    <longitude>-84.1788</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3603</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0033</id>
+    <displayName>TALLAHASSEE 6.1 SE, FL US</displayName>
+    <minDate>2008-07-31</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>30.389</latitude>
+    <longitude>-84.2159</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0001</id>
+    <displayName>TALLAHASSEE 7.2 NW, FL US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2012-12-07</maxDate>
+    <latitude>30.5309</latitude>
+    <longitude>-84.3656</longitude>
+    <elevation>31.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2346</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0022</id>
+    <displayName>TALLAHASSEE 8.3 N, FL US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.5756</latitude>
+    <longitude>-84.2558</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLN0034</id>
+    <displayName>TALLAHASSEE 9.6 N, FL US</displayName>
+    <minDate>2008-08-05</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.595</latitude>
+    <longitude>-84.2679</longitude>
+    <elevation>37.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9383</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088756</id>
+    <displayName>TALLAHASSEE AIRPORT, FL US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>30.3961</latitude>
+    <longitude>-84.3555</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093805</id>
+    <displayName>TALLAHASSEE REGIONAL AIRPORT, FL US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.39306</latitude>
+    <longitude>-84.35333</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088754</id>
+    <displayName>TALLAHASSEE, FL US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>1947-12-31</maxDate>
+    <latitude>30.43333</latitude>
+    <longitude>-84.28333</longitude>
+    <elevation>58.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9331</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098547</id>
+    <displayName>TALLAPOOSA 2 N, GA US</displayName>
+    <minDate>1896-11-01</minDate>
+    <maxDate>1974-12-31</maxDate>
+    <latitude>33.76667</latitude>
+    <longitude>-85.3</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018038</id>
+    <displayName>TALLAPOOSA WATER PLANT, AL US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.4392</latitude>
+    <longitude>-86.2025</longitude>
+    <elevation>53.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000KTAL</id>
+    <displayName>TALLGRASS PRAIRIE KANSAS, KS US</displayName>
+    <minDate>2002-04-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.435</latitude>
+    <longitude>-96.5608</longitude>
+    <elevation>399.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148061</id>
+    <displayName>TALLGRASS PRAIRIE NATIONAL PARK, KS US</displayName>
+    <minDate>1999-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4331</latitude>
+    <longitude>-96.5577</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9875</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHSM0006</id>
+    <displayName>TALLMADGE 0.8 S, OH US</displayName>
+    <minDate>2009-03-23</minDate>
+    <maxDate>2011-09-17</maxDate>
+    <latitude>41.0918</latitude>
+    <longitude>-81.4241</longitude>
+    <elevation>355.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000GTAL</id>
+    <displayName>TALLULAH NUMBER 1 GEORGIA, GA US</displayName>
+    <minDate>2001-08-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.9058</latitude>
+    <longitude>-83.3344</longitude>
+    <elevation>831.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8398</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003996</id>
+    <displayName>TALLULAH VICKSBURG REGIONAL AIRPORT, LA US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.35</latitude>
+    <longitude>-91.02778</longitude>
+    <elevation>26.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168923</id>
+    <displayName>TALLULAH, LA US</displayName>
+    <minDate>1907-08-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3994</latitude>
+    <longitude>-91.1841</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9111</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10otoe010</id>
+    <displayName>TALMAGE 0.3 N, NE US</displayName>
+    <minDate>2007-03-30</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>40.5341</latitude>
+    <longitude>-96.0222</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1188</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914828</id>
+    <displayName>TALOFOFO VILLAGE, US</displayName>
+    <minDate>1965-07-01</minDate>
+    <maxDate>1969-10-31</maxDate>
+    <latitude>13.35</latitude>
+    <longitude>144.75</longitude>
+    <elevation>91.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8864</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914827</id>
+    <displayName>TALOFOFO, US</displayName>
+    <minDate>1996-09-01</minDate>
+    <maxDate>1997-12-31</maxDate>
+    <latitude>13.36472</latitude>
+    <longitude>144.73889</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348711</id>
+    <displayName>TALOGA NEAR, OK US</displayName>
+    <minDate>1938-06-01</minDate>
+    <maxDate>1944-01-31</maxDate>
+    <latitude>36.05</latitude>
+    <longitude>-98.966667</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348708</id>
+    <displayName>TALOGA, OK US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>36.038</latitude>
+    <longitude>-98.9591</longitude>
+    <elevation>519.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418824</id>
+    <displayName>TALPA, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-05-31</maxDate>
+    <latitude>31.76667</latitude>
+    <longitude>-99.7</longitude>
+    <elevation>588.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398176</id>
+    <displayName>TAMA, SD US</displayName>
+    <minDate>1908-10-01</minDate>
+    <maxDate>1914-09-30</maxDate>
+    <latitude>44.883333</latitude>
+    <longitude>-102.533333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348720</id>
+    <displayName>TAMAHA, OK US</displayName>
+    <minDate>1916-07-01</minDate>
+    <maxDate>1923-05-16</maxDate>
+    <latitude>35.4</latitude>
+    <longitude>-94.983333</longitude>
+    <elevation>142.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368763</id>
+    <displayName>TAMAQUA 4 N DAM, PA US</displayName>
+    <minDate>1931-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.8483</latitude>
+    <longitude>-75.9995</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8238</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368758</id>
+    <displayName>TAMAQUA, PA US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>2012-07-21</maxDate>
+    <latitude>40.79472</latitude>
+    <longitude>-75.97528</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218191</id>
+    <displayName>TAMARAC WILDLIFE REF, MN US</displayName>
+    <minDate>1977-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.9589</latitude>
+    <longitude>-95.6472</longitude>
+    <elevation>452.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8193</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368770</id>
+    <displayName>TAMARACK 2 S FIRE TO, PA US</displayName>
+    <minDate>1940-10-07</minDate>
+    <maxDate>1961-09-30</maxDate>
+    <latitude>41.4</latitude>
+    <longitude>-77.85</longitude>
+    <elevation>677</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8511</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048781</id>
+    <displayName>TAMARACK, CA US</displayName>
+    <minDate>1903-10-01</minDate>
+    <maxDate>1948-11-30</maxDate>
+    <latitude>38.6</latitude>
+    <longitude>-119.93333</longitude>
+    <elevation>2457.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8728</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218187</id>
+    <displayName>TAMARACK, MN US</displayName>
+    <minDate>1959-07-20</minDate>
+    <maxDate>1961-01-31</maxDate>
+    <latitude>46.63333</latitude>
+    <longitude>-93.13333</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358343</id>
+    <displayName>TAMARACK, OR US</displayName>
+    <minDate>1909-10-01</minDate>
+    <maxDate>1916-08-31</maxDate>
+    <latitude>45.016667</latitude>
+    <longitude>-119.966667</longitude>
+    <elevation>1176.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMD0008</id>
+    <displayName>TAMIAMI 1.6 N, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2012-12-11</maxDate>
+    <latitude>25.7809</latitude>
+    <longitude>-80.3984</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088775</id>
+    <displayName>TAMIAMI CANAL, FL US</displayName>
+    <minDate>1941-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>25.76667</latitude>
+    <longitude>-80.45</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088780</id>
+    <displayName>TAMIAMI TRAIL 40 MI BEND, FL US</displayName>
+    <minDate>1940-06-29</minDate>
+    <maxDate>2006-09-04</maxDate>
+    <latitude>25.7608</latitude>
+    <longitude>-80.8241</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9494</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0068</id>
+    <displayName>TAMPA 22.3 E, FL US</displayName>
+    <minDate>2010-05-06</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>27.9491</latitude>
+    <longitude>-82.0938</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9203</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0036</id>
+    <displayName>TAMPA 4.4 SSW, FL US</displayName>
+    <minDate>2007-10-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.9035</latitude>
+    <longitude>-82.516</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0064</id>
+    <displayName>TAMPA 4.7 NW, FL US</displayName>
+    <minDate>2009-09-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0405</latitude>
+    <longitude>-82.4897</longitude>
+    <elevation>13.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0055</id>
+    <displayName>TAMPA 5.0 NNE, FL US</displayName>
+    <minDate>2007-12-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0126</latitude>
+    <longitude>-82.4155</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0010</id>
+    <displayName>TAMPA 5.1 S, FL US</displayName>
+    <minDate>2007-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.8859</latitude>
+    <longitude>-82.4895</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0071</id>
+    <displayName>TAMPA 6.1 N, FL US</displayName>
+    <minDate>2010-09-09</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>28.0377</latitude>
+    <longitude>-82.4684</longitude>
+    <elevation>10.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7141</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0029</id>
+    <displayName>TAMPA 6.5 NNE, FL US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.0301</latitude>
+    <longitude>-82.4062</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9078</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0087</id>
+    <displayName>TAMPA 7.9 N, FL US</displayName>
+    <minDate>2011-08-27</minDate>
+    <maxDate>2012-07-02</maxDate>
+    <latitude>28.0635</latitude>
+    <longitude>-82.4799</longitude>
+    <elevation>16.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHB0007</id>
+    <displayName>TAMPA 8.4 NW, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2009-09-14</maxDate>
+    <latitude>28.0473</latitude>
+    <longitude>-82.5369</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088782</id>
+    <displayName>TAMPA BAY AREA WEATHER FORECAST OFFICE, FL US</displayName>
+    <minDate>1976-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>27.7053</latitude>
+    <longitude>-82.4006</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9104</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00092802</id>
+    <displayName>TAMPA BAY EXEC AIRPORT, FL US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>1998-12-31</maxDate>
+    <latitude>28.18778</latitude>
+    <longitude>-82.62583</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012842</id>
+    <displayName>TAMPA INTERNATIONAL AIRPORT, FL US</displayName>
+    <minDate>1939-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.9619</latitude>
+    <longitude>-82.5403</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088786</id>
+    <displayName>TAMPA, FL US</displayName>
+    <minDate>1890-04-01</minDate>
+    <maxDate>1941-04-30</maxDate>
+    <latitude>27.95</latitude>
+    <longitude>-82.45</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418833</id>
+    <displayName>TAMPICO, TX US</displayName>
+    <minDate>1940-06-27</minDate>
+    <maxDate>1984-11-30</maxDate>
+    <latitude>34.46667</latitude>
+    <longitude>-100.81667</longitude>
+    <elevation>686.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9591</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278610</id>
+    <displayName>TAMWORTH 2, NH US</displayName>
+    <minDate>1962-08-01</minDate>
+    <maxDate>1969-12-16</maxDate>
+    <latitude>43.85</latitude>
+    <longitude>-71.26667</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278612</id>
+    <displayName>TAMWORTH 3, NH US</displayName>
+    <minDate>1974-07-01</minDate>
+    <maxDate>2000-03-31</maxDate>
+    <latitude>43.9</latitude>
+    <longitude>-71.3</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278614</id>
+    <displayName>TAMWORTH 4, NH US</displayName>
+    <minDate>2000-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.8583</latitude>
+    <longitude>-71.2597</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278606</id>
+    <displayName>TAMWORTH, NH US</displayName>
+    <minDate>1954-04-01</minDate>
+    <maxDate>1956-11-30</maxDate>
+    <latitude>43.86667</latitude>
+    <longitude>-71.26667</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026440</id>
+    <displayName>TANACROSS, AK US</displayName>
+    <minDate>1904-05-01</minDate>
+    <maxDate>2003-07-31</maxDate>
+    <latitude>63.37833</latitude>
+    <longitude>-143.34833</longitude>
+    <elevation>469.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509005</id>
+    <displayName>TANALIAN POINT, AK US</displayName>
+    <minDate>1940-04-01</minDate>
+    <maxDate>1959-01-31</maxDate>
+    <latitude>60.21667</latitude>
+    <longitude>-154.36667</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4772</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026529</id>
+    <displayName>TANANA CALHOUN MEMORIAL AIRPORT, AK US</displayName>
+    <minDate>1901-08-24</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>65.175</latitude>
+    <longitude>-152.1067</longitude>
+    <elevation>67.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509015</id>
+    <displayName>TANANA, AK US</displayName>
+    <minDate>1971-05-29</minDate>
+    <maxDate>1977-08-31</maxDate>
+    <latitude>65.16667</latitude>
+    <longitude>-152.1</longitude>
+    <elevation>60.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CTAN</id>
+    <displayName>TANBARK CALIFORNIA, CA US</displayName>
+    <minDate>1986-02-12</minDate>
+    <maxDate>2012-08-23</maxDate>
+    <latitude>34.2069</latitude>
+    <longitude>-117.7606</longitude>
+    <elevation>792.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCR0006</id>
+    <displayName>TANEYTOWN 3.2 NE, MD US</displayName>
+    <minDate>2006-09-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.6831</latitude>
+    <longitude>-77.1216</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCR0005</id>
+    <displayName>TANEYTOWN 3.7 NE, MD US</displayName>
+    <minDate>2006-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6919</latitude>
+    <longitude>-77.1171</longitude>
+    <elevation>163.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00188780</id>
+    <displayName>TANEYTOWN, MD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1912-08-31</maxDate>
+    <latitude>39.666667</latitude>
+    <longitude>-77.166667</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.663</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448323</id>
+    <displayName>TANGIER ISLAND, VA US</displayName>
+    <minDate>1952-10-01</minDate>
+    <maxDate>2001-04-30</maxDate>
+    <latitude>37.82833</latitude>
+    <longitude>-75.99333</longitude>
+    <elevation>1.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8877</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0097</id>
+    <displayName>TANGLEWOOD FOREST 0.4 WSW, TX US</displayName>
+    <minDate>2009-08-26</minDate>
+    <maxDate>2012-11-20</maxDate>
+    <latitude>30.1723</latitude>
+    <longitude>-97.8457</longitude>
+    <elevation>224.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.579</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0059</id>
+    <displayName>TANGLEWOOD FOREST 0.6 NE, TX US</displayName>
+    <minDate>2008-04-25</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.1807</latitude>
+    <longitude>-97.8315</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0096</id>
+    <displayName>TANGLEWOOD FOREST 2.9 E, TX US</displayName>
+    <minDate>2009-07-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1776</latitude>
+    <longitude>-97.7899</longitude>
+    <elevation>213.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0060</id>
+    <displayName>TANGLEWOOD FOREST 3.5 NW, TX US</displayName>
+    <minDate>2008-05-05</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.2131</latitude>
+    <longitude>-97.8771</longitude>
+    <elevation>255.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7389</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298662</id>
+    <displayName>TANNER RANCH, NM US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1947-09-19</maxDate>
+    <latitude>36.3</latitude>
+    <longitude>-103.36667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8622</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308405</id>
+    <displayName>TANNERSVILLE 2 E, NY US</displayName>
+    <minDate>1959-09-01</minDate>
+    <maxDate>1974-10-31</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-74.1</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8188</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368776</id>
+    <displayName>TANNERSVILLE 2 E, PA US</displayName>
+    <minDate>1925-08-01</minDate>
+    <maxDate>2007-09-30</maxDate>
+    <latitude>41.05389</latitude>
+    <longitude>-75.29028</longitude>
+    <elevation>277.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2219</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308403</id>
+    <displayName>TANNERSVILLE SEWAGE, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1959-08-31</maxDate>
+    <latitude>42.18333</latitude>
+    <longitude>-74.15</longitude>
+    <elevation>548.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468730</id>
+    <displayName>TANNERY, WV US</displayName>
+    <minDate>1889-05-01</minDate>
+    <maxDate>1897-11-23</maxDate>
+    <latitude>39.516667</latitude>
+    <longitude>-79.633333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028409</id>
+    <displayName>TANQUE R9 ON W4, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.61667</latitude>
+    <longitude>-109.61667</longitude>
+    <elevation>1086</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518738</id>
+    <displayName>TANTALUS 2 780.5, HI US</displayName>
+    <minDate>1964-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>21.3277</latitude>
+    <longitude>-157.8236</longitude>
+    <elevation>397.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518734</id>
+    <displayName>TANTALUS 714, HI US</displayName>
+    <minDate>1936-01-01</minDate>
+    <maxDate>1957-02-28</maxDate>
+    <latitude>21.33333</latitude>
+    <longitude>-157.81667</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518736</id>
+    <displayName>TANTALUS MAUKA, HI US</displayName>
+    <minDate>1957-08-01</minDate>
+    <maxDate>1962-08-31</maxDate>
+    <latitude>21.33333</latitude>
+    <longitude>-157.83333</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0009</id>
+    <displayName>TAOS 1.6 SSE, NM US</displayName>
+    <minDate>2006-08-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3841</latitude>
+    <longitude>-105.5672</longitude>
+    <elevation>2133.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8785</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0001</id>
+    <displayName>TAOS 13 NW, NM US</displayName>
+    <minDate>2005-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5097</latitude>
+    <longitude>-105.7504</longitude>
+    <elevation>2142.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7125</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0008</id>
+    <displayName>TAOS 2.0 N, NM US</displayName>
+    <minDate>2006-07-19</minDate>
+    <maxDate>2011-12-03</maxDate>
+    <latitude>36.414</latitude>
+    <longitude>-105.5706</longitude>
+    <elevation>2129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5209</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0011</id>
+    <displayName>TAOS 2.8 WNW, NM US</displayName>
+    <minDate>2006-09-25</minDate>
+    <maxDate>2008-12-06</maxDate>
+    <latitude>36.3997</latitude>
+    <longitude>-105.6251</longitude>
+    <elevation>2098.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003090</id>
+    <displayName>TAOS 27 NW, NM US</displayName>
+    <minDate>2009-11-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.6519</latitude>
+    <longitude>-105.9721</longitude>
+    <elevation>2484.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0024</id>
+    <displayName>TAOS 4.3 NNW, NM US</displayName>
+    <minDate>2012-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4609</latitude>
+    <longitude>-105.6116</longitude>
+    <elevation>2186.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0015</id>
+    <displayName>TAOS 4.4 NNW, NM US</displayName>
+    <minDate>2009-02-14</minDate>
+    <maxDate>2009-10-05</maxDate>
+    <latitude>36.4403</latitude>
+    <longitude>-105.6204</longitude>
+    <elevation>2146.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9103</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298673</id>
+    <displayName>TAOS CANYON, NM US</displayName>
+    <minDate>1909-08-01</minDate>
+    <maxDate>1943-04-30</maxDate>
+    <latitude>36.38333</latitude>
+    <longitude>-105.41667</longitude>
+    <elevation>2510</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0010</id>
+    <displayName>TAOS PUEBLO 2.8 NW, NM US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>36.4931</latitude>
+    <longitude>-105.5997</longitude>
+    <elevation>2246.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMTS0007</id>
+    <displayName>TAOS PUEBLO 8.9 WNW, NM US</displayName>
+    <minDate>2006-03-01</minDate>
+    <maxDate>2012-08-08</maxDate>
+    <latitude>36.5155</latitude>
+    <longitude>-105.7085</longitude>
+    <elevation>2104.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298680</id>
+    <displayName>TAOS PUEBLO, NM US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2009-07-31</maxDate>
+    <latitude>36.42139</latitude>
+    <longitude>-105.56333</longitude>
+    <elevation>2130.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298668</id>
+    <displayName>TAOS, NM US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>36.3906</latitude>
+    <longitude>-105.5864</longitude>
+    <elevation>2122.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318492</id>
+    <displayName>TAPOCO, NC US</displayName>
+    <minDate>1929-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.4477</latitude>
+    <longitude>-83.9388</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448331</id>
+    <displayName>TAPPAHANNOCK, VA US</displayName>
+    <minDate>1930-11-01</minDate>
+    <maxDate>1940-09-30</maxDate>
+    <latitude>37.916667</latitude>
+    <longitude>-76.866667</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00338240</id>
+    <displayName>TAPPAN DAM, OH US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1987-08-31</maxDate>
+    <latitude>40.35611</latitude>
+    <longitude>-81.22806</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318500</id>
+    <displayName>TARBORO 1 S, NC US</displayName>
+    <minDate>1870-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8847</latitude>
+    <longitude>-77.5386</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8271</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCED0003</id>
+    <displayName>TARBORO 1.6 ESE, NC US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2008-09-08</maxDate>
+    <latitude>35.8968</latitude>
+    <longitude>-77.5322</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACM0005</id>
+    <displayName>TARBORO 4.1 SW, GA US</displayName>
+    <minDate>2008-08-15</minDate>
+    <maxDate>2011-10-17</maxDate>
+    <latitude>30.9927</latitude>
+    <longitude>-81.8679</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1001</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CTAR</id>
+    <displayName>TARGET RANGE CALIFORNIA, CA US</displayName>
+    <minDate>1992-10-06</minDate>
+    <maxDate>2011-05-10</maxDate>
+    <latitude>33.3722</latitude>
+    <longitude>-117.3589</longitude>
+    <elevation>279.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9764</coverage>
+  </station>
+</stationCollection>

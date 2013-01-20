@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="278">
+  <station>
+    <id>GHCND:USW00094950</id>
+    <displayName>MITCHELL MUNICIPAL AIRPORT, SD US</displayName>
+    <minDate>1999-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.7743</latitude>
+    <longitude>-98.0384</longitude>
+    <elevation>395.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OMIT</id>
+    <displayName>MITCHELL OREGON, OR US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2010-06-09</maxDate>
+    <latitude>44.5819</latitude>
+    <longitude>-120.1794</longitude>
+    <elevation>798.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125700</id>
+    <displayName>MITCHELL, IN US</displayName>
+    <minDate>1991-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7894</latitude>
+    <longitude>-86.3963</longitude>
+    <elevation>199.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395669</id>
+    <displayName>MITCHELL, SD US</displayName>
+    <minDate>2003-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.703</latitude>
+    <longitude>-98.0355</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00166271</id>
+    <displayName>MITTIE 2 SE, LA US</displayName>
+    <minDate>1954-06-01</minDate>
+    <maxDate>1985-12-31</maxDate>
+    <latitude>30.7</latitude>
+    <longitude>-92.88333</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00225943</id>
+    <displayName>MIZE, MS US</displayName>
+    <minDate>1940-05-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.8375</latitude>
+    <longitude>-89.5975</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245754</id>
+    <displayName>MIZPAH 4 NNW, MT US</displayName>
+    <minDate>1949-06-24</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.2858</latitude>
+    <longitude>-105.2919</longitude>
+    <elevation>755.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215533</id>
+    <displayName>MIZPAH, MN US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1940-04-30</maxDate>
+    <latitude>47.95</latitude>
+    <longitude>-94.21667</longitude>
+    <elevation>430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTGR0003</id>
+    <displayName>MOAB 0.3 ENE, UT US</displayName>
+    <minDate>2009-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5738</latitude>
+    <longitude>-109.5421</longitude>
+    <elevation>1243.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTGR0008</id>
+    <displayName>MOAB 0.7 ESE, UT US</displayName>
+    <minDate>2009-12-08</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>38.5681</latitude>
+    <longitude>-109.5353</longitude>
+    <elevation>1258.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9648</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTGR0005</id>
+    <displayName>MOAB 1.3 NW, UT US</displayName>
+    <minDate>2009-11-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5864</latitude>
+    <longitude>-109.5629</longitude>
+    <elevation>1216.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTGR0007</id>
+    <displayName>MOAB 3.3 SE, UT US</displayName>
+    <minDate>2009-12-08</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>38.5452</latitude>
+    <longitude>-109.4962</longitude>
+    <elevation>1378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6597</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTGR0002</id>
+    <displayName>MOAB 3.7 ESE, UT US</displayName>
+    <minDate>2009-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5452</latitude>
+    <longitude>-109.4878</longitude>
+    <elevation>1430.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTGR0006</id>
+    <displayName>MOAB 5.9 SE, UT US</displayName>
+    <minDate>2009-12-08</minDate>
+    <maxDate>2010-04-22</maxDate>
+    <latitude>38.5081</latitude>
+    <longitude>-109.4745</longitude>
+    <elevation>1422.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093075</id>
+    <displayName>MOAB CANYONLAND AIRPORT, UT US</displayName>
+    <minDate>1998-07-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.75</latitude>
+    <longitude>-109.76278</longitude>
+    <elevation>1389.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425733</id>
+    <displayName>MOAB, UT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.5744</latitude>
+    <longitude>-109.5458</longitude>
+    <elevation>1235.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516395</id>
+    <displayName>MOANALUA 770, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>21.34778</latitude>
+    <longitude>-157.89111</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9176</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516330</id>
+    <displayName>MOANUIAHEA 69.24, HI US</displayName>
+    <minDate>1986-07-01</minDate>
+    <maxDate>2010-07-31</maxDate>
+    <latitude>19.7391</latitude>
+    <longitude>-155.9583</longitude>
+    <elevation>859.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0041</id>
+    <displayName>MOAPA 7.2 WNW, NV US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>36.716</latitude>
+    <longitude>-114.717</longitude>
+    <elevation>537.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516407</id>
+    <displayName>MOAULA 18, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1983-04-30</maxDate>
+    <latitude>19.18333</latitude>
+    <longitude>-155.5</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415989</id>
+    <displayName>MOBEETIE 7 N, TX US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.625</latitude>
+    <longitude>-100.44639</longitude>
+    <elevation>868.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415987</id>
+    <displayName>MOBEETIE, TX US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-100.43333</longitude>
+    <elevation>816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5176</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MORN0004</id>
+    <displayName>MOBERLY 0.8 WSW, MO US</displayName>
+    <minDate>2007-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.417</latitude>
+    <longitude>-92.4504</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA175</id>
+    <displayName>MOBERLY 2.5 N, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4559</latitude>
+    <longitude>-92.4357</longitude>
+    <elevation>266.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235671</id>
+    <displayName>MOBERLY, MO US</displayName>
+    <minDate>1936-07-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4194</latitude>
+    <longitude>-92.4369</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9578</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106077</id>
+    <displayName>MOBES CREEK SUMMIT, ID US</displayName>
+    <minDate>1950-09-26</minDate>
+    <maxDate>1951-01-31</maxDate>
+    <latitude>43.93333</latitude>
+    <longitude>-115.66667</longitude>
+    <elevation>1827</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0047</id>
+    <displayName>MOBILE 0.2 N, AL US</displayName>
+    <minDate>2008-01-12</minDate>
+    <maxDate>2011-12-29</maxDate>
+    <latitude>30.6808</latitude>
+    <longitude>-88.0888</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0049</id>
+    <displayName>MOBILE 1.2 WSW, AL US</displayName>
+    <minDate>2008-01-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.671</latitude>
+    <longitude>-88.108</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9292</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0044</id>
+    <displayName>MOBILE 1.8 W, AL US</displayName>
+    <minDate>2008-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6811</latitude>
+    <longitude>-88.1195</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8418</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0060</id>
+    <displayName>MOBILE 10.2 WSW, AL US</displayName>
+    <minDate>2011-05-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6075</latitude>
+    <longitude>-88.2404</longitude>
+    <elevation>53.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.416</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0010</id>
+    <displayName>MOBILE 11.4 WSW, AL US</displayName>
+    <minDate>2008-01-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6309</latitude>
+    <longitude>-88.2739</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9364</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0004</id>
+    <displayName>MOBILE 2.6 WNW, AL US</displayName>
+    <minDate>2007-11-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.69</latitude>
+    <longitude>-88.13</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9186</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0016</id>
+    <displayName>MOBILE 4.4 WNW, AL US</displayName>
+    <minDate>2008-01-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6951</latitude>
+    <longitude>-88.1594</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9624</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0056</id>
+    <displayName>MOBILE 4.7 W, AL US</displayName>
+    <minDate>2009-08-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6686</latitude>
+    <longitude>-88.1667</longitude>
+    <elevation>41.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0050</id>
+    <displayName>MOBILE 5.1 S, AL US</displayName>
+    <minDate>2008-01-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6036</latitude>
+    <longitude>-88.0986</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0034</id>
+    <displayName>MOBILE 5.7 WSW, AL US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2012-07-19</maxDate>
+    <latitude>30.6402</latitude>
+    <longitude>-88.1755</longitude>
+    <elevation>56.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4663</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0037</id>
+    <displayName>MOBILE 6.1 WNW, AL US</displayName>
+    <minDate>2008-01-14</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>30.7093</latitude>
+    <longitude>-88.185</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7248</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0035</id>
+    <displayName>MOBILE 7.4 W, AL US</displayName>
+    <minDate>2009-08-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6596</latitude>
+    <longitude>-88.2124</longitude>
+    <elevation>45.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7113</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013838</id>
+    <displayName>MOBILE DOWNTOWN AIRPORT, AL US</displayName>
+    <minDate>1948-03-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.62639</latitude>
+    <longitude>-88.06806</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5332</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013894</id>
+    <displayName>MOBILE REGIONAL AIRPORT, AL US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.68833</latitude>
+    <longitude>-88.24556</longitude>
+    <elevation>65.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015483</id>
+    <displayName>MOBILE, AL US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>30.68333</latitude>
+    <longitude>-88.03333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCR0005</id>
+    <displayName>MOBRIDGE 16.6 WNW, SD US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2009-07-14</maxDate>
+    <latitude>45.6486</latitude>
+    <longitude>-100.7425</longitude>
+    <elevation>537.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4021</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395691</id>
+    <displayName>MOBRIDGE 2 NNW, SD US</displayName>
+    <minDate>1911-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.5655</latitude>
+    <longitude>-100.4488</longitude>
+    <elevation>516.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9129</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCR0004</id>
+    <displayName>MOBRIDGE 8.0 NNW, SD US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>45.641</latitude>
+    <longitude>-100.5176</longitude>
+    <elevation>516</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6459</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094052</id>
+    <displayName>MOBRIDGE MUNICIPAL AIRPORT, SD US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.54639</latitude>
+    <longitude>-100.40778</longitude>
+    <elevation>522.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IMOL</id>
+    <displayName>MOBURG CANYON IDAHO, ID US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.0431</latitude>
+    <longitude>-113.1528</longitude>
+    <elevation>1950.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245761</id>
+    <displayName>MOCCASIN EXPERIMENTAL STATION, MT US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>47.0575</latitude>
+    <longitude>-109.9514</longitude>
+    <elevation>1310.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9849</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00315743</id>
+    <displayName>MOCKSVILLE 5 SE, NC US</displayName>
+    <minDate>1893-01-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.8438</latitude>
+    <longitude>-80.4972</longitude>
+    <elevation>244.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7218</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCDV0003</id>
+    <displayName>MOCKSVILLE 7.4 NNW, NC US</displayName>
+    <minDate>2008-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.999</latitude>
+    <longitude>-80.597</longitude>
+    <elevation>232.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6076</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455488</id>
+    <displayName>MOCLIPS, WA US</displayName>
+    <minDate>1937-03-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>47.21667</latitude>
+    <longitude>-124.2</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4794</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSH0003</id>
+    <displayName>MODE 3.7 NW, IL US</displayName>
+    <minDate>2011-12-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2827</latitude>
+    <longitude>-88.7973</longitude>
+    <elevation>180.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0012</id>
+    <displayName>MODEL 7.9 ESE, CO US</displayName>
+    <minDate>2003-08-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3369</latitude>
+    <longitude>-104.1084</longitude>
+    <elevation>1651.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9533</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023177</id>
+    <displayName>MODENA, UT US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2004-03-31</maxDate>
+    <latitude>37.79806</latitude>
+    <longitude>-113.92556</longitude>
+    <elevation>1664.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045741</id>
+    <displayName>MODESTO 2, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.6255</latitude>
+    <longitude>-121.0313</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023258</id>
+    <displayName>MODESTO CITY CO AIRPORT, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.6241</latitude>
+    <longitude>-120.9505</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CMOD</id>
+    <displayName>MODOC NWR CALIFORNIA, CA US</displayName>
+    <minDate>2002-06-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.4589</latitude>
+    <longitude>-120.3536</longitude>
+    <elevation>1335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9308</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355656</id>
+    <displayName>MODOC ORCHARD, OR US</displayName>
+    <minDate>1915-04-01</minDate>
+    <maxDate>1966-04-30</maxDate>
+    <latitude>42.45</latitude>
+    <longitude>-122.88333</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395711</id>
+    <displayName>MOENVILLE 6 E, SD US</displayName>
+    <minDate>1940-07-01</minDate>
+    <maxDate>1957-11-30</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-101.15</longitude>
+    <elevation>698</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9727</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023244</id>
+    <displayName>MOFFETT FEDERAL AIRFIELD, CA US</displayName>
+    <minDate>1945-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.40583</latitude>
+    <longitude>-122.04806</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9421</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00326015</id>
+    <displayName>MOFFIT 3 SE, ND US</displayName>
+    <minDate>1943-06-01</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>46.6705</latitude>
+    <longitude>-100.2294</longitude>
+    <elevation>548.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9431</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDEM0002</id>
+    <displayName>MOFFIT 3.3 S, ND US</displayName>
+    <minDate>2011-05-05</minDate>
+    <maxDate>2012-09-06</maxDate>
+    <latitude>46.6297</latitude>
+    <longitude>-100.2951</longitude>
+    <elevation>554.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4297</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHPT0012</id>
+    <displayName>MOGADORE 4.7 SE, OH US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0085</latitude>
+    <longitude>-81.329</longitude>
+    <elevation>357.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295800</id>
+    <displayName>MOGOLLON, NM US</displayName>
+    <minDate>1916-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.38333</latitude>
+    <longitude>-108.78333</longitude>
+    <elevation>2073.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00326025</id>
+    <displayName>MOHALL, ND US</displayName>
+    <minDate>1893-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.7602</latitude>
+    <longitude>-101.509</longitude>
+    <elevation>500.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335398</id>
+    <displayName>MOHAWK DAM, OH US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1987-07-31</maxDate>
+    <latitude>40.3486</latitude>
+    <longitude>-82.0908</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00064933</id>
+    <displayName>MOHAWK RANGER STATION, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>41.83333</latitude>
+    <longitude>-73.3</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00025627</id>
+    <displayName>MOHAWK, AZ US</displayName>
+    <minDate>1900-07-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>32.73333</latitude>
+    <longitude>-113.76667</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335406</id>
+    <displayName>MOHICANVILLE DAM, OH US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1987-06-30</maxDate>
+    <latitude>40.73333</latitude>
+    <longitude>-82.15</longitude>
+    <elevation>296</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516433</id>
+    <displayName>MOHIHI UPR CRSG 1083, HI US</displayName>
+    <minDate>1949-10-18</minDate>
+    <maxDate>2004-07-31</maxDate>
+    <latitude>22.11417</latitude>
+    <longitude>-159.60167</longitude>
+    <elevation>1066.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5063</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABR0016</id>
+    <displayName>MOHNTON 2.8 SSW, PA US</displayName>
+    <minDate>2008-01-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2469</latitude>
+    <longitude>-75.9981</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7737</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305426</id>
+    <displayName>MOHONK LAKE, NY US</displayName>
+    <minDate>1896-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.7681</latitude>
+    <longitude>-74.155</longitude>
+    <elevation>379.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305429</id>
+    <displayName>MOIRA, NY US</displayName>
+    <minDate>1900-03-01</minDate>
+    <maxDate>1930-10-31</maxDate>
+    <latitude>44.816667</latitude>
+    <longitude>-74.566667</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045758</id>
+    <displayName>MOJAVE 2 ESE, CA US</displayName>
+    <minDate>1963-04-01</minDate>
+    <maxDate>1969-06-30</maxDate>
+    <latitude>35.03333</latitude>
+    <longitude>-118.15</longitude>
+    <elevation>816.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9049</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093108</id>
+    <displayName>MOJAVE MCAS, CA US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>1946-12-31</maxDate>
+    <latitude>35.11667</latitude>
+    <longitude>-118.15</longitude>
+    <elevation>841.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9594</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003129</id>
+    <displayName>MOJAVE MCAS, CA US</displayName>
+    <minDate>1957-02-01</minDate>
+    <maxDate>1958-08-31</maxDate>
+    <latitude>35.05</latitude>
+    <longitude>-118.16667</longitude>
+    <elevation>842.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9723</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CMOJ</id>
+    <displayName>MOJAVE RIVER SINK CALIFORNIA, CA US</displayName>
+    <minDate>1988-03-05</minDate>
+    <maxDate>2011-05-10</maxDate>
+    <latitude>35.0531</latitude>
+    <longitude>-116.0794</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9707</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045756</id>
+    <displayName>MOJAVE, CA US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0492</latitude>
+    <longitude>-118.1619</longitude>
+    <elevation>833.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0042</id>
+    <displayName>MOKENA 1.3 W, IL US</displayName>
+    <minDate>2008-04-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5313</latitude>
+    <longitude>-87.9012</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4433</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516521</id>
+    <displayName>MOKUPEA 475, HI US</displayName>
+    <minDate>1919-09-01</minDate>
+    <maxDate>1988-05-31</maxDate>
+    <latitude>20.98333</latitude>
+    <longitude>-156.61667</longitude>
+    <elevation>393.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2691</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0036</id>
+    <displayName>MOLALLA 0.6 SE, OR US</displayName>
+    <minDate>2011-03-15</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>45.1432</latitude>
+    <longitude>-122.5686</longitude>
+    <elevation>123.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2332</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0047</id>
+    <displayName>MOLALLA 5.8 SSE, OR US</displayName>
+    <minDate>2012-04-07</minDate>
+    <maxDate>2012-12-23</maxDate>
+    <latitude>45.0694</latitude>
+    <longitude>-122.5403</longitude>
+    <elevation>406.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6782</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCC0025</id>
+    <displayName>MOLALLA 6.4 SW, OR US</displayName>
+    <minDate>2008-02-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.0787</latitude>
+    <longitude>-122.6625</longitude>
+    <elevation>99.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355681</id>
+    <displayName>MOLALLA 7 NE, OR US</displayName>
+    <minDate>2006-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.17806</latitude>
+    <longitude>-122.50611</longitude>
+    <elevation>197.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355677</id>
+    <displayName>MOLALLA, OR US</displayName>
+    <minDate>1935-12-07</minDate>
+    <maxDate>1976-12-31</maxDate>
+    <latitude>45.15</latitude>
+    <longitude>-122.56667</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007M12S</id>
+    <displayName>MOLAS LAKE, CO US</displayName>
+    <minDate>1986-08-07</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>37.75</latitude>
+    <longitude>-107.6833</longitude>
+    <elevation>3200.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9635</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455515</id>
+    <displayName>MOLD, WA US</displayName>
+    <minDate>1913-06-01</minDate>
+    <maxDate>1918-01-31</maxDate>
+    <latitude>47.716667</latitude>
+    <longitude>-119.316667</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8822</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILRI0003</id>
+    <displayName>MOLINE 0.9 N, IL US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4975</latitude>
+    <longitude>-90.4856</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCQ0001</id>
+    <displayName>MOLINE 7.9 S, KS US</displayName>
+    <minDate>2006-06-12</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>37.2516</latitude>
+    <longitude>-96.3266</longitude>
+    <elevation>327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1191</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00115748</id>
+    <displayName>MOLINE BRIDGE, IL US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.47028</latitude>
+    <longitude>-90.51139</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1415</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014923</id>
+    <displayName>MOLINE QUAD CITY INTERNATIONAL AIRPORT, IL US</displayName>
+    <minDate>1943-05-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.46528</latitude>
+    <longitude>-90.52333</longitude>
+    <elevation>180.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415996</id>
+    <displayName>MOLINE, TX US</displayName>
+    <minDate>1947-10-01</minDate>
+    <maxDate>2007-02-22</maxDate>
+    <latitude>31.39333</latitude>
+    <longitude>-98.30806</longitude>
+    <elevation>422.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0578</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00085850</id>
+    <displayName>MOLINO, FL US</displayName>
+    <minDate>1902-03-01</minDate>
+    <maxDate>1919-08-20</maxDate>
+    <latitude>30.7</latitude>
+    <longitude>-87.366667</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9213</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445646</id>
+    <displayName>MOLLUSK 1 SW, VA US</displayName>
+    <minDate>1974-08-01</minDate>
+    <maxDate>1979-02-09</maxDate>
+    <latitude>37.71667</latitude>
+    <longitude>-76.55</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7727</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516529</id>
+    <displayName>MOLOAA 1145, HI US</displayName>
+    <minDate>1929-06-01</minDate>
+    <maxDate>2012-11-26</maxDate>
+    <latitude>22.17972</latitude>
+    <longitude>-159.33194</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7311</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HMOL</id>
+    <displayName>MOLOAA DAIRY HAWAII, HI US</displayName>
+    <minDate>2002-04-17</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>22.1833</latitude>
+    <longitude>-159.3375</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HMLK</id>
+    <displayName>MOLOKAI 1 HAWAII, HI US</displayName>
+    <minDate>2003-04-14</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>21.115</latitude>
+    <longitude>-156.9475</longitude>
+    <elevation>833</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022534</id>
+    <displayName>MOLOKAI KAUNAKAKAI MOLOKAI AIRPORT, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.1545</latitude>
+    <longitude>-157.0961</longitude>
+    <elevation>135</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9502</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516537</id>
+    <displayName>MOLOKOA 1015, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1950-03-31</maxDate>
+    <latitude>21.98333</latitude>
+    <longitude>-159.38333</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245791</id>
+    <displayName>MOLT 6 SW, MT US</displayName>
+    <minDate>1950-03-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.7844</latitude>
+    <longitude>-108.9702</longitude>
+    <elevation>1219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKK0010</id>
+    <displayName>MOMENCE 3.3 NE, IL US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.2019</latitude>
+    <longitude>-87.6249</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7103</coverage>
+  </station>
+</stationCollection>

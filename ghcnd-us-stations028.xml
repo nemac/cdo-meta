@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="28">
+  <station>
+    <id>GHCND:US10furn004</id>
+    <displayName>BEAVER CITY 6.0 S, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.0502</latitude>
+    <longitude>-99.8189</longitude>
+    <elevation>661.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9583</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250640</id>
+    <displayName>BEAVER CITY, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.1305</latitude>
+    <longitude>-99.8277</longitude>
+    <elevation>658.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006K45S</id>
+    <displayName>BEAVER CK VILLAGE, CO US</displayName>
+    <minDate>2003-01-23</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.6</latitude>
+    <longitude>-106.5167</longitude>
+    <elevation>2590.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9473</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420530</id>
+    <displayName>BEAVER CREEK NURSERY, UT US</displayName>
+    <minDate>1914-05-01</minDate>
+    <maxDate>1917-11-20</maxDate>
+    <latitude>40.633333</latitude>
+    <longitude>-111.166667</longitude>
+    <elevation>2209.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6123</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020670</id>
+    <displayName>BEAVER CREEK, AZ US</displayName>
+    <minDate>1915-11-01</minDate>
+    <maxDate>2007-06-30</maxDate>
+    <latitude>34.64167</latitude>
+    <longitude>-111.78306</longitude>
+    <elevation>1074.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5352</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011E38S</id>
+    <displayName>BEAVER CREEK, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>44.95</latitude>
+    <longitude>-111.35</longitude>
+    <elevation>2392.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9025</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYOH0003</id>
+    <displayName>BEAVER DAM 5.7 SSE, KY US</displayName>
+    <minDate>2009-10-30</minDate>
+    <maxDate>2011-12-05</maxDate>
+    <latitude>37.3237</latitude>
+    <longitude>-86.8414</longitude>
+    <elevation>135.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500655</id>
+    <displayName>BEAVER DAM, AK US</displayName>
+    <minDate>1919-03-01</minDate>
+    <maxDate>1920-09-30</maxDate>
+    <latitude>61.2333</latitude>
+    <longitude>-145.4</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030524</id>
+    <displayName>BEAVER DAM, AR US</displayName>
+    <minDate>1961-06-01</minDate>
+    <maxDate>1965-10-31</maxDate>
+    <latitude>36.41667</latitude>
+    <longitude>-93.83333</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024995</id>
+    <displayName>BEAVER DAM, AZ US</displayName>
+    <minDate>1951-10-22</minDate>
+    <maxDate>1995-05-31</maxDate>
+    <latitude>36.8969</latitude>
+    <longitude>-113.9425</longitude>
+    <elevation>571.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1428</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020671</id>
+    <displayName>BEAVER DAM, AZ US</displayName>
+    <minDate>1996-02-13</minDate>
+    <maxDate>1996-11-30</maxDate>
+    <latitude>36.89694</latitude>
+    <longitude>-113.9425</longitude>
+    <elevation>571.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020672</id>
+    <displayName>BEAVER DAM, AZ US</displayName>
+    <minDate>1956-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8969</latitude>
+    <longitude>-113.9425</longitude>
+    <elevation>571.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150490</id>
+    <displayName>BEAVER DAM, KY US</displayName>
+    <minDate>1903-04-01</minDate>
+    <maxDate>2011-09-07</maxDate>
+    <latitude>37.4533</latitude>
+    <longitude>-86.9116</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360464</id>
+    <displayName>BEAVER DAM, PA US</displayName>
+    <minDate>1893-07-01</minDate>
+    <maxDate>1936-05-31</maxDate>
+    <latitude>40.668333</latitude>
+    <longitude>-80.351667</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00470645</id>
+    <displayName>BEAVER DAM, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4447</latitude>
+    <longitude>-88.8477</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011K13S</id>
+    <displayName>BEAVER DAMS, UT US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.1333</latitude>
+    <longitude>-111.55</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011J46S</id>
+    <displayName>BEAVER DIVIDE, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.6167</latitude>
+    <longitude>-111.0667</longitude>
+    <elevation>2523.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9032</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYLW0005</id>
+    <displayName>BEAVER FALLS 0.1 SW, NY US</displayName>
+    <minDate>2009-12-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>43.8862</latitude>
+    <longitude>-75.4284</longitude>
+    <elevation>241.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360475</id>
+    <displayName>BEAVER FALLS 1 NE, PA US</displayName>
+    <minDate>1908-06-12</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.7628</latitude>
+    <longitude>-80.3133</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300500</id>
+    <displayName>BEAVER FALLS, NY US</displayName>
+    <minDate>1934-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.88333</latitude>
+    <longitude>-75.43333</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00160617</id>
+    <displayName>BEAVER FIRE TOWER, LA US</displayName>
+    <minDate>1973-04-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>30.7925</latitude>
+    <longitude>-92.4952</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9586</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009S06S</id>
+    <displayName>BEAVER HEAD, AZ US</displayName>
+    <minDate>1994-05-12</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.7</latitude>
+    <longitude>-109.2</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7257</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MICX0002</id>
+    <displayName>BEAVER ISLAND 5.9 NNW, MI US</displayName>
+    <minDate>2008-07-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.7499</latitude>
+    <longitude>-85.5103</longitude>
+    <elevation>181.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320600</id>
+    <displayName>BEAVER LAKE STATE PA, ND US</displayName>
+    <minDate>1980-06-01</minDate>
+    <maxDate>1983-04-30</maxDate>
+    <latitude>46.4</latitude>
+    <longitude>-99.61667</longitude>
+    <elevation>625.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300505</id>
+    <displayName>BEAVER MEADOW, NY US</displayName>
+    <minDate>1976-03-01</minDate>
+    <maxDate>1981-03-31</maxDate>
+    <latitude>42.66667</latitude>
+    <longitude>-78.38333</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340601</id>
+    <displayName>BEAVER MOUNTAIN TOWER, OK US</displayName>
+    <minDate>1966-09-01</minDate>
+    <maxDate>1985-04-30</maxDate>
+    <latitude>35.66667</latitude>
+    <longitude>-94.8</longitude>
+    <elevation>476.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6314</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450526</id>
+    <displayName>BEAVER NEAR, WA US</displayName>
+    <minDate>1926-06-01</minDate>
+    <maxDate>1930-07-31</maxDate>
+    <latitude>48.066667</latitude>
+    <longitude>-124.35</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2175</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021A01S</id>
+    <displayName>BEAVER PASS, WA US</displayName>
+    <minDate>2001-09-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.8667</latitude>
+    <longitude>-121.25</longitude>
+    <elevation>1103.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0018D09S</id>
+    <displayName>BEAVER RESERVOIR, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.1333</latitude>
+    <longitude>-118.2167</longitude>
+    <elevation>1569.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9021</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABEV</id>
+    <displayName>BEAVER WBQ ALASKA, AK US</displayName>
+    <minDate>1990-05-29</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>66.2667</latitude>
+    <longitude>-146.5167</longitude>
+    <elevation>147.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7515</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500653</id>
+    <displayName>BEAVER, AK US</displayName>
+    <minDate>1971-06-29</minDate>
+    <maxDate>2000-11-30</maxDate>
+    <latitude>66.35972</latitude>
+    <longitude>-147.40139</longitude>
+    <elevation>108.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140645</id>
+    <displayName>BEAVER, KS US</displayName>
+    <minDate>1922-05-25</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.65</latitude>
+    <longitude>-98.66667</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4664</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210559</id>
+    <displayName>BEAVER, MN US</displayName>
+    <minDate>1936-11-01</minDate>
+    <maxDate>1989-09-30</maxDate>
+    <latitude>44.15</latitude>
+    <longitude>-92.01667</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00340593</id>
+    <displayName>BEAVER, OK US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8125</latitude>
+    <longitude>-100.53083</longitude>
+    <elevation>751.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420519</id>
+    <displayName>BEAVER, UT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1990-05-31</maxDate>
+    <latitude>38.3</latitude>
+    <longitude>-112.65</longitude>
+    <elevation>1810.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00090746</id>
+    <displayName>BEAVERDALE, GA US</displayName>
+    <minDate>1940-06-17</minDate>
+    <maxDate>1999-09-30</maxDate>
+    <latitude>34.91944</latitude>
+    <longitude>-84.83222</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310634</id>
+    <displayName>BEAVERDAM CREEK, NC US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1951-03-31</maxDate>
+    <latitude>35.23333</latitude>
+    <longitude>-84.08333</longitude>
+    <elevation>641</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310635</id>
+    <displayName>BEAVERDAM CREEK, NC US</displayName>
+    <minDate>1951-04-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.21667</latitude>
+    <longitude>-84.1</longitude>
+    <elevation>573</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020675</id>
+    <displayName>BEAVERHEAD LODGE, AZ US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>1969-12-31</maxDate>
+    <latitude>33.68333</latitude>
+    <longitude>-109.21667</longitude>
+    <elevation>2467.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6171</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290818</id>
+    <displayName>BEAVERHEAD RANGER STATION, NM US</displayName>
+    <minDate>1916-05-21</minDate>
+    <maxDate>2008-09-30</maxDate>
+    <latitude>33.4286</latitude>
+    <longitude>-108.1</longitude>
+    <elevation>2033</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6823</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0031</id>
+    <displayName>BEAVERTON 0.7 SSE, OR US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.4662</latitude>
+    <longitude>-122.8088</longitude>
+    <elevation>88.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9478</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200632</id>
+    <displayName>BEAVERTON 1 ESE, MI US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>1999-11-30</maxDate>
+    <latitude>43.8797</latitude>
+    <longitude>-84.4741</longitude>
+    <elevation>208.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0003</id>
+    <displayName>BEAVERTON 1.6 S, OR US</displayName>
+    <minDate>2007-11-28</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>45.453</latitude>
+    <longitude>-122.815</longitude>
+    <elevation>82</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.539</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0012</id>
+    <displayName>BEAVERTON 1.7 SSE, OR US</displayName>
+    <minDate>2007-12-14</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>45.4544</latitude>
+    <longitude>-122.797</longitude>
+    <elevation>53</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1341</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0005</id>
+    <displayName>BEAVERTON 1.9 NNE, OR US</displayName>
+    <minDate>2007-12-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.5003</latitude>
+    <longitude>-122.8014</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9194</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350595</id>
+    <displayName>BEAVERTON 2 SSW, OR US</displayName>
+    <minDate>1972-10-01</minDate>
+    <maxDate>2007-03-31</maxDate>
+    <latitude>45.4547</latitude>
+    <longitude>-122.8203</longitude>
+    <elevation>82.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0014</id>
+    <displayName>BEAVERTON 2 WNW, OR US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4852</latitude>
+    <longitude>-122.8558</longitude>
+    <elevation>60</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0011</id>
+    <displayName>BEAVERTON 2.8 SSW, OR US</displayName>
+    <minDate>2008-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4389</latitude>
+    <longitude>-122.8414</longitude>
+    <elevation>135</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7128</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0013</id>
+    <displayName>BEAVERTON 4.7 W, OR US</displayName>
+    <minDate>2007-12-21</minDate>
+    <maxDate>2009-01-23</maxDate>
+    <latitude>45.4842</latitude>
+    <longitude>-122.913</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0060</id>
+    <displayName>BEAVERTON 5.6 SSW, OR US</displayName>
+    <minDate>2012-03-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.406</latitude>
+    <longitude>-122.878</longitude>
+    <elevation>38.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200631</id>
+    <displayName>BEAVERTON, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.88333</latitude>
+    <longitude>-84.48333</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9436</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360482</id>
+    <displayName>BEAVERTOWN 1 NE, PA US</displayName>
+    <minDate>1946-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.7741</latitude>
+    <longitude>-77.1574</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9231</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480585</id>
+    <displayName>BECHLER RIVER RANGER STATION, WY US</displayName>
+    <minDate>1911-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.1497</latitude>
+    <longitude>-111.0461</longitude>
+    <elevation>1959.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2403</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WBEC</id>
+    <displayName>BECHLER WYOMING, WY US</displayName>
+    <minDate>1999-10-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.15</latitude>
+    <longitude>-111.0467</longitude>
+    <elevation>1950.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360488</id>
+    <displayName>BECHTELSVILLE 1 ENE, PA US</displayName>
+    <minDate>1958-03-05</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>40.3783</latitude>
+    <longitude>-75.615</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190510</id>
+    <displayName>BECKET 2 SW, MA US</displayName>
+    <minDate>1973-07-01</minDate>
+    <maxDate>1987-12-31</maxDate>
+    <latitude>42.31667</latitude>
+    <longitude>-73.11667</longitude>
+    <elevation>485.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9377</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABE0004</id>
+    <displayName>BECKET 5.6 SSW, MA US</displayName>
+    <minDate>2010-04-22</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>42.2591</latitude>
+    <longitude>-73.1321</longitude>
+    <elevation>413.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9567</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHBT0002</id>
+    <displayName>BECKETT RIDGE 3.9 NW, OH US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2009-12-18</maxDate>
+    <latitude>39.3883</latitude>
+    <longitude>-84.4862</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7179</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVRL0002</id>
+    <displayName>BECKLEY 1.0 SE, WV US</displayName>
+    <minDate>2009-05-13</minDate>
+    <maxDate>2011-06-29</maxDate>
+    <latitude>37.777</latitude>
+    <longitude>-81.1742</longitude>
+    <elevation>721.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003872</id>
+    <displayName>BECKLEY RALEIGH CO MEM AIRPORT, WV US</displayName>
+    <minDate>1963-05-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.7836</latitude>
+    <longitude>-81.123</longitude>
+    <elevation>766.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00460580</id>
+    <displayName>BECKLEY VA HOSPITAL, WV US</displayName>
+    <minDate>1893-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7647</latitude>
+    <longitude>-81.194</longitude>
+    <elevation>710.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450535</id>
+    <displayName>BEDAL STAKE, WA US</displayName>
+    <minDate>1915-02-15</minDate>
+    <maxDate>1920-04-30</maxDate>
+    <latitude>48.116667</latitude>
+    <longitude>-121.433333</longitude>
+    <elevation>378.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0040</id>
+    <displayName>BEDFORD 0.5 W, TX US</displayName>
+    <minDate>2008-05-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.8473</latitude>
+    <longitude>-97.1421</longitude>
+    <elevation>183.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4312</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTN0092</id>
+    <displayName>BEDFORD 0.6 NNE, TX US</displayName>
+    <minDate>2011-12-26</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.8544</latitude>
+    <longitude>-97.131</longitude>
+    <elevation>184.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IATY0001</id>
+    <displayName>BEDFORD 0.6 S, IA US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>40.6623</latitude>
+    <longitude>-94.7264</longitude>
+    <elevation>346.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6345</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYTB0004</id>
+    <displayName>BEDFORD 0.9 S, KY US</displayName>
+    <minDate>2010-03-25</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>38.5797</latitude>
+    <longitude>-85.32</longitude>
+    <elevation>276.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9581</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230503</id>
+    <displayName>BEDFORD 1 S, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.68333</latitude>
+    <longitude>-93.38333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130580</id>
+    <displayName>BEDFORD 1 SSE, IA US</displayName>
+    <minDate>2010-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6608</latitude>
+    <longitude>-94.7163</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2771</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VABD0014</id>
+    <displayName>BEDFORD 1.1 N, VA US</displayName>
+    <minDate>2011-05-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3538</latitude>
+    <longitude>-79.5238</longitude>
+    <elevation>268.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0012</id>
+    <displayName>BEDFORD 1.4 SSW, IN US</displayName>
+    <minDate>2009-06-28</minDate>
+    <maxDate>2010-05-14</maxDate>
+    <latitude>38.8411</latitude>
+    <longitude>-86.499</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3645</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480605</id>
+    <displayName>BEDFORD 2 SE, WY US</displayName>
+    <minDate>1899-07-13</minDate>
+    <maxDate>1967-08-31</maxDate>
+    <latitude>42.86667</latitude>
+    <longitude>-110.9</longitude>
+    <elevation>1930.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9421</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480603</id>
+    <displayName>BEDFORD 3 SE, WY US</displayName>
+    <minDate>1975-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.8733</latitude>
+    <longitude>-110.9075</longitude>
+    <elevation>1958.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9434</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VABD0009</id>
+    <displayName>BEDFORD 3.2 W, VA US</displayName>
+    <minDate>2010-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3468</latitude>
+    <longitude>-79.5781</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYTB0002</id>
+    <displayName>BEDFORD 3.5 SSE, KY US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2008-12-02</maxDate>
+    <latitude>38.5484</latitude>
+    <longitude>-85.2846</longitude>
+    <elevation>265.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9527</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0009</id>
+    <displayName>BEDFORD 3.7 N, IN US</displayName>
+    <minDate>2009-01-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9136</latitude>
+    <longitude>-86.4778</longitude>
+    <elevation>193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9181</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0014</id>
+    <displayName>BEDFORD 3.9 E, IN US</displayName>
+    <minDate>2009-07-06</minDate>
+    <maxDate>2012-09-08</maxDate>
+    <latitude>38.8538</latitude>
+    <longitude>-86.4186</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1817</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440561</id>
+    <displayName>BEDFORD 4 NW, VA US</displayName>
+    <minDate>2003-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3788</latitude>
+    <longitude>-79.5588</longitude>
+    <elevation>374.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00120550</id>
+    <displayName>BEDFORD 4 SW, IN US</displayName>
+    <minDate>1947-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.8396</latitude>
+    <longitude>-86.5216</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYTB0001</id>
+    <displayName>BEDFORD 4.2 NNW, KY US</displayName>
+    <minDate>2008-01-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6451</latitude>
+    <longitude>-85.3552</longitude>
+    <elevation>267</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8264</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063898</id>
+    <displayName>BEDFORD 5 WNW, IN US</displayName>
+    <minDate>2007-10-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8882</latitude>
+    <longitude>-86.5707</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0002</id>
+    <displayName>BEDFORD 5.1 NW, IN US</displayName>
+    <minDate>2007-01-12</minDate>
+    <maxDate>2010-06-09</maxDate>
+    <latitude>38.915</latitude>
+    <longitude>-86.5535</longitude>
+    <elevation>180.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0005</id>
+    <displayName>BEDFORD 6.5 SE, IN US</displayName>
+    <minDate>2007-01-23</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>38.7927</latitude>
+    <longitude>-86.4074</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7491</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0007</id>
+    <displayName>BEDFORD 7.6 E, IN US</displayName>
+    <minDate>2008-03-25</minDate>
+    <maxDate>2011-10-11</maxDate>
+    <latitude>38.8756</latitude>
+    <longitude>-86.3512</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3796</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0008</id>
+    <displayName>BEDFORD 8.6 NNW, IN US</displayName>
+    <minDate>2008-04-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9716</latitude>
+    <longitude>-86.5616</longitude>
+    <elevation>217.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014702</id>
+    <displayName>BEDFORD HANSCOM FIELD, MA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.47</latitude>
+    <longitude>-71.28944</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300511</id>
+    <displayName>BEDFORD HILLS, NY US</displayName>
+    <minDate>1899-07-01</minDate>
+    <maxDate>1977-04-30</maxDate>
+    <latitude>41.23333</latitude>
+    <longitude>-73.71667</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9569</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00130576</id>
+    <displayName>BEDFORD, IA US</displayName>
+    <minDate>1898-09-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6741</latitude>
+    <longitude>-94.7244</longitude>
+    <elevation>362.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9135</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00120545</id>
+    <displayName>BEDFORD, IN US</displayName>
+    <minDate>1939-11-01</minDate>
+    <maxDate>1978-02-28</maxDate>
+    <latitude>38.85</latitude>
+    <longitude>-86.5</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190535</id>
+    <displayName>BEDFORD, MA US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>2009-04-30</maxDate>
+    <latitude>42.48333</latitude>
+    <longitude>-71.28333</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190538</id>
+    <displayName>BEDFORD, MA US</displayName>
+    <minDate>1893-04-01</minDate>
+    <maxDate>1923-09-30</maxDate>
+    <latitude>42.466667</latitude>
+    <longitude>-71.25</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9761</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360492</id>
+    <displayName>BEDFORD, PA US</displayName>
+    <minDate>1931-07-01</minDate>
+    <maxDate>1945-12-31</maxDate>
+    <latitude>40.016667</latitude>
+    <longitude>-78.5</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440551</id>
+    <displayName>BEDFORD, VA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2006-03-15</maxDate>
+    <latitude>37.3475</latitude>
+    <longitude>-79.5233</longitude>
+    <elevation>297.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410635</id>
+    <displayName>BEDIAS, TX US</displayName>
+    <minDate>1940-03-08</minDate>
+    <maxDate>1985-12-31</maxDate>
+    <latitude>30.78333</latitude>
+    <longitude>-95.95</longitude>
+    <elevation>102.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8512</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSM0011</id>
+    <displayName>BEDMINSTER TWP 2.9 ESE, NJ US</displayName>
+    <minDate>2009-04-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.6563</latitude>
+    <longitude>-74.6305</longitude>
+    <elevation>157.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050581</id>
+    <displayName>BEDROCK, CO US</displayName>
+    <minDate>1997-01-01</minDate>
+    <maxDate>2005-05-21</maxDate>
+    <latitude>38.3188</latitude>
+    <longitude>-108.8902</longitude>
+    <elevation>1517.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030528</id>
+    <displayName>BEE BRANCH, AR US</displayName>
+    <minDate>1892-08-01</minDate>
+    <maxDate>1952-08-31</maxDate>
+    <latitude>35.45</latitude>
+    <longitude>-92.4</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9488</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0099</id>
+    <displayName>BEE CAVE 2.5 ENE, TX US</displayName>
+    <minDate>2009-09-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3234</latitude>
+    <longitude>-97.9165</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0008</id>
+    <displayName>BEE CAVE 6.3 S, TX US</displayName>
+    <minDate>2007-06-04</minDate>
+    <maxDate>2012-05-15</maxDate>
+    <latitude>30.2173</latitude>
+    <longitude>-97.9713</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030530</id>
+    <displayName>BEEBE, AR US</displayName>
+    <minDate>1948-11-18</minDate>
+    <maxDate>1951-06-17</maxDate>
+    <latitude>35.0644</latitude>
+    <longitude>-91.8961</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5074</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360499</id>
+    <displayName>BEECH CREEK STATION, PA US</displayName>
+    <minDate>1953-09-04</minDate>
+    <maxDate>1957-11-30</maxDate>
+    <latitude>41.0808</latitude>
+    <longitude>-77.5497</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+</stationCollection>

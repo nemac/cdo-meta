@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="110">
+  <station>
+    <id>GHCND:US1UTML0003</id>
+    <displayName>DELTA 0.5 NNE, UT US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.3595</latitude>
+    <longitude>-112.5722</longitude>
+    <elevation>1414</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042380</id>
+    <displayName>DELTA 1, CA US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>1918-05-26</maxDate>
+    <latitude>40.95</latitude>
+    <longitude>-122.433333</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8785</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTML0004</id>
+    <displayName>DELTA 2.2 SW, UT US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2011-10-08</maxDate>
+    <latitude>39.3308</latitude>
+    <longitude>-112.6053</longitude>
+    <elevation>1406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7381</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0002</id>
+    <displayName>DELTA 2.3 ENE, CO US</displayName>
+    <minDate>2004-02-08</minDate>
+    <maxDate>2011-05-12</maxDate>
+    <latitude>38.7527</latitude>
+    <longitude>-108.0281</longitude>
+    <elevation>1538</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9238</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052196</id>
+    <displayName>DELTA 3 E, CO US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.7538</latitude>
+    <longitude>-108.0277</longitude>
+    <elevation>1532.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9549</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0011</id>
+    <displayName>DELTA 3.9 S, CO US</displayName>
+    <minDate>2005-01-31</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>38.6853</latitude>
+    <longitude>-108.0743</longitude>
+    <elevation>1592</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8252</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422093</id>
+    <displayName>DELTA 32 SSW, UT US</displayName>
+    <minDate>1985-01-01</minDate>
+    <maxDate>1987-06-30</maxDate>
+    <latitude>38.93333</latitude>
+    <longitude>-112.81667</longitude>
+    <elevation>1466.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8364</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053165</id>
+    <displayName>DELTA 4 NE, UT US</displayName>
+    <minDate>2010-08-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.3872</latitude>
+    <longitude>-112.5095</longitude>
+    <elevation>1451.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502350</id>
+    <displayName>DELTA 5 NE, AK US</displayName>
+    <minDate>1994-08-01</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>64.0839</latitude>
+    <longitude>-145.6136</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0028</id>
+    <displayName>DELTA 5.6 E, CO US</displayName>
+    <minDate>2011-04-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.7572</latitude>
+    <longitude>-107.9714</longitude>
+    <elevation>1554.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9484</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODL0015</id>
+    <displayName>DELTA 5.7 E, CO US</displayName>
+    <minDate>2005-12-01</minDate>
+    <maxDate>2011-04-24</maxDate>
+    <latitude>38.7298</latitude>
+    <longitude>-107.9702</longitude>
+    <elevation>1577</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502339</id>
+    <displayName>DELTA 6 N, AK US</displayName>
+    <minDate>1996-08-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>64.11722</latitude>
+    <longitude>-145.75111</longitude>
+    <elevation>322.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9615</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAOC0003</id>
+    <displayName>DELTA COMMUNITY COLLEGE, LA US</displayName>
+    <minDate>2008-01-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4959</latitude>
+    <longitude>-92.0285</longitude>
+    <elevation>19.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302047</id>
+    <displayName>DELTA DAM, NY US</displayName>
+    <minDate>2000-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2735</latitude>
+    <longitude>-75.4271</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502341</id>
+    <displayName>DELTA FORESTRY EXPERIMENT STATION, AK US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>1997-03-31</maxDate>
+    <latitude>63.93333</latitude>
+    <longitude>-145.34194</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502352</id>
+    <displayName>DELTA JUNCTION 20 SE, AK US</displayName>
+    <minDate>1980-11-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>63.9647</latitude>
+    <longitude>-145.105</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5251</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502347</id>
+    <displayName>DELTA JUNCTION, AK US</displayName>
+    <minDate>1966-10-02</minDate>
+    <maxDate>1969-04-30</maxDate>
+    <latitude>64.01667</latitude>
+    <longitude>-145.7</longitude>
+    <elevation>363</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA001102420</id>
+    <displayName>DELTA PEBBLE HILL, WA US</displayName>
+    <minDate>1961-12-01</minDate>
+    <maxDate>1996-01-31</maxDate>
+    <latitude>49</latitude>
+    <longitude>-123.08</longitude>
+    <elevation>51</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8084</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MDRD</id>
+    <displayName>DELTA RD MISSISSIPPI, MS US</displayName>
+    <minDate>2002-06-19</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>32.81</latitude>
+    <longitude>-90</longitude>
+    <elevation>28.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9314</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012235</id>
+    <displayName>DELTA, AL US</displayName>
+    <minDate>1956-09-01</minDate>
+    <maxDate>1977-02-28</maxDate>
+    <latitude>33.43333</latitude>
+    <longitude>-85.7</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042379</id>
+    <displayName>DELTA, CA US</displayName>
+    <minDate>1975-11-01</minDate>
+    <maxDate>1978-05-31</maxDate>
+    <latitude>40.95</latitude>
+    <longitude>-122.41667</longitude>
+    <elevation>356.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052192</id>
+    <displayName>DELTA, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1999-12-31</maxDate>
+    <latitude>38.7531</latitude>
+    <longitude>-108.0783</longitude>
+    <elevation>1502.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9355</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302045</id>
+    <displayName>DELTA, NY US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1976-08-31</maxDate>
+    <latitude>43.26667</latitude>
+    <longitude>-75.43333</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023162</id>
+    <displayName>DELTA, UT US</displayName>
+    <minDate>1938-06-01</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>39.3375</latitude>
+    <longitude>-112.5859</longitude>
+    <elevation>1408.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLVL0007</id>
+    <displayName>DELTONA 2.9 SE, FL US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.8764</latitude>
+    <longitude>-81.1804</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00152139</id>
+    <displayName>DEMA, KY US</displayName>
+    <minDate>1940-03-14</minDate>
+    <maxDate>1965-05-31</maxDate>
+    <latitude>37.41667</latitude>
+    <longitude>-82.8</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7265</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDEM</id>
+    <displayName>DEMAREE COLORADO, CO US</displayName>
+    <minDate>1995-11-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.46</latitude>
+    <longitude>-108.88</longitude>
+    <elevation>2181.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBG0031</id>
+    <displayName>DEMAREST 0.6 NNW, NJ US</displayName>
+    <minDate>2011-02-13</minDate>
+    <maxDate>2011-09-18</maxDate>
+    <latitude>40.9628</latitude>
+    <longitude>-73.96</longitude>
+    <elevation>14.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0040</id>
+    <displayName>DEMING 0.6 E, NM US</displayName>
+    <minDate>2009-02-21</minDate>
+    <maxDate>2012-03-07</maxDate>
+    <latitude>32.26</latitude>
+    <longitude>-107.7401</longitude>
+    <elevation>1315.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9343</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0043</id>
+    <displayName>DEMING 0.6 SSW, NM US</displayName>
+    <minDate>2009-05-20</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.2541</latitude>
+    <longitude>-107.7536</longitude>
+    <elevation>1318</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3321</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0023</id>
+    <displayName>DEMING 0.7 SE, NM US</displayName>
+    <minDate>2005-11-13</minDate>
+    <maxDate>2010-12-13</maxDate>
+    <latitude>32.2533</latitude>
+    <longitude>-107.7426</longitude>
+    <elevation>400.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0005</id>
+    <displayName>DEMING 0.7 SW, NM US</displayName>
+    <minDate>2005-09-10</minDate>
+    <maxDate>2006-08-16</maxDate>
+    <latitude>32.2531</latitude>
+    <longitude>-107.7579</longitude>
+    <elevation>1320.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0004</id>
+    <displayName>DEMING 0.8 SE, NM US</displayName>
+    <minDate>2005-11-07</minDate>
+    <maxDate>2006-10-24</maxDate>
+    <latitude>32.2539</latitude>
+    <longitude>-107.7413</longitude>
+    <elevation>1317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0030</id>
+    <displayName>DEMING 1.0 SSE, NM US</displayName>
+    <minDate>2007-04-02</minDate>
+    <maxDate>2012-10-12</maxDate>
+    <latitude>32.2476</latitude>
+    <longitude>-107.7452</longitude>
+    <elevation>1314</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0013</id>
+    <displayName>DEMING 1.3 W, NM US</displayName>
+    <minDate>2005-09-02</minDate>
+    <maxDate>2007-09-13</maxDate>
+    <latitude>32.2641</latitude>
+    <longitude>-107.7722</longitude>
+    <elevation>1327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0017</id>
+    <displayName>DEMING 1.5 S, NM US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.2395</latitude>
+    <longitude>-107.7526</longitude>
+    <elevation>1314.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5037</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0042</id>
+    <displayName>DEMING 11.7 N, NM US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2011-04-30</maxDate>
+    <latitude>32.4313</latitude>
+    <longitude>-107.762</longitude>
+    <elevation>1457.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0020</id>
+    <displayName>DEMING 12 WSW, NM US</displayName>
+    <minDate>2005-09-26</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>32.2036</latitude>
+    <longitude>-107.9396</longitude>
+    <elevation>1334.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7616</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0027</id>
+    <displayName>DEMING 15.5 ESE, NM US</displayName>
+    <minDate>2006-06-02</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>32.177</latitude>
+    <longitude>-107.5038</longitude>
+    <elevation>1252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.428</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0037</id>
+    <displayName>DEMING 15.5 WSW, NM US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1811</latitude>
+    <longitude>-107.9976</longitude>
+    <elevation>1327.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0001</id>
+    <displayName>DEMING 16 ESE, NM US</displayName>
+    <minDate>2005-03-12</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>32.1694</latitude>
+    <longitude>-107.4995</longitude>
+    <elevation>1250</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9466</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0018</id>
+    <displayName>DEMING 16 S, NM US</displayName>
+    <minDate>2005-09-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.0336</latitude>
+    <longitude>-107.7706</longitude>
+    <elevation>1278.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5468</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0047</id>
+    <displayName>DEMING 17.9 ESE, NM US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>32.1275</latitude>
+    <longitude>-107.4875</longitude>
+    <elevation>1239.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9137</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0019</id>
+    <displayName>DEMING 19 NNE, NM US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.2626</latitude>
+    <longitude>-107.397</longitude>
+    <elevation>1275</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4746</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMGR0030</id>
+    <displayName>DEMING 28.5 W, NM US</displayName>
+    <minDate>2010-01-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.191</latitude>
+    <longitude>-108.2316</longitude>
+    <elevation>1378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00452112</id>
+    <displayName>DEMING 4 WNW, WA US</displayName>
+    <minDate>1946-11-10</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>48.85</latitude>
+    <longitude>-122.3</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4207</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0026</id>
+    <displayName>DEMING 4.1 ESE, NM US</displayName>
+    <minDate>2006-04-04</minDate>
+    <maxDate>2007-10-03</maxDate>
+    <latitude>32.2466</latitude>
+    <longitude>-107.6831</longitude>
+    <elevation>1296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9015</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0046</id>
+    <displayName>DEMING 4.6 E, NM US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2012-07-03</maxDate>
+    <latitude>32.2606</latitude>
+    <longitude>-107.6716</longitude>
+    <elevation>1299.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0006</id>
+    <displayName>DEMING 5.3 S, NM US</displayName>
+    <minDate>2005-09-18</minDate>
+    <maxDate>2007-05-18</maxDate>
+    <latitude>32.1847</latitude>
+    <longitude>-107.7483</longitude>
+    <elevation>1303</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0025</id>
+    <displayName>DEMING 5.5 SSW, NM US</displayName>
+    <minDate>2006-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.195</latitude>
+    <longitude>-107.8024</longitude>
+    <elevation>1318</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8616</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0031</id>
+    <displayName>DEMING 6.0 SSE, NM US</displayName>
+    <minDate>2007-03-11</minDate>
+    <maxDate>2009-03-10</maxDate>
+    <latitude>32.1817</latitude>
+    <longitude>-107.7122</longitude>
+    <elevation>1299.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2627</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0009</id>
+    <displayName>DEMING 6.0 SW, NM US</displayName>
+    <minDate>2005-09-02</minDate>
+    <maxDate>2008-12-31</maxDate>
+    <latitude>32.1928</latitude>
+    <longitude>-107.8128</longitude>
+    <elevation>1321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0045</id>
+    <displayName>DEMING 7.7 SSW, NM US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1665</latitude>
+    <longitude>-107.8183</longitude>
+    <elevation>1311.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0041</id>
+    <displayName>DEMING 7.8 S, NM US</displayName>
+    <minDate>2009-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.15</latitude>
+    <longitude>-107.774</longitude>
+    <elevation>1302.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9788</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0002</id>
+    <displayName>DEMING 8.6 SE, NM US</displayName>
+    <minDate>2005-03-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.169</latitude>
+    <longitude>-107.6479</longitude>
+    <elevation>1374</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMLU0033</id>
+    <displayName>DEMING 8.9 SSW, NM US</displayName>
+    <minDate>2007-05-22</minDate>
+    <maxDate>2009-10-21</maxDate>
+    <latitude>32.1379</latitude>
+    <longitude>-107.7921</longitude>
+    <elevation>1300</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023078</id>
+    <displayName>DEMING MUNICIPAL AIRPORT, NM US</displayName>
+    <minDate>1961-04-07</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.26222</latitude>
+    <longitude>-107.72056</longitude>
+    <elevation>1310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292442</id>
+    <displayName>DEMING NEAR, NM US</displayName>
+    <minDate>1914-06-01</minDate>
+    <maxDate>1924-02-29</maxDate>
+    <latitude>32.25</latitude>
+    <longitude>-107.78333</longitude>
+    <elevation>1322.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292436</id>
+    <displayName>DEMING, NM US</displayName>
+    <minDate>1892-10-01</minDate>
+    <maxDate>2010-11-01</maxDate>
+    <latitude>32.25306</latitude>
+    <longitude>-107.75306</longitude>
+    <elevation>1310.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDMC</id>
+    <displayName>DEMOCRAT CALIFORNIA, CA US</displayName>
+    <minDate>2002-01-16</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.5317</latitude>
+    <longitude>-118.6303</longitude>
+    <elevation>718.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012240</id>
+    <displayName>DEMOPOLIS LOCK 4, AL US</displayName>
+    <minDate>1892-11-03</minDate>
+    <maxDate>1954-08-31</maxDate>
+    <latitude>32.51667</latitude>
+    <longitude>-87.85</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012245</id>
+    <displayName>DEMOPOLIS LOCK AND DAM, AL US</displayName>
+    <minDate>1951-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5193</latitude>
+    <longitude>-87.88</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0007</id>
+    <displayName>DEMOREST 6.2 WNW, GA US</displayName>
+    <minDate>2008-07-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6114</latitude>
+    <longitude>-83.6398</longitude>
+    <elevation>410</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122161</id>
+    <displayName>DEMOTTE WASTEWATER, IN US</displayName>
+    <minDate>1992-07-01</minDate>
+    <maxDate>2003-05-31</maxDate>
+    <latitude>41.20833</latitude>
+    <longitude>-87.2175</longitude>
+    <elevation>199.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042389</id>
+    <displayName>DENAIR 3 NNE, CA US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1984-06-30</maxDate>
+    <latitude>37.56667</latitude>
+    <longitude>-120.78333</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442346</id>
+    <displayName>DENDRON 1 SW, VA US</displayName>
+    <minDate>1959-03-01</minDate>
+    <maxDate>1959-08-31</maxDate>
+    <latitude>37.03333</latitude>
+    <longitude>-76.95</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8315</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LALV0007</id>
+    <displayName>DENHAM SPRINGS 1.9 NNE, LA US</displayName>
+    <minDate>2008-02-13</minDate>
+    <maxDate>2012-05-03</maxDate>
+    <latitude>30.5037</latitude>
+    <longitude>-90.9424</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2834</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LALV0004</id>
+    <displayName>DENHAM SPRINGS 4.1 NE, LA US</displayName>
+    <minDate>2008-01-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5241</latitude>
+    <longitude>-90.9127</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9108</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LALV0002</id>
+    <displayName>DENHAM SPRINGS 6.8 N, LA US</displayName>
+    <minDate>2008-01-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5771</latitude>
+    <longitude>-90.9699</longitude>
+    <elevation>32.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162350</id>
+    <displayName>DENHAM SPRINGS, LA US</displayName>
+    <minDate>1978-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.4802</latitude>
+    <longitude>-90.9613</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004139</id>
+    <displayName>DENIO 52 WSW, NV US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.8484</latitude>
+    <longitude>-119.6357</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262229</id>
+    <displayName>DENIO, NV US</displayName>
+    <minDate>1951-10-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.9892</latitude>
+    <longitude>-118.6338</longitude>
+    <elevation>1277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGA0007</id>
+    <displayName>DENISON 0.8 ENE, TX US</displayName>
+    <minDate>2012-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7608</latitude>
+    <longitude>-96.5514</longitude>
+    <elevation>238.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9346</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACF0005</id>
+    <displayName>DENISON 5.1 ESE, IA US</displayName>
+    <minDate>2010-04-22</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>41.9774</latitude>
+    <longitude>-95.2664</longitude>
+    <elevation>422.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9735</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACF0006</id>
+    <displayName>DENISON 8.6 WNW, IA US</displayName>
+    <minDate>2011-04-27</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>42.0517</latitude>
+    <longitude>-95.5098</longitude>
+    <elevation>406.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2071</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412394</id>
+    <displayName>DENISON DAM, TX US</displayName>
+    <minDate>1940-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.81667</latitude>
+    <longitude>-96.56667</longitude>
+    <elevation>186.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412397</id>
+    <displayName>DENISON HIGHWAY 60 BRI, TX US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>1949-05-20</maxDate>
+    <latitude>33.81667</latitude>
+    <longitude>-96.53333</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8463</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132171</id>
+    <displayName>DENISON, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0363</latitude>
+    <longitude>-95.3288</longitude>
+    <elevation>427</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9736</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCBM0001</id>
+    <displayName>DENMARK 2.8 WNW, SC US</displayName>
+    <minDate>2010-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3392</latitude>
+    <longitude>-81.1805</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472055</id>
+    <displayName>DENMARK WWTP, WI US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.35139</latitude>
+    <longitude>-87.81194</longitude>
+    <elevation>247.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00222313</id>
+    <displayName>DENMARK, MS US</displayName>
+    <minDate>1909-05-01</minDate>
+    <maxDate>1912-02-29</maxDate>
+    <latitude>34.3</latitude>
+    <longitude>-89.33333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9401</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARVB0009</id>
+    <displayName>DENNARD 0.0 S, AR US</displayName>
+    <minDate>2012-07-08</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.7567</latitude>
+    <longitude>-92.5246</longitude>
+    <elevation>459.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8316</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXPR0005</id>
+    <displayName>DENNIS 1.4 SW, TX US</displayName>
+    <minDate>2008-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.6055</latitude>
+    <longitude>-97.9454</longitude>
+    <elevation>244.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8635</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJCM0021</id>
+    <displayName>DENNIS TWP 4.8 W, NJ US</displayName>
+    <minDate>2011-03-02</minDate>
+    <maxDate>2012-09-11</maxDate>
+    <latitude>39.215</latitude>
+    <longitude>-74.906</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9464</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332156</id>
+    <displayName>DENNISON WATER WORKS, OH US</displayName>
+    <minDate>1909-08-01</minDate>
+    <maxDate>1981-12-31</maxDate>
+    <latitude>40.4056</latitude>
+    <longitude>-81.3435</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332160</id>
+    <displayName>DENNISON WATER WORKS, OH US</displayName>
+    <minDate>1982-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.4056</latitude>
+    <longitude>-81.3435</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8033</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142086</id>
+    <displayName>DENSMORE 2 N, KS US</displayName>
+    <minDate>1909-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6688</latitude>
+    <longitude>-99.7319</longitude>
+    <elevation>669.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7741</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IDEN</id>
+    <displayName>DENT IDAHO, ID US</displayName>
+    <minDate>1998-05-12</minDate>
+    <maxDate>2011-05-11</maxDate>
+    <latitude>46.6217</latitude>
+    <longitude>-116.2183</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102490</id>
+    <displayName>DENT, ID US</displayName>
+    <minDate>1905-10-01</minDate>
+    <maxDate>1913-04-30</maxDate>
+    <latitude>46.65</latitude>
+    <longitude>-116.25</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00182523</id>
+    <displayName>DENTON 2 E, MD US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>1989-05-31</maxDate>
+    <latitude>38.88333</latitude>
+    <longitude>-75.8</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6058</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412404</id>
+    <displayName>DENTON 2 SE, TX US</displayName>
+    <minDate>1913-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.1991</latitude>
+    <longitude>-97.1049</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDN0026</id>
+    <displayName>DENTON 2.8 SSE, TX US</displayName>
+    <minDate>2010-06-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.1777</latitude>
+    <longitude>-97.1085</longitude>
+    <elevation>197.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2379</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCL0008</id>
+    <displayName>DENTON 4.3 W, MD US</displayName>
+    <minDate>2007-08-06</minDate>
+    <maxDate>2008-05-09</maxDate>
+    <latitude>38.871</latitude>
+    <longitude>-75.9018</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8525</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCL0005</id>
+    <displayName>DENTON 5.6 SW, MD US</displayName>
+    <minDate>2007-07-24</minDate>
+    <maxDate>2008-03-05</maxDate>
+    <latitude>38.8309</latitude>
+    <longitude>-75.9032</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9159</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCL0010</id>
+    <displayName>DENTON 5.8 WSW, MD US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8623</latitude>
+    <longitude>-75.9267</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9013</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003991</id>
+    <displayName>DENTON MUNICPAL AIRPORT, TX US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.20611</latitude>
+    <longitude>-97.19889</longitude>
+    <elevation>195.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242347</id>
+    <displayName>DENTON, MT US</displayName>
+    <minDate>1908-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.3181</latitude>
+    <longitude>-109.9372</longitude>
+    <elevation>1100.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00252280</id>
+    <displayName>DENTON, NE US</displayName>
+    <minDate>1942-08-06</minDate>
+    <maxDate>1949-01-31</maxDate>
+    <latitude>40.73333</latitude>
+    <longitude>-96.85</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412403</id>
+    <displayName>DENTON, TX US</displayName>
+    <minDate>1949-03-26</minDate>
+    <maxDate>1965-01-31</maxDate>
+    <latitude>33.23333</latitude>
+    <longitude>-97.13333</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9263</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCRC0001</id>
+    <displayName>DENTSVILLE 6.6 NNE, SC US</displayName>
+    <minDate>2008-02-23</minDate>
+    <maxDate>2010-11-17</maxDate>
+    <latitude>34.1566</latitude>
+    <longitude>-80.8923</longitude>
+    <elevation>124.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6507</coverage>
+  </station>
+</stationCollection>

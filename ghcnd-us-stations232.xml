@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="232">
+  <station>
+    <id>GHCND:US1WYAB0029</id>
+    <displayName>LARAMIE 0.2 SE, WY US</displayName>
+    <minDate>2007-07-26</minDate>
+    <maxDate>2007-11-21</maxDate>
+    <latitude>41.3096</latitude>
+    <longitude>-105.587</longitude>
+    <elevation>2190.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8403</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0009</id>
+    <displayName>LARAMIE 0.5 WNW, WY US</displayName>
+    <minDate>2004-01-31</minDate>
+    <maxDate>2006-02-20</maxDate>
+    <latitude>41.3137</latitude>
+    <longitude>-105.601</longitude>
+    <elevation>2179</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.641</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0008</id>
+    <displayName>LARAMIE 0.8 NNE, WY US</displayName>
+    <minDate>2004-07-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3221</latitude>
+    <longitude>-105.5837</longitude>
+    <elevation>2186</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9512</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0032</id>
+    <displayName>LARAMIE 1.3 NE, WY US</displayName>
+    <minDate>2007-06-12</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.3263</latitude>
+    <longitude>-105.5674</longitude>
+    <elevation>2193</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0005</id>
+    <displayName>LARAMIE 1.3 SE, WY US</displayName>
+    <minDate>2004-05-12</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>41.2965</latitude>
+    <longitude>-105.5748</longitude>
+    <elevation>2197.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0024</id>
+    <displayName>LARAMIE 1.4 NNE, WY US</displayName>
+    <minDate>2006-07-26</minDate>
+    <maxDate>2007-10-23</maxDate>
+    <latitude>41.3283</latitude>
+    <longitude>-105.5688</longitude>
+    <elevation>2203.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6198</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0026</id>
+    <displayName>LARAMIE 15.5 SE, WY US</displayName>
+    <minDate>2006-11-21</minDate>
+    <maxDate>2007-05-17</maxDate>
+    <latitude>41.1306</latitude>
+    <longitude>-105.404</longitude>
+    <elevation>2512.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8371</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0040</id>
+    <displayName>LARAMIE 17.1 WNW, WY US</displayName>
+    <minDate>2012-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4392</latitude>
+    <longitude>-105.8661</longitude>
+    <elevation>2211.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485430</id>
+    <displayName>LARAMIE 18 SSW, WY US</displayName>
+    <minDate>1955-12-02</minDate>
+    <maxDate>1958-04-30</maxDate>
+    <latitude>41.06667</latitude>
+    <longitude>-105.65</longitude>
+    <elevation>2308.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9194</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485435</id>
+    <displayName>LARAMIE 2 NW, WY US</displayName>
+    <minDate>1966-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.3408</latitude>
+    <longitude>-105.6069</longitude>
+    <elevation>2176.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9025</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485416</id>
+    <displayName>LARAMIE 2 WSW SITE 2, WY US</displayName>
+    <minDate>2011-08-25</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.2975</latitude>
+    <longitude>-105.6241</longitude>
+    <elevation>2182.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485420</id>
+    <displayName>LARAMIE 2 WSW, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.3041</latitude>
+    <longitude>-105.6408</longitude>
+    <elevation>2186.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9533</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485411</id>
+    <displayName>LARAMIE 2, WY US</displayName>
+    <minDate>1962-01-01</minDate>
+    <maxDate>1976-02-29</maxDate>
+    <latitude>41.31667</latitude>
+    <longitude>-105.58333</longitude>
+    <elevation>2186.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485410</id>
+    <displayName>LARAMIE 2, WY US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>1961-12-31</maxDate>
+    <latitude>41.31667</latitude>
+    <longitude>-105.58333</longitude>
+    <elevation>2186.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9849</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0034</id>
+    <displayName>LARAMIE 2.2 ENE, WY US</displayName>
+    <minDate>2008-11-22</minDate>
+    <maxDate>2012-06-03</maxDate>
+    <latitude>41.3216</latitude>
+    <longitude>-105.5428</longitude>
+    <elevation>2234.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0028</id>
+    <displayName>LARAMIE 2.5 WSW, WY US</displayName>
+    <minDate>2007-03-17</minDate>
+    <maxDate>2007-11-30</maxDate>
+    <latitude>41.2949</latitude>
+    <longitude>-105.6263</longitude>
+    <elevation>2183</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8417</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0030</id>
+    <displayName>LARAMIE 2.7 ESE, WY US</displayName>
+    <minDate>2007-08-07</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.293</latitude>
+    <longitude>-105.5377</longitude>
+    <elevation>2246.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1686</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0033</id>
+    <displayName>LARAMIE 27.3 WSW, WY US</displayName>
+    <minDate>2008-10-18</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.1872</latitude>
+    <longitude>-106.0725</longitude>
+    <elevation>2453</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9613</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485417</id>
+    <displayName>LARAMIE 4 SE, WY US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2847</latitude>
+    <longitude>-105.5319</longitude>
+    <elevation>2252.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0003</id>
+    <displayName>LARAMIE 6.3 NNE, WY US</displayName>
+    <minDate>2002-10-02</minDate>
+    <maxDate>2008-06-22</maxDate>
+    <latitude>41.391</latitude>
+    <longitude>-105.5353</longitude>
+    <elevation>2254</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYAB0007</id>
+    <displayName>LARAMIE AIRPORT, WY US</displayName>
+    <minDate>2004-08-25</minDate>
+    <maxDate>2006-03-31</maxDate>
+    <latitude>41.3166</latitude>
+    <longitude>-105.6666</longitude>
+    <elevation>2215.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7551</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024022</id>
+    <displayName>LARAMIE AIRPORT, WY US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.3167</latitude>
+    <longitude>-105.6833</longitude>
+    <elevation>2214.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304613</id>
+    <displayName>LARCHMONT, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.93333</latitude>
+    <longitude>-73.75</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0018</id>
+    <displayName>LAREDO 1.2 N, TX US</displayName>
+    <minDate>2008-09-08</minDate>
+    <maxDate>2012-08-06</maxDate>
+    <latitude>27.551</latitude>
+    <longitude>-99.4901</longitude>
+    <elevation>135.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3758</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0028</id>
+    <displayName>LAREDO 1.3 NNW, TX US</displayName>
+    <minDate>2009-08-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.5519</latitude>
+    <longitude>-99.495</longitude>
+    <elevation>132</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7322</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0039</id>
+    <displayName>LAREDO 1.5 SE, TX US</displayName>
+    <minDate>2011-01-09</minDate>
+    <maxDate>2012-11-24</maxDate>
+    <latitude>27.5164</latitude>
+    <longitude>-99.4729</longitude>
+    <elevation>143.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1691</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0037</id>
+    <displayName>LAREDO 1.8 ESE, TX US</displayName>
+    <minDate>2010-05-25</minDate>
+    <maxDate>2012-11-27</maxDate>
+    <latitude>27.5207</latitude>
+    <longitude>-99.4611</longitude>
+    <elevation>132.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3889</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0012</id>
+    <displayName>LAREDO 1.8 N, TX US</displayName>
+    <minDate>2008-05-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.5603</latitude>
+    <longitude>-99.4835</longitude>
+    <elevation>144.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0002</id>
+    <displayName>LAREDO 1.8 SSE, TX US</displayName>
+    <minDate>2007-11-14</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>27.5091</latitude>
+    <longitude>-99.4771</longitude>
+    <elevation>141.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3123</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0014</id>
+    <displayName>LAREDO 18.4 NE, TX US</displayName>
+    <minDate>2008-05-16</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.6831</latitude>
+    <longitude>-99.2372</longitude>
+    <elevation>173.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415060</id>
+    <displayName>LAREDO 2, TX US</displayName>
+    <minDate>1946-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.5684</latitude>
+    <longitude>-99.4982</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7305</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0027</id>
+    <displayName>LAREDO 2.0 NNE, TX US</displayName>
+    <minDate>2009-08-14</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.559</latitude>
+    <longitude>-99.47</longitude>
+    <elevation>145.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0029</id>
+    <displayName>LAREDO 2.1 SE, TX US</displayName>
+    <minDate>2009-09-19</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>27.5131</latitude>
+    <longitude>-99.4627</longitude>
+    <elevation>125.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0036</id>
+    <displayName>LAREDO 2.4 N, TX US</displayName>
+    <minDate>2010-05-16</minDate>
+    <maxDate>2012-11-24</maxDate>
+    <latitude>27.5694</latitude>
+    <longitude>-99.4916</longitude>
+    <elevation>141.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2175</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0006</id>
+    <displayName>LAREDO 2.4 S, TX US</displayName>
+    <minDate>2007-12-29</minDate>
+    <maxDate>2012-11-24</maxDate>
+    <latitude>27.4994</latitude>
+    <longitude>-99.4845</longitude>
+    <elevation>132.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0026</id>
+    <displayName>LAREDO 2.5 SSW, TX US</displayName>
+    <minDate>2009-02-28</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.5021</latitude>
+    <longitude>-99.5048</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0010</id>
+    <displayName>LAREDO 2.7 N UNITED MIDDLE SC, TX US</displayName>
+    <minDate>2008-01-25</minDate>
+    <maxDate>2010-05-31</maxDate>
+    <latitude>27.5731</latitude>
+    <longitude>-99.48</longitude>
+    <elevation>157.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7564</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0022</id>
+    <displayName>LAREDO 23.7 ENE, TX US</displayName>
+    <minDate>2009-02-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.6497</latitude>
+    <longitude>-99.1217</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8413</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0024</id>
+    <displayName>LAREDO 3.2 N, TX US</displayName>
+    <minDate>2009-02-23</minDate>
+    <maxDate>2012-07-08</maxDate>
+    <latitude>27.5806</latitude>
+    <longitude>-99.4869</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0013</id>
+    <displayName>LAREDO 3.3 N, TX US</displayName>
+    <minDate>2008-05-06</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.5818</latitude>
+    <longitude>-99.478</longitude>
+    <elevation>160.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2205</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0040</id>
+    <displayName>LAREDO 3.4 NNE, TX US</displayName>
+    <minDate>2011-04-15</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.5818</latitude>
+    <longitude>-99.474</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3129</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0031</id>
+    <displayName>LAREDO 3.9 NNE, TX US</displayName>
+    <minDate>2009-10-13</minDate>
+    <maxDate>2011-05-15</maxDate>
+    <latitude>27.584</latitude>
+    <longitude>-99.456</longitude>
+    <elevation>157.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7741</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0025</id>
+    <displayName>LAREDO 4.3 SSE, TX US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.4793</latitude>
+    <longitude>-99.4551</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8413</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0021</id>
+    <displayName>LAREDO 4.5 NNE, TX US</displayName>
+    <minDate>2008-11-03</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.596</latitude>
+    <longitude>-99.4643</longitude>
+    <elevation>171.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0003</id>
+    <displayName>LAREDO 5.1 NNE, TX US</displayName>
+    <minDate>2007-10-09</minDate>
+    <maxDate>2012-01-16</maxDate>
+    <latitude>27.606</latitude>
+    <longitude>-99.464</longitude>
+    <elevation>171.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6047</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0017</id>
+    <displayName>LAREDO 5.2 S, TX US</displayName>
+    <minDate>2008-09-07</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>27.4591</latitude>
+    <longitude>-99.4792</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0763</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0019</id>
+    <displayName>LAREDO 6.4 S, TX US</displayName>
+    <minDate>2008-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.4416</latitude>
+    <longitude>-99.482</longitude>
+    <elevation>128.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012907</id>
+    <displayName>LAREDO INTERNATIONAL AIRPORT, TX US</displayName>
+    <minDate>1965-03-15</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>27.53333</latitude>
+    <longitude>-99.46667</longitude>
+    <elevation>150.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012920</id>
+    <displayName>LAREDO MUNICIPAL AIRPORT, TX US</displayName>
+    <minDate>1915-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.6</latitude>
+    <longitude>-99.51667</longitude>
+    <elevation>159.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415056</id>
+    <displayName>LAREDO, TX US</displayName>
+    <minDate>1891-01-01</minDate>
+    <maxDate>1978-10-29</maxDate>
+    <latitude>27.50361</latitude>
+    <longitude>-99.51167</longitude>
+    <elevation>121</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6039</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00665175</id>
+    <displayName>LARES, PR US</displayName>
+    <minDate>1903-06-01</minDate>
+    <maxDate>1991-12-31</maxDate>
+    <latitude>18.28333</latitude>
+    <longitude>-66.88333</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9414</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0030</id>
+    <displayName>LARGO 1.5 E, FL US</displayName>
+    <minDate>2009-05-27</minDate>
+    <maxDate>2012-04-23</maxDate>
+    <latitude>27.9078</latitude>
+    <longitude>-82.757</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1722</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0001</id>
+    <displayName>LARGO 2.2 ESE, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.8964</latitude>
+    <longitude>-82.748</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325013</id>
+    <displayName>LARIMORE, ND US</displayName>
+    <minDate>1893-05-01</minDate>
+    <maxDate>2007-07-26</maxDate>
+    <latitude>47.87417</latitude>
+    <longitude>-97.71056</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0061</id>
+    <displayName>LARKSPUR 1.4 WNW, CO US</displayName>
+    <minDate>2004-07-25</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>39.2394</latitude>
+    <longitude>-104.911</longitude>
+    <elevation>2112.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0098</id>
+    <displayName>LARKSPUR 2.0 SW, CO US</displayName>
+    <minDate>2005-03-02</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.2123</latitude>
+    <longitude>-104.9194</longitude>
+    <elevation>2096.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0022</id>
+    <displayName>LARKSPUR 3.0 SW, CO US</displayName>
+    <minDate>2002-10-02</minDate>
+    <maxDate>2006-09-19</maxDate>
+    <latitude>39.2052</latitude>
+    <longitude>-104.9436</longitude>
+    <elevation>2067.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054825</id>
+    <displayName>LARKSPUR 4 NW, CO US</displayName>
+    <minDate>1997-09-01</minDate>
+    <maxDate>2003-09-30</maxDate>
+    <latitude>39.27861</latitude>
+    <longitude>-104.92</longitude>
+    <elevation>2087.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9748</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0071</id>
+    <displayName>LARKSPUR 4.0 WNW, CO US</displayName>
+    <minDate>2004-06-30</minDate>
+    <maxDate>2004-11-10</maxDate>
+    <latitude>39.2406</latitude>
+    <longitude>-104.9609</longitude>
+    <elevation>1965</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7761</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0076</id>
+    <displayName>LARKSPUR 5.1 SE, CO US</displayName>
+    <minDate>2004-07-25</minDate>
+    <maxDate>2007-06-13</maxDate>
+    <latitude>39.1732</latitude>
+    <longitude>-104.8224</longitude>
+    <elevation>2204.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODG0083</id>
+    <displayName>LARKSPUR 6.1 WNW, CO US</displayName>
+    <minDate>2004-07-20</minDate>
+    <maxDate>2007-04-03</maxDate>
+    <latitude>39.2664</latitude>
+    <longitude>-104.9912</longitude>
+    <elevation>2032.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSPN0010</id>
+    <displayName>LARNED 2.9 WSW, KS US</displayName>
+    <minDate>2010-06-10</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>38.1744</latitude>
+    <longitude>-99.1534</longitude>
+    <elevation>615.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144531</id>
+    <displayName>LARNED NUMBER 2, KS US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1923</latitude>
+    <longitude>-99.0968</longitude>
+    <elevation>618.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9769</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144530</id>
+    <displayName>LARNED, KS US</displayName>
+    <minDate>1903-06-01</minDate>
+    <maxDate>2011-11-11</maxDate>
+    <latitude>38.1818</latitude>
+    <longitude>-99.0994</longitude>
+    <elevation>608.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9536</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00134644</id>
+    <displayName>LARRABEE, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.86444</latitude>
+    <longitude>-95.54667</longitude>
+    <elevation>410</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3807</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505425</id>
+    <displayName>LARSEN BAY, AK US</displayName>
+    <minDate>1939-09-01</minDate>
+    <maxDate>1993-11-30</maxDate>
+    <latitude>57.53333</latitude>
+    <longitude>-153.96667</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00165146</id>
+    <displayName>LARTO LAKE, LA US</displayName>
+    <minDate>2002-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>31.373</latitude>
+    <longitude>-91.9052</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWY0012</id>
+    <displayName>LARWILL 4.7 N, IN US</displayName>
+    <minDate>2009-07-25</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>41.2468</latitude>
+    <longitude>-85.6148</longitude>
+    <elevation>274</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4236</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBN0012</id>
+    <displayName>LAS ANIMAS .57 WNW, CO US</displayName>
+    <minDate>2004-04-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0685</latitude>
+    <longitude>-103.2331</longitude>
+    <elevation>1193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBN0006</id>
+    <displayName>LAS ANIMAS 1.8 WSW, CO US</displayName>
+    <minDate>2000-06-04</minDate>
+    <maxDate>2008-05-15</maxDate>
+    <latitude>38.059</latitude>
+    <longitude>-103.2557</longitude>
+    <elevation>1193</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0658</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBN0008</id>
+    <displayName>LAS ANIMAS 8.1 NE, CO US</displayName>
+    <minDate>2004-02-11</minDate>
+    <maxDate>2010-07-07</maxDate>
+    <latitude>38.1408</latitude>
+    <longitude>-103.1058</longitude>
+    <elevation>1214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3788</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBN0007</id>
+    <displayName>LAS ANIMAS 8.1 NE, CO US</displayName>
+    <minDate>2003-12-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1409</latitude>
+    <longitude>-103.1058</longitude>
+    <elevation>1214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7775</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054834</id>
+    <displayName>LAS ANIMAS, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.0635</latitude>
+    <longitude>-103.2152</longitude>
+    <elevation>1185.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0136</id>
+    <displayName>LAS CRUCES 0.6 SW, NM US</displayName>
+    <minDate>2008-07-25</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>32.3305</latitude>
+    <longitude>-106.7637</longitude>
+    <elevation>1229</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.142</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0201</id>
+    <displayName>LAS CRUCES 0.8 ESE, NM US</displayName>
+    <minDate>2011-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3326</latitude>
+    <longitude>-106.7427</longitude>
+    <elevation>1289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0088</id>
+    <displayName>LAS CRUCES 0.8 NE, NM US</displayName>
+    <minDate>2005-10-09</minDate>
+    <maxDate>2007-12-01</maxDate>
+    <latitude>32.3449</latitude>
+    <longitude>-106.7473</longitude>
+    <elevation>1300</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5077</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0090</id>
+    <displayName>LAS CRUCES 0.8 WNW, NM US</displayName>
+    <minDate>2005-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3393</latitude>
+    <longitude>-106.7695</longitude>
+    <elevation>1236.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0048</id>
+    <displayName>LAS CRUCES 0.9 ESE, NM US</displayName>
+    <minDate>2005-03-14</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>32.3332</latitude>
+    <longitude>-106.7411</longitude>
+    <elevation>1288.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0196</id>
+    <displayName>LAS CRUCES 0.9 NE, NM US</displayName>
+    <minDate>2010-07-19</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>32.3437</latitude>
+    <longitude>-106.7427</longitude>
+    <elevation>1295.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9734</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0140</id>
+    <displayName>LAS CRUCES 0.9 NNE, NM US</displayName>
+    <minDate>2006-11-01</minDate>
+    <maxDate>2007-04-01</maxDate>
+    <latitude>32.3482</latitude>
+    <longitude>-106.7514</longitude>
+    <elevation>1271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9539</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0069</id>
+    <displayName>LAS CRUCES 1.3 ESE, NM US</displayName>
+    <minDate>2005-08-04</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>32.3292</latitude>
+    <longitude>-106.7348</longitude>
+    <elevation>1292</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9236</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0172</id>
+    <displayName>LAS CRUCES 1.4 E, NM US</displayName>
+    <minDate>2008-11-27</minDate>
+    <maxDate>2012-07-10</maxDate>
+    <latitude>32.3399</latitude>
+    <longitude>-106.733</longitude>
+    <elevation>1290.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0045</id>
+    <displayName>LAS CRUCES 1.5 NNW, NM US</displayName>
+    <minDate>2005-04-13</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>32.3584</latitude>
+    <longitude>-106.7623</longitude>
+    <elevation>1282</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9321</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0039</id>
+    <displayName>LAS CRUCES 1.5 NNW, NM US</displayName>
+    <minDate>2005-03-25</minDate>
+    <maxDate>2005-09-16</maxDate>
+    <latitude>32.3573</latitude>
+    <longitude>-106.7613</longitude>
+    <elevation>1289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6193</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0118</id>
+    <displayName>LAS CRUCES 1.6 WNW, NM US</displayName>
+    <minDate>2006-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3416</latitude>
+    <longitude>-106.7827</longitude>
+    <elevation>1208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0021</id>
+    <displayName>LAS CRUCES 1.7 SE, NM US</displayName>
+    <minDate>2005-03-15</minDate>
+    <maxDate>2009-01-23</maxDate>
+    <latitude>32.3173</latitude>
+    <longitude>-106.735</longitude>
+    <elevation>1268.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7803</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0206</id>
+    <displayName>LAS CRUCES 1.7 WNW, NM US</displayName>
+    <minDate>2011-08-23</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.3412</latitude>
+    <longitude>-106.7844</longitude>
+    <elevation>1210.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0184</id>
+    <displayName>LAS CRUCES 1.8 WNW, NM US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>32.3504</latitude>
+    <longitude>-106.7823</longitude>
+    <elevation>1219.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0100</id>
+    <displayName>LAS CRUCES 1.9 WNW, NM US</displayName>
+    <minDate>2005-10-29</minDate>
+    <maxDate>2008-11-28</maxDate>
+    <latitude>32.343</latitude>
+    <longitude>-106.7879</longitude>
+    <elevation>1196</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1668</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0107</id>
+    <displayName>LAS CRUCES 1.9 WNW, NM US</displayName>
+    <minDate>2006-10-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3485</latitude>
+    <longitude>-106.785</longitude>
+    <elevation>1214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1279</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0205</id>
+    <displayName>LAS CRUCES 12.6 NW, NM US</displayName>
+    <minDate>2011-08-16</minDate>
+    <maxDate>2011-12-23</maxDate>
+    <latitude>32.4731</latitude>
+    <longitude>-106.8975</longitude>
+    <elevation>1207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9923</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0091</id>
+    <displayName>LAS CRUCES 14 NW, NM US</displayName>
+    <minDate>2005-10-04</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.4833</latitude>
+    <longitude>-106.9187</longitude>
+    <elevation>1213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0103</id>
+    <displayName>LAS CRUCES 14.6 NW, NM US</displayName>
+    <minDate>2006-02-01</minDate>
+    <maxDate>2011-07-27</maxDate>
+    <latitude>32.4969</latitude>
+    <longitude>-106.9177</longitude>
+    <elevation>1224.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4314</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0096</id>
+    <displayName>LAS CRUCES 2.0 NNW, NM US</displayName>
+    <minDate>2005-10-30</minDate>
+    <maxDate>2011-09-27</maxDate>
+    <latitude>32.3627</latitude>
+    <longitude>-106.7706</longitude>
+    <elevation>1268</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9023</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0144</id>
+    <displayName>LAS CRUCES 2.0 WSW, NM US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>32.3272</latitude>
+    <longitude>-106.7892</longitude>
+    <elevation>1186.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2494</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0074</id>
+    <displayName>LAS CRUCES 2.1 SE, NM US</displayName>
+    <minDate>2005-08-04</minDate>
+    <maxDate>2008-01-01</maxDate>
+    <latitude>32.3149</latitude>
+    <longitude>-106.7313</longitude>
+    <elevation>1288.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6084</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0166</id>
+    <displayName>LAS CRUCES 2.1 SW, NM US</displayName>
+    <minDate>2007-12-11</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>32.3146</latitude>
+    <longitude>-106.782</longitude>
+    <elevation>1186.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0002</id>
+    <displayName>LAS CRUCES 2.1 WSW, NM US</displayName>
+    <minDate>2005-01-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3223</latitude>
+    <longitude>-106.7881</longitude>
+    <elevation>1186.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0214</id>
+    <displayName>LAS CRUCES 2.2 NE, NM US</displayName>
+    <minDate>2011-12-13</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.3591</latitude>
+    <longitude>-106.7287</longitude>
+    <elevation>1303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMDA0119</id>
+    <displayName>LAS CRUCES 2.2 SE, NM US</displayName>
+    <minDate>2006-09-14</minDate>
+    <maxDate>2007-08-18</maxDate>
+    <latitude>32.317</latitude>
+    <longitude>-106.7246</longitude>
+    <elevation>1291.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8466</coverage>
+  </station>
+</stationCollection>

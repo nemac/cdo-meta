@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="113">
+  <station>
+    <id>GHCND:USR0000ADVK</id>
+    <displayName>DEVILS KNOB ARKANSAS, AR US</displayName>
+    <minDate>1999-03-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>35.6111</latitude>
+    <longitude>-93.3333</longitude>
+    <elevation>640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031982</id>
+    <displayName>DEVILS KNOB, AR US</displayName>
+    <minDate>1937-08-01</minDate>
+    <maxDate>1969-05-31</maxDate>
+    <latitude>35.71667</latitude>
+    <longitude>-93.4</longitude>
+    <elevation>716.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014912</id>
+    <displayName>DEVILS LAKE KDLR, ND US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.1069</latitude>
+    <longitude>-98.868</longitude>
+    <elevation>446.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9447</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322148</id>
+    <displayName>DEVILS LAKE MUNICIPAL AIRPORT, ND US</displayName>
+    <minDate>2004-04-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.11667</latitude>
+    <longitude>-98.9</longitude>
+    <elevation>439.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7574</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NDEV</id>
+    <displayName>DEVILS LAKE NORTH DAKOTA, ND US</displayName>
+    <minDate>1993-08-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.9853</latitude>
+    <longitude>-98.9075</longitude>
+    <elevation>466.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9604</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDPP</id>
+    <displayName>DEVILS POST PILE CALIFORNIA, CA US</displayName>
+    <minDate>1993-11-15</minDate>
+    <maxDate>2004-08-06</maxDate>
+    <latitude>37.63</latitude>
+    <longitude>-119.0933</longitude>
+    <elevation>2304.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00482466</id>
+    <displayName>DEVILS TOWER 2, WY US</displayName>
+    <minDate>1959-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.5833</latitude>
+    <longitude>-104.7147</longitude>
+    <elevation>1177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WDEV</id>
+    <displayName>DEVILS TOWER WYOMING, WY US</displayName>
+    <minDate>1999-01-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.5817</latitude>
+    <longitude>-104.7194</longitude>
+    <elevation>1188.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9056</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00482465</id>
+    <displayName>DEVILS TOWER, WY US</displayName>
+    <minDate>1932-07-10</minDate>
+    <maxDate>1958-12-31</maxDate>
+    <latitude>44.58333</latitude>
+    <longitude>-104.71667</longitude>
+    <elevation>1321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7102</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMDN023</id>
+    <displayName>DEVINE 0.4 S, TX US</displayName>
+    <minDate>2010-01-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.14</latitude>
+    <longitude>-98.9053</longitude>
+    <elevation>197.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412430</id>
+    <displayName>DEVINE, TX US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1954-05-31</maxDate>
+    <latitude>29.15</latitude>
+    <longitude>-98.9</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2811</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBB0017</id>
+    <displayName>DEVON 0.1 SE, KS US</displayName>
+    <minDate>2009-05-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9215</latitude>
+    <longitude>-94.8177</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACH0020</id>
+    <displayName>DEVON BERWYN 0.9 W, PA US</displayName>
+    <minDate>2012-06-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.0449</latitude>
+    <longitude>-75.4564</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8458</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDVR</id>
+    <displayName>DEVORE CALIFORNIA, CA US</displayName>
+    <minDate>1990-11-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.2211</latitude>
+    <longitude>-117.4044</longitude>
+    <elevation>627</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00342485</id>
+    <displayName>DEWAR 2 NE, OK US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2010-04-30</maxDate>
+    <latitude>35.4561</latitude>
+    <longitude>-95.9072</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10nuck021</id>
+    <displayName>DEWEESE 3.2 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3505</latitude>
+    <longitude>-98.1999</longitude>
+    <elevation>545</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10nuck008</id>
+    <displayName>DEWEESE 3.5 SSE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2011-08-15</maxDate>
+    <latitude>40.3049</latitude>
+    <longitude>-98.1234</longitude>
+    <elevation>543.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00252306</id>
+    <displayName>DEWEESE 4 SE, NE US</displayName>
+    <minDate>1957-08-01</minDate>
+    <maxDate>2012-12-23</maxDate>
+    <latitude>40.3497</latitude>
+    <longitude>-98.0592</longitude>
+    <elevation>506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9102</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10nuck020</id>
+    <displayName>DEWEESE 4.8 SSE, NE US</displayName>
+    <minDate>2007-02-13</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.2859</latitude>
+    <longitude>-98.1236</longitude>
+    <elevation>541.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1574</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCP0081</id>
+    <displayName>DEWEY 1.6 NNW, IL US</displayName>
+    <minDate>2011-07-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3407</latitude>
+    <longitude>-88.2896</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392316</id>
+    <displayName>DEWEY 15 NNE, SD US</displayName>
+    <minDate>1948-12-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>43.71667</latitude>
+    <longitude>-103.91667</longitude>
+    <elevation>1552</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9311</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0014</id>
+    <displayName>DEWEY 3.1 W, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-03-22</maxDate>
+    <latitude>34.527</latitude>
+    <longitude>-112.2946</longitude>
+    <elevation>1659.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8704</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZYV0038</id>
+    <displayName>DEWEY 3.5 WSW, AZ US</displayName>
+    <minDate>2011-07-11</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.5148</latitude>
+    <longitude>-112.2985</longitude>
+    <elevation>1585.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392314</id>
+    <displayName>DEWEY 8 ENE, SD US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>43.55</latitude>
+    <longitude>-103.9</longitude>
+    <elevation>1241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00152180</id>
+    <displayName>DEWEY DAM, KY US</displayName>
+    <minDate>1951-10-01</minDate>
+    <maxDate>1971-03-31</maxDate>
+    <latitude>37.73333</latitude>
+    <longitude>-82.73333</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102525</id>
+    <displayName>DEWEY, ID US</displayName>
+    <minDate>1904-06-20</minDate>
+    <maxDate>1907-05-31</maxDate>
+    <latitude>43.033333</latitude>
+    <longitude>-116.766667</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392312</id>
+    <displayName>DEWEY, SD US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>1957-09-30</maxDate>
+    <latitude>43.53333</latitude>
+    <longitude>-104.03333</longitude>
+    <elevation>1129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422150</id>
+    <displayName>DEWEY, UT US</displayName>
+    <minDate>1967-10-01</minDate>
+    <maxDate>2004-06-15</maxDate>
+    <latitude>38.81278</latitude>
+    <longitude>-109.29972</longitude>
+    <elevation>1255.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10sali004</id>
+    <displayName>DEWITT 0.3 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.3961</latitude>
+    <longitude>-96.9279</longitude>
+    <elevation>392.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5167</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0025</id>
+    <displayName>DEWITT 0.5 SE, NY US</displayName>
+    <minDate>2008-09-24</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>43.0322</latitude>
+    <longitude>-76.0675</longitude>
+    <elevation>140.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1357</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10gage020</id>
+    <displayName>DEWITT 1.4 SE, NE US</displayName>
+    <minDate>2007-01-02</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.377</latitude>
+    <longitude>-96.9086</longitude>
+    <elevation>395.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9173</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10jeff012</id>
+    <displayName>DEWITT 4.6 SSW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>40.3318</latitude>
+    <longitude>-96.9568</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9155</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCL0006</id>
+    <displayName>DEXTER 0.1 NW, KS US</displayName>
+    <minDate>2008-05-23</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.1809</latitude>
+    <longitude>-96.7173</longitude>
+    <elevation>357.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2398</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0019</id>
+    <displayName>DEXTER 1 W, OR US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9172</latitude>
+    <longitude>-122.8244</longitude>
+    <elevation>202.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0100</id>
+    <displayName>DEXTER 4.7 SSE, OR US</displayName>
+    <minDate>2007-12-09</minDate>
+    <maxDate>2009-04-14</maxDate>
+    <latitude>43.8511</latitude>
+    <longitude>-122.7919</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8519</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132240</id>
+    <displayName>DEXTER, IA US</displayName>
+    <minDate>1935-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.5077</latitude>
+    <longitude>-94.2269</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142126</id>
+    <displayName>DEXTER, KS US</displayName>
+    <minDate>1940-05-01</minDate>
+    <maxDate>1982-03-31</maxDate>
+    <latitude>37.18333</latitude>
+    <longitude>-96.71667</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232235</id>
+    <displayName>DEXTER, MO US</displayName>
+    <minDate>1923-09-01</minDate>
+    <maxDate>1986-03-31</maxDate>
+    <latitude>36.8</latitude>
+    <longitude>-89.96667</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CODN0073</id>
+    <displayName>DIA 1.0 NE, CO US</displayName>
+    <minDate>1999-04-01</minDate>
+    <maxDate>2005-08-08</maxDate>
+    <latitude>39.8665</latitude>
+    <longitude>-104.6508</longitude>
+    <elevation>1636.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8867</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAD0001</id>
+    <displayName>DIA 6.5 NNE, CO US</displayName>
+    <minDate>2001-07-12</minDate>
+    <maxDate>2003-07-28</maxDate>
+    <latitude>39.946</latitude>
+    <longitude>-104.6088</longitude>
+    <elevation>1576.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAD0003</id>
+    <displayName>DIA 7.8 NNE, CO US</displayName>
+    <minDate>2001-08-01</minDate>
+    <maxDate>2004-01-10</maxDate>
+    <latitude>39.9666</latitude>
+    <longitude>-104.607</longitude>
+    <elevation>1567</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9171</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00452157</id>
+    <displayName>DIABLO DAM, WA US</displayName>
+    <minDate>1914-12-24</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.7141</latitude>
+    <longitude>-121.143</longitude>
+    <elevation>271.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDIA</id>
+    <displayName>DIABLO GRANDE CALIFORNIA, CA US</displayName>
+    <minDate>1998-08-11</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>37.3292</latitude>
+    <longitude>-121.2939</longitude>
+    <elevation>563.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262276</id>
+    <displayName>DIABLO, NV US</displayName>
+    <minDate>1959-09-01</minDate>
+    <maxDate>1979-03-22</maxDate>
+    <latitude>37.91667</latitude>
+    <longitude>-116.05</longitude>
+    <elevation>1556</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9254</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092677</id>
+    <displayName>DIAL POST OFFICE, GA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.76667</latitude>
+    <longitude>-84.21667</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412444</id>
+    <displayName>DIALVILLE 2 W, TX US</displayName>
+    <minDate>1897-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.8613</latitude>
+    <longitude>-95.262</longitude>
+    <elevation>187.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232240</id>
+    <displayName>DIAMOND 2 W, MO US</displayName>
+    <minDate>1973-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.986</latitude>
+    <longitude>-94.3552</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9204</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352305</id>
+    <displayName>DIAMOND 4 WNW, OR US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1957-05-31</maxDate>
+    <latitude>43.03333</latitude>
+    <longitude>-118.75</longitude>
+    <elevation>1268.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.402</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0023</id>
+    <displayName>DIAMOND BAR 1.9 NNE, CA US</displayName>
+    <minDate>2010-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0232</latitude>
+    <longitude>-117.7965</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00022525</id>
+    <displayName>DIAMOND BAR RANCH, AZ US</displayName>
+    <minDate>1952-07-01</minDate>
+    <maxDate>1956-07-31</maxDate>
+    <latitude>35.88333</latitude>
+    <longitude>-114</longitude>
+    <elevation>1097.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292470</id>
+    <displayName>DIAMOND BAR RANCH, NM US</displayName>
+    <minDate>1914-04-24</minDate>
+    <maxDate>1915-11-30</maxDate>
+    <latitude>33.18333</latitude>
+    <longitude>-108.01667</longitude>
+    <elevation>2133.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042432</id>
+    <displayName>DIAMOND BAR, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34</latitude>
+    <longitude>-117.8</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IDIA</id>
+    <displayName>DIAMOND FLAT IDAHO, ID US</displayName>
+    <minDate>1999-07-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.8667</latitude>
+    <longitude>-111.2167</longitude>
+    <elevation>2286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352313</id>
+    <displayName>DIAMOND LAKE LODGE, OR US</displayName>
+    <minDate>1927-04-21</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.18333</latitude>
+    <longitude>-122.13333</longitude>
+    <elevation>1585.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0022F18S</id>
+    <displayName>DIAMOND LAKE, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.1833</latitude>
+    <longitude>-122.1333</longitude>
+    <elevation>1620</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00022527</id>
+    <displayName>DIAMOND M RANCH, AZ US</displayName>
+    <minDate>1999-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2948</latitude>
+    <longitude>-113.3665</longitude>
+    <elevation>1674</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015K03S</id>
+    <displayName>DIAMOND PEAK, NV US</displayName>
+    <minDate>1983-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.5667</latitude>
+    <longitude>-115.85</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8098</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00271968</id>
+    <displayName>DIAMOND POND, NH US</displayName>
+    <minDate>1997-12-01</minDate>
+    <maxDate>2011-12-01</maxDate>
+    <latitude>44.9541</latitude>
+    <longitude>-71.3205</longitude>
+    <elevation>670.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000DIAM</id>
+    <displayName>DIAMOND RIM, UT US</displayName>
+    <minDate>1983-11-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.6172</latitude>
+    <longitude>-109.2428</longitude>
+    <elevation>1676.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAED0001</id>
+    <displayName>DIAMOND SPRINGS 0.1 W, CA US</displayName>
+    <minDate>2008-10-27</minDate>
+    <maxDate>2012-02-13</maxDate>
+    <latitude>38.6857</latitude>
+    <longitude>-120.8239</longitude>
+    <elevation>541.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442368</id>
+    <displayName>DIAMOND SPRINGS, VA US</displayName>
+    <minDate>1909-02-01</minDate>
+    <maxDate>1980-12-31</maxDate>
+    <latitude>36.9</latitude>
+    <longitude>-76.2</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292476</id>
+    <displayName>DIAMOND T RANCH, NM US</displayName>
+    <minDate>1946-12-21</minDate>
+    <maxDate>1952-06-30</maxDate>
+    <latitude>34.35</latitude>
+    <longitude>-106.61667</longitude>
+    <elevation>1830</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6533</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262296</id>
+    <displayName>DIAMOND VALLEY EUREKA 14 NNW, NV US</displayName>
+    <minDate>1979-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.7086</latitude>
+    <longitude>-116.0494</longitude>
+    <elevation>1795.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8125</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262301</id>
+    <displayName>DIAMOND VALLEY HALL, NV US</displayName>
+    <minDate>1963-04-03</minDate>
+    <maxDate>1971-09-30</maxDate>
+    <latitude>39.8</latitude>
+    <longitude>-115.93333</longitude>
+    <elevation>1800.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7705</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092685</id>
+    <displayName>DIAMOND, GA US</displayName>
+    <minDate>1891-12-26</minDate>
+    <maxDate>1913-08-31</maxDate>
+    <latitude>34.683333</latitude>
+    <longitude>-84.283333</longitude>
+    <elevation>615.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8523</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHC0008</id>
+    <displayName>DIAMONDHEAD 0.4 E, MS US</displayName>
+    <minDate>2009-02-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3833</latitude>
+    <longitude>-89.3612</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHC0002</id>
+    <displayName>DIAMONDHEAD 0.6 WNW, MS US</displayName>
+    <minDate>2008-09-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3878</latitude>
+    <longitude>-89.3781</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.722</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHC0005</id>
+    <displayName>DIAMONDHEAD 0.9 NNW, MS US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3947</latitude>
+    <longitude>-89.3764</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHC0007</id>
+    <displayName>DIAMONDHEAD 1.4 NNW, MS US</displayName>
+    <minDate>2009-02-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4039</latitude>
+    <longitude>-89.3743</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.58</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSHC0010</id>
+    <displayName>DIAMONDHEAD 1.5 NE, MS US</displayName>
+    <minDate>2009-03-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4007</latitude>
+    <longitude>-89.3531</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9206</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412446</id>
+    <displayName>DIANA 2 W, TX US</displayName>
+    <minDate>2011-10-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7056</latitude>
+    <longitude>-94.7888</longitude>
+    <elevation>86.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402473</id>
+    <displayName>DIANA, TN US</displayName>
+    <minDate>1961-06-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.26667</latitude>
+    <longitude>-86.85</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402481</id>
+    <displayName>DIBRELL, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.8</latitude>
+    <longitude>-85.8</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412448</id>
+    <displayName>DICKENS, TX US</displayName>
+    <minDate>1964-06-01</minDate>
+    <maxDate>1984-10-31</maxDate>
+    <latitude>33.61667</latitude>
+    <longitude>-100.83333</longitude>
+    <elevation>784.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.893</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDSK0006</id>
+    <displayName>DICKINSON 1.4 NW, ND US</displayName>
+    <minDate>2010-05-28</minDate>
+    <maxDate>2012-10-04</maxDate>
+    <latitude>46.8989</latitude>
+    <longitude>-102.8044</longitude>
+    <elevation>750.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4297</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0009</id>
+    <displayName>DICKINSON 1.4 W, TX US</displayName>
+    <minDate>2008-01-16</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>29.4555</latitude>
+    <longitude>-95.0889</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGV0001</id>
+    <displayName>DICKINSON 2.8 ENE, TX US</displayName>
+    <minDate>2006-08-30</minDate>
+    <maxDate>2009-10-22</maxDate>
+    <latitude>29.4764</latitude>
+    <longitude>-95.0273</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3452</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322188</id>
+    <displayName>DICKINSON EXPERIMENTAL STATION, ND US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>46.8911</latitude>
+    <longitude>-102.8111</longitude>
+    <elevation>749.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322193</id>
+    <displayName>DICKINSON RANCH HQ, ND US</displayName>
+    <minDate>1981-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.1944</latitude>
+    <longitude>-102.8413</longitude>
+    <elevation>725.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024012</id>
+    <displayName>DICKINSON THEODORE ROOSEVELT REGIONAL AIRPORT, ND US</displayName>
+    <minDate>1938-11-14</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.7994</latitude>
+    <longitude>-102.7972</longitude>
+    <elevation>786.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8697</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDC0016</id>
+    <displayName>DICKSON 1.5 ESE, TN US</displayName>
+    <minDate>2008-06-25</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.0707</latitude>
+    <longitude>-87.3512</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9544</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDC0005</id>
+    <displayName>DICKSON 2.0 S, TN US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2008-05-21</maxDate>
+    <latitude>36.0485</latitude>
+    <longitude>-87.3703</longitude>
+    <elevation>267</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.054</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDC0006</id>
+    <displayName>DICKSON 3.3 WNW, TN US</displayName>
+    <minDate>2007-07-19</minDate>
+    <maxDate>2008-04-24</maxDate>
+    <latitude>36.0972</latitude>
+    <longitude>-87.4311</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDC0003</id>
+    <displayName>DICKSON 5.8 NW, TN US</displayName>
+    <minDate>2007-07-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1272</latitude>
+    <longitude>-87.4598</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9352</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDC0009</id>
+    <displayName>DICKSON 6.7 SSW, TN US</displayName>
+    <minDate>2007-08-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9875</latitude>
+    <longitude>-87.4252</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402489</id>
+    <displayName>DICKSON, TN US</displayName>
+    <minDate>1900-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0749</latitude>
+    <longitude>-87.3959</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292485</id>
+    <displayName>DIENER, NM US</displayName>
+    <minDate>1921-05-01</minDate>
+    <maxDate>1927-07-31</maxDate>
+    <latitude>35.18333</latitude>
+    <longitude>-108.13333</longitude>
+    <elevation>2438.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARHW0002</id>
+    <displayName>DIERKS 0.7 WSW, AR US</displayName>
+    <minDate>2009-05-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1163</latitude>
+    <longitude>-94.0298</longitude>
+    <elevation>130.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9292</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARHW0003</id>
+    <displayName>DIERKS 2.7 S, AR US</displayName>
+    <minDate>2009-09-22</minDate>
+    <maxDate>2011-01-10</maxDate>
+    <latitude>34.082</latitude>
+    <longitude>-94.025</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3382</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00032020</id>
+    <displayName>DIERKS DAM, AR US</displayName>
+    <minDate>1994-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1475</latitude>
+    <longitude>-94.0888</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00032015</id>
+    <displayName>DIERKS, AR US</displayName>
+    <minDate>1959-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.1266</latitude>
+    <longitude>-94.0172</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502425</id>
+    <displayName>DIETRICH, AK US</displayName>
+    <minDate>1970-10-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>67.68333</latitude>
+    <longitude>-149.73333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9377</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABR0008</id>
+    <displayName>DIGHTON 1.1 WSW, MA US</displayName>
+    <minDate>2009-03-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.812</latitude>
+    <longitude>-71.1365</longitude>
+    <elevation>42.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9786</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSLE0004</id>
+    <displayName>DIGHTON 2.4 E, KS US</displayName>
+    <minDate>2006-04-28</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>38.4805</latitude>
+    <longitude>-100.4222</longitude>
+    <elevation>840</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSLE0006</id>
+    <displayName>DIGHTON 8.2 NNW, KS US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2011-08-30</maxDate>
+    <latitude>38.5983</latitude>
+    <longitude>-100.4966</longitude>
+    <elevation>851.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSLE0002</id>
+    <displayName>DIGHTON, KS US</displayName>
+    <minDate>2005-04-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.476</latitude>
+    <longitude>-100.458</longitude>
+    <elevation>841.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292510</id>
+    <displayName>DILIA, NM US</displayName>
+    <minDate>1941-11-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>35.1841</latitude>
+    <longitude>-105.0569</longitude>
+    <elevation>1569.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011K15S</id>
+    <displayName>DILL S CAMP, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.0333</latitude>
+    <longitude>-111.4667</longitude>
+    <elevation>2804.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8647</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GARB0005</id>
+    <displayName>DILLARD 0.7 NNW, GA US</displayName>
+    <minDate>2009-01-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9842</latitude>
+    <longitude>-83.3917</longitude>
+    <elevation>686.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9244</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GARB0001</id>
+    <displayName>DILLARD 3.5 NE, GA US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9904</latitude>
+    <longitude>-83.303</longitude>
+    <elevation>1119.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8289</coverage>
+  </station>
+</stationCollection>

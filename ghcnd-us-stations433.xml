@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="433">
+  <station>
+    <id>GHCND:USC00308910</id>
+    <displayName>WALES, NY US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7418</latitude>
+    <longitude>-78.5107</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4591</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACE0011</id>
+    <displayName>WALESKA 1.0 S, GA US</displayName>
+    <minDate>2008-07-31</minDate>
+    <maxDate>2009-06-02</maxDate>
+    <latitude>34.3012</latitude>
+    <longitude>-84.5474</longitude>
+    <elevation>343.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACE0002</id>
+    <displayName>WALESKA 4.9 NNE, GA US</displayName>
+    <minDate>2008-04-22</minDate>
+    <maxDate>2010-01-17</maxDate>
+    <latitude>34.3747</latitude>
+    <longitude>-84.5038</longitude>
+    <elevation>443.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9497</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00099077</id>
+    <displayName>WALESKA, GA US</displayName>
+    <minDate>1947-03-16</minDate>
+    <maxDate>2004-06-30</maxDate>
+    <latitude>34.31083</latitude>
+    <longitude>-84.5375</longitude>
+    <elevation>364.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00138632</id>
+    <displayName>WALFORD 2 SE, IA US</displayName>
+    <minDate>1904-04-01</minDate>
+    <maxDate>2012-03-22</maxDate>
+    <latitude>41.8624</latitude>
+    <longitude>-91.8024</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3254</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00329155</id>
+    <displayName>WALHALLA 1 SW, ND US</displayName>
+    <minDate>1904-05-01</minDate>
+    <maxDate>1998-08-31</maxDate>
+    <latitude>48.91333</latitude>
+    <longitude>-97.91806</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6152</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0006</id>
+    <displayName>WALHALLA 1.5 NW, SC US</displayName>
+    <minDate>2008-03-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7869</latitude>
+    <longitude>-83.0819</longitude>
+    <elevation>318.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2307</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00388887</id>
+    <displayName>WALHALLA, SC US</displayName>
+    <minDate>1896-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7545</latitude>
+    <longitude>-83.0751</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9005</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00338725</id>
+    <displayName>WALHONDING, OH US</displayName>
+    <minDate>1914-12-04</minDate>
+    <maxDate>1939-06-30</maxDate>
+    <latitude>40.366667</latitude>
+    <longitude>-82.133333</longitude>
+    <elevation>256.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSEL0023</id>
+    <displayName>WALKER 1.5 NW, KS US</displayName>
+    <minDate>2008-02-06</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>38.8759</latitude>
+    <longitude>-99.0787</longitude>
+    <elevation>595</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0003</id>
+    <displayName>WALKER 3.2 W, MI US</displayName>
+    <minDate>2008-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.988</latitude>
+    <longitude>-85.8103</longitude>
+    <elevation>218.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218618</id>
+    <displayName>WALKER AH GWAH CHING, MN US</displayName>
+    <minDate>1907-12-01</minDate>
+    <maxDate>2008-04-30</maxDate>
+    <latitude>47.0744</latitude>
+    <longitude>-94.5699</longitude>
+    <elevation>429.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6434</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CWAK</id>
+    <displayName>WALKER CALIFORNIA, CA US</displayName>
+    <minDate>2001-04-11</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>38.5653</latitude>
+    <longitude>-119.4592</longitude>
+    <elevation>1658.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CWAL</id>
+    <displayName>WALKER PASS CALIFORNIA, CA US</displayName>
+    <minDate>1991-10-15</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.6647</latitude>
+    <longitude>-118.0569</longitude>
+    <elevation>1698.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218621</id>
+    <displayName>WALKER RANGER, MN US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.0998</latitude>
+    <longitude>-94.5724</longitude>
+    <elevation>414.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00169435</id>
+    <displayName>WALKER, LA US</displayName>
+    <minDate>1910-07-25</minDate>
+    <maxDate>1914-11-30</maxDate>
+    <latitude>30.48333</latitude>
+    <longitude>-90.86667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9648</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448821</id>
+    <displayName>WALKERS CHAPEL, VA US</displayName>
+    <minDate>1945-08-06</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>38.91667</latitude>
+    <longitude>-77.13333</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9487</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409367</id>
+    <displayName>WALKERS FORD, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.33333</latitude>
+    <longitude>-83.7</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9752</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDFR0014</id>
+    <displayName>WALKERSVILLE 1.0 E, MD US</displayName>
+    <minDate>2012-02-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4852</latitude>
+    <longitude>-77.3352</longitude>
+    <elevation>96.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8413</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448829</id>
+    <displayName>WALKERTON 2 NW, VA US</displayName>
+    <minDate>1932-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.7434</latitude>
+    <longitude>-77.04</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9885</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INML0002</id>
+    <displayName>WALKERTON 2.7 SSE, IN US</displayName>
+    <minDate>2006-11-08</minDate>
+    <maxDate>2011-10-18</maxDate>
+    <latitude>41.4302</latitude>
+    <longitude>-86.4549</longitude>
+    <elevation>221</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6528</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSJ0034</id>
+    <displayName>WALKERTON 4.1 ENE, IN US</displayName>
+    <minDate>2009-05-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4869</latitude>
+    <longitude>-86.4082</longitude>
+    <elevation>227.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSJ0017</id>
+    <displayName>WALKERTON 5.7 ENE, IN US</displayName>
+    <minDate>2007-05-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5019</latitude>
+    <longitude>-86.3851</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCFR0005</id>
+    <displayName>WALKERTOWN 3.2 NW, NC US</displayName>
+    <minDate>2008-09-02</minDate>
+    <maxDate>2012-08-14</maxDate>
+    <latitude>36.2001</latitude>
+    <longitude>-80.197</longitude>
+    <elevation>273.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOC0001</id>
+    <displayName>WALKERVILLE 4.2 NNE, MI US</displayName>
+    <minDate>2008-07-12</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>43.7733</latitude>
+    <longitude>-86.1071</longitude>
+    <elevation>270.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPN0003</id>
+    <displayName>WALL 1.8 ENE, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>44.0011</latitude>
+    <longitude>-102.2059</longitude>
+    <elevation>832.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3637</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDPN0009</id>
+    <displayName>WALL 13.0 SSE, SD US</displayName>
+    <minDate>2007-07-12</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>43.8203</latitude>
+    <longitude>-102.1283</longitude>
+    <elevation>818.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4205</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248640</id>
+    <displayName>WALL ROCK MOUNTAIN, MT US</displayName>
+    <minDate>1909-04-26</minDate>
+    <maxDate>1914-04-30</maxDate>
+    <latitude>46.216667</latitude>
+    <longitude>-111.1</longitude>
+    <elevation>1706.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0020</id>
+    <displayName>WALL TWP 1.7 ENE, NJ US</displayName>
+    <minDate>2008-07-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1739</latitude>
+    <longitude>-74.0656</longitude>
+    <elevation>20.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0022</id>
+    <displayName>WALL TWP 3.7 SE, NJ US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2010-02-09</maxDate>
+    <latitude>40.1168</latitude>
+    <longitude>-74.0668</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7306</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWW0006</id>
+    <displayName>WALLA WALLA 0.7 NE, WA US</displayName>
+    <minDate>2008-12-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.0742</latitude>
+    <longitude>-118.3304</longitude>
+    <elevation>302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358985</id>
+    <displayName>WALLA WALLA 13 ESE, OR US</displayName>
+    <minDate>1948-02-10</minDate>
+    <maxDate>1990-11-30</maxDate>
+    <latitude>45.99</latitude>
+    <longitude>-118.0511</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9173</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWW0004</id>
+    <displayName>WALLA WALLA 13.3 ENE, WA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>46.1099</latitude>
+    <longitude>-118.0698</longitude>
+    <elevation>916.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458927</id>
+    <displayName>WALLA WALLA 14 ENE, WA US</displayName>
+    <minDate>1972-02-10</minDate>
+    <maxDate>1972-06-30</maxDate>
+    <latitude>46.1</latitude>
+    <longitude>-118.16667</longitude>
+    <elevation>1086</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458926</id>
+    <displayName>WALLA WALLA 3 W, WA US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1962-09-30</maxDate>
+    <latitude>46.05</latitude>
+    <longitude>-118.4</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWW0005</id>
+    <displayName>WALLA WALLA 5.1 SSW, WA US</displayName>
+    <minDate>2008-12-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.0046</latitude>
+    <longitude>-118.3991</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAWW0002</id>
+    <displayName>WALLA WALLA 6.1 WSW, WA US</displayName>
+    <minDate>2008-06-12</minDate>
+    <maxDate>2010-10-27</maxDate>
+    <latitude>46.0317</latitude>
+    <longitude>-118.4581</longitude>
+    <elevation>193.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458930</id>
+    <displayName>WALLA WALLA CITY, WA US</displayName>
+    <minDate>2002-03-01</minDate>
+    <maxDate>2009-03-31</maxDate>
+    <latitude>46.0638</latitude>
+    <longitude>-118.3163</longitude>
+    <elevation>315.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6221</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458932</id>
+    <displayName>WALLA WALLA DOT, WA US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.0922</latitude>
+    <longitude>-118.2592</longitude>
+    <elevation>384.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8147</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024160</id>
+    <displayName>WALLA WALLA REGIONAL AIRPORT, WA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.09472</latitude>
+    <longitude>-118.28694</longitude>
+    <elevation>355.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9413</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094103</id>
+    <displayName>WALLA WALLA WEATHER SERVICE OFFICE, WA US</displayName>
+    <minDate>1916-06-01</minDate>
+    <maxDate>1995-02-28</maxDate>
+    <latitude>46.03333</latitude>
+    <longitude>-118.33333</longitude>
+    <elevation>289.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6254</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CACV0002</id>
+    <displayName>WALLACE 0.3 NE, CA US</displayName>
+    <minDate>2008-10-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1967</latitude>
+    <longitude>-120.9728</longitude>
+    <elevation>90.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049418</id>
+    <displayName>WALLACE 1 NNE, CA US</displayName>
+    <minDate>1926-07-15</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>38.2</latitude>
+    <longitude>-120.96667</longitude>
+    <elevation>100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9162</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319026</id>
+    <displayName>WALLACE 1 SE, NC US</displayName>
+    <minDate>2000-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7315</latitude>
+    <longitude>-77.9831</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018637</id>
+    <displayName>WALLACE 2 E, AL US</displayName>
+    <minDate>1941-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.2099</latitude>
+    <longitude>-87.1788</longitude>
+    <elevation>62.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258920</id>
+    <displayName>WALLACE 2 W, NE US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.8433</latitude>
+    <longitude>-101.2094</longitude>
+    <elevation>944.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCDP0005</id>
+    <displayName>WALLACE 2.6 ESE, NC US</displayName>
+    <minDate>2011-04-07</minDate>
+    <maxDate>2011-10-11</maxDate>
+    <latitude>34.7261</latitude>
+    <longitude>-77.9526</longitude>
+    <elevation>8.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.734</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10linc051</id>
+    <displayName>WALLACE 7.8 SSE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-08-04</maxDate>
+    <latitude>40.7292</latitude>
+    <longitude>-101.1292</longitude>
+    <elevation>969</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10perk017</id>
+    <displayName>WALLACE 8.7 WSW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8</latitude>
+    <longitude>-101.3229</longitude>
+    <elevation>999.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10haye005</id>
+    <displayName>WALLACE 9.9 S, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>40.6963</latitude>
+    <longitude>-101.1418</longitude>
+    <elevation>975.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9141</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00169455</id>
+    <displayName>WALLACE LAKE DAM, LA US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>1943-01-11</maxDate>
+    <latitude>32.333333</latitude>
+    <longitude>-93.666667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358988</id>
+    <displayName>WALLACE ORCHARDS, OR US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1934-08-31</maxDate>
+    <latitude>44.966667</latitude>
+    <longitude>-123.05</longitude>
+    <elevation>52.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029150</id>
+    <displayName>WALLACE R S, AZ US</displayName>
+    <minDate>1916-05-01</minDate>
+    <maxDate>1959-04-30</maxDate>
+    <latitude>34.53333</latitude>
+    <longitude>-110.91667</longitude>
+    <elevation>2137.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.727</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308924</id>
+    <displayName>WALLACE SOIL CONSERVATION SERVICE, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1950-09-30</maxDate>
+    <latitude>42.43333</latitude>
+    <longitude>-77.46667</longitude>
+    <elevation>488</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00109498</id>
+    <displayName>WALLACE WOODLAND PARK, ID US</displayName>
+    <minDate>1941-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.4754</latitude>
+    <longitude>-115.9313</longitude>
+    <elevation>826</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9372</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00109493</id>
+    <displayName>WALLACE, ID US</displayName>
+    <minDate>1907-12-01</minDate>
+    <maxDate>1962-05-31</maxDate>
+    <latitude>47.46667</latitude>
+    <longitude>-115.93333</longitude>
+    <elevation>844.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148535</id>
+    <displayName>WALLACE, KS US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9111</latitude>
+    <longitude>-101.5852</longitude>
+    <elevation>993.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3238</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00169444</id>
+    <displayName>WALLACE, LA US</displayName>
+    <minDate>1892-05-01</minDate>
+    <maxDate>1904-04-30</maxDate>
+    <latitude>30.05</latitude>
+    <longitude>-90.68333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448833</id>
+    <displayName>WALLACE, VA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.65</latitude>
+    <longitude>-82.13333</longitude>
+    <elevation>573</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448837</id>
+    <displayName>WALLACETON LK DRUMND, VA US</displayName>
+    <minDate>1926-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>36.5955</latitude>
+    <longitude>-76.4386</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409405</id>
+    <displayName>WALLAND, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1951-06-30</maxDate>
+    <latitude>35.76667</latitude>
+    <longitude>-83.85</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9824</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAPR0039</id>
+    <displayName>WALLER 1.0 SSW, WA US</displayName>
+    <minDate>2009-11-03</minDate>
+    <maxDate>2011-05-31</maxDate>
+    <latitude>47.1871</latitude>
+    <longitude>-122.3749</longitude>
+    <elevation>125.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3009</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419448</id>
+    <displayName>WALLER, TX US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>1999-04-30</maxDate>
+    <latitude>30.04861</latitude>
+    <longitude>-95.925</longitude>
+    <elevation>43.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00138646</id>
+    <displayName>WALLIN 1 NW, IA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.0458</latitude>
+    <longitude>-95.0869</longitude>
+    <elevation>388.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFM0001</id>
+    <displayName>WALLINGFORD 5.3 S, KY US</displayName>
+    <minDate>2011-02-26</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>38.3283</latitude>
+    <longitude>-83.61</longitude>
+    <elevation>233.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5143</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093739</id>
+    <displayName>WALLOPS ISLAND WALLOPS FLIGHT FACILITY, VA US</displayName>
+    <minDate>1966-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.9372</latitude>
+    <longitude>-75.4708</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358994</id>
+    <displayName>WALLOUPA, OR US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1913-11-30</maxDate>
+    <latitude>45.816667</latitude>
+    <longitude>-117.55</longitude>
+    <elevation>823</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358997</id>
+    <displayName>WALLOWA, OR US</displayName>
+    <minDate>1903-03-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.5722</latitude>
+    <longitude>-117.5314</longitude>
+    <elevation>890.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00378820</id>
+    <displayName>WALLUM LAKE, RI US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1917-12-31</maxDate>
+    <latitude>42</latitude>
+    <longitude>-71.766667</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9452</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509747</id>
+    <displayName>WALLY NOERENBERG HATCH, AK US</displayName>
+    <minDate>2002-07-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>60.7986</latitude>
+    <longitude>-148.0872</longitude>
+    <elevation>10.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9483</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049420</id>
+    <displayName>WALMAR SCHOOL, CA US</displayName>
+    <minDate>1956-04-24</minDate>
+    <maxDate>1973-08-31</maxDate>
+    <latitude>37.95</latitude>
+    <longitude>-122.08333</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9175</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148549</id>
+    <displayName>WALNUT 3 S, KS US</displayName>
+    <minDate>1902-12-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>37.5577</latitude>
+    <longitude>-95.0601</longitude>
+    <elevation>275.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9516</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029156</id>
+    <displayName>WALNUT CANYON NATIONAL M, AZ US</displayName>
+    <minDate>1910-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1721</latitude>
+    <longitude>-111.5097</longitude>
+    <elevation>2040.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6019</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CACC0019</id>
+    <displayName>WALNUT CREEK 1.4 NE, CA US</displayName>
+    <minDate>2009-12-27</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>37.916</latitude>
+    <longitude>-122.0232</longitude>
+    <elevation>47.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.247</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CACC0018</id>
+    <displayName>WALNUT CREEK 1.4 SSE, CA US</displayName>
+    <minDate>2009-12-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8846</latitude>
+    <longitude>-122.0285</longitude>
+    <elevation>84.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CACC0004</id>
+    <displayName>WALNUT CREEK 1.7 SSE, CA US</displayName>
+    <minDate>2009-02-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.8783</latitude>
+    <longitude>-122.0338</longitude>
+    <elevation>74.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049426</id>
+    <displayName>WALNUT CREEK 2 ENE, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.9</latitude>
+    <longitude>-122.01667</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049423</id>
+    <displayName>WALNUT CREEK 2 ESE, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1974-05-31</maxDate>
+    <latitude>37.88333</latitude>
+    <longitude>-122.03333</longitude>
+    <elevation>74.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7526</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049427</id>
+    <displayName>WALNUT CREEK 4 E, CA US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>37.9</latitude>
+    <longitude>-121.98333</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029158</id>
+    <displayName>WALNUT CREEK, AZ US</displayName>
+    <minDate>1915-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.9281</latitude>
+    <longitude>-112.8097</longitude>
+    <elevation>1551.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00229326</id>
+    <displayName>WALNUT GROVE 2 S, MS US</displayName>
+    <minDate>1938-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5972</latitude>
+    <longitude>-89.4605</longitude>
+    <elevation>96.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOGR0075</id>
+    <displayName>WALNUT GROVE 5.2 SE, MO US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3589</latitude>
+    <longitude>-93.4811</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9154</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018648</id>
+    <displayName>WALNUT GROVE, AL US</displayName>
+    <minDate>1941-06-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0661</latitude>
+    <longitude>-86.3069</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8109</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00037524</id>
+    <displayName>WALNUT GROVE, AR US</displayName>
+    <minDate>1941-11-01</minDate>
+    <maxDate>1961-10-30</maxDate>
+    <latitude>35.85</latitude>
+    <longitude>-91.35</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029166</id>
+    <displayName>WALNUT GROVE, AZ US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.3117</latitude>
+    <longitude>-112.5619</longitude>
+    <elevation>1147.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9448</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049428</id>
+    <displayName>WALNUT GROVE, CA US</displayName>
+    <minDate>1953-02-02</minDate>
+    <maxDate>1961-04-30</maxDate>
+    <latitude>38.23333</latitude>
+    <longitude>-121.51667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018653</id>
+    <displayName>WALNUT HILL 3 W, AL US</displayName>
+    <minDate>1993-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.7028</latitude>
+    <longitude>-85.8936</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9138</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015140</id>
+    <displayName>WALNUT HILL 3 W, AL US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>1992-09-30</maxDate>
+    <latitude>32.7028</latitude>
+    <longitude>-85.8936</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049431</id>
+    <displayName>WALNUT NI FC102C, CA US</displayName>
+    <minDate>1927-12-01</minDate>
+    <maxDate>2000-08-31</maxDate>
+    <latitude>34.00167</latitude>
+    <longitude>-117.86583</longitude>
+    <elevation>148.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8175</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARLW0004</id>
+    <displayName>WALNUT RIDGE 0.5 NW, AR US</displayName>
+    <minDate>2012-07-17</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>36.0753</latitude>
+    <longitude>-90.9647</longitude>
+    <elevation>79.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8662</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093991</id>
+    <displayName>WALNUT RIDGE MUNICIPAL AIRPORT, AR US</displayName>
+    <minDate>1949-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.12528</latitude>
+    <longitude>-90.92444</longitude>
+    <elevation>83.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3531</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419456</id>
+    <displayName>WALNUT SPRINGS 4 ESE, TX US</displayName>
+    <minDate>1963-05-01</minDate>
+    <maxDate>1965-05-31</maxDate>
+    <latitude>32.03333</latitude>
+    <longitude>-97.7</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00118916</id>
+    <displayName>WALNUT, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5519</latitude>
+    <longitude>-89.5989</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00338730</id>
+    <displayName>WALNUT, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1903-10-31</maxDate>
+    <latitude>39.75</latitude>
+    <longitude>-82.85</longitude>
+    <elevation>246.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7603</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369265</id>
+    <displayName>WALNUTPORT RIVER GAGE, PA US</displayName>
+    <minDate>1967-11-01</minDate>
+    <maxDate>1972-06-30</maxDate>
+    <latitude>40.75</latitude>
+    <longitude>-75.6</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198760</id>
+    <displayName>WALPOLE 1 SSE, MA US</displayName>
+    <minDate>1951-07-01</minDate>
+    <maxDate>1959-04-30</maxDate>
+    <latitude>42.13333</latitude>
+    <longitude>-71.25</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198757</id>
+    <displayName>WALPOLE 2, MA US</displayName>
+    <minDate>1972-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1609</latitude>
+    <longitude>-71.2461</longitude>
+    <elevation>50.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278855</id>
+    <displayName>WALPOLE 2, NH US</displayName>
+    <minDate>1952-06-01</minDate>
+    <maxDate>1979-03-31</maxDate>
+    <latitude>43.05</latitude>
+    <longitude>-72.45</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278854</id>
+    <displayName>WALPOLE 2, NH US</displayName>
+    <minDate>1885-05-02</minDate>
+    <maxDate>1952-10-31</maxDate>
+    <latitude>43.05</latitude>
+    <longitude>-72.45</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2305</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278858</id>
+    <displayName>WALPOLE 3, NH US</displayName>
+    <minDate>1979-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0739</latitude>
+    <longitude>-72.4053</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+</stationCollection>

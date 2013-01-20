@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="82">
+  <station>
+    <id>GHCND:USC00481750</id>
+    <displayName>CLARETON 3 NE, WY US</displayName>
+    <minDate>1948-10-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>43.73333</latitude>
+    <longitude>-104.66667</longitude>
+    <elevation>1286.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131533</id>
+    <displayName>CLARINDA, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7244</latitude>
+    <longitude>-95.0191</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331600</id>
+    <displayName>CLARINGTON LOCK 14, OH US</displayName>
+    <minDate>1901-07-01</minDate>
+    <maxDate>1974-08-31</maxDate>
+    <latitude>39.8</latitude>
+    <longitude>-80.83333</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361485</id>
+    <displayName>CLARION 3 SW, PA US</displayName>
+    <minDate>1884-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1922</latitude>
+    <longitude>-79.4361</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8328</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131541</id>
+    <displayName>CLARION, IA US</displayName>
+    <minDate>1944-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.72</latitude>
+    <longitude>-93.7336</longitude>
+    <elevation>352.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9532</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORT0022</id>
+    <displayName>CLARK 0.7 NW, CO US</displayName>
+    <minDate>2005-09-05</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.7078</latitude>
+    <longitude>-106.929</longitude>
+    <elevation>2201</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7024</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481775</id>
+    <displayName>CLARK 3 NE, WY US</displayName>
+    <minDate>1961-02-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.93667</latitude>
+    <longitude>-109.1375</longitude>
+    <elevation>1246.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481768</id>
+    <displayName>CLARK 4 S, WY US</displayName>
+    <minDate>1958-06-20</minDate>
+    <maxDate>1960-12-31</maxDate>
+    <latitude>44.85</latitude>
+    <longitude>-109.18333</longitude>
+    <elevation>1286.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481770</id>
+    <displayName>CLARK 4 SW, WY US</displayName>
+    <minDate>1905-05-01</minDate>
+    <maxDate>1958-05-31</maxDate>
+    <latitude>44.9</latitude>
+    <longitude>-109.23333</longitude>
+    <elevation>1382</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCLK</id>
+    <displayName>CLARK CALIFORNIA, CA US</displayName>
+    <minDate>2000-05-24</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>33.8767</latitude>
+    <longitude>-117.3089</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9255</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101810</id>
+    <displayName>CLARK FORK 1 ENE, ID US</displayName>
+    <minDate>1912-02-18</minDate>
+    <maxDate>1956-10-31</maxDate>
+    <latitude>48.15</latitude>
+    <longitude>-116.16667</longitude>
+    <elevation>650.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBR0002</id>
+    <displayName>CLARK FORK 3.5 SE, ID US</displayName>
+    <minDate>2008-12-19</minDate>
+    <maxDate>2012-12-06</maxDate>
+    <latitude>48.1062</latitude>
+    <longitude>-116.1324</longitude>
+    <elevation>670.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381726</id>
+    <displayName>CLARK HILL 1 W, SC US</displayName>
+    <minDate>1952-08-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6631</latitude>
+    <longitude>-82.1897</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00391740</id>
+    <displayName>CLARK NUMBER 2, SD US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.87667</latitude>
+    <longitude>-97.73833</longitude>
+    <elevation>552.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00391739</id>
+    <displayName>CLARK, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-04-30</maxDate>
+    <latitude>44.8818</latitude>
+    <longitude>-97.7325</longitude>
+    <elevation>549.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9518</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0003</id>
+    <displayName>CLARKESVILLE 11.5 NNW, GA US</displayName>
+    <minDate>2008-05-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7631</latitude>
+    <longitude>-83.6004</longitude>
+    <elevation>525.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0001</id>
+    <displayName>CLARKESVILLE 4.2 WNW, GA US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6357</latitude>
+    <longitude>-83.5899</longitude>
+    <elevation>449.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7718</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0004</id>
+    <displayName>CLARKESVILLE 5.8 NNW, GA US</displayName>
+    <minDate>2008-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.688</latitude>
+    <longitude>-83.5568</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8025</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0009</id>
+    <displayName>CLARKESVILLE 8.7 NW, GA US</displayName>
+    <minDate>2009-02-03</minDate>
+    <maxDate>2011-04-28</maxDate>
+    <latitude>34.6951</latitude>
+    <longitude>-83.6343</longitude>
+    <elevation>449.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7202</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0011</id>
+    <displayName>CLARKESVILLE 8.8 NNW, GA US</displayName>
+    <minDate>2010-05-10</minDate>
+    <maxDate>2010-11-24</maxDate>
+    <latitude>34.7182</latitude>
+    <longitude>-83.6042</longitude>
+    <elevation>455.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5729</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHB0006</id>
+    <displayName>CLARKESVILLE 9.4 NNW, GA US</displayName>
+    <minDate>2008-06-29</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>34.7378</latitude>
+    <longitude>-83.5796</longitude>
+    <elevation>482.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2101</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091965</id>
+    <displayName>CLARKESVILLE, GA US</displayName>
+    <minDate>1990-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6159</latitude>
+    <longitude>-83.5429</longitude>
+    <elevation>423.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9423</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101831</id>
+    <displayName>CLARKIA, ID US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.0112</latitude>
+    <longitude>-116.2559</longitude>
+    <elevation>860.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2586</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNFN0006</id>
+    <displayName>CLARKRANGE 6.0 NE, TN US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2325</latitude>
+    <longitude>-84.9407</longitude>
+    <elevation>522.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9749</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401784</id>
+    <displayName>CLARKRANGE NUMBER 2, TN US</displayName>
+    <minDate>2002-07-01</minDate>
+    <maxDate>2003-01-29</maxDate>
+    <latitude>36.11667</latitude>
+    <longitude>-85.05917</longitude>
+    <elevation>566</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401782</id>
+    <displayName>CLARKRANGE, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.18333</latitude>
+    <longitude>-85.01667</longitude>
+    <elevation>548.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10merr016</id>
+    <displayName>CLARKS 2.2 SE, NE US</displayName>
+    <minDate>2007-06-26</minDate>
+    <maxDate>2008-10-27</maxDate>
+    <latitude>41.1885</latitude>
+    <longitude>-97.8148</longitude>
+    <elevation>494.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041785</id>
+    <displayName>CLARKS VALLEY MUDD R, CA US</displayName>
+    <minDate>1962-05-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>39.55</latitude>
+    <longitude>-122.4</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9727</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461677</id>
+    <displayName>CLARKSBURG 1, WV US</displayName>
+    <minDate>1922-11-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2682</latitude>
+    <longitude>-80.3522</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461682</id>
+    <displayName>CLARKSBURG 2, WV US</displayName>
+    <minDate>1943-06-01</minDate>
+    <maxDate>1953-07-31</maxDate>
+    <latitude>39.28333</latitude>
+    <longitude>-80.33333</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDMG0029</id>
+    <displayName>CLARKSBURG 2.1 NE, MD US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>39.2493</latitude>
+    <longitude>-77.2437</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVHS0003</id>
+    <displayName>CLARKSBURG 2.7 WSW, WV US</displayName>
+    <minDate>2009-05-08</minDate>
+    <maxDate>2009-12-19</maxDate>
+    <latitude>39.2663</latitude>
+    <longitude>-80.3782</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5885</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCR0004</id>
+    <displayName>CLARKSBURG 5.6 E, TN US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.8825</latitude>
+    <longitude>-88.2901</longitude>
+    <elevation>175</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003802</id>
+    <displayName>CLARKSBURG BENEDUM AIRPORT, WV US</displayName>
+    <minDate>1939-08-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.29556</latitude>
+    <longitude>-80.22889</longitude>
+    <elevation>366.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3141</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041784</id>
+    <displayName>CLARKSBURG, CA US</displayName>
+    <minDate>1935-04-01</minDate>
+    <maxDate>1974-11-30</maxDate>
+    <latitude>38.41667</latitude>
+    <longitude>-121.53333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9598</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201435</id>
+    <displayName>CLARKSBURG, MI US</displayName>
+    <minDate>2005-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.4991</latitude>
+    <longitude>-87.845</longitude>
+    <elevation>463.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221707</id>
+    <displayName>CLARKSDALE, MS US</displayName>
+    <minDate>1892-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1864</latitude>
+    <longitude>-90.5573</longitude>
+    <elevation>52.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331612</id>
+    <displayName>CLARKSFIELD 1 SE, OH US</displayName>
+    <minDate>1976-03-01</minDate>
+    <maxDate>1994-06-30</maxDate>
+    <latitude>41.15</latitude>
+    <longitude>-82.38333</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9159</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10colf001</id>
+    <displayName>CLARKSON 3.1 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>41.7014</latitude>
+    <longitude>-97.0731</longitude>
+    <elevation>460.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10colf003</id>
+    <displayName>CLARKSON 9.3 SSW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>41.596</latitude>
+    <longitude>-97.1614</longitude>
+    <elevation>487.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9421</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00251660</id>
+    <displayName>CLARKSON, NE US</displayName>
+    <minDate>1940-11-01</minDate>
+    <maxDate>2004-04-30</maxDate>
+    <latitude>41.72389</latitude>
+    <longitude>-97.12556</longitude>
+    <elevation>472.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0049</id>
+    <displayName>CLARKSTON 0.1 W, MI US</displayName>
+    <minDate>2011-05-14</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.7354</latitude>
+    <longitude>-83.4235</longitude>
+    <elevation>309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2415</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0025</id>
+    <displayName>CLARKSTON 0.6 SW, GA US</displayName>
+    <minDate>2010-06-12</minDate>
+    <maxDate>2011-03-03</maxDate>
+    <latitude>33.8045</latitude>
+    <longitude>-84.2475</longitude>
+    <elevation>310.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6792</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0008</id>
+    <displayName>CLARKSTON 0.9 NE, GA US</displayName>
+    <minDate>2008-08-13</minDate>
+    <maxDate>2011-06-24</maxDate>
+    <latitude>33.8183</latitude>
+    <longitude>-84.228</longitude>
+    <elevation>311.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8786</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0042</id>
+    <displayName>CLARKSTON 1.2 E, MI US</displayName>
+    <minDate>2010-04-11</minDate>
+    <maxDate>2011-04-09</maxDate>
+    <latitude>42.7326</latitude>
+    <longitude>-83.3982</longitude>
+    <elevation>315.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0008</id>
+    <displayName>CLARKSTON 4.3 ENE, MI US</displayName>
+    <minDate>2008-07-15</minDate>
+    <maxDate>2012-11-04</maxDate>
+    <latitude>42.7592</latitude>
+    <longitude>-83.3421</longitude>
+    <elevation>334.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451474</id>
+    <displayName>CLARKSTON HEIGHTS, WA US</displayName>
+    <minDate>1937-11-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>46.38333</latitude>
+    <longitude>-117.08333</longitude>
+    <elevation>363</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00421450</id>
+    <displayName>CLARKSTON, UT US</displayName>
+    <minDate>1911-06-08</minDate>
+    <maxDate>1941-10-31</maxDate>
+    <latitude>41.916667</latitude>
+    <longitude>-112.05</longitude>
+    <elevation>1533.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIIN0004</id>
+    <displayName>CLARKSVILLE 0.3 W, MI US</displayName>
+    <minDate>2011-06-05</minDate>
+    <maxDate>2012-08-16</maxDate>
+    <latitude>42.8422</latitude>
+    <longitude>-85.2474</longitude>
+    <elevation>250.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2733</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARJH0004</id>
+    <displayName>CLARKSVILLE 0.9 WNW, AR US</displayName>
+    <minDate>2012-05-09</minDate>
+    <maxDate>2012-11-19</maxDate>
+    <latitude>35.4647</latitude>
+    <longitude>-93.486</longitude>
+    <elevation>127.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411773</id>
+    <displayName>CLARKSVILLE 1 W, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2010-06-22</maxDate>
+    <latitude>33.6108</latitude>
+    <longitude>-95.0716</longitude>
+    <elevation>129.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1402</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDHW0022</id>
+    <displayName>CLARKSVILLE 1.0 SE, MD US</displayName>
+    <minDate>2008-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1957</latitude>
+    <longitude>-76.931</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9085</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0016</id>
+    <displayName>CLARKSVILLE 1.2 NNE, TN US</displayName>
+    <minDate>2007-07-10</minDate>
+    <maxDate>2010-01-29</maxDate>
+    <latitude>36.5754</latitude>
+    <longitude>-87.3365</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.923</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCK0005</id>
+    <displayName>CLARKSVILLE 1.3 S, IN US</displayName>
+    <minDate>2006-07-28</minDate>
+    <maxDate>2011-07-01</maxDate>
+    <latitude>38.2983</latitude>
+    <longitude>-85.7628</longitude>
+    <elevation>139</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9678</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCK0014</id>
+    <displayName>CLARKSVILLE 1.3 SSE, IN US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2008-07-15</maxDate>
+    <latitude>38.2992</latitude>
+    <longitude>-85.7578</longitude>
+    <elevation>139.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5981</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0049</id>
+    <displayName>CLARKSVILLE 1.7 E, TN US</displayName>
+    <minDate>2007-07-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5564</latitude>
+    <longitude>-87.3168</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7723</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARJH0003</id>
+    <displayName>CLARKSVILLE 1.7 N, AR US</displayName>
+    <minDate>2009-10-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>35.4817</latitude>
+    <longitude>-93.4738</longitude>
+    <elevation>126.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3224</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCN0002</id>
+    <displayName>CLARKSVILLE 1.7 SW, FL US</displayName>
+    <minDate>2008-03-19</minDate>
+    <maxDate>2009-12-04</maxDate>
+    <latitude>30.4163</latitude>
+    <longitude>-85.2065</longitude>
+    <elevation>38.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0042</id>
+    <displayName>CLARKSVILLE 10.0 SW, TN US</displayName>
+    <minDate>2007-07-12</minDate>
+    <maxDate>2008-10-08</maxDate>
+    <latitude>36.4629</latitude>
+    <longitude>-87.4788</longitude>
+    <elevation>145.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2791</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0038</id>
+    <displayName>CLARKSVILLE 10.2 WSW, TN US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.4805</latitude>
+    <longitude>-87.5005</longitude>
+    <elevation>150</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5076</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0019</id>
+    <displayName>CLARKSVILLE 10.6 S, TN US</displayName>
+    <minDate>2007-07-17</minDate>
+    <maxDate>2012-04-16</maxDate>
+    <latitude>36.4085</latitude>
+    <longitude>-87.3246</longitude>
+    <elevation>170.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8606</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0039</id>
+    <displayName>CLARKSVILLE 11.6 SE, TN US</displayName>
+    <minDate>2007-07-15</minDate>
+    <maxDate>2012-03-11</maxDate>
+    <latitude>36.4373</latitude>
+    <longitude>-87.2064</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCH0013</id>
+    <displayName>CLARKSVILLE 13.7 SE, TN US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3957</latitude>
+    <longitude>-87.2099</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0073</id>
+    <displayName>CLARKSVILLE 14.4 WSW, TN US</displayName>
+    <minDate>2011-08-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4596</latitude>
+    <longitude>-87.573</longitude>
+    <elevation>177.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9756</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081601</id>
+    <displayName>CLARKSVILLE 2 N, FL US</displayName>
+    <minDate>2001-03-01</minDate>
+    <maxDate>2008-03-31</maxDate>
+    <latitude>30.46472</latitude>
+    <longitude>-85.19917</longitude>
+    <elevation>38.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411772</id>
+    <displayName>CLARKSVILLE 2 NE, TX US</displayName>
+    <minDate>1903-03-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>33.6164</latitude>
+    <longitude>-95.0717</longitude>
+    <elevation>132.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9439</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031459</id>
+    <displayName>CLARKSVILLE 2, AR US</displayName>
+    <minDate>1993-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4563</latitude>
+    <longitude>-93.4425</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHWR0010</id>
+    <displayName>CLARKSVILLE 2.3 WNW, OH US</displayName>
+    <minDate>2011-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4094</latitude>
+    <longitude>-84.0248</longitude>
+    <elevation>289.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.91</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDHW0014</id>
+    <displayName>CLARKSVILLE 2.5 WNW, MD US</displayName>
+    <minDate>2006-04-17</minDate>
+    <maxDate>2009-10-29</maxDate>
+    <latitude>39.215</latitude>
+    <longitude>-76.988</longitude>
+    <elevation>150</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1339</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARJH0005</id>
+    <displayName>CLARKSVILLE 3.0 N, AR US</displayName>
+    <minDate>2012-05-29</minDate>
+    <maxDate>2012-11-19</maxDate>
+    <latitude>35.5013</latitude>
+    <longitude>-93.4726</longitude>
+    <elevation>137.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0008</id>
+    <displayName>CLARKSVILLE 3.2 NW, TN US</displayName>
+    <minDate>2007-07-09</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>36.59</latitude>
+    <longitude>-87.393</longitude>
+    <elevation>153.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0041</id>
+    <displayName>CLARKSVILLE 3.3 SSE, TN US</displayName>
+    <minDate>2007-07-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.516</latitude>
+    <longitude>-87.327</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0063</id>
+    <displayName>CLARKSVILLE 3.4 NNW, TN US</displayName>
+    <minDate>2008-04-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.6027</latitude>
+    <longitude>-87.3793</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0047</id>
+    <displayName>CLARKSVILLE 3.4 SSW, TN US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2009-01-01</maxDate>
+    <latitude>36.5142</latitude>
+    <longitude>-87.3646</longitude>
+    <elevation>130.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8838</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0001</id>
+    <displayName>CLARKSVILLE 3.5 WNW, TN US</displayName>
+    <minDate>2007-04-14</minDate>
+    <maxDate>2010-05-21</maxDate>
+    <latitude>36.5785</latitude>
+    <longitude>-87.4074</longitude>
+    <elevation>157</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4383</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0067</id>
+    <displayName>CLARKSVILLE 3.7 WNW, TN US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5823</latitude>
+    <longitude>-87.4093</longitude>
+    <elevation>162.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8593</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0026</id>
+    <displayName>CLARKSVILLE 4.0 WNW, TN US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.573</latitude>
+    <longitude>-87.418</longitude>
+    <elevation>170.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0027</id>
+    <displayName>CLARKSVILLE 4.4 WNW, TN US</displayName>
+    <minDate>2007-07-16</minDate>
+    <maxDate>2010-06-14</maxDate>
+    <latitude>36.5903</latitude>
+    <longitude>-87.4175</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9502</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0060</id>
+    <displayName>CLARKSVILLE 5.2 W, TN US</displayName>
+    <minDate>2008-03-18</minDate>
+    <maxDate>2008-12-27</maxDate>
+    <latitude>36.5758</latitude>
+    <longitude>-87.4398</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0032</id>
+    <displayName>CLARKSVILLE 5.4 NE, TN US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2008-09-14</maxDate>
+    <latitude>36.6197</latitude>
+    <longitude>-87.2825</longitude>
+    <elevation>153.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0034</id>
+    <displayName>CLARKSVILLE 5.4 SE, TN US</displayName>
+    <minDate>2007-07-15</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>36.4964</latitude>
+    <longitude>-87.2927</longitude>
+    <elevation>135.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0061</id>
+    <displayName>CLARKSVILLE 5.4 WSW, TN US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.5176</latitude>
+    <longitude>-87.429</longitude>
+    <elevation>166.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4626</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031457</id>
+    <displayName>CLARKSVILLE 6 NE, AR US</displayName>
+    <minDate>1986-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5328</latitude>
+    <longitude>-93.4036</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8634</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0002</id>
+    <displayName>CLARKSVILLE 6.0 ENE, TN US</displayName>
+    <minDate>2007-06-17</minDate>
+    <maxDate>2012-08-06</maxDate>
+    <latitude>36.5899</latitude>
+    <longitude>-87.2452</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0586</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0043</id>
+    <displayName>CLARKSVILLE 6.4 ESE, TN US</displayName>
+    <minDate>2007-07-07</minDate>
+    <maxDate>2009-05-09</maxDate>
+    <latitude>36.5114</latitude>
+    <longitude>-87.25</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2526</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0029</id>
+    <displayName>CLARKSVILLE 6.6 SE, TN US</displayName>
+    <minDate>2007-07-09</minDate>
+    <maxDate>2009-07-26</maxDate>
+    <latitude>36.5013</latitude>
+    <longitude>-87.2538</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0052</id>
+    <displayName>CLARKSVILLE 6.6 SE, TN US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2011-03-09</maxDate>
+    <latitude>36.5013</latitude>
+    <longitude>-87.2538</longitude>
+    <elevation>184.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0024</id>
+    <displayName>CLARKSVILLE 7.1 ESE, TN US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.5386</latitude>
+    <longitude>-87.207</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0050</id>
+    <displayName>CLARKSVILLE 7.2 SE, TN US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2009-11-23</maxDate>
+    <latitude>36.4781</latitude>
+    <longitude>-87.2699</longitude>
+    <elevation>171.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0020</id>
+    <displayName>CLARKSVILLE 7.7 ESE, TN US</displayName>
+    <minDate>2008-01-14</minDate>
+    <maxDate>2010-08-03</maxDate>
+    <latitude>36.502</latitude>
+    <longitude>-87.229</longitude>
+    <elevation>185</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0018</id>
+    <displayName>CLARKSVILLE 8.4 ESE, TN US</displayName>
+    <minDate>2007-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4957</latitude>
+    <longitude>-87.2189</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABU0001</id>
+    <displayName>CLARKSVILLE 8.5 NNE, IA US</displayName>
+    <minDate>2007-08-15</minDate>
+    <maxDate>2009-12-04</maxDate>
+    <latitude>42.9063</latitude>
+    <longitude>-92.6428</longitude>
+    <elevation>314.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9502</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMT0033</id>
+    <displayName>CLARKSVILLE 9.3 ESE, TN US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4966</latitude>
+    <longitude>-87.1994</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8246</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231640</id>
+    <displayName>CLARKSVILLE LOCK AND DAM 24, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.373</latitude>
+    <longitude>-90.9052</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3496</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401795</id>
+    <displayName>CLARKSVILLE NUMBER 2, TN US</displayName>
+    <minDate>2002-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4975</latitude>
+    <longitude>-87.33556</longitude>
+    <elevation>151.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003894</id>
+    <displayName>CLARKSVILLE OUTLAW AIRPORT, TN US</displayName>
+    <minDate>2001-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.62389</latitude>
+    <longitude>-87.41944</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9487</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401790</id>
+    <displayName>CLARKSVILLE SEWAGE PLANT, TN US</displayName>
+    <minDate>1890-05-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.5471</latitude>
+    <longitude>-87.3353</longitude>
+    <elevation>122.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TCLA</id>
+    <displayName>CLARKSVILLE TEXAS, TX US</displayName>
+    <minDate>2001-07-10</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>33.6189</latitude>
+    <longitude>-95.1667</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9352</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031455</id>
+    <displayName>CLARKSVILLE, AR US</displayName>
+    <minDate>1953-07-01</minDate>
+    <maxDate>1993-10-31</maxDate>
+    <latitude>35.48333</latitude>
+    <longitude>-93.45</longitude>
+    <elevation>138.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00181862</id>
+    <displayName>CLARKSVILLE, MD US</displayName>
+    <minDate>1967-12-01</minDate>
+    <maxDate>2004-08-31</maxDate>
+    <latitude>39.25528</latitude>
+    <longitude>-76.92861</longitude>
+    <elevation>112.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8905</coverage>
+  </station>
+</stationCollection>

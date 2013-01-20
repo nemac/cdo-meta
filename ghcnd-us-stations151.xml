@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="151">
+  <station>
+    <id>GHCND:USC00452984</id>
+    <displayName>FRANCES, WA US</displayName>
+    <minDate>1950-04-09</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.5424</latitude>
+    <longitude>-123.5038</longitude>
+    <elevation>70.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9148</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHHL0029</id>
+    <displayName>FRANCESTOWN .8 SE, NH US</displayName>
+    <minDate>2010-03-09</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.9955</latitude>
+    <longitude>-71.8227</longitude>
+    <elevation>265.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5575</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273055</id>
+    <displayName>FRANCESTOWN, NH US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.9848</latitude>
+    <longitude>-71.7963</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPL0001</id>
+    <displayName>FRANCESVILLE 0.3 E, IN US</displayName>
+    <minDate>2007-05-02</minDate>
+    <maxDate>2008-11-05</maxDate>
+    <latitude>40.9851</latitude>
+    <longitude>-86.8778</longitude>
+    <elevation>205.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2238</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123078</id>
+    <displayName>FRANCESVILLE, IN US</displayName>
+    <minDate>1990-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.9843</latitude>
+    <longitude>-86.8871</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9727</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363018</id>
+    <displayName>FRANCIS E WALTER DAM, PA US</displayName>
+    <minDate>1963-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1184</latitude>
+    <longitude>-75.7277</longitude>
+    <elevation>459.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9233</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360455</id>
+    <displayName>FRANCIS E WALTER DAM, PA US</displayName>
+    <minDate>1958-07-17</minDate>
+    <maxDate>1963-09-30</maxDate>
+    <latitude>41.1184</latitude>
+    <longitude>-75.7277</longitude>
+    <elevation>459.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INGB0009</id>
+    <displayName>FRANCISCO 0.1 SE, IN US</displayName>
+    <minDate>2009-04-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.333</latitude>
+    <longitude>-87.4473</longitude>
+    <elevation>139.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9751</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHGR0023</id>
+    <displayName>FRANCONIA 0.8 NE, NH US</displayName>
+    <minDate>2011-10-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.2354</latitude>
+    <longitude>-71.7388</longitude>
+    <elevation>384.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFX0033</id>
+    <displayName>FRANCONIA 1.3 SSE, VA US</displayName>
+    <minDate>2006-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7462</latitude>
+    <longitude>-77.1386</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273160</id>
+    <displayName>FRANCONIA, NH US</displayName>
+    <minDate>1941-05-01</minDate>
+    <maxDate>1981-11-30</maxDate>
+    <latitude>44.23333</latitude>
+    <longitude>-71.75</longitude>
+    <elevation>287.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1346</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202955</id>
+    <displayName>FRANKENMUTH 1 SE, MI US</displayName>
+    <minDate>2006-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.31917</latitude>
+    <longitude>-83.71583</longitude>
+    <elevation>193.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8236</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSMS0004</id>
+    <displayName>FRANKFORT 0.4 NE, KS US</displayName>
+    <minDate>2011-06-22</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>39.7083</latitude>
+    <longitude>-96.413</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEWL0014</id>
+    <displayName>FRANKFORT 0.8 W, ME US</displayName>
+    <minDate>2012-03-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.61</latitude>
+    <longitude>-68.89</longitude>
+    <elevation>65.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0006</id>
+    <displayName>FRANKFORT 1.9 N, KY US</displayName>
+    <minDate>2008-08-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2187</latitude>
+    <longitude>-84.8628</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9333</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202984</id>
+    <displayName>FRANKFORT 2 NE, MI US</displayName>
+    <minDate>1898-03-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.648</latitude>
+    <longitude>-86.21</longitude>
+    <elevation>289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8341</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202497</id>
+    <displayName>FRANKFORT 2 NE, MI US</displayName>
+    <minDate>1953-08-01</minDate>
+    <maxDate>1967-06-12</maxDate>
+    <latitude>44.648</latitude>
+    <longitude>-86.21</longitude>
+    <elevation>289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.75</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0066</id>
+    <displayName>FRANKFORT 2.0 NNE, IL US</displayName>
+    <minDate>2010-04-10</minDate>
+    <maxDate>2012-09-18</maxDate>
+    <latitude>41.5239</latitude>
+    <longitude>-87.8195</longitude>
+    <elevation>211.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4065</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILWL0070</id>
+    <displayName>FRANKFORT 2.2 WSW, IL US</displayName>
+    <minDate>2010-04-27</minDate>
+    <maxDate>2010-08-27</maxDate>
+    <latitude>41.4891</latitude>
+    <longitude>-87.8766</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSMS0002</id>
+    <displayName>FRANKFORT 2.6 NNW, KS US</displayName>
+    <minDate>2008-02-08</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.7405</latitude>
+    <longitude>-96.4284</longitude>
+    <elevation>389.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9372</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0001</id>
+    <displayName>FRANKFORT 3.3 NE, KY US</displayName>
+    <minDate>2007-10-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.221</latitude>
+    <longitude>-84.8175</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0013</id>
+    <displayName>FRANKFORT 3.8 ESE INDUSTRIAL, KY US</displayName>
+    <minDate>2008-10-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1741</latitude>
+    <longitude>-84.7991</longitude>
+    <elevation>247.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0014</id>
+    <displayName>FRANKFORT 4.8 SSW EVERGREEN F, KY US</displayName>
+    <minDate>2008-10-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1315</latitude>
+    <longitude>-84.9122</longitude>
+    <elevation>252.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0010</id>
+    <displayName>FRANKFORT 4.9 ENE SWITZER FS, KY US</displayName>
+    <minDate>2008-10-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2292</latitude>
+    <longitude>-84.79</longitude>
+    <elevation>212.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCL0014</id>
+    <displayName>FRANKFORT 4.9 ENE, IN US</displayName>
+    <minDate>2012-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3007</latitude>
+    <longitude>-86.4209</longitude>
+    <elevation>272.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142877</id>
+    <displayName>FRANKFORT 5 N SOIL CONSERVATION SERVICE 6, KS US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>1958-07-31</maxDate>
+    <latitude>39.76667</latitude>
+    <longitude>-96.43333</longitude>
+    <elevation>369.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0016</id>
+    <displayName>FRANKFORT 5.3 NNW, KY US</displayName>
+    <minDate>2012-01-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2592</latitude>
+    <longitude>-84.9076</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142881</id>
+    <displayName>FRANKFORT 6 NE, KS US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>1976-10-31</maxDate>
+    <latitude>39.76667</latitude>
+    <longitude>-96.35</longitude>
+    <elevation>363</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSMS0001</id>
+    <displayName>FRANKFORT 6.0 NE, KS US</displayName>
+    <minDate>2006-04-02</minDate>
+    <maxDate>2008-02-19</maxDate>
+    <latitude>39.7749</latitude>
+    <longitude>-96.3513</longitude>
+    <elevation>385.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2888</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0012</id>
+    <displayName>FRANKFORT 6.1 N OWENTON ROAD, KY US</displayName>
+    <minDate>2008-10-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2781</latitude>
+    <longitude>-84.8465</longitude>
+    <elevation>234.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9453</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0011</id>
+    <displayName>FRANKFORT 6.8 NNW BALD KNOB F, KY US</displayName>
+    <minDate>2008-10-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2743</latitude>
+    <longitude>-84.933</longitude>
+    <elevation>272.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9446</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142875</id>
+    <displayName>FRANKFORT 7 N SOIL CONSERVATION SERVICE 4, KS US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>1958-07-31</maxDate>
+    <latitude>39.8</latitude>
+    <longitude>-96.4</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142876</id>
+    <displayName>FRANKFORT 7 NNW, KS US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>1958-07-31</maxDate>
+    <latitude>39.8</latitude>
+    <longitude>-96.45</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0004</id>
+    <displayName>FRANKFORT 7.3 W, KY US</displayName>
+    <minDate>2008-06-03</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>38.1928</latitude>
+    <longitude>-85.0006</longitude>
+    <elevation>256.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.779</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCL0010</id>
+    <displayName>FRANKFORT 7.9 WSW, IN US</displayName>
+    <minDate>2010-07-12</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.2544</latitude>
+    <longitude>-86.6567</longitude>
+    <elevation>256.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8573</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYFR0008</id>
+    <displayName>FRANKFORT 8.0 NNE, KY US</displayName>
+    <minDate>2008-09-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.303</latitude>
+    <longitude>-84.83</longitude>
+    <elevation>152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053841</id>
+    <displayName>FRANKFORT CAPITAL CITY AIRPORT, KY US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.18472</latitude>
+    <longitude>-84.90333</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123082</id>
+    <displayName>FRANKFORT DISPOSAL PLANT, IN US</displayName>
+    <minDate>1914-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.2986</latitude>
+    <longitude>-86.5066</longitude>
+    <elevation>251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9806</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303010</id>
+    <displayName>FRANKFORT LOCK 19, NY US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1997-10-31</maxDate>
+    <latitude>43.06667</latitude>
+    <longitude>-75.11667</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153028</id>
+    <displayName>FRANKFORT LOCK 4, KY US</displayName>
+    <minDate>1895-04-01</minDate>
+    <maxDate>2002-08-31</maxDate>
+    <latitude>38.20222</latitude>
+    <longitude>-84.8825</longitude>
+    <elevation>140.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153030</id>
+    <displayName>FRANKFORT ST POLICE, KY US</displayName>
+    <minDate>1985-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1793</latitude>
+    <longitude>-84.8993</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123087</id>
+    <displayName>FRANKFORT, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.28333</latitude>
+    <longitude>-86.5</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8559</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142872</id>
+    <displayName>FRANKFORT, KS US</displayName>
+    <minDate>1894-11-01</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>39.7069</latitude>
+    <longitude>-96.4185</longitude>
+    <elevation>360.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332920</id>
+    <displayName>FRANKFORT, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1922-07-31</maxDate>
+    <latitude>39.416667</latitude>
+    <longitude>-83.166667</longitude>
+    <elevation>227.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403272</id>
+    <displayName>FRANKFORT, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.11667</latitude>
+    <longitude>-84.8</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MANF0003</id>
+    <displayName>FRANKLIN 0.7 NE, MA US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0944</latitude>
+    <longitude>-71.3776</longitude>
+    <elevation>76.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0019</id>
+    <displayName>FRANKLIN 0.8 NW, NC US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1899</latitude>
+    <longitude>-83.3911</longitude>
+    <elevation>665.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153036</id>
+    <displayName>FRANKLIN 1 E, KY US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.6877</latitude>
+    <longitude>-86.5061</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8273</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIMW0019</id>
+    <displayName>FRANKLIN 1.0 NW, WI US</displayName>
+    <minDate>2010-03-16</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>42.8975</latitude>
+    <longitude>-88.0217</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0014</id>
+    <displayName>FRANKLIN 1.5 S, NC US</displayName>
+    <minDate>2010-09-11</minDate>
+    <maxDate>2012-12-10</maxDate>
+    <latitude>35.1595</latitude>
+    <longitude>-83.3822</longitude>
+    <elevation>655.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0006</id>
+    <displayName>FRANKLIN 1.6 S, TN US</displayName>
+    <minDate>2007-04-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9057</latitude>
+    <longitude>-86.8419</longitude>
+    <elevation>222.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9362</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0014</id>
+    <displayName>FRANKLIN 1.8 WNW, TN US</displayName>
+    <minDate>2007-05-25</minDate>
+    <maxDate>2008-09-10</maxDate>
+    <latitude>35.935</latitude>
+    <longitude>-86.873</longitude>
+    <elevation>193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0003</id>
+    <displayName>FRANKLIN 1.9 N, NC US</displayName>
+    <minDate>2007-09-25</minDate>
+    <maxDate>2009-07-31</maxDate>
+    <latitude>35.2085</latitude>
+    <longitude>-83.3763</longitude>
+    <elevation>648.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123093</id>
+    <displayName>FRANKLIN 2 E, IN US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.4948</latitude>
+    <longitude>-86.0239</longitude>
+    <elevation>228.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00463215</id>
+    <displayName>FRANKLIN 2 NE, WV US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>2009-05-31</maxDate>
+    <latitude>38.6756</latitude>
+    <longitude>-79.3092</longitude>
+    <elevation>579.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6919</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123095</id>
+    <displayName>FRANKLIN 2 NNE, IN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1971-03-31</maxDate>
+    <latitude>39.51667</latitude>
+    <longitude>-86.06667</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.59</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253037</id>
+    <displayName>FRANKLIN 2, NE US</displayName>
+    <minDate>1990-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0952</latitude>
+    <longitude>-98.945</longitude>
+    <elevation>612.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0058</id>
+    <displayName>FRANKLIN 2.3 E, TN US</displayName>
+    <minDate>2011-05-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9353</latitude>
+    <longitude>-86.8009</longitude>
+    <elevation>230.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9169</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYSM0002</id>
+    <displayName>FRANKLIN 2.5 NE, KY US</displayName>
+    <minDate>2010-03-19</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>36.7556</latitude>
+    <longitude>-86.5433</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0062</id>
+    <displayName>FRANKLIN 2.8 W, TN US</displayName>
+    <minDate>2012-03-06</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>35.9251</latitude>
+    <longitude>-86.8922</longitude>
+    <elevation>207.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4493</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403285</id>
+    <displayName>FRANKLIN 3 NE, TN US</displayName>
+    <minDate>1949-01-02</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.95</latitude>
+    <longitude>-86.81667</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6337</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163313</id>
+    <displayName>FRANKLIN 3 NW, LA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.8233</latitude>
+    <longitude>-91.5441</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9654</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJH0004</id>
+    <displayName>FRANKLIN 3.0 S, IN US</displayName>
+    <minDate>2006-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4487</latitude>
+    <longitude>-86.0567</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9566</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0049</id>
+    <displayName>FRANKLIN 3.2 ESE, TN US</displayName>
+    <minDate>2009-03-21</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>35.9094</latitude>
+    <longitude>-86.7909</longitude>
+    <elevation>252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0025</id>
+    <displayName>FRANKLIN 3.3 SSW, TN US</displayName>
+    <minDate>2007-07-10</minDate>
+    <maxDate>2011-10-13</maxDate>
+    <latitude>35.8839</latitude>
+    <longitude>-86.8568</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7585</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIMW0010</id>
+    <displayName>FRANKLIN 3.5 NE, WI US</displayName>
+    <minDate>2007-08-03</minDate>
+    <maxDate>2011-05-14</maxDate>
+    <latitude>42.9223</latitude>
+    <longitude>-87.9601</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5163</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0061</id>
+    <displayName>FRANKLIN 3.6 E, TN US</displayName>
+    <minDate>2012-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9358</latitude>
+    <longitude>-86.7777</longitude>
+    <elevation>301.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8509</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0039</id>
+    <displayName>FRANKLIN 3.6 NW, TN US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9662</latitude>
+    <longitude>-86.8885</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7572</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0042</id>
+    <displayName>FRANKLIN 3.9 NW, TN US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2008-12-31</maxDate>
+    <latitude>35.9679</latitude>
+    <longitude>-86.8942</longitude>
+    <elevation>191.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0017</id>
+    <displayName>FRANKLIN 4.1 SSW, NC US</displayName>
+    <minDate>2012-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1257</latitude>
+    <longitude>-83.4077</longitude>
+    <elevation>688.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8652</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0012</id>
+    <displayName>FRANKLIN 4.4 ESE, NC US</displayName>
+    <minDate>2009-08-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1614</latitude>
+    <longitude>-83.3078</longitude>
+    <elevation>645</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9092</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0032</id>
+    <displayName>FRANKLIN 4.4 S, TN US</displayName>
+    <minDate>2007-07-14</minDate>
+    <maxDate>2010-12-30</maxDate>
+    <latitude>35.8668</latitude>
+    <longitude>-86.8514</longitude>
+    <elevation>221</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9858</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0004</id>
+    <displayName>FRANKLIN 4.9 NNW, NC US</displayName>
+    <minDate>2007-09-17</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>35.247</latitude>
+    <longitude>-83.414</longitude>
+    <elevation>602.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9393</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0008</id>
+    <displayName>FRANKLIN 4.9 S, NC US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2012-04-02</maxDate>
+    <latitude>35.1106</latitude>
+    <longitude>-83.3828</longitude>
+    <elevation>633.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8449</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0033</id>
+    <displayName>FRANKLIN 6.8 SW, TN US</displayName>
+    <minDate>2007-07-26</minDate>
+    <maxDate>2008-09-05</maxDate>
+    <latitude>35.8732</latitude>
+    <longitude>-86.9414</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3333</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0005</id>
+    <displayName>FRANKLIN 7.1 N, NC US</displayName>
+    <minDate>2007-09-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2834</latitude>
+    <longitude>-83.4001</longitude>
+    <elevation>647.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9422</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0002</id>
+    <displayName>FRANKLIN 7.3 E, NC US</displayName>
+    <minDate>2007-09-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1947</latitude>
+    <longitude>-83.2532</longitude>
+    <elevation>897.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMC0007</id>
+    <displayName>FRANKLIN 7.5 SW, NC US</displayName>
+    <minDate>2007-10-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0979</latitude>
+    <longitude>-83.4661</longitude>
+    <elevation>875.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9003</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWL0037</id>
+    <displayName>FRANKLIN 8.1 SSW, TN US</displayName>
+    <minDate>2007-08-06</minDate>
+    <maxDate>2011-12-08</maxDate>
+    <latitude>35.8279</latitude>
+    <longitude>-86.914</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9275</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011G32S</id>
+    <displayName>FRANKLIN BASIN, ID US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2008-09-29</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-111.6</longitude>
+    <elevation>2490.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503184</id>
+    <displayName>FRANKLIN BLUFF, AK US</displayName>
+    <minDate>1975-01-01</minDate>
+    <maxDate>1977-08-16</maxDate>
+    <latitude>69.71667</latitude>
+    <longitude>-148.68333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7112</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273182</id>
+    <displayName>FRANKLIN FALLS DAM, NH US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4669</latitude>
+    <longitude>-71.6663</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7366</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273172</id>
+    <displayName>FRANKLIN JUNCTION, NH US</displayName>
+    <minDate>1903-02-01</minDate>
+    <maxDate>1952-05-29</maxDate>
+    <latitude>43.41667</latitude>
+    <longitude>-71.65</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1577</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313224</id>
+    <displayName>FRANKLIN POWER HOUSE, NC US</displayName>
+    <minDate>1927-01-01</minDate>
+    <maxDate>1950-03-31</maxDate>
+    <latitude>35.21667</latitude>
+    <longitude>-83.36667</longitude>
+    <elevation>609.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8613</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OFRA</id>
+    <displayName>FRANKLIN RIDGE OREGON, OR US</displayName>
+    <minDate>1985-01-12</minDate>
+    <maxDate>1990-02-06</maxDate>
+    <latitude>44.4833</latitude>
+    <longitude>-123.5667</longitude>
+    <elevation>1083.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8672</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00403280</id>
+    <displayName>FRANKLIN SEWAGE PLANT, TN US</displayName>
+    <minDate>1891-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9417</latitude>
+    <longitude>-86.8685</longitude>
+    <elevation>199.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFR0007</id>
+    <displayName>FRANKLIN SPRINGS 2.3 WNW, GA US</displayName>
+    <minDate>2008-09-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2922</latitude>
+    <longitude>-83.1854</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJHN0009</id>
+    <displayName>FRANKLIN TWP 0.4 W, NJ US</displayName>
+    <minDate>2008-04-27</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>40.5663</latitude>
+    <longitude>-74.9443</longitude>
+    <elevation>196.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6253</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJHN0006</id>
+    <displayName>FRANKLIN TWP 1.6 NW, NJ US</displayName>
+    <minDate>2008-03-14</minDate>
+    <maxDate>2009-01-05</maxDate>
+    <latitude>40.5799</latitude>
+    <longitude>-74.9605</longitude>
+    <elevation>122.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSM0003</id>
+    <displayName>FRANKLIN TWP 2.1 ENE, NJ US</displayName>
+    <minDate>2008-02-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.493</latitude>
+    <longitude>-74.5175</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0015</id>
+    <displayName>FRANKLIN TWP 2.3 ESE, NJ US</displayName>
+    <minDate>2009-08-09</minDate>
+    <maxDate>2009-12-30</maxDate>
+    <latitude>40.7052</latitude>
+    <longitude>-75.0081</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8542</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJGL0006</id>
+    <displayName>FRANKLIN TWP 2.7 W, NJ US</displayName>
+    <minDate>2008-06-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5936</latitude>
+    <longitude>-75.0692</longitude>
+    <elevation>27.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJHN0004</id>
+    <displayName>FRANKLIN TWP 2.8 NNE, NJ US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.6055</latitude>
+    <longitude>-74.9224</longitude>
+    <elevation>77.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9337</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJWR0012</id>
+    <displayName>FRANKLIN TWP 2.9 E, NJ US</displayName>
+    <minDate>2009-08-04</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>40.7103</latitude>
+    <longitude>-74.9942</longitude>
+    <elevation>130.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3043</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSM0012</id>
+    <displayName>FRANKLIN TWP 3.8 ENE, NJ US</displayName>
+    <minDate>2009-04-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.5006</latitude>
+    <longitude>-74.4875</longitude>
+    <elevation>25.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9124</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJGL0005</id>
+    <displayName>FRANKLIN TWP 4.4 SE, NJ US</displayName>
+    <minDate>2008-04-27</minDate>
+    <maxDate>2009-10-11</maxDate>
+    <latitude>39.529</latitude>
+    <longitude>-74.9921</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.272</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSM0007</id>
+    <displayName>FRANKLIN TWP 4.5 NW, NJ US</displayName>
+    <minDate>2008-05-07</minDate>
+    <maxDate>2011-08-28</maxDate>
+    <latitude>40.5266</latitude>
+    <longitude>-74.5792</longitude>
+    <elevation>22.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.201</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSM0039</id>
+    <displayName>FRANKLIN TWP 4.6 NNW, NJ US</displayName>
+    <minDate>2012-03-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5462</latitude>
+    <longitude>-74.5287</longitude>
+    <elevation>15.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123091</id>
+    <displayName>FRANKLIN WWTP, IN US</displayName>
+    <minDate>1993-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4688</latitude>
+    <longitude>-86.0408</longitude>
+    <elevation>219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9422</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00093567</id>
+    <displayName>FRANKLIN, GA US</displayName>
+    <minDate>1897-04-11</minDate>
+    <maxDate>1972-08-31</maxDate>
+    <latitude>33.28333</latitude>
+    <longitude>-85.1</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4073</coverage>
+  </station>
+</stationCollection>

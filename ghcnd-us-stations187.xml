@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="187">
+  <station>
+    <id>GHCND:US1ALSH0025</id>
+    <displayName>HELENA 1.8 SE, AL US</displayName>
+    <minDate>2007-10-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2753</latitude>
+    <longitude>-86.8268</longitude>
+    <elevation>188.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTLC0004</id>
+    <displayName>HELENA 10.6 N, MT US</displayName>
+    <minDate>2007-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.7459</latitude>
+    <longitude>-112.0314</longitude>
+    <elevation>1242.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8288</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244060</id>
+    <displayName>HELENA 2, MT US</displayName>
+    <minDate>1997-04-01</minDate>
+    <maxDate>2003-01-31</maxDate>
+    <latitude>46.6175</latitude>
+    <longitude>-111.93444</longitude>
+    <elevation>1163.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8799</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTLC0012</id>
+    <displayName>HELENA 2.5 NNW, MT US</displayName>
+    <minDate>2012-07-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.6284</latitude>
+    <longitude>-112.0437</longitude>
+    <elevation>1164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPH0001</id>
+    <displayName>HELENA 3.0 SSW, AR US</displayName>
+    <minDate>2009-04-09</minDate>
+    <maxDate>2012-10-29</maxDate>
+    <latitude>34.4871</latitude>
+    <longitude>-90.629</longitude>
+    <elevation>56.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4546</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTLC0006</id>
+    <displayName>HELENA 4.3 ENE, MT US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2012-01-20</maxDate>
+    <latitude>46.6197</latitude>
+    <longitude>-111.936</longitude>
+    <elevation>1154</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1441</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAWE0001</id>
+    <displayName>HELENA 4.6 N, GA US</displayName>
+    <minDate>2008-10-19</minDate>
+    <maxDate>2012-11-03</maxDate>
+    <latitude>32.1463</latitude>
+    <longitude>-82.9068</longitude>
+    <elevation>75</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.543</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244050</id>
+    <displayName>HELENA 6 N, MT US</displayName>
+    <minDate>1923-08-01</minDate>
+    <maxDate>1979-06-30</maxDate>
+    <latitude>46.66667</latitude>
+    <longitude>-112.05</longitude>
+    <elevation>1158.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9951</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MHEL</id>
+    <displayName>HELENA MONTANA, MT US</displayName>
+    <minDate>2000-07-11</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.7186</latitude>
+    <longitude>-112.0017</longitude>
+    <elevation>1170.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9396</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024144</id>
+    <displayName>HELENA REGIONAL AIRPORT, MT US</displayName>
+    <minDate>1938-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.6056</latitude>
+    <longitude>-111.9636</longitude>
+    <elevation>1166.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013781</id>
+    <displayName>HELENA, AL US</displayName>
+    <minDate>2000-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.2725</latitude>
+    <longitude>-86.83361</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00013783</id>
+    <displayName>HELENA, AL US</displayName>
+    <minDate>1900-09-01</minDate>
+    <maxDate>1951-08-31</maxDate>
+    <latitude>33.28333</latitude>
+    <longitude>-86.85</longitude>
+    <elevation>126.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7085</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033242</id>
+    <displayName>HELENA, AR US</displayName>
+    <minDate>1892-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.5211</latitude>
+    <longitude>-90.5899</longitude>
+    <elevation>59.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094238</id>
+    <displayName>HELENA, GA US</displayName>
+    <minDate>1907-02-06</minDate>
+    <maxDate>1911-08-31</maxDate>
+    <latitude>32.066667</latitude>
+    <longitude>-82.916667</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094104</id>
+    <displayName>HELENA, MT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1955-01-31</maxDate>
+    <latitude>46.58333</latitude>
+    <longitude>-112.03333</longitude>
+    <elevation>1263.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CHEL</id>
+    <displayName>HELL HOLE CALIFORNIA, CA US</displayName>
+    <minDate>1989-06-21</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>39.0717</latitude>
+    <longitude>-120.4217</longitude>
+    <elevation>1597.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.849</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203712</id>
+    <displayName>HELL, MI US</displayName>
+    <minDate>1994-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4344</latitude>
+    <longitude>-83.9858</longitude>
+    <elevation>271.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7393</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PANH0004</id>
+    <displayName>HELLERTOWN 0.3 NNE, PA US</displayName>
+    <minDate>2007-08-28</minDate>
+    <maxDate>2008-02-17</maxDate>
+    <latitude>40.5847</latitude>
+    <longitude>-75.3359</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MHHS</id>
+    <displayName>HELLS HALF SADDLE MONTANA, ID US</displayName>
+    <minDate>2002-08-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.6453</latitude>
+    <longitude>-114.6278</longitude>
+    <elevation>2468.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7126</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAFR0008</id>
+    <displayName>HELM 2.7 NNE, CA US</displayName>
+    <minDate>2010-03-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.5702</latitude>
+    <longitude>-120.0892</longitude>
+    <elevation>55.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHLM</id>
+    <displayName>HELM ALASKA, AK US</displayName>
+    <minDate>1989-09-25</minDate>
+    <maxDate>2012-08-28</maxDate>
+    <latitude>55.5297</latitude>
+    <longitude>-131.3661</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2558</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023975</id>
+    <displayName>HELMET PEAK RUBY STATION, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1950-01-31</maxDate>
+    <latitude>31.91667</latitude>
+    <longitude>-111.08333</longitude>
+    <elevation>1110.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027330</id>
+    <displayName>HELMET PEAK RUBY STATION, AZ US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>1983-10-31</maxDate>
+    <latitude>31.91667</latitude>
+    <longitude>-111.08333</longitude>
+    <elevation>1110.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9162</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023973</id>
+    <displayName>HELMET PEAK, AZ US</displayName>
+    <minDate>1940-10-19</minDate>
+    <maxDate>1954-07-31</maxDate>
+    <latitude>31.95</latitude>
+    <longitude>-111.05</longitude>
+    <elevation>982.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AHEL</id>
+    <displayName>HELMUT MOUNTAIN ALASKA, AK US</displayName>
+    <minDate>1988-09-22</minDate>
+    <maxDate>2011-05-10</maxDate>
+    <latitude>67.7414</latitude>
+    <longitude>-144.1225</longitude>
+    <elevation>853.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7155</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303769</id>
+    <displayName>HELMUTH FIRE CONTROL, NY US</displayName>
+    <minDate>1997-07-01</minDate>
+    <maxDate>1999-01-31</maxDate>
+    <latitude>42.485</latitude>
+    <longitude>-78.93667</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303354</id>
+    <displayName>HELMUTH FIRE CONTROL, NY US</displayName>
+    <minDate>1945-11-01</minDate>
+    <maxDate>1997-06-30</maxDate>
+    <latitude>42.485</latitude>
+    <longitude>-78.93667</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR014</id>
+    <displayName>HELOTES 1.0 ENE, TX US</displayName>
+    <minDate>2007-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.572</latitude>
+    <longitude>-98.678</longitude>
+    <elevation>321</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9315</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR174</id>
+    <displayName>HELOTES 1.3 NE, TX US</displayName>
+    <minDate>2010-11-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.5824</latitude>
+    <longitude>-98.6793</longitude>
+    <elevation>372.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR087</id>
+    <displayName>HELOTES 1.3 NNW, TX US</displayName>
+    <minDate>2008-04-21</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.5853</latitude>
+    <longitude>-98.7011</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7422</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR192</id>
+    <displayName>HELOTES 2.4 NNW, TX US</displayName>
+    <minDate>2012-03-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.599</latitude>
+    <longitude>-98.7127</longitude>
+    <elevation>367.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR159</id>
+    <displayName>HELOTES 2.4 SE, TX US</displayName>
+    <minDate>2007-07-31</minDate>
+    <maxDate>2010-07-02</maxDate>
+    <latitude>29.5445</latitude>
+    <longitude>-98.6632</longitude>
+    <elevation>302.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1863</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR003</id>
+    <displayName>HELOTES 3.4 SSE, TX US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2009-04-30</maxDate>
+    <latitude>29.5219</latitude>
+    <longitude>-98.6741</longitude>
+    <elevation>289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR095</id>
+    <displayName>HELOTES 3.7 SSE, TX US</displayName>
+    <minDate>2008-04-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.517</latitude>
+    <longitude>-98.675</longitude>
+    <elevation>285</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR038</id>
+    <displayName>HELOTES 4.5 WSW, TX US</displayName>
+    <minDate>2007-09-12</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>29.5493</latitude>
+    <longitude>-98.7645</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3515</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR077</id>
+    <displayName>HELOTES 5.7 SSW, TX US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2008-06-30</maxDate>
+    <latitude>29.4938</latitude>
+    <longitude>-98.7347</longitude>
+    <elevation>296.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9531</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423836</id>
+    <displayName>HELPER CARBON PLANT, UT US</displayName>
+    <minDate>1980-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7272</latitude>
+    <longitude>-110.8661</longitude>
+    <elevation>1859.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7616</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313957</id>
+    <displayName>HELTON, NC US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>1958-04-11</maxDate>
+    <latitude>36.56306</latitude>
+    <longitude>-81.50389</longitude>
+    <elevation>865.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9028</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023981</id>
+    <displayName>HELVETIA SANTA RITA, AZ US</displayName>
+    <minDate>1916-06-01</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>31.86667</latitude>
+    <longitude>-110.78333</longitude>
+    <elevation>1311.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00464045</id>
+    <displayName>HELVETIA, WV US</displayName>
+    <minDate>1877-01-01</minDate>
+    <maxDate>1889-01-31</maxDate>
+    <latitude>38.5</latitude>
+    <longitude>-80</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CARV0005</id>
+    <displayName>HEMET 4.1 ENE, CA US</displayName>
+    <minDate>2008-10-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7527</latitude>
+    <longitude>-116.9196</longitude>
+    <elevation>517.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043896</id>
+    <displayName>HEMET, CA US</displayName>
+    <minDate>1917-01-17</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.7381</latitude>
+    <longitude>-116.8939</longitude>
+    <elevation>552</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7314</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10box_005</id>
+    <displayName>HEMINGFORD 0.2 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2011-05-27</maxDate>
+    <latitude>42.3195</latitude>
+    <longitude>-103.0705</longitude>
+    <elevation>1299.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dawe015</id>
+    <displayName>HEMINGFORD 10.1 NNE, NE US</displayName>
+    <minDate>2007-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4525</latitude>
+    <longitude>-102.9868</longitude>
+    <elevation>1195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dawe023</id>
+    <displayName>HEMINGFORD 12.0 NE, NE US</displayName>
+    <minDate>2010-05-01</minDate>
+    <maxDate>2012-06-20</maxDate>
+    <latitude>42.457</latitude>
+    <longitude>-102.9293</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dawe018</id>
+    <displayName>HEMINGFORD 13.2 N, NE US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.5116</latitude>
+    <longitude>-103.1096</longitude>
+    <elevation>1268.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9478</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10box_008</id>
+    <displayName>HEMINGFORD 4.9 SW, NE US</displayName>
+    <minDate>2007-04-24</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>42.2712</latitude>
+    <longitude>-103.141</longitude>
+    <elevation>1310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8416</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10box_006</id>
+    <displayName>HEMINGFORD 5.1 ENE, NE US</displayName>
+    <minDate>2007-02-04</minDate>
+    <maxDate>2010-07-09</maxDate>
+    <latitude>42.3653</latitude>
+    <longitude>-102.9952</longitude>
+    <elevation>1271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253757</id>
+    <displayName>HEMINGFORD, NE US</displayName>
+    <minDate>1909-10-01</minDate>
+    <maxDate>1919-03-31</maxDate>
+    <latitude>42.316667</latitude>
+    <longitude>-103.016667</longitude>
+    <elevation>1379.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.94</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253755</id>
+    <displayName>HEMINGFORD, NE US</displayName>
+    <minDate>1964-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3208</latitude>
+    <longitude>-103.0733</longitude>
+    <elevation>1301.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGT0005</id>
+    <displayName>HEMINGWAY 11.6 SE, SC US</displayName>
+    <minDate>2009-12-24</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>33.6267</latitude>
+    <longitude>-79.3127</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3205</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGT0015</id>
+    <displayName>HEMINGWAY 6.3 SE, SC US</displayName>
+    <minDate>2010-12-02</minDate>
+    <maxDate>2011-11-29</maxDate>
+    <latitude>33.6814</latitude>
+    <longitude>-79.3766</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3609</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00384111</id>
+    <displayName>HEMINGWAY 8 ESE, SC US</displayName>
+    <minDate>2004-03-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>33.6789</latitude>
+    <longitude>-79.3808</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015C06S</id>
+    <displayName>HEMLOCK BUTTE, ID US</displayName>
+    <minDate>1983-07-16</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.4833</latitude>
+    <longitude>-115.6333</longitude>
+    <elevation>1770.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303773</id>
+    <displayName>HEMLOCK, NY US</displayName>
+    <minDate>1898-05-05</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.7743</latitude>
+    <longitude>-77.6083</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00063583</id>
+    <displayName>HEMLOCKS RESERVOIR, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>41.23333</latitude>
+    <longitude>-73.26667</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9531</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414077</id>
+    <displayName>HEMPHILL 6 NE, TX US</displayName>
+    <minDate>1992-02-01</minDate>
+    <maxDate>2011-11-05</maxDate>
+    <latitude>31.4072</latitude>
+    <longitude>-93.7841</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXSB0001</id>
+    <displayName>HEMPHILL 8.6 E, TX US</displayName>
+    <minDate>2009-03-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.3206</latitude>
+    <longitude>-93.7072</longitude>
+    <elevation>70.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.448</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414076</id>
+    <displayName>HEMPHILL, TX US</displayName>
+    <minDate>1967-06-01</minDate>
+    <maxDate>1992-01-31</maxDate>
+    <latitude>31.35</latitude>
+    <longitude>-93.83333</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWA0003</id>
+    <displayName>HEMPSTEAD 10.0 NNW, TX US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2299</latitude>
+    <longitude>-96.1356</longitude>
+    <elevation>75</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303781</id>
+    <displayName>HEMPSTEAD GARDEN CIT, NY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>40.71667</latitude>
+    <longitude>-73.63333</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9263</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303786</id>
+    <displayName>HEMPSTEAD MALVERNE, NY US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1966-05-31</maxDate>
+    <latitude>40.68333</latitude>
+    <longitude>-73.66667</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9505</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014708</id>
+    <displayName>HEMPSTEAD MITCHELL FIELD AFB, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1961-04-15</maxDate>
+    <latitude>40.73333</latitude>
+    <longitude>-73.6</longitude>
+    <elevation>38.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414080</id>
+    <displayName>HEMPSTEAD, TX US</displayName>
+    <minDate>1903-09-30</minDate>
+    <maxDate>1978-09-30</maxDate>
+    <latitude>30.1</latitude>
+    <longitude>-96.08333</longitude>
+    <elevation>76.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094243</id>
+    <displayName>HEMPTOWN GAP, GA US</displayName>
+    <minDate>1935-02-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.86667</latitude>
+    <longitude>-84.11667</longitude>
+    <elevation>637</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7205</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYHS0001</id>
+    <displayName>HENDERSON 0.4 SSW, KY US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8339</latitude>
+    <longitude>-87.584</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9286</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNCS0003</id>
+    <displayName>HENDERSON 1.1 NNW, TN US</displayName>
+    <minDate>2007-11-02</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.4581</latitude>
+    <longitude>-88.6583</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRS0003</id>
+    <displayName>HENDERSON 1.8 N, TX US</displayName>
+    <minDate>2011-05-28</minDate>
+    <maxDate>2012-09-04</maxDate>
+    <latitude>32.1832</latitude>
+    <longitude>-94.7966</longitude>
+    <elevation>138.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4335</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313969</id>
+    <displayName>HENDERSON 2 NNW, NC US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3481</latitude>
+    <longitude>-78.4119</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033258</id>
+    <displayName>HENDERSON 2 W, AR US</displayName>
+    <minDate>1941-09-12</minDate>
+    <maxDate>1960-07-31</maxDate>
+    <latitude>36.36667</latitude>
+    <longitude>-92.26667</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9553</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164186</id>
+    <displayName>HENDERSON 2 W, LA US</displayName>
+    <minDate>1962-04-01</minDate>
+    <maxDate>1967-01-31</maxDate>
+    <latitude>30.31667</latitude>
+    <longitude>-91.81667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCVN0007</id>
+    <displayName>HENDERSON 2.4 NW, NC US</displayName>
+    <minDate>2012-05-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3532</latitude>
+    <longitude>-78.4365</longitude>
+    <elevation>128.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york024</id>
+    <displayName>HENDERSON 2.5 N, NE US</displayName>
+    <minDate>2011-01-09</minDate>
+    <maxDate>2012-11-20</maxDate>
+    <latitude>40.816</latitude>
+    <longitude>-97.806</longitude>
+    <elevation>524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.437</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCVN0005</id>
+    <displayName>HENDERSON 2.5 NNE, NC US</displayName>
+    <minDate>2009-02-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3558</latitude>
+    <longitude>-78.3896</longitude>
+    <elevation>152.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9737</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0034</id>
+    <displayName>HENDERSON 2.5 SE, NV US</displayName>
+    <minDate>2010-02-06</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.0065</latitude>
+    <longitude>-114.9734</longitude>
+    <elevation>684.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2144</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCVN0003</id>
+    <displayName>HENDERSON 2.5 WSW, NC US</displayName>
+    <minDate>2009-01-29</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>36.3136</latitude>
+    <longitude>-78.4538</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213678</id>
+    <displayName>HENDERSON 3 W, MN US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2011-02-11</maxDate>
+    <latitude>44.53556</latitude>
+    <longitude>-93.97</longitude>
+    <elevation>297.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york028</id>
+    <displayName>HENDERSON 3.4 ENE, NE US</displayName>
+    <minDate>2007-03-30</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>40.793</latitude>
+    <longitude>-97.7499</longitude>
+    <elevation>512.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0001</id>
+    <displayName>HENDERSON 3.9 WNW, NV US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2007-12-03</maxDate>
+    <latitude>36.0632</latitude>
+    <longitude>-115.0627</longitude>
+    <elevation>544.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404033</id>
+    <displayName>HENDERSON 4 W, TN US</displayName>
+    <minDate>2002-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4442</latitude>
+    <longitude>-88.7244</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9381</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAD0105</id>
+    <displayName>HENDERSON 4.1 SSW, CO US</displayName>
+    <minDate>2007-02-21</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>39.8696</latitude>
+    <longitude>-104.9107</longitude>
+    <elevation>1544.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york026</id>
+    <displayName>HENDERSON 4.6 ENE, NE US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2007-10-24</maxDate>
+    <latitude>40.8121</latitude>
+    <longitude>-97.7354</longitude>
+    <elevation>516.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0029</id>
+    <displayName>HENDERSON 4.7 NE, NV US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0802</latitude>
+    <longitude>-114.9397</longitude>
+    <elevation>514.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9571</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0026</id>
+    <displayName>HENDERSON 5.9 W, NV US</displayName>
+    <minDate>2008-02-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0488</latitude>
+    <longitude>-115.1066</longitude>
+    <elevation>627.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRS0001</id>
+    <displayName>HENDERSON 6.1 NW, TX US</displayName>
+    <minDate>2006-08-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2171</latitude>
+    <longitude>-94.8743</longitude>
+    <elevation>157.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRS0004</id>
+    <displayName>HENDERSON 6.9 WNW, TX US</displayName>
+    <minDate>2011-11-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1818</latitude>
+    <longitude>-94.9107</longitude>
+    <elevation>120.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0037</id>
+    <displayName>HENDERSON 7.6 SW, NV US</displayName>
+    <minDate>2010-03-04</minDate>
+    <maxDate>2012-03-28</maxDate>
+    <latitude>35.9507</latitude>
+    <longitude>-115.0907</longitude>
+    <elevation>892.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8624</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153762</id>
+    <displayName>HENDERSON 8 SSW, KY US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.7558</latitude>
+    <longitude>-87.6455</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8001</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153768</id>
+    <displayName>HENDERSON STATE POLI, KY US</displayName>
+    <minDate>1981-05-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>37.7922</latitude>
+    <longitude>-87.5708</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9512</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000THEN</id>
+    <displayName>HENDERSON TEXAS, TX US</displayName>
+    <minDate>2000-12-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.15</latitude>
+    <longitude>-94.8</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9231</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414081</id>
+    <displayName>HENDERSON, TX US</displayName>
+    <minDate>1908-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1809</latitude>
+    <longitude>-94.7963</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSR0016</id>
+    <displayName>HENDERSONVILLE 0.8 SSW, TN US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2009-12-09</maxDate>
+    <latitude>36.2836</latitude>
+    <longitude>-86.6088</longitude>
+    <elevation>146</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8213</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSR0006</id>
+    <displayName>HENDERSONVILLE 0.9 ESE, TN US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2871</latitude>
+    <longitude>-86.5897</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3542</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSR0027</id>
+    <displayName>HENDERSONVILLE 0.9 WNW, TN US</displayName>
+    <minDate>2007-07-24</minDate>
+    <maxDate>2008-01-16</maxDate>
+    <latitude>36.2992</latitude>
+    <longitude>-86.6188</longitude>
+    <elevation>146.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8475</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313976</id>
+    <displayName>HENDERSONVILLE 1 NE, NC US</displayName>
+    <minDate>1898-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.32972</latitude>
+    <longitude>-82.44917</longitude>
+    <elevation>658.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9849</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSR0031</id>
+    <displayName>HENDERSONVILLE 2.3 NE, TN US</displayName>
+    <minDate>2007-07-09</minDate>
+    <maxDate>2008-03-11</maxDate>
+    <latitude>36.3157</latitude>
+    <longitude>-86.5712</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSR0011</id>
+    <displayName>HENDERSONVILLE 2.9 NE, TN US</displayName>
+    <minDate>2007-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3189</latitude>
+    <longitude>-86.5612</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9641</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHN0005</id>
+    <displayName>HENDERSONVILLE 3.0 NNW, NC US</displayName>
+    <minDate>2007-11-18</minDate>
+    <maxDate>2009-01-07</maxDate>
+    <latitude>35.3638</latitude>
+    <longitude>-82.4753</longitude>
+    <elevation>646.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5755</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHN0016</id>
+    <displayName>HENDERSONVILLE 3.4 NW, NC US</displayName>
+    <minDate>2010-01-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3578</latitude>
+    <longitude>-82.5039</longitude>
+    <elevation>671.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5032</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSR0040</id>
+    <displayName>HENDERSONVILLE 3.6 WNW, TN US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2012-12-02</maxDate>
+    <latitude>36.3208</latitude>
+    <longitude>-86.659</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9534</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="66">
+  <station>
+    <id>GHCND:USR0000MCSA</id>
+    <displayName>CARLOS AVERY MINNESOTA, MN US</displayName>
+    <minDate>2003-05-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.3028</latitude>
+    <longitude>-93.1011</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9172</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0004</id>
+    <displayName>CARLSBAD 0.9 NNW, NM US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4168</latitude>
+    <longitude>-104.2407</longitude>
+    <elevation>951</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0029</id>
+    <displayName>CARLSBAD 1.1 NNE, NM US</displayName>
+    <minDate>2008-07-27</minDate>
+    <maxDate>2011-11-14</maxDate>
+    <latitude>32.4176</latitude>
+    <longitude>-104.2276</longitude>
+    <elevation>945.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0062</id>
+    <displayName>CARLSBAD 1.1 WSW, CA US</displayName>
+    <minDate>2011-10-18</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.1186</latitude>
+    <longitude>-117.3044</longitude>
+    <elevation>51.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5388</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0006</id>
+    <displayName>CARLSBAD 1.8 ESE, NM US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2008-09-09</maxDate>
+    <latitude>32.3948</latitude>
+    <longitude>-104.2074</longitude>
+    <elevation>951</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9913</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0038</id>
+    <displayName>CARLSBAD 1.9 NW, NM US</displayName>
+    <minDate>2010-04-18</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.4216</latitude>
+    <longitude>-104.2629</longitude>
+    <elevation>978.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.909</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0021</id>
+    <displayName>CARLSBAD 17.1 NW PRICE, NM US</displayName>
+    <minDate>2006-05-26</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.5786</latitude>
+    <longitude>-104.4461</longitude>
+    <elevation>1026</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8656</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0025</id>
+    <displayName>CARLSBAD 19.8 WNW, NM US</displayName>
+    <minDate>2007-06-29</minDate>
+    <maxDate>2011-05-31</maxDate>
+    <latitude>32.4676</latitude>
+    <longitude>-104.5687</longitude>
+    <elevation>1129.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0011</id>
+    <displayName>CARLSBAD 2.0 N, NM US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4322</latitude>
+    <longitude>-104.2302</longitude>
+    <elevation>951</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9604</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0001</id>
+    <displayName>CARLSBAD 2.1 NE, NM US</displayName>
+    <minDate>2005-07-14</minDate>
+    <maxDate>2008-10-06</maxDate>
+    <latitude>32.4279</latitude>
+    <longitude>-104.2141</longitude>
+    <elevation>953.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9119</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0023</id>
+    <displayName>CARLSBAD 2.1 NNW, NM US</displayName>
+    <minDate>2007-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4309</latitude>
+    <longitude>-104.254</longitude>
+    <elevation>962.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0034</id>
+    <displayName>CARLSBAD 2.2 N, NM US</displayName>
+    <minDate>2009-01-09</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>32.4363</latitude>
+    <longitude>-104.2341</longitude>
+    <elevation>951.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0034</id>
+    <displayName>CARLSBAD 2.4 WNW, CA US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>33.143</latitude>
+    <longitude>-117.3205</longitude>
+    <elevation>6.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2303</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTG0022</id>
+    <displayName>CARLSBAD 2.4 WNW, TX US</displayName>
+    <minDate>2011-10-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6205</latitude>
+    <longitude>-100.6798</longitude>
+    <elevation>615.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0012</id>
+    <displayName>CARLSBAD 2.5 S, NM US</displayName>
+    <minDate>2007-02-27</minDate>
+    <maxDate>2009-12-01</maxDate>
+    <latitude>32.3675</latitude>
+    <longitude>-104.2346</longitude>
+    <elevation>969.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0039</id>
+    <displayName>CARLSBAD 2.6 NNW, NM US</displayName>
+    <minDate>2011-05-07</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>32.436</latitude>
+    <longitude>-104.261</longitude>
+    <elevation>968</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0033</id>
+    <displayName>CARLSBAD 2.7 SSW, NM US</displayName>
+    <minDate>2008-10-01</minDate>
+    <maxDate>2009-06-30</maxDate>
+    <latitude>32.367</latitude>
+    <longitude>-104.2514</longitude>
+    <elevation>976</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0022</id>
+    <displayName>CARLSBAD 2.9 N, NM US</displayName>
+    <minDate>2007-03-22</minDate>
+    <maxDate>2012-11-18</maxDate>
+    <latitude>32.4461</latitude>
+    <longitude>-104.2458</longitude>
+    <elevation>955.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.072</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0037</id>
+    <displayName>CARLSBAD 3.1 SSE, NM US</displayName>
+    <minDate>2009-12-02</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>32.3635</latitude>
+    <longitude>-104.2144</longitude>
+    <elevation>961.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0002</id>
+    <displayName>CARLSBAD 3.4 N, NM US</displayName>
+    <minDate>2005-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4539</latitude>
+    <longitude>-104.2378</longitude>
+    <elevation>955.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0018</id>
+    <displayName>CARLSBAD 33.3 WSW, NM US</displayName>
+    <minDate>2007-03-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1908</latitude>
+    <longitude>-104.7477</longitude>
+    <elevation>1784</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9404</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0008</id>
+    <displayName>CARLSBAD 5.4 S, NM US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2007-05-07</maxDate>
+    <latitude>32.3258</latitude>
+    <longitude>-104.228</longitude>
+    <elevation>975.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0031</id>
+    <displayName>CARLSBAD 5.4 SE, NM US</displayName>
+    <minDate>2008-09-07</minDate>
+    <maxDate>2009-12-21</maxDate>
+    <latitude>32.341</latitude>
+    <longitude>-104.1834</longitude>
+    <elevation>950.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9214</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0017</id>
+    <displayName>CARLSBAD 5.6 S, NM US</displayName>
+    <minDate>2007-03-02</minDate>
+    <maxDate>2009-07-18</maxDate>
+    <latitude>32.324</latitude>
+    <longitude>-104.2527</longitude>
+    <elevation>990</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7483</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0013</id>
+    <displayName>CARLSBAD 6.2 S, NM US</displayName>
+    <minDate>2007-03-12</minDate>
+    <maxDate>2008-11-05</maxDate>
+    <latitude>32.3147</latitude>
+    <longitude>-104.2253</longitude>
+    <elevation>977.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9769</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093033</id>
+    <displayName>CARLSBAD CAVERN CITY AIRPORT, NM US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3335</latitude>
+    <longitude>-104.258</longitude>
+    <elevation>985.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8302</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291480</id>
+    <displayName>CARLSBAD CAVERNS, NM US</displayName>
+    <minDate>1935-01-01</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>32.1783</latitude>
+    <longitude>-104.4433</longitude>
+    <elevation>1351.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9568</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003177</id>
+    <displayName>CARLSBAD MCCLELLAN PALOMAR AIRPORT, CA US</displayName>
+    <minDate>1998-02-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.12806</latitude>
+    <longitude>-117.27944</longitude>
+    <elevation>100</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMED0019</id>
+    <displayName>CARLSBAD NORTH 15.5 NW, NM US</displayName>
+    <minDate>2006-04-12</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.5979</latitude>
+    <longitude>-104.4195</longitude>
+    <elevation>1011</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8514</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291469</id>
+    <displayName>CARLSBAD, NM US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3479</latitude>
+    <longitude>-104.2224</longitude>
+    <elevation>951</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAMA0004</id>
+    <displayName>CARLTON 1.4 NW, GA US</displayName>
+    <minDate>2008-04-03</minDate>
+    <maxDate>2011-01-21</maxDate>
+    <latitude>34.0751</latitude>
+    <longitude>-83.007</longitude>
+    <elevation>152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8809</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOG0021</id>
+    <displayName>CARLTON 1.9 SSE, GA US</displayName>
+    <minDate>2010-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0186</latitude>
+    <longitude>-83.0234</longitude>
+    <elevation>182</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7357</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00351365</id>
+    <displayName>CARLTON 13 W, OR US</displayName>
+    <minDate>1905-07-01</minDate>
+    <maxDate>1951-06-30</maxDate>
+    <latitude>45.31667</latitude>
+    <longitude>-123.43333</longitude>
+    <elevation>595</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCMN002</id>
+    <displayName>CARLTON 5.0 WSW, TX US</displayName>
+    <minDate>2010-02-22</minDate>
+    <maxDate>2010-06-30</maxDate>
+    <latitude>31.9023</latitude>
+    <longitude>-98.2554</longitude>
+    <elevation>356.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCN0001</id>
+    <displayName>CARLTON 5.6 NE, MN US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.7078</latitude>
+    <longitude>-92.3279</longitude>
+    <elevation>362.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9254</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091601</id>
+    <displayName>CARLTON BRIDGE, GA US</displayName>
+    <minDate>1899-03-01</minDate>
+    <maxDate>1962-04-30</maxDate>
+    <latitude>34.06667</latitude>
+    <longitude>-82.98333</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241518</id>
+    <displayName>CARLYLE 13 NW, MT US</displayName>
+    <minDate>1962-04-15</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>46.7446</latitude>
+    <longitude>-104.309</longitude>
+    <elevation>957.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111290</id>
+    <displayName>CARLYLE RESERVOIR, IL US</displayName>
+    <minDate>1962-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6308</latitude>
+    <longitude>-89.3658</longitude>
+    <elevation>152.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9116</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111288</id>
+    <displayName>CARLYLE, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1964-02-29</maxDate>
+    <latitude>38.6</latitude>
+    <longitude>-89.36667</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5255</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0017</id>
+    <displayName>CARMEL 0.9 ESE, IN US</displayName>
+    <minDate>2006-12-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9653</latitude>
+    <longitude>-86.0924</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9671</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0007</id>
+    <displayName>CARMEL 1.3 NNE, IN US</displayName>
+    <minDate>2006-12-31</minDate>
+    <maxDate>2009-06-20</maxDate>
+    <latitude>39.9867</latitude>
+    <longitude>-86.1018</longitude>
+    <elevation>256.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4153</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0034</id>
+    <displayName>CARMEL 1.4 NNE, IN US</displayName>
+    <minDate>2010-02-26</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>39.9879</latitude>
+    <longitude>-86.1015</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.583</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0005</id>
+    <displayName>CARMEL 1.5 W, IN US</displayName>
+    <minDate>2006-06-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9685</latitude>
+    <longitude>-86.1369</longitude>
+    <elevation>256.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9913</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0014</id>
+    <displayName>CARMEL 1.6 NNE, IN US</displayName>
+    <minDate>2006-12-21</minDate>
+    <maxDate>2007-10-08</maxDate>
+    <latitude>39.9906</latitude>
+    <longitude>-86.0983</longitude>
+    <elevation>255.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7295</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0009</id>
+    <displayName>CARMEL 1.7 ENE, IN US</displayName>
+    <minDate>2006-12-19</minDate>
+    <maxDate>2009-08-19</maxDate>
+    <latitude>39.98</latitude>
+    <longitude>-86.08</longitude>
+    <elevation>239</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4708</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0016</id>
+    <displayName>CARMEL 1.8 E, IN US</displayName>
+    <minDate>2006-12-18</minDate>
+    <maxDate>2007-07-31</maxDate>
+    <latitude>39.9655</latitude>
+    <longitude>-86.0761</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6814</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0036</id>
+    <displayName>CARMEL 2.1 WSW, IN US</displayName>
+    <minDate>2010-04-21</minDate>
+    <maxDate>2012-08-09</maxDate>
+    <latitude>39.9535</latitude>
+    <longitude>-86.1428</longitude>
+    <elevation>258.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4109</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0018</id>
+    <displayName>CARMEL 2.2 NE, IN US</displayName>
+    <minDate>2007-01-02</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>39.9918</latitude>
+    <longitude>-86.0789</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00121303</id>
+    <displayName>CARMEL 3 E, IN US</displayName>
+    <minDate>1998-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.9613</latitude>
+    <longitude>-86.0586</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0011</id>
+    <displayName>CARMEL 3.5 NNW, IN US</displayName>
+    <minDate>2007-03-14</minDate>
+    <maxDate>2009-01-30</maxDate>
+    <latitude>40.0177</latitude>
+    <longitude>-86.1302</longitude>
+    <elevation>260</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7475</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301211</id>
+    <displayName>CARMEL 4 N, NY US</displayName>
+    <minDate>2003-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.4725</latitude>
+    <longitude>-73.655</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INMR0059</id>
+    <displayName>CARMEL 5.2 SSW, IN US</displayName>
+    <minDate>2009-05-02</minDate>
+    <maxDate>2010-10-23</maxDate>
+    <latitude>39.8982</latitude>
+    <longitude>-86.1447</longitude>
+    <elevation>235.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8185</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYPT0001</id>
+    <displayName>CARMEL HAMLET 5.8 N, NY US</displayName>
+    <minDate>2008-03-03</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>41.4969</latitude>
+    <longitude>-73.7017</longitude>
+    <elevation>249</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5123</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMT0019</id>
+    <displayName>CARMEL VALLEY VILLAGE 0.7 SSE, CA US</displayName>
+    <minDate>2009-01-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4763</latitude>
+    <longitude>-121.7197</longitude>
+    <elevation>135.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMT0002</id>
+    <displayName>CARMEL VALLEY VILLAGE 0.8 SSW, CA US</displayName>
+    <minDate>2008-10-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4757</latitude>
+    <longitude>-121.7285</longitude>
+    <elevation>109.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9682</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMT0022</id>
+    <displayName>CARMEL VALLEY VILLAGE 5.4 WNW, CA US</displayName>
+    <minDate>2010-02-12</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>36.5218</latitude>
+    <longitude>-121.81</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8452</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041534</id>
+    <displayName>CARMEL VALLEY, CA US</displayName>
+    <minDate>1959-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4805</latitude>
+    <longitude>-121.7244</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5585</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171205</id>
+    <displayName>CARMEL, ME US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>1902-12-31</maxDate>
+    <latitude>44.8</latitude>
+    <longitude>-69.05</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9132</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301207</id>
+    <displayName>CARMEL, NY US</displayName>
+    <minDate>1888-01-01</minDate>
+    <maxDate>1995-10-31</maxDate>
+    <latitude>41.43333</latitude>
+    <longitude>-73.68333</longitude>
+    <elevation>161.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8176</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111302</id>
+    <displayName>CARMI 3, IL US</displayName>
+    <minDate>1987-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.0733</latitude>
+    <longitude>-88.1805</longitude>
+    <elevation>102.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111296</id>
+    <displayName>CARMI 6 NW, IL US</displayName>
+    <minDate>1911-05-22</minDate>
+    <maxDate>2000-12-31</maxDate>
+    <latitude>38.14972</latitude>
+    <longitude>-88.22444</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8639</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASA0005</id>
+    <displayName>CARMICHAEL 0.9 NE, CA US</displayName>
+    <minDate>2008-10-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.6429</latitude>
+    <longitude>-121.3059</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASA0008</id>
+    <displayName>CARMICHAEL 0.9 S, CA US</displayName>
+    <minDate>2008-10-31</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>38.6211</latitude>
+    <longitude>-121.3189</longitude>
+    <elevation>32.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASA0006</id>
+    <displayName>CARMICHAEL 1.4 W, CA US</displayName>
+    <minDate>2008-10-30</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>38.6375</latitude>
+    <longitude>-121.3446</longitude>
+    <elevation>33.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2138</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASA0001</id>
+    <displayName>CARMICHAEL 1.6 SW, CA US</displayName>
+    <minDate>2008-09-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.6173</latitude>
+    <longitude>-121.3404</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411470</id>
+    <displayName>CARMONA, TX US</displayName>
+    <minDate>1907-08-01</minDate>
+    <maxDate>1915-11-30</maxDate>
+    <latitude>31</latitude>
+    <longitude>-94.95</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341499</id>
+    <displayName>CARNASAW TOWER, OK US</displayName>
+    <minDate>1938-11-01</minDate>
+    <maxDate>2001-10-31</maxDate>
+    <latitude>34.14417</latitude>
+    <longitude>-94.63778</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8131</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451142</id>
+    <displayName>CARNATION 1 NW, WA US</displayName>
+    <minDate>1952-10-01</minDate>
+    <maxDate>1953-03-31</maxDate>
+    <latitude>47.66667</latitude>
+    <longitude>-121.91667</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458506</id>
+    <displayName>CARNATION 1 NW, WA US</displayName>
+    <minDate>1946-10-01</minDate>
+    <maxDate>1951-03-31</maxDate>
+    <latitude>47.66667</latitude>
+    <longitude>-121.91667</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5307</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKG0146</id>
+    <displayName>CARNATION 3.3 N, WA US</displayName>
+    <minDate>2010-11-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6933</latitude>
+    <longitude>-121.9122</longitude>
+    <elevation>114.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451146</id>
+    <displayName>CARNATION 4 NW, WA US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>47.69306</latitude>
+    <longitude>-121.99472</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCD0003</id>
+    <displayName>CARNEGIE 0.2 SW, OK US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>35.1025</latitude>
+    <longitude>-98.601</longitude>
+    <elevation>400.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1222</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCD0008</id>
+    <displayName>CARNEGIE 9.4 SE, OK US</displayName>
+    <minDate>2008-10-16</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>35.002</latitude>
+    <longitude>-98.489</longitude>
+    <elevation>431.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0677</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341504</id>
+    <displayName>CARNEGIE, OK US</displayName>
+    <minDate>1914-04-16</minDate>
+    <maxDate>2005-09-30</maxDate>
+    <latitude>35.17556</latitude>
+    <longitude>-98.57944</longitude>
+    <elevation>451.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9183</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091619</id>
+    <displayName>CARNESVILLE 2 NE, GA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>34.43</latitude>
+    <longitude>-83.2477</longitude>
+    <elevation>264</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFR0002</id>
+    <displayName>CARNESVILLE 4.7 NW, GA US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2010-12-12</maxDate>
+    <latitude>34.4113</latitude>
+    <longitude>-83.2966</longitude>
+    <elevation>241.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFR0009</id>
+    <displayName>CARNESVILLE 5.8 WNW, GA US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2010-12-26</maxDate>
+    <latitude>34.4083</latitude>
+    <longitude>-83.3223</longitude>
+    <elevation>228</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3117</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFR0001</id>
+    <displayName>CARNESVILLE 7.3 SW, GA US</displayName>
+    <minDate>2008-04-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2917</latitude>
+    <longitude>-83.3236</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9736</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201301</id>
+    <displayName>CARO SOIL CONSERVATION SERVICE, MI US</displayName>
+    <minDate>1950-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.5</latitude>
+    <longitude>-83.4</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201299</id>
+    <displayName>CARO, MI US</displayName>
+    <minDate>1928-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4838</latitude>
+    <longitude>-83.3919</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9538</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0042</id>
+    <displayName>CAROL STREAM 0.3 SSE, IL US</displayName>
+    <minDate>2007-06-08</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.913</latitude>
+    <longitude>-88.1294</longitude>
+    <elevation>231</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9043</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0011</id>
+    <displayName>CAROL STREAM 0.7 WNW, IL US</displayName>
+    <minDate>2007-02-19</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>41.9217</latitude>
+    <longitude>-88.1434</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6786</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00311479</id>
+    <displayName>CAROLEEN, NC US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>1974-04-30</maxDate>
+    <latitude>35.28333</latitude>
+    <longitude>-81.8</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000SCAR</id>
+    <displayName>CAROLINA SANDHILLS S. CAROLINA, SC US</displayName>
+    <minDate>2002-12-17</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>34.6619</latitude>
+    <longitude>-80.2742</longitude>
+    <elevation>120.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9292</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0006</id>
+    <displayName>CAROLINE CENTER 0.1 SE, NY US</displayName>
+    <minDate>2005-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.352</latitude>
+    <longitude>-76.3184</longitude>
+    <elevation>484.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.559</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00261443</id>
+    <displayName>CARP, NV US</displayName>
+    <minDate>1949-04-01</minDate>
+    <maxDate>1962-11-30</maxDate>
+    <latitude>37.11667</latitude>
+    <longitude>-114.5</longitude>
+    <elevation>793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5809</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111304</id>
+    <displayName>CARPENTER 1 SW, IL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.88333</latitude>
+    <longitude>-89.9</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9469</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYLM0092</id>
+    <displayName>CARPENTER 11.8 WNW, WY US</displayName>
+    <minDate>2008-04-12</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>41.131</latitude>
+    <longitude>-104.55</longitude>
+    <elevation>1763.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331288</id>
+    <displayName>CARPENTER 2 S, OH US</displayName>
+    <minDate>1963-11-01</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>39.14694</latitude>
+    <longitude>-82.21944</longitude>
+    <elevation>250.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9518</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481547</id>
+    <displayName>CARPENTER 3 N, WY US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>2006-09-30</maxDate>
+    <latitude>41.0844</latitude>
+    <longitude>-104.3788</longitude>
+    <elevation>1657.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9684</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYLM0063</id>
+    <displayName>CARPENTER 3.9 NNE, WY US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1015</latitude>
+    <longitude>-104.3212</longitude>
+    <elevation>1653.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9634</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00391452</id>
+    <displayName>CARPENTER 4 NNE, SD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.6886</latitude>
+    <longitude>-97.8888</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYLM0066</id>
+    <displayName>CARPENTER 6.0 WNW, WY US</displayName>
+    <minDate>2007-03-27</minDate>
+    <maxDate>2008-04-30</maxDate>
+    <latitude>41.0916</latitude>
+    <longitude>-104.4508</longitude>
+    <elevation>1713</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481550</id>
+    <displayName>CARPENTER 7 NE, WY US</displayName>
+    <minDate>1941-07-01</minDate>
+    <maxDate>1947-03-31</maxDate>
+    <latitude>41.08333</latitude>
+    <longitude>-104.38333</longitude>
+    <elevation>1610</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031238</id>
+    <displayName>CARPENTER DAM, AR US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1975-11-30</maxDate>
+    <latitude>34.45</latitude>
+    <longitude>-93.01667</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.474</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCRR</id>
+    <displayName>CARPENTER RIDGE CALIFORNIA, CA US</displayName>
+    <minDate>2000-06-09</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.0686</latitude>
+    <longitude>-121.5825</longitude>
+    <elevation>1466.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9418</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCPT</id>
+    <displayName>CARPENTER RIDGE COLORADO, CO US</displayName>
+    <minDate>1998-12-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.4594</latitude>
+    <longitude>-109.0469</longitude>
+    <elevation>2465.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILKN0042</id>
+    <displayName>CARPENTERSVILLE 1.3 ESE, IL US</displayName>
+    <minDate>2008-01-13</minDate>
+    <maxDate>2011-12-01</maxDate>
+    <latitude>42.1131</latitude>
+    <longitude>-88.2497</longitude>
+    <elevation>266.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5377</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0127</id>
+    <displayName>CARR 0.6 S, CO US</displayName>
+    <minDate>2002-05-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8877</latitude>
+    <longitude>-104.8781</longitude>
+    <elevation>1737.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7271</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ACAA</id>
+    <displayName>CARR ARIZONA, AZ US</displayName>
+    <minDate>1999-06-01</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>31.445</latitude>
+    <longitude>-110.28</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8938</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="338">
+  <station>
+    <id>GHCND:US10chey029</id>
+    <displayName>POTTER 12.5 NNW, NE US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2011-12-30</maxDate>
+    <latitude>41.3956</latitude>
+    <longitude>-103.3643</longitude>
+    <elevation>1414</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0949</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chey026</id>
+    <displayName>POTTER 3.9 NE, NE US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2010-05-12</maxDate>
+    <latitude>41.2586</latitude>
+    <longitude>-103.2644</longitude>
+    <elevation>1385</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2874</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chey046</id>
+    <displayName>POTTER 5.4 ESE, NE US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2012-10-12</maxDate>
+    <latitude>41.189</latitude>
+    <longitude>-103.2204</longitude>
+    <elevation>1330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10chey027</id>
+    <displayName>POTTER 6.6 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-09-13</maxDate>
+    <latitude>41.1772</latitude>
+    <longitude>-103.2022</longitude>
+    <elevation>1367</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1416</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IPOB</id>
+    <displayName>POTTER BUTTE IDAHO, ID US</displayName>
+    <minDate>1990-06-18</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.2261</latitude>
+    <longitude>-113.5744</longitude>
+    <elevation>1502.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047109</id>
+    <displayName>POTTER VALLEY POWERHOUSE, CA US</displayName>
+    <minDate>1937-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.3619</latitude>
+    <longitude>-123.1286</longitude>
+    <elevation>310.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9746</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256880</id>
+    <displayName>POTTER, NE US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>2005-08-03</maxDate>
+    <latitude>41.2183</latitude>
+    <longitude>-103.3206</longitude>
+    <elevation>1350.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7119</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047106</id>
+    <displayName>POTTERS SAWMILL, CA US</displayName>
+    <minDate>1961-05-01</minDate>
+    <maxDate>1962-11-30</maxDate>
+    <latitude>41.23333</latitude>
+    <longitude>-121.21667</longitude>
+    <elevation>1284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7668</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOHL0021</id>
+    <displayName>POTTERSVILLE 0.7 NNW, MO US</displayName>
+    <minDate>2011-03-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.7052</latitude>
+    <longitude>-92.0336</longitude>
+    <elevation>300.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00287301</id>
+    <displayName>POTTERSVILLE 2 NNW, NJ US</displayName>
+    <minDate>1968-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.737</latitude>
+    <longitude>-74.7322</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIET0009</id>
+    <displayName>POTTERVILLE 0.3 ESE, MI US</displayName>
+    <minDate>2011-06-04</minDate>
+    <maxDate>2012-12-04</maxDate>
+    <latitude>42.6259</latitude>
+    <longitude>-84.7414</longitude>
+    <elevation>277.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7836</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSMS0001</id>
+    <displayName>POTTS CAMP 2.1 SSW, MS US</displayName>
+    <minDate>2010-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6191</latitude>
+    <longitude>-89.3167</longitude>
+    <elevation>147.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9616</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227155</id>
+    <displayName>POTTS CAMP NEAR, MS US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1942-12-31</maxDate>
+    <latitude>34.566667</latitude>
+    <longitude>-89.316667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6807</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00266330</id>
+    <displayName>POTTS, NV US</displayName>
+    <minDate>1892-02-01</minDate>
+    <maxDate>1919-12-31</maxDate>
+    <latitude>39.083333</latitude>
+    <longitude>-119.633333</longitude>
+    <elevation>2130.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9202</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGA0009</id>
+    <displayName>POTTSBORO 7.1 WNW, TX US</displayName>
+    <minDate>2012-01-08</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.8183</latitude>
+    <longitude>-96.7826</longitude>
+    <elevation>215.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0005</id>
+    <displayName>POTTSTOWN 0.6 SE, PA US</displayName>
+    <minDate>2006-02-02</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.2436</latitude>
+    <longitude>-75.6354</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0030</id>
+    <displayName>POTTSTOWN 2.0 NNE, PA US</displayName>
+    <minDate>2007-03-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2779</latitude>
+    <longitude>-75.6306</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6407</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054782</id>
+    <displayName>POTTSTOWN LIMERICK AIRPORT, PA US</displayName>
+    <minDate>1999-03-02</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.23833</latitude>
+    <longitude>-75.55722</longitude>
+    <elevation>88.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367149</id>
+    <displayName>POTTSTOWN, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1956-09-30</maxDate>
+    <latitude>40.25</latitude>
+    <longitude>-75.65</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7053</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PASC0001</id>
+    <displayName>POTTSVILLE 1.3 WSW, PA US</displayName>
+    <minDate>2005-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6702</latitude>
+    <longitude>-76.2308</longitude>
+    <elevation>278.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPP0011</id>
+    <displayName>POTTSVILLE 3.5 ENE, AR US</displayName>
+    <minDate>2009-05-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2528</latitude>
+    <longitude>-92.9983</longitude>
+    <elevation>247.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367161</id>
+    <displayName>POTTSVILLE PALO ALTO, PA US</displayName>
+    <minDate>1940-11-21</minDate>
+    <maxDate>1971-06-30</maxDate>
+    <latitude>40.7</latitude>
+    <longitude>-76.18333</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367156</id>
+    <displayName>POTTSVILLE, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1949-04-14</maxDate>
+    <latitude>40.68333</latitude>
+    <longitude>-76.2</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8138</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367157</id>
+    <displayName>POTTSVILLE, PA US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>1949-04-30</maxDate>
+    <latitude>40.683333</latitude>
+    <longitude>-76.2</longitude>
+    <elevation>191.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSBU0012</id>
+    <displayName>POTWIN 0.2 WNW, KS US</displayName>
+    <minDate>2009-04-13</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>37.9406</latitude>
+    <longitude>-97.0225</longitude>
+    <elevation>411.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146524</id>
+    <displayName>POTWIN, KS US</displayName>
+    <minDate>1953-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.9411</latitude>
+    <longitude>-97.0222</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0431</id>
+    <displayName>POUDRE RIVER L, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.5892</latitude>
+    <longitude>-105.0692</longitude>
+    <elevation>1512.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDT0010</id>
+    <displayName>POUGHKEEPSIE 3.9 SSE, NY US</displayName>
+    <minDate>2012-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.647</latitude>
+    <longitude>-73.897</longitude>
+    <elevation>72.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDT0002</id>
+    <displayName>POUGHKEEPSIE 4.7 ESE, NY US</displayName>
+    <minDate>2008-11-27</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>41.6634</latitude>
+    <longitude>-73.8419</longitude>
+    <elevation>112.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6234</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014757</id>
+    <displayName>POUGHKEEPSIE DUTCHESS CO AIRPORT, NY US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6266</latitude>
+    <longitude>-73.8842</longitude>
+    <elevation>50.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306827</id>
+    <displayName>POUGHKEEPSIE PENDELL, NY US</displayName>
+    <minDate>1965-04-15</minDate>
+    <maxDate>1967-12-29</maxDate>
+    <latitude>41.71667</latitude>
+    <longitude>-73.91667</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00306817</id>
+    <displayName>POUGHKEEPSIE, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1971-03-31</maxDate>
+    <latitude>41.68333</latitude>
+    <longitude>-73.93333</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6355</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097165</id>
+    <displayName>POULAN, GA US</displayName>
+    <minDate>1891-10-01</minDate>
+    <maxDate>1916-12-31</maxDate>
+    <latitude>31.516667</latitude>
+    <longitude>-83.783333</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9217</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456706</id>
+    <displayName>POULSBO 1 NW, WA US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.80611</latitude>
+    <longitude>-122.65167</longitude>
+    <elevation>66.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0041</id>
+    <displayName>POULSBO 3.2 NNW, WA US</displayName>
+    <minDate>2011-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.7784</latitude>
+    <longitude>-122.6714</longitude>
+    <elevation>120.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8372</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0047</id>
+    <displayName>POULSBO 3.7 NNW, WA US</displayName>
+    <minDate>2012-06-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.7856</latitude>
+    <longitude>-122.673</longitude>
+    <elevation>100</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPOV</id>
+    <displayName>POVERTY CALIFORNIA, CA US</displayName>
+    <minDate>1998-10-29</minDate>
+    <maxDate>2011-04-05</maxDate>
+    <latitude>37.4431</latitude>
+    <longitude>-121.7706</longitude>
+    <elevation>629.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7059</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0012</id>
+    <displayName>POWAY 1.0 NE, CA US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9956</latitude>
+    <longitude>-117.0044</longitude>
+    <elevation>367.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0052</id>
+    <displayName>POWAY 3.3 NNW, CA US</displayName>
+    <minDate>2010-11-08</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.0261</latitude>
+    <longitude>-117.0466</longitude>
+    <elevation>225.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0022</id>
+    <displayName>POWAY 3.5 SW, CA US</displayName>
+    <minDate>2009-01-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9491</latitude>
+    <longitude>-117.0588</longitude>
+    <elevation>135.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9283</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047111</id>
+    <displayName>POWAY VALLEY, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.0175</latitude>
+    <longitude>-117.0292</longitude>
+    <elevation>197.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487376</id>
+    <displayName>POWDER RIVER NUMBER 2, WY US</displayName>
+    <minDate>1964-09-11</minDate>
+    <maxDate>2009-04-30</maxDate>
+    <latitude>43.035</latitude>
+    <longitude>-106.98833</longitude>
+    <elevation>1737.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007E06S</id>
+    <displayName>POWDER RIVER PASS, WY US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.1667</latitude>
+    <longitude>-107.1333</longitude>
+    <elevation>2889.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9142</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487375</id>
+    <displayName>POWDER RIVER SCHOOL, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0352</latitude>
+    <longitude>-106.9894</longitude>
+    <elevation>1735.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246688</id>
+    <displayName>POWDER RIVER, MT US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1894-03-31</maxDate>
+    <latitude>45.7167</latitude>
+    <longitude>-105.0833</longitude>
+    <elevation>899.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9269</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0045</id>
+    <displayName>POWDERHORN 5.1 N, CO US</displayName>
+    <minDate>2009-07-05</minDate>
+    <maxDate>2010-02-05</maxDate>
+    <latitude>38.3539</latitude>
+    <longitude>-107.1174</longitude>
+    <elevation>2682.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8657</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056651</id>
+    <displayName>POWDERHORN, CO US</displayName>
+    <minDate>1964-08-01</minDate>
+    <maxDate>1971-01-31</maxDate>
+    <latitude>38.26667</latitude>
+    <longitude>-107.1</longitude>
+    <elevation>2467.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156495</id>
+    <displayName>POWDERLY, KY US</displayName>
+    <minDate>2004-11-01</minDate>
+    <maxDate>2011-04-21</maxDate>
+    <latitude>37.235</latitude>
+    <longitude>-87.1513</longitude>
+    <elevation>135.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8646</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCAN0020</id>
+    <displayName>POWDERSVILLE 0.5 SSE, SC US</displayName>
+    <minDate>2009-05-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7752</latitude>
+    <longitude>-82.4889</longitude>
+    <elevation>299.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246691</id>
+    <displayName>POWDERVILLE 8 NNE, MT US</displayName>
+    <minDate>1964-04-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.8525</latitude>
+    <longitude>-105.035</longitude>
+    <elevation>853.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246697</id>
+    <displayName>POWDERVILLE, MT US</displayName>
+    <minDate>1949-06-04</minDate>
+    <maxDate>1964-03-31</maxDate>
+    <latitude>45.76667</latitude>
+    <longitude>-105.1</longitude>
+    <elevation>854</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0011</id>
+    <displayName>POWELL 0.9 W, WY US</displayName>
+    <minDate>2006-01-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7584</latitude>
+    <longitude>-108.7769</longitude>
+    <elevation>1344.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXNV0004</id>
+    <displayName>POWELL 1.0 SW, TX US</displayName>
+    <minDate>2009-01-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.106</latitude>
+    <longitude>-96.3405</longitude>
+    <elevation>114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0003</id>
+    <displayName>POWELL 1.1 ESE, WY US</displayName>
+    <minDate>2004-12-21</minDate>
+    <maxDate>2009-06-10</maxDate>
+    <latitude>44.7537</latitude>
+    <longitude>-108.7372</longitude>
+    <elevation>1331.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNKX0006</id>
+    <displayName>POWELL 1.3 NNW, TN US</displayName>
+    <minDate>2007-05-14</minDate>
+    <maxDate>2008-08-24</maxDate>
+    <latitude>36.0509</latitude>
+    <longitude>-84.0373</longitude>
+    <elevation>376.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4051</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0019</id>
+    <displayName>POWELL 1.5 SW, WY US</displayName>
+    <minDate>2009-06-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.7436</latitude>
+    <longitude>-108.7838</longitude>
+    <elevation>1352.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0004</id>
+    <displayName>POWELL 11.8 W, WY US</displayName>
+    <minDate>2005-02-14</minDate>
+    <maxDate>2009-12-18</maxDate>
+    <latitude>44.7321</latitude>
+    <longitude>-108.9973</longitude>
+    <elevation>1538</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0006</id>
+    <displayName>POWELL 22 WNW, WY US</displayName>
+    <minDate>2005-05-06</minDate>
+    <maxDate>2007-06-06</maxDate>
+    <latitude>44.904</latitude>
+    <longitude>-109.1419</longitude>
+    <elevation>1282</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1496</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0013</id>
+    <displayName>POWELL 3.9 ENE, WY US</displayName>
+    <minDate>2006-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7825</latitude>
+    <longitude>-108.6879</longitude>
+    <elevation>1307</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9229</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0008</id>
+    <displayName>POWELL 4.2 SW, WY US</displayName>
+    <minDate>2005-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.7128</latitude>
+    <longitude>-108.8204</longitude>
+    <elevation>1367</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPK0021</id>
+    <displayName>POWELL 5.1 S, WY US</displayName>
+    <minDate>2009-10-24</minDate>
+    <maxDate>2012-03-13</maxDate>
+    <latitude>44.6838</latitude>
+    <longitude>-108.7395</longitude>
+    <elevation>1328.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1617</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356814</id>
+    <displayName>POWELL BUTTE, OR US</displayName>
+    <minDate>1913-02-01</minDate>
+    <maxDate>1942-09-30</maxDate>
+    <latitude>44.25</latitude>
+    <longitude>-121.05</longitude>
+    <elevation>952.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487388</id>
+    <displayName>POWELL FIELD STATION, WY US</displayName>
+    <minDate>1981-04-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>44.7763</latitude>
+    <longitude>-108.7591</longitude>
+    <elevation>1332</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9921</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IPOW</id>
+    <displayName>POWELL IDAHO, ID US</displayName>
+    <minDate>1990-05-07</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>46.5122</latitude>
+    <longitude>-114.6881</longitude>
+    <elevation>1039.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107320</id>
+    <displayName>POWELL, ID US</displayName>
+    <minDate>1962-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.51</latitude>
+    <longitude>-114.7111</longitude>
+    <elevation>1075.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236834</id>
+    <displayName>POWELL, MO US</displayName>
+    <minDate>1973-05-01</minDate>
+    <maxDate>2011-01-19</maxDate>
+    <latitude>36.6133</latitude>
+    <longitude>-94.1844</longitude>
+    <elevation>309.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407388</id>
+    <displayName>POWELL, TN US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.03333</latitude>
+    <longitude>-84.03333</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487380</id>
+    <displayName>POWELL, WY US</displayName>
+    <minDate>1907-02-01</minDate>
+    <maxDate>1981-03-31</maxDate>
+    <latitude>44.75</latitude>
+    <longitude>-108.76667</longitude>
+    <elevation>1335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467135</id>
+    <displayName>POWELLTON, WV US</displayName>
+    <minDate>1894-06-01</minDate>
+    <maxDate>1920-12-31</maxDate>
+    <latitude>38.083333</latitude>
+    <longitude>-81.316667</longitude>
+    <elevation>275.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00246700</id>
+    <displayName>POWER 6 SE, MT US</displayName>
+    <minDate>1953-02-13</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>47.6544</latitude>
+    <longitude>-111.598</longitude>
+    <elevation>1143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327270</id>
+    <displayName>POWER, ND US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1930-12-31</maxDate>
+    <latitude>46.616667</latitude>
+    <longitude>-97.266667</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8272</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327281</id>
+    <displayName>POWERS LAKE 1 N, ND US</displayName>
+    <minDate>1914-08-01</minDate>
+    <maxDate>2006-04-13</maxDate>
+    <latitude>48.5722</latitude>
+    <longitude>-102.6466</longitude>
+    <elevation>672.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9003</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107325</id>
+    <displayName>POWERS RANCH, ID US</displayName>
+    <minDate>1909-02-01</minDate>
+    <maxDate>1913-04-30</maxDate>
+    <latitude>43.633333</latitude>
+    <longitude>-116.083333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5168</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OPOW</id>
+    <displayName>POWERS RANGER STATION OREGON, OR US</displayName>
+    <minDate>1985-01-23</minDate>
+    <maxDate>2005-07-30</maxDate>
+    <latitude>42.8708</latitude>
+    <longitude>-124.0625</longitude>
+    <elevation>90.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356820</id>
+    <displayName>POWERS, OR US</displayName>
+    <minDate>1932-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.8886</latitude>
+    <longitude>-124.0688</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAPH0002</id>
+    <displayName>POWHATAN 5.0 NW, VA US</displayName>
+    <minDate>2009-11-18</minDate>
+    <maxDate>2010-10-02</maxDate>
+    <latitude>37.6102</latitude>
+    <longitude>-77.9495</longitude>
+    <elevation>86.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5455</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAPH0004</id>
+    <displayName>POWHATAN 6.6 SE, VA US</displayName>
+    <minDate>2011-04-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.4883</latitude>
+    <longitude>-77.8212</longitude>
+    <elevation>104.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9923</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446906</id>
+    <displayName>POWHATAN, VA US</displayName>
+    <minDate>1923-01-01</minDate>
+    <maxDate>2012-04-30</maxDate>
+    <latitude>37.5145</latitude>
+    <longitude>-77.8859</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146531</id>
+    <displayName>POWHATTAN, KS US</displayName>
+    <minDate>1896-10-01</minDate>
+    <maxDate>1897-03-31</maxDate>
+    <latitude>39.761668</latitude>
+    <longitude>-95.629983</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00436500</id>
+    <displayName>POWNAL 1 NE, VT US</displayName>
+    <minDate>1975-01-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.79167</latitude>
+    <longitude>-73.22278</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0086</id>
+    <displayName>POWNAL 4.1 S, ME US</displayName>
+    <minDate>2011-09-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.8537</latitude>
+    <longitude>-70.1721</longitude>
+    <elevation>57</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476796</id>
+    <displayName>POYNETTE 7 WNW, WI US</displayName>
+    <minDate>2003-09-01</minDate>
+    <maxDate>2009-01-20</maxDate>
+    <latitude>43.41222</latitude>
+    <longitude>-89.53083</longitude>
+    <elevation>243.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9705</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417230</id>
+    <displayName>POYNOR 1 NE, TX US</displayName>
+    <minDate>1944-03-01</minDate>
+    <maxDate>1975-10-31</maxDate>
+    <latitude>32.08333</latitude>
+    <longitude>-95.58333</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0154</id>
+    <displayName>PPK, CO US</displayName>
+    <minDate>1999-06-01</minDate>
+    <maxDate>2006-07-04</maxDate>
+    <latitude>40.688</latitude>
+    <longitude>-105.316</longitude>
+    <elevation>1754.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4778</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417232</id>
+    <displayName>PRADE RANCH, TX US</displayName>
+    <minDate>1955-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.9167</latitude>
+    <longitude>-99.7908</longitude>
+    <elevation>625.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047123</id>
+    <displayName>PRADO DAM, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.8903</latitude>
+    <longitude>-117.6453</longitude>
+    <elevation>170.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256922</id>
+    <displayName>PRAGUE, NE US</displayName>
+    <minDate>1994-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.3061</latitude>
+    <longitude>-96.8055</longitude>
+    <elevation>410</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347264</id>
+    <displayName>PRAGUE, OK US</displayName>
+    <minDate>1943-11-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4876</latitude>
+    <longitude>-96.7302</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9782</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORGR0001</id>
+    <displayName>PRAIRIE CITY 0.2 NE, OR US</displayName>
+    <minDate>2008-01-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.4636</latitude>
+    <longitude>-118.706</longitude>
+    <elevation>1096.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116970</id>
+    <displayName>PRAIRIE CITY 2 S, IL US</displayName>
+    <minDate>2000-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5913</latitude>
+    <longitude>-90.4641</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356845</id>
+    <displayName>PRAIRIE CITY RANGER STATION, OR US</displayName>
+    <minDate>1911-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.4616</latitude>
+    <longitude>-118.7139</longitude>
+    <elevation>1079</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARBT0025</id>
+    <displayName>PRAIRIE CREEK 0.7 NE, AR US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.3442</latitude>
+    <longitude>-94.0517</longitude>
+    <elevation>381.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127099</id>
+    <displayName>PRAIRIE CREEK 2 S, IN US</displayName>
+    <minDate>1995-12-01</minDate>
+    <maxDate>2008-04-01</maxDate>
+    <latitude>39.248</latitude>
+    <longitude>-87.51</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476827</id>
+    <displayName>PRAIRIE DU CHIEN, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.0515</latitude>
+    <longitude>-91.1349</longitude>
+    <elevation>200.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116973</id>
+    <displayName>PRAIRIE DU ROCHER, IL US</displayName>
+    <minDate>1948-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.08861</latitude>
+    <longitude>-90.16194</longitude>
+    <elevation>123.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476838</id>
+    <displayName>PRAIRIE DU SAC 2 N, WI US</displayName>
+    <minDate>1908-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.31</latitude>
+    <longitude>-89.72833</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9155</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WISK0005</id>
+    <displayName>PRAIRIE DU SAC 5.9 NNW, WI US</displayName>
+    <minDate>2010-08-27</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>43.371</latitude>
+    <longitude>-89.7687</longitude>
+    <elevation>264.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6014</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035900</id>
+    <displayName>PRAIRIE GROVE, AR US</displayName>
+    <minDate>2003-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.9827</latitude>
+    <longitude>-94.3061</longitude>
+    <elevation>399.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00127102</id>
+    <displayName>PRAIRIE HEIGHTS, IN US</displayName>
+    <minDate>1973-08-01</minDate>
+    <maxDate>2000-08-31</maxDate>
+    <latitude>41.64</latitude>
+    <longitude>-85.19667</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236846</id>
+    <displayName>PRAIRIE HILL 2 WNW, MO US</displayName>
+    <minDate>1954-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.54</latitude>
+    <longitude>-92.7907</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2189</coverage>
+  </station>
+</stationCollection>

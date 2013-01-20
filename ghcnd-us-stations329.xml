@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="329">
+  <station>
+    <id>GHCND:US1NCWY0003</id>
+    <displayName>PIKEVILLE 6.1 WSW, NC US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2008-01-21</maxDate>
+    <latitude>35.4736</latitude>
+    <longitude>-78.0886</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.907</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWY0002</id>
+    <displayName>PIKEVILLE 6.2 WSW, NC US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.4704</latitude>
+    <longitude>-78.0892</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0002</id>
+    <displayName>PIKEVILLE 7.5 SW, TN US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5442</latitude>
+    <longitude>-85.3046</longitude>
+    <elevation>637</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9734</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0004</id>
+    <displayName>PIKEVILLE 7.8 N, TN US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.719</latitude>
+    <longitude>-85.1803</longitude>
+    <elevation>523</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9798</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0012</id>
+    <displayName>PIKEVILLE 8.0 N, TN US</displayName>
+    <minDate>2010-03-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7202</latitude>
+    <longitude>-85.1696</longitude>
+    <elevation>530</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0015</id>
+    <displayName>PIKEVILLE 8.9 N, TN US</displayName>
+    <minDate>2011-03-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7347</latitude>
+    <longitude>-85.1812</longitude>
+    <elevation>519.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3255</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0017</id>
+    <displayName>PIKEVILLE 8.9 SW, TN US</displayName>
+    <minDate>2012-05-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5301</latitude>
+    <longitude>-85.3231</longitude>
+    <elevation>515.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8694</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0011</id>
+    <displayName>PIKEVILLE 9.5 SSW, TN US</displayName>
+    <minDate>2010-04-09</minDate>
+    <maxDate>2012-07-13</maxDate>
+    <latitude>35.4848</latitude>
+    <longitude>-85.2733</longitude>
+    <elevation>242.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNBL0005</id>
+    <displayName>PIKEVILLE 9.6 NNE, TN US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2010-08-03</maxDate>
+    <latitude>35.7373</latitude>
+    <longitude>-85.1325</longitude>
+    <elevation>605</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156360</id>
+    <displayName>PIKEVILLE KSP POST 9, KY US</displayName>
+    <minDate>1982-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.53333</latitude>
+    <longitude>-82.58333</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9462</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156355</id>
+    <displayName>PIKEVILLE NUMBER 2, KY US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>1991-06-30</maxDate>
+    <latitude>37.48333</latitude>
+    <longitude>-82.51667</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156357</id>
+    <displayName>PIKEVILLE W Z L K, KY US</displayName>
+    <minDate>1994-03-01</minDate>
+    <maxDate>2009-04-21</maxDate>
+    <latitude>37.48333</latitude>
+    <longitude>-82.51667</longitude>
+    <elevation>208.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5106</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156353</id>
+    <displayName>PIKEVILLE, KY US</displayName>
+    <minDate>1900-01-01</minDate>
+    <maxDate>1978-11-30</maxDate>
+    <latitude>37.48333</latitude>
+    <longitude>-82.51667</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9234</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407182</id>
+    <displayName>PIKEVILLE, TN US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.598</latitude>
+    <longitude>-85.1936</longitude>
+    <elevation>263.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9868</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407184</id>
+    <displayName>PIKEVILLE, TN US</displayName>
+    <minDate>1962-03-20</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.598</latitude>
+    <longitude>-85.1936</longitude>
+    <elevation>263.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9649</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456484</id>
+    <displayName>PILCHUCK CREEK, WA US</displayName>
+    <minDate>1928-04-01</minDate>
+    <maxDate>1930-07-31</maxDate>
+    <latitude>48.35</latitude>
+    <longitude>-122.1</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5023</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10stan006</id>
+    <displayName>PILGER 0.1 NNE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-11-19</maxDate>
+    <latitude>42.0102</latitude>
+    <longitude>-97.0536</longitude>
+    <elevation>427.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7907</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10stan012</id>
+    <displayName>PILGER 7.4 SSE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2011-07-10</maxDate>
+    <latitude>41.9034</latitude>
+    <longitude>-97.0334</longitude>
+    <elevation>491.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5745</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256735</id>
+    <displayName>PILGER, NE US</displayName>
+    <minDate>1944-05-01</minDate>
+    <maxDate>2001-12-31</maxDate>
+    <latitude>42.00667</latitude>
+    <longitude>-97.05611</longitude>
+    <elevation>428.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00507281</id>
+    <displayName>PILGRIM SPRING, AK US</displayName>
+    <minDate>1937-10-01</minDate>
+    <maxDate>1941-07-31</maxDate>
+    <latitude>65.0833</latitude>
+    <longitude>-164.9667</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCS0001</id>
+    <displayName>PILLAGER 5.1 N, MN US</displayName>
+    <minDate>2010-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.4025</latitude>
+    <longitude>-94.4631</longitude>
+    <elevation>402.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446723</id>
+    <displayName>PILOT 1 ENE, VA US</displayName>
+    <minDate>1940-04-03</minDate>
+    <maxDate>1985-12-31</maxDate>
+    <latitude>37.06667</latitude>
+    <longitude>-80.35</longitude>
+    <elevation>664.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPIL</id>
+    <displayName>PILOT HILL CALIFORNIA, CA US</displayName>
+    <minDate>1993-04-14</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>38.8325</latitude>
+    <longitude>-121.0086</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9619</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236687</id>
+    <displayName>PILOT KNOB, MO US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>1946-03-31</maxDate>
+    <latitude>37.5</latitude>
+    <longitude>-90.616667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9089</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407187</id>
+    <displayName>PILOT MOUNTAIN, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.2</latitude>
+    <longitude>-84.66667</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417028</id>
+    <displayName>PILOT POINT ISL DU BOI, TX US</displayName>
+    <minDate>1916-01-01</minDate>
+    <maxDate>2003-09-30</maxDate>
+    <latitude>33.36583</latitude>
+    <longitude>-97.01222</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8412</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00507304</id>
+    <displayName>PILOT POINT, AK US</displayName>
+    <minDate>1939-11-01</minDate>
+    <maxDate>1945-07-31</maxDate>
+    <latitude>57.61667</latitude>
+    <longitude>-157.56667</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356634</id>
+    <displayName>PILOT ROCK 1 SE, OR US</displayName>
+    <minDate>1908-11-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.4756</latitude>
+    <longitude>-118.8253</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00507314</id>
+    <displayName>PILOT STATION, AK US</displayName>
+    <minDate>1919-08-16</minDate>
+    <maxDate>1933-06-30</maxDate>
+    <latitude>61.96667</latitude>
+    <longitude>-163</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00266228</id>
+    <displayName>PILOT VALLEY MONTELLO 11 SSE, NV US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2008-11-30</maxDate>
+    <latitude>41.10944</latitude>
+    <longitude>-114.12083</longitude>
+    <elevation>1498.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZGH0002</id>
+    <displayName>PIMA 0.7 ESE, AZ US</displayName>
+    <minDate>2010-01-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8857</latitude>
+    <longitude>-109.81</longitude>
+    <elevation>869</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026546</id>
+    <displayName>PIMA R4 ON W2, AZ US</displayName>
+    <minDate>1898-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.83333</latitude>
+    <longitude>-110.01667</longitude>
+    <elevation>1150</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1442</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366944</id>
+    <displayName>PIMPLE HILL, PA US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1959-11-30</maxDate>
+    <latitude>41.03333</latitude>
+    <longitude>-75.5</longitude>
+    <elevation>677</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026561</id>
+    <displayName>PINAL RANCH, AZ US</displayName>
+    <minDate>1895-03-01</minDate>
+    <maxDate>1973-05-31</maxDate>
+    <latitude>33.35</latitude>
+    <longitude>-110.98333</longitude>
+    <elevation>1378.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MILV0001</id>
+    <displayName>PINCKNEY 2.5 ESE, MI US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-10-17</maxDate>
+    <latitude>42.4407</latitude>
+    <longitude>-83.9002</longitude>
+    <elevation>266.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1573</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MILV0015</id>
+    <displayName>PINCKNEY 3.4 NW, MI US</displayName>
+    <minDate>2012-04-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4816</latitude>
+    <longitude>-84.0033</longitude>
+    <elevation>277.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9155</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00116779</id>
+    <displayName>PINCKNEYVILLE 2 N, IL US</displayName>
+    <minDate>1972-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.098</latitude>
+    <longitude>-89.3819</longitude>
+    <elevation>131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206587</id>
+    <displayName>PINCONNING WWTP, MI US</displayName>
+    <minDate>2001-11-01</minDate>
+    <maxDate>2011-08-31</maxDate>
+    <latitude>43.85667</latitude>
+    <longitude>-83.95611</longitude>
+    <elevation>178.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00206584</id>
+    <displayName>PINCONNING, MI US</displayName>
+    <minDate>1998-03-01</minDate>
+    <maxDate>1998-09-30</maxDate>
+    <latitude>43.85639</latitude>
+    <longitude>-83.96861</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZGL0003</id>
+    <displayName>PINE 0.9 SW, AZ US</displayName>
+    <minDate>2009-09-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3735</latitude>
+    <longitude>-111.4619</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9155</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0360</id>
+    <displayName>PINE 1.3 ENE, CO US</displayName>
+    <minDate>2012-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4276</latitude>
+    <longitude>-105.3074</longitude>
+    <elevation>2218.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9449</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107079</id>
+    <displayName>PINE 2 S, ID US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1953-10-31</maxDate>
+    <latitude>43.46667</latitude>
+    <longitude>-115.31667</longitude>
+    <elevation>1289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8746</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0216</id>
+    <displayName>PINE 3.4 NNW, CO US</displayName>
+    <minDate>2004-07-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4619</latitude>
+    <longitude>-105.3646</longitude>
+    <elevation>2463.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7465</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0271</id>
+    <displayName>PINE 3.6 NNW, CO US</displayName>
+    <minDate>2003-04-01</minDate>
+    <maxDate>2010-09-20</maxDate>
+    <latitude>39.4708</latitude>
+    <longitude>-105.3456</longitude>
+    <elevation>2481.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5403</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0077</id>
+    <displayName>PINE 4.9 NW, CO US</displayName>
+    <minDate>2005-11-28</minDate>
+    <maxDate>2009-04-17</maxDate>
+    <latitude>39.4671</latitude>
+    <longitude>-105.3995</longitude>
+    <elevation>2582.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1245</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0075</id>
+    <displayName>PINE 5.7 NW, CO US</displayName>
+    <minDate>2004-08-28</minDate>
+    <maxDate>2011-10-26</maxDate>
+    <latitude>39.4699</latitude>
+    <longitude>-105.3984</longitude>
+    <elevation>2601.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0657</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016436</id>
+    <displayName>PINE APPLE, AL US</displayName>
+    <minDate>1967-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.8812</latitude>
+    <longitude>-86.9865</longitude>
+    <elevation>80.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093988</id>
+    <displayName>PINE BLUFF GRIDER FIELD, AR US</displayName>
+    <minDate>1948-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.175</latitude>
+    <longitude>-91.93472</longitude>
+    <elevation>63.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7761</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035754</id>
+    <displayName>PINE BLUFF, AR US</displayName>
+    <minDate>1884-05-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.2256</latitude>
+    <longitude>-92.0189</longitude>
+    <elevation>65.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.95</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487236</id>
+    <displayName>PINE BLUFFS 1 ESE, WY US</displayName>
+    <minDate>2012-03-29</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.1799</latitude>
+    <longitude>-104.0573</longitude>
+    <elevation>1541.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.83</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487248</id>
+    <displayName>PINE BLUFFS 10 NW, WY US</displayName>
+    <minDate>1995-04-01</minDate>
+    <maxDate>2000-12-31</maxDate>
+    <latitude>41.3</latitude>
+    <longitude>-104.18333</longitude>
+    <elevation>1624.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8482</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487240</id>
+    <displayName>PINE BLUFFS 5 W, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>41.1722</latitude>
+    <longitude>-104.1583</longitude>
+    <elevation>1578.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYLM0113</id>
+    <displayName>PINE BLUFFS 8.2 WSW, WY US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.143</latitude>
+    <longitude>-104.217</longitude>
+    <elevation>1622.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487235</id>
+    <displayName>PINE BLUFFS, WY US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>1988-02-29</maxDate>
+    <latitude>41.18333</latitude>
+    <longitude>-104.06667</longitude>
+    <elevation>1546.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9043</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042734</id>
+    <displayName>PINE CANYON PS FC321, CA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1954-12-31</maxDate>
+    <latitude>34.66667</latitude>
+    <longitude>-118.43333</longitude>
+    <elevation>1003.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046891</id>
+    <displayName>PINE CANYON PS FC321, CA US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1972-10-31</maxDate>
+    <latitude>34.66667</latitude>
+    <longitude>-118.43333</longitude>
+    <elevation>1003.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347080</id>
+    <displayName>PINE CREEK DAM, OK US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.11667</latitude>
+    <longitude>-95.08333</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IPIN</id>
+    <displayName>PINE CREEK IDAHO, ID US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.25</latitude>
+    <longitude>-116.18</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7486</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IPCR</id>
+    <displayName>PINE CREEK PASS IDAHO TETON C, ID US</displayName>
+    <minDate>2002-09-05</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.54</latitude>
+    <longitude>-111.2008</longitude>
+    <elevation>2206.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011F02S</id>
+    <displayName>PINE CREEK PASS, ID US</displayName>
+    <minDate>1988-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.5667</latitude>
+    <longitude>-111.2167</longitude>
+    <elevation>2048.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012L15S</id>
+    <displayName>PINE CREEK, UT US</displayName>
+    <minDate>1985-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.8833</latitude>
+    <longitude>-112.25</longitude>
+    <elevation>2682.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046896</id>
+    <displayName>PINE FLAT DAM, CA US</displayName>
+    <minDate>1965-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>36.821</latitude>
+    <longitude>-119.3374</longitude>
+    <elevation>187.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366954</id>
+    <displayName>PINE GROVE 1 NE, PA US</displayName>
+    <minDate>1924-09-01</minDate>
+    <maxDate>1961-10-31</maxDate>
+    <latitude>40.56667</latitude>
+    <longitude>-76.36667</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167304</id>
+    <displayName>PINE GROVE FIRE TOWER, LA US</displayName>
+    <minDate>1942-12-05</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>30.7112</latitude>
+    <longitude>-90.7526</longitude>
+    <elevation>57.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366955</id>
+    <displayName>PINE GROVE FURNACE, PA US</displayName>
+    <minDate>1982-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0333</latitude>
+    <longitude>-77.3</longitude>
+    <elevation>269.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9807</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366962</id>
+    <displayName>PINE GROVE MILLS 1 S, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1950-02-02</maxDate>
+    <latitude>40.71667</latitude>
+    <longitude>-77.9</longitude>
+    <elevation>627.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9611</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356655</id>
+    <displayName>PINE GROVE, OR US</displayName>
+    <minDate>1969-04-10</minDate>
+    <maxDate>1998-05-31</maxDate>
+    <latitude>45.12889</latitude>
+    <longitude>-121.25611</longitude>
+    <elevation>627.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8944</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCSK0001</id>
+    <displayName>PINE HALL 6.6 NNW, NC US</displayName>
+    <minDate>2009-05-14</minDate>
+    <maxDate>2011-11-03</maxDate>
+    <latitude>36.415</latitude>
+    <longitude>-80.0868</longitude>
+    <elevation>274</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2788</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALWX0001</id>
+    <displayName>PINE HILL 3.6 WSW, AL US</displayName>
+    <minDate>2007-12-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.9652</latitude>
+    <longitude>-87.6387</longitude>
+    <elevation>53.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9464</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MPIN</id>
+    <displayName>PINE HILL MONTANA, MT US</displayName>
+    <minDate>1999-02-04</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.7769</latitude>
+    <longitude>-104.5797</longitude>
+    <elevation>807.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9516</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016460</id>
+    <displayName>PINE HILL, AL US</displayName>
+    <minDate>1940-11-15</minDate>
+    <maxDate>1968-04-30</maxDate>
+    <latitude>31.98333</latitude>
+    <longitude>-87.6</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00236692</id>
+    <displayName>PINE HILL, MO US</displayName>
+    <minDate>1900-05-01</minDate>
+    <maxDate>1906-01-31</maxDate>
+    <latitude>37.566667</latitude>
+    <longitude>-90.116667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPHI</id>
+    <displayName>PINE HILLS CALIFORNIA, CA US</displayName>
+    <minDate>2001-05-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>33.0164</latitude>
+    <longitude>-116.6339</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9185</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016468</id>
+    <displayName>PINE LEVEL 4 ESE, AL US</displayName>
+    <minDate>1941-05-01</minDate>
+    <maxDate>1989-06-30</maxDate>
+    <latitude>32.03333</latitude>
+    <longitude>-85.98333</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9367</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCJH0004</id>
+    <displayName>PINE LEVEL 5.2 S, NC US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2011-02-22</maxDate>
+    <latitude>35.4348</latitude>
+    <longitude>-78.2457</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.129</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHR0002</id>
+    <displayName>PINE MOUNTAIN 2.8 SE, GA US</displayName>
+    <minDate>2011-11-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8375</latitude>
+    <longitude>-84.8157</longitude>
+    <elevation>394.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00156379</id>
+    <displayName>PINE MOUNTAIN 3 NW, KY US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2003-05-31</maxDate>
+    <latitude>36.98333</latitude>
+    <longitude>-83.21667</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAKN0009</id>
+    <displayName>PINE MOUNTAIN CLUB 0.9 SSW, CA US</displayName>
+    <minDate>2010-11-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.8353</latitude>
+    <longitude>-119.1631</longitude>
+    <elevation>1834</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9682</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAKN0010</id>
+    <displayName>PINE MOUNTAIN CLUB 1.4 ENE, CA US</displayName>
+    <minDate>2010-12-10</minDate>
+    <maxDate>2012-09-01</maxDate>
+    <latitude>34.85</latitude>
+    <longitude>-119.1333</longitude>
+    <elevation>1606</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9399</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049618</id>
+    <displayName>PINE MOUNTAIN INN, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.6102</latitude>
+    <longitude>-119.3666</longitude>
+    <elevation>1286.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356662</id>
+    <displayName>PINE MOUNTAIN OBSERV, OR US</displayName>
+    <minDate>1968-04-01</minDate>
+    <maxDate>1981-09-30</maxDate>
+    <latitude>43.78333</latitude>
+    <longitude>-120.95</longitude>
+    <elevation>1902.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097046</id>
+    <displayName>PINE MOUNTAIN VALLEY, GA US</displayName>
+    <minDate>1947-10-08</minDate>
+    <maxDate>1955-01-31</maxDate>
+    <latitude>32.78333</latitude>
+    <longitude>-84.85</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9786</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094039</id>
+    <displayName>PINE RIDGE AIRPORT, SD US</displayName>
+    <minDate>1997-06-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.02056</latitude>
+    <longitude>-102.51833</longitude>
+    <elevation>999.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CPNR</id>
+    <displayName>PINE RIDGE COLORADO, CO US</displayName>
+    <minDate>1988-09-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.2603</latitude>
+    <longitude>-108.4072</longitude>
+    <elevation>2011.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00035760</id>
+    <displayName>PINE RIDGE, AR US</displayName>
+    <minDate>1925-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.5833</latitude>
+    <longitude>-93.9011</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396612</id>
+    <displayName>PINE RIDGE, SD US</displayName>
+    <minDate>1901-01-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>43.01667</latitude>
+    <longitude>-102.56667</longitude>
+    <elevation>985.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5082</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476594</id>
+    <displayName>PINE RIVER 3 NE, WI US</displayName>
+    <minDate>1894-10-01</minDate>
+    <maxDate>1982-06-30</maxDate>
+    <latitude>44.18333</latitude>
+    <longitude>-89.03333</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9497</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00216547</id>
+    <displayName>PINE RIVER DAM, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.66944</latitude>
+    <longitude>-94.10889</longitude>
+    <elevation>381</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.987</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWG0008</id>
+    <displayName>PINE SPRINGS 0.1 SSE, MN US</displayName>
+    <minDate>2010-07-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.0361</latitude>
+    <longitude>-92.954</longitude>
+    <elevation>296.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3246</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWG0019</id>
+    <displayName>PINE SPRINGS 1.0 SSW, MN US</displayName>
+    <minDate>2011-04-06</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.0242</latitude>
+    <longitude>-92.9656</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.487</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023055</id>
+    <displayName>PINE SPRINGS GUADALUPE MOUNTAINS NATIONAL PARK, TX US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.83111</latitude>
+    <longitude>-104.80889</longitude>
+    <elevation>1663</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417044</id>
+    <displayName>PINE SPRINGS, TX US</displayName>
+    <minDate>1939-01-01</minDate>
+    <maxDate>2011-12-05</maxDate>
+    <latitude>31.89028</latitude>
+    <longitude>-104.80778</longitude>
+    <elevation>1704.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487270</id>
+    <displayName>PINE TREE 9 NE, WY US</displayName>
+    <minDate>1949-12-02</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>43.71667</latitude>
+    <longitude>-105.63333</longitude>
+    <elevation>1557.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00266242</id>
+    <displayName>PINE VALLEY CARLIN 20 S, NV US</displayName>
+    <minDate>1982-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.4292</latitude>
+    <longitude>-116.1196</longitude>
+    <elevation>1574.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00426865</id>
+    <displayName>PINE VALLEY, UT US</displayName>
+    <minDate>1904-07-01</minDate>
+    <maxDate>1920-12-24</maxDate>
+    <latitude>37.383333</latitude>
+    <longitude>-113.516667</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2108</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00426869</id>
+    <displayName>PINE VIEW DAM, UT US</displayName>
+    <minDate>1935-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2578</latitude>
+    <longitude>-111.8378</longitude>
+    <elevation>1505.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9391</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWR0008</id>
+    <displayName>PINE VILLAGE 1.8 NW, IN US</displayName>
+    <minDate>2011-06-05</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>40.4652</latitude>
+    <longitude>-87.2793</longitude>
+    <elevation>236.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026571</id>
+    <displayName>PINE, AZ US</displayName>
+    <minDate>1973-07-01</minDate>
+    <maxDate>1974-09-30</maxDate>
+    <latitude>34.38333</latitude>
+    <longitude>-111.46667</longitude>
+    <elevation>1662.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00356652</id>
+    <displayName>PINE, OR US</displayName>
+    <minDate>1901-11-01</minDate>
+    <maxDate>1905-08-31</maxDate>
+    <latitude>44.85</latitude>
+    <longitude>-117.083333</longitude>
+    <elevation>792.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9593</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00012889</id>
+    <displayName>PINECASTLE NF, FL US</displayName>
+    <minDate>1996-08-02</minDate>
+    <maxDate>1997-12-18</maxDate>
+    <latitude>29.14306</latitude>
+    <longitude>-81.63278</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9127</coverage>
+  </station>
+</stationCollection>

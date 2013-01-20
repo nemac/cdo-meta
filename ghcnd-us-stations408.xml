@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="408">
+  <station>
+    <id>GHCND:USC00238292</id>
+    <displayName>TARKIO NUMBER 2, MO US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4373</latitude>
+    <longitude>-95.3866</longitude>
+    <elevation>298.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8218</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014945</id>
+    <displayName>TARKIO, MO US</displayName>
+    <minDate>1912-06-01</minDate>
+    <maxDate>2008-11-16</maxDate>
+    <latitude>40.43444</latitude>
+    <longitude>-95.38833</longitude>
+    <elevation>318.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258440</id>
+    <displayName>TARNOV, NE US</displayName>
+    <minDate>1950-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.61667</latitude>
+    <longitude>-97.48333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418845</id>
+    <displayName>TARPLEY, TX US</displayName>
+    <minDate>1937-10-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>29.6675</latitude>
+    <longitude>-99.2883</longitude>
+    <elevation>423.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088824</id>
+    <displayName>TARPON SPNGS SWG PLANT, FL US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>28.1522</latitude>
+    <longitude>-82.7538</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0041</id>
+    <displayName>TARPON SPRINGS 5.6 E, FL US</displayName>
+    <minDate>2011-11-29</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>28.1417</latitude>
+    <longitude>-82.6649</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4442</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0004</id>
+    <displayName>TARRANT 3.4 ESE, AL US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2010-04-13</maxDate>
+    <latitude>33.579</latitude>
+    <longitude>-86.7121</longitude>
+    <elevation>208.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9031</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418852</id>
+    <displayName>TASCOSA, TX US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1984-07-31</maxDate>
+    <latitude>35.56667</latitude>
+    <longitude>-102.3</longitude>
+    <elevation>1040</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509038</id>
+    <displayName>TATALINA RIVER, AK US</displayName>
+    <minDate>1999-04-01</minDate>
+    <maxDate>1999-11-30</maxDate>
+    <latitude>65.38444</latitude>
+    <longitude>-148.24861</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098575</id>
+    <displayName>TATE, GA US</displayName>
+    <minDate>1917-03-01</minDate>
+    <maxDate>1920-05-31</maxDate>
+    <latitude>34.416667</latitude>
+    <longitude>-84.383333</longitude>
+    <elevation>403.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157924</id>
+    <displayName>TATHAM SPRINGS, KY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.86667</latitude>
+    <longitude>-85.15</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9758</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026536</id>
+    <displayName>TATLINA AIRPORT, AK US</displayName>
+    <minDate>1952-04-01</minDate>
+    <maxDate>1985-01-31</maxDate>
+    <latitude>62.89417</latitude>
+    <longitude>-155.97639</longitude>
+    <elevation>293.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298713</id>
+    <displayName>TATUM, NM US</displayName>
+    <minDate>1919-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2422</latitude>
+    <longitude>-103.3611</longitude>
+    <elevation>1222.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9144</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418859</id>
+    <displayName>TATUM, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.3</latitude>
+    <longitude>-94.51667</longitude>
+    <elevation>82</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9178</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABR0009</id>
+    <displayName>TAUNTON 2.6 NW, MA US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.929</latitude>
+    <longitude>-71.1298</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198368</id>
+    <displayName>TAUNTON 4 NW, MA US</displayName>
+    <minDate>2012-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.9555</latitude>
+    <longitude>-71.1335</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054777</id>
+    <displayName>TAUNTON MUNICIPAL AIRPORT, MA US</displayName>
+    <minDate>1997-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.87556</latitude>
+    <longitude>-71.02111</longitude>
+    <elevation>13.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198374</id>
+    <displayName>TAUNTON NUMBER 163, MA US</displayName>
+    <minDate>1885-07-01</minDate>
+    <maxDate>1892-12-31</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-71.083333</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9712</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198375</id>
+    <displayName>TAUNTON NUMBER 164, MA US</displayName>
+    <minDate>1884-11-01</minDate>
+    <maxDate>1899-04-30</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-71.1</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9507</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198376</id>
+    <displayName>TAUNTON NUMBER 184, MA US</displayName>
+    <minDate>1890-10-01</minDate>
+    <maxDate>1896-11-30</maxDate>
+    <latitude>41.9</latitude>
+    <longitude>-71.1</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7257</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00198367</id>
+    <displayName>TAUNTON, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2007-09-30</maxDate>
+    <latitude>41.90028</latitude>
+    <longitude>-71.06583</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00088841</id>
+    <displayName>TAVERNIER, FL US</displayName>
+    <minDate>1936-06-01</minDate>
+    <maxDate>2009-05-31</maxDate>
+    <latitude>25.00694</latitude>
+    <longitude>-80.52111</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9552</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIIC0002</id>
+    <displayName>TAWAS CITY 0.6 NNE, MI US</displayName>
+    <minDate>2010-01-10</minDate>
+    <maxDate>2012-06-19</maxDate>
+    <latitude>44.2758</latitude>
+    <longitude>-83.5184</longitude>
+    <elevation>179.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0105</id>
+    <displayName>TAYLOR 0.5 NW, TX US</displayName>
+    <minDate>2011-06-29</minDate>
+    <maxDate>2011-10-11</maxDate>
+    <latitude>30.5767</latitude>
+    <longitude>-97.4165</longitude>
+    <elevation>178.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418862</id>
+    <displayName>TAYLOR 1 NW, TX US</displayName>
+    <minDate>2000-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5844</latitude>
+    <longitude>-97.4156</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10loup005</id>
+    <displayName>TAYLOR 12.9 NNW, NE US</displayName>
+    <minDate>2007-03-09</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>41.9398</latitude>
+    <longitude>-99.4823</longitude>
+    <elevation>741.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0923</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIWY0022</id>
+    <displayName>TAYLOR 2.8 SW, MI US</displayName>
+    <minDate>2009-08-02</minDate>
+    <maxDate>2010-10-25</maxDate>
+    <latitude>42.195</latitude>
+    <longitude>-83.3035</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2556</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZNV0009</id>
+    <displayName>TAYLOR 3.2 WNW, AZ US</displayName>
+    <minDate>2009-10-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4727</latitude>
+    <longitude>-110.1435</longitude>
+    <elevation>1745.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9202</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0065</id>
+    <displayName>TAYLOR 6.4 E, TX US</displayName>
+    <minDate>2008-08-30</minDate>
+    <maxDate>2011-02-20</maxDate>
+    <latitude>30.5617</latitude>
+    <longitude>-97.3027</longitude>
+    <elevation>162.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00328660</id>
+    <displayName>TAYLOR 7 NNW, ND US</displayName>
+    <minDate>2001-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.9988</latitude>
+    <longitude>-102.4761</longitude>
+    <elevation>676.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0017</id>
+    <displayName>TAYLOR 8.5 SE, TX US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.4974</latitude>
+    <longitude>-97.2969</longitude>
+    <elevation>155.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021G03S</id>
+    <displayName>TAYLOR BUTTE, OR US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-121.4</longitude>
+    <elevation>1554.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015H09S</id>
+    <displayName>TAYLOR CANYON, NV US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.2333</latitude>
+    <longitude>-115.9833</longitude>
+    <elevation>1889.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0017D07S</id>
+    <displayName>TAYLOR GREEN, OR US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.0333</latitude>
+    <longitude>-117.5333</longitude>
+    <elevation>1749.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8332</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHRR024</id>
+    <displayName>TAYLOR LAKE VILLAGE 0.5 W, TX US</displayName>
+    <minDate>2008-04-28</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.5743</latitude>
+    <longitude>-95.0633</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5567</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYKN0007</id>
+    <displayName>TAYLOR MILL 1.8 SSW, KY US</displayName>
+    <minDate>2010-12-13</minDate>
+    <maxDate>2011-11-17</maxDate>
+    <latitude>38.9896</latitude>
+    <longitude>-84.5152</longitude>
+    <elevation>250.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4059</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CTAY</id>
+    <displayName>TAYLOR PARK COLORADO, CO US</displayName>
+    <minDate>1987-10-27</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>38.9078</latitude>
+    <longitude>-106.6017</longitude>
+    <elevation>3173</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9662</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00058184</id>
+    <displayName>TAYLOR PARK, CO US</displayName>
+    <minDate>1940-10-19</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8183</latitude>
+    <longitude>-106.6086</longitude>
+    <elevation>2797.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9875</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00109000</id>
+    <displayName>TAYLOR RANCH, ID US</displayName>
+    <minDate>1974-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.1017</latitude>
+    <longitude>-114.8508</longitude>
+    <elevation>1168.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8125</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418863</id>
+    <displayName>TAYLOR RANCH, TX US</displayName>
+    <minDate>1966-03-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>30.973</latitude>
+    <longitude>-98.9433</longitude>
+    <elevation>557.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415930</id>
+    <displayName>TAYLOR RANCH, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1966-02-28</maxDate>
+    <latitude>30.973</latitude>
+    <longitude>-98.9433</longitude>
+    <elevation>557.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.716</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488810</id>
+    <displayName>TAYLOR RANCH, WY US</displayName>
+    <minDate>1950-11-01</minDate>
+    <maxDate>1957-08-31</maxDate>
+    <latitude>43.4</latitude>
+    <longitude>-106.8</longitude>
+    <elevation>1702</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILRI0008</id>
+    <displayName>TAYLOR RIDGE 4.9 W, IL US</displayName>
+    <minDate>2008-11-14</minDate>
+    <maxDate>2009-12-09</maxDate>
+    <latitude>41.3842</latitude>
+    <longitude>-90.7611</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8619</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00037038</id>
+    <displayName>TAYLOR, AR US</displayName>
+    <minDate>1943-10-25</minDate>
+    <maxDate>2001-05-31</maxDate>
+    <latitude>33.09861</latitude>
+    <longitude>-93.46472</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9359</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258455</id>
+    <displayName>TAYLOR, NE US</displayName>
+    <minDate>1921-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7708</latitude>
+    <longitude>-99.3813</longitude>
+    <elevation>691.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298730</id>
+    <displayName>TAYLOR, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1932-07-31</maxDate>
+    <latitude>36.33333</latitude>
+    <longitude>-104.5</longitude>
+    <elevation>1725.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9877</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418861</id>
+    <displayName>TAYLOR, TX US</displayName>
+    <minDate>1929-01-01</minDate>
+    <maxDate>2001-08-31</maxDate>
+    <latitude>30.57</latitude>
+    <longitude>-97.40917</longitude>
+    <elevation>172.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00458339</id>
+    <displayName>TAYLOR, WA US</displayName>
+    <minDate>1923-01-01</minDate>
+    <maxDate>1928-01-14</maxDate>
+    <latitude>47.416667</latitude>
+    <longitude>-121.866667</longitude>
+    <elevation>353.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8038</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0006</id>
+    <displayName>TAYLORS 2.8 NNW, SC US</displayName>
+    <minDate>2008-03-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9515</latitude>
+    <longitude>-82.3366</longitude>
+    <elevation>288</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9088</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0001</id>
+    <displayName>TAYLORS 2.8 W, SC US</displayName>
+    <minDate>2008-02-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9189</latitude>
+    <longitude>-82.3621</longitude>
+    <elevation>316.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7094</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0011</id>
+    <displayName>TAYLORS 3.0 NNW, SC US</displayName>
+    <minDate>2008-03-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9518</latitude>
+    <longitude>-82.3433</longitude>
+    <elevation>298.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9596</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0009</id>
+    <displayName>TAYLORS 4.6 N, SC US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9814</latitude>
+    <longitude>-82.3047</longitude>
+    <elevation>303</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9731</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218204</id>
+    <displayName>TAYLORS FALLS 1 NE, MN US</displayName>
+    <minDate>1906-09-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>45.41667</latitude>
+    <longitude>-92.65</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9822</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408856</id>
+    <displayName>TAYLORS, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.01667</latitude>
+    <longitude>-85.36667</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0015</id>
+    <displayName>TAYLORSVILLE 0.3 NNW, UT US</displayName>
+    <minDate>2008-10-25</minDate>
+    <maxDate>2011-03-31</maxDate>
+    <latitude>40.6736</latitude>
+    <longitude>-111.9324</longitude>
+    <elevation>1302.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INBW0011</id>
+    <displayName>TAYLORSVILLE 0.8 SSW, IN US</displayName>
+    <minDate>2008-01-22</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>39.2849</latitude>
+    <longitude>-85.9526</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9368</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCAX0003</id>
+    <displayName>TAYLORSVILLE 1.3 WNW, NC US</displayName>
+    <minDate>2008-03-15</minDate>
+    <maxDate>2012-03-02</maxDate>
+    <latitude>35.9274</latitude>
+    <longitude>-81.2019</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8226</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157948</id>
+    <displayName>TAYLORSVILLE 2 SW, KY US</displayName>
+    <minDate>1902-04-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0144</latitude>
+    <longitude>-85.3713</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8685</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0076</id>
+    <displayName>TAYLORSVILLE 2.4 SW, UT US</displayName>
+    <minDate>2009-12-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.6473</latitude>
+    <longitude>-111.9639</longitude>
+    <elevation>1366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7711</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCAX0001</id>
+    <displayName>TAYLORSVILLE 4.1 WSW, NC US</displayName>
+    <minDate>2007-09-24</minDate>
+    <maxDate>2008-11-24</maxDate>
+    <latitude>35.903</latitude>
+    <longitude>-81.2496</longitude>
+    <elevation>385.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5304</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYSP0004</id>
+    <displayName>TAYLORSVILLE 6.1 NW, KY US</displayName>
+    <minDate>2010-06-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.0973</latitude>
+    <longitude>-85.4227</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.86</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157950</id>
+    <displayName>TAYLORSVILLE LAKE, KY US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.0013</latitude>
+    <longitude>-85.3088</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00098600</id>
+    <displayName>TAYLORSVILLE, GA US</displayName>
+    <minDate>1937-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.086</latitude>
+    <longitude>-84.9827</longitude>
+    <elevation>219.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00318519</id>
+    <displayName>TAYLORSVILLE, NC US</displayName>
+    <minDate>1994-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9225</latitude>
+    <longitude>-81.1716</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9184</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00118491</id>
+    <displayName>TAYLORVILLE, IL US</displayName>
+    <minDate>1941-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5334</latitude>
+    <longitude>-89.3069</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5752</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408873</id>
+    <displayName>TAZEWELL 2 SE, TN US</displayName>
+    <minDate>1897-12-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.41667</latitude>
+    <longitude>-83.55</longitude>
+    <elevation>406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408868</id>
+    <displayName>TAZEWELL, TN US</displayName>
+    <minDate>1966-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.465</latitude>
+    <longitude>-83.5603</longitude>
+    <elevation>416.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448354</id>
+    <displayName>TAZEWELL, VA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>37.11667</latitude>
+    <longitude>-81.51667</longitude>
+    <elevation>747.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00228684</id>
+    <displayName>TCHULA, MS US</displayName>
+    <minDate>1904-08-24</minDate>
+    <maxDate>1922-12-30</maxDate>
+    <latitude>33.18333</latitude>
+    <longitude>-90.21667</longitude>
+    <elevation>36.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9479</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLN0004</id>
+    <displayName>TEA 0.5 SW, SD US</displayName>
+    <minDate>2007-06-23</minDate>
+    <maxDate>2009-09-03</maxDate>
+    <latitude>43.4424</latitude>
+    <longitude>-96.845</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6331</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ITEA</id>
+    <displayName>TEA POT IDAHO, ID US</displayName>
+    <minDate>1986-06-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.9044</latitude>
+    <longitude>-115.7375</longitude>
+    <elevation>1570.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8023</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417612</id>
+    <displayName>TEAGUE RANCH, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>30.4332</latitude>
+    <longitude>-98.8097</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418877</id>
+    <displayName>TEAGUE RANCH, TX US</displayName>
+    <minDate>1966-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>30.4332</latitude>
+    <longitude>-98.8097</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418874</id>
+    <displayName>TEAGUE, TX US</displayName>
+    <minDate>1913-10-01</minDate>
+    <maxDate>1917-06-30</maxDate>
+    <latitude>31.63333</latitude>
+    <longitude>-96.28333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00428600</id>
+    <displayName>TEASDALE, UT US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>1920-01-26</maxDate>
+    <latitude>38.3</latitude>
+    <longitude>-111.416667</longitude>
+    <elevation>2084.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488830</id>
+    <displayName>TECKLA 3 E, WY US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>43.58333</latitude>
+    <longitude>-105.28333</longitude>
+    <elevation>1457.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8231</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00298769</id>
+    <displayName>TECOLOTE, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1919-01-31</maxDate>
+    <latitude>34.01667</latitude>
+    <longitude>-105.66667</longitude>
+    <elevation>1993.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKPT0002</id>
+    <displayName>TECUMSEH 0.4 ESE, OK US</displayName>
+    <minDate>2006-09-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2614</latitude>
+    <longitude>-96.9268</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10john010</id>
+    <displayName>TECUMSEH 1.0 ENE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.3726</latitude>
+    <longitude>-96.1795</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOOZ0007</id>
+    <displayName>TECUMSEH 1.1 WSW, MO US</displayName>
+    <minDate>2012-04-22</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>36.586</latitude>
+    <longitude>-92.3053</longitude>
+    <elevation>241.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9414</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10john001</id>
+    <displayName>TECUMSEH 1.7 ENE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>40.3776</latitude>
+    <longitude>-96.1679</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9245</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348751</id>
+    <displayName>TECUMSEH 4 S, OK US</displayName>
+    <minDate>1990-05-01</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>35.2594</latitude>
+    <longitude>-96.9184</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10john015</id>
+    <displayName>TECUMSEH 6.3 W, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3777</latitude>
+    <longitude>-96.3155</longitude>
+    <elevation>376.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8505</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10john013</id>
+    <displayName>TECUMSEH 6.4 SW, NE US</displayName>
+    <minDate>2007-03-24</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.2914</latitude>
+    <longitude>-96.2829</longitude>
+    <elevation>417</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6104</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10john006</id>
+    <displayName>TECUMSEH 6.6 E, NE US</displayName>
+    <minDate>2007-03-22</minDate>
+    <maxDate>2009-08-12</maxDate>
+    <latitude>40.3779</latitude>
+    <longitude>-96.0707</longitude>
+    <elevation>388</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00208080</id>
+    <displayName>TECUMSEH, MI US</displayName>
+    <minDate>1985-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.0027</latitude>
+    <longitude>-83.9336</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00238313</id>
+    <displayName>TECUMSEH, MO US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5967</latitude>
+    <longitude>-92.2617</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9203</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258465</id>
+    <displayName>TECUMSEH, NE US</displayName>
+    <minDate>1893-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3544</latitude>
+    <longitude>-96.1938</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9486</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028468</id>
+    <displayName>TEEC NOS POS, AZ US</displayName>
+    <minDate>1962-06-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.9233</latitude>
+    <longitude>-109.09</longitude>
+    <elevation>1612.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9321</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00028483</id>
+    <displayName>TEES TO, AZ US</displayName>
+    <minDate>1952-11-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>35.5</latitude>
+    <longitude>-110.41667</longitude>
+    <elevation>1769.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6506</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0009</id>
+    <displayName>TEGA CAY 1.1 N, SC US</displayName>
+    <minDate>2009-03-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0499</latitude>
+    <longitude>-81.0219</longitude>
+    <elevation>187.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9616</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCYR0013</id>
+    <displayName>TEGA CAY 1.5 ESE, SC US</displayName>
+    <minDate>2010-10-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0277</latitude>
+    <longitude>-80.9942</longitude>
+    <elevation>172.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9019</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAKN0003</id>
+    <displayName>TEHACHAPI 2.2 W, CA US</displayName>
+    <minDate>2009-01-31</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>35.1323</latitude>
+    <longitude>-118.4799</longitude>
+    <elevation>1202.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048829</id>
+    <displayName>TEHACHAPI 4 SE, CA US</displayName>
+    <minDate>1997-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1011</latitude>
+    <longitude>-118.4222</longitude>
+    <elevation>1286.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048832</id>
+    <displayName>TEHACHAPI AIRPORT, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2012-12-03</maxDate>
+    <latitude>35.1308</latitude>
+    <longitude>-118.4325</longitude>
+    <elevation>1207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048826</id>
+    <displayName>TEHACHAPI, CA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1997-06-30</maxDate>
+    <latitude>35.13333</latitude>
+    <longitude>-118.45</longitude>
+    <elevation>1224.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6598</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248152</id>
+    <displayName>TEIGEN 10 NNE, MT US</displayName>
+    <minDate>1969-12-01</minDate>
+    <maxDate>1972-02-29</maxDate>
+    <latitude>47.16667</latitude>
+    <longitude>-108.48333</longitude>
+    <elevation>987.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00248156</id>
+    <displayName>TEIGEN 13 NNE, MT US</displayName>
+    <minDate>1951-10-01</minDate>
+    <maxDate>1956-03-24</maxDate>
+    <latitude>47.23333</latitude>
+    <longitude>-108.55</longitude>
+    <elevation>1051.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00509085</id>
+    <displayName>TEIKHILL, AK US</displayName>
+    <minDate>1904-03-01</minDate>
+    <maxDate>1907-12-31</maxDate>
+    <latitude>61.3333</latitude>
+    <longitude>-144.9167</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9429</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048839</id>
+    <displayName>TEJON RANCHO, CA US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.0233</latitude>
+    <longitude>-118.7497</longitude>
+    <elevation>434.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8237</coverage>
+  </station>
+</stationCollection>

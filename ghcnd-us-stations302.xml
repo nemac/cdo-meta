@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="302">
+  <station>
+    <id>GHCND:US1WAKG0143</id>
+    <displayName>NORTH BEND 5.4 ESE, WA US</displayName>
+    <minDate>2010-09-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.4669</latitude>
+    <longitude>-121.6806</longitude>
+    <elevation>246.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00455920</id>
+    <displayName>NORTH BEND RANGER STATION, WA US</displayName>
+    <minDate>1896-11-01</minDate>
+    <maxDate>1899-08-31</maxDate>
+    <latitude>47.5</latitude>
+    <longitude>-121.75</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7872</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024284</id>
+    <displayName>NORTH BEND SOUTHWEST OREGON REGIONAL AIRPORT, OR US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.41333</latitude>
+    <longitude>-124.24361</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00256010</id>
+    <displayName>NORTH BEND, NE US</displayName>
+    <minDate>1972-07-26</minDate>
+    <maxDate>1977-09-30</maxDate>
+    <latitude>41.4636</latitude>
+    <longitude>-96.7761</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175835</id>
+    <displayName>NORTH BERWICK, ME US</displayName>
+    <minDate>1896-04-01</minDate>
+    <maxDate>1897-05-31</maxDate>
+    <latitude>43.303696</latitude>
+    <longitude>-70.733389</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6197</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00195490</id>
+    <displayName>NORTH BILLERICA, MA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1910-12-31</maxDate>
+    <latitude>42.6</latitude>
+    <longitude>-71.3</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205976</id>
+    <displayName>NORTH BRANCH, MI US</displayName>
+    <minDate>1931-07-12</minDate>
+    <maxDate>1933-07-03</maxDate>
+    <latitude>43.22944</latitude>
+    <longitude>-83.19667</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9585</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00065510</id>
+    <displayName>NORTH BRANFORD, CT US</displayName>
+    <minDate>1930-04-01</minDate>
+    <maxDate>1975-09-30</maxDate>
+    <latitude>41.33333</latitude>
+    <longitude>-72.76667</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5769</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175875</id>
+    <displayName>NORTH BRIDGTON, ME US</displayName>
+    <minDate>1893-11-01</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>44.13333</latitude>
+    <longitude>-70.71667</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446169</id>
+    <displayName>NORTH BRISTOL SUB ST, VA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.61667</latitude>
+    <longitude>-82.18333</longitude>
+    <elevation>531</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLHN0011</id>
+    <displayName>NORTH BROOKSVILLE 6.3 NE, FL US</displayName>
+    <minDate>2008-03-28</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>28.6396</latitude>
+    <longitude>-82.3385</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMD0002</id>
+    <displayName>NORTH BRUNSWICK TWP 1.5 W, NJ US</displayName>
+    <minDate>2008-01-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.447</latitude>
+    <longitude>-74.508</longitude>
+    <elevation>32.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.837</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMD0025</id>
+    <displayName>NORTH BRUNSWICK TWP 1.7 NE, NJ US</displayName>
+    <minDate>2009-10-30</minDate>
+    <maxDate>2011-05-25</maxDate>
+    <latitude>40.4698</latitude>
+    <longitude>-74.4607</longitude>
+    <elevation>34.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2147</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJES0004</id>
+    <displayName>NORTH CALDWELL 0.6 SSE, NJ US</displayName>
+    <minDate>2008-12-26</minDate>
+    <maxDate>2009-12-06</maxDate>
+    <latitude>40.8576</latitude>
+    <longitude>-74.2523</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4827</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCR0014</id>
+    <displayName>NORTH CHARLESTON 1.7 NNW, SC US</displayName>
+    <minDate>2008-04-02</minDate>
+    <maxDate>2008-11-07</maxDate>
+    <latitude>32.9286</latitude>
+    <longitude>-80.0498</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCR0034</id>
+    <displayName>NORTH CHARLESTON 2.6 NW, SC US</displayName>
+    <minDate>2008-03-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9322</latitude>
+    <longitude>-80.0736</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9624</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCDC0003</id>
+    <displayName>NORTH CHARLESTON 2.9 WNW, SC US</displayName>
+    <minDate>2008-02-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9262</latitude>
+    <longitude>-80.084</longitude>
+    <elevation>10.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9591</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCR0057</id>
+    <displayName>NORTH CHARLESTON 3.5 ESE, SC US</displayName>
+    <minDate>2010-06-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.8794</latitude>
+    <longitude>-79.9899</longitude>
+    <elevation>10.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9242</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCCR0030</id>
+    <displayName>NORTH CHARLESTON 3.5 N, SC US</displayName>
+    <minDate>2008-03-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.9591</latitude>
+    <longitude>-80.0606</longitude>
+    <elevation>14</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00275982</id>
+    <displayName>NORTH CHICHESTER, NH US</displayName>
+    <minDate>1944-01-01</minDate>
+    <maxDate>1961-03-31</maxDate>
+    <latitude>43.25</latitude>
+    <longitude>-71.38333</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7297</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYMR0012</id>
+    <displayName>NORTH CHILI 0.6 NW, NY US</displayName>
+    <minDate>2009-03-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.1223</latitude>
+    <longitude>-77.8164</longitude>
+    <elevation>185.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406658</id>
+    <displayName>NORTH CITICO CREEK, TN US</displayName>
+    <minDate>1961-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.4</latitude>
+    <longitude>-84.06667</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305917</id>
+    <displayName>NORTH COHOCTON SOIL CONSERVATION SERVICE, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1948-11-30</maxDate>
+    <latitude>42.51667</latitude>
+    <longitude>-77.46667</longitude>
+    <elevation>399.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYER0029</id>
+    <displayName>NORTH COLLINS 4.9 E, NY US</displayName>
+    <minDate>2008-07-31</minDate>
+    <maxDate>2009-08-10</maxDate>
+    <latitude>42.587</latitude>
+    <longitude>-78.8418</longitude>
+    <elevation>391.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3138</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00275997</id>
+    <displayName>NORTH CONWAY 1, NH US</displayName>
+    <minDate>1887-09-10</minDate>
+    <maxDate>1901-01-31</maxDate>
+    <latitude>44.033333</latitude>
+    <longitude>-71.15</longitude>
+    <elevation>175.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCR0015</id>
+    <displayName>NORTH CONWAY 10.7 NNW, NH US</displayName>
+    <minDate>2009-12-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.1907</latitude>
+    <longitude>-71.226</longitude>
+    <elevation>355.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCR0030</id>
+    <displayName>NORTH CONWAY 2.3 S, NH US</displayName>
+    <minDate>2011-12-26</minDate>
+    <maxDate>2012-07-13</maxDate>
+    <latitude>44.0204</latitude>
+    <longitude>-71.1345</longitude>
+    <elevation>147.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8856</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00275995</id>
+    <displayName>NORTH CONWAY, NH US</displayName>
+    <minDate>1974-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0302</latitude>
+    <longitude>-71.1383</longitude>
+    <elevation>165.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0005N16S</id>
+    <displayName>NORTH COSTILLA, CO US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37</latitude>
+    <longitude>-105.25</longitude>
+    <elevation>3230.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8776</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NNCP</id>
+    <displayName>NORTH COVE PINNACLE N. CAROLIN, NC US</displayName>
+    <minDate>2002-03-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>35.8167</latitude>
+    <longitude>-81.9372</longitude>
+    <elevation>780.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8663</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305925</id>
+    <displayName>NORTH CREEK 5 SE, NY US</displayName>
+    <minDate>1907-11-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6611</latitude>
+    <longitude>-73.8969</longitude>
+    <elevation>271.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6064</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00435632</id>
+    <displayName>NORTH DANVILLE, VT US</displayName>
+    <minDate>1958-03-01</minDate>
+    <maxDate>1979-09-30</maxDate>
+    <latitude>44.46667</latitude>
+    <longitude>-72.11667</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9696</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0009</id>
+    <displayName>NORTH DECATUR 2.6 N, GA US</displayName>
+    <minDate>2008-09-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8453</latitude>
+    <longitude>-84.2914</longitude>
+    <elevation>286.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8979</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GADK0007</id>
+    <displayName>NORTH DECATUR 3.0 NNE, GA US</displayName>
+    <minDate>2008-07-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8483</latitude>
+    <longitude>-84.2747</longitude>
+    <elevation>306.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026436</id>
+    <displayName>NORTH DUTCH ISLAND CAA, US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>1957-01-31</maxDate>
+    <latitude>60.76667</latitude>
+    <longitude>-147.8</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9394</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCC0008</id>
+    <displayName>NORTH EAST 1.2 W, MD US</displayName>
+    <minDate>2009-01-02</minDate>
+    <maxDate>2011-08-15</maxDate>
+    <latitude>39.6034</latitude>
+    <longitude>-75.9655</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.249</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAER0005</id>
+    <displayName>NORTH EAST 1.2 WNW, PA US</displayName>
+    <minDate>2008-05-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.2206</latitude>
+    <longitude>-79.8551</longitude>
+    <elevation>230.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9417</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00366396</id>
+    <displayName>NORTH EAST 2 SE, PA US</displayName>
+    <minDate>1950-02-03</minDate>
+    <maxDate>1978-03-31</maxDate>
+    <latitude>42.2</latitude>
+    <longitude>-79.81667</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCC0001</id>
+    <displayName>NORTH EAST 3.8 SE, MD US</displayName>
+    <minDate>2005-11-01</minDate>
+    <maxDate>2007-04-16</maxDate>
+    <latitude>39.5575</latitude>
+    <longitude>-75.8975</longitude>
+    <elevation>63.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00136076</id>
+    <displayName>NORTH ENGLISH, IA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>41.5119</latitude>
+    <longitude>-92.0724</longitude>
+    <elevation>242.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0826</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MABA0014</id>
+    <displayName>NORTH FALMOUTH 0.5 ENE, MA US</displayName>
+    <minDate>2010-04-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6479</latitude>
+    <longitude>-70.6229</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.632</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265687</id>
+    <displayName>NORTH FORK 13 N, NV US</displayName>
+    <minDate>1973-01-01</minDate>
+    <maxDate>1973-05-31</maxDate>
+    <latitude>41.68333</latitude>
+    <longitude>-115.78333</longitude>
+    <elevation>1915.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316236</id>
+    <displayName>NORTH FORK 2, NC US</displayName>
+    <minDate>1942-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.6625</latitude>
+    <longitude>-82.3469</longitude>
+    <elevation>755.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9808</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265688</id>
+    <displayName>NORTH FORK 7 NW, NV US</displayName>
+    <minDate>1974-09-01</minDate>
+    <maxDate>1982-07-31</maxDate>
+    <latitude>41.56667</latitude>
+    <longitude>-115.9</longitude>
+    <elevation>2012.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8526</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CNFO</id>
+    <displayName>NORTH FORK CALIFORNIA, CA US</displayName>
+    <minDate>1998-08-24</minDate>
+    <maxDate>2012-07-26</maxDate>
+    <latitude>37.2331</latitude>
+    <longitude>-119.5047</longitude>
+    <elevation>829.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9455</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000INOR</id>
+    <displayName>NORTH FORK IDAHO, ID US</displayName>
+    <minDate>1999-06-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.7897</latitude>
+    <longitude>-114.4208</longitude>
+    <elevation>1917.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8415</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013B07S</id>
+    <displayName>NORTH FORK JOCKO, MT US</displayName>
+    <minDate>1989-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.2667</latitude>
+    <longitude>-113.7667</longitude>
+    <elevation>1929.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446173</id>
+    <displayName>NORTH FORK LAKE, VA US</displayName>
+    <minDate>1969-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1244</latitude>
+    <longitude>-82.6339</longitude>
+    <elevation>510.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265691</id>
+    <displayName>NORTH FORK MNTC STATION, NV US</displayName>
+    <minDate>1909-11-01</minDate>
+    <maxDate>1970-10-31</maxDate>
+    <latitude>41.48333</latitude>
+    <longitude>-115.81667</longitude>
+    <elevation>1891</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000INFK</id>
+    <displayName>NORTH FORK PORTABLE IDAHO, ID US</displayName>
+    <minDate>1999-05-01</minDate>
+    <maxDate>2007-06-07</maxDate>
+    <latitude>43.5994</latitude>
+    <longitude>-116.2081</longitude>
+    <elevation>871.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0699</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046252</id>
+    <displayName>NORTH FORK RANGER STATION, CA US</displayName>
+    <minDate>1904-03-01</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>37.23278</latitude>
+    <longitude>-119.50972</longitude>
+    <elevation>806.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265695</id>
+    <displayName>NORTH FORK SPRING CREEK RANCH, NV US</displayName>
+    <minDate>1951-12-01</minDate>
+    <maxDate>1952-04-30</maxDate>
+    <latitude>41.51667</latitude>
+    <longitude>-115.86667</longitude>
+    <elevation>1943.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00506564</id>
+    <displayName>NORTH FORK, AK US</displayName>
+    <minDate>1905-08-01</minDate>
+    <maxDate>1909-09-30</maxDate>
+    <latitude>64.5</latitude>
+    <longitude>-142.1667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00106500</id>
+    <displayName>NORTH FORK, ID US</displayName>
+    <minDate>1914-02-12</minDate>
+    <maxDate>1916-10-31</maxDate>
+    <latitude>45.483333</latitude>
+    <longitude>-113.966667</longitude>
+    <elevation>1097.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8177</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00316231</id>
+    <displayName>NORTH FORK, NC US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.7</latitude>
+    <longitude>-82.33333</longitude>
+    <elevation>842.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9752</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0022D02S</id>
+    <displayName>NORTH FORK, OR US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.55</latitude>
+    <longitude>-122.0167</longitude>
+    <elevation>951</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLE0003</id>
+    <displayName>NORTH FORT MYERS 1.4 SW, FL US</displayName>
+    <minDate>2007-09-30</minDate>
+    <maxDate>2008-09-27</maxDate>
+    <latitude>26.69</latitude>
+    <longitude>-81.9083</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLLE0011</id>
+    <displayName>NORTH FORT MYERS 3.8 NE, FL US</displayName>
+    <minDate>2007-10-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.7485</latitude>
+    <longitude>-81.8548</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9256</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00375270</id>
+    <displayName>NORTH FOSTER 1 E, RI US</displayName>
+    <minDate>1974-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.8564</latitude>
+    <longitude>-71.7333</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006H20S</id>
+    <displayName>NORTH FRENCH CREEK, WY US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.3333</latitude>
+    <longitude>-106.3667</longitude>
+    <elevation>3087.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416435</id>
+    <displayName>NORTH GALVESTON, TX US</displayName>
+    <minDate>1904-06-01</minDate>
+    <maxDate>1905-08-31</maxDate>
+    <latitude>29.33333</latitude>
+    <longitude>-94.76667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00446178</id>
+    <displayName>NORTH GARDEN, VA US</displayName>
+    <minDate>1937-11-01</minDate>
+    <maxDate>1947-08-31</maxDate>
+    <latitude>37.95</latitude>
+    <longitude>-78.63333</longitude>
+    <elevation>209.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9284</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336050</id>
+    <displayName>NORTH GEORGETOWN, OH US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1949-01-31</maxDate>
+    <latitude>40.85</latitude>
+    <longitude>-80.98333</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.707</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTHR0008</id>
+    <displayName>NORTH GRANBY 1.3 ENE, CT US</displayName>
+    <minDate>2010-06-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0244</latitude>
+    <longitude>-72.8207</longitude>
+    <elevation>135.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00346405</id>
+    <displayName>NORTH GRAND LAKE, OK US</displayName>
+    <minDate>1942-04-01</minDate>
+    <maxDate>1947-05-31</maxDate>
+    <latitude>36.616667</latitude>
+    <longitude>-94.866667</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8537</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CTWN0002</id>
+    <displayName>NORTH GROSVENOR DALE 1.7 SSE, CT US</displayName>
+    <minDate>2009-07-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.9623</latitude>
+    <longitude>-71.887</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00276055</id>
+    <displayName>NORTH GROTON, NH US</displayName>
+    <minDate>1989-06-01</minDate>
+    <maxDate>1999-09-30</maxDate>
+    <latitude>43.76111</latitude>
+    <longitude>-71.87139</longitude>
+    <elevation>393.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.765</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00065641</id>
+    <displayName>NORTH GUILFORD, CT US</displayName>
+    <minDate>1930-05-02</minDate>
+    <maxDate>1975-09-30</maxDate>
+    <latitude>41.38333</latitude>
+    <longitude>-72.71667</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5731</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJPS0004</id>
+    <displayName>NORTH HALEDON 0.6 N, NJ US</displayName>
+    <minDate>2008-03-11</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>40.9713</latitude>
+    <longitude>-74.1856</longitude>
+    <elevation>125.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305965</id>
+    <displayName>NORTH HAMMOND, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1909-11-30</maxDate>
+    <latitude>44.483333</latitude>
+    <longitude>-75.716667</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00276070</id>
+    <displayName>NORTH HAMPTON, NH US</displayName>
+    <minDate>2003-09-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.9588</latitude>
+    <longitude>-70.8227</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00435768</id>
+    <displayName>NORTH HARTLAND LAKE, VT US</displayName>
+    <minDate>2010-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6027</latitude>
+    <longitude>-72.3621</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEKX0008</id>
+    <displayName>NORTH HAVEN 1.4 N, ME US</displayName>
+    <minDate>2010-11-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.1498</latitude>
+    <longitude>-68.876</longitude>
+    <elevation>18.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCT0007</id>
+    <displayName>NORTH HICKORY 1.4 WNW, NC US</displayName>
+    <minDate>2009-02-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7892</latitude>
+    <longitude>-81.3455</longitude>
+    <elevation>322.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9615</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASA0028</id>
+    <displayName>NORTH HIGHLANDS 3.0 SSW, CA US</displayName>
+    <minDate>2009-12-17</minDate>
+    <maxDate>2011-03-24</maxDate>
+    <latitude>38.6259</latitude>
+    <longitude>-121.3938</longitude>
+    <elevation>20.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8035</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00046256</id>
+    <displayName>NORTH HOLLYWOOD, CA US</displayName>
+    <minDate>1936-01-01</minDate>
+    <maxDate>1962-07-31</maxDate>
+    <latitude>34.16667</latitude>
+    <longitude>-118.38333</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093112</id>
+    <displayName>NORTH ISLAND NAS, CA US</displayName>
+    <minDate>1945-04-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.7</latitude>
+    <longitude>-117.2</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9468</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INST0004</id>
+    <displayName>NORTH JUDSON 0.6 S, IN US</displayName>
+    <minDate>2006-11-09</minDate>
+    <maxDate>2009-12-02</maxDate>
+    <latitude>41.2082</latitude>
+    <longitude>-86.7747</longitude>
+    <elevation>218.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9089</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INST0007</id>
+    <displayName>NORTH JUDSON 2.0 ESE, IN US</displayName>
+    <minDate>2009-08-21</minDate>
+    <maxDate>2009-12-08</maxDate>
+    <latitude>41.201</latitude>
+    <longitude>-86.7434</longitude>
+    <elevation>215.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00126401</id>
+    <displayName>NORTH JUDSON 3 S, IN US</displayName>
+    <minDate>1992-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1734</latitude>
+    <longitude>-86.7571</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.86</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INST0001</id>
+    <displayName>NORTH JUDSON 5.7 ESE, IN US</displayName>
+    <minDate>2006-06-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.1784</latitude>
+    <longitude>-86.6791</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8757</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCY0003</id>
+    <displayName>NORTH KANSAS CITY 0.6 NNW, MO US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2007-11-24</maxDate>
+    <latitude>39.1472</latitude>
+    <longitude>-94.5698</longitude>
+    <elevation>226.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0603</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336061</id>
+    <displayName>NORTH KENOVA, OH US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1961-07-31</maxDate>
+    <latitude>38.41667</latitude>
+    <longitude>-82.5</longitude>
+    <elevation>172.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00065664</id>
+    <displayName>NORTH KENT, CT US</displayName>
+    <minDate>1949-02-01</minDate>
+    <maxDate>1950-11-30</maxDate>
+    <latitude>41.76667</latitude>
+    <longitude>-73.43333</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1RIWS0007</id>
+    <displayName>NORTH KINGSTOWN 3 N, RI US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6297</latitude>
+    <longitude>-71.4562</longitude>
+    <elevation>17.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1RIWS0004</id>
+    <displayName>NORTH KINGSTOWN, RI US</displayName>
+    <minDate>2008-02-25</minDate>
+    <maxDate>2009-07-25</maxDate>
+    <latitude>41.6305</latitude>
+    <longitude>-71.434</longitude>
+    <elevation>24.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3114</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00055990</id>
+    <displayName>NORTH LAKE, CO US</displayName>
+    <minDate>1909-09-01</minDate>
+    <maxDate>1980-10-31</maxDate>
+    <latitude>37.21667</latitude>
+    <longitude>-105.05</longitude>
+    <elevation>2684.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305987</id>
+    <displayName>NORTH LAKE, NY US</displayName>
+    <minDate>1896-09-01</minDate>
+    <maxDate>1948-04-30</maxDate>
+    <latitude>43.53333</latitude>
+    <longitude>-74.95</longitude>
+    <elevation>558.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8198</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265705</id>
+    <displayName>NORTH LAS VEGAS, NV US</displayName>
+    <minDate>1951-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2347</latitude>
+    <longitude>-115.1163</longitude>
+    <elevation>578.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5262</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDHW0021</id>
+    <displayName>NORTH LAUREL 1.5 ESE, MD US</displayName>
+    <minDate>2008-09-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1333</latitude>
+    <longitude>-76.8434</longitude>
+    <elevation>86</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00336075</id>
+    <displayName>NORTH LEWISBURG, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1909-06-30</maxDate>
+    <latitude>40.683333</latitude>
+    <longitude>-83.566667</longitude>
+    <elevation>333.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAJH0008</id>
+    <displayName>NORTH LIBERTY 1.0 ENE, IA US</displayName>
+    <minDate>2011-09-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7465</latitude>
+    <longitude>-91.5921</longitude>
+    <elevation>235.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00126416</id>
+    <displayName>NORTH LIBERTY, IN US</displayName>
+    <minDate>1992-01-01</minDate>
+    <maxDate>2004-12-31</maxDate>
+    <latitude>41.53611</latitude>
+    <longitude>-86.43611</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9429</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPS0016</id>
+    <displayName>NORTH LITTLE ROCK 1.2 E, AR US</displayName>
+    <minDate>2010-12-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7892</latitude>
+    <longitude>-92.2341</longitude>
+    <elevation>107.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPS0011</id>
+    <displayName>NORTH LITTLE ROCK 1.6 NNE, AR US</displayName>
+    <minDate>2009-10-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8091</latitude>
+    <longitude>-92.2439</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPS0027</id>
+    <displayName>NORTH LITTLE ROCK 2.4 SW, AR US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>34.7666</latitude>
+    <longitude>-92.2891</longitude>
+    <elevation>81.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPS0003</id>
+    <displayName>NORTH LITTLE ROCK 8.9 ESE, AR US</displayName>
+    <minDate>2009-02-27</minDate>
+    <maxDate>2011-03-10</maxDate>
+    <latitude>34.7384</latitude>
+    <longitude>-92.1111</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9744</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003952</id>
+    <displayName>NORTH LITTLE ROCK AIRPORT, AR US</displayName>
+    <minDate>1976-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.8353</latitude>
+    <longitude>-92.2596</longitude>
+    <elevation>171.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00166794</id>
+    <displayName>NORTH LIVINGSTON, LA US</displayName>
+    <minDate>1942-12-06</minDate>
+    <maxDate>1955-04-30</maxDate>
+    <latitude>30.55</latitude>
+    <longitude>-90.75</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.904</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTCH0021</id>
+    <displayName>NORTH LOGAN 0.7 E, UT US</displayName>
+    <minDate>2009-11-05</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>41.7718</latitude>
+    <longitude>-111.8008</longitude>
+    <elevation>1440.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3031</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="437">
+  <station>
+    <id>GHCND:USC00229400</id>
+    <displayName>WATER VALLEY, MS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1583</latitude>
+    <longitude>-89.6311</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9627</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419499</id>
+    <displayName>WATER VALLEY, TX US</displayName>
+    <minDate>1898-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6725</latitude>
+    <longitude>-100.7283</longitude>
+    <elevation>646.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00179051</id>
+    <displayName>WATERBORO, ME US</displayName>
+    <minDate>1991-02-01</minDate>
+    <maxDate>2002-02-28</maxDate>
+    <latitude>43.6</latitude>
+    <longitude>-70.8</longitude>
+    <elevation>147.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438815</id>
+    <displayName>WATERBURY 2 SSE, VT US</displayName>
+    <minDate>1958-06-01</minDate>
+    <maxDate>1992-03-31</maxDate>
+    <latitude>44.31667</latitude>
+    <longitude>-72.75</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438805</id>
+    <displayName>WATERBURY 2 SSE, VT US</displayName>
+    <minDate>1941-06-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>44.31667</latitude>
+    <longitude>-72.75</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.969</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0019</id>
+    <displayName>WATERBURY 3.0 NW, VT US</displayName>
+    <minDate>2010-01-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3606</latitude>
+    <longitude>-72.8077</longitude>
+    <elevation>139.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0018</id>
+    <displayName>WATERBURY 3.3 NE, VT US</displayName>
+    <minDate>2009-07-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.3592</latitude>
+    <longitude>-72.6964</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0002</id>
+    <displayName>WATERBURY 3.4 NNE, VT US</displayName>
+    <minDate>2009-03-26</minDate>
+    <maxDate>2009-12-23</maxDate>
+    <latitude>44.3777</latitude>
+    <longitude>-72.7193</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7473</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0003</id>
+    <displayName>WATERBURY 4.6 NNE, VT US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.397</latitude>
+    <longitude>-72.7178</longitude>
+    <elevation>236.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00068906</id>
+    <displayName>WATERBURY ANACONDA, CT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1954-03-31</maxDate>
+    <latitude>41.56667</latitude>
+    <longitude>-73.03333</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00068911</id>
+    <displayName>WATERBURY CITY HALL, CT US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>41.56667</latitude>
+    <longitude>-73.03333</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00068916</id>
+    <displayName>WATERBURY RADIO WBRY, CT US</displayName>
+    <minDate>1958-05-11</minDate>
+    <maxDate>1966-11-30</maxDate>
+    <latitude>41.58333</latitude>
+    <longitude>-73.03333</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00058839</id>
+    <displayName>WATERDALE, CO US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4256</latitude>
+    <longitude>-105.2103</longitude>
+    <elevation>1594.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9585</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00388979</id>
+    <displayName>WATEREE DAM, SC US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.3347</latitude>
+    <longitude>-80.7031</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.622</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSR0013</id>
+    <displayName>WATERFORD 0.4 NNW, NY US</displayName>
+    <minDate>2009-05-07</minDate>
+    <maxDate>2010-08-17</maxDate>
+    <latitude>42.7973</latitude>
+    <longitude>-73.6826</longitude>
+    <elevation>50.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2286</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0035</id>
+    <displayName>WATERFORD 2.1 NW, MI US</displayName>
+    <minDate>2009-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.6874</latitude>
+    <longitude>-83.4132</longitude>
+    <elevation>299.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9509</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOK0031</id>
+    <displayName>WATERFORD 2.6 N, MI US</displayName>
+    <minDate>2009-04-26</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.7008</latitude>
+    <longitude>-83.3907</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIRC0001</id>
+    <displayName>WATERFORD NORTH 3.2 NE, WI US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2012-09-22</maxDate>
+    <latitude>42.8243</latitude>
+    <longitude>-88.175</longitude>
+    <elevation>241.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1378</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448915</id>
+    <displayName>WATERFORD, VA US</displayName>
+    <minDate>1944-11-01</minDate>
+    <maxDate>1961-11-30</maxDate>
+    <latitude>39.18333</latitude>
+    <longitude>-77.6</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0023B17S</id>
+    <displayName>WATERHOLE, WA US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.9333</latitude>
+    <longitude>-123.4167</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9416</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABH0006</id>
+    <displayName>WATERLOO 1.9 SSE, IA US</displayName>
+    <minDate>2007-08-07</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.465</latitude>
+    <longitude>-92.341</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9598</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABH0009</id>
+    <displayName>WATERLOO 2.2 S, IA US</displayName>
+    <minDate>2007-08-29</minDate>
+    <maxDate>2009-05-01</maxDate>
+    <latitude>42.46</latitude>
+    <longitude>-92.35</longitude>
+    <elevation>276.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10doug012</id>
+    <displayName>WATERLOO 2.3 W, NE US</displayName>
+    <minDate>2007-02-24</minDate>
+    <maxDate>2012-11-19</maxDate>
+    <latitude>41.289</latitude>
+    <longitude>-96.331</longitude>
+    <elevation>340.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABH0008</id>
+    <displayName>WATERLOO 3.0 NNW, IA US</displayName>
+    <minDate>2007-08-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.5312</latitude>
+    <longitude>-92.3755</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7452</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IABH0015</id>
+    <displayName>WATERLOO 3.7 SW, IA US</displayName>
+    <minDate>2012-07-24</minDate>
+    <maxDate>2012-11-22</maxDate>
+    <latitude>42.4494</latitude>
+    <longitude>-92.397</longitude>
+    <elevation>281.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INDK0010</id>
+    <displayName>WATERLOO 4.0 N, IN US</displayName>
+    <minDate>2007-12-02</minDate>
+    <maxDate>2008-07-11</maxDate>
+    <latitude>41.4911</latitude>
+    <longitude>-85.0361</longitude>
+    <elevation>288</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4529</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0010</id>
+    <displayName>WATERLOO 8.7 ENE, AL US</displayName>
+    <minDate>2007-11-16</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>34.9569</latitude>
+    <longitude>-87.9194</longitude>
+    <elevation>251.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129276</id>
+    <displayName>WATERLOO HIGHWAY GAR, IN US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.43333</latitude>
+    <longitude>-85.01667</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094910</id>
+    <displayName>WATERLOO MUNICIPAL AIRPORT, IA US</displayName>
+    <minDate>1950-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.5544</latitude>
+    <longitude>-92.4011</longitude>
+    <elevation>264.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258985</id>
+    <displayName>WATERLOO NEAR, NE US</displayName>
+    <minDate>1936-07-01</minDate>
+    <maxDate>1938-12-31</maxDate>
+    <latitude>41.233333</latitude>
+    <longitude>-96.283333</longitude>
+    <elevation>344.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9026</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00138705</id>
+    <displayName>WATERLOO NUMBER 1, IA US</displayName>
+    <minDate>1997-10-01</minDate>
+    <maxDate>2008-02-26</maxDate>
+    <latitude>42.50056</latitude>
+    <longitude>-92.33194</longitude>
+    <elevation>258.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00189314</id>
+    <displayName>WATERLOO POLICE BARR, MD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1962-02-28</maxDate>
+    <latitude>39.16667</latitude>
+    <longitude>-76.78333</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00018686</id>
+    <displayName>WATERLOO, AL US</displayName>
+    <minDate>1922-07-27</minDate>
+    <maxDate>1976-07-31</maxDate>
+    <latitude>34.91667</latitude>
+    <longitude>-88.06667</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00138704</id>
+    <displayName>WATERLOO, IA US</displayName>
+    <minDate>1895-01-21</minDate>
+    <maxDate>1950-02-28</maxDate>
+    <latitude>42.51667</latitude>
+    <longitude>-92.33333</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00119002</id>
+    <displayName>WATERLOO, IL US</displayName>
+    <minDate>1911-11-01</minDate>
+    <maxDate>2011-03-28</maxDate>
+    <latitude>38.36639</latitude>
+    <longitude>-90.16194</longitude>
+    <elevation>201.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129271</id>
+    <displayName>WATERLOO, IN US</displayName>
+    <minDate>1938-01-01</minDate>
+    <maxDate>2003-02-28</maxDate>
+    <latitude>41.49306</latitude>
+    <longitude>-85.04528</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8049</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258980</id>
+    <displayName>WATERLOO, NE US</displayName>
+    <minDate>1948-10-01</minDate>
+    <maxDate>2000-01-31</maxDate>
+    <latitude>41.28333</latitude>
+    <longitude>-96.28333</longitude>
+    <elevation>339.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8616</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308987</id>
+    <displayName>WATERLOO, NY US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.9013</latitude>
+    <longitude>-76.8641</longitude>
+    <elevation>137.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00338810</id>
+    <displayName>WATERLOO, OH US</displayName>
+    <minDate>1960-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.7003</latitude>
+    <longitude>-82.4736</longitude>
+    <elevation>190.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7875</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359083</id>
+    <displayName>WATERLOO, OR US</displayName>
+    <minDate>1923-07-06</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>44.5156</latitude>
+    <longitude>-122.873</longitude>
+    <elevation>112.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478910</id>
+    <displayName>WATERLOO, WI US</displayName>
+    <minDate>2007-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.1877</latitude>
+    <longitude>-88.9844</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00119010</id>
+    <displayName>WATERMAN 1 ESE, IL US</displayName>
+    <minDate>1943-01-01</minDate>
+    <maxDate>1951-09-25</maxDate>
+    <latitude>41.765</latitude>
+    <longitude>-88.75611</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOL0002</id>
+    <displayName>WATERPORT 2.7 N, NY US</displayName>
+    <minDate>2009-04-13</minDate>
+    <maxDate>2012-05-09</maxDate>
+    <latitude>43.3562</latitude>
+    <longitude>-78.2551</longitude>
+    <elevation>85.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419503</id>
+    <displayName>WATERS BLUFF, TX US</displayName>
+    <minDate>2001-11-01</minDate>
+    <maxDate>2008-09-30</maxDate>
+    <latitude>32.525</latitude>
+    <longitude>-95.13056</longitude>
+    <elevation>153.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8662</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00208682</id>
+    <displayName>WATERSMEET 12 WSW, MI US</displayName>
+    <minDate>2010-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.2231</latitude>
+    <longitude>-89.4085</longitude>
+    <elevation>515.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9317</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIGG0004</id>
+    <displayName>WATERSMEET 5.0 SE, MI US</displayName>
+    <minDate>2009-06-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.2033</latitude>
+    <longitude>-89.1317</longitude>
+    <elevation>518.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8429</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MWAT</id>
+    <displayName>WATERSMEET MICHIGAN, MI US</displayName>
+    <minDate>2003-04-29</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.2689</latitude>
+    <longitude>-89.17</longitude>
+    <elevation>489.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00208680</id>
+    <displayName>WATERSMEET, MI US</displayName>
+    <minDate>1909-02-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.2778</latitude>
+    <longitude>-89.1742</longitude>
+    <elevation>484.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6488</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CWAT</id>
+    <displayName>WATERTON NORTH COLORADO, CO US</displayName>
+    <minDate>2002-07-19</minDate>
+    <maxDate>2012-02-05</maxDate>
+    <latitude>39.4822</latitude>
+    <longitude>-105.2092</longitude>
+    <elevation>2659.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9286</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYJF0020</id>
+    <displayName>WATERTOWN 0.2 SSE, NY US</displayName>
+    <minDate>2009-10-24</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>43.9708</latitude>
+    <longitude>-75.909</longitude>
+    <elevation>151.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8616</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCV0008</id>
+    <displayName>WATERTOWN 0.5 NNW, MN US</displayName>
+    <minDate>2011-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9663</latitude>
+    <longitude>-93.8489</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7629</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398930</id>
+    <displayName>WATERTOWN 1 W, SD US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2011-11-22</maxDate>
+    <latitude>44.9027</latitude>
+    <longitude>-97.1136</longitude>
+    <elevation>533.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0009</id>
+    <displayName>WATERTOWN 1.1 NNW, SD US</displayName>
+    <minDate>2011-05-20</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>44.928</latitude>
+    <longitude>-97.1732</longitude>
+    <elevation>531</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.789</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIJF0004</id>
+    <displayName>WATERTOWN 1.1 S, WI US</displayName>
+    <minDate>2007-04-30</minDate>
+    <maxDate>2012-10-10</maxDate>
+    <latitude>43.1761</latitude>
+    <longitude>-88.7286</longitude>
+    <elevation>247.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5826</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYJF0010</id>
+    <displayName>WATERTOWN 1.3 WNW, NY US</displayName>
+    <minDate>2008-10-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.9819</latitude>
+    <longitude>-75.934</longitude>
+    <elevation>122.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIJF0002</id>
+    <displayName>WATERTOWN 1.6 ESE, WI US</displayName>
+    <minDate>2007-03-07</minDate>
+    <maxDate>2012-10-18</maxDate>
+    <latitude>43.1792</latitude>
+    <longitude>-88.6972</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398931</id>
+    <displayName>WATERTOWN 2 S, SD US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.8696</latitude>
+    <longitude>-97.1155</longitude>
+    <elevation>540.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0002</id>
+    <displayName>WATERTOWN 2.3 NNE, SD US</displayName>
+    <minDate>2007-06-26</minDate>
+    <maxDate>2007-12-29</maxDate>
+    <latitude>44.9429</latitude>
+    <longitude>-97.1461</longitude>
+    <elevation>526.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7861</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0014</id>
+    <displayName>WATERTOWN 2.6 E, SD US</displayName>
+    <minDate>2011-07-07</minDate>
+    <maxDate>2012-08-13</maxDate>
+    <latitude>44.9091</latitude>
+    <longitude>-97.1141</longitude>
+    <elevation>541.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4406</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0008</id>
+    <displayName>WATERTOWN 2.7 E, SD US</displayName>
+    <minDate>2011-03-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9074</latitude>
+    <longitude>-97.1116</longitude>
+    <elevation>534.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0010</id>
+    <displayName>WATERTOWN 3.1 W, SD US</displayName>
+    <minDate>2011-06-21</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>44.9207</latitude>
+    <longitude>-97.2299</longitude>
+    <elevation>527.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0011</id>
+    <displayName>WATERTOWN 4.1 WSW, SD US</displayName>
+    <minDate>2011-06-03</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>44.8971</latitude>
+    <longitude>-97.2481</longitude>
+    <elevation>525.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9314</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNWN0021</id>
+    <displayName>WATERTOWN 5.5 SW, TN US</displayName>
+    <minDate>2011-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0355</latitude>
+    <longitude>-86.1974</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9346</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0005</id>
+    <displayName>WATERTOWN 7.5 NNE, SD US</displayName>
+    <minDate>2008-05-11</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>45.0043</latitude>
+    <longitude>-97.0857</longitude>
+    <elevation>542.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1707</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDCD0001</id>
+    <displayName>WATERTOWN 7.6 ENE, SD US</displayName>
+    <minDate>2007-06-06</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>44.959</latitude>
+    <longitude>-97.0247</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3355</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094790</id>
+    <displayName>WATERTOWN INTERNATIONAL AIRPORT, NY US</displayName>
+    <minDate>1949-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>43.9922</latitude>
+    <longitude>-76.0217</longitude>
+    <elevation>96.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00409481</id>
+    <displayName>WATERTOWN PUBLIC SAFETY COMPLEX, TN US</displayName>
+    <minDate>2001-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0968</latitude>
+    <longitude>-86.1397</longitude>
+    <elevation>196.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9272</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014946</id>
+    <displayName>WATERTOWN REGIONAL AIRPORT, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.9047</latitude>
+    <longitude>-97.1494</longitude>
+    <elevation>532.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218713</id>
+    <displayName>WATERTOWN, MN US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>44.96667</latitude>
+    <longitude>-93.85</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309000</id>
+    <displayName>WATERTOWN, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.9761</latitude>
+    <longitude>-75.8753</longitude>
+    <elevation>151.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9761</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478919</id>
+    <displayName>WATERTOWN, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.1741</latitude>
+    <longitude>-88.7363</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148596</id>
+    <displayName>WATERVILLE 9 NW, KS US</displayName>
+    <minDate>1959-06-11</minDate>
+    <maxDate>1962-11-30</maxDate>
+    <latitude>39.76667</latitude>
+    <longitude>-96.88333</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8227</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00278960</id>
+    <displayName>WATERVILLE VALLEY, NH US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>1949-10-31</maxDate>
+    <latitude>43.95</latitude>
+    <longitude>-71.5</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1243</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00179826</id>
+    <displayName>WATERVILLE WWTP, ME US</displayName>
+    <minDate>1895-09-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>44.5272</latitude>
+    <longitude>-69.6544</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9754</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00179151</id>
+    <displayName>WATERVILLE WWTP, ME US</displayName>
+    <minDate>1958-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5272</latitude>
+    <longitude>-69.6544</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319123</id>
+    <displayName>WATERVILLE, NC US</displayName>
+    <minDate>1930-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.7741</latitude>
+    <longitude>-83.098</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319122</id>
+    <displayName>WATERVILLE, NC US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1954-09-30</maxDate>
+    <latitude>35.7741</latitude>
+    <longitude>-83.098</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369328</id>
+    <displayName>WATERVILLE, PA US</displayName>
+    <minDate>1895-09-01</minDate>
+    <maxDate>1920-11-30</maxDate>
+    <latitude>41.304667</latitude>
+    <longitude>-77.356667</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00459012</id>
+    <displayName>WATERVILLE, WA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.6497</latitude>
+    <longitude>-120.0801</longitude>
+    <elevation>812</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIBN0007</id>
+    <displayName>WATERVLIET 0.7 NNE, MI US</displayName>
+    <minDate>2008-11-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1967</latitude>
+    <longitude>-86.2534</longitude>
+    <elevation>197.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7015</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00208690</id>
+    <displayName>WATERVLIET 3 S, MI US</displayName>
+    <minDate>1990-05-01</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>42.1444</latitude>
+    <longitude>-86.2602</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00329238</id>
+    <displayName>WATFORD CITY 12 E, ND US</displayName>
+    <minDate>1950-08-01</minDate>
+    <maxDate>1995-10-31</maxDate>
+    <latitude>47.8</latitude>
+    <longitude>-102.98333</longitude>
+    <elevation>640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2583</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00329246</id>
+    <displayName>WATFORD CITY 14 S, ND US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.6</latitude>
+    <longitude>-103.2597</longitude>
+    <elevation>617.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NWAT</id>
+    <displayName>WATFORD CITY NORTH DAKOTA, ND US</displayName>
+    <minDate>1997-07-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.7803</latitude>
+    <longitude>-103.2867</longitude>
+    <elevation>659.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9361</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00329233</id>
+    <displayName>WATFORD CITY, ND US</displayName>
+    <minDate>1912-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.8038</latitude>
+    <longitude>-103.2891</longitude>
+    <elevation>661.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7748</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0199</id>
+    <displayName>WATKINS 4.3 SSE, CO US</displayName>
+    <minDate>2008-09-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.696</latitude>
+    <longitude>-104.56</longitude>
+    <elevation>1755.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8235</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309021</id>
+    <displayName>WATKINS GLEN 2 NW, NY US</displayName>
+    <minDate>1970-09-01</minDate>
+    <maxDate>1976-10-31</maxDate>
+    <latitude>42.4</latitude>
+    <longitude>-76.9</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8247</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSY0010</id>
+    <displayName>WATKINS GLEN 3.9 W, NY US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2010-12-01</maxDate>
+    <latitude>42.3811</latitude>
+    <longitude>-76.9445</longitude>
+    <elevation>449.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9347</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSY0006</id>
+    <displayName>WATKINS GLEN 4.6 NW, NY US</displayName>
+    <minDate>2010-03-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4177</latitude>
+    <longitude>-76.9425</longitude>
+    <elevation>434.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9294</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSY0007</id>
+    <displayName>WATKINS GLEN 5.8 WSW, NY US</displayName>
+    <minDate>2010-03-25</minDate>
+    <maxDate>2010-09-23</maxDate>
+    <latitude>42.351</latitude>
+    <longitude>-76.9735</longitude>
+    <elevation>437.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6393</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309020</id>
+    <displayName>WATKINS GLEN, NY US</displayName>
+    <minDate>1965-11-01</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>42.36667</latitude>
+    <longitude>-76.86667</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2369</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOC0009</id>
+    <displayName>WATKINSVILLE 1.6 ENE, GA US</displayName>
+    <minDate>2009-06-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8701</latitude>
+    <longitude>-83.3823</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOC0001</id>
+    <displayName>WATKINSVILLE 1.8 NNE, GA US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8844</latitude>
+    <longitude>-83.3914</longitude>
+    <elevation>203</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9118</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOC0010</id>
+    <displayName>WATKINSVILLE 10.1 SSE, GA US</displayName>
+    <minDate>2011-07-18</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.7272</latitude>
+    <longitude>-83.3381</longitude>
+    <elevation>191.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9232</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063850</id>
+    <displayName>WATKINSVILLE 5 SSE, GA US</displayName>
+    <minDate>2004-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.7837</latitude>
+    <longitude>-83.3896</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOC0012</id>
+    <displayName>WATKINSVILLE 5.4 NW, GA US</displayName>
+    <minDate>2011-12-10</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>33.9124</latitude>
+    <longitude>-83.4804</longitude>
+    <elevation>240.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOC0003</id>
+    <displayName>WATKINSVILLE 6.0 S, GA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2009-05-16</maxDate>
+    <latitude>33.7768</latitude>
+    <longitude>-83.3889</longitude>
+    <elevation>216.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.75</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00099169</id>
+    <displayName>WATKINSVILLE ARS, GA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2005-07-05</maxDate>
+    <latitude>33.8731</latitude>
+    <longitude>-83.4361</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0715</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000GATH</id>
+    <displayName>WATKINSVILLE GEORGIA, GA US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>33.8967</latitude>
+    <longitude>-83.3656</longitude>
+    <elevation>205.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00349370</id>
+    <displayName>WATONGA 7 W MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.84167</latitude>
+    <longitude>-98.52611</longitude>
+    <elevation>516.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9392</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="80">
+  <station>
+    <id>GHCND:USC00081544</id>
+    <displayName>CHIPLEY, FL US</displayName>
+    <minDate>1939-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.78361</latitude>
+    <longitude>-85.48472</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00471578</id>
+    <displayName>CHIPPEWA FALLS, WI US</displayName>
+    <minDate>1889-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.9277</latitude>
+    <longitude>-91.4081</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331544</id>
+    <displayName>CHIPPEWA LAKE W WKS, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>41.06667</latitude>
+    <longitude>-81.9</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9333</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331541</id>
+    <displayName>CHIPPEWA LAKE, OH US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0517</latitude>
+    <longitude>-81.9361</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411711</id>
+    <displayName>CHIRENO, TX US</displayName>
+    <minDate>1989-02-01</minDate>
+    <maxDate>2012-08-22</maxDate>
+    <latitude>31.5039</latitude>
+    <longitude>-94.3523</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041738</id>
+    <displayName>CHIRIACO SUMMIT, CA US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.6617</latitude>
+    <longitude>-115.7206</longitude>
+    <elevation>520</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ACHR</id>
+    <displayName>CHIRICAHUA ARIZONA, AZ US</displayName>
+    <minDate>1995-01-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32</latitude>
+    <longitude>-109.35</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9454</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00021664</id>
+    <displayName>CHIRICAHUA NATIONAL MONUMENT, AZ US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.0061</latitude>
+    <longitude>-109.3572</longitude>
+    <elevation>1615.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCG0003</id>
+    <displayName>CHISAGO CITY 1.8 ENE, MN US</displayName>
+    <minDate>2010-06-03</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>45.3586</latitude>
+    <longitude>-92.8792</longitude>
+    <elevation>283.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5245</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ACHI</id>
+    <displayName>CHISANA ALASKA, AK US</displayName>
+    <minDate>1988-07-01</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>62.1333</latitude>
+    <longitude>-142.0833</longitude>
+    <elevation>1011.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6719</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00501814</id>
+    <displayName>CHISANA, AK US</displayName>
+    <minDate>1966-10-02</minDate>
+    <maxDate>1972-08-31</maxDate>
+    <latitude>62.08333</latitude>
+    <longitude>-142.01667</longitude>
+    <elevation>967.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3799</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSL0015</id>
+    <displayName>CHISHOLM 0.4 WSW, MN US</displayName>
+    <minDate>2012-04-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.4856</latitude>
+    <longitude>-92.8869</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TCHI</id>
+    <displayName>CHISOS BASIN TEXAS, TX US</displayName>
+    <minDate>2000-06-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>29.2667</latitude>
+    <longitude>-103.3</longitude>
+    <elevation>1645.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9381</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411715</id>
+    <displayName>CHISOS BASIN, TX US</displayName>
+    <minDate>1943-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.2703</latitude>
+    <longitude>-103.3003</longitude>
+    <elevation>1615.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9841</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00501821</id>
+    <displayName>CHISTOCHINA 4 NNE, AK US</displayName>
+    <minDate>2002-10-01</minDate>
+    <maxDate>2003-10-31</maxDate>
+    <latitude>62.6125</latitude>
+    <longitude>-144.61556</longitude>
+    <elevation>592.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ACHS</id>
+    <displayName>CHISTOCHINA ALASKA, AK US</displayName>
+    <minDate>2001-06-05</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>62.5653</latitude>
+    <longitude>-144.6647</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9211</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00501824</id>
+    <displayName>CHITINA, AK US</displayName>
+    <minDate>1917-03-01</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>61.5223</latitude>
+    <longitude>-144.4407</longitude>
+    <elevation>196</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.316</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ACHT</id>
+    <displayName>CHITNA ALASKA, AK US</displayName>
+    <minDate>1998-10-26</minDate>
+    <maxDate>2012-08-24</maxDate>
+    <latitude>61.5319</latitude>
+    <longitude>-144.4397</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYMD0016</id>
+    <displayName>CHITTENANGO 2.1 ESE, NY US</displayName>
+    <minDate>2011-05-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.033</latitude>
+    <longitude>-75.8348</longitude>
+    <elevation>208.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9718</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041739</id>
+    <displayName>CHITTENDEN PASS, CA US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>2008-08-21</maxDate>
+    <latitude>36.90028</latitude>
+    <longitude>-121.59667</longitude>
+    <elevation>25</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3486</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00431433</id>
+    <displayName>CHITTENDEN, VT US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.7063</latitude>
+    <longitude>-72.9618</longitude>
+    <elevation>354.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051586</id>
+    <displayName>CHIVINGTON, CO US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>1954-12-31</maxDate>
+    <latitude>38.43333</latitude>
+    <longitude>-102.53333</longitude>
+    <elevation>1189.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0348</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451423</id>
+    <displayName>CHIWAUKUM, WA US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>1927-12-31</maxDate>
+    <latitude>47.683333</latitude>
+    <longitude>-120.733333</longitude>
+    <elevation>557.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2759</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00451426</id>
+    <displayName>CHIWAWA RIVER, WA US</displayName>
+    <minDate>1925-05-30</minDate>
+    <maxDate>1957-10-23</maxDate>
+    <latitude>48.03333</latitude>
+    <longitude>-120.83333</longitude>
+    <elevation>826.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8695</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00021680</id>
+    <displayName>CHLORIDE, AZ US</displayName>
+    <minDate>1965-04-08</minDate>
+    <maxDate>1965-09-30</maxDate>
+    <latitude>35.41667</latitude>
+    <longitude>-114.2</longitude>
+    <elevation>1225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0014F19S</id>
+    <displayName>CHOCOLATE GULCH, ID US</displayName>
+    <minDate>1993-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.7667</latitude>
+    <longitude>-114.4167</longitude>
+    <elevation>1962.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBF0008</id>
+    <displayName>CHOCOWINITY 2.6 ESE, NC US</displayName>
+    <minDate>2012-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5046</latitude>
+    <longitude>-77.0547</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00311770</id>
+    <displayName>CHOCOWINITY, NC US</displayName>
+    <minDate>2006-03-01</minDate>
+    <maxDate>2007-12-01</maxDate>
+    <latitude>35.51861</latitude>
+    <longitude>-77.15306</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091927</id>
+    <displayName>CHOESTOE, GA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.8</latitude>
+    <longitude>-83.9</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLO0005</id>
+    <displayName>CHOKE CANYON DAM NORTH SIDE, TX US</displayName>
+    <minDate>2007-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.4673</latitude>
+    <longitude>-98.2462</longitude>
+    <elevation>71.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411720</id>
+    <displayName>CHOKE CANYON DAM, TX US</displayName>
+    <minDate>1983-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.4675</latitude>
+    <longitude>-98.2525</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081556</id>
+    <displayName>CHOKOLOSKEE, FL US</displayName>
+    <minDate>2005-10-01</minDate>
+    <maxDate>2008-04-30</maxDate>
+    <latitude>25.81444</latitude>
+    <longitude>-81.36167</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9014</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041743</id>
+    <displayName>CHOLAME ALLEY RANCH, CA US</displayName>
+    <minDate>1948-07-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.71667</latitude>
+    <longitude>-120.25</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241738</id>
+    <displayName>CHOTEAU 8 NE, MT US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.8641</latitude>
+    <longitude>-112.0222</longitude>
+    <elevation>1140.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9639</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241737</id>
+    <displayName>CHOTEAU, MT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>47.8205</latitude>
+    <longitude>-112.1919</longitude>
+    <elevation>1172</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKWG0006</id>
+    <displayName>CHOUTEAU 10.0 S, OK US</displayName>
+    <minDate>2012-03-20</minDate>
+    <maxDate>2012-10-07</maxDate>
+    <latitude>36.0468</latitude>
+    <longitude>-95.3131</longitude>
+    <elevation>190.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILED0006</id>
+    <displayName>CHRISMAN 3.6 ESE, IL US</displayName>
+    <minDate>2011-05-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.779</latitude>
+    <longitude>-87.614</longitude>
+    <elevation>191.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111636</id>
+    <displayName>CHRISMAN, IL US</displayName>
+    <minDate>1999-10-01</minDate>
+    <maxDate>2005-01-31</maxDate>
+    <latitude>39.8039</latitude>
+    <longitude>-87.666</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6492</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441690</id>
+    <displayName>CHRISTCHURCH, VA US</displayName>
+    <minDate>1924-05-01</minDate>
+    <maxDate>1941-07-31</maxDate>
+    <latitude>37.616667</latitude>
+    <longitude>-76.566667</longitude>
+    <elevation>32.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401720</id>
+    <displayName>CHRISTIANA 5 W, TN US</displayName>
+    <minDate>2004-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.70472</latitude>
+    <longitude>-86.48694</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0005</id>
+    <displayName>CHRISTIANSBURG 1.1 ESE, VA US</displayName>
+    <minDate>2007-07-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1358</latitude>
+    <longitude>-80.3844</longitude>
+    <elevation>655</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9339</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0004</id>
+    <displayName>CHRISTIANSBURG 1.7 WNW, VA US</displayName>
+    <minDate>2007-07-02</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>37.1502</latitude>
+    <longitude>-80.4313</longitude>
+    <elevation>623</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0001</id>
+    <displayName>CHRISTIANSBURG 1.8 SSW, VA US</displayName>
+    <minDate>2007-06-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1192</latitude>
+    <longitude>-80.4193</longitude>
+    <elevation>662.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0003</id>
+    <displayName>CHRISTIANSBURG 2.5 ESE, VA US</displayName>
+    <minDate>2006-03-01</minDate>
+    <maxDate>2007-02-28</maxDate>
+    <latitude>37.1322</latitude>
+    <longitude>-80.3583</longitude>
+    <elevation>652.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAMN0010</id>
+    <displayName>CHRISTIANSBURG 2.9 NW, VA US</displayName>
+    <minDate>2009-05-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1682</latitude>
+    <longitude>-80.4443</longitude>
+    <elevation>615.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441691</id>
+    <displayName>CHRISTIANSBURG, VA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1901-04-30</maxDate>
+    <latitude>37.183333</latitude>
+    <longitude>-80.3</longitude>
+    <elevation>658.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9089</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441692</id>
+    <displayName>CHRISTIANSBURG, VA US</displayName>
+    <minDate>1995-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1278</latitude>
+    <longitude>-80.4033</longitude>
+    <elevation>640.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00671740</id>
+    <displayName>CHRISTIANSTED FORT, US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>17.7469</latitude>
+    <longitude>-64.7013</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4667</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQW00011624</id>
+    <displayName>CHRISTIANSTED HAMILTON FIELD AIRPORT, US</displayName>
+    <minDate>1951-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>17.6997</latitude>
+    <longitude>-64.8125</longitude>
+    <elevation>18.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8455</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008G09S</id>
+    <displayName>CHRISTINA LAKE, WY US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>1997-09-30</maxDate>
+    <latitude>42.5833</latitude>
+    <longitude>-108.9167</longitude>
+    <elevation>3041.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXAT0019</id>
+    <displayName>CHRISTINE 1.4 W, TX US</displayName>
+    <minDate>2011-06-18</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>28.7861</latitude>
+    <longitude>-98.5215</longitude>
+    <elevation>104.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMCM001</id>
+    <displayName>CHRISTINE 10.8 SSE, TX US</displayName>
+    <minDate>2007-11-21</minDate>
+    <maxDate>2012-02-15</maxDate>
+    <latitude>28.6331</latitude>
+    <longitude>-98.4564</longitude>
+    <elevation>118</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00351586</id>
+    <displayName>CHRISTMAS VALLEY 11, OR US</displayName>
+    <minDate>1981-04-01</minDate>
+    <maxDate>1982-07-31</maxDate>
+    <latitude>43.23333</latitude>
+    <longitude>-120.9</longitude>
+    <elevation>1320.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00351582</id>
+    <displayName>CHRISTMAS VALLEY, OR US</displayName>
+    <minDate>1978-04-01</minDate>
+    <maxDate>1980-12-31</maxDate>
+    <latitude>43.23333</latitude>
+    <longitude>-120.68333</longitude>
+    <elevation>1314.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411735</id>
+    <displayName>CHRISTOVAL, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>31.2</latitude>
+    <longitude>-100.48333</longitude>
+    <elevation>619</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBK0001</id>
+    <displayName>CHUBBUCK 0.5 WSW, ID US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.9198</latitude>
+    <longitude>-112.4735</longitude>
+    <elevation>1366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCHU</id>
+    <displayName>CHUCHUPATE CALIFORNIA, CA US</displayName>
+    <minDate>1999-02-16</minDate>
+    <maxDate>2012-08-20</maxDate>
+    <latitude>34.8083</latitude>
+    <longitude>-119.0125</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9437</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041754</id>
+    <displayName>CHUCHUPATE RANGER STATION, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.80778</latitude>
+    <longitude>-119.01139</longitude>
+    <elevation>1603.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9545</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TCHU</id>
+    <displayName>CHUCK SWAN SF TENNESSEE, TN US</displayName>
+    <minDate>2003-10-24</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>36.3689</latitude>
+    <longitude>-83.8986</longitude>
+    <elevation>505.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9274</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPT0010</id>
+    <displayName>CHUGWATER 0.25 W, WY US</displayName>
+    <minDate>2005-05-05</minDate>
+    <maxDate>2009-03-17</maxDate>
+    <latitude>41.75</latitude>
+    <longitude>-104.83</longitude>
+    <elevation>1615.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9073</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPT0013</id>
+    <displayName>CHUGWATER 2.7 NNW, WY US</displayName>
+    <minDate>2007-06-17</minDate>
+    <maxDate>2011-01-20</maxDate>
+    <latitude>41.7895</latitude>
+    <longitude>-104.8467</longitude>
+    <elevation>1609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7473</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYPT0011</id>
+    <displayName>CHUGWATER 8 ESE, WY US</displayName>
+    <minDate>2005-05-10</minDate>
+    <maxDate>2007-10-22</maxDate>
+    <latitude>41.7079</latitude>
+    <longitude>-104.6719</longitude>
+    <elevation>1658.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.356</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYGS0022</id>
+    <displayName>CHUGWATER 9.1 ESE, WY US</displayName>
+    <minDate>2011-10-23</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>41.7251</latitude>
+    <longitude>-104.6501</longitude>
+    <elevation>1651.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.875</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481730</id>
+    <displayName>CHUGWATER, WY US</displayName>
+    <minDate>1900-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7594</latitude>
+    <longitude>-104.8222</longitude>
+    <elevation>1616.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9793</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0024</id>
+    <displayName>CHULA VISTA 0.9 SSW, CA US</displayName>
+    <minDate>2009-01-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.6165</latitude>
+    <longitude>-117.0517</longitude>
+    <elevation>73.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9443</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0047</id>
+    <displayName>CHULA VISTA 1.7 SSW, CA US</displayName>
+    <minDate>2010-02-06</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.6044</latitude>
+    <longitude>-117.0506</longitude>
+    <elevation>63.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1475</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0017</id>
+    <displayName>CHULA VISTA 2.2 SSE, CA US</displayName>
+    <minDate>2008-12-09</minDate>
+    <maxDate>2009-05-03</maxDate>
+    <latitude>32.5982</latitude>
+    <longitude>-117.0352</longitude>
+    <elevation>63.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0018</id>
+    <displayName>CHULA VISTA 4.1 E, CA US</displayName>
+    <minDate>2008-12-25</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>32.638</latitude>
+    <longitude>-116.975</longitude>
+    <elevation>169.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041758</id>
+    <displayName>CHULA VISTA, CA US</displayName>
+    <minDate>1918-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>32.64</latitude>
+    <longitude>-117.0858</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00501926</id>
+    <displayName>CHULITNA RIVER, AK US</displayName>
+    <minDate>1971-01-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>62.82556</latitude>
+    <longitude>-149.90611</longitude>
+    <elevation>412.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8624</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSM0008</id>
+    <displayName>CHULUOTA 0.9 N, FL US</displayName>
+    <minDate>2008-01-19</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>28.652</latitude>
+    <longitude>-81.1209</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9232</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMB0058</id>
+    <displayName>CHUNCHULA 3.0 NE, AL US</displayName>
+    <minDate>2010-01-02</minDate>
+    <maxDate>2011-11-28</maxDate>
+    <latitude>30.9475</latitude>
+    <longitude>-88.1604</longitude>
+    <elevation>48.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.421</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481736</id>
+    <displayName>CHURCH BUTTES GAS PLANT, WY US</displayName>
+    <minDate>1891-03-13</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.3975</latitude>
+    <longitude>-110.0856</longitude>
+    <elevation>2156.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4434</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDDR0001</id>
+    <displayName>CHURCH CREEK 0.3 E, MD US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2009-12-15</maxDate>
+    <latitude>38.5059</latitude>
+    <longitude>-76.1487</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9454</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDQA0001</id>
+    <displayName>CHURCH HILL 0.3 WSW, MD US</displayName>
+    <minDate>2006-07-29</minDate>
+    <maxDate>2009-06-28</maxDate>
+    <latitude>39.1419</latitude>
+    <longitude>-75.9848</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNHK0004</id>
+    <displayName>CHURCH HILL 3.4 NNE, TN US</displayName>
+    <minDate>2010-08-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.569</latitude>
+    <longitude>-82.6829</longitude>
+    <elevation>442.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9725</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00421418</id>
+    <displayName>CHURCH WELLS, UT US</displayName>
+    <minDate>1975-10-01</minDate>
+    <maxDate>1986-01-31</maxDate>
+    <latitude>37.1</latitude>
+    <longitude>-111.76667</longitude>
+    <elevation>1377.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9624</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00171430</id>
+    <displayName>CHURCHILL DAM, ME US</displayName>
+    <minDate>1988-03-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>46.4925</latitude>
+    <longitude>-69.2863</longitude>
+    <elevation>284.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1903</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00321498</id>
+    <displayName>CHURCHS FERRY, ND US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1905-08-31</maxDate>
+    <latitude>48.283333</latitude>
+    <longitude>-99.2</longitude>
+    <elevation>444.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00321500</id>
+    <displayName>CHURCHS FERRY, ND US</displayName>
+    <minDate>1997-03-01</minDate>
+    <maxDate>2011-10-04</maxDate>
+    <latitude>48.2725</latitude>
+    <longitude>-99.19861</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301484</id>
+    <displayName>CHURCHVILLE, NY US</displayName>
+    <minDate>1954-02-01</minDate>
+    <maxDate>1976-06-30</maxDate>
+    <latitude>43.10056</latitude>
+    <longitude>-77.8825</longitude>
+    <elevation>168.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8152</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441708</id>
+    <displayName>CHURCHVILLE, VA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.23333</latitude>
+    <longitude>-79.16667</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAGN0004</id>
+    <displayName>CHURDAN 1.0 S, IA US</displayName>
+    <minDate>2008-04-08</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>42.1397</latitude>
+    <longitude>-94.4747</longitude>
+    <elevation>341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7226</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAGN0001</id>
+    <displayName>CHURDAN 1.9 NNE, IA US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2012-12-22</maxDate>
+    <latitude>42.1807</latitude>
+    <longitude>-94.4668</longitude>
+    <elevation>337.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00021749</id>
+    <displayName>CIBECUE, AZ US</displayName>
+    <minDate>1927-06-01</minDate>
+    <maxDate>1979-01-31</maxDate>
+    <latitude>34.0375</latitude>
+    <longitude>-110.4875</longitude>
+    <elevation>1517.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0052</id>
+    <displayName>CIBOLO 1.1 NE, TX US</displayName>
+    <minDate>2010-06-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.583</latitude>
+    <longitude>-98.218</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0068</id>
+    <displayName>CIBOLO 2.4 NW, TX US</displayName>
+    <minDate>2012-06-05</minDate>
+    <maxDate>2012-10-12</maxDate>
+    <latitude>29.5995</latitude>
+    <longitude>-98.2594</longitude>
+    <elevation>263.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0024</id>
+    <displayName>CIBOLO 2.9 NNW, TX US</displayName>
+    <minDate>2008-02-17</minDate>
+    <maxDate>2011-11-15</maxDate>
+    <latitude>29.6148</latitude>
+    <longitude>-98.2442</longitude>
+    <elevation>252.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCML046</id>
+    <displayName>CIBOLO 3.9 N, TX US</displayName>
+    <minDate>2008-08-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.6297</latitude>
+    <longitude>-98.2205</longitude>
+    <elevation>245.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411741</id>
+    <displayName>CIBOLO CREEK, TX US</displayName>
+    <minDate>1944-05-02</minDate>
+    <maxDate>1982-10-31</maxDate>
+    <latitude>29.01667</latitude>
+    <longitude>-97.93333</longitude>
+    <elevation>95.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8572</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0072</id>
+    <displayName>CICERO 0.4 W, IL US</displayName>
+    <minDate>2007-04-07</minDate>
+    <maxDate>2010-02-09</maxDate>
+    <latitude>41.8449</latitude>
+    <longitude>-87.7673</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3212</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0100</id>
+    <displayName>CICERO 1.5 SSW, IL US</displayName>
+    <minDate>2008-05-11</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>41.8231</latitude>
+    <longitude>-87.7666</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3137</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOG0013</id>
+    <displayName>CICERO 1.6 NE, NY US</displayName>
+    <minDate>2005-04-01</minDate>
+    <maxDate>2009-07-23</maxDate>
+    <latitude>43.1873</latitude>
+    <longitude>-76.0946</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4749</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHM0001</id>
+    <displayName>CICERO 4.9 WNW, IN US</displayName>
+    <minDate>2006-03-08</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.1523</latitude>
+    <longitude>-86.1089</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111648</id>
+    <displayName>CICERO, IL US</displayName>
+    <minDate>1933-11-01</minDate>
+    <maxDate>1959-05-31</maxDate>
+    <latitude>41.85</latitude>
+    <longitude>-87.76667</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00662634</id>
+    <displayName>CIDRA 1 E, PR US</displayName>
+    <minDate>1899-07-01</minDate>
+    <maxDate>1994-06-30</maxDate>
+    <latitude>18.18333</latitude>
+    <longitude>-66.15</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00291807</id>
+    <displayName>CIENEGA 5 SSW, NM US</displayName>
+    <minDate>1955-11-01</minDate>
+    <maxDate>1963-07-31</maxDate>
+    <latitude>32.03333</latitude>
+    <longitude>-105.1</longitude>
+    <elevation>1158.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSGY0010</id>
+    <displayName>CIMARRON 0.5 N, KS US</displayName>
+    <minDate>2006-08-27</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>37.8157</latitude>
+    <longitude>-100.3444</longitude>
+    <elevation>832.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2666</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSGY0012</id>
+    <displayName>CIMARRON 0.8 E, KS US</displayName>
+    <minDate>2007-06-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.8064</latitude>
+    <longitude>-100.3303</longitude>
+    <elevation>818.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6308</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0047</id>
+    <displayName>CIMARRON 11.2 S, CO US</displayName>
+    <minDate>2009-08-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2885</latitude>
+    <longitude>-107.5549</longitude>
+    <elevation>2546.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9457</coverage>
+  </station>
+</stationCollection>

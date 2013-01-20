@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="432">
+  <station>
+    <id>GHCND:USC00519303</id>
+    <displayName>WAIHEE 483, HI US</displayName>
+    <minDate>1916-08-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>20.93333</latitude>
+    <longitude>-156.51667</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519281</id>
+    <displayName>WAIHEE 837.5, HI US</displayName>
+    <minDate>1986-12-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>21.45167</latitude>
+    <longitude>-157.84889</longitude>
+    <elevation>32.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519315</id>
+    <displayName>WAIHEE VALLEY 482, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>20.9414</latitude>
+    <longitude>-156.5248</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518968</id>
+    <displayName>WAIKAMOI 449, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>20.86472</latitude>
+    <longitude>-156.19278</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519332</id>
+    <displayName>WAIKAMOI 449, HI US</displayName>
+    <minDate>1953-01-01</minDate>
+    <maxDate>2011-05-30</maxDate>
+    <latitude>20.86472</latitude>
+    <longitude>-156.19278</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9772</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00518972</id>
+    <displayName>WAIKAMOI DAM 336, HI US</displayName>
+    <minDate>1949-10-02</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>20.8089</latitude>
+    <longitude>-156.2299</longitude>
+    <elevation>1316.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519335</id>
+    <displayName>WAIKAMOI DAM 336, HI US</displayName>
+    <minDate>1953-01-01</minDate>
+    <maxDate>1978-04-30</maxDate>
+    <latitude>20.8089</latitude>
+    <longitude>-156.2299</longitude>
+    <elevation>1316.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519340</id>
+    <displayName>WAIKANE 885, HI US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>1982-11-22</maxDate>
+    <latitude>21.5</latitude>
+    <longitude>-157.88333</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519376</id>
+    <displayName>WAIKAPU 390, HI US</displayName>
+    <minDate>1916-08-16</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>20.8491</latitude>
+    <longitude>-156.5092</longitude>
+    <elevation>129.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519397</id>
+    <displayName>WAIKIKI 717.2, HI US</displayName>
+    <minDate>1965-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.2716</latitude>
+    <longitude>-157.8168</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9762</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519142</id>
+    <displayName>WAIKOLOA 95.8, HI US</displayName>
+    <minDate>1975-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>19.9189</latitude>
+    <longitude>-155.798</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9479</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519144</id>
+    <displayName>WAIKOLOA BCH RT 95.9, HI US</displayName>
+    <minDate>1989-09-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>19.9095</latitude>
+    <longitude>-155.8752</longitude>
+    <elevation>24.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519404</id>
+    <displayName>WAIKOLU 540, HI US</displayName>
+    <minDate>1965-04-01</minDate>
+    <maxDate>2007-05-31</maxDate>
+    <latitude>21.13</latitude>
+    <longitude>-156.91806</longitude>
+    <elevation>1082</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000HWAI</id>
+    <displayName>WAIKOLU VALLEY HAWAII, HI US</displayName>
+    <minDate>1993-03-29</minDate>
+    <maxDate>1999-04-05</maxDate>
+    <latitude>21.1419</latitude>
+    <longitude>-156.9222</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519432</id>
+    <displayName>WAILEA 137.4, HI US</displayName>
+    <minDate>2004-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>19.8843</latitude>
+    <longitude>-155.1226</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9036</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519460</id>
+    <displayName>WAILUA IKI 348, HI US</displayName>
+    <minDate>1971-12-01</minDate>
+    <maxDate>1997-12-31</maxDate>
+    <latitude>20.8</latitude>
+    <longitude>-156.15</longitude>
+    <elevation>801.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0193</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519467</id>
+    <displayName>WAILUA KAI 1065, HI US</displayName>
+    <minDate>1963-11-01</minDate>
+    <maxDate>2000-10-31</maxDate>
+    <latitude>22.04028</latitude>
+    <longitude>-159.34028</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1HIMI0005</id>
+    <displayName>WAILUKU 2.2 W, HI US</displayName>
+    <minDate>2012-03-01</minDate>
+    <maxDate>2012-08-28</maxDate>
+    <latitude>20.8825</latitude>
+    <longitude>-156.5398</longitude>
+    <elevation>257.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8508</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519484</id>
+    <displayName>WAILUKU 386, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2002-11-30</maxDate>
+    <latitude>20.89972</latitude>
+    <longitude>-156.51556</longitude>
+    <elevation>164.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519492</id>
+    <displayName>WAILUPE RESERVOIR 72, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1954-07-15</maxDate>
+    <latitude>21.3</latitude>
+    <longitude>-157.75</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519495</id>
+    <displayName>WAILUPE RESERVOIR 72, HI US</displayName>
+    <minDate>1954-08-12</minDate>
+    <maxDate>1969-12-31</maxDate>
+    <latitude>21.3</latitude>
+    <longitude>-157.75</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519510</id>
+    <displayName>WAIMA LOWER 197, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>20.06667</latitude>
+    <longitude>-155.63333</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519526</id>
+    <displayName>WAIMANALO EXPERIMENTAL FARM, HI US</displayName>
+    <minDate>1951-04-01</minDate>
+    <maxDate>1952-09-30</maxDate>
+    <latitude>21.33556</latitude>
+    <longitude>-157.71139</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7049</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519523</id>
+    <displayName>WAIMANALO EXPERIMENTAL FARM, HI US</displayName>
+    <minDate>1969-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>21.33556</latitude>
+    <longitude>-157.71139</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519521</id>
+    <displayName>WAIMANALO EXPERIMENTAL FARM, HI US</displayName>
+    <minDate>1907-01-01</minDate>
+    <maxDate>1969-08-31</maxDate>
+    <latitude>21.33556</latitude>
+    <longitude>-157.71139</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519593</id>
+    <displayName>WAIMEA 892, HI US</displayName>
+    <minDate>1915-01-01</minDate>
+    <maxDate>1978-04-30</maxDate>
+    <latitude>21.62611</latitude>
+    <longitude>-158.0675</longitude>
+    <elevation>93.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519629</id>
+    <displayName>WAIMEA 947, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>21.95917</latitude>
+    <longitude>-159.67583</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519603</id>
+    <displayName>WAIMEA ARBORETUM 892, HI US</displayName>
+    <minDate>1983-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>21.6369</latitude>
+    <longitude>-158.0536</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00513078</id>
+    <displayName>WAIMEA KOHALA AIRPORT, HI US</displayName>
+    <minDate>1953-05-01</minDate>
+    <maxDate>1970-10-31</maxDate>
+    <latitude>20</latitude>
+    <longitude>-155.66667</longitude>
+    <elevation>812.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00027503</id>
+    <displayName>WAINWRIGHT AIRPORT, AK US</displayName>
+    <minDate>1935-09-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>70.63917</latitude>
+    <longitude>-159.995</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519765</id>
+    <displayName>WAIOPAI RANCH 256, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>20.6305</latitude>
+    <longitude>-156.2042</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6842</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519738</id>
+    <displayName>WAIPAHU 750, HI US</displayName>
+    <minDate>1906-01-01</minDate>
+    <maxDate>2012-11-13</maxDate>
+    <latitude>21.3867</latitude>
+    <longitude>-158.0066</longitude>
+    <elevation>14.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5775</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438633</id>
+    <displayName>WAITSFIELD 1 W, VT US</displayName>
+    <minDate>1983-08-01</minDate>
+    <maxDate>1985-06-30</maxDate>
+    <latitude>44.2</latitude>
+    <longitude>-72.85</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9857</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438640</id>
+    <displayName>WAITSFIELD 2 SE, VT US</displayName>
+    <minDate>2009-04-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.1756</latitude>
+    <longitude>-72.7961</longitude>
+    <elevation>348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7224</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438637</id>
+    <displayName>WAITSFIELD 2 W, VT US</displayName>
+    <minDate>1985-07-01</minDate>
+    <maxDate>2011-02-09</maxDate>
+    <latitude>44.18722</latitude>
+    <longitude>-72.87806</longitude>
+    <elevation>313.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438644</id>
+    <displayName>WAITSFIELD 2 WSW, VT US</displayName>
+    <minDate>1955-11-01</minDate>
+    <maxDate>1983-07-31</maxDate>
+    <latitude>44.18333</latitude>
+    <longitude>-72.85</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419441</id>
+    <displayName>WAKA NEAR SOIL CONSERVATION SERVICE NUMBER 10, TX US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>1944-01-31</maxDate>
+    <latitude>36.283333</latitude>
+    <longitude>-101.1</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6491</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0001</id>
+    <displayName>WAKARUSA 0.3 WSW, IN US</displayName>
+    <minDate>2006-05-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5332</latitude>
+    <longitude>-86.019</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148490</id>
+    <displayName>WAKARUSA 2 NE, KS US</displayName>
+    <minDate>1955-03-01</minDate>
+    <maxDate>1960-03-31</maxDate>
+    <latitude>38.9</latitude>
+    <longitude>-95.66667</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9473</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0008</id>
+    <displayName>WAKARUSA 2.4 NNE, IN US</displayName>
+    <minDate>2006-08-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5655</latitude>
+    <longitude>-85.9933</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9983</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0025</id>
+    <displayName>WAKE FOREST 1.6 WSW, NC US</displayName>
+    <minDate>2008-10-01</minDate>
+    <maxDate>2012-08-20</maxDate>
+    <latitude>35.9633</latitude>
+    <longitude>-78.5475</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6162</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCFK0010</id>
+    <displayName>WAKE FOREST 3.5 NNW, NC US</displayName>
+    <minDate>2012-05-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0192</latitude>
+    <longitude>-78.5355</longitude>
+    <elevation>121.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8694</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0037</id>
+    <displayName>WAKE FOREST 4.2 SW, NC US</displayName>
+    <minDate>2007-09-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9268</latitude>
+    <longitude>-78.5717</longitude>
+    <elevation>103</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9678</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0021</id>
+    <displayName>WAKE FOREST 4.6 SW, NC US</displayName>
+    <minDate>2007-09-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.917</latitude>
+    <longitude>-78.5685</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9452</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0013</id>
+    <displayName>WAKEENEY 0.7 NW, KS US</displayName>
+    <minDate>2008-04-13</minDate>
+    <maxDate>2011-10-10</maxDate>
+    <latitude>39.0317</latitude>
+    <longitude>-99.8902</longitude>
+    <elevation>735.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.174</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0012</id>
+    <displayName>WAKEENEY 0.7 SE, KS US</displayName>
+    <minDate>2008-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0172</latitude>
+    <longitude>-99.8717</longitude>
+    <elevation>747.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0011</id>
+    <displayName>WAKEENEY 10.9 S, KS US</displayName>
+    <minDate>2008-04-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8663</latitude>
+    <longitude>-99.8971</longitude>
+    <elevation>699.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148498</id>
+    <displayName>WAKEENEY 11 NNE, KS US</displayName>
+    <minDate>1953-09-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>39.23</latitude>
+    <longitude>-99.88</longitude>
+    <elevation>722.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0016</id>
+    <displayName>WAKEENEY 2.5 W, KS US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2009-03-13</maxDate>
+    <latitude>39.0292</latitude>
+    <longitude>-99.9277</longitude>
+    <elevation>754.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0006</id>
+    <displayName>WAKEENEY 2.6 SSW, KS US</displayName>
+    <minDate>2008-03-22</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>38.9872</latitude>
+    <longitude>-99.8919</longitude>
+    <elevation>737.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5191</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0010</id>
+    <displayName>WAKEENEY 5.1 E, KS US</displayName>
+    <minDate>2008-04-08</minDate>
+    <maxDate>2012-09-13</maxDate>
+    <latitude>39.0094</latitude>
+    <longitude>-99.7883</longitude>
+    <elevation>723</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3852</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0004</id>
+    <displayName>WAKEENEY 5.7 S, KS US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.9409</latitude>
+    <longitude>-99.8924</longitude>
+    <elevation>748</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0023</id>
+    <displayName>WAKEENEY 9.7 WSW, KS US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2011-11-09</maxDate>
+    <latitude>38.9571</latitude>
+    <longitude>-100.0414</longitude>
+    <elevation>763.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148496</id>
+    <displayName>WAKEENEY NEAR, KS US</displayName>
+    <minDate>1899-09-01</minDate>
+    <maxDate>1907-12-31</maxDate>
+    <latitude>39.025008</latitude>
+    <longitude>-99.879566</longitude>
+    <elevation>746.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9491</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148495</id>
+    <displayName>WAKEENEY, KS US</displayName>
+    <minDate>1892-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0147</latitude>
+    <longitude>-99.8721</longitude>
+    <elevation>745.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9019</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAWF0004</id>
+    <displayName>WAKEFIELD 0.9 WNW, LA US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>30.8928</latitude>
+    <longitude>-91.3641</longitude>
+    <elevation>73.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7367</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448803</id>
+    <displayName>WAKEFIELD 1 NW, VA US</displayName>
+    <minDate>1960-01-01</minDate>
+    <maxDate>1977-10-31</maxDate>
+    <latitude>37</latitude>
+    <longitude>-77</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.698</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00448800</id>
+    <displayName>WAKEFIELD 1 NW, VA US</displayName>
+    <minDate>1982-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.9839</latitude>
+    <longitude>-77.0078</longitude>
+    <elevation>34.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9735</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCY0004</id>
+    <displayName>WAKEFIELD 3.1 ENE, KS US</displayName>
+    <minDate>2009-06-13</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>39.227</latitude>
+    <longitude>-96.9618</longitude>
+    <elevation>374.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7753</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10thur002</id>
+    <displayName>WAKEFIELD 4.25 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>42.2032</latitude>
+    <longitude>-96.8233</longitude>
+    <elevation>431.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8097</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dixo003</id>
+    <displayName>WAKEFIELD 4.3 ENE, NE US</displayName>
+    <minDate>2007-03-29</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>42.3056</latitude>
+    <longitude>-96.7977</longitude>
+    <elevation>465.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5218</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093773</id>
+    <displayName>WAKEFIELD MUNICIPAL AIRPORT, VA US</displayName>
+    <minDate>1997-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.98389</latitude>
+    <longitude>-77.00722</longitude>
+    <elevation>33.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9838</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148503</id>
+    <displayName>WAKEFIELD, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>39.2302</latitude>
+    <longitude>-97.0895</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00208559</id>
+    <displayName>WAKEFIELD, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.47917</latitude>
+    <longitude>-89.93222</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.77</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00258915</id>
+    <displayName>WAKEFIELD, NE US</displayName>
+    <minDate>1894-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2646</latitude>
+    <longitude>-96.8668</longitude>
+    <elevation>423.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9861</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHER0005</id>
+    <displayName>WAKEMAN 4.6 NNE, OH US</displayName>
+    <minDate>2010-05-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.319</latitude>
+    <longitude>-82.3773</longitude>
+    <elevation>244.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5754</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00398843</id>
+    <displayName>WAKPALA, SD US</displayName>
+    <minDate>1940-07-01</minDate>
+    <maxDate>1945-02-28</maxDate>
+    <latitude>45.65</latitude>
+    <longitude>-100.533333</longitude>
+    <elevation>497.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8363</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHWD0009</id>
+    <displayName>WALBRIDGE 0.2 NNW, OH US</displayName>
+    <minDate>2009-07-10</minDate>
+    <maxDate>2011-09-27</maxDate>
+    <latitude>41.5878</latitude>
+    <longitude>-83.4911</longitude>
+    <elevation>188.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419435</id>
+    <displayName>WALCOTT, TX US</displayName>
+    <minDate>1971-06-01</minDate>
+    <maxDate>1976-08-31</maxDate>
+    <latitude>34.93333</latitude>
+    <longitude>-102.98333</longitude>
+    <elevation>1253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJK0005</id>
+    <displayName>WALDEN .37 ESE, CO US</displayName>
+    <minDate>2004-04-19</minDate>
+    <maxDate>2005-09-28</maxDate>
+    <latitude>40.7289</latitude>
+    <longitude>-106.2773</longitude>
+    <elevation>2479.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJK0020</id>
+    <displayName>WALDEN 0.3 NNE, CO US</displayName>
+    <minDate>2008-04-23</minDate>
+    <maxDate>2008-10-05</maxDate>
+    <latitude>40.7338</latitude>
+    <longitude>-106.2785</longitude>
+    <elevation>2462.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7711</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308906</id>
+    <displayName>WALDEN 1 ESE, NY US</displayName>
+    <minDate>1972-07-01</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>41.5514</latitude>
+    <longitude>-74.1628</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9684</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJK0023</id>
+    <displayName>WALDEN 16.3 WSW, CO US</displayName>
+    <minDate>2008-05-08</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>40.6589</latitude>
+    <longitude>-106.5781</longitude>
+    <elevation>2658.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8577</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00308902</id>
+    <displayName>WALDEN 2 NE, NY US</displayName>
+    <minDate>1922-01-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>41.56667</latitude>
+    <longitude>-74.16667</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJK0025</id>
+    <displayName>WALDEN 2.6 SE, CO US</displayName>
+    <minDate>2009-10-22</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.7081</latitude>
+    <longitude>-106.2544</longitude>
+    <elevation>2495.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00438652</id>
+    <displayName>WALDEN 4 N, VT US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.5027</latitude>
+    <longitude>-72.2204</longitude>
+    <elevation>685.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9968</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00058756</id>
+    <displayName>WALDEN, CO US</displayName>
+    <minDate>1897-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.7442</latitude>
+    <longitude>-106.2792</longitude>
+    <elevation>2455.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARCM0003</id>
+    <displayName>WALDO 4.2 S, AR US</displayName>
+    <minDate>2011-03-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2919</latitude>
+    <longitude>-93.2938</longitude>
+    <elevation>93.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8814</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSRS0017</id>
+    <displayName>WALDO 6.0 SSE, KS US</displayName>
+    <minDate>2008-03-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0373</latitude>
+    <longitude>-98.7613</longitude>
+    <elevation>539.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358968</id>
+    <displayName>WALDO LAKE, OR US</displayName>
+    <minDate>1913-08-23</minDate>
+    <maxDate>1915-05-31</maxDate>
+    <latitude>43.66667</latitude>
+    <longitude>-122.08333</longitude>
+    <elevation>1674</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00478861</id>
+    <displayName>WALDO NEAR, WI US</displayName>
+    <minDate>1944-06-01</minDate>
+    <maxDate>1947-01-31</maxDate>
+    <latitude>43.683333</latitude>
+    <longitude>-87.95</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9477</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00358964</id>
+    <displayName>WALDO, OR US</displayName>
+    <minDate>1912-05-16</minDate>
+    <maxDate>1935-08-31</maxDate>
+    <latitude>42.033333</latitude>
+    <longitude>-123.616667</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MELN0020</id>
+    <displayName>WALDOBORO 3.2 N, ME US</displayName>
+    <minDate>2012-04-04</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.1422</latitude>
+    <longitude>-69.3708</longitude>
+    <elevation>72.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0033</id>
+    <displayName>WALDORF 2.2 E, MD US</displayName>
+    <minDate>2010-06-07</minDate>
+    <maxDate>2012-02-03</maxDate>
+    <latitude>38.644</latitude>
+    <longitude>-76.8639</longitude>
+    <elevation>63.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2422</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0020</id>
+    <displayName>WALDORF 2.4 W, MD US</displayName>
+    <minDate>2006-08-14</minDate>
+    <maxDate>2011-11-25</maxDate>
+    <latitude>38.6382</latitude>
+    <longitude>-76.9485</longitude>
+    <elevation>61.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0014</id>
+    <displayName>WALDORF 2.8 ENE, MD US</displayName>
+    <minDate>2006-07-18</minDate>
+    <maxDate>2008-02-21</maxDate>
+    <latitude>38.65</latitude>
+    <longitude>-76.8534</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3134</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0007</id>
+    <displayName>WALDORF 3.2 SW, MD US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2010-06-04</maxDate>
+    <latitude>38.6073</latitude>
+    <longitude>-76.9432</longitude>
+    <elevation>65.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0771</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0035</id>
+    <displayName>WALDORF 3.3 S, MD US</displayName>
+    <minDate>2011-07-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5943</latitude>
+    <longitude>-76.9145</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8579</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCH0009</id>
+    <displayName>WALDORF 3.6 SSE, MD US</displayName>
+    <minDate>2005-12-06</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>38.5966</latitude>
+    <longitude>-76.871</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00189195</id>
+    <displayName>WALDORF POLICE BRRCK, MD US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1977-09-30</maxDate>
+    <latitude>38.65167</latitude>
+    <longitude>-76.88056</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLC0008</id>
+    <displayName>WALDPORT 0.6 N, OR US</displayName>
+    <minDate>2009-06-20</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.4295</latitude>
+    <longitude>-124.063</longitude>
+    <elevation>1.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3413</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLC0011</id>
+    <displayName>WALDPORT 1.0 WSW, OR US</displayName>
+    <minDate>2012-02-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.4169</latitude>
+    <longitude>-124.0824</longitude>
+    <elevation>16.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLC0005</id>
+    <displayName>WALDPORT 5.2 NNE, OR US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>44.491</latitude>
+    <longitude>-124.023</longitude>
+    <elevation>117.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0033</id>
+    <displayName>WALDRON 1.1 NNE, WA US</displayName>
+    <minDate>2010-09-13</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.7032</latitude>
+    <longitude>-123.0296</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129174</id>
+    <displayName>WALDRON 2 W, IN US</displayName>
+    <minDate>1949-02-02</minDate>
+    <maxDate>1969-12-31</maxDate>
+    <latitude>39.4538</latitude>
+    <longitude>-85.6963</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSH0015</id>
+    <displayName>WALDRON 2.0 NE, IN US</displayName>
+    <minDate>2009-09-20</minDate>
+    <maxDate>2012-10-27</maxDate>
+    <latitude>39.4746</latitude>
+    <longitude>-85.6428</longitude>
+    <elevation>259.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.246</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00037488</id>
+    <displayName>WALDRON, AR US</displayName>
+    <minDate>1919-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8992</latitude>
+    <longitude>-94.1942</longitude>
+    <elevation>205.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.96</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012B13S</id>
+    <displayName>WALDRON, MT US</displayName>
+    <minDate>1970-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.9167</latitude>
+    <longitude>-112.7833</longitude>
+    <elevation>1706.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9237</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00218613</id>
+    <displayName>WALES 2 ENE, MN US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>47.2561</latitude>
+    <longitude>-91.7017</longitude>
+    <elevation>510.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9585</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026618</id>
+    <displayName>WALES, AK US</displayName>
+    <minDate>1925-10-10</minDate>
+    <maxDate>1995-08-31</maxDate>
+    <latitude>65.62389</latitude>
+    <longitude>-168.09917</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7506</coverage>
+  </station>
+</stationCollection>

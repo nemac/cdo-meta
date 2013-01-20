@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="198">
+  <station>
+    <id>GHCND:USC00143822</id>
+    <displayName>HOWARD 5 NE, KS US</displayName>
+    <minDate>1907-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.4663</latitude>
+    <longitude>-96.2713</longitude>
+    <elevation>307.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMN0008</id>
+    <displayName>HOWARD 5.1 NNW, SD US</displayName>
+    <minDate>2009-03-23</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>44.078</latitude>
+    <longitude>-97.5709</longitude>
+    <elevation>475.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.128</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMN0002</id>
+    <displayName>HOWARD 5.1 SSE, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>43.9482</latitude>
+    <longitude>-97.4704</longitude>
+    <elevation>481.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1893</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMN0011</id>
+    <displayName>HOWARD 5.3 W, SD US</displayName>
+    <minDate>2011-04-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.005</latitude>
+    <longitude>-97.6294</longitude>
+    <elevation>439.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMN0009</id>
+    <displayName>HOWARD 7.5 N, SD US</displayName>
+    <minDate>2009-05-05</minDate>
+    <maxDate>2011-09-19</maxDate>
+    <latitude>44.118</latitude>
+    <longitude>-97.5509</longitude>
+    <elevation>485.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1348</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203939</id>
+    <displayName>HOWARD CITY, MI US</displayName>
+    <minDate>1915-10-01</minDate>
+    <maxDate>1935-02-28</maxDate>
+    <latitude>43.41667</latitude>
+    <longitude>-85.48333</longitude>
+    <elevation>264</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354060</id>
+    <displayName>HOWARD PRAIRIE DAM, OR US</displayName>
+    <minDate>1960-09-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2292</latitude>
+    <longitude>-122.3814</longitude>
+    <elevation>1392</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394037</id>
+    <displayName>HOWARD, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.0122</latitude>
+    <longitude>-97.5241</longitude>
+    <elevation>474.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9488</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354066</id>
+    <displayName>HOWARDVILLE, OR US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1955-06-30</maxDate>
+    <latitude>45.65</latitude>
+    <longitude>-117.66667</longitude>
+    <elevation>1089.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00173965</id>
+    <displayName>HOWE BROOK, ME US</displayName>
+    <minDate>1910-10-01</minDate>
+    <maxDate>1917-06-17</maxDate>
+    <latitude>46.333333</latitude>
+    <longitude>-68.25</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9135</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124113</id>
+    <displayName>HOWE MILITARY SCHOOL, IN US</displayName>
+    <minDate>1905-11-01</minDate>
+    <maxDate>1953-07-31</maxDate>
+    <latitude>41.71667</latitude>
+    <longitude>-85.41667</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9528</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414335</id>
+    <displayName>HOWE SOIL CONSERVATION SERVICE 1, TX US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>1941-06-30</maxDate>
+    <latitude>33.53333</latitude>
+    <longitude>-96.55</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104384</id>
+    <displayName>HOWE, ID US</displayName>
+    <minDate>1914-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.7827</latitude>
+    <longitude>-113.0033</longitude>
+    <elevation>1469.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MILV0002</id>
+    <displayName>HOWELL 2.2 ENE, MI US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>42.6269</latitude>
+    <longitude>-83.899</longitude>
+    <elevation>282.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3042</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203949</id>
+    <displayName>HOWELL 7 NE, MI US</displayName>
+    <minDate>1950-08-12</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-83.88333</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013G01S</id>
+    <displayName>HOWELL CANYON, ID US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.3167</latitude>
+    <longitude>-113.6167</longitude>
+    <elevation>2432.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0043</id>
+    <displayName>HOWELL TWP 2.0 S, NJ US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2011-03-16</maxDate>
+    <latitude>40.1533</latitude>
+    <longitude>-74.2028</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6048</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0017</id>
+    <displayName>HOWELL TWP 2.5 W, NJ US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1838</latitude>
+    <longitude>-74.2448</longitude>
+    <elevation>43.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203947</id>
+    <displayName>HOWELL WWTP, MI US</displayName>
+    <minDate>1891-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.5938</latitude>
+    <longitude>-83.9325</longitude>
+    <elevation>279.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8763</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424105</id>
+    <displayName>HOWELL, UT US</displayName>
+    <minDate>1913-04-01</minDate>
+    <maxDate>1917-07-31</maxDate>
+    <latitude>41.766667</latitude>
+    <longitude>-112.466667</longitude>
+    <elevation>1365.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3007</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254035</id>
+    <displayName>HOWELLS, NE US</displayName>
+    <minDate>1934-10-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>41.7175</latitude>
+    <longitude>-97.003</longitude>
+    <elevation>463.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5078</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMD0028</id>
+    <displayName>HOWES 1.8 SW, SD US</displayName>
+    <minDate>2012-07-06</minDate>
+    <maxDate>2012-11-08</maxDate>
+    <latitude>44.6039</latitude>
+    <longitude>-102.082</longitude>
+    <elevation>727.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSD0002</id>
+    <displayName>HOXIE 5.3 S, KS US</displayName>
+    <minDate>2005-04-16</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>39.2782</latitude>
+    <longitude>-100.4497</longitude>
+    <elevation>827.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1348</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143837</id>
+    <displayName>HOXIE, KS US</displayName>
+    <minDate>1897-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.3532</latitude>
+    <longitude>-100.4396</longitude>
+    <elevation>824.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9625</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244302</id>
+    <displayName>HOYT 2 WSW, MT US</displayName>
+    <minDate>2000-10-01</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>46.9191</latitude>
+    <longitude>-104.8966</longitude>
+    <elevation>648.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5754</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COMR0056</id>
+    <displayName>HOYT 6.3 NE, CO US</displayName>
+    <minDate>2004-05-26</minDate>
+    <maxDate>2006-03-27</maxDate>
+    <latitude>40.0733</latitude>
+    <longitude>-103.9826</longitude>
+    <elevation>1446.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OHOY</id>
+    <displayName>HOYT CREEK OREGON, OR US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.9764</latitude>
+    <longitude>-121.4219</longitude>
+    <elevation>1659.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8878</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213921</id>
+    <displayName>HOYT LAKES 5 N, MN US</displayName>
+    <minDate>1958-03-01</minDate>
+    <maxDate>1984-02-29</maxDate>
+    <latitude>47.58333</latitude>
+    <longitude>-92.13333</longitude>
+    <elevation>463.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054157</id>
+    <displayName>HOYT NEAR, CO US</displayName>
+    <minDate>1914-05-01</minDate>
+    <maxDate>1924-03-31</maxDate>
+    <latitude>39.9</latitude>
+    <longitude>-104.083333</longitude>
+    <elevation>1463</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8733</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054155</id>
+    <displayName>HOYT, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.9875</latitude>
+    <longitude>-104.0847</longitude>
+    <elevation>1460</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9282</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143842</id>
+    <displayName>HOYT, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1998-02-28</maxDate>
+    <latitude>39.25</latitude>
+    <longitude>-95.7</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333874</id>
+    <displayName>HOYTVILLE 2 NE, OH US</displayName>
+    <minDate>1952-06-01</minDate>
+    <maxDate>2012-05-31</maxDate>
+    <latitude>41.21667</latitude>
+    <longitude>-83.76667</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021A35S</id>
+    <displayName>HOZOMEEN CAMP, WA US</displayName>
+    <minDate>2001-09-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.9667</latitude>
+    <longitude>-121.0833</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZCH0039</id>
+    <displayName>HUACHUCA CITY 3.4 N, AZ US</displayName>
+    <minDate>2011-04-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6769</latitude>
+    <longitude>-110.3323</longitude>
+    <elevation>1318.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8637</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512151</id>
+    <displayName>HUALALAI 72, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2007-12-31</maxDate>
+    <latitude>19.69722</latitude>
+    <longitude>-155.87306</longitude>
+    <elevation>2371.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8252</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263816</id>
+    <displayName>HUALAPAI VALLEY FITT, NV US</displayName>
+    <minDate>1969-03-01</minDate>
+    <maxDate>1970-01-31</maxDate>
+    <latitude>40.9</latitude>
+    <longitude>-119.3</longitude>
+    <elevation>1260</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044144</id>
+    <displayName>HUASNA, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>35.08333</latitude>
+    <longitude>-120.38333</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9949</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10dako002</id>
+    <displayName>HUBBARD 3.1 SW, NE US</displayName>
+    <minDate>2007-05-23</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>42.3484</latitude>
+    <longitude>-96.6192</longitude>
+    <elevation>381.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6796</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203962</id>
+    <displayName>HUBBARD LAKE DAM, MI US</displayName>
+    <minDate>1945-07-01</minDate>
+    <maxDate>1965-09-30</maxDate>
+    <latitude>44.85</latitude>
+    <longitude>-83.6</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133960</id>
+    <displayName>HUBBARD, IA US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2012-11-13</maxDate>
+    <latitude>42.3008</latitude>
+    <longitude>-93.3008</longitude>
+    <elevation>331.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354072</id>
+    <displayName>HUBBARD, OR US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1897-01-31</maxDate>
+    <latitude>45.2</latitude>
+    <longitude>-123.76667</longitude>
+    <elevation>82</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9062</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414337</id>
+    <displayName>HUBBARD, TX US</displayName>
+    <minDate>1905-06-01</minDate>
+    <maxDate>1909-02-28</maxDate>
+    <latitude>31.85</latitude>
+    <longitude>-96.8</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6216</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193772</id>
+    <displayName>HUBBARDSTON, MA US</displayName>
+    <minDate>1925-04-01</minDate>
+    <maxDate>1980-10-31</maxDate>
+    <latitude>42.48333</latitude>
+    <longitude>-72</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203965</id>
+    <displayName>HUBBARDSTON, MI US</displayName>
+    <minDate>1969-02-01</minDate>
+    <maxDate>1973-05-31</maxDate>
+    <latitude>43.1</latitude>
+    <longitude>-84.83333</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2625</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254043</id>
+    <displayName>HUBBELL, NE US</displayName>
+    <minDate>1958-02-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>40.0099</latitude>
+    <longitude>-97.4977</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHMY0018</id>
+    <displayName>HUBER HEIGHTS 1.8 NNW, OH US</displayName>
+    <minDate>2012-07-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.8795</latitude>
+    <longitude>-84.1278</longitude>
+    <elevation>301.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9474</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0027</id>
+    <displayName>HUBERT 4.3 SE, NC US</displayName>
+    <minDate>2011-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6695</latitude>
+    <longitude>-77.1936</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7426</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCON0020</id>
+    <displayName>HUBERT 4.9 SE, NC US</displayName>
+    <minDate>2011-04-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6681</latitude>
+    <longitude>-77.1785</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414343</id>
+    <displayName>HUCKABAY, TX US</displayName>
+    <minDate>1963-04-16</minDate>
+    <maxDate>2010-01-29</maxDate>
+    <latitude>32.33889</latitude>
+    <longitude>-98.29722</longitude>
+    <elevation>431.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8949</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0021B62S</id>
+    <displayName>HUCKLEBERRY CREEK, WA US</displayName>
+    <minDate>1997-11-05</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>47.0667</latitude>
+    <longitude>-121.5833</longitude>
+    <elevation>1433.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9598</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0158</id>
+    <displayName>HUD 4 NW, CO US</displayName>
+    <minDate>1999-08-24</minDate>
+    <maxDate>2007-12-28</maxDate>
+    <latitude>40.136</latitude>
+    <longitude>-104.6797</longitude>
+    <elevation>1495</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.754</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444148</id>
+    <displayName>HUDDLESTON 4 SW, VA US</displayName>
+    <minDate>1950-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1259</latitude>
+    <longitude>-79.5252</longitude>
+    <elevation>273.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VABD0008</id>
+    <displayName>HUDDLESTON 8.7 SW, VA US</displayName>
+    <minDate>2009-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0663</latitude>
+    <longitude>-79.5837</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.495</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSN0012</id>
+    <displayName>HUDSON 0.3 SE, IN US</displayName>
+    <minDate>2007-08-20</minDate>
+    <maxDate>2012-11-18</maxDate>
+    <latitude>41.5308</latitude>
+    <longitude>-85.0778</longitude>
+    <elevation>301.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00274234</id>
+    <displayName>HUDSON 1 SSE, NH US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.783</latitude>
+    <longitude>-71.4148</longitude>
+    <elevation>56.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCD0015</id>
+    <displayName>HUDSON 1.0 ENE, NC US</displayName>
+    <minDate>2012-06-19</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>35.8533</latitude>
+    <longitude>-81.4688</longitude>
+    <elevation>367.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9471</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPS0001</id>
+    <displayName>HUDSON 1.1 ESE, FL US</displayName>
+    <minDate>2007-09-24</minDate>
+    <maxDate>2010-04-19</maxDate>
+    <latitude>28.3505</latitude>
+    <longitude>-82.6836</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0275</id>
+    <displayName>HUDSON 1.8 SE, CO US</displayName>
+    <minDate>2006-02-13</minDate>
+    <maxDate>2009-09-24</maxDate>
+    <latitude>40.0515</latitude>
+    <longitude>-104.6216</longitude>
+    <elevation>1523.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCD0004</id>
+    <displayName>HUDSON 1.9 SE, NC US</displayName>
+    <minDate>2008-11-08</minDate>
+    <maxDate>2010-09-27</maxDate>
+    <latitude>35.8304</latitude>
+    <longitude>-81.4608</longitude>
+    <elevation>350.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9187</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPS0038</id>
+    <displayName>HUDSON 2.5 ENE, FL US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>28.3772</latitude>
+    <longitude>-82.6656</longitude>
+    <elevation>12.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7381</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203969</id>
+    <displayName>HUDSON 3 E, MI US</displayName>
+    <minDate>1973-11-01</minDate>
+    <maxDate>2012-04-20</maxDate>
+    <latitude>41.8483</latitude>
+    <longitude>-84.2938</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8618</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSN0002</id>
+    <displayName>HUDSON 4.1 NNW, IN US</displayName>
+    <minDate>2007-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5919</latitude>
+    <longitude>-85.1012</longitude>
+    <elevation>321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9409</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WISC0010</id>
+    <displayName>HUDSON 4.3 ESE, WI US</displayName>
+    <minDate>2012-05-08</minDate>
+    <maxDate>2012-09-21</maxDate>
+    <latitude>44.9346</latitude>
+    <longitude>-92.6669</longitude>
+    <elevation>316.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSN0003</id>
+    <displayName>HUDSON 4.6 N, IN US</displayName>
+    <minDate>2007-05-03</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>41.5997</latitude>
+    <longitude>-85.0895</longitude>
+    <elevation>301.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9414</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0187</id>
+    <displayName>HUDSON 4.8 WSW, CO US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.044</latitude>
+    <longitude>-104.7254</longitude>
+    <elevation>1535</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294192</id>
+    <displayName>HUDSON 5 S, NM US</displayName>
+    <minDate>1948-09-04</minDate>
+    <maxDate>1953-11-30</maxDate>
+    <latitude>35.2</latitude>
+    <longitude>-103.51667</longitude>
+    <elevation>1229</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCB0001</id>
+    <displayName>HUDSON 8.2 S, NY US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1335</latitude>
+    <longitude>-73.7679</longitude>
+    <elevation>90.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0274</id>
+    <displayName>HUDSON 9.2 N, CO US</displayName>
+    <minDate>2006-01-25</minDate>
+    <maxDate>2007-10-24</maxDate>
+    <latitude>40.2023</latitude>
+    <longitude>-104.6195</longitude>
+    <elevation>1478.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304025</id>
+    <displayName>HUDSON CORRECTIONAL, NY US</displayName>
+    <minDate>1957-03-03</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.25</latitude>
+    <longitude>-73.8</longitude>
+    <elevation>18.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9675</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114269</id>
+    <displayName>HUDSON LK BLOOMINGTO, IL US</displayName>
+    <minDate>1942-03-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.66667</latitude>
+    <longitude>-88.93333</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133964</id>
+    <displayName>HUDSON, IA US</displayName>
+    <minDate>2012-03-11</minDate>
+    <maxDate>2012-11-29</maxDate>
+    <latitude>42.4075</latitude>
+    <longitude>-92.4633</longitude>
+    <elevation>278.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2689</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143847</id>
+    <displayName>HUDSON, KS US</displayName>
+    <minDate>1922-04-08</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.1041</latitude>
+    <longitude>-98.6592</longitude>
+    <elevation>569.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00473780</id>
+    <displayName>HUDSON, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1897-09-30</maxDate>
+    <latitude>44.93333</latitude>
+    <longitude>-92.76667</longitude>
+    <elevation>221.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.177</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304024</id>
+    <displayName>HUDSON, NY US</displayName>
+    <minDate>1920-09-01</minDate>
+    <maxDate>1957-01-29</maxDate>
+    <latitude>42.25</latitude>
+    <longitude>-73.78333</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.501</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333876</id>
+    <displayName>HUDSON, OH US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>1922-04-30</maxDate>
+    <latitude>41.25</latitude>
+    <longitude>-81.25</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIOW0020</id>
+    <displayName>HUDSONVILLE 0.3 E, MI US</displayName>
+    <minDate>2008-09-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.8653</latitude>
+    <longitude>-85.8574</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8262</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203973</id>
+    <displayName>HUDSONVILLE 1 W, MI US</displayName>
+    <minDate>1990-04-01</minDate>
+    <maxDate>1994-10-31</maxDate>
+    <latitude>42.85889</latitude>
+    <longitude>-85.88639</longitude>
+    <elevation>193.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1606</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414348</id>
+    <displayName>HUDSPETH RIVER RANCH, TX US</displayName>
+    <minDate>1988-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>30.0049</latitude>
+    <longitude>-101.1771</longitude>
+    <elevation>496.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXEP0045</id>
+    <displayName>HUECO TANKS SPHS, TX US</displayName>
+    <minDate>2012-06-29</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>31.9267</latitude>
+    <longitude>-106.0428</longitude>
+    <elevation>1380.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9746</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512156</id>
+    <displayName>HUEHUE 92.1, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>2011-09-01</maxDate>
+    <latitude>19.7532</latitude>
+    <longitude>-155.9715</longitude>
+    <elevation>597.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6072</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCBK0020</id>
+    <displayName>HUGER 5.5 SE, SC US</displayName>
+    <minDate>2009-03-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0261</latitude>
+    <longitude>-79.76</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914910</id>
+    <displayName>HUGHES FARM, US</displayName>
+    <minDate>1961-12-01</minDate>
+    <maxDate>1964-06-30</maxDate>
+    <latitude>13.36667</latitude>
+    <longitude>144.73333</longitude>
+    <elevation>106.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4199</coverage>
+  </station>
+  <station>
+    <id>GHCND:GQC00914260</id>
+    <displayName>HUGHES FARM, US</displayName>
+    <minDate>1959-08-01</minDate>
+    <maxDate>1961-10-31</maxDate>
+    <latitude>13.36667</latitude>
+    <longitude>144.73333</longitude>
+    <elevation>106.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503765</id>
+    <displayName>HUGHES, AK US</displayName>
+    <minDate>1941-03-01</minDate>
+    <maxDate>1970-01-31</maxDate>
+    <latitude>66.06667</latitude>
+    <longitude>-154.23333</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0027</id>
+    <displayName>HUGO .4 SSW, CO US</displayName>
+    <minDate>1998-06-27</minDate>
+    <maxDate>2006-05-19</maxDate>
+    <latitude>39.1305</latitude>
+    <longitude>-103.4726</longitude>
+    <elevation>1538.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0048</id>
+    <displayName>HUGO 0.2 SW, CO US</displayName>
+    <minDate>2011-06-21</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>39.1327</latitude>
+    <longitude>-103.4701</longitude>
+    <elevation>1535</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9533</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0006</id>
+    <displayName>HUGO 0.6 E, CO US</displayName>
+    <minDate>2003-01-16</minDate>
+    <maxDate>2007-11-30</maxDate>
+    <latitude>39.165</latitude>
+    <longitude>-103.4597</longitude>
+    <elevation>1570.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0017</id>
+    <displayName>HUGO 1 NNE, CO US</displayName>
+    <minDate>2003-06-04</minDate>
+    <maxDate>2008-06-24</maxDate>
+    <latitude>39.1484</latitude>
+    <longitude>-103.4615</longitude>
+    <elevation>1548.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.184</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0003</id>
+    <displayName>HUGO 1 NW, CO US</displayName>
+    <minDate>2000-05-01</minDate>
+    <maxDate>2004-06-26</maxDate>
+    <latitude>39.1435</latitude>
+    <longitude>-103.4921</longitude>
+    <elevation>1563</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1014</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054172</id>
+    <displayName>HUGO 1 NW, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1438</latitude>
+    <longitude>-103.4897</longitude>
+    <elevation>1531.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2595</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNWG0027</id>
+    <displayName>HUGO 1.0 W, MN US</displayName>
+    <minDate>2012-05-02</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>45.1674</latitude>
+    <longitude>-92.9788</longitude>
+    <elevation>284.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLN0010</id>
+    <displayName>HUGO 10 SW, CO US</displayName>
+    <minDate>2003-04-16</minDate>
+    <maxDate>2007-08-24</maxDate>
+    <latitude>39.0684</latitude>
+    <longitude>-103.63</longitude>
+    <elevation>1652</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.478</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344384</id>
+    <displayName>HUGO, OK US</displayName>
+    <minDate>1915-01-01</minDate>
+    <maxDate>2007-06-15</maxDate>
+    <latitude>34.02111</latitude>
+    <longitude>-95.53806</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSV0012</id>
+    <displayName>HUGOTON 10.8 SW, KS US</displayName>
+    <minDate>2009-05-03</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>37.0532</latitude>
+    <longitude>-101.467</longitude>
+    <elevation>989.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1292</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143855</id>
+    <displayName>HUGOTON, KS US</displayName>
+    <minDate>1904-05-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.1639</latitude>
+    <longitude>-101.3401</longitude>
+    <elevation>947.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9634</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00512161</id>
+    <displayName>HUKIPO 945, HI US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>2000-10-31</maxDate>
+    <latitude>21.98278</latitude>
+    <longitude>-159.68306</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9456</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344393</id>
+    <displayName>HULAH DAM, OK US</displayName>
+    <minDate>1946-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.91667</latitude>
+    <longitude>-96.1</longitude>
+    <elevation>226.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344388</id>
+    <displayName>HULAH, OK US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1949-07-01</maxDate>
+    <latitude>36.93333</latitude>
+    <longitude>-96.03333</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203982</id>
+    <displayName>HULBERT 2 S, MI US</displayName>
+    <minDate>1938-11-01</minDate>
+    <maxDate>1954-08-31</maxDate>
+    <latitude>46.33333</latitude>
+    <longitude>-85.15</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9607</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414358</id>
+    <displayName>HULEN, TX US</displayName>
+    <minDate>1898-04-01</minDate>
+    <maxDate>1900-11-30</maxDate>
+    <latitude>29.433333</latitude>
+    <longitude>-95.016667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5308</coverage>
+  </station>
+</stationCollection>

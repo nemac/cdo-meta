@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="144">
+  <station>
+    <id>GHCND:US1MSMD0010</id>
+    <displayName>FLORA 2.3 S, MS US</displayName>
+    <minDate>2011-08-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5137</latitude>
+    <longitude>-90.3087</longitude>
+    <elevation>89.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7428</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113109</id>
+    <displayName>FLORA 5 NW, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2009-11-30</maxDate>
+    <latitude>38.7103</latitude>
+    <longitude>-88.5758</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9604</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113106</id>
+    <displayName>FLORA, IL US</displayName>
+    <minDate>2000-02-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>38.6785</latitude>
+    <longitude>-88.4798</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122931</id>
+    <displayName>FLORA, IN US</displayName>
+    <minDate>1997-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.5405</latitude>
+    <longitude>-86.5233</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9739</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00223067</id>
+    <displayName>FLORA, MS US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1950-03-31</maxDate>
+    <latitude>32.53333</latitude>
+    <longitude>-90.31667</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9428</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPT0012</id>
+    <displayName>FLORAHOME 4.1 NNE, FL US</displayName>
+    <minDate>2011-12-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.7832</latitude>
+    <longitude>-81.8487</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9118</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYNS0007</id>
+    <displayName>FLORAL PARK 0.4 W, NY US</displayName>
+    <minDate>2008-10-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.723</latitude>
+    <longitude>-73.711</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063870</id>
+    <displayName>FLORALA MUNICIPAL AIRPORT, AL US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>31.0425</latitude>
+    <longitude>-86.31167</longitude>
+    <elevation>95.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8509</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0006</id>
+    <displayName>FLORENCE 0.2 SE, MS US</displayName>
+    <minDate>2008-07-28</minDate>
+    <maxDate>2009-04-24</maxDate>
+    <latitude>32.1526</latitude>
+    <longitude>-90.1256</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0005</id>
+    <displayName>FLORENCE 0.2 SSE, OR US</displayName>
+    <minDate>2007-12-05</minDate>
+    <maxDate>2012-07-10</maxDate>
+    <latitude>43.9778</latitude>
+    <longitude>-124.0906</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0863</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0107</id>
+    <displayName>FLORENCE 0.5 NE, OR US</displayName>
+    <minDate>2007-12-12</minDate>
+    <maxDate>2008-09-29</maxDate>
+    <latitude>43.989</latitude>
+    <longitude>-124.093</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0040</id>
+    <displayName>FLORENCE 0.6 E, OR US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2008-07-09</maxDate>
+    <latitude>43.9861</latitude>
+    <longitude>-124.0903</longitude>
+    <elevation>16.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0023</id>
+    <displayName>FLORENCE 0.6 NE, AL US</displayName>
+    <minDate>2008-04-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8337</latitude>
+    <longitude>-87.658</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0023</id>
+    <displayName>FLORENCE 0.9 E, MS US</displayName>
+    <minDate>2009-04-25</minDate>
+    <maxDate>2012-05-13</maxDate>
+    <latitude>32.1544</latitude>
+    <longitude>-90.113</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9659</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0076</id>
+    <displayName>FLORENCE 0.9 NW, OR US</displayName>
+    <minDate>2007-12-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9956</latitude>
+    <longitude>-124.115</longitude>
+    <elevation>20.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9428</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0067</id>
+    <displayName>FLORENCE 0.9 W, CO US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>38.3834</latitude>
+    <longitude>-105.1335</longitude>
+    <elevation>1613.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8004</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0033</id>
+    <displayName>FLORENCE 1.0 WSW, MS US</displayName>
+    <minDate>2011-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1481</latitude>
+    <longitude>-90.1444</longitude>
+    <elevation>94.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6596</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0032</id>
+    <displayName>FLORENCE 1.2 S, AL US</displayName>
+    <minDate>2008-10-03</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>34.8107</latitude>
+    <longitude>-87.6666</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0016</id>
+    <displayName>FLORENCE 1.5 NE, AL US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2012-06-27</maxDate>
+    <latitude>34.8449</latitude>
+    <longitude>-87.6498</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9109</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCFL0002</id>
+    <displayName>FLORENCE 1.5 S, SC US</displayName>
+    <minDate>2009-03-29</minDate>
+    <maxDate>2012-08-20</maxDate>
+    <latitude>34.1586</latitude>
+    <longitude>-79.7797</longitude>
+    <elevation>36.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYBN0004</id>
+    <displayName>FLORENCE 1.7 SSW, KY US</displayName>
+    <minDate>2008-03-12</minDate>
+    <maxDate>2010-08-23</maxDate>
+    <latitude>38.9681</latitude>
+    <longitude>-84.6514</longitude>
+    <elevation>274.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8145</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0003</id>
+    <displayName>FLORENCE 1.8 NW, OR US</displayName>
+    <minDate>2007-12-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0069</latitude>
+    <longitude>-124.1247</longitude>
+    <elevation>20.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7931</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0004</id>
+    <displayName>FLORENCE 2.1 NNW, OR US</displayName>
+    <minDate>2007-12-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0145</latitude>
+    <longitude>-124.121</longitude>
+    <elevation>26.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0020</id>
+    <displayName>FLORENCE 2.2 N, AL US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8598</latitude>
+    <longitude>-87.6721</longitude>
+    <elevation>183.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0001</id>
+    <displayName>FLORENCE 2.3 SSW, AL US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>34.7949</latitude>
+    <longitude>-87.6746</longitude>
+    <elevation>162.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0004</id>
+    <displayName>FLORENCE 2.6 SSW, AL US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2012-04-21</maxDate>
+    <latitude>34.7921</latitude>
+    <longitude>-87.6789</longitude>
+    <elevation>154.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0031</id>
+    <displayName>FLORENCE 2.9 NNW, OR US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0272</latitude>
+    <longitude>-124.1203</longitude>
+    <elevation>25.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413199</id>
+    <displayName>FLORENCE 3 SE, TX US</displayName>
+    <minDate>1963-03-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8393</latitude>
+    <longitude>-97.7924</longitude>
+    <elevation>300.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332847</id>
+    <displayName>FLORENCE 3 SSE, OH US</displayName>
+    <minDate>1975-05-01</minDate>
+    <maxDate>1994-12-31</maxDate>
+    <latitude>41.28333</latitude>
+    <longitude>-82.4</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9141</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTRV0005</id>
+    <displayName>FLORENCE 3.7 SE, MT US</displayName>
+    <minDate>2007-03-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.6068</latitude>
+    <longitude>-114.0124</longitude>
+    <elevation>1085.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0028</id>
+    <displayName>FLORENCE 3.9 SW, CO US</displayName>
+    <minDate>2004-07-01</minDate>
+    <maxDate>2004-12-12</maxDate>
+    <latitude>38.3449</latitude>
+    <longitude>-105.1636</longitude>
+    <elevation>1738.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0034</id>
+    <displayName>FLORENCE 4.7 NNW, AL US</displayName>
+    <minDate>2009-11-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8877</latitude>
+    <longitude>-87.703</longitude>
+    <elevation>182.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWM0033</id>
+    <displayName>FLORENCE 5.0 SSE, TX US</displayName>
+    <minDate>2007-10-20</minDate>
+    <maxDate>2012-08-19</maxDate>
+    <latitude>30.7782</latitude>
+    <longitude>-97.7482</longitude>
+    <elevation>290.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5413</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALLD0025</id>
+    <displayName>FLORENCE 5.4 E, AL US</displayName>
+    <minDate>2008-04-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.835</latitude>
+    <longitude>-87.5697</longitude>
+    <elevation>186.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0091</id>
+    <displayName>FLORENCE 5.4 N, OR US</displayName>
+    <minDate>2007-12-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0625</latitude>
+    <longitude>-124.0961</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9115</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0088</id>
+    <displayName>FLORENCE 5.4 S, OR US</displayName>
+    <minDate>2007-12-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9087</latitude>
+    <longitude>-124.0884</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0013</id>
+    <displayName>FLORENCE 5.5 WNW, AZ US</displayName>
+    <minDate>2009-11-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.0611</latitude>
+    <longitude>-111.4649</longitude>
+    <elevation>455.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0050</id>
+    <displayName>FLORENCE 5.8 S, OR US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.9025</latitude>
+    <longitude>-124.0947</longitude>
+    <elevation>27.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0001</id>
+    <displayName>FLORENCE 5.9 NNE, OR US</displayName>
+    <minDate>2007-11-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0612</latitude>
+    <longitude>-124.0475</longitude>
+    <elevation>71.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8833</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCFL0006</id>
+    <displayName>FLORENCE 5.9 W, SC US</displayName>
+    <minDate>2011-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1867</latitude>
+    <longitude>-79.8827</longitude>
+    <elevation>43.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.905</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORLA0089</id>
+    <displayName>FLORENCE 6 N, OR US</displayName>
+    <minDate>2007-11-19</minDate>
+    <maxDate>2010-03-31</maxDate>
+    <latitude>44.078</latitude>
+    <longitude>-124.0925</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7153</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00383111</id>
+    <displayName>FLORENCE 8 NE, SC US</displayName>
+    <minDate>1915-02-01</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>34.2933</latitude>
+    <longitude>-79.74</longitude>
+    <elevation>36.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPN0025</id>
+    <displayName>FLORENCE 9.1 NW, AZ US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.108</latitude>
+    <longitude>-111.5072</longitude>
+    <elevation>465.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012976</id>
+    <displayName>FLORENCE AT LOCK, AL US</displayName>
+    <minDate>1890-12-25</minDate>
+    <maxDate>1959-11-30</maxDate>
+    <latitude>34.78333</latitude>
+    <longitude>-87.66667</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4816</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043093</id>
+    <displayName>FLORENCE LAKE, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.27389</latitude>
+    <longitude>-118.97333</longitude>
+    <elevation>2232.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00383109</id>
+    <displayName>FLORENCE NUMBER 1, SC US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>1943-12-31</maxDate>
+    <latitude>34.166667</latitude>
+    <longitude>-79.833333</longitude>
+    <elevation>41.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9547</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352973</id>
+    <displayName>FLORENCE NUMBER 2, OR US</displayName>
+    <minDate>2006-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.0041</latitude>
+    <longitude>-124.0947</longitude>
+    <elevation>22.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013744</id>
+    <displayName>FLORENCE REGIONAL AIRPORT, SC US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.1852</latitude>
+    <longitude>-79.7238</longitude>
+    <elevation>44.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00012971</id>
+    <displayName>FLORENCE, AL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1977-04-30</maxDate>
+    <latitude>34.8</latitude>
+    <longitude>-87.68333</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8113</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023027</id>
+    <displayName>FLORENCE, AZ US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>2009-02-28</maxDate>
+    <latitude>33.0363</latitude>
+    <longitude>-111.388</longitude>
+    <elevation>426.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8165</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052955</id>
+    <displayName>FLORENCE, CO US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>1950-08-31</maxDate>
+    <latitude>38.38333</latitude>
+    <longitude>-105.13333</longitude>
+    <elevation>1583.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3559</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142773</id>
+    <displayName>FLORENCE, KS US</displayName>
+    <minDate>1925-10-01</minDate>
+    <maxDate>2009-04-30</maxDate>
+    <latitude>38.2422</latitude>
+    <longitude>-96.9241</longitude>
+    <elevation>393.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352972</id>
+    <displayName>FLORENCE, OR US</displayName>
+    <minDate>1909-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.9702</latitude>
+    <longitude>-124.1152</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2249</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472826</id>
+    <displayName>FLORENCE, WI US</displayName>
+    <minDate>1997-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.9336</latitude>
+    <longitude>-88.2583</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472822</id>
+    <displayName>FLORENCE, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1935-08-31</maxDate>
+    <latitude>45.9</latitude>
+    <longitude>-88.26667</longitude>
+    <elevation>393.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9467</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0029</id>
+    <displayName>FLORESVILLE 0.7 S, TX US</displayName>
+    <minDate>2011-04-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.1263</latitude>
+    <longitude>-98.1566</longitude>
+    <elevation>114.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9444</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0027</id>
+    <displayName>FLORESVILLE 0.7 SW, TX US</displayName>
+    <minDate>2010-06-30</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.1289</latitude>
+    <longitude>-98.1628</longitude>
+    <elevation>127.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1415</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0006</id>
+    <displayName>FLORESVILLE 2.9 ESE, TX US</displayName>
+    <minDate>2007-09-07</minDate>
+    <maxDate>2009-12-30</maxDate>
+    <latitude>29.1282</latitude>
+    <longitude>-98.1102</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1288</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0019</id>
+    <displayName>FLORESVILLE 5.5 NNW, TX US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2009-12-13</maxDate>
+    <latitude>29.2137</latitude>
+    <longitude>-98.1833</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9134</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0005</id>
+    <displayName>FLORESVILLE 8.1 NNW, TX US</displayName>
+    <minDate>2007-08-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.2495</latitude>
+    <longitude>-98.1958</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9445</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWO0028</id>
+    <displayName>FLORESVILLE 8.9 WNW, TX US</displayName>
+    <minDate>2011-01-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.1696</latitude>
+    <longitude>-98.2988</longitude>
+    <elevation>164</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3342</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413201</id>
+    <displayName>FLORESVILLE, TX US</displayName>
+    <minDate>1916-06-12</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>29.1322</latitude>
+    <longitude>-98.1597</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0049</id>
+    <displayName>FLORHAM PARK 0.2 WNW, NJ US</displayName>
+    <minDate>2011-09-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.778</latitude>
+    <longitude>-74.3992</longitude>
+    <elevation>62.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9329</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192850</id>
+    <displayName>FLORIDA, MA US</displayName>
+    <minDate>1891-01-06</minDate>
+    <maxDate>1896-02-29</maxDate>
+    <latitude>42.666667</latitude>
+    <longitude>-73.033333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293225</id>
+    <displayName>FLORIDA, NM US</displayName>
+    <minDate>1929-06-01</minDate>
+    <maxDate>1992-05-31</maxDate>
+    <latitude>32.43333</latitude>
+    <longitude>-107.48333</longitude>
+    <elevation>1356.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKBV0001</id>
+    <displayName>FLORIS 2.1 S, OK US</displayName>
+    <minDate>2008-10-14</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>36.8401</latitude>
+    <longitude>-100.7043</longitude>
+    <elevation>776</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSL0011</id>
+    <displayName>FLORISSANT 1.0 NNW, MO US</displayName>
+    <minDate>2007-04-28</minDate>
+    <maxDate>2008-04-23</maxDate>
+    <latitude>38.811</latitude>
+    <longitude>-90.3289</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3646</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSL0039</id>
+    <displayName>FLORISSANT 1.3 E, MO US</displayName>
+    <minDate>2012-05-03</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.7959</latitude>
+    <longitude>-90.3006</longitude>
+    <elevation>159.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5781</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSL0024</id>
+    <displayName>FLORISSANT 2.9 W, MO US</displayName>
+    <minDate>2010-05-29</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.7983</latitude>
+    <longitude>-90.3779</longitude>
+    <elevation>171.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9854</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSL0023</id>
+    <displayName>FLORISSANT 4.4 ENE, MO US</displayName>
+    <minDate>2010-05-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8164</latitude>
+    <longitude>-90.247</longitude>
+    <elevation>151.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COTL0019</id>
+    <displayName>FLORISSANT 5.0 N, CO US</displayName>
+    <minDate>2011-07-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0025</latitude>
+    <longitude>-105.2932</longitude>
+    <elevation>2912.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPK0045</id>
+    <displayName>FLORISSANT 7.2 SW, CO US</displayName>
+    <minDate>2004-02-11</minDate>
+    <maxDate>2006-02-28</maxDate>
+    <latitude>38.8652</latitude>
+    <longitude>-105.3729</longitude>
+    <elevation>2705.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051978</id>
+    <displayName>FLORISSANT FOSSL BED, CO US</displayName>
+    <minDate>1948-08-06</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.9127</latitude>
+    <longitude>-105.2849</longitude>
+    <elevation>2553.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9487</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052965</id>
+    <displayName>FLORISSANT FOSSL BED, CO US</displayName>
+    <minDate>1988-12-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>38.9127</latitude>
+    <longitude>-105.2849</longitude>
+    <elevation>2553.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0170</id>
+    <displayName>FLOSSMOOR 0.5 SW, IL US</displayName>
+    <minDate>2010-09-13</minDate>
+    <maxDate>2012-11-25</maxDate>
+    <latitude>41.5341</latitude>
+    <longitude>-87.6905</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4447</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCK0076</id>
+    <displayName>FLOSSMOOR 1.1 ESE, IL US</displayName>
+    <minDate>2007-05-12</minDate>
+    <maxDate>2012-07-30</maxDate>
+    <latitude>41.5345</latitude>
+    <longitude>-87.6646</longitude>
+    <elevation>206</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2223</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXNU0010</id>
+    <displayName>FLOUR BLUFF 1.6 SW, TX US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.6613</latitude>
+    <longitude>-97.3031</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352974</id>
+    <displayName>FLOURNOY VALLEY, OR US</displayName>
+    <minDate>1978-03-01</minDate>
+    <maxDate>1998-03-31</maxDate>
+    <latitude>43.19139</latitude>
+    <longitude>-123.55444</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0046</id>
+    <displayName>FLOURTOWN 0.4 WSW, PA US</displayName>
+    <minDate>2009-01-11</minDate>
+    <maxDate>2010-10-05</maxDate>
+    <latitude>40.1007</latitude>
+    <longitude>-75.2148</longitude>
+    <elevation>66.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4676</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXDN0008</id>
+    <displayName>FLOWER MOUND 2.3 NE, TX US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0562</latitude>
+    <longitude>-97.0703</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHL0001</id>
+    <displayName>FLOWERY BRANCH 1.1 SSW, GA US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1698</latitude>
+    <longitude>-83.9261</longitude>
+    <elevation>367.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAHL0004</id>
+    <displayName>FLOWERY BRANCH 3.6 SSE, GA US</displayName>
+    <minDate>2008-09-10</minDate>
+    <maxDate>2011-06-08</maxDate>
+    <latitude>34.1382</latitude>
+    <longitude>-83.8985</longitude>
+    <elevation>294.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3553</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFS0003</id>
+    <displayName>FLOWERY BRANCH 6.1 NW, GA US</displayName>
+    <minDate>2008-05-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.245</latitude>
+    <longitude>-84.0029</longitude>
+    <elevation>361.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WFLO</id>
+    <displayName>FLOWERY TRAIL WASHINGTON, WA US</displayName>
+    <minDate>1995-10-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>48.2975</latitude>
+    <longitude>-117.4039</longitude>
+    <elevation>792.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0046</id>
+    <displayName>FLOWING WELLS 2.1 NW, AZ US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>32.318</latitude>
+    <longitude>-111.031</longitude>
+    <elevation>682.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9783</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0021</id>
+    <displayName>FLOWING WELLS 3.0 NNW, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2010-04-14</maxDate>
+    <latitude>32.3316</latitude>
+    <longitude>-111.0353</longitude>
+    <elevation>703.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0063</id>
+    <displayName>FLOWING WELLS 3.1 W, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>32.2861</latitude>
+    <longitude>-111.0622</longitude>
+    <elevation>713.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0049</id>
+    <displayName>FLOWING WELLS 3.9 W, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3021</latitude>
+    <longitude>-111.0752</longitude>
+    <elevation>708.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0057</id>
+    <displayName>FLOWING WELLS 5.8 NW, AZ US</displayName>
+    <minDate>2009-09-18</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.3633</latitude>
+    <longitude>-111.0644</longitude>
+    <elevation>702.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8293</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZPM0047</id>
+    <displayName>FLOWING WELLS 6.4 NNW, AZ US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3827</latitude>
+    <longitude>-111.0379</longitude>
+    <elevation>756.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8744</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0002</id>
+    <displayName>FLOWOOD 2.9 NE, MS US</displayName>
+    <minDate>2008-07-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.3518</latitude>
+    <longitude>-90.0688</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0030</id>
+    <displayName>FLOWOOD 4.9 NE, MS US</displayName>
+    <minDate>2010-03-25</minDate>
+    <maxDate>2012-11-21</maxDate>
+    <latitude>32.3801</latitude>
+    <longitude>-90.0545</longitude>
+    <elevation>120.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00443071</id>
+    <displayName>FLOYD 2 NE, VA US</displayName>
+    <minDate>1933-02-01</minDate>
+    <maxDate>2006-09-30</maxDate>
+    <latitude>36.92778</latitude>
+    <longitude>-80.29083</longitude>
+    <elevation>800.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00443072</id>
+    <displayName>FLOYD 2, VA US</displayName>
+    <minDate>1949-11-07</minDate>
+    <maxDate>1960-03-31</maxDate>
+    <latitude>36.91667</latitude>
+    <longitude>-80.3</longitude>
+    <elevation>793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMRV0007</id>
+    <displayName>FLOYD 4.4 S, NM US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2010-08-24</maxDate>
+    <latitude>34.1515</latitude>
+    <longitude>-103.5637</longitude>
+    <elevation>1280.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMRV0005</id>
+    <displayName>FLOYD 4.7 WNW, NM US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2010-03-08</maxDate>
+    <latitude>34.2288</latitude>
+    <longitude>-103.6298</longitude>
+    <elevation>1264.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8218</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFL0004</id>
+    <displayName>FLOYD 8.0 ENE, VA US</displayName>
+    <minDate>2011-09-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.9559</latitude>
+    <longitude>-80.1838</longitude>
+    <elevation>793.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293231</id>
+    <displayName>FLOYD, NM US</displayName>
+    <minDate>1929-05-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>34.21667</latitude>
+    <longitude>-103.55</longitude>
+    <elevation>1311.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413215</id>
+    <displayName>FLOYDADA 9 SE, TX US</displayName>
+    <minDate>1947-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8761</latitude>
+    <longitude>-101.2463</longitude>
+    <elevation>954</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9476</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413214</id>
+    <displayName>FLOYDADA, TX US</displayName>
+    <minDate>1911-04-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.9849</latitude>
+    <longitude>-101.3338</longitude>
+    <elevation>981.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6834</coverage>
+  </station>
+</stationCollection>

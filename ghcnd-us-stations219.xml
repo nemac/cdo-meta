@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="219">
+  <station>
+    <id>GHCND:USS0006K30S</id>
+    <displayName>KILN, CO US</displayName>
+    <minDate>1980-09-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.3167</latitude>
+    <longitude>-106.6167</longitude>
+    <elevation>2926.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9119</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MKIL</id>
+    <displayName>KILO MONTANA, MT US</displayName>
+    <minDate>1999-09-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.445</latitude>
+    <longitude>-107.8</longitude>
+    <elevation>1330.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8979</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00514610</id>
+    <displayName>KILOHANA ALAKAI 1084, HI US</displayName>
+    <minDate>1949-10-02</minDate>
+    <maxDate>1952-11-30</maxDate>
+    <latitude>22.15</latitude>
+    <longitude>-159.6</longitude>
+    <elevation>1225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1038</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00514615</id>
+    <displayName>KILOHANA LIHUE, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1920-01-31</maxDate>
+    <latitude>21.98333</latitude>
+    <longitude>-159.4</longitude>
+    <elevation>100.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.87</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0005</id>
+    <displayName>KIM .29 S, CO US</displayName>
+    <minDate>2003-07-05</minDate>
+    <maxDate>2007-12-07</maxDate>
+    <latitude>37.2425</latitude>
+    <longitude>-103.3512</longitude>
+    <elevation>1737.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4428</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0035</id>
+    <displayName>KIM 0.2 SSE, CO US</displayName>
+    <minDate>2004-07-17</minDate>
+    <maxDate>2007-11-28</maxDate>
+    <latitude>37.2437</latitude>
+    <longitude>-103.35</longitude>
+    <elevation>1734</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8585</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054546</id>
+    <displayName>KIM 10 SSE, CO US</displayName>
+    <minDate>1988-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.115</latitude>
+    <longitude>-103.2986</longitude>
+    <elevation>1615.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0021</id>
+    <displayName>KIM 10.9 SSW, CO US</displayName>
+    <minDate>2003-11-13</minDate>
+    <maxDate>2005-09-28</maxDate>
+    <latitude>37.1392</latitude>
+    <longitude>-103.4072</longitude>
+    <elevation>1704.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5627</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054538</id>
+    <displayName>KIM 15 NNE, CO US</displayName>
+    <minDate>1948-08-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.4536</latitude>
+    <longitude>-103.322</longitude>
+    <elevation>1581.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4098</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0001</id>
+    <displayName>KIM 20.9 NNW, CO US</displayName>
+    <minDate>2003-11-10</minDate>
+    <maxDate>2005-05-26</maxDate>
+    <latitude>37.5441</latitude>
+    <longitude>-103.4286</longitude>
+    <elevation>1395.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6613</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054542</id>
+    <displayName>KIM 5 SW, CO US</displayName>
+    <minDate>1980-12-01</minDate>
+    <maxDate>1983-01-31</maxDate>
+    <latitude>37.2</latitude>
+    <longitude>-103.48333</longitude>
+    <elevation>1770.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLA0015</id>
+    <displayName>KIM 7.8 SSW, CO US</displayName>
+    <minDate>2003-08-30</minDate>
+    <maxDate>2009-05-30</maxDate>
+    <latitude>37.1392</latitude>
+    <longitude>-103.4066</longitude>
+    <elevation>1705.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1699</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBN0001</id>
+    <displayName>KIM 7.8 SSW, CO US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2003-11-14</maxDate>
+    <latitude>37.1392</latitude>
+    <longitude>-103.4066</longitude>
+    <elevation>1705.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003091</id>
+    <displayName>KIM 9 WSW, CO US</displayName>
+    <minDate>2010-05-16</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.2168</latitude>
+    <longitude>-103.5042</longitude>
+    <elevation>1789.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00104920</id>
+    <displayName>KIMAMA, ID US</displayName>
+    <minDate>1941-09-12</minDate>
+    <maxDate>1942-10-31</maxDate>
+    <latitude>42.833333</latitude>
+    <longitude>-113.783333</longitude>
+    <elevation>1302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10kimb021</id>
+    <displayName>KIMBALL 10.0 W, NE US</displayName>
+    <minDate>2011-06-10</minDate>
+    <maxDate>2012-11-15</maxDate>
+    <latitude>41.2296</latitude>
+    <longitude>-103.8541</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254440</id>
+    <displayName>KIMBALL 2 NE, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2452</latitude>
+    <longitude>-103.6344</longitude>
+    <elevation>1435</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9271</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214373</id>
+    <displayName>KIMBALL 3 N, MN US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.3533</latitude>
+    <longitude>-94.3056</longitude>
+    <elevation>349</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10kimb007</id>
+    <displayName>KIMBALL 3.3 ENE, NE US</displayName>
+    <minDate>2010-04-21</minDate>
+    <maxDate>2011-01-18</maxDate>
+    <latitude>41.2564</latitude>
+    <longitude>-103.6063</longitude>
+    <elevation>1428.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDBL0008</id>
+    <displayName>KIMBALL 3.9 ENE, SD US</displayName>
+    <minDate>2012-04-17</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>43.7585</latitude>
+    <longitude>-98.8818</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9058</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10kimb014</id>
+    <displayName>KIMBALL 5.8 NE, NE US</displayName>
+    <minDate>2007-03-11</minDate>
+    <maxDate>2010-08-31</maxDate>
+    <latitude>41.2996</latitude>
+    <longitude>-103.5903</longitude>
+    <elevation>1453</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0803</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00485165</id>
+    <displayName>KIMBALL RANCH, WY US</displayName>
+    <minDate>1899-11-12</minDate>
+    <maxDate>1904-07-31</maxDate>
+    <latitude>44.683333</latitude>
+    <longitude>-109.2</longitude>
+    <elevation>1450.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00394576</id>
+    <displayName>KIMBALL, SD US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1917-08-31</maxDate>
+    <latitude>43.75</latitude>
+    <longitude>-98.95</longitude>
+    <elevation>545</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSE0009</id>
+    <displayName>KIMBERLING CITY 1.5 WNW, MO US</displayName>
+    <minDate>2008-03-21</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>36.6512</latitude>
+    <longitude>-93.4488</longitude>
+    <elevation>310</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSE0008</id>
+    <displayName>KIMBERLING CITY 1.9 SW, MO US</displayName>
+    <minDate>2007-06-10</minDate>
+    <maxDate>2009-05-31</maxDate>
+    <latitude>36.6195</latitude>
+    <longitude>-93.4451</longitude>
+    <elevation>310.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3407</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIOG0001</id>
+    <displayName>KIMBERLY 0.3 ESE, WI US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2011-04-30</maxDate>
+    <latitude>44.2686</latitude>
+    <longitude>-88.3354</longitude>
+    <elevation>224.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0010</id>
+    <displayName>KIMBERLY 1.0 N, AL US</displayName>
+    <minDate>2007-10-29</minDate>
+    <maxDate>2008-02-13</maxDate>
+    <latitude>33.7831</latitude>
+    <longitude>-86.803</longitude>
+    <elevation>145.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIOG0002</id>
+    <displayName>KIMBERLY 1.0 SE, WI US</displayName>
+    <minDate>2007-03-18</minDate>
+    <maxDate>2010-11-12</maxDate>
+    <latitude>44.2586</latitude>
+    <longitude>-88.3284</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7784</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORGR0003</id>
+    <displayName>KIMBERLY 8.2 SSW, OR US</displayName>
+    <minDate>2008-07-14</minDate>
+    <maxDate>2012-12-23</maxDate>
+    <latitude>44.63</latitude>
+    <longitude>-119.64</longitude>
+    <elevation>623</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012L06S</id>
+    <displayName>KIMBERLY MINE, UT US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.4833</latitude>
+    <longitude>-112.3833</longitude>
+    <elevation>2834.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8485</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264199</id>
+    <displayName>KIMBERLY, NV US</displayName>
+    <minDate>1928-02-01</minDate>
+    <maxDate>1958-05-31</maxDate>
+    <latitude>39.26667</latitude>
+    <longitude>-115.03333</longitude>
+    <elevation>2204.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9902</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00424665</id>
+    <displayName>KIMBERLY, UT US</displayName>
+    <minDate>1936-03-01</minDate>
+    <maxDate>1942-07-31</maxDate>
+    <latitude>38.65</latitude>
+    <longitude>-112.38333</longitude>
+    <elevation>2638</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCN0001</id>
+    <displayName>KINARD 1.2 ENE, FL US</displayName>
+    <minDate>2008-02-29</minDate>
+    <maxDate>2012-10-03</maxDate>
+    <latitude>30.2842</latitude>
+    <longitude>-85.2441</longitude>
+    <elevation>19.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00514617</id>
+    <displayName>KINAU STREET, HI US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1925-12-31</maxDate>
+    <latitude>21.3</latitude>
+    <longitude>-157.85</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8563</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00214376</id>
+    <displayName>KINBRAE, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1893-07-31</maxDate>
+    <latitude>43.83333</latitude>
+    <longitude>-95.5</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00114739</id>
+    <displayName>KINCAID, IL US</displayName>
+    <minDate>1973-04-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.5894</latitude>
+    <longitude>-89.4556</longitude>
+    <elevation>176.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.92</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094824</id>
+    <displayName>KINCHELOE AFB, MI US</displayName>
+    <minDate>1953-04-15</minDate>
+    <maxDate>1977-08-31</maxDate>
+    <latitude>46.25</latitude>
+    <longitude>-84.46667</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204396</id>
+    <displayName>KINDE 6 NE, MI US</displayName>
+    <minDate>1996-11-01</minDate>
+    <maxDate>1997-02-28</maxDate>
+    <latitude>43.98333</latitude>
+    <longitude>-82.9</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164884</id>
+    <displayName>KINDER 3 W, LA US</displayName>
+    <minDate>1942-12-22</minDate>
+    <maxDate>1986-12-31</maxDate>
+    <latitude>30.5</latitude>
+    <longitude>-92.9</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDCS0020</id>
+    <displayName>KINDRED 0.1 SE, ND US</displayName>
+    <minDate>2010-03-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.65</latitude>
+    <longitude>-97.0193</longitude>
+    <elevation>287.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6407</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174290</id>
+    <displayName>KINEO, ME US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>1903-06-30</maxDate>
+    <latitude>45.7</latitude>
+    <longitude>-69.733333</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.823</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMT0005</id>
+    <displayName>KING CITY 13.2 S, CA US</displayName>
+    <minDate>2008-09-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0249</latitude>
+    <longitude>-121.1745</longitude>
+    <elevation>336.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAMT0008</id>
+    <displayName>KING CITY 2.0 SSW, CA US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.1872</latitude>
+    <longitude>-121.1461</longitude>
+    <elevation>113.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9629</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOAW0003</id>
+    <displayName>KING CITY 4.7 W, MO US</displayName>
+    <minDate>2009-08-27</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.0537</latitude>
+    <longitude>-94.6134</longitude>
+    <elevation>327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2739</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044558</id>
+    <displayName>KING CITY AIRPORT, CA US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>1949-08-31</maxDate>
+    <latitude>36.23333</latitude>
+    <longitude>-121.11667</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7983</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044555</id>
+    <displayName>KING CITY, CA US</displayName>
+    <minDate>1902-06-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2069</latitude>
+    <longitude>-121.1377</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234505</id>
+    <displayName>KING CITY, MO US</displayName>
+    <minDate>1925-10-01</minDate>
+    <maxDate>2010-12-12</maxDate>
+    <latitude>40.05139</latitude>
+    <longitude>-94.525</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MKIN</id>
+    <displayName>KING COULEE MONTANA, MT US</displayName>
+    <minDate>1987-11-03</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.7981</latitude>
+    <longitude>-107.0233</longitude>
+    <elevation>841.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00304415</id>
+    <displayName>KING FERRY, NY US</displayName>
+    <minDate>1900-04-01</minDate>
+    <maxDate>1915-09-30</maxDate>
+    <latitude>42.666667</latitude>
+    <longitude>-76.616667</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0023G09S</id>
+    <displayName>KING MOUNTAIN, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-123.2</longitude>
+    <elevation>1219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9156</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0043</id>
+    <displayName>KING OF PRUSSIA 1.4 ESE, PA US</displayName>
+    <minDate>2008-11-24</minDate>
+    <maxDate>2010-03-18</maxDate>
+    <latitude>40.0885</latitude>
+    <longitude>-75.3581</longitude>
+    <elevation>53.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4875</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009J01S</id>
+    <displayName>KING S CABIN, UT US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.7167</latitude>
+    <longitude>-109.55</longitude>
+    <elevation>2660.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025503</id>
+    <displayName>KING SALMON AIRPORT, AK US</displayName>
+    <minDate>1917-06-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>58.6829</latitude>
+    <longitude>-156.6563</longitude>
+    <elevation>20.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314675</id>
+    <displayName>KING, NC US</displayName>
+    <minDate>1999-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2838</latitude>
+    <longitude>-80.3624</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174326</id>
+    <displayName>KINGFIELD 1, ME US</displayName>
+    <minDate>1928-09-01</minDate>
+    <maxDate>1937-09-30</maxDate>
+    <latitude>44.959223</latitude>
+    <longitude>-70.153954</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2421</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00174324</id>
+    <displayName>KINGFIELD, ME US</displayName>
+    <minDate>1978-06-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>44.9655</latitude>
+    <longitude>-70.1711</longitude>
+    <elevation>192</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344860</id>
+    <displayName>KINGFISHER 2 NE MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.8543</latitude>
+    <longitude>-97.9544</longitude>
+    <elevation>322.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00344861</id>
+    <displayName>KINGFISHER, OK US</displayName>
+    <minDate>1897-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8582</latitude>
+    <longitude>-97.9295</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9841</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMH0002</id>
+    <displayName>KINGMAN 3.4 E, AZ US</displayName>
+    <minDate>2009-09-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1856</latitude>
+    <longitude>-113.9898</longitude>
+    <elevation>1146.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8207</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053180</id>
+    <displayName>KINGMAN 8 NE, AZ US</displayName>
+    <minDate>2011-09-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.2572</latitude>
+    <longitude>-113.9340</longitude>
+    <elevation>1043.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9895</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093167</id>
+    <displayName>KINGMAN MOHAVE CO AIRPORT, AZ US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.2577</latitude>
+    <longitude>-113.933</longitude>
+    <elevation>1042.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024645</id>
+    <displayName>KINGMAN NUMBER 2, AZ US</displayName>
+    <minDate>1967-09-01</minDate>
+    <maxDate>1993-09-30</maxDate>
+    <latitude>35.2</latitude>
+    <longitude>-114.01667</longitude>
+    <elevation>1078.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024639</id>
+    <displayName>KINGMAN, AZ US</displayName>
+    <minDate>1901-05-01</minDate>
+    <maxDate>1967-07-31</maxDate>
+    <latitude>35.18333</latitude>
+    <longitude>-114.05</longitude>
+    <elevation>1025</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00144313</id>
+    <displayName>KINGMAN, KS US</displayName>
+    <minDate>1907-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6361</latitude>
+    <longitude>-98.1136</longitude>
+    <elevation>470.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053846</id>
+    <displayName>KINGS BAY NAVY BASE, GA US</displayName>
+    <minDate>1996-08-24</minDate>
+    <maxDate>1997-12-25</maxDate>
+    <latitude>30.8</latitude>
+    <longitude>-81.5</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NKIN</id>
+    <displayName>KINGS CANYON NEBRASKA, NE US</displayName>
+    <minDate>1989-09-28</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.7239</latitude>
+    <longitude>-102.9714</longitude>
+    <elevation>1243.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9458</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244663</id>
+    <displayName>KINGS HILL, MT US</displayName>
+    <minDate>1938-02-11</minDate>
+    <maxDate>1982-09-30</maxDate>
+    <latitude>46.83333</latitude>
+    <longitude>-110.7</longitude>
+    <elevation>2226.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5655</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00674600</id>
+    <displayName>KINGS HILL, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>1978-07-31</maxDate>
+    <latitude>17.73333</latitude>
+    <longitude>-64.78333</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334238</id>
+    <displayName>KINGS MILLS, OH US</displayName>
+    <minDate>1912-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.3531</latitude>
+    <longitude>-84.2606</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCV0003</id>
+    <displayName>KINGS MOUNTAIN 1.6 SW, NC US</displayName>
+    <minDate>2008-02-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2277</latitude>
+    <longitude>-81.3703</longitude>
+    <elevation>275.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154433</id>
+    <displayName>KINGS MOUNTAIN 2 NE, KY US</displayName>
+    <minDate>2001-11-01</minDate>
+    <maxDate>2002-07-31</maxDate>
+    <latitude>37.3975</latitude>
+    <longitude>-84.65306</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314679</id>
+    <displayName>KINGS MOUNTAIN, NC US</displayName>
+    <minDate>1910-10-01</minDate>
+    <maxDate>1915-10-19</maxDate>
+    <latitude>35.216667</latitude>
+    <longitude>-81.35</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000KING</id>
+    <displayName>KINGS POINT DUTCH JOHN 16 ESE, UT US</displayName>
+    <minDate>1985-09-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.8606</latitude>
+    <longitude>-109.1022</longitude>
+    <elevation>1728.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264236</id>
+    <displayName>KINGS RIVER VALLEY, NV US</displayName>
+    <minDate>1956-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.7437</latitude>
+    <longitude>-118.2259</longitude>
+    <elevation>1292.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8412</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0016</id>
+    <displayName>KINGSBURY 0.5 S, TX US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.6403</latitude>
+    <longitude>-97.8273</longitude>
+    <elevation>176.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.859</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124613</id>
+    <displayName>KINGSBURY 1 N, IN US</displayName>
+    <minDate>1998-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.5376</latitude>
+    <longitude>-86.7015</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9859</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0012</id>
+    <displayName>KINGSBURY 4.6 WSW, IN US</displayName>
+    <minDate>2007-04-13</minDate>
+    <maxDate>2012-10-26</maxDate>
+    <latitude>41.5043</latitude>
+    <longitude>-86.7789</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.335</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0040</id>
+    <displayName>KINGSBURY 4.7 SE, TX US</displayName>
+    <minDate>2009-03-22</minDate>
+    <maxDate>2009-08-28</maxDate>
+    <latitude>29.6118</latitude>
+    <longitude>-97.7622</longitude>
+    <elevation>166.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0015</id>
+    <displayName>KINGSBURY 5.0 ENE, IN US</displayName>
+    <minDate>2007-04-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5594</latitude>
+    <longitude>-86.6061</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9733</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0037</id>
+    <displayName>KINGSBURY 8.1 NW, TX US</displayName>
+    <minDate>2008-08-19</minDate>
+    <maxDate>2010-09-02</maxDate>
+    <latitude>29.7306</latitude>
+    <longitude>-97.9254</longitude>
+    <elevation>148.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.447</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00414805</id>
+    <displayName>KINGSBURY, TX US</displayName>
+    <minDate>1997-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.6833</latitude>
+    <longitude>-97.767</longitude>
+    <elevation>155.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCA0010</id>
+    <displayName>KINGSDOWN 5.3 SSW, KS US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.436</latitude>
+    <longitude>-99.7831</longitude>
+    <elevation>707.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:CA001144230</id>
+    <displayName>KINGSGATE, ID US</displayName>
+    <minDate>1924-01-01</minDate>
+    <maxDate>1962-04-30</maxDate>
+    <latitude>49</latitude>
+    <longitude>-116.18</longitude>
+    <elevation>820</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9791</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0023</id>
+    <displayName>KINGSLAND 0.5 S, TX US</displayName>
+    <minDate>2012-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6572</latitude>
+    <longitude>-98.4521</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9525</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACM0004</id>
+    <displayName>KINGSLAND 2.9 NE, GA US</displayName>
+    <minDate>2008-06-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.8194</latitude>
+    <longitude>-81.6259</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9082</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033904</id>
+    <displayName>KINGSLAND 3 SSE, AR US</displayName>
+    <minDate>1948-06-15</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.83333</latitude>
+    <longitude>-92.26667</longitude>
+    <elevation>88.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7398</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXLL0002</id>
+    <displayName>KINGSLAND 3.3 NE, TX US</displayName>
+    <minDate>2007-09-10</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>30.6936</latitude>
+    <longitude>-98.4098</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.868</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBRT047</id>
+    <displayName>KINGSLAND 3.4 SE, TX US</displayName>
+    <minDate>2012-05-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6277</latitude>
+    <longitude>-98.4154</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7012</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204399</id>
+    <displayName>KINGSLEY 2 WSW, MI US</displayName>
+    <minDate>2003-05-01</minDate>
+    <maxDate>2011-04-30</maxDate>
+    <latitude>44.5694</latitude>
+    <longitude>-85.5722</longitude>
+    <elevation>330.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254455</id>
+    <displayName>KINGSLEY DAM, NE US</displayName>
+    <minDate>1938-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2097</latitude>
+    <longitude>-101.6705</longitude>
+    <elevation>1011.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSL0016</id>
+    <displayName>KINGSPORT 4.3 SW, TN US</displayName>
+    <minDate>2009-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4815</latitude>
+    <longitude>-82.6067</longitude>
+    <elevation>395.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9268</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSL0012</id>
+    <displayName>KINGSPORT 6.3 ENE, TN US</displayName>
+    <minDate>2008-01-11</minDate>
+    <maxDate>2009-01-11</maxDate>
+    <latitude>36.5722</latitude>
+    <longitude>-82.4563</longitude>
+    <elevation>398.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8501</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSL0019</id>
+    <displayName>KINGSPORT 7.3 S, TN US</displayName>
+    <minDate>2010-09-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.4445</latitude>
+    <longitude>-82.5558</longitude>
+    <elevation>501.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404863</id>
+    <displayName>KINGSPORT RESERVOIR, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1951-01-31</maxDate>
+    <latitude>36.5</latitude>
+    <longitude>-82.6</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404866</id>
+    <displayName>KINGSPORT T E C, TN US</displayName>
+    <minDate>1955-10-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.51667</latitude>
+    <longitude>-82.55</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00404858</id>
+    <displayName>KINGSPORT, TN US</displayName>
+    <minDate>1916-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.5194</latitude>
+    <longitude>-82.5275</longitude>
+    <elevation>391.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.916</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA025</id>
+    <displayName>KINGSTON 0.1 WNW, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.6429</latitude>
+    <longitude>-94.0396</longitude>
+    <elevation>277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1RIWS0005</id>
+    <displayName>KINGSTON 0.5 NW, RI US</displayName>
+    <minDate>2008-05-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.476</latitude>
+    <longitude>-71.531</longitude>
+    <elevation>50.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9273</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054796</id>
+    <displayName>KINGSTON 1 NW, RI US</displayName>
+    <minDate>2001-12-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.4911</latitude>
+    <longitude>-71.5413</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9797</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054797</id>
+    <displayName>KINGSTON 1 W, RI US</displayName>
+    <minDate>2001-12-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.4782</latitude>
+    <longitude>-71.5417</longitude>
+    <elevation>32.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9852</coverage>
+  </station>
+</stationCollection>

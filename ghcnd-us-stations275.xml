@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="275">
+  <station>
+    <id>GHCND:USC00115651</id>
+    <displayName>MILLBROOK, IL US</displayName>
+    <minDate>1966-07-01</minDate>
+    <maxDate>1970-05-31</maxDate>
+    <latitude>41.6</latitude>
+    <longitude>-88.55</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8574</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305334</id>
+    <displayName>MILLBROOK, NY US</displayName>
+    <minDate>1941-11-20</minDate>
+    <maxDate>2004-02-28</maxDate>
+    <latitude>41.85528</latitude>
+    <longitude>-73.67</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9018</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00194771</id>
+    <displayName>MILLBURY, MA US</displayName>
+    <minDate>1930-05-01</minDate>
+    <maxDate>1960-03-31</maxDate>
+    <latitude>42.18333</latitude>
+    <longitude>-71.75</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILCR0005</id>
+    <displayName>MILLEDGEVILLE 0.2 NE, IL US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2012-04-15</maxDate>
+    <latitude>41.9658</latitude>
+    <longitude>-89.7733</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.282</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GABD0001</id>
+    <displayName>MILLEDGEVILLE 6.5 SSE, GA US</displayName>
+    <minDate>2008-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.9972</latitude>
+    <longitude>-83.1998</longitude>
+    <elevation>115.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000GMCI</id>
+    <displayName>MILLEDGEVILLE GEORGIA, GA US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.7797</latitude>
+    <longitude>-83.25</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9201</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095874</id>
+    <displayName>MILLEDGEVILLE, GA US</displayName>
+    <minDate>1891-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.0831</latitude>
+    <longitude>-83.2498</longitude>
+    <elevation>112.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245712</id>
+    <displayName>MILLEGAN 14 SE, MT US</displayName>
+    <minDate>1984-07-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>46.875</latitude>
+    <longitude>-111.1633</longitude>
+    <elevation>1514.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00245706</id>
+    <displayName>MILLEGAN, MT US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>47.0211</latitude>
+    <longitude>-111.3689</longitude>
+    <elevation>1371.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9526</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095882</id>
+    <displayName>MILLEN 4 N, GA US</displayName>
+    <minDate>1891-11-01</minDate>
+    <maxDate>1998-12-31</maxDate>
+    <latitude>32.87028</latitude>
+    <longitude>-81.96722</longitude>
+    <elevation>59.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10buff006</id>
+    <displayName>MILLER 0.5 SE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.9223</latitude>
+    <longitude>-99.3868</longitude>
+    <elevation>726.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235594</id>
+    <displayName>MILLER 1 E, MO US</displayName>
+    <minDate>1951-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.2147</latitude>
+    <longitude>-93.8227</longitude>
+    <elevation>395</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1748</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHD0001</id>
+    <displayName>MILLER 10.2 NW, SD US</displayName>
+    <minDate>2007-06-07</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>44.6201</latitude>
+    <longitude>-99.1398</longitude>
+    <elevation>479.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3007</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395567</id>
+    <displayName>MILLER 15 S, SD US</displayName>
+    <minDate>2002-11-01</minDate>
+    <maxDate>2012-02-29</maxDate>
+    <latitude>44.2919</latitude>
+    <longitude>-99.0044</longitude>
+    <elevation>573.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395569</id>
+    <displayName>MILLER 16 N, SD US</displayName>
+    <minDate>1951-11-01</minDate>
+    <maxDate>1953-02-28</maxDate>
+    <latitude>44.75</latitude>
+    <longitude>-98.98333</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00145321</id>
+    <displayName>MILLER 4 SSW, KS US</displayName>
+    <minDate>1961-11-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>38.5817</latitude>
+    <longitude>-96.0188</longitude>
+    <elevation>339.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4475</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOLW0004</id>
+    <displayName>MILLER 6.2 WNW, MO US</displayName>
+    <minDate>2006-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2492</latitude>
+    <longitude>-93.9439</longitude>
+    <elevation>370.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.93</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOLW0009</id>
+    <displayName>MILLER 9.2 WNW, MO US</displayName>
+    <minDate>2008-04-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2531</latitude>
+    <longitude>-94.0002</longitude>
+    <elevation>346.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7126</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TMIL</id>
+    <displayName>MILLER CREEK TEXAS, TX US</displayName>
+    <minDate>2003-09-02</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>33.4136</latitude>
+    <longitude>-99.4006</longitude>
+    <elevation>406.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9246</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OMLL</id>
+    <displayName>MILLER OREGON, OR US</displayName>
+    <minDate>1996-10-17</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.0228</latitude>
+    <longitude>-123.2711</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355565</id>
+    <displayName>MILLER PRAIRIE, OR US</displayName>
+    <minDate>1909-08-01</minDate>
+    <maxDate>1912-11-30</maxDate>
+    <latitude>45.033333</latitude>
+    <longitude>-119.666667</longitude>
+    <elevation>1280.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295710</id>
+    <displayName>MILLER THORNE RANCH, NM US</displayName>
+    <minDate>1922-06-01</minDate>
+    <maxDate>1926-09-30</maxDate>
+    <latitude>32.58333</latitude>
+    <longitude>-105.16667</longitude>
+    <elevation>1592.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00255525</id>
+    <displayName>MILLER, NE US</displayName>
+    <minDate>1906-05-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>40.9283</latitude>
+    <longitude>-99.3886</longitude>
+    <elevation>704.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00395561</id>
+    <displayName>MILLER, SD US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.5177</latitude>
+    <longitude>-98.9815</longitude>
+    <elevation>484.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00185934</id>
+    <displayName>MILLERS 4 NE, MD US</displayName>
+    <minDate>1988-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.7194</latitude>
+    <longitude>-76.8027</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWL0003</id>
+    <displayName>MILLERS CREEK 1.9 NNW, NC US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2124</latitude>
+    <longitude>-81.2544</longitude>
+    <elevation>392.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8687</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWL0002</id>
+    <displayName>MILLERS CREEK 8.6 N, NC US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>36.3162</latitude>
+    <longitude>-81.2381</longitude>
+    <elevation>602.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8018</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015420</id>
+    <displayName>MILLERS FERRY LOCK AND DAM, AL US</displayName>
+    <minDate>1981-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1002</latitude>
+    <longitude>-87.3982</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015417</id>
+    <displayName>MILLERS FERRY, AL US</displayName>
+    <minDate>1930-10-28</minDate>
+    <maxDate>1967-10-31</maxDate>
+    <latitude>32.1</latitude>
+    <longitude>-87.36667</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9636</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00025560</id>
+    <displayName>MILLERS RIM TRAIL RH, AZ US</displayName>
+    <minDate>1950-03-03</minDate>
+    <maxDate>1950-09-30</maxDate>
+    <latitude>34.4</latitude>
+    <longitude>-111.23333</longitude>
+    <elevation>1716.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0007</id>
+    <displayName>MILLERSBURG 0.5 SW, IN US</displayName>
+    <minDate>2006-07-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.5209</latitude>
+    <longitude>-85.7008</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.967</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0023</id>
+    <displayName>MILLERSBURG 1.1 SSW, IN US</displayName>
+    <minDate>2007-11-15</minDate>
+    <maxDate>2011-07-03</maxDate>
+    <latitude>41.5109</latitude>
+    <longitude>-85.7036</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365775</id>
+    <displayName>MILLERSBURG 2 E, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.53333</latitude>
+    <longitude>-76.91667</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155430</id>
+    <displayName>MILLERSBURG 2 NE, KY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1985-02-28</maxDate>
+    <latitude>38.3</latitude>
+    <longitude>-84.13333</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0011</id>
+    <displayName>MILLERSBURG 2.5 NNE, IN US</displayName>
+    <minDate>2006-08-19</minDate>
+    <maxDate>2007-07-18</maxDate>
+    <latitude>41.5589</latitude>
+    <longitude>-85.6736</longitude>
+    <elevation>268.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0032</id>
+    <displayName>MILLERSBURG 2.6 S, IN US</displayName>
+    <minDate>2008-07-13</minDate>
+    <maxDate>2009-11-01</maxDate>
+    <latitude>41.4883</latitude>
+    <longitude>-85.701</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6751</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INEL0018</id>
+    <displayName>MILLERSBURG 4.3 NNE, IN US</displayName>
+    <minDate>2007-05-27</minDate>
+    <maxDate>2007-09-14</maxDate>
+    <latitude>41.5822</latitude>
+    <longitude>-85.6603</longitude>
+    <elevation>278</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9009</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155434</id>
+    <displayName>MILLERSBURG MILIT IN, KY US</displayName>
+    <minDate>1950-06-01</minDate>
+    <maxDate>1951-02-15</maxDate>
+    <latitude>38.3</latitude>
+    <longitude>-84.15</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7038</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335297</id>
+    <displayName>MILLERSBURG, OH US</displayName>
+    <minDate>1916-11-23</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.5375</latitude>
+    <longitude>-81.9197</longitude>
+    <elevation>249.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335296</id>
+    <displayName>MILLERSBURG, OH US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1953-03-09</maxDate>
+    <latitude>40.56667</latitude>
+    <longitude>-81.91667</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155438</id>
+    <displayName>MILLERSTOWN, KY US</displayName>
+    <minDate>1940-04-18</minDate>
+    <maxDate>1985-07-31</maxDate>
+    <latitude>37.45</latitude>
+    <longitude>-86.05</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCT0005</id>
+    <displayName>MILLERSVILLE 2.0 S, NC US</displayName>
+    <minDate>2008-05-16</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>35.82</latitude>
+    <longitude>-81.1881</longitude>
+    <elevation>298.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3488</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00135517</id>
+    <displayName>MILLERTON, IA US</displayName>
+    <minDate>1893-05-01</minDate>
+    <maxDate>1951-02-28</maxDate>
+    <latitude>40.83333</latitude>
+    <longitude>-93.3</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305346</id>
+    <displayName>MILLERTON, NY US</displayName>
+    <minDate>1941-02-01</minDate>
+    <maxDate>1953-09-30</maxDate>
+    <latitude>41.95</latitude>
+    <longitude>-73.51667</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9431</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155444</id>
+    <displayName>MILLERTOWN 4 E, KY US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.4335</latitude>
+    <longitude>-86.0089</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265155</id>
+    <displayName>MILLET, NV US</displayName>
+    <minDate>1907-08-15</minDate>
+    <maxDate>1939-04-30</maxDate>
+    <latitude>39.016667</latitude>
+    <longitude>-117.166667</longitude>
+    <elevation>1536.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8281</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00445595</id>
+    <displayName>MILLGAP 2 NNW, VA US</displayName>
+    <minDate>1976-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.3064</latitude>
+    <longitude>-79.7197</longitude>
+    <elevation>737.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095896</id>
+    <displayName>MILLHAVEN WADE 2 SE, SC US</displayName>
+    <minDate>1956-02-01</minDate>
+    <maxDate>1986-05-31</maxDate>
+    <latitude>32.93333</latitude>
+    <longitude>-81.5</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365790</id>
+    <displayName>MILLHEIM, PA US</displayName>
+    <minDate>1949-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>40.8847</latitude>
+    <longitude>-77.475</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9736</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10fill014</id>
+    <displayName>MILLIGAN 3.5 NW, NE US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.5357</latitude>
+    <longitude>-97.4347</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00085756</id>
+    <displayName>MILLIGAN, FL US</displayName>
+    <minDate>1910-01-07</minDate>
+    <maxDate>1958-10-31</maxDate>
+    <latitude>30.75</latitude>
+    <longitude>-86.65</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0354</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335310</id>
+    <displayName>MILLIGAN, OH US</displayName>
+    <minDate>1893-08-01</minDate>
+    <maxDate>1923-06-30</maxDate>
+    <latitude>39.75</latitude>
+    <longitude>-82.1</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0314</id>
+    <displayName>MILLIKEN 0.8 W, CO US</displayName>
+    <minDate>2008-07-08</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>40.3148</latitude>
+    <longitude>-104.8677</longitude>
+    <elevation>1471.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9939</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0374</id>
+    <displayName>MILLIKEN 1.3 WSW, CO US</displayName>
+    <minDate>2012-04-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3072</latitude>
+    <longitude>-104.8733</longitude>
+    <elevation>1475.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0210</id>
+    <displayName>MILLIKEN 1.8 WSW, CO US</displayName>
+    <minDate>2004-06-30</minDate>
+    <maxDate>2008-02-28</maxDate>
+    <latitude>40.3052</latitude>
+    <longitude>-104.8844</longitude>
+    <elevation>1487.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0281</id>
+    <displayName>MILLIKEN 2.5 NNW, CO US</displayName>
+    <minDate>2006-07-12</minDate>
+    <maxDate>2012-02-11</maxDate>
+    <latitude>40.3496</latitude>
+    <longitude>-104.8703</longitude>
+    <elevation>1483.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.681</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWE0349</id>
+    <displayName>MILLIKEN 3.2 NNW, CO US</displayName>
+    <minDate>2009-12-25</minDate>
+    <maxDate>2012-02-16</maxDate>
+    <latitude>40.3606</latitude>
+    <longitude>-104.8746</longitude>
+    <elevation>1488.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1747</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDKN0001</id>
+    <displayName>MILLINGTON 1.1 WNW, MD US</displayName>
+    <minDate>2006-06-18</minDate>
+    <maxDate>2009-03-08</maxDate>
+    <latitude>39.2625</latitude>
+    <longitude>-75.8621</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8714</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDKN0003</id>
+    <displayName>MILLINGTON 2.9 NNE, MD US</displayName>
+    <minDate>2006-07-15</minDate>
+    <maxDate>2007-04-28</maxDate>
+    <latitude>39.2988</latitude>
+    <longitude>-75.8301</longitude>
+    <elevation>20.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3819</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205488</id>
+    <displayName>MILLINGTON 3 SE, MI US</displayName>
+    <minDate>1891-09-01</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>43.2836</latitude>
+    <longitude>-83.4791</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00185985</id>
+    <displayName>MILLINGTON, MD US</displayName>
+    <minDate>1898-10-07</minDate>
+    <maxDate>2001-02-28</maxDate>
+    <latitude>39.27389</latitude>
+    <longitude>-75.87</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9383</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEPS0003</id>
+    <displayName>MILLINOCKET 23.4 NW, ME US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>45.8935</latitude>
+    <longitude>-69.0486</longitude>
+    <elevation>324.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175314</id>
+    <displayName>MILLINOCKET DAM, ME US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1956-09-30</maxDate>
+    <latitude>46.3</latitude>
+    <longitude>-68.83333</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9826</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014610</id>
+    <displayName>MILLINOCKET MUNICIPAL AIRPORT, ME US</displayName>
+    <minDate>1944-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.6477</latitude>
+    <longitude>-68.6925</longitude>
+    <elevation>123.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5214</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175305</id>
+    <displayName>MILLINOCKET WASTEWATER, ME US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.64028</latitude>
+    <longitude>-68.67472</longitude>
+    <elevation>109.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175304</id>
+    <displayName>MILLINOCKET, ME US</displayName>
+    <minDate>1902-11-01</minDate>
+    <maxDate>2010-02-05</maxDate>
+    <latitude>45.65028</latitude>
+    <longitude>-68.705</longitude>
+    <elevation>109.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015435</id>
+    <displayName>MILLPORT 2 E, AL US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>33.57</latitude>
+    <longitude>-88.0333</longitude>
+    <elevation>83.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9475</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00335315</id>
+    <displayName>MILLPORT 2 NW, OH US</displayName>
+    <minDate>1893-06-01</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>40.7692</latitude>
+    <longitude>-80.8562</longitude>
+    <elevation>356.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALWS0005</id>
+    <displayName>MILLRY 3.7 NNW, AL US</displayName>
+    <minDate>2008-01-15</minDate>
+    <maxDate>2009-02-16</maxDate>
+    <latitude>31.6754</latitude>
+    <longitude>-88.3429</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015427</id>
+    <displayName>MILLRY, AL US</displayName>
+    <minDate>1925-11-01</minDate>
+    <maxDate>1948-09-30</maxDate>
+    <latitude>31.63333</latitude>
+    <longitude>-88.31667</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003095</id>
+    <displayName>MILLS 6 WSW, NM US</displayName>
+    <minDate>2010-05-13</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0609</latitude>
+    <longitude>-104.3552</longitude>
+    <elevation>1788</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYNT0018</id>
+    <displayName>MILLS 8.9 SW, WY US</displayName>
+    <minDate>2006-02-19</minDate>
+    <maxDate>2007-01-10</maxDate>
+    <latitude>42.7524</latitude>
+    <longitude>-106.4983</longitude>
+    <elevation>1674.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295726</id>
+    <displayName>MILLS NEAR, NM US</displayName>
+    <minDate>1911-01-01</minDate>
+    <maxDate>1922-02-28</maxDate>
+    <latitude>36.1</latitude>
+    <longitude>-104.26667</longitude>
+    <elevation>1824.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00315683</id>
+    <displayName>MILLS RIVER, NC US</displayName>
+    <minDate>1950-09-02</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.38333</latitude>
+    <longitude>-82.56667</longitude>
+    <elevation>655.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295725</id>
+    <displayName>MILLS, NM US</displayName>
+    <minDate>1915-07-01</minDate>
+    <maxDate>1951-01-31</maxDate>
+    <latitude>36.06667</latitude>
+    <longitude>-104.2</longitude>
+    <elevation>1845</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425699</id>
+    <displayName>MILLS, UT US</displayName>
+    <minDate>1912-06-05</minDate>
+    <maxDate>1920-12-31</maxDate>
+    <latitude>39.333333</latitude>
+    <longitude>-112.083333</longitude>
+    <elevation>1496.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6584</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00076020</id>
+    <displayName>MILLSBORO, DE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1954-01-31</maxDate>
+    <latitude>38.58333</latitude>
+    <longitude>-75.31667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0014</id>
+    <displayName>MILLSTONE TWP 2.5 E, NJ US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2008-12-06</maxDate>
+    <latitude>40.2169</latitude>
+    <longitude>-74.3842</longitude>
+    <elevation>55.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9273</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0052</id>
+    <displayName>MILLSTONE TWP 2.9 WNW, NJ US</displayName>
+    <minDate>2011-11-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.235</latitude>
+    <longitude>-74.4755</longitude>
+    <elevation>39.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9406</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCW0003</id>
+    <displayName>MILLTOWN 3.7 WSW, IN US</displayName>
+    <minDate>2009-06-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.324</latitude>
+    <longitude>-86.3379</longitude>
+    <elevation>205.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INHR0005</id>
+    <displayName>MILLTOWN 5.7 SSE, IN US</displayName>
+    <minDate>2007-10-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2625</latitude>
+    <longitude>-86.2539</longitude>
+    <elevation>193.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9761</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCW0008</id>
+    <displayName>MILLTOWN 6.1 SW, IN US</displayName>
+    <minDate>2012-07-03</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.2773</latitude>
+    <longitude>-86.3488</longitude>
+    <elevation>250.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7333</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTCH0020</id>
+    <displayName>MILLVILLE 0.3 SE, UT US</displayName>
+    <minDate>2009-11-13</minDate>
+    <maxDate>2010-12-27</maxDate>
+    <latitude>41.6767</latitude>
+    <longitude>-111.8153</longitude>
+    <elevation>1418.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365817</id>
+    <displayName>MILLVILLE 2 SW, PA US</displayName>
+    <minDate>1950-10-01</minDate>
+    <maxDate>1992-08-31</maxDate>
+    <latitude>41.1</latitude>
+    <longitude>-76.56667</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013735</id>
+    <displayName>MILLVILLE MUNICIPAL AIRPORT, NJ US</displayName>
+    <minDate>1947-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.3667</latitude>
+    <longitude>-75.0667</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00285576</id>
+    <displayName>MILLVILLE, NJ US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>1970-03-16</maxDate>
+    <latitude>39.4</latitude>
+    <longitude>-75.05</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4046</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365816</id>
+    <displayName>MILLVILLE, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1950-09-30</maxDate>
+    <latitude>41.11667</latitude>
+    <longitude>-76.53333</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9536</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425705</id>
+    <displayName>MILLVILLE, UT US</displayName>
+    <minDate>1899-04-01</minDate>
+    <maxDate>1924-11-30</maxDate>
+    <latitude>41.683333</latitude>
+    <longitude>-111.85</longitude>
+    <elevation>1402.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7565</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00095909</id>
+    <displayName>MILLWOOD 3 E, GA US</displayName>
+    <minDate>2001-04-01</minDate>
+    <maxDate>2001-11-30</maxDate>
+    <latitude>31.27417</latitude>
+    <longitude>-82.60472</longitude>
+    <elevation>47.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00034839</id>
+    <displayName>MILLWOOD DAM, AR US</displayName>
+    <minDate>1995-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6772</latitude>
+    <longitude>-93.9902</longitude>
+    <elevation>96.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105955</id>
+    <displayName>MILNER DAM, ID US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>1946-09-30</maxDate>
+    <latitude>42.53333</latitude>
+    <longitude>-114.11667</longitude>
+    <elevation>1281.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6615</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMRV0011</id>
+    <displayName>MILNESAND 4.0 E, NM US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>33.643</latitude>
+    <longitude>-103.2709</longitude>
+    <elevation>1254.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295731</id>
+    <displayName>MILNESAND, NM US</displayName>
+    <minDate>1954-06-10</minDate>
+    <maxDate>1958-01-31</maxDate>
+    <latitude>33.63333</latitude>
+    <longitude>-103.35</longitude>
+    <elevation>1281.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00325933</id>
+    <displayName>MILNOR, ND US</displayName>
+    <minDate>1908-04-19</minDate>
+    <maxDate>1953-02-28</maxDate>
+    <latitude>46.26667</latitude>
+    <longitude>-97.46667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CMIO</id>
+    <displayName>MILO CALIFORNIA, CA US</displayName>
+    <minDate>2001-07-26</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>36.2314</latitude>
+    <longitude>-118.8689</longitude>
+    <elevation>586.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7346</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175347</id>
+    <displayName>MILO, ME US</displayName>
+    <minDate>1921-10-01</minDate>
+    <maxDate>2012-04-27</maxDate>
+    <latitude>45.2563</latitude>
+    <longitude>-69.0101</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00516304</id>
+    <displayName>MILOLII 2.34, HI US</displayName>
+    <minDate>1985-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>19.207</latitude>
+    <longitude>-155.8816</longitude>
+    <elevation>356.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9442</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365825</id>
+    <displayName>MILROY 2 WNW, PA US</displayName>
+    <minDate>1945-10-01</minDate>
+    <maxDate>1966-04-30</maxDate>
+    <latitude>40.7333</latitude>
+    <longitude>-77.6333</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8329</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00015439</id>
+    <displayName>MILSTEAD, AL US</displayName>
+    <minDate>1902-05-25</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>32.4419</latitude>
+    <longitude>-85.8889</longitude>
+    <elevation>65.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLSR0002</id>
+    <displayName>MILTON 1.4 NNE, FL US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.6513</latitude>
+    <longitude>-87.0408</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+</stationCollection>

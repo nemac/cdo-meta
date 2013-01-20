@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="89">
+  <station>
+    <id>GHCND:US1TXBZS017</id>
+    <displayName>COLLEGE STATION 1.6 E, TX US</displayName>
+    <minDate>2009-02-10</minDate>
+    <maxDate>2012-08-09</maxDate>
+    <latitude>30.6035</latitude>
+    <longitude>-96.2862</longitude>
+    <elevation>83.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8575</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBZS043</id>
+    <displayName>COLLEGE STATION 1.6 NNW, TX US</displayName>
+    <minDate>2009-09-06</minDate>
+    <maxDate>2010-12-30</maxDate>
+    <latitude>30.6207</latitude>
+    <longitude>-96.3238</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBZS034</id>
+    <displayName>COLLEGE STATION 1.7 NW, TX US</displayName>
+    <minDate>2009-02-25</minDate>
+    <maxDate>2010-05-02</maxDate>
+    <latitude>30.6161</latitude>
+    <longitude>-96.3351</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.25</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBZS042</id>
+    <displayName>COLLEGE STATION 1.9 NW, TX US</displayName>
+    <minDate>2009-08-26</minDate>
+    <maxDate>2012-01-12</maxDate>
+    <latitude>30.6188</latitude>
+    <longitude>-96.3373</longitude>
+    <elevation>104.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4713</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBZS020</id>
+    <displayName>COLLEGE STATION 2.0 NE, TX US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.6186</latitude>
+    <longitude>-96.2862</longitude>
+    <elevation>80.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7326</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBZS004</id>
+    <displayName>COLLEGE STATION 2.7 NNW, TX US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>30.6389</latitude>
+    <longitude>-96.3222</longitude>
+    <elevation>90.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9174</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBZS012</id>
+    <displayName>COLLEGE STATION 2.9 SSE, TX US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2010-11-25</maxDate>
+    <latitude>30.565</latitude>
+    <longitude>-96.2856</longitude>
+    <elevation>89.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBZS041</id>
+    <displayName>COLLEGE STATION 3.0 SSE, TX US</displayName>
+    <minDate>2009-07-28</minDate>
+    <maxDate>2012-05-15</maxDate>
+    <latitude>30.5636</latitude>
+    <longitude>-96.2873</longitude>
+    <elevation>93.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7615</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411888</id>
+    <displayName>COLLEGE STATION 6 SW, TX US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1984-05-31</maxDate>
+    <latitude>30.53333</latitude>
+    <longitude>-96.41667</longitude>
+    <elevation>53.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003904</id>
+    <displayName>COLLEGE STATION EASTERWOOD FIELD, TX US</displayName>
+    <minDate>1951-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.58917</latitude>
+    <longitude>-96.36472</longitude>
+    <elevation>93</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00421601</id>
+    <displayName>COLLEGE WARD UTAH ST, UT US</displayName>
+    <minDate>1968-01-01</minDate>
+    <maxDate>1969-04-30</maxDate>
+    <latitude>41.66667</latitude>
+    <longitude>-111.9</longitude>
+    <elevation>1368.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0065</id>
+    <displayName>COLLEGEVILLE 0.9 NNE, PA US</displayName>
+    <minDate>2011-10-19</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>40.1999</latitude>
+    <longitude>-75.4534</longitude>
+    <elevation>51.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7116</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0010</id>
+    <displayName>COLLEGEVILLE 1.7 SSE, IN US</displayName>
+    <minDate>2006-06-03</minDate>
+    <maxDate>2012-06-17</maxDate>
+    <latitude>40.8846</latitude>
+    <longitude>-87.1519</longitude>
+    <elevation>202.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4395</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0025</id>
+    <displayName>COLLEGEVILLE 2.2 N, PA US</displayName>
+    <minDate>2007-02-05</minDate>
+    <maxDate>2012-06-15</maxDate>
+    <latitude>40.2192</latitude>
+    <longitude>-75.4538</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1808</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0053</id>
+    <displayName>COLLEGEVILLE 2.3 N, PA US</displayName>
+    <minDate>2010-04-15</minDate>
+    <maxDate>2012-11-14</maxDate>
+    <latitude>40.2199</latitude>
+    <longitude>-75.4655</longitude>
+    <elevation>63.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5725</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0009</id>
+    <displayName>COLLEGEVILLE 2.8 NW, PA US</displayName>
+    <minDate>2006-01-17</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>40.2177</latitude>
+    <longitude>-75.4933</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3063</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMT0012</id>
+    <displayName>COLLEGEVILLE 3.0 NE, PA US</displayName>
+    <minDate>2006-02-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2185</latitude>
+    <longitude>-75.4185</longitude>
+    <elevation>84.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4357</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211691</id>
+    <displayName>COLLEGEVILLE ST JOHN, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.5794</latitude>
+    <longitude>-94.392</longitude>
+    <elevation>368.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9275</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLCR0017</id>
+    <displayName>COLLIER 14.1 NE, FL US</displayName>
+    <minDate>2009-05-18</minDate>
+    <maxDate>2011-10-29</maxDate>
+    <latitude>26.2829</latitude>
+    <longitude>-81.6243</longitude>
+    <elevation>4.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7408</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSH0015</id>
+    <displayName>COLLIERVILLE 1.5 NNE, TN US</displayName>
+    <minDate>2011-01-30</minDate>
+    <maxDate>2011-12-07</maxDate>
+    <latitude>35.0762</latitude>
+    <longitude>-89.6701</longitude>
+    <elevation>96</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNSH0009</id>
+    <displayName>COLLIERVILLE 1.6 ESE, TN US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2008-11-13</maxDate>
+    <latitude>35.0496</latitude>
+    <longitude>-89.6512</longitude>
+    <elevation>103</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9025</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401950</id>
+    <displayName>COLLIERVILLE, TN US</displayName>
+    <minDate>1996-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0781</latitude>
+    <longitude>-89.6653</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9556</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0426</id>
+    <displayName>COLLINDALE, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2002-09-10</maxDate>
+    <latitude>40.5375</latitude>
+    <longitude>-105.0531</longitude>
+    <elevation>1517</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCOL</id>
+    <displayName>COLLINS BALDY CALIFORNIA, CA US</displayName>
+    <minDate>1991-07-31</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.775</latitude>
+    <longitude>-122.9503</longitude>
+    <elevation>1674.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9575</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221852</id>
+    <displayName>COLLINS, MS US</displayName>
+    <minDate>1912-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6419</latitude>
+    <longitude>-89.5572</longitude>
+    <elevation>88.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9423</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00161956</id>
+    <displayName>COLLINSTON, LA US</displayName>
+    <minDate>1901-08-01</minDate>
+    <maxDate>1917-10-31</maxDate>
+    <latitude>32.66667</latitude>
+    <longitude>-91.86667</longitude>
+    <elevation>27.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9049</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSLD0013</id>
+    <displayName>COLLINSVILLE 0.4 NNE, MS US</displayName>
+    <minDate>2008-11-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5</latitude>
+    <longitude>-88.84</longitude>
+    <elevation>127.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9577</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00061536</id>
+    <displayName>COLLINSVILLE 1 S, CT US</displayName>
+    <minDate>1885-02-01</minDate>
+    <maxDate>1966-06-30</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-72.93333</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221857</id>
+    <displayName>COLLINSVILLE 3 NE, MS US</displayName>
+    <minDate>1953-04-01</minDate>
+    <maxDate>1965-04-30</maxDate>
+    <latitude>32.53333</latitude>
+    <longitude>-88.81667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKTL0015</id>
+    <displayName>COLLINSVILLE 3.2 S, OK US</displayName>
+    <minDate>2009-07-21</minDate>
+    <maxDate>2010-01-18</maxDate>
+    <latitude>36.3327</latitude>
+    <longitude>-95.8494</longitude>
+    <elevation>206.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6319</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSLD0008</id>
+    <displayName>COLLINSVILLE 4.0 NNE, MS US</displayName>
+    <minDate>2008-08-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.5498</latitude>
+    <longitude>-88.8206</longitude>
+    <elevation>118</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSLD0007</id>
+    <displayName>COLLINSVILLE 5.5 NNW, MS US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2012-09-04</maxDate>
+    <latitude>32.5715</latitude>
+    <longitude>-88.8643</longitude>
+    <elevation>133.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00221860</id>
+    <displayName>COLLINSVILLE 7 SE, MS US</displayName>
+    <minDate>1965-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4199</latitude>
+    <longitude>-88.7602</longitude>
+    <elevation>94.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCOO003</id>
+    <displayName>COLLINSVILLE 7.4 SW, TX US</displayName>
+    <minDate>2010-11-11</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.4907</latitude>
+    <longitude>-97.0089</longitude>
+    <elevation>205.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALET0001</id>
+    <displayName>COLLINSVILLE 8.0 SSW, AL US</displayName>
+    <minDate>2007-02-03</minDate>
+    <maxDate>2008-01-23</maxDate>
+    <latitude>34.1527</latitude>
+    <longitude>-85.8922</longitude>
+    <elevation>257.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00011849</id>
+    <displayName>COLLINSVILLE, AL US</displayName>
+    <minDate>1938-03-01</minDate>
+    <maxDate>1977-10-31</maxDate>
+    <latitude>34.25</latitude>
+    <longitude>-85.88333</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9711</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111825</id>
+    <displayName>COLLINSVILLE, IL US</displayName>
+    <minDate>1944-12-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.66667</latitude>
+    <longitude>-89.98333</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411892</id>
+    <displayName>COLLINSVILLE, TX US</displayName>
+    <minDate>1941-02-18</minDate>
+    <maxDate>1945-08-31</maxDate>
+    <latitude>33.55</latitude>
+    <longitude>-96.916667</longitude>
+    <elevation>224</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9245</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00401953</id>
+    <displayName>COLLINWOOD, TN US</displayName>
+    <minDate>1949-02-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.18333</latitude>
+    <longitude>-87.73333</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSTR0021</id>
+    <displayName>COLLYER 0.2 S, KS US</displayName>
+    <minDate>2010-02-15</minDate>
+    <maxDate>2012-03-08</maxDate>
+    <latitude>39.0356</latitude>
+    <longitude>-100.1179</longitude>
+    <elevation>786.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9163</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141730</id>
+    <displayName>COLLYER 10 S, KS US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8971</latitude>
+    <longitude>-100.1135</longitude>
+    <elevation>733.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141728</id>
+    <displayName>COLLYER, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1896-10-09</maxDate>
+    <latitude>39.035563</latitude>
+    <longitude>-100.117907</longitude>
+    <elevation>787</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9028</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00111830</id>
+    <displayName>COLMAR, IL US</displayName>
+    <minDate>2005-02-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.33722</latitude>
+    <longitude>-90.90778</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292005</id>
+    <displayName>COLMOR, NM US</displayName>
+    <minDate>1905-05-01</minDate>
+    <maxDate>1932-08-31</maxDate>
+    <latitude>36.21667</latitude>
+    <longitude>-104.63333</longitude>
+    <elevation>1807.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3481</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131710</id>
+    <displayName>COLO, IA US</displayName>
+    <minDate>1964-10-01</minDate>
+    <maxDate>2009-02-28</maxDate>
+    <latitude>42.0169</latitude>
+    <longitude>-93.3188</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201704</id>
+    <displayName>COLOMA 3 NNW, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>42.23333</latitude>
+    <longitude>-86.31667</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9334</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201702</id>
+    <displayName>COLOMA, MI US</displayName>
+    <minDate>1924-05-01</minDate>
+    <maxDate>1938-10-31</maxDate>
+    <latitude>42.166667</latitude>
+    <longitude>-86.333333</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231773</id>
+    <displayName>COLOMA, MO US</displayName>
+    <minDate>1949-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5318</latitude>
+    <longitude>-93.529</longitude>
+    <elevation>254.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00391825</id>
+    <displayName>COLOME, SD US</displayName>
+    <minDate>1918-01-01</minDate>
+    <maxDate>1924-09-30</maxDate>
+    <latitude>43.25</latitude>
+    <longitude>-99.7</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10saun005</id>
+    <displayName>COLON 2.0 WSW, NE US</displayName>
+    <minDate>2007-08-10</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>41.2882</latitude>
+    <longitude>-96.6431</longitude>
+    <elevation>381.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9173</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAWM0002</id>
+    <displayName>COLONIAL BEACH 1.2 SSE, VA US</displayName>
+    <minDate>2009-07-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>38.24</latitude>
+    <longitude>-76.96</longitude>
+    <elevation>3.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441913</id>
+    <displayName>COLONIAL BEACH, VA US</displayName>
+    <minDate>1963-12-01</minDate>
+    <maxDate>2002-06-30</maxDate>
+    <latitude>38.25056</latitude>
+    <longitude>-76.96278</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8981</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYAB0022</id>
+    <displayName>COLONIE 1.6 SE, NY US</displayName>
+    <minDate>2010-01-06</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>42.7038</latitude>
+    <longitude>-73.8118</longitude>
+    <elevation>87.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0975</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141733</id>
+    <displayName>COLONY, KS US</displayName>
+    <minDate>1978-03-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.0697</latitude>
+    <longitude>-95.3708</longitude>
+    <elevation>342.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00342039</id>
+    <displayName>COLONY, OK US</displayName>
+    <minDate>1983-09-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>35.35</latitude>
+    <longitude>-98.6743</longitude>
+    <elevation>460.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9083</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481905</id>
+    <displayName>COLONY, WY US</displayName>
+    <minDate>1915-01-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>44.8711</latitude>
+    <longitude>-104.1533</longitude>
+    <elevation>1060.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9796</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCC0009</id>
+    <displayName>COLORA 1.3 NE, MD US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>39.6829</latitude>
+    <longitude>-76.0771</longitude>
+    <elevation>129.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4756</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00182020</id>
+    <displayName>COLORA, MD US</displayName>
+    <minDate>1901-09-01</minDate>
+    <maxDate>1905-12-31</maxDate>
+    <latitude>39.666667</latitude>
+    <longitude>-76.083333</longitude>
+    <elevation>106.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8465</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TCOL</id>
+    <displayName>COLORADO BEND TEXAS, TX US</displayName>
+    <minDate>2000-11-15</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>31.0522</latitude>
+    <longitude>-98.5003</longitude>
+    <elevation>383.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9146</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPU0030</id>
+    <displayName>COLORADO CITY 1.7 WSW, CO US</displayName>
+    <minDate>2004-03-23</minDate>
+    <maxDate>2007-10-19</maxDate>
+    <latitude>37.94</latitude>
+    <longitude>-104.8652</longitude>
+    <elevation>1869.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8086</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COPU0023</id>
+    <displayName>COLORADO CITY 1.8 ENE, CO US</displayName>
+    <minDate>2004-03-31</minDate>
+    <maxDate>2004-08-24</maxDate>
+    <latitude>37.9569</latitude>
+    <longitude>-104.8046</longitude>
+    <elevation>1765.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7007</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCCI</id>
+    <displayName>COLORADO CITY COLORADO, CO US</displayName>
+    <minDate>2002-11-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.9478</latitude>
+    <longitude>-104.8692</longitude>
+    <elevation>1886.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9312</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027837</id>
+    <displayName>COLORADO CITY, AZ US</displayName>
+    <minDate>1950-07-01</minDate>
+    <maxDate>1963-06-30</maxDate>
+    <latitude>36.9935</latitude>
+    <longitude>-112.9719</longitude>
+    <elevation>1524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8833</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00021920</id>
+    <displayName>COLORADO CITY, AZ US</displayName>
+    <minDate>1963-07-01</minDate>
+    <maxDate>2012-01-31</maxDate>
+    <latitude>36.9935</latitude>
+    <longitude>-112.9719</longitude>
+    <elevation>1524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9584</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411903</id>
+    <displayName>COLORADO CITY, TX US</displayName>
+    <minDate>1898-07-01</minDate>
+    <maxDate>2009-01-31</maxDate>
+    <latitude>32.39778</latitude>
+    <longitude>-100.85944</longitude>
+    <elevation>643.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7098</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00051772</id>
+    <displayName>COLORADO NATIONAL MONUMENT, CO US</displayName>
+    <minDate>1940-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1013</latitude>
+    <longitude>-108.7338</longitude>
+    <elevation>1762</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0277</id>
+    <displayName>COLORADO SPRINGS 0.5 ESE, CO US</displayName>
+    <minDate>2011-09-26</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>38.8303</latitude>
+    <longitude>-104.8119</longitude>
+    <elevation>1829.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4505</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0194</id>
+    <displayName>COLORADO SPRINGS 1.1 NE, CO US</displayName>
+    <minDate>2010-05-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8437</latitude>
+    <longitude>-104.8052</longitude>
+    <elevation>1848.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0060</id>
+    <displayName>COLORADO SPRINGS 1.3 ESE, CO US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>38.83</latitude>
+    <longitude>-104.797</longitude>
+    <elevation>1854.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6278</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0266</id>
+    <displayName>COLORADO SPRINGS 1.6 N, CO US</displayName>
+    <minDate>2011-07-09</minDate>
+    <maxDate>2012-10-03</maxDate>
+    <latitude>38.8568</latitude>
+    <longitude>-104.8164</longitude>
+    <elevation>1853.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4327</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0274</id>
+    <displayName>COLORADO SPRINGS 1.6 NE, CO US</displayName>
+    <minDate>2011-08-23</minDate>
+    <maxDate>2012-10-17</maxDate>
+    <latitude>38.8488</latitude>
+    <longitude>-104.7979</longitude>
+    <elevation>1877</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8128</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0020</id>
+    <displayName>COLORADO SPRINGS 13.5 NNE, CO US</displayName>
+    <minDate>2004-08-01</minDate>
+    <maxDate>2007-05-23</maxDate>
+    <latitude>39.0276</latitude>
+    <longitude>-104.8005</longitude>
+    <elevation>2114.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0192</id>
+    <displayName>COLORADO SPRINGS 13.9 NNE, CO US</displayName>
+    <minDate>2010-04-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0267</latitude>
+    <longitude>-104.7478</longitude>
+    <elevation>2220.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0183</id>
+    <displayName>COLORADO SPRINGS 14.9 N, CO US</displayName>
+    <minDate>2009-06-29</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.0537</latitude>
+    <longitude>-104.8387</longitude>
+    <elevation>2093.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3369</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0012</id>
+    <displayName>COLORADO SPRINGS 18.7 N, CO US</displayName>
+    <minDate>2003-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0988</latitude>
+    <longitude>-104.7629</longitude>
+    <elevation>2265</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0226</id>
+    <displayName>COLORADO SPRINGS 2.0 N, CO US</displayName>
+    <minDate>2011-07-03</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.8618</latitude>
+    <longitude>-104.8143</longitude>
+    <elevation>1862</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0064</id>
+    <displayName>COLORADO SPRINGS 2.1 NW, CO US</displayName>
+    <minDate>2003-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8497</latitude>
+    <longitude>-104.8537</longitude>
+    <elevation>1887.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0230</id>
+    <displayName>COLORADO SPRINGS 2.1 SSW, CO US</displayName>
+    <minDate>2011-08-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8058</latitude>
+    <longitude>-104.8366</longitude>
+    <elevation>1832.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9716</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0232</id>
+    <displayName>COLORADO SPRINGS 2.2 W, CO US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8296</latitude>
+    <longitude>-104.8607</longitude>
+    <elevation>1914.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8238</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0063</id>
+    <displayName>COLORADO SPRINGS 2.6 SSE, CO US</displayName>
+    <minDate>2003-05-31</minDate>
+    <maxDate>2012-10-06</maxDate>
+    <latitude>38.8295</latitude>
+    <longitude>-104.7398</longitude>
+    <elevation>1873.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1513</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0094</id>
+    <displayName>COLORADO SPRINGS 2.6 WSW, CO US</displayName>
+    <minDate>2003-07-29</minDate>
+    <maxDate>2006-08-03</maxDate>
+    <latitude>38.8156</latitude>
+    <longitude>-104.8639</longitude>
+    <elevation>1914.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3276</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0158</id>
+    <displayName>COLORADO SPRINGS 2.7 WSW, CO US</displayName>
+    <minDate>2007-08-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8161</latitude>
+    <longitude>-104.8645</longitude>
+    <elevation>1914.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9802</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0231</id>
+    <displayName>COLORADO SPRINGS 2.9 NE, CO US</displayName>
+    <minDate>2011-07-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8656</latitude>
+    <longitude>-104.7852</longitude>
+    <elevation>1917.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053007</id>
+    <displayName>COLORADO SPRINGS 23 NW, CO US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.0878</latitude>
+    <longitude>-105.0879</longitude>
+    <elevation>2399.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0210</id>
+    <displayName>COLORADO SPRINGS 3.0 S, CO US</displayName>
+    <minDate>2011-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7909</latitude>
+    <longitude>-104.8115</longitude>
+    <elevation>1827.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9374</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0264</id>
+    <displayName>COLORADO SPRINGS 3.5 S, CO US</displayName>
+    <minDate>2011-07-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7835</latitude>
+    <longitude>-104.8293</longitude>
+    <elevation>1838.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8216</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0155</id>
+    <displayName>COLORADO SPRINGS 3.5 SW, CO US</displayName>
+    <minDate>2007-07-16</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>38.7927</latitude>
+    <longitude>-104.8593</longitude>
+    <elevation>1905.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2451</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0188</id>
+    <displayName>COLORADO SPRINGS 3.7 ENE, CO US</displayName>
+    <minDate>2009-07-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8611</latitude>
+    <longitude>-104.7612</longitude>
+    <elevation>1926.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0050</id>
+    <displayName>COLORADO SPRINGS 3.7 N, CO US</displayName>
+    <minDate>2007-02-13</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.9167</latitude>
+    <longitude>-104.7651</longitude>
+    <elevation>2067.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9464</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0039</id>
+    <displayName>COLORADO SPRINGS 3.7 NNW, CO US</displayName>
+    <minDate>2005-08-28</minDate>
+    <maxDate>2010-08-04</maxDate>
+    <latitude>38.9105</latitude>
+    <longitude>-104.7917</longitude>
+    <elevation>1997</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0157</id>
+    <displayName>COLORADO SPRINGS 4.0 NNE, CO US</displayName>
+    <minDate>2007-08-23</minDate>
+    <maxDate>2012-05-08</maxDate>
+    <latitude>38.8872</latitude>
+    <longitude>-104.7921</longitude>
+    <elevation>1943.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0755</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0228</id>
+    <displayName>COLORADO SPRINGS 5.0 NNE, CO US</displayName>
+    <minDate>2011-06-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.9004</latitude>
+    <longitude>-104.7836</longitude>
+    <elevation>1949.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8521</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0267</id>
+    <displayName>COLORADO SPRINGS 5.1 ESE, CO US</displayName>
+    <minDate>2011-07-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7947</latitude>
+    <longitude>-104.7401</longitude>
+    <elevation>1822.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0203</id>
+    <displayName>COLORADO SPRINGS 5.2 ENE, CO US</displayName>
+    <minDate>2010-09-18</minDate>
+    <maxDate>2011-08-03</maxDate>
+    <latitude>38.8711</latitude>
+    <longitude>-104.737</longitude>
+    <elevation>1989.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.65</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0263</id>
+    <displayName>COLORADO SPRINGS 5.3 ENE, CO US</displayName>
+    <minDate>2011-07-10</minDate>
+    <maxDate>2012-06-07</maxDate>
+    <latitude>38.8723</latitude>
+    <longitude>-104.7346</longitude>
+    <elevation>1994.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0037</id>
+    <displayName>COLORADO SPRINGS 5.7 WNW, CO US</displayName>
+    <minDate>2005-05-30</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>38.9052</latitude>
+    <longitude>-104.8491</longitude>
+    <elevation>2012.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0068</id>
+    <displayName>COLORADO SPRINGS 5.8 ENE, CO US</displayName>
+    <minDate>2003-08-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.872</latitude>
+    <longitude>-104.7262</longitude>
+    <elevation>1976.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9558</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0272</id>
+    <displayName>COLORADO SPRINGS 6.1 ENE, CO US</displayName>
+    <minDate>2011-07-15</minDate>
+    <maxDate>2012-11-26</maxDate>
+    <latitude>38.8585</latitude>
+    <longitude>-104.7119</longitude>
+    <elevation>1913.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0030</id>
+    <displayName>COLORADO SPRINGS 6.2 ENE, CO US</displayName>
+    <minDate>2005-02-10</minDate>
+    <maxDate>2005-10-12</maxDate>
+    <latitude>38.881</latitude>
+    <longitude>-104.7285</longitude>
+    <elevation>2008</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0171</id>
+    <displayName>COLORADO SPRINGS 6.3 E, CO US</displayName>
+    <minDate>2008-08-17</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>38.8454</latitude>
+    <longitude>-104.7047</longitude>
+    <elevation>1943.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.346</coverage>
+  </station>
+</stationCollection>

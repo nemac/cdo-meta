@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="180">
+  <station>
+    <id>GHCND:USW00053119</id>
+    <displayName>HANFORD MUNICIPAL AIRPORT, CA US</displayName>
+    <minDate>1998-02-19</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.31889</latitude>
+    <longitude>-119.62889</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00323908</id>
+    <displayName>HANKINSON, ND US</displayName>
+    <minDate>1929-04-01</minDate>
+    <maxDate>1993-09-30</maxDate>
+    <latitude>46.06667</latitude>
+    <longitude>-96.9</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023170</id>
+    <displayName>HANKSVILLE, UT US</displayName>
+    <minDate>1910-03-01</minDate>
+    <maxDate>2012-11-09</maxDate>
+    <latitude>38.3706</latitude>
+    <longitude>-110.7153</longitude>
+    <elevation>1313.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9581</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00433769</id>
+    <displayName>HANKSVILLE, VT US</displayName>
+    <minDate>1997-12-01</minDate>
+    <maxDate>2011-09-06</maxDate>
+    <latitude>44.2379</latitude>
+    <longitude>-72.9655</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9177</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLW0012</id>
+    <displayName>HANNA 0.1 ESE, SD US</displayName>
+    <minDate>2007-08-28</minDate>
+    <maxDate>2008-10-13</maxDate>
+    <latitude>44.261</latitude>
+    <longitude>-103.8453</longitude>
+    <elevation>1752.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8257</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0047</id>
+    <displayName>HANNA 0.2 NNW, IN US</displayName>
+    <minDate>2011-04-14</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.4142</latitude>
+    <longitude>-86.7814</longitude>
+    <elevation>216.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3744</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0042</id>
+    <displayName>HANNA 0.3 SW, IN US</displayName>
+    <minDate>2009-04-23</minDate>
+    <maxDate>2012-08-13</maxDate>
+    <latitude>41.4095</latitude>
+    <longitude>-86.7851</longitude>
+    <elevation>216.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLP0053</id>
+    <displayName>HANNA 1.1 E, IN US</displayName>
+    <minDate>2012-02-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.4123</latitude>
+    <longitude>-86.7603</longitude>
+    <elevation>209.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6855</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00164050</id>
+    <displayName>HANNA, LA US</displayName>
+    <minDate>1972-05-01</minDate>
+    <maxDate>2010-10-31</maxDate>
+    <latitude>31.9158</latitude>
+    <longitude>-93.3183</longitude>
+    <elevation>36</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7451</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343884</id>
+    <displayName>HANNA, OK US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>2001-12-31</maxDate>
+    <latitude>35.20278</latitude>
+    <longitude>-95.88972</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423624</id>
+    <displayName>HANNA, UT US</displayName>
+    <minDate>1952-06-19</minDate>
+    <maxDate>1994-05-31</maxDate>
+    <latitude>40.4005</latitude>
+    <longitude>-110.7586</longitude>
+    <elevation>2053.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00323926</id>
+    <displayName>HANNAFORD, ND US</displayName>
+    <minDate>1948-08-02</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>47.3111</latitude>
+    <longitude>-98.1856</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009S11S</id>
+    <displayName>HANNAGAN MEADOWS, AZ US</displayName>
+    <minDate>1982-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.65</latitude>
+    <longitude>-109.3</longitude>
+    <elevation>2749.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00323936</id>
+    <displayName>HANNAH 2 N, ND US</displayName>
+    <minDate>1905-07-01</minDate>
+    <maxDate>1985-10-31</maxDate>
+    <latitude>49</latitude>
+    <longitude>-98.68333</longitude>
+    <elevation>480.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8569</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSL0006</id>
+    <displayName>HANNAWA FALLS 0.1 SW, NY US</displayName>
+    <minDate>2008-09-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6115</latitude>
+    <longitude>-74.9719</longitude>
+    <elevation>171</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9937</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOMA0004</id>
+    <displayName>HANNIBAL 0.4 ENE, MO US</displayName>
+    <minDate>2010-11-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7088</latitude>
+    <longitude>-91.3766</longitude>
+    <elevation>197.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8511</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233596</id>
+    <displayName>HANNIBAL 1 N, MO US</displayName>
+    <minDate>1892-04-16</minDate>
+    <maxDate>1965-06-30</maxDate>
+    <latitude>39.7</latitude>
+    <longitude>-91.35</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093994</id>
+    <displayName>HANNIBAL 1 N, MO US</displayName>
+    <minDate>1908-01-01</minDate>
+    <maxDate>1948-12-31</maxDate>
+    <latitude>39.7</latitude>
+    <longitude>-91.35</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00333500</id>
+    <displayName>HANNIBAL LOCK AND DAM, OH US</displayName>
+    <minDate>1975-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6667</latitude>
+    <longitude>-80.8667</longitude>
+    <elevation>189</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233601</id>
+    <displayName>HANNIBAL WATER WORKS, MO US</displayName>
+    <minDate>1933-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7233</latitude>
+    <longitude>-91.3719</longitude>
+    <elevation>217</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJF0001</id>
+    <displayName>HANOVER 1.4 S, IN US</displayName>
+    <minDate>2006-05-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.696</latitude>
+    <longitude>-85.4727</longitude>
+    <elevation>232</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273855</id>
+    <displayName>HANOVER 2, NH US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>43.7186</latitude>
+    <longitude>-72.2724</longitude>
+    <elevation>161.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIJC0001</id>
+    <displayName>HANOVER 2.8 E, MI US</displayName>
+    <minDate>2008-05-20</minDate>
+    <maxDate>2011-05-24</maxDate>
+    <latitude>42.1066</latitude>
+    <longitude>-84.4977</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2291</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIJC0013</id>
+    <displayName>HANOVER 3.8 W, MI US</displayName>
+    <minDate>2008-08-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.107</latitude>
+    <longitude>-84.626</longitude>
+    <elevation>328</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8738</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143398</id>
+    <displayName>HANOVER 4 S, KS US</displayName>
+    <minDate>1918-05-21</minDate>
+    <maxDate>1992-09-30</maxDate>
+    <latitude>39.83333</latitude>
+    <longitude>-96.86667</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6473</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363665</id>
+    <displayName>HANOVER 4 SW, PA US</displayName>
+    <minDate>1993-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.77056</latitude>
+    <longitude>-77.0325</longitude>
+    <elevation>170.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAKW0002</id>
+    <displayName>HANOVER 5.9 ESE, VA US</displayName>
+    <minDate>2011-06-11</minDate>
+    <maxDate>2012-12-22</maxDate>
+    <latitude>37.7391</latitude>
+    <longitude>-77.2683</longitude>
+    <elevation>28.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4421</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0090</id>
+    <displayName>HANOVER PARK 2.2 SSW, IL US</displayName>
+    <minDate>2010-05-03</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.9551</latitude>
+    <longitude>-88.1588</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9958</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143393</id>
+    <displayName>HANOVER, KS US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1952-02-19</maxDate>
+    <latitude>39.9</latitude>
+    <longitude>-96.88333</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203561</id>
+    <displayName>HANOVER, MI US</displayName>
+    <minDate>1891-09-01</minDate>
+    <maxDate>1903-06-30</maxDate>
+    <latitude>42.15</latitude>
+    <longitude>-84.21667</longitude>
+    <elevation>344.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00273850</id>
+    <displayName>HANOVER, NH US</displayName>
+    <minDate>1884-11-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.7052</latitude>
+    <longitude>-72.2855</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363662</id>
+    <displayName>HANOVER, PA US</displayName>
+    <minDate>1904-04-01</minDate>
+    <maxDate>1993-09-30</maxDate>
+    <latitude>39.8</latitude>
+    <longitude>-76.98333</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423600</id>
+    <displayName>HANS FLAT RANGER STATION, UT US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2553</latitude>
+    <longitude>-110.18</longitude>
+    <elevation>2011.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00323963</id>
+    <displayName>HANSBORO 4 NNE, ND US</displayName>
+    <minDate>1908-03-01</minDate>
+    <maxDate>2011-05-08</maxDate>
+    <latitude>48.99889</latitude>
+    <longitude>-99.34639</longitude>
+    <elevation>469.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9582</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IHAN</id>
+    <displayName>HANSEL MOUNTAIN IDAHO, ID US</displayName>
+    <minDate>1990-06-18</minDate>
+    <maxDate>1997-05-07</maxDate>
+    <latitude>42.0836</latitude>
+    <longitude>-112.5528</longitude>
+    <elevation>1691</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043751</id>
+    <displayName>HANSEN DAM, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>34.2608</latitude>
+    <longitude>-118.3863</longitude>
+    <elevation>331.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006E03S</id>
+    <displayName>HANSEN SAWMILL, WY US</displayName>
+    <minDate>1980-07-31</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.25</latitude>
+    <longitude>-106.9833</longitude>
+    <elevation>2548.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYHP0001</id>
+    <displayName>HANSON 2.2 NE, KY US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.4378</latitude>
+    <longitude>-87.4418</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9769</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSHG0009</id>
+    <displayName>HANSTON 1.6 SW, KS US</displayName>
+    <minDate>2008-05-16</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>38.1048</latitude>
+    <longitude>-99.731</longitude>
+    <elevation>659</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453576</id>
+    <displayName>HANSVILLE 1 SW, WA US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.89889</latitude>
+    <longitude>-122.57111</longitude>
+    <elevation>50.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0021</id>
+    <displayName>HANSVILLE 1.5 SW, WA US</displayName>
+    <minDate>2008-08-11</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>47.899</latitude>
+    <longitude>-122.571</longitude>
+    <elevation>51.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3596</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0044</id>
+    <displayName>HANSVILLE 1.8 SE, WA US</displayName>
+    <minDate>2012-03-27</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>47.9006</latitude>
+    <longitude>-122.5284</longitude>
+    <elevation>42.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0012</id>
+    <displayName>HANSVILLE 2.8 WNW, WA US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.9264</latitude>
+    <longitude>-122.6154</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6221</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413926</id>
+    <displayName>HAPPY 4 NW, TX US</displayName>
+    <minDate>2005-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.7878</latitude>
+    <longitude>-101.8997</longitude>
+    <elevation>1109.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9731</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043761</id>
+    <displayName>HAPPY CAMP RANGER STATION, CA US</displayName>
+    <minDate>1914-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.8042</latitude>
+    <longitude>-123.3758</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8603</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353635</id>
+    <displayName>HAPPY HOME, OR US</displayName>
+    <minDate>1909-07-03</minDate>
+    <maxDate>1915-09-30</maxDate>
+    <latitude>42.766667</latitude>
+    <longitude>-123.966667</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9816</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00023828</id>
+    <displayName>HAPPY JACK RANGER STATION, AZ US</displayName>
+    <minDate>1969-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.7433</latitude>
+    <longitude>-111.4139</longitude>
+    <elevation>2279.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9279</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011R05S</id>
+    <displayName>HAPPY JACK, AZ US</displayName>
+    <minDate>2000-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>34.7167</latitude>
+    <longitude>-111.4167</longitude>
+    <elevation>2325.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6191</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503558</id>
+    <displayName>HAPPY VALLEY CAMP, AK US</displayName>
+    <minDate>1970-11-01</minDate>
+    <maxDate>1977-12-31</maxDate>
+    <latitude>69.16667</latitude>
+    <longitude>-148.83333</longitude>
+    <elevation>289</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.686</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413922</id>
+    <displayName>HAPPY, TX US</displayName>
+    <minDate>1894-06-08</minDate>
+    <maxDate>1947-11-14</maxDate>
+    <latitude>34.73333</latitude>
+    <longitude>-101.85</longitude>
+    <elevation>1104</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511240</id>
+    <displayName>HAPUU 31, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>19.43333</latitude>
+    <longitude>-155.81667</longitude>
+    <elevation>1391.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00094070</id>
+    <displayName>HARALSON, GA US</displayName>
+    <minDate>1940-06-12</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.23333</latitude>
+    <longitude>-84.55</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243910</id>
+    <displayName>HARB, MT US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.2333</latitude>
+    <longitude>-107.4103</longitude>
+    <elevation>774.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7168</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203576</id>
+    <displayName>HARBERT, MI US</displayName>
+    <minDate>1906-08-01</minDate>
+    <maxDate>1907-10-31</maxDate>
+    <latitude>41.85</latitude>
+    <longitude>-86.66667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8183</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSLP</id>
+    <displayName>HARBISON MEADOW COLORADO, CO US</displayName>
+    <minDate>2003-02-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.2708</latitude>
+    <longitude>-105.8328</longitude>
+    <elevation>2621.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203585</id>
+    <displayName>HARBOR BEACH 1 SSE, MI US</displayName>
+    <minDate>1899-07-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>43.8322</latitude>
+    <longitude>-82.6427</longitude>
+    <elevation>181.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203580</id>
+    <displayName>HARBOR BEACH, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.83222</latitude>
+    <longitude>-82.64278</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIEM0005</id>
+    <displayName>HARBOR SPRINGS 0.7 ENE, MI US</displayName>
+    <minDate>2011-11-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4345</latitude>
+    <longitude>-84.9754</longitude>
+    <elevation>208.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9078</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIEM0003</id>
+    <displayName>HARBOR SPRINGS 10.1 NW, MI US</displayName>
+    <minDate>2008-10-03</minDate>
+    <maxDate>2010-01-19</maxDate>
+    <latitude>45.5493</latitude>
+    <longitude>-85.1144</longitude>
+    <elevation>196</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4093</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIEM0006</id>
+    <displayName>HARBOR SPRINGS 3.7 ENE, MI US</displayName>
+    <minDate>2011-12-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4518</latitude>
+    <longitude>-84.9172</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00133623</id>
+    <displayName>HARCOURT 2 N, IA US</displayName>
+    <minDate>1976-09-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>42.2863</latitude>
+    <longitude>-94.1663</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1865</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCJS0004</id>
+    <displayName>HARDEEVILLE 6.5 SSE, SC US</displayName>
+    <minDate>2009-03-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.1903</latitude>
+    <longitude>-81.0288</longitude>
+    <elevation>3.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9115</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343902</id>
+    <displayName>HARDESTY, OK US</displayName>
+    <minDate>1941-01-01</minDate>
+    <maxDate>1957-11-19</maxDate>
+    <latitude>36.61667</latitude>
+    <longitude>-101.18333</longitude>
+    <elevation>885.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9335</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTBH0005</id>
+    <displayName>HARDIN 0.4 SW, MT US</displayName>
+    <minDate>2011-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.7282</latitude>
+    <longitude>-107.6184</longitude>
+    <elevation>887.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8566</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTBH0002</id>
+    <displayName>HARDIN 0.6 ENE, MT US</displayName>
+    <minDate>2008-10-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.736</latitude>
+    <longitude>-107.602</longitude>
+    <elevation>883.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTBH0001</id>
+    <displayName>HARDIN 6.7 N, MT US</displayName>
+    <minDate>2008-10-23</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>45.8281</latitude>
+    <longitude>-107.6336</longitude>
+    <elevation>880</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293826</id>
+    <displayName>HARDIN RANCH, NM US</displayName>
+    <minDate>1942-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.25</latitude>
+    <longitude>-106.73333</longitude>
+    <elevation>1830</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9985</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IHAR</id>
+    <displayName>HARDIN RIDGE INDIANA, IN US</displayName>
+    <minDate>2002-07-10</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39</latitude>
+    <longitude>-86.4228</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8991</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113850</id>
+    <displayName>HARDIN, IL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1974-10-31</maxDate>
+    <latitude>39.15</latitude>
+    <longitude>-90.61667</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00243915</id>
+    <displayName>HARDIN, MT US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.7316</latitude>
+    <longitude>-107.6091</longitude>
+    <elevation>886.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9316</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393560</id>
+    <displayName>HARDING 3 SE, SD US</displayName>
+    <minDate>1951-12-02</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.36</latitude>
+    <longitude>-103.8116</longitude>
+    <elevation>1036.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMS0020</id>
+    <displayName>HARDING TWP 2.6 NNW, NJ US</displayName>
+    <minDate>2009-03-14</minDate>
+    <maxDate>2011-06-25</maxDate>
+    <latitude>40.7741</latitude>
+    <longitude>-74.5222</longitude>
+    <elevation>171.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INOR0005</id>
+    <displayName>HARDINSBURG 4.6 NW, IN US</displayName>
+    <minDate>2006-08-09</minDate>
+    <maxDate>2008-12-03</maxDate>
+    <latitude>38.4988</latitude>
+    <longitude>-86.3419</longitude>
+    <elevation>274</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6132</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153604</id>
+    <displayName>HARDINSBURG, KY US</displayName>
+    <minDate>1974-04-01</minDate>
+    <maxDate>2009-09-30</maxDate>
+    <latitude>37.7822</latitude>
+    <longitude>-86.4622</longitude>
+    <elevation>217.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353644</id>
+    <displayName>HARDMAN, OR US</displayName>
+    <minDate>1962-07-01</minDate>
+    <maxDate>1975-05-31</maxDate>
+    <latitude>45.16667</latitude>
+    <longitude>-119.68333</longitude>
+    <elevation>1092.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011J37S</id>
+    <displayName>HARDSCRABBLE, UT US</displayName>
+    <minDate>1993-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.8667</latitude>
+    <longitude>-111.7167</longitude>
+    <elevation>2209.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9579</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423671</id>
+    <displayName>HARDWARE RANCH, UT US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1991-02-28</maxDate>
+    <latitude>41.6</latitude>
+    <longitude>-111.56667</longitude>
+    <elevation>1694.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.895</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTCL0010</id>
+    <displayName>HARDWICK 0.1 ENE, VT US</displayName>
+    <minDate>2009-05-14</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>44.5046</latitude>
+    <longitude>-72.3655</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTCL0017</id>
+    <displayName>HARDWICK 0.8 S, VT US</displayName>
+    <minDate>2010-11-07</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.4921</latitude>
+    <longitude>-72.3674</longitude>
+    <elevation>279.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4582</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193402</id>
+    <displayName>HARDWICK 2 ESE, MA US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3457</latitude>
+    <longitude>-72.1541</longitude>
+    <elevation>173.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193405</id>
+    <displayName>HARDWICK 3 WSW, MA US</displayName>
+    <minDate>1991-02-01</minDate>
+    <maxDate>2002-08-31</maxDate>
+    <latitude>42.33333</latitude>
+    <longitude>-72.25</longitude>
+    <elevation>226.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00193401</id>
+    <displayName>HARDWICK, MA US</displayName>
+    <minDate>1925-04-01</minDate>
+    <maxDate>2007-05-31</maxDate>
+    <latitude>42.35</latitude>
+    <longitude>-72.2</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARSH0006</id>
+    <displayName>HARDY 11.0 S, AR US</displayName>
+    <minDate>2012-05-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1646</latitude>
+    <longitude>-91.5159</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10nuck013</id>
+    <displayName>HARDY 3.0 NW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-09-10</maxDate>
+    <latitude>40.0413</latitude>
+    <longitude>-97.9658</longitude>
+    <elevation>488.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10nuck017</id>
+    <displayName>HARDY 4.3 E, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-15</maxDate>
+    <latitude>40.0167</latitude>
+    <longitude>-97.8457</longitude>
+    <elevation>502.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFR0002</id>
+    <displayName>HARDY 5.7 SE, VA US</displayName>
+    <minDate>2008-02-02</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>37.184</latitude>
+    <longitude>-79.7264</longitude>
+    <elevation>271.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3082</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFR0014</id>
+    <displayName>HARDY 7.1 SE, VA US</displayName>
+    <minDate>2011-04-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.164</latitude>
+    <longitude>-79.7152</longitude>
+    <elevation>272.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8955</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAFR0013</id>
+    <displayName>HARDY 7.8 SE, VA US</displayName>
+    <minDate>2011-03-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.15</latitude>
+    <longitude>-79.7137</longitude>
+    <elevation>270.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARSH0011</id>
+    <displayName>HARDY 8.0 SSW, AR US</displayName>
+    <minDate>2012-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2084</latitude>
+    <longitude>-91.5115</longitude>
+    <elevation>175</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393572</id>
+    <displayName>HARDY RANGER STATION, SD US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.15</latitude>
+    <longitude>-103.95</longitude>
+    <elevation>1973</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00033132</id>
+    <displayName>HARDY, AR US</displayName>
+    <minDate>1897-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2747</latitude>
+    <longitude>-91.5056</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253589</id>
+    <displayName>HARDY, NE US</displayName>
+    <minDate>1918-06-15</minDate>
+    <maxDate>2009-12-31</maxDate>
+    <latitude>40.0136</latitude>
+    <longitude>-97.9288</longitude>
+    <elevation>463.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343909</id>
+    <displayName>HARDY, OK US</displayName>
+    <minDate>1995-11-01</minDate>
+    <maxDate>2012-02-28</maxDate>
+    <latitude>36.95611</latitude>
+    <longitude>-96.85917</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9152</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJSS0007</id>
+    <displayName>HARDYSTON TWP 3.2 SE, NJ US</displayName>
+    <minDate>2008-03-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.089</latitude>
+    <longitude>-74.5399</longitude>
+    <elevation>323.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9897</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBEL003</id>
+    <displayName>HARKER HEIGHTS 1.5 NE, TX US</displayName>
+    <minDate>2008-07-24</minDate>
+    <maxDate>2009-11-22</maxDate>
+    <latitude>31.0765</latitude>
+    <longitude>-97.6371</longitude>
+    <elevation>233.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8357</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBEL005</id>
+    <displayName>HARKER HEIGHTS 1.7 NW, TX US</displayName>
+    <minDate>2009-06-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.076</latitude>
+    <longitude>-97.6773</longitude>
+    <elevation>256</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0020</id>
+    <displayName>HARKERS ISLAND 3.2 NE, NC US</displayName>
+    <minDate>2007-12-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.7315</latitude>
+    <longitude>-76.5176</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9689</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0004</id>
+    <displayName>HARKERS ISLAND 4.8 NNE, NC US</displayName>
+    <minDate>2007-09-03</minDate>
+    <maxDate>2010-09-30</maxDate>
+    <latitude>34.7598</latitude>
+    <longitude>-76.5208</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303662</id>
+    <displayName>HARKNESS, NY US</displayName>
+    <minDate>1902-05-01</minDate>
+    <maxDate>1932-12-31</maxDate>
+    <latitude>44.533333</latitude>
+    <longitude>-73.566667</longitude>
+    <elevation>189.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9858</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OHAR</id>
+    <displayName>HARL BUTTE OREGON, OR US</displayName>
+    <minDate>1991-07-19</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.3192</latitude>
+    <longitude>-116.8675</longitude>
+    <elevation>1850.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9087</coverage>
+  </station>
+</stationCollection>

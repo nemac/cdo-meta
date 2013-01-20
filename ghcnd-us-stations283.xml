@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="283">
+  <station>
+    <id>GHCND:USC00505891</id>
+    <displayName>MOOSE CREEK, AK US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>2001-09-30</maxDate>
+    <latitude>64.71361</latitude>
+    <longitude>-147.15806</longitude>
+    <elevation>157.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0013D16S</id>
+    <displayName>MOOSE CREEK, ID US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.6667</latitude>
+    <longitude>-113.95</longitude>
+    <elevation>1889.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215598</id>
+    <displayName>MOOSE LAKE 1 SSE, MN US</displayName>
+    <minDate>1913-11-22</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.4378</latitude>
+    <longitude>-92.7578</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8476</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MMLK</id>
+    <displayName>MOOSE LAKE MINNESOTA, MN US</displayName>
+    <minDate>2003-01-06</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.4203</latitude>
+    <longitude>-92.8008</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8849</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215603</id>
+    <displayName>MOOSE LAKE RANGER ST, MN US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1960-02-29</maxDate>
+    <latitude>46.45</latitude>
+    <longitude>-92.76667</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8203</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505894</id>
+    <displayName>MOOSE PASS 3 NW, AK US</displayName>
+    <minDate>1941-07-29</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>60.5029</latitude>
+    <longitude>-149.4261</longitude>
+    <elevation>150</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5212</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505895</id>
+    <displayName>MOOSE PASS 6 NW, AK US</displayName>
+    <minDate>1979-05-01</minDate>
+    <maxDate>1980-01-31</maxDate>
+    <latitude>60.53333</latitude>
+    <longitude>-149.51667</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9167</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505896</id>
+    <displayName>MOOSE RUN FORT RICHA, AK US</displayName>
+    <minDate>1965-01-15</minDate>
+    <maxDate>1971-02-28</maxDate>
+    <latitude>61.25</latitude>
+    <longitude>-149.66667</longitude>
+    <elevation>120.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.729</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00486428</id>
+    <displayName>MOOSE, WY US</displayName>
+    <minDate>1958-12-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6536</latitude>
+    <longitude>-110.7169</longitude>
+    <elevation>1964.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00175460</id>
+    <displayName>MOOSEHEAD, ME US</displayName>
+    <minDate>1930-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.58694</latitude>
+    <longitude>-69.71611</longitude>
+    <elevation>313.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MMOO</id>
+    <displayName>MOOSEHORN MAINE, ME US</displayName>
+    <minDate>2001-06-26</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.1144</latitude>
+    <longitude>-67.2819</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9248</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNKB0002</id>
+    <displayName>MORA 2.1 N, MN US</displayName>
+    <minDate>2011-05-09</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>45.9064</latitude>
+    <longitude>-93.2979</longitude>
+    <elevation>308.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4775</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00666361</id>
+    <displayName>MORA CAMP, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.4736</latitude>
+    <longitude>-67.0288</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MMOR</id>
+    <displayName>MORA MINNESOTA, MN US</displayName>
+    <minDate>2003-05-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.89</latitude>
+    <longitude>-93.2697</longitude>
+    <elevation>308.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9266</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215615</id>
+    <displayName>MORA, MN US</displayName>
+    <minDate>1904-06-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.8775</latitude>
+    <longitude>-93.3148</longitude>
+    <elevation>310.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235754</id>
+    <displayName>MORA, MO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.53333</latitude>
+    <longitude>-93.21667</longitude>
+    <elevation>304.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00486440</id>
+    <displayName>MORAN 5 WNW, WY US</displayName>
+    <minDate>1911-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.8566</latitude>
+    <longitude>-110.5888</longitude>
+    <elevation>2072</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00145463</id>
+    <displayName>MORAN, KS US</displayName>
+    <minDate>1895-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9158</latitude>
+    <longitude>-95.1763</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7721</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205591</id>
+    <displayName>MORAN, MI US</displayName>
+    <minDate>2003-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.9902</latitude>
+    <longitude>-84.8361</longitude>
+    <elevation>211.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCY0009</id>
+    <displayName>MORAVIA 0.6 S, NY US</displayName>
+    <minDate>2008-10-19</minDate>
+    <maxDate>2009-11-30</maxDate>
+    <latitude>42.7031</latitude>
+    <longitude>-76.4202</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8309</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCY0013</id>
+    <displayName>MORAVIA 2.5 ESE, NY US</displayName>
+    <minDate>2009-05-25</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>42.7051</latitude>
+    <longitude>-76.3751</longitude>
+    <elevation>466</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7159</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00346035</id>
+    <displayName>MORAVIA, OK US</displayName>
+    <minDate>1941-08-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>35.1464</latitude>
+    <longitude>-99.4956</longitude>
+    <elevation>515.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9383</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CMRF</id>
+    <displayName>MOREFIELD COLORADO, CO US</displayName>
+    <minDate>1999-11-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.3006</latitude>
+    <longitude>-108.4133</longitude>
+    <elevation>2383.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYRW0002</id>
+    <displayName>MOREHEAD 1.7 SW, KY US</displayName>
+    <minDate>2008-09-14</minDate>
+    <maxDate>2011-04-26</maxDate>
+    <latitude>38.1744</latitude>
+    <longitude>-83.4663</longitude>
+    <elevation>315.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2555</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155555</id>
+    <displayName>MOREHEAD 3 NW, KY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2009-04-21</maxDate>
+    <latitude>38.2191</latitude>
+    <longitude>-83.4773</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1069</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYRW0004</id>
+    <displayName>MOREHEAD 5.1 WSW, KY US</displayName>
+    <minDate>2008-11-13</minDate>
+    <maxDate>2010-02-24</maxDate>
+    <latitude>38.1754</latitude>
+    <longitude>-83.5346</longitude>
+    <elevation>271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8763</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYRW0003</id>
+    <displayName>MOREHEAD 6.4 NE, KY US</displayName>
+    <minDate>2008-09-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.2429</latitude>
+    <longitude>-83.3449</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYRW0001</id>
+    <displayName>MOREHEAD 6.6 N, KY US</displayName>
+    <minDate>2008-03-27</minDate>
+    <maxDate>2009-02-10</maxDate>
+    <latitude>38.2854</latitude>
+    <longitude>-83.4556</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6449</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0029</id>
+    <displayName>MOREHEAD CITY 0.1 E, NC US</displayName>
+    <minDate>2011-05-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7245</latitude>
+    <longitude>-76.7295</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8567</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0012</id>
+    <displayName>MOREHEAD CITY 0.6 NW, NC US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.73</latitude>
+    <longitude>-76.74</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9108</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0022</id>
+    <displayName>MOREHEAD CITY 1.1 NNE, NC US</displayName>
+    <minDate>2008-05-22</minDate>
+    <maxDate>2010-01-16</maxDate>
+    <latitude>34.7396</latitude>
+    <longitude>-76.7242</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0015</id>
+    <displayName>MOREHEAD CITY 1.2 NNE, NC US</displayName>
+    <minDate>2007-09-21</minDate>
+    <maxDate>2008-05-19</maxDate>
+    <latitude>34.7421</latitude>
+    <longitude>-76.7268</longitude>
+    <elevation>2.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9298</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00315830</id>
+    <displayName>MOREHEAD CITY 2 WNW, NC US</displayName>
+    <minDate>1948-04-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.73361</latitude>
+    <longitude>-76.73583</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0045</id>
+    <displayName>MOREHEAD CITY 2.4 WNW, NC US</displayName>
+    <minDate>2012-03-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7345</latitude>
+    <longitude>-76.7725</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0003</id>
+    <displayName>MOREHEAD CITY 2.9 WNW, NC US</displayName>
+    <minDate>2007-09-03</minDate>
+    <maxDate>2011-11-30</maxDate>
+    <latitude>34.738</latitude>
+    <longitude>-76.78</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0040</id>
+    <displayName>MOREHEAD CITY 3.0 WNW, NC US</displayName>
+    <minDate>2011-04-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7361</latitude>
+    <longitude>-76.7831</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.93</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCR0016</id>
+    <displayName>MOREHEAD CITY 6.0 WNW, NC US</displayName>
+    <minDate>2008-02-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7302</latitude>
+    <longitude>-76.8314</longitude>
+    <elevation>10.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9218</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155559</id>
+    <displayName>MOREHEAD ST POLICE, KY US</displayName>
+    <minDate>1983-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.18639</latitude>
+    <longitude>-83.46694</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9092</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215584</id>
+    <displayName>MOREHEAD, MN US</displayName>
+    <minDate>1952-02-14</minDate>
+    <maxDate>1954-08-31</maxDate>
+    <latitude>46.86667</latitude>
+    <longitude>-96.76667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00235762</id>
+    <displayName>MOREHOUSE, MO US</displayName>
+    <minDate>1926-01-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>36.85</latitude>
+    <longitude>-89.7</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00305489</id>
+    <displayName>MOREHOUSEVILLE, NY US</displayName>
+    <minDate>1908-01-01</minDate>
+    <maxDate>1915-05-31</maxDate>
+    <latitude>43.383333</latitude>
+    <longitude>-74.733333</longitude>
+    <elevation>517.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9904</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHCY0013</id>
+    <displayName>MORELAND HILLS 0.6 W, OH US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2012-11-20</maxDate>
+    <latitude>41.443</latitude>
+    <longitude>-81.443</longitude>
+    <elevation>324.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.628</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045840</id>
+    <displayName>MORENA DAM, CA US</displayName>
+    <minDate>1896-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>32.68167</latitude>
+    <longitude>-116.52083</longitude>
+    <elevation>937.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1087</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZGN0001</id>
+    <displayName>MORENCI 0.2 NNW, AZ US</displayName>
+    <minDate>2009-08-24</minDate>
+    <maxDate>2010-04-17</maxDate>
+    <latitude>33.0555</latitude>
+    <longitude>-109.3305</longitude>
+    <elevation>1273.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9578</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205603</id>
+    <displayName>MORENCI, MI US</displayName>
+    <minDate>1973-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7216</latitude>
+    <longitude>-84.2147</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9101</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00205601</id>
+    <displayName>MORENCI, MI US</displayName>
+    <minDate>1907-03-21</minDate>
+    <maxDate>1940-08-31</maxDate>
+    <latitude>41.75</latitude>
+    <longitude>-84.216667</longitude>
+    <elevation>247.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0004</id>
+    <displayName>MORETOWN 1.0 ESE, VT US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2012-10-30</maxDate>
+    <latitude>44.2462</latitude>
+    <longitude>-72.742</longitude>
+    <elevation>269.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4354</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTWS0008</id>
+    <displayName>MORETOWN 1.7 ENE, VT US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2012-05-24</maxDate>
+    <latitude>44.2627</latitude>
+    <longitude>-72.7313</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1017</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NMOR</id>
+    <displayName>MOREY CREEK NEVADA, NV US</displayName>
+    <minDate>1986-07-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.4558</latitude>
+    <longitude>-117.6333</longitude>
+    <elevation>1676.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00265375</id>
+    <displayName>MOREY, NV US</displayName>
+    <minDate>1902-08-01</minDate>
+    <maxDate>1906-09-30</maxDate>
+    <latitude>38.916667</latitude>
+    <longitude>-116.5</longitude>
+    <elevation>2250.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8265</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTMR0001</id>
+    <displayName>MORGAN 0.8 SE, UT US</displayName>
+    <minDate>2009-08-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.033</latitude>
+    <longitude>-111.673</longitude>
+    <elevation>1552</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00096038</id>
+    <displayName>MORGAN 1 W, GA US</displayName>
+    <minDate>1892-04-06</minDate>
+    <maxDate>1986-03-31</maxDate>
+    <latitude>31.53333</latitude>
+    <longitude>-84.61667</longitude>
+    <elevation>82.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.441</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355726</id>
+    <displayName>MORGAN 3 NE, OR US</displayName>
+    <minDate>1923-06-01</minDate>
+    <maxDate>1979-10-31</maxDate>
+    <latitude>45.58333</latitude>
+    <longitude>-119.88333</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9394</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416058</id>
+    <displayName>MORGAN 3 WNW, TX US</displayName>
+    <minDate>1965-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.0138</latitude>
+    <longitude>-97.6131</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00096043</id>
+    <displayName>MORGAN 5 NW, GA US</displayName>
+    <minDate>1959-05-01</minDate>
+    <maxDate>2011-03-06</maxDate>
+    <latitude>31.60611</latitude>
+    <longitude>-84.64528</longitude>
+    <elevation>83.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTOL0006</id>
+    <displayName>MORGAN 6.7 SE, VT US</displayName>
+    <minDate>2009-11-15</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>44.8553</latitude>
+    <longitude>-71.9067</longitude>
+    <elevation>408.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3722</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0014E04S</id>
+    <displayName>MORGAN CREEK, ID US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>44.85</latitude>
+    <longitude>-114.2667</longitude>
+    <elevation>2316.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.875</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASC0045</id>
+    <displayName>MORGAN HILL 1.4 SW, CA US</displayName>
+    <minDate>2012-04-01</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>37.1168</latitude>
+    <longitude>-121.6591</longitude>
+    <elevation>132</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9075</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045844</id>
+    <displayName>MORGAN HILL 2 E, CA US</displayName>
+    <minDate>1906-03-03</minDate>
+    <maxDate>1977-08-31</maxDate>
+    <latitude>37.13333</latitude>
+    <longitude>-121.61667</longitude>
+    <elevation>70.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045847</id>
+    <displayName>MORGAN HILL 6 WSW, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-14</maxDate>
+    <latitude>37.1</latitude>
+    <longitude>-121.75</longitude>
+    <elevation>195.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9266</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045853</id>
+    <displayName>MORGAN HILL, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.1363</latitude>
+    <longitude>-121.6025</longitude>
+    <elevation>114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00416060</id>
+    <displayName>MORGAN MILL, TX US</displayName>
+    <minDate>1949-03-19</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>32.3841</latitude>
+    <longitude>-98.1702</longitude>
+    <elevation>321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.932</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OMOR</id>
+    <displayName>MORGAN MOUNTAIN OREGON, OR US</displayName>
+    <minDate>1985-01-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.5167</latitude>
+    <longitude>-117.2833</longitude>
+    <elevation>1097.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00425826</id>
+    <displayName>MORGAN POWER AND LIGHT, UT US</displayName>
+    <minDate>1903-01-01</minDate>
+    <maxDate>2012-04-30</maxDate>
+    <latitude>41.0427</latitude>
+    <longitude>-111.6722</longitude>
+    <elevation>1551.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9389</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406224</id>
+    <displayName>MORGAN SPRINGS, TN US</displayName>
+    <minDate>1935-03-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-85.05</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406229</id>
+    <displayName>MORGAN STATE FOREST, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1953-11-30</maxDate>
+    <latitude>36.11667</latitude>
+    <longitude>-84.5</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00215590</id>
+    <displayName>MORGAN, MN US</displayName>
+    <minDate>2004-02-01</minDate>
+    <maxDate>2011-04-30</maxDate>
+    <latitude>44.4175</latitude>
+    <longitude>-94.92167</longitude>
+    <elevation>317</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406219</id>
+    <displayName>MORGAN, TN US</displayName>
+    <minDate>1950-09-01</minDate>
+    <maxDate>1953-01-31</maxDate>
+    <latitude>35.96667</latitude>
+    <longitude>-84.63333</longitude>
+    <elevation>399.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00155569</id>
+    <displayName>MORGANFIELD 12 SE, KY US</displayName>
+    <minDate>2005-07-01</minDate>
+    <maxDate>2009-01-31</maxDate>
+    <latitude>37.5827</latitude>
+    <longitude>-87.8577</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9794</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCBK0001</id>
+    <displayName>MORGANTON 4.4 SW, NC US</displayName>
+    <minDate>2007-12-31</minDate>
+    <maxDate>2012-05-21</maxDate>
+    <latitude>35.6962</latitude>
+    <longitude>-81.7532</longitude>
+    <elevation>349.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9196</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFN0004</id>
+    <displayName>MORGANTON 5.8 E, GA US</displayName>
+    <minDate>2011-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8684</latitude>
+    <longitude>-84.1422</longitude>
+    <elevation>683.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAUN0003</id>
+    <displayName>MORGANTON 9.8 NE, GA US</displayName>
+    <minDate>2008-11-25</minDate>
+    <maxDate>2010-05-25</maxDate>
+    <latitude>34.9716</latitude>
+    <longitude>-84.1162</longitude>
+    <elevation>538.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1828</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00315831</id>
+    <displayName>MORGANTON AG 4 E, NC US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-02-13</maxDate>
+    <latitude>35.6808</latitude>
+    <longitude>-81.7211</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00315838</id>
+    <displayName>MORGANTON, NC US</displayName>
+    <minDate>1880-03-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7297</latitude>
+    <longitude>-81.6727</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466207</id>
+    <displayName>MORGANTOWN 1, WV US</displayName>
+    <minDate>1872-05-01</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>39.63333</latitude>
+    <longitude>-79.95</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8115</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVMG0001</id>
+    <displayName>MORGANTOWN 3.5 SSE, WV US</displayName>
+    <minDate>2009-05-06</minDate>
+    <maxDate>2009-12-04</maxDate>
+    <latitude>39.5924</latitude>
+    <longitude>-79.9166</longitude>
+    <elevation>399</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8075</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013736</id>
+    <displayName>MORGANTOWN HART FIELD, WV US</displayName>
+    <minDate>1872-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.64278</latitude>
+    <longitude>-79.91639</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00466212</id>
+    <displayName>MORGANTOWN LOCK AND DAM, WV US</displayName>
+    <minDate>1921-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6203</latitude>
+    <longitude>-79.9698</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00365956</id>
+    <displayName>MORGANTOWN, PA US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>40.158</latitude>
+    <longitude>-75.8862</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6574</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00406237</id>
+    <displayName>MORGANTOWN, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.33333</latitude>
+    <longitude>-85.01667</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295908</id>
+    <displayName>MORIARTY 1 NE, NM US</displayName>
+    <minDate>1998-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0128</latitude>
+    <longitude>-106.045</longitude>
+    <elevation>1895.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00295905</id>
+    <displayName>MORIARTY NEAR, NM US</displayName>
+    <minDate>1913-09-01</minDate>
+    <maxDate>1919-11-30</maxDate>
+    <latitude>34.9</latitude>
+    <longitude>-106.03333</longitude>
+    <elevation>1874.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8422</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSGH0003</id>
+    <displayName>MORLAND 1.0 SW, KS US</displayName>
+    <minDate>2007-04-09</minDate>
+    <maxDate>2012-08-25</maxDate>
+    <latitude>39.34</latitude>
+    <longitude>-100.09</longitude>
+    <elevation>741</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4044</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00145483</id>
+    <displayName>MORLAND 2 N, KS US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2011-12-31</maxDate>
+    <latitude>39.3769</latitude>
+    <longitude>-100.0719</longitude>
+    <elevation>729.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.267</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSGH0001</id>
+    <displayName>MORLAND 9.7 S, KS US</displayName>
+    <minDate>2006-06-16</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>39.2101</latitude>
+    <longitude>-100.0486</longitude>
+    <elevation>755</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.135</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00025700</id>
+    <displayName>MORMON FLAT, AZ US</displayName>
+    <minDate>1923-08-02</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.5544</latitude>
+    <longitude>-111.4425</longitude>
+    <elevation>519.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.92</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000AMOL</id>
+    <displayName>MORMON LAKE ARIZONA, AZ US</displayName>
+    <minDate>1996-10-07</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.9067</latitude>
+    <longitude>-111.445</longitude>
+    <elevation>2255.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9502</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00025708</id>
+    <displayName>MORMON LAKE R S, AZ US</displayName>
+    <minDate>1916-08-01</minDate>
+    <maxDate>1968-07-31</maxDate>
+    <latitude>34.91667</latitude>
+    <longitude>-111.45</longitude>
+    <elevation>2190</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011R03S</id>
+    <displayName>MORMON MOUNTAIN, AZ US</displayName>
+    <minDate>1982-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>34.9333</latitude>
+    <longitude>-111.5167</longitude>
+    <elevation>2286</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7706</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CMOR</id>
+    <displayName>MORMON ROCK CALIFORNIA, CA US</displayName>
+    <minDate>1999-10-20</minDate>
+    <maxDate>2012-06-20</maxDate>
+    <latitude>34.3175</latitude>
+    <longitude>-117.5019</longitude>
+    <elevation>1005.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9263</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYKN0006</id>
+    <displayName>MORNING VIEW 2.9 SW, KY US</displayName>
+    <minDate>2009-09-25</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>38.8126</latitude>
+    <longitude>-84.5072</longitude>
+    <elevation>255.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1342</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00034936</id>
+    <displayName>MORO BAY STATE PARK, AR US</displayName>
+    <minDate>2000-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3014</latitude>
+    <longitude>-92.3658</longitude>
+    <elevation>27.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9849</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00355734</id>
+    <displayName>MORO, OR US</displayName>
+    <minDate>1897-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4825</latitude>
+    <longitude>-120.7236</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8355</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INNW0009</id>
+    <displayName>MOROCCO 1.0 ESE, IN US</displayName>
+    <minDate>2009-04-22</minDate>
+    <maxDate>2009-10-02</maxDate>
+    <latitude>40.9383</latitude>
+    <longitude>-87.4373</longitude>
+    <elevation>212.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6524</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INNW0012</id>
+    <displayName>MOROCCO 2.9 NNE, IN US</displayName>
+    <minDate>2011-06-11</minDate>
+    <maxDate>2012-10-10</maxDate>
+    <latitude>40.9869</latitude>
+    <longitude>-87.4397</longitude>
+    <elevation>206.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.248</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125897</id>
+    <displayName>MOROCCO WATERWORKS, IN US</displayName>
+    <minDate>1949-12-11</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.96667</latitude>
+    <longitude>-87.45</longitude>
+    <elevation>200.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9165</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00125888</id>
+    <displayName>MOROCCO, IN US</displayName>
+    <minDate>1997-02-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.9214</latitude>
+    <longitude>-87.4444</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9265</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASR0022</id>
+    <displayName>MORONGO VALLEY 2.3 NE, CA US</displayName>
+    <minDate>2010-01-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0867</latitude>
+    <longitude>-116.5618</longitude>
+    <elevation>960.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9579</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045860</id>
+    <displayName>MORONGO VALLEY NORTH, CA US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.08639</latitude>
+    <longitude>-116.56222</longitude>
+    <elevation>958.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00045863</id>
+    <displayName>MORONGO VALLEY, CA US</displayName>
+    <minDate>1948-10-01</minDate>
+    <maxDate>1972-02-29</maxDate>
+    <latitude>34.03333</latitude>
+    <longitude>-116.58333</longitude>
+    <elevation>780.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7839</coverage>
+  </station>
+</stationCollection>

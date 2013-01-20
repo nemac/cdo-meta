@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="450">
+  <station>
+    <id>GHCND:USR0000CWIL</id>
+    <displayName>WILEY RIDGE CALIFORNIA, CA US</displayName>
+    <minDate>2003-10-21</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.3717</latitude>
+    <longitude>-118.8408</longitude>
+    <elevation>501.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7102</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00489660</id>
+    <displayName>WILEY, WY US</displayName>
+    <minDate>1908-11-01</minDate>
+    <maxDate>1912-02-29</maxDate>
+    <latitude>44.4</latitude>
+    <longitude>-108.766667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8141</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00519980</id>
+    <displayName>WILHELMINA RISE 721, HI US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>21.29889</latitude>
+    <longitude>-157.78472</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9704</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00449135</id>
+    <displayName>WILKERSON S, VA US</displayName>
+    <minDate>1902-05-01</minDate>
+    <maxDate>1905-05-31</maxDate>
+    <latitude>38.266667</latitude>
+    <longitude>-77</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALZ0022</id>
+    <displayName>WILKES BARRE 5.2 SE, PA US</displayName>
+    <minDate>2011-07-08</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>41.1925</latitude>
+    <longitude>-75.8061</longitude>
+    <elevation>577</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014777</id>
+    <displayName>WILKES BARRE SCRANTON INTERNATIONAL AIRPORT, PA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.3336</latitude>
+    <longitude>-75.7269</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369702</id>
+    <displayName>WILKES BARRE, PA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2000-04-30</maxDate>
+    <latitude>41.23333</latitude>
+    <longitude>-75.88333</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9758</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWL0005</id>
+    <displayName>WILKESBORO 1.2 SSE, NC US</displayName>
+    <minDate>2011-03-30</minDate>
+    <maxDate>2012-12-10</maxDate>
+    <latitude>36.1239</latitude>
+    <longitude>-81.1592</longitude>
+    <elevation>359.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3312</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWL0006</id>
+    <displayName>WILKESBORO 7.2 W, NC US</displayName>
+    <minDate>2011-04-16</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>36.1231</latitude>
+    <longitude>-81.292</longitude>
+    <elevation>340.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319406</id>
+    <displayName>WILKESBORO, NC US</displayName>
+    <minDate>1942-12-07</minDate>
+    <maxDate>1995-09-30</maxDate>
+    <latitude>36.15</latitude>
+    <longitude>-81.18333</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9456</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00269122</id>
+    <displayName>WILKINS, NV US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1980-05-18</maxDate>
+    <latitude>41.43333</latitude>
+    <longitude>-114.75</longitude>
+    <elevation>1720</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6228</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00229657</id>
+    <displayName>WILKINSON 5 NW, MS US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-07-26</maxDate>
+    <latitude>31.23333</latitude>
+    <longitude>-91.31667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6777</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OWIL</id>
+    <displayName>WILKINSON RIDGE OREGON, OR US</displayName>
+    <minDate>1991-04-08</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.3325</latitude>
+    <longitude>-123.7164</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9325</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00099451</id>
+    <displayName>WILLACOOCHEE 5 ENE, GA US</displayName>
+    <minDate>2000-03-01</minDate>
+    <maxDate>2008-09-30</maxDate>
+    <latitude>31.355</latitude>
+    <longitude>-82.9339</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359364</id>
+    <displayName>WILLAMETTE SNOW LAB, OR US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.35</latitude>
+    <longitude>-122.13333</longitude>
+    <elevation>1250.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8188</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359372</id>
+    <displayName>WILLAMINA, OR US</displayName>
+    <minDate>1935-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.07472</latitude>
+    <longitude>-123.48</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9544</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00459291</id>
+    <displayName>WILLAPA HARBOR, WA US</displayName>
+    <minDate>1895-03-01</minDate>
+    <maxDate>1979-12-31</maxDate>
+    <latitude>46.68333</latitude>
+    <longitude>-123.75</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9493</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOGR0081</id>
+    <displayName>WILLARD 2.6 W, MO US</displayName>
+    <minDate>2011-12-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.2886</latitude>
+    <longitude>-93.4587</longitude>
+    <elevation>326.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9415</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319423</id>
+    <displayName>WILLARD 4 SW, NC US</displayName>
+    <minDate>1907-09-01</minDate>
+    <maxDate>2012-07-23</maxDate>
+    <latitude>34.6605</latitude>
+    <longitude>-78.0454</longitude>
+    <elevation>16.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9795</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOGR0038</id>
+    <displayName>WILLARD 5.8 NNE, MO US</displayName>
+    <minDate>2008-04-18</minDate>
+    <maxDate>2012-09-28</maxDate>
+    <latitude>37.3647</latitude>
+    <longitude>-93.3557</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00199708</id>
+    <displayName>WILLARD BRK ST FRST, MA US</displayName>
+    <minDate>1950-02-14</minDate>
+    <maxDate>1954-12-31</maxDate>
+    <latitude>42.66667</latitude>
+    <longitude>-71.8</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9747</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00299754</id>
+    <displayName>WILLARD NEAR, NM US</displayName>
+    <minDate>1912-09-26</minDate>
+    <maxDate>1923-07-31</maxDate>
+    <latitude>34.63333</latitude>
+    <longitude>-106.03333</longitude>
+    <elevation>1853.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7402</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148886</id>
+    <displayName>WILLARD, KS US</displayName>
+    <minDate>1929-05-13</minDate>
+    <maxDate>1957-08-31</maxDate>
+    <latitude>39.08333</latitude>
+    <longitude>-95.93333</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00309457</id>
+    <displayName>WILLARD, NY US</displayName>
+    <minDate>1922-05-05</minDate>
+    <maxDate>1925-01-31</maxDate>
+    <latitude>42.683333</latitude>
+    <longitude>-76.883333</longitude>
+    <elevation>138.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.673</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00459294</id>
+    <displayName>WILLARD, WA US</displayName>
+    <minDate>1916-12-01</minDate>
+    <maxDate>1929-04-08</maxDate>
+    <latitude>48.783333</latitude>
+    <longitude>-121.633333</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00479218</id>
+    <displayName>WILLARD, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.7313</latitude>
+    <longitude>-90.7216</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8045</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZCH0013</id>
+    <displayName>WILLCOX 30.4 ESE, AZ US</displayName>
+    <minDate>2009-10-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.0056</latitude>
+    <longitude>-109.3974</longitude>
+    <elevation>1556.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029334</id>
+    <displayName>WILLCOX, AZ US</displayName>
+    <minDate>1898-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2553</latitude>
+    <longitude>-109.8369</longitude>
+    <elevation>1271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCR0003</id>
+    <displayName>WILLET 1.8 E, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.4739</latitude>
+    <longitude>-75.8725</longitude>
+    <elevation>427.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9815</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00399313</id>
+    <displayName>WILLETT, SD US</displayName>
+    <minDate>1950-08-19</minDate>
+    <maxDate>1952-03-31</maxDate>
+    <latitude>45.85</latitude>
+    <longitude>-103.96667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9306</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00419772</id>
+    <displayName>WILLIAM HARRIS RESER, TX US</displayName>
+    <minDate>1948-12-01</minDate>
+    <maxDate>1964-04-30</maxDate>
+    <latitude>29.25</latitude>
+    <longitude>-95.55</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319427</id>
+    <displayName>WILLIAM O HUSKE LOCK AND DAM, NC US</displayName>
+    <minDate>1966-03-01</minDate>
+    <maxDate>2008-06-10</maxDate>
+    <latitude>34.835</latitude>
+    <longitude>-78.8252</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9551</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00311449</id>
+    <displayName>WILLIAM O HUSKE LOCK AND DAM, NC US</displayName>
+    <minDate>1956-02-24</minDate>
+    <maxDate>1966-02-28</maxDate>
+    <latitude>34.835</latitude>
+    <longitude>-78.8252</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9902</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INLW0020</id>
+    <displayName>WILLIAMS 0.2 SE, IN US</displayName>
+    <minDate>2011-07-18</minDate>
+    <maxDate>2012-03-02</maxDate>
+    <latitude>38.8025</latitude>
+    <longitude>-86.6456</longitude>
+    <elevation>152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.559</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZCN0003</id>
+    <displayName>WILLIAMS 0.4 SW, AZ US</displayName>
+    <minDate>2009-09-25</minDate>
+    <maxDate>2012-12-22</maxDate>
+    <latitude>35.2432</latitude>
+    <longitude>-112.1951</longitude>
+    <elevation>2080.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7738</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORJC0001</id>
+    <displayName>WILLIAMS 1 N, OR US</displayName>
+    <minDate>2007-12-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2647</latitude>
+    <longitude>-123.2577</longitude>
+    <elevation>394.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8724</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00359390</id>
+    <displayName>WILLIAMS 1 NW, OR US</displayName>
+    <minDate>1892-05-16</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>42.2283</latitude>
+    <longitude>-123.2858</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029362</id>
+    <displayName>WILLIAMS 24 NNW, AZ US</displayName>
+    <minDate>1965-07-01</minDate>
+    <maxDate>1968-03-31</maxDate>
+    <latitude>35.53333</latitude>
+    <longitude>-112.4</longitude>
+    <elevation>1754.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9672</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZCN0020</id>
+    <displayName>WILLIAMS 3.3 SSE, AZ US</displayName>
+    <minDate>2009-10-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1934</latitude>
+    <longitude>-112.1765</longitude>
+    <elevation>2209.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9816</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053155</id>
+    <displayName>WILLIAMS 35 NNW, AZ US</displayName>
+    <minDate>2008-06-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.7552</latitude>
+    <longitude>-112.3374</longitude>
+    <elevation>1825.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00479226</id>
+    <displayName>WILLIAMS BAY, WI US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>1958-01-31</maxDate>
+    <latitude>42.58333</latitude>
+    <longitude>-88.53333</longitude>
+    <elevation>271</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023238</id>
+    <displayName>WILLIAMS CAA AIRPORT, CA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1952-12-29</maxDate>
+    <latitude>39.1</latitude>
+    <longitude>-122.15</longitude>
+    <elevation>39</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9047</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029367</id>
+    <displayName>WILLIAMS CK HATCHERY, AZ US</displayName>
+    <minDate>1961-11-01</minDate>
+    <maxDate>1975-07-31</maxDate>
+    <latitude>34.05</latitude>
+    <longitude>-109.81667</longitude>
+    <elevation>2122.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00059096</id>
+    <displayName>WILLIAMS FORK DAM, CO US</displayName>
+    <minDate>1982-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0375</latitude>
+    <longitude>-106.2038</longitude>
+    <elevation>2322</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00429560</id>
+    <displayName>WILLIAMS RANCH, UT US</displayName>
+    <minDate>1960-06-02</minDate>
+    <maxDate>1968-09-30</maxDate>
+    <latitude>40.33333</latitude>
+    <longitude>-112.71667</longitude>
+    <elevation>1412.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4893</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00029359</id>
+    <displayName>WILLIAMS, AZ US</displayName>
+    <minDate>1897-03-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.2413</latitude>
+    <longitude>-112.1929</longitude>
+    <elevation>2105.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9281</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00049677</id>
+    <displayName>WILLIAMS, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.15</latitude>
+    <longitude>-122.15</longitude>
+    <elevation>25.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4392</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00139062</id>
+    <displayName>WILLIAMS, IA US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2006-12-31</maxDate>
+    <latitude>42.4875</latitude>
+    <longitude>-93.5413</longitude>
+    <elevation>362.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00129605</id>
+    <displayName>WILLIAMS, IN US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7669</latitude>
+    <longitude>-86.6846</longitude>
+    <elevation>166.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0002</id>
+    <displayName>WILLIAMSBURG .63 WNW, CO US</displayName>
+    <minDate>2004-03-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.3841</latitude>
+    <longitude>-105.162</longitude>
+    <elevation>1648.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9666</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COFM0039</id>
+    <displayName>WILLIAMSBURG 0.8 SW, CO US</displayName>
+    <minDate>2004-08-24</minDate>
+    <maxDate>2005-07-23</maxDate>
+    <latitude>38.3742</latitude>
+    <longitude>-105.1622</longitude>
+    <elevation>1669.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00339161</id>
+    <displayName>WILLIAMSBURG 1 ENE, OH US</displayName>
+    <minDate>1965-04-01</minDate>
+    <maxDate>1976-06-30</maxDate>
+    <latitude>39.06667</latitude>
+    <longitude>-84.03333</longitude>
+    <elevation>274.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00158711</id>
+    <displayName>WILLIAMSBURG 1 NW, KY US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>36.7459</latitude>
+    <longitude>-84.1752</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAWLC001</id>
+    <displayName>WILLIAMSBURG 1.3 SSW, VA US</displayName>
+    <minDate>2010-05-10</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>37.254</latitude>
+    <longitude>-76.7193</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7702</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAWLC003</id>
+    <displayName>WILLIAMSBURG 1.4 ENE, VA US</displayName>
+    <minDate>2011-05-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.28</latitude>
+    <longitude>-76.6839</longitude>
+    <elevation>19.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8306</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAWLC002</id>
+    <displayName>WILLIAMSBURG 1.4 ENE, VA US</displayName>
+    <minDate>2011-03-04</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>37.278</latitude>
+    <longitude>-76.6839</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5838</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAWLC004</id>
+    <displayName>WILLIAMSBURG 1.7 SW, VA US</displayName>
+    <minDate>2011-12-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2525</latitude>
+    <longitude>-76.7289</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6624</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSR0018</id>
+    <displayName>WILLIAMSBURG 13.2 S, NM US</displayName>
+    <minDate>2011-03-01</minDate>
+    <maxDate>2011-11-28</maxDate>
+    <latitude>32.9264</latitude>
+    <longitude>-107.3249</longitude>
+    <elevation>1317.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00449151</id>
+    <displayName>WILLIAMSBURG 2 N, VA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.3017</latitude>
+    <longitude>-76.7039</longitude>
+    <elevation>21.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00449146</id>
+    <displayName>WILLIAMSBURG 2 NW, VA US</displayName>
+    <minDate>1896-09-21</minDate>
+    <maxDate>1950-11-30</maxDate>
+    <latitude>37.28333</latitude>
+    <longitude>-76.75</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.881</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00238960</id>
+    <displayName>WILLIAMSBURG 2 WSW, MO US</displayName>
+    <minDate>1948-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.91667</latitude>
+    <longitude>-91.75</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9699</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0012</id>
+    <displayName>WILLIAMSBURG 2.2 WSW, VA US</displayName>
+    <minDate>2010-07-19</minDate>
+    <maxDate>2012-05-06</maxDate>
+    <latitude>37.2524</latitude>
+    <longitude>-76.7405</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0018</id>
+    <displayName>WILLIAMSBURG 2.7 SE, VA US</displayName>
+    <minDate>2011-12-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2387</latitude>
+    <longitude>-76.6761</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8094</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0019</id>
+    <displayName>WILLIAMSBURG 3.2 NW, VA US</displayName>
+    <minDate>2012-01-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3089</latitude>
+    <longitude>-76.7402</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8457</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0001</id>
+    <displayName>WILLIAMSBURG 3.2 W, VA US</displayName>
+    <minDate>2006-06-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2745</latitude>
+    <longitude>-76.7641</longitude>
+    <elevation>38.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0016</id>
+    <displayName>WILLIAMSBURG 3.2 WNW, VA US</displayName>
+    <minDate>2011-11-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2831</latitude>
+    <longitude>-76.7636</longitude>
+    <elevation>19.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6838</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0004</id>
+    <displayName>WILLIAMSBURG 3.4 WSW, VA US</displayName>
+    <minDate>2010-03-07</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>37.2439</latitude>
+    <longitude>-76.76</longitude>
+    <elevation>18.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3797</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0020</id>
+    <displayName>WILLIAMSBURG 3.8 NW, VA US</displayName>
+    <minDate>2012-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3033</latitude>
+    <longitude>-76.7615</longitude>
+    <elevation>28.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.779</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0010</id>
+    <displayName>WILLIAMSBURG 4.1 WNW, VA US</displayName>
+    <minDate>2010-06-13</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>37.2822</latitude>
+    <longitude>-76.7799</longitude>
+    <elevation>20.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6022</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAYR0007</id>
+    <displayName>WILLIAMSBURG 4.4 N, VA US</displayName>
+    <minDate>2012-04-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3332</latitude>
+    <longitude>-76.7126</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7172</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0021</id>
+    <displayName>WILLIAMSBURG 4.5 NW, VA US</displayName>
+    <minDate>2012-05-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3089</latitude>
+    <longitude>-76.7724</longitude>
+    <elevation>21.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8182</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0011</id>
+    <displayName>WILLIAMSBURG 4.6 NNW, VA US</displayName>
+    <minDate>2010-07-24</minDate>
+    <maxDate>2012-06-12</maxDate>
+    <latitude>37.3278</latitude>
+    <longitude>-76.7496</longitude>
+    <elevation>28.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0003</id>
+    <displayName>WILLIAMSBURG 4.9 WNW, VA US</displayName>
+    <minDate>2007-08-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3086</latitude>
+    <longitude>-76.7818</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0007</id>
+    <displayName>WILLIAMSBURG 5.8 WSW, VA US</displayName>
+    <minDate>2010-05-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.2483</latitude>
+    <longitude>-76.808</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6198</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00208967</id>
+    <displayName>WILLIAMSBURG 6 N, MI US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2012-11-10</maxDate>
+    <latitude>44.8561</latitude>
+    <longitude>-85.4161</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.21</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAYR0004</id>
+    <displayName>WILLIAMSBURG 6.0 N, VA US</displayName>
+    <minDate>2010-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3575</latitude>
+    <longitude>-76.7012</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.75</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAIA0001</id>
+    <displayName>WILLIAMSBURG 6.2 SW, IA US</displayName>
+    <minDate>2009-01-06</minDate>
+    <maxDate>2012-10-10</maxDate>
+    <latitude>41.5866</latitude>
+    <longitude>-92.0551</longitude>
+    <elevation>257.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0013</id>
+    <displayName>WILLIAMSBURG 6.5 NNW, VA US</displayName>
+    <minDate>2010-09-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3481</latitude>
+    <longitude>-76.772</longitude>
+    <elevation>31.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9685</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAJC0017</id>
+    <displayName>WILLIAMSBURG 7.7 N, VA US</displayName>
+    <minDate>2011-12-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3797</latitude>
+    <longitude>-76.6822</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8473</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00139067</id>
+    <displayName>WILLIAMSBURG, IA US</displayName>
+    <minDate>1893-01-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.6402</latitude>
+    <longitude>-91.9784</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8026</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00148892</id>
+    <displayName>WILLIAMSBURG, KS US</displayName>
+    <minDate>1970-10-01</minDate>
+    <maxDate>2012-09-26</maxDate>
+    <latitude>38.4771</latitude>
+    <longitude>-95.4703</longitude>
+    <elevation>342.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00158709</id>
+    <displayName>WILLIAMSBURG, KY US</displayName>
+    <minDate>1957-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.73333</latitude>
+    <longitude>-84.15</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9476</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00158706</id>
+    <displayName>WILLIAMSBURG, KY US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>1957-05-31</maxDate>
+    <latitude>36.73333</latitude>
+    <longitude>-84.15</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9236</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369714</id>
+    <displayName>WILLIAMSBURG, PA US</displayName>
+    <minDate>1941-01-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4667</latitude>
+    <longitude>-78.2</longitude>
+    <elevation>257.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7666</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00339163</id>
+    <displayName>WILLIAMSFIELD, OH US</displayName>
+    <minDate>1920-03-01</minDate>
+    <maxDate>1923-08-31</maxDate>
+    <latitude>41.533333</latitude>
+    <longitude>-80.583333</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469613</id>
+    <displayName>WILLIAMSON 2 NE, WV US</displayName>
+    <minDate>1998-10-01</minDate>
+    <maxDate>2001-07-31</maxDate>
+    <latitude>37.68778</latitude>
+    <longitude>-82.25611</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469605</id>
+    <displayName>WILLIAMSON, KY US</displayName>
+    <minDate>1900-08-15</minDate>
+    <maxDate>1993-07-31</maxDate>
+    <latitude>37.66667</latitude>
+    <longitude>-82.28333</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00469610</id>
+    <displayName>WILLIAMSON, WV US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.673</latitude>
+    <longitude>-82.2761</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9092</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INWR0006</id>
+    <displayName>WILLIAMSPORT 0.4 S, IN US</displayName>
+    <minDate>2009-07-10</minDate>
+    <maxDate>2009-12-14</maxDate>
+    <latitude>40.2821</latitude>
+    <longitude>-87.2945</longitude>
+    <elevation>190.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8418</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369735</id>
+    <displayName>WILLIAMSPORT 2, PA US</displayName>
+    <minDate>1997-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>41.2486</latitude>
+    <longitude>-76.9833</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9622</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALY0002</id>
+    <displayName>WILLIAMSPORT 2.0 NE, PA US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2571</latitude>
+    <longitude>-77.0085</longitude>
+    <elevation>178</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDWH0005</id>
+    <displayName>WILLIAMSPORT 2.1 ESE, MD US</displayName>
+    <minDate>2007-06-20</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.5807</latitude>
+    <longitude>-77.7841</longitude>
+    <elevation>166.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5327</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDWH0001</id>
+    <displayName>WILLIAMSPORT 2.8 ENE, MD US</displayName>
+    <minDate>2005-12-01</minDate>
+    <maxDate>2011-05-11</maxDate>
+    <latitude>39.6089</latitude>
+    <longitude>-77.7694</longitude>
+    <elevation>175</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.91</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369723</id>
+    <displayName>WILLIAMSPORT 4 SE TO, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1949-05-31</maxDate>
+    <latitude>41.21667</latitude>
+    <longitude>-76.95</longitude>
+    <elevation>606.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014778</id>
+    <displayName>WILLIAMSPORT LYCOMING CO AIRPORT, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.2433</latitude>
+    <longitude>-76.9217</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00189570</id>
+    <displayName>WILLIAMSPORT, MD US</displayName>
+    <minDate>1938-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6109</latitude>
+    <longitude>-77.8471</longitude>
+    <elevation>109.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00339166</id>
+    <displayName>WILLIAMSPORT, OH US</displayName>
+    <minDate>1975-09-01</minDate>
+    <maxDate>1981-11-30</maxDate>
+    <latitude>39.58333</latitude>
+    <longitude>-83.11667</longitude>
+    <elevation>235</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00369733</id>
+    <displayName>WILLIAMSPORT, PA US</displayName>
+    <minDate>1895-02-01</minDate>
+    <maxDate>1949-10-31</maxDate>
+    <latitude>41.23583</latitude>
+    <longitude>-76.9975</longitude>
+    <elevation>150.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCMT0006</id>
+    <displayName>WILLIAMSTON 0.9 SSW, NC US</displayName>
+    <minDate>2011-05-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8386</latitude>
+    <longitude>-77.062</longitude>
+    <elevation>22.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8548</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00319440</id>
+    <displayName>WILLIAMSTON 1 E, NC US</displayName>
+    <minDate>1930-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8529</latitude>
+    <longitude>-77.0306</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.964</coverage>
+  </station>
+</stationCollection>

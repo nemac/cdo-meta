@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="117">
+  <station>
+    <id>GHCND:US1ILDP0098</id>
+    <displayName>DOWNERS GROVE 0.9 S, IL US</displayName>
+    <minDate>2010-06-20</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>41.784</latitude>
+    <longitude>-88.0168</longitude>
+    <elevation>229.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILDP0018</id>
+    <displayName>DOWNERS GROVE 2.1 SE, IL US</displayName>
+    <minDate>2007-02-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7716</latitude>
+    <longitude>-87.994</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9066</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042494</id>
+    <displayName>DOWNEY FIRE STATION FC107C, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>33.9297</latitude>
+    <longitude>-118.1455</longitude>
+    <elevation>33.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5693</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102667</id>
+    <displayName>DOWNEY, ID US</displayName>
+    <minDate>1895-11-01</minDate>
+    <maxDate>1902-11-30</maxDate>
+    <latitude>42.416667</latitude>
+    <longitude>-112.1</longitude>
+    <elevation>1479.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262383</id>
+    <displayName>DOWNEYVILLE, NV US</displayName>
+    <minDate>1889-05-01</minDate>
+    <maxDate>1897-10-31</maxDate>
+    <latitude>38.916667</latitude>
+    <longitude>-117.866667</longitude>
+    <elevation>1257.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042500</id>
+    <displayName>DOWNIEVILLE, CA US</displayName>
+    <minDate>1908-09-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>39.5633</latitude>
+    <longitude>-120.8238</longitude>
+    <elevation>888.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8566</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472209</id>
+    <displayName>DOWNING 1 E, WI US</displayName>
+    <minDate>1902-07-01</minDate>
+    <maxDate>1937-08-31</maxDate>
+    <latitude>45.05</latitude>
+    <longitude>-92.13333</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9386</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIDN0002</id>
+    <displayName>DOWNING 4.4 NNE, WI US</displayName>
+    <minDate>2009-03-31</minDate>
+    <maxDate>2012-06-19</maxDate>
+    <latitude>45.109</latitude>
+    <longitude>-92.0955</longitude>
+    <elevation>297.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3347</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232318</id>
+    <displayName>DOWNING, MO US</displayName>
+    <minDate>1893-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4906</latitude>
+    <longitude>-92.3705</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4313</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACH0008</id>
+    <displayName>DOWNINGTOWN 4.7 NW, PA US</displayName>
+    <minDate>2009-03-24</minDate>
+    <maxDate>2009-12-16</maxDate>
+    <latitude>40.047</latitude>
+    <longitude>-75.7739</longitude>
+    <elevation>149</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00112417</id>
+    <displayName>DOWNS 2 NE, IL US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1988-05-31</maxDate>
+    <latitude>40.43333</latitude>
+    <longitude>-88.86667</longitude>
+    <elevation>242.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1049</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142204</id>
+    <displayName>DOWNS, KS US</displayName>
+    <minDate>1982-06-01</minDate>
+    <maxDate>2008-04-30</maxDate>
+    <latitude>39.5067</latitude>
+    <longitude>-98.5378</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3633</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142202</id>
+    <displayName>DOWNS, KS US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>1897-05-31</maxDate>
+    <latitude>39.5</latitude>
+    <longitude>-98.55</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9008</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302169</id>
+    <displayName>DOWNSVILLE DAM, NY US</displayName>
+    <minDate>1959-05-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>42.07694</latitude>
+    <longitude>-74.9825</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302164</id>
+    <displayName>DOWNSVILLE, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1967-10-31</maxDate>
+    <latitude>42.08333</latitude>
+    <longitude>-75</longitude>
+    <elevation>338.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9492</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042506</id>
+    <displayName>DOYLE 4 SSE, CA US</displayName>
+    <minDate>1956-07-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>39.9717</latitude>
+    <longitude>-120.0828</longitude>
+    <elevation>1338.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9952</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDOY</id>
+    <displayName>DOYLE CALIFORNIA, CA US</displayName>
+    <minDate>1987-06-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.0222</latitude>
+    <longitude>-120.1056</longitude>
+    <elevation>1292.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042504</id>
+    <displayName>DOYLE, CA US</displayName>
+    <minDate>1923-01-01</minDate>
+    <maxDate>2012-06-30</maxDate>
+    <latitude>40.0244</latitude>
+    <longitude>-120.1044</longitude>
+    <elevation>1292.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9493</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABK0026</id>
+    <displayName>DOYLESTOWN 3.7 W, PA US</displayName>
+    <minDate>2010-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.307</latitude>
+    <longitude>-75.1982</longitude>
+    <elevation>113.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00054786</id>
+    <displayName>DOYLESTOWN AIRPORT, PA US</displayName>
+    <minDate>1999-07-27</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.33</latitude>
+    <longitude>-75.1225</longitude>
+    <elevation>120.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9799</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00362221</id>
+    <displayName>DOYLESTOWN, PA US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3</latitude>
+    <longitude>-75.13333</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.743</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COGN0049</id>
+    <displayName>DOYLEVILLE 2.1 W, CO US</displayName>
+    <minDate>2009-09-17</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>38.4249</latitude>
+    <longitude>-106.6192</longitude>
+    <elevation>2479.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAWR0005</id>
+    <displayName>DOYLINE 1.1 NE, LA US</displayName>
+    <minDate>2011-09-01</minDate>
+    <maxDate>2012-05-18</maxDate>
+    <latitude>32.5283</latitude>
+    <longitude>-93.4005</longitude>
+    <elevation>62.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8046</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162579</id>
+    <displayName>DOYLINE, LA US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>1945-08-31</maxDate>
+    <latitude>32.56667</latitude>
+    <longitude>-93.41667</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9201</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00191992</id>
+    <displayName>DRACUT, MA US</displayName>
+    <minDate>1971-01-01</minDate>
+    <maxDate>1978-06-30</maxDate>
+    <latitude>42.7</latitude>
+    <longitude>-71.28333</longitude>
+    <elevation>82</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00152240</id>
+    <displayName>DRAFFIN, KY US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2011-05-11</maxDate>
+    <latitude>37.34194</latitude>
+    <longitude>-82.39694</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6353</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDRA</id>
+    <displayName>DRAGON ROAD COLORADO, CO US</displayName>
+    <minDate>1998-07-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.9153</latitude>
+    <longitude>-108.8875</longitude>
+    <elevation>1920.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9547</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352406</id>
+    <displayName>DRAIN, OR US</displayName>
+    <minDate>1902-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6656</latitude>
+    <longitude>-123.3275</longitude>
+    <elevation>89</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9413</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0225</id>
+    <displayName>DRAKE 3.0 NNE, CO US</displayName>
+    <minDate>2000-06-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.47</latitude>
+    <longitude>-105.3092</longitude>
+    <elevation>2058</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7569</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0749</id>
+    <displayName>DRAKE 4.7 SSE, CO US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3749</latitude>
+    <longitude>-105.3008</longitude>
+    <elevation>2036.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0720</id>
+    <displayName>DRAKE 5.3 WNW, CO US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.4574</latitude>
+    <longitude>-105.4244</longitude>
+    <elevation>2146.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322304</id>
+    <displayName>DRAKE 9 NE, ND US</displayName>
+    <minDate>1964-08-02</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>48.0475</latitude>
+    <longitude>-100.31</longitude>
+    <elevation>466.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00021419</id>
+    <displayName>DRAKE R S, AZ US</displayName>
+    <minDate>1915-02-18</minDate>
+    <maxDate>1954-01-31</maxDate>
+    <latitude>34.96667</latitude>
+    <longitude>-112.38333</longitude>
+    <elevation>1417.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00022705</id>
+    <displayName>DRAKE R S, AZ US</displayName>
+    <minDate>1954-02-01</minDate>
+    <maxDate>1962-04-30</maxDate>
+    <latitude>34.96667</latitude>
+    <longitude>-112.38333</longitude>
+    <elevation>1417.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322298</id>
+    <displayName>DRAKE, ND US</displayName>
+    <minDate>1929-04-01</minDate>
+    <maxDate>1982-07-31</maxDate>
+    <latitude>47.91667</latitude>
+    <longitude>-100.36667</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9667</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442491</id>
+    <displayName>DRANESVILLE, VA US</displayName>
+    <minDate>1954-01-01</minDate>
+    <maxDate>1956-11-30</maxDate>
+    <latitude>38.98333</latitude>
+    <longitude>-77.35</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9728</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0091</id>
+    <displayName>DRAPER 1.9 WNW, UT US</displayName>
+    <minDate>2011-11-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5099</latitude>
+    <longitude>-111.8975</longitude>
+    <elevation>1349.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4269</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTSL0053</id>
+    <displayName>DRAPER 2.5 NNW, UT US</displayName>
+    <minDate>2008-11-27</minDate>
+    <maxDate>2009-12-14</maxDate>
+    <latitude>40.5309</latitude>
+    <longitude>-111.8857</longitude>
+    <elevation>1349.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.329</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDJN0001</id>
+    <displayName>DRAPER 4.3 SSE, SD US</displayName>
+    <minDate>2007-08-17</minDate>
+    <maxDate>2012-11-05</maxDate>
+    <latitude>43.8656</latitude>
+    <longitude>-100.5195</longitude>
+    <elevation>637</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9135</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422235</id>
+    <displayName>DRAPER POINT OF MOUNTAIN, UT US</displayName>
+    <minDate>1985-10-01</minDate>
+    <maxDate>2008-11-24</maxDate>
+    <latitude>40.4877</latitude>
+    <longitude>-111.8997</longitude>
+    <elevation>1373.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9334</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422233</id>
+    <displayName>DRAPER, UT US</displayName>
+    <minDate>1963-10-01</minDate>
+    <maxDate>1968-09-30</maxDate>
+    <latitude>40.53333</latitude>
+    <longitude>-111.83333</longitude>
+    <elevation>1412.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7531</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015H24S</id>
+    <displayName>DRAW CREEK, NV US</displayName>
+    <minDate>1983-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.65</latitude>
+    <longitude>-115.3167</longitude>
+    <elevation>2194.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8478</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00212222</id>
+    <displayName>DRAYTON N DAK 2 NE, MN US</displayName>
+    <minDate>1956-04-01</minDate>
+    <maxDate>1966-11-30</maxDate>
+    <latitude>48.56667</latitude>
+    <longitude>-97.15</longitude>
+    <elevation>244.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6843</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00322312</id>
+    <displayName>DRAYTON, ND US</displayName>
+    <minDate>1967-03-01</minDate>
+    <maxDate>2000-12-31</maxDate>
+    <latitude>48.56083</latitude>
+    <longitude>-97.18083</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7816</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MELN0004</id>
+    <displayName>DRESDEN 1.5 NW, ME US</displayName>
+    <minDate>2009-08-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.1054</latitude>
+    <longitude>-69.7406</longitude>
+    <elevation>51.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9228</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MELN0008</id>
+    <displayName>DRESDEN 2.3 SW, ME US</displayName>
+    <minDate>2009-12-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.0702</latitude>
+    <longitude>-69.7556</longitude>
+    <elevation>32.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142213</id>
+    <displayName>DRESDEN, KS US</displayName>
+    <minDate>1895-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6251</latitude>
+    <longitude>-100.4233</longitude>
+    <elevation>832.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402600</id>
+    <displayName>DRESDEN, TN US</displayName>
+    <minDate>1924-05-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.2836</latitude>
+    <longitude>-88.7063</longitude>
+    <elevation>137.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WIPK0004</id>
+    <displayName>DRESSER 6.1 ESE, WI US</displayName>
+    <minDate>2010-02-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.3244</latitude>
+    <longitude>-92.5208</longitude>
+    <elevation>322.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9401</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352416</id>
+    <displayName>DREWSEY 1, OR US</displayName>
+    <minDate>1915-05-17</minDate>
+    <maxDate>1929-09-30</maxDate>
+    <latitude>43.783333</latitude>
+    <longitude>-118.366667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9025</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352419</id>
+    <displayName>DREWSEY 12 WNW, OR US</displayName>
+    <minDate>1965-10-12</minDate>
+    <maxDate>1967-09-30</maxDate>
+    <latitude>43.91667</latitude>
+    <longitude>-118.58333</longitude>
+    <elevation>1177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5355</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352417</id>
+    <displayName>DREWSEY 13 W, OR US</displayName>
+    <minDate>1967-10-24</minDate>
+    <maxDate>1968-10-31</maxDate>
+    <latitude>43.83333</latitude>
+    <longitude>-118.63333</longitude>
+    <elevation>1189.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00352415</id>
+    <displayName>DREWSEY, OR US</displayName>
+    <minDate>1970-04-09</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>43.8081</latitude>
+    <longitude>-118.3776</longitude>
+    <elevation>1071.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9634</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBS0006</id>
+    <displayName>DREXEL 1.6 S, MO US</displayName>
+    <minDate>2012-03-19</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>38.4601</latitude>
+    <longitude>-94.6129</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9964</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCS0004</id>
+    <displayName>DREXEL 5.6 E, MO US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2010-01-22</maxDate>
+    <latitude>38.4974</latitude>
+    <longitude>-94.5059</longitude>
+    <elevation>292</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9234</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS060</id>
+    <displayName>DRIFTWOOD 5.0 S, TX US</displayName>
+    <minDate>2011-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.0506</latitude>
+    <longitude>-98.0187</longitude>
+    <elevation>312.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025515</id>
+    <displayName>DRIFTWOOD BAY, AK US</displayName>
+    <minDate>1959-06-26</minDate>
+    <maxDate>1966-09-24</maxDate>
+    <latitude>53.96667</latitude>
+    <longitude>-166.85</longitude>
+    <elevation>395.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00362245</id>
+    <displayName>DRIFTWOOD, PA US</displayName>
+    <minDate>1895-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.3421</latitude>
+    <longitude>-78.1401</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102676</id>
+    <displayName>DRIGGS, ID US</displayName>
+    <minDate>1904-08-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>43.7306</latitude>
+    <longitude>-111.1125</longitude>
+    <elevation>1865.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS029</id>
+    <displayName>DRIPPING SPRINGS 0.9 SSE, TX US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2010-11-02</maxDate>
+    <latitude>30.1763</latitude>
+    <longitude>-98.0823</longitude>
+    <elevation>357.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9238</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS063</id>
+    <displayName>DRIPPING SPRINGS 1.7 NW, TX US</displayName>
+    <minDate>2011-11-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2048</latitude>
+    <longitude>-98.1093</longitude>
+    <elevation>386.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS058</id>
+    <displayName>DRIPPING SPRINGS 1.8 NNW, TX US</displayName>
+    <minDate>2010-12-19</minDate>
+    <maxDate>2011-12-06</maxDate>
+    <latitude>30.2131</latitude>
+    <longitude>-98.1001</longitude>
+    <elevation>390.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS052</id>
+    <displayName>DRIPPING SPRINGS 1.9 NW, TX US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.2105</latitude>
+    <longitude>-98.1076</longitude>
+    <elevation>393.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS035</id>
+    <displayName>DRIPPING SPRINGS 2.8 NNW, TX US</displayName>
+    <minDate>2009-10-22</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.2256</latitude>
+    <longitude>-98.1063</longitude>
+    <elevation>391.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS039</id>
+    <displayName>DRIPPING SPRINGS 3.3 NE, TX US</displayName>
+    <minDate>2010-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2185</latitude>
+    <longitude>-98.0451</longitude>
+    <elevation>336.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9883</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS053</id>
+    <displayName>DRIPPING SPRINGS 4.1 SSW, TX US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1306</latitude>
+    <longitude>-98.1064</longitude>
+    <elevation>379.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8951</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS007</id>
+    <displayName>DRIPPING SPRINGS 4.3 E, TX US</displayName>
+    <minDate>2007-07-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1974</latitude>
+    <longitude>-98.0165</longitude>
+    <elevation>385.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9482</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS011</id>
+    <displayName>DRIPPING SPRINGS 5.2 E, TX US</displayName>
+    <minDate>2007-08-30</minDate>
+    <maxDate>2009-10-15</maxDate>
+    <latitude>30.1834</latitude>
+    <longitude>-98.0018</longitude>
+    <elevation>376.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8123</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412585</id>
+    <displayName>DRIPPING SPRINGS 6 E, TX US</displayName>
+    <minDate>1984-12-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.2133</latitude>
+    <longitude>-97.9822</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS018</id>
+    <displayName>DRIPPING SPRINGS 6.1 WNW, TX US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.2361</latitude>
+    <longitude>-98.1749</longitude>
+    <elevation>364.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1401</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0095</id>
+    <displayName>DRIPPING SPRINGS 6.2 NNE, TX US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2012-09-29</maxDate>
+    <latitude>30.2726</latitude>
+    <longitude>-98.0535</longitude>
+    <elevation>351.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3607</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS049</id>
+    <displayName>DRIPPING SPRINGS 6.2 WSW, TX US</displayName>
+    <minDate>2010-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1619</latitude>
+    <longitude>-98.1876</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9631</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS017</id>
+    <displayName>DRIPPING SPRINGS 8.4 W, TX US</displayName>
+    <minDate>2007-09-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1666</latitude>
+    <longitude>-98.2263</longitude>
+    <elevation>409</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS015</id>
+    <displayName>DRIPPING SPRINGS 9.2 NNW, TX US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2009-01-22</maxDate>
+    <latitude>30.3104</latitude>
+    <longitude>-98.1506</longitude>
+    <elevation>313.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9097</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXNU0017</id>
+    <displayName>DRISCOLL 0.6 W, TX US</displayName>
+    <minDate>2007-12-01</minDate>
+    <maxDate>2012-11-04</maxDate>
+    <latitude>27.6731</latitude>
+    <longitude>-97.7599</longitude>
+    <elevation>20.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412587</id>
+    <displayName>DRISCOLL, TX US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>27.6721</latitude>
+    <longitude>-97.7521</longitude>
+    <elevation>19.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTGT0004</id>
+    <displayName>DRUMMOND 1.3 NNE, MT US</displayName>
+    <minDate>2010-09-09</minDate>
+    <maxDate>2011-10-10</maxDate>
+    <latitude>46.6836</latitude>
+    <longitude>-113.1339</longitude>
+    <elevation>1309.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6322</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MICP0007</id>
+    <displayName>DRUMMOND 2.9 NE, US</displayName>
+    <minDate>2010-07-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.0533</latitude>
+    <longitude>-83.6906</longitude>
+    <elevation>176.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8637</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024139</id>
+    <displayName>DRUMMOND AVIATION, MT US</displayName>
+    <minDate>1927-05-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>46.6383</latitude>
+    <longitude>-113.1761</longitude>
+    <elevation>1219.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7424</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242511</id>
+    <displayName>DRUMMOND FAA AIRPORT, MT US</displayName>
+    <minDate>1927-05-01</minDate>
+    <maxDate>1963-05-31</maxDate>
+    <latitude>46.61667</latitude>
+    <longitude>-113.2</longitude>
+    <elevation>1293</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472240</id>
+    <displayName>DRUMMOND, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2005-11-13</maxDate>
+    <latitude>46.33333</latitude>
+    <longitude>-91.26667</longitude>
+    <elevation>408.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6701</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00192000</id>
+    <displayName>DRURY, MA US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>1934-04-30</maxDate>
+    <latitude>42.652306</latitude>
+    <longitude>-72.9976</longitude>
+    <elevation>493.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MDRY</id>
+    <displayName>DRY BLOOD CREEK MONTANA, MT US</displayName>
+    <minDate>1997-07-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.2442</latitude>
+    <longitude>-108.3575</longitude>
+    <elevation>914.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011H55S</id>
+    <displayName>DRY BREAD POND, UT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.4167</latitude>
+    <longitude>-111.5333</longitude>
+    <elevation>2545.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442520</id>
+    <displayName>DRY BRIDGE, VA US</displayName>
+    <minDate>1912-06-01</minDate>
+    <maxDate>1920-08-31</maxDate>
+    <latitude>37.033333</latitude>
+    <longitude>-77.866667</longitude>
+    <elevation>99.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9121</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NDRY</id>
+    <displayName>DRY CANYON NEVADA, NV US</displayName>
+    <minDate>1986-07-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>41.4917</latitude>
+    <longitude>-119.1167</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042516</id>
+    <displayName>DRY CANYON RESERVOIR, CA US</displayName>
+    <minDate>1921-11-01</minDate>
+    <maxDate>1990-01-31</maxDate>
+    <latitude>34.48333</latitude>
+    <longitude>-118.53333</longitude>
+    <elevation>443.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292597</id>
+    <displayName>DRY CREEK RANGER STATION, NM US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.18333</latitude>
+    <longitude>-108.8</longitude>
+    <elevation>1610</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WDRC</id>
+    <displayName>DRY CREEK SKAMANIA WASHINGTO, WA US</displayName>
+    <minDate>2003-07-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.9444</latitude>
+    <longitude>-121.9864</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7541</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WDRY</id>
+    <displayName>DRY CREEK WASHINGTON, WA US</displayName>
+    <minDate>1987-06-19</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.7333</latitude>
+    <longitude>-120.5333</longitude>
+    <elevation>1060.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8588</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502568</id>
+    <displayName>DRY CREEK, AK US</displayName>
+    <minDate>1996-08-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>63.6772</latitude>
+    <longitude>-144.6011</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COLR0421</id>
+    <displayName>DRY CREEK, CO US</displayName>
+    <minDate>2001-05-27</minDate>
+    <maxDate>2004-11-03</maxDate>
+    <latitude>40.6306</latitude>
+    <longitude>-105.0953</longitude>
+    <elevation>1531.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162641</id>
+    <displayName>DRY CREEK, LA US</displayName>
+    <minDate>1994-09-01</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>30.7414</latitude>
+    <longitude>-93.1386</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8373</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242523</id>
+    <displayName>DRY CREEK, MT US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1912-12-31</maxDate>
+    <latitude>46.333333</latitude>
+    <longitude>-111.083333</longitude>
+    <elevation>1676.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00462462</id>
+    <displayName>DRY CREEK, WV US</displayName>
+    <minDate>1961-12-07</minDate>
+    <maxDate>2011-01-18</maxDate>
+    <latitude>37.86</latitude>
+    <longitude>-81.463</longitude>
+    <elevation>385.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262387</id>
+    <displayName>DRY FARM, NV US</displayName>
+    <minDate>1910-07-01</minDate>
+    <maxDate>1915-12-31</maxDate>
+    <latitude>40.716667</latitude>
+    <longitude>-115.566667</longitude>
+    <elevation>1706.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0012J09S</id>
+    <displayName>DRY FORK, UT US</displayName>
+    <minDate>1994-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.5667</latitude>
+    <longitude>-112.1833</longitude>
+    <elevation>2182.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9599</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422246</id>
+    <displayName>DRY GULCH RANGER STATION, UT US</displayName>
+    <minDate>1916-06-01</minDate>
+    <maxDate>1930-06-30</maxDate>
+    <latitude>40.533333</latitude>
+    <longitude>-110.216667</longitude>
+    <elevation>2377.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3844</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ADRL</id>
+    <displayName>DRY LAKE ARIZONA, AZ US</displayName>
+    <minDate>1997-10-03</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>33.3597</latitude>
+    <longitude>-109.8331</longitude>
+    <elevation>2264.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9069</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDRY</id>
+    <displayName>DRY LAKE COLORADO, CO US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>40.535</latitude>
+    <longitude>-106.7808</longitude>
+    <elevation>2535.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9303</coverage>
+  </station>
+</stationCollection>

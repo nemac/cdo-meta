@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="37">
+  <station>
+    <id>GHCND:USC00290983</id>
+    <displayName>BINGHAM 2 NE, NM US</displayName>
+    <minDate>1939-09-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>33.9113</latitude>
+    <longitude>-106.3494</longitude>
+    <elevation>1691.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8685</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290984</id>
+    <displayName>BINGHAM 7 ESE, NM US</displayName>
+    <minDate>1976-03-11</minDate>
+    <maxDate>1976-07-31</maxDate>
+    <latitude>33.83333</latitude>
+    <longitude>-106.28333</longitude>
+    <elevation>1882.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MESM0002</id>
+    <displayName>BINGHAM 9.5 W, ME US</displayName>
+    <minDate>2009-08-20</minDate>
+    <maxDate>2010-06-07</maxDate>
+    <latitude>45.0423</latitude>
+    <longitude>-70.0715</longitude>
+    <elevation>199</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8185</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420700</id>
+    <displayName>BINGHAM CANYON 2 NE, UT US</displayName>
+    <minDate>1974-11-01</minDate>
+    <maxDate>1985-08-31</maxDate>
+    <latitude>40.56667</latitude>
+    <longitude>-112.13333</longitude>
+    <elevation>1713.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420699</id>
+    <displayName>BINGHAM CANYON, UT US</displayName>
+    <minDate>1940-12-01</minDate>
+    <maxDate>1974-10-31</maxDate>
+    <latitude>40.53333</latitude>
+    <longitude>-112.15</longitude>
+    <elevation>1861.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9496</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210768</id>
+    <displayName>BINGHAM LAKE, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1898-08-31</maxDate>
+    <latitude>43.91667</latitude>
+    <longitude>-95.05</longitude>
+    <elevation>433.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00010826</id>
+    <displayName>BINGHAM MOUNTAIN, AL US</displayName>
+    <minDate>1959-07-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.76667</latitude>
+    <longitude>-86.28333</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00170600</id>
+    <displayName>BINGHAM WYMAN DAM, ME US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.07056</latitude>
+    <longitude>-69.90444</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250890</id>
+    <displayName>BINGHAM, NE US</displayName>
+    <minDate>1921-09-01</minDate>
+    <maxDate>1926-08-31</maxDate>
+    <latitude>42.016667</latitude>
+    <longitude>-102.083333</longitude>
+    <elevation>1193</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7081</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYBM0024</id>
+    <displayName>BINGHAMTON 1.3 ENE, NY US</displayName>
+    <minDate>2011-08-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.1098</latitude>
+    <longitude>-75.8858</longitude>
+    <elevation>259.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9587</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYBM0011</id>
+    <displayName>BINGHAMTON 1.8 SW, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0833</latitude>
+    <longitude>-75.9333</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYBM0006</id>
+    <displayName>BINGHAMTON 3.2 SW, NY US</displayName>
+    <minDate>2004-04-01</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>42.0667</latitude>
+    <longitude>-75.95</longitude>
+    <elevation>354.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8894</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004725</id>
+    <displayName>BINGHAMTON GREATER AP, NY US</displayName>
+    <minDate>1951-05-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.2068</latitude>
+    <longitude>-75.98</longitude>
+    <elevation>486.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300681</id>
+    <displayName>BINGHAMTON SUSQUEHANNA RIVER, NY US</displayName>
+    <minDate>1902-04-01</minDate>
+    <maxDate>1974-02-28</maxDate>
+    <latitude>42.1</latitude>
+    <longitude>-75.9</longitude>
+    <elevation>260.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014738</id>
+    <displayName>BINGHAMTON TRI CITIES AIRPORT, NY US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1951-05-24</maxDate>
+    <latitude>42.08333</latitude>
+    <longitude>-76.1</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014798</id>
+    <displayName>BINGHAMTON WEATHER BUREAU CITY, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1968-08-31</maxDate>
+    <latitude>42.1</latitude>
+    <longitude>-75.91667</longitude>
+    <elevation>277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.615</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300684</id>
+    <displayName>BINGHAMTON WEATHER FORECAST OFFICE, NY US</displayName>
+    <minDate>2012-02-21</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.2116</latitude>
+    <longitude>-75.9858</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6444</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00330728</id>
+    <displayName>BINOLA, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1902-12-31</maxDate>
+    <latitude>41.433333</latitude>
+    <longitude>-81.766667</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500804</id>
+    <displayName>BIORKA ISLAND, AK US</displayName>
+    <minDate>1941-03-01</minDate>
+    <maxDate>1979-11-30</maxDate>
+    <latitude>56.85</latitude>
+    <longitude>-135.55</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2476</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ABCK</id>
+    <displayName>BIRCH CREEK ALASKA, AK US</displayName>
+    <minDate>1998-07-16</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>65.5847</latitude>
+    <longitude>-144.3636</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7531</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240814</id>
+    <displayName>BIRCH CREEK CAMP, MT US</displayName>
+    <minDate>1936-01-01</minDate>
+    <maxDate>1943-01-31</maxDate>
+    <latitude>45.41667</latitude>
+    <longitude>-112.85</longitude>
+    <elevation>2012.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9865</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350769</id>
+    <displayName>BIRCH CREEK, OR US</displayName>
+    <minDate>1909-02-02</minDate>
+    <maxDate>1910-10-31</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-119.75</longitude>
+    <elevation>883.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9466</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00190666</id>
+    <displayName>BIRCH HILL DAM, MA US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.6324</latitude>
+    <longitude>-72.1233</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00460842</id>
+    <displayName>BIRCH RIVER 3 WSW, WV US</displayName>
+    <minDate>1999-10-01</minDate>
+    <maxDate>2002-06-30</maxDate>
+    <latitude>38.49194</latitude>
+    <longitude>-80.80222</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00460843</id>
+    <displayName>BIRCH RIVER 4 SW, WV US</displayName>
+    <minDate>2003-07-01</minDate>
+    <maxDate>2005-10-16</maxDate>
+    <latitude>38.45694</latitude>
+    <longitude>-80.79306</longitude>
+    <elevation>655.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9368</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00460844</id>
+    <displayName>BIRCH RIVER 6 SSW, WV US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1964-04-30</maxDate>
+    <latitude>38.4</latitude>
+    <longitude>-80.8</longitude>
+    <elevation>576.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9662</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MISG0004</id>
+    <displayName>BIRCH RUN 2.6 ESE, MI US</displayName>
+    <minDate>2008-08-18</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>43.2291</latitude>
+    <longitude>-83.747</longitude>
+    <elevation>200.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1199</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200781</id>
+    <displayName>BIRCH RUN, MI US</displayName>
+    <minDate>1891-09-01</minDate>
+    <maxDate>1893-08-31</maxDate>
+    <latitude>43.25083</latitude>
+    <longitude>-83.79417</longitude>
+    <elevation>192.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8947</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOSH0004</id>
+    <displayName>BIRCH TREE 0.4 ESE, MO US</displayName>
+    <minDate>2009-04-05</minDate>
+    <maxDate>2010-05-20</maxDate>
+    <latitude>36.9888</latitude>
+    <longitude>-91.4864</longitude>
+    <elevation>316.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOOR0019</id>
+    <displayName>BIRCH TREE 10.1 SSW, MO US</displayName>
+    <minDate>2011-03-28</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.855</latitude>
+    <longitude>-91.5586</longitude>
+    <elevation>295</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.459</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230668</id>
+    <displayName>BIRCH TREE, MO US</displayName>
+    <minDate>1893-08-01</minDate>
+    <maxDate>1968-10-31</maxDate>
+    <latitude>36.98333</latitude>
+    <longitude>-91.5</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9652</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140836</id>
+    <displayName>BIRD CITY 10 S, KS US</displayName>
+    <minDate>1916-10-01</minDate>
+    <maxDate>2011-12-31</maxDate>
+    <latitude>39.6195</latitude>
+    <longitude>-101.5441</longitude>
+    <elevation>1036.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00140838</id>
+    <displayName>BIRD CITY 14 NNE, KS US</displayName>
+    <minDate>1949-05-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>39.93333</latitude>
+    <longitude>-101.5</longitude>
+    <elevation>961</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.92</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRV0008</id>
+    <displayName>BIRD ISLAND 7.2 SSE, MN US</displayName>
+    <minDate>2011-09-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.6654</latitude>
+    <longitude>-94.8544</longitude>
+    <elevation>327.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8767</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNRV0005</id>
+    <displayName>BIRD ISLAND 9.0 NNE, MN US</displayName>
+    <minDate>2010-06-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.8844</latitude>
+    <longitude>-94.8188</longitude>
+    <elevation>345.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8384</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210783</id>
+    <displayName>BIRD ISLAND, MN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1976-05-31</maxDate>
+    <latitude>44.76667</latitude>
+    <longitude>-94.9</longitude>
+    <elevation>331.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000TBIR</id>
+    <displayName>BIRD TEXAS, TX US</displayName>
+    <minDate>2001-05-21</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>30.2625</latitude>
+    <longitude>-98.6289</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9374</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00110670</id>
+    <displayName>BIRDS 2 E, IL US</displayName>
+    <minDate>2009-02-09</minDate>
+    <maxDate>2012-09-05</maxDate>
+    <latitude>38.837</latitude>
+    <longitude>-87.6285</longitude>
+    <elevation>142.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9893</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABR0013</id>
+    <displayName>BIRDSBORO 2.5 SW, PA US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>40.2393</latitude>
+    <longitude>-75.8489</longitude>
+    <elevation>132.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.224</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INPY0001</id>
+    <displayName>BIRDSEYE 8.2 S, IN US</displayName>
+    <minDate>2008-01-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.1958</latitude>
+    <longitude>-86.7157</longitude>
+    <elevation>137.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420718</id>
+    <displayName>BIRDSEYE NEBO CREEK, UT US</displayName>
+    <minDate>1979-11-01</minDate>
+    <maxDate>1983-09-30</maxDate>
+    <latitude>39.88333</latitude>
+    <longitude>-111.55</longitude>
+    <elevation>1701.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420716</id>
+    <displayName>BIRDSEYE, UT US</displayName>
+    <minDate>1933-10-01</minDate>
+    <maxDate>1992-04-30</maxDate>
+    <latitude>39.86667</latitude>
+    <longitude>-111.53333</longitude>
+    <elevation>1743.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8117</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440755</id>
+    <displayName>BIRDSNEST, VA US</displayName>
+    <minDate>1869-01-01</minDate>
+    <maxDate>1902-09-26</maxDate>
+    <latitude>37.416667</latitude>
+    <longitude>-75.866667</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8159</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0001</id>
+    <displayName>BIRDSVILLE 0.2 WSW, MD US</displayName>
+    <minDate>2005-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8978</latitude>
+    <longitude>-76.5965</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2023</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350773</id>
+    <displayName>BIRKENFELD 1 N, OR US</displayName>
+    <minDate>1939-06-01</minDate>
+    <maxDate>1969-10-24</maxDate>
+    <latitude>46</latitude>
+    <longitude>-123.33333</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0034</id>
+    <displayName>BIRMINGHAM 3.5 SE, AL US</displayName>
+    <minDate>2008-09-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.4927</latitude>
+    <longitude>-86.7546</longitude>
+    <elevation>221.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4871</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0012</id>
+    <displayName>BIRMINGHAM 8.8 SE, AL US</displayName>
+    <minDate>2007-10-22</minDate>
+    <maxDate>2008-05-06</maxDate>
+    <latitude>33.5725</latitude>
+    <longitude>-86.6909</longitude>
+    <elevation>299.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALJF0046</id>
+    <displayName>BIRMINGHAM 9.7 SSE, AL US</displayName>
+    <minDate>2011-11-13</minDate>
+    <maxDate>2012-12-07</maxDate>
+    <latitude>33.38</latitude>
+    <longitude>-86.7836</longitude>
+    <elevation>139.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7212</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013876</id>
+    <displayName>BIRMINGHAM AIRPORT, AL US</displayName>
+    <minDate>1930-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.56556</latitude>
+    <longitude>-86.745</longitude>
+    <elevation>187.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040818</id>
+    <displayName>BIRMINGHAM GEN HOSPITAL, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-08-31</maxDate>
+    <latitude>34.18333</latitude>
+    <longitude>-118.5</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00003883</id>
+    <displayName>BIRMINGHAM WSFO, AL US</displayName>
+    <minDate>1978-11-01</minDate>
+    <maxDate>1995-02-28</maxDate>
+    <latitude>33.46667</latitude>
+    <longitude>-86.83333</longitude>
+    <elevation>226.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00010836</id>
+    <displayName>BIRMINGHAM, AL US</displayName>
+    <minDate>1893-04-05</minDate>
+    <maxDate>1953-10-31</maxDate>
+    <latitude>33.53333</latitude>
+    <longitude>-86.83333</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4275</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00200787</id>
+    <displayName>BIRMINGHAM, MI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1906-07-31</maxDate>
+    <latitude>42.55</latitude>
+    <longitude>-83.18333</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240824</id>
+    <displayName>BIRNEY 11 E, MT US</displayName>
+    <minDate>1951-09-12</minDate>
+    <maxDate>1954-08-31</maxDate>
+    <latitude>45.33333</latitude>
+    <longitude>-106.25</longitude>
+    <elevation>1189.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240827</id>
+    <displayName>BIRNEY 15 N, MT US</displayName>
+    <minDate>1969-10-10</minDate>
+    <maxDate>1972-10-31</maxDate>
+    <latitude>45.53333</latitude>
+    <longitude>-106.51667</longitude>
+    <elevation>1257</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240821</id>
+    <displayName>BIRNEY 7 E, MT US</displayName>
+    <minDate>1950-01-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>45.28333</latitude>
+    <longitude>-106.35</longitude>
+    <elevation>915</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8023</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240819</id>
+    <displayName>BIRNEY, MT US</displayName>
+    <minDate>1954-11-13</minDate>
+    <maxDate>1999-07-31</maxDate>
+    <latitude>45.32472</latitude>
+    <longitude>-106.5125</longitude>
+    <elevation>963.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020773</id>
+    <displayName>BISBEE 2, AZ US</displayName>
+    <minDate>1961-06-01</minDate>
+    <maxDate>1997-06-30</maxDate>
+    <latitude>31.42694</latitude>
+    <longitude>-109.895</longitude>
+    <elevation>1539.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6344</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320796</id>
+    <displayName>BISBEE 6 NE, ND US</displayName>
+    <minDate>1937-04-01</minDate>
+    <maxDate>1982-03-31</maxDate>
+    <latitude>48.61667</latitude>
+    <longitude>-99.36667</longitude>
+    <elevation>484.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020775</id>
+    <displayName>BISBEE, AZ US</displayName>
+    <minDate>1985-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>31.4475</latitude>
+    <longitude>-109.9288</longitude>
+    <elevation>1694.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8072</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00020768</id>
+    <displayName>BISBEE, AZ US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>1985-02-28</maxDate>
+    <latitude>31.43333</latitude>
+    <longitude>-109.91667</longitude>
+    <elevation>1617.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7456</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYHR0001</id>
+    <displayName>BISBY GATEHOUSE AT ALC, NY US</displayName>
+    <minDate>2007-11-26</minDate>
+    <maxDate>2011-02-28</maxDate>
+    <latitude>43.6945</latitude>
+    <longitude>-74.9864</longitude>
+    <elevation>556</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5206</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMD0033</id>
+    <displayName>BISCAYNE PARK 0.3 E, FL US</displayName>
+    <minDate>2012-06-04</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>25.882</latitude>
+    <longitude>-80.1769</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXNU0013</id>
+    <displayName>BISHOP 0.4 ENE, TX US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.5861</latitude>
+    <longitude>-97.7908</longitude>
+    <elevation>18.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9617</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAIN0001</id>
+    <displayName>BISHOP 0.6 SE, CA US</displayName>
+    <minDate>2009-11-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3626</latitude>
+    <longitude>-118.3883</longitude>
+    <elevation>1261.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9245</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXNU0022</id>
+    <displayName>BISHOP 0.9 ENE, TX US</displayName>
+    <minDate>2005-05-28</minDate>
+    <maxDate>2011-01-09</maxDate>
+    <latitude>27.5914</latitude>
+    <longitude>-97.7847</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4301</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAIN0004</id>
+    <displayName>BISHOP 1.7 NW, CA US</displayName>
+    <minDate>2010-10-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.3878</latitude>
+    <longitude>-118.4141</longitude>
+    <elevation>1274.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8323</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAOC0005</id>
+    <displayName>BISHOP 3.0 WNW, GA US</displayName>
+    <minDate>2008-08-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8366</latitude>
+    <longitude>-83.4826</longitude>
+    <elevation>224.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9041</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAIN0002</id>
+    <displayName>BISHOP 8.5 WSW, CA US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>37.3227</latitude>
+    <longitude>-118.5404</longitude>
+    <elevation>1829.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9656</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAIN0005</id>
+    <displayName>BISHOP 8.8 WNW, CA US</displayName>
+    <minDate>2011-02-14</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>37.4115</latitude>
+    <longitude>-118.5474</longitude>
+    <elevation>1382.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023157</id>
+    <displayName>BISHOP AIRPORT, CA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.3711</latitude>
+    <longitude>-118.358</longitude>
+    <elevation>1250.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040820</id>
+    <displayName>BISHOP CREEK, CA US</displayName>
+    <minDate>2003-05-01</minDate>
+    <maxDate>2012-05-08</maxDate>
+    <latitude>37.2377</latitude>
+    <longitude>-118.5938</longitude>
+    <elevation>2587.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7178</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040819</id>
+    <displayName>BISHOP CRK INTAKE 2, CA US</displayName>
+    <minDate>1959-10-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>37.248</latitude>
+    <longitude>-118.5813</longitude>
+    <elevation>2485.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8527</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040823</id>
+    <displayName>BISHOP FS, CA US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>2004-03-31</maxDate>
+    <latitude>37.3683</latitude>
+    <longitude>-118.3647</longitude>
+    <elevation>1252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9085</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040824</id>
+    <displayName>BISHOP UNION CARBIDE, CA US</displayName>
+    <minDate>1957-05-01</minDate>
+    <maxDate>1969-12-31</maxDate>
+    <latitude>37.36667</latitude>
+    <longitude>-118.71667</longitude>
+    <elevation>2863.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.946</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00010854</id>
+    <displayName>BISHOP, AL US</displayName>
+    <minDate>1937-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.65</latitude>
+    <longitude>-88.11667</longitude>
+    <elevation>143</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00260880</id>
+    <displayName>BISHOP, NV US</displayName>
+    <minDate>1910-03-01</minDate>
+    <maxDate>1912-09-30</maxDate>
+    <latitude>41.25</latitude>
+    <longitude>-114.916667</longitude>
+    <elevation>1828.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9323</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410805</id>
+    <displayName>BISHOP, TX US</displayName>
+    <minDate>1934-10-01</minDate>
+    <maxDate>2012-04-01</maxDate>
+    <latitude>27.58417</latitude>
+    <longitude>-97.80306</longitude>
+    <elevation>20.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4539</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00380736</id>
+    <displayName>BISHOPVILLE 1 ENE, SC US</displayName>
+    <minDate>1933-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2169</latitude>
+    <longitude>-80.2392</longitude>
+    <elevation>68.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9376</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDWR0004</id>
+    <displayName>BISHOPVILLE 3.1 E, MD US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.4466</latitude>
+    <longitude>-75.134</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0035</id>
+    <displayName>BISMARCK 0.2 NNW, ND US</displayName>
+    <minDate>2012-04-23</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>46.8088</latitude>
+    <longitude>-100.7683</longitude>
+    <elevation>516</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0002</id>
+    <displayName>BISMARCK 0.5 S, ND US</displayName>
+    <minDate>2008-10-22</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>46.7988</latitude>
+    <longitude>-100.7686</longitude>
+    <elevation>513.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1626</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0036</id>
+    <displayName>BISMARCK 0.6 NNW, ND US</displayName>
+    <minDate>2012-04-27</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>46.8136</latitude>
+    <longitude>-100.7742</longitude>
+    <elevation>530</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8593</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0034</id>
+    <displayName>BISMARCK 1.3 WNW, ND US</displayName>
+    <minDate>2012-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.8115</latitude>
+    <longitude>-100.793</longitude>
+    <elevation>526.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0013</id>
+    <displayName>BISMARCK 1.4 N, ND US</displayName>
+    <minDate>2009-05-04</minDate>
+    <maxDate>2010-01-02</maxDate>
+    <latitude>46.8251</latitude>
+    <longitude>-100.7686</longitude>
+    <elevation>580.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0024</id>
+    <displayName>BISMARCK 1.9 SW, ND US</displayName>
+    <minDate>2011-09-01</minDate>
+    <maxDate>2012-11-09</maxDate>
+    <latitude>46.7892</latitude>
+    <longitude>-100.7983</longitude>
+    <elevation>499.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4656</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0018</id>
+    <displayName>BISMARCK 1.9 W, ND US</displayName>
+    <minDate>2009-07-09</minDate>
+    <maxDate>2010-10-26</maxDate>
+    <latitude>46.8081</latitude>
+    <longitude>-100.8069</longitude>
+    <elevation>516</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0025</id>
+    <displayName>BISMARCK 1.9 WNW, ND US</displayName>
+    <minDate>2012-02-29</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>46.8153</latitude>
+    <longitude>-100.8044</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4932</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0017</id>
+    <displayName>BISMARCK 12.0 N, ND US</displayName>
+    <minDate>2009-06-18</minDate>
+    <maxDate>2011-08-16</maxDate>
+    <latitude>46.9765</latitude>
+    <longitude>-100.8118</longitude>
+    <elevation>620</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1278</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030724</id>
+    <displayName>BISMARCK 2 SE, AR US</displayName>
+    <minDate>1965-10-02</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.2872</latitude>
+    <longitude>-93.1444</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9875</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0006</id>
+    <displayName>BISMARCK 2.8 NNW, ND US</displayName>
+    <minDate>2008-11-06</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>46.8408</latitude>
+    <longitude>-100.7976</longitude>
+    <elevation>574.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3009</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0022</id>
+    <displayName>BISMARCK 3.0 SSW, ND US</displayName>
+    <minDate>2011-07-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.7677</latitude>
+    <longitude>-100.7967</longitude>
+    <elevation>499</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0026</id>
+    <displayName>BISMARCK 3.2 SW, ND US</displayName>
+    <minDate>2012-03-03</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>46.7742</latitude>
+    <longitude>-100.8185</longitude>
+    <elevation>497.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5656</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0007</id>
+    <displayName>BISMARCK 3.4 N, ND US</displayName>
+    <minDate>2008-11-04</minDate>
+    <maxDate>2012-08-12</maxDate>
+    <latitude>46.8547</latitude>
+    <longitude>-100.7561</longitude>
+    <elevation>540.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2025</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0003</id>
+    <displayName>BISMARCK 4.8 S, ND US</displayName>
+    <minDate>2008-10-22</minDate>
+    <maxDate>2012-10-19</maxDate>
+    <latitude>46.736</latitude>
+    <longitude>-100.7608</longitude>
+    <elevation>505.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320817</id>
+    <displayName>BISMARCK 5 NNW, ND US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.8338</latitude>
+    <longitude>-100.7969</longitude>
+    <elevation>558.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0001</id>
+    <displayName>BISMARCK 5.5 ESE, ND US</displayName>
+    <minDate>2008-10-22</minDate>
+    <maxDate>2012-10-23</maxDate>
+    <latitude>46.7711</latitude>
+    <longitude>-100.6619</longitude>
+    <elevation>538</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1873</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0019</id>
+    <displayName>BISMARCK 5.6 NNW, ND US</displayName>
+    <minDate>2010-03-31</minDate>
+    <maxDate>2010-09-23</maxDate>
+    <latitude>46.8807</latitude>
+    <longitude>-100.8128</longitude>
+    <elevation>597.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8644</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0031</id>
+    <displayName>BISMARCK 5.9 NE, ND US</displayName>
+    <minDate>2012-04-04</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>46.8732</latitude>
+    <longitude>-100.6898</longitude>
+    <elevation>579.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDBH0011</id>
+    <displayName>BISMARCK 6.1 SSE, ND US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2010-05-13</maxDate>
+    <latitude>46.7204</latitude>
+    <longitude>-100.737</longitude>
+    <elevation>531.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2108</coverage>
+  </station>
+</stationCollection>

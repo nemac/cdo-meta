@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="383">
+  <station>
+    <id>GHCND:USC00048243</id>
+    <displayName>SILVERADO RANGER STATION, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>33.7425</latitude>
+    <longitude>-117.66</longitude>
+    <elevation>333.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9469</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0014</id>
+    <displayName>SILVERDALE 2.7 WSW, WA US</displayName>
+    <minDate>2008-06-08</minDate>
+    <maxDate>2010-06-28</maxDate>
+    <latitude>47.6317</latitude>
+    <longitude>-122.7325</longitude>
+    <elevation>119.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9587</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0024</id>
+    <displayName>SILVERDALE 3.0 W, WA US</displayName>
+    <minDate>2008-11-28</minDate>
+    <maxDate>2009-06-01</maxDate>
+    <latitude>47.6533</latitude>
+    <longitude>-122.7485</longitude>
+    <elevation>105.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKP0030</id>
+    <displayName>SILVERDALE 5.5 NNW, WA US</displayName>
+    <minDate>2009-07-26</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.7193</latitude>
+    <longitude>-122.7468</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5366</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALBW0065</id>
+    <displayName>SILVERHILL 0.9 SSE, AL US</displayName>
+    <minDate>2012-07-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5324</latitude>
+    <longitude>-87.744</longitude>
+    <elevation>39.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALBW0045</id>
+    <displayName>SILVERHILL 5.0 SW, AL US</displayName>
+    <minDate>2008-02-07</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>30.488</latitude>
+    <longitude>-87.8002</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00267463</id>
+    <displayName>SILVERPEAK, NV US</displayName>
+    <minDate>1967-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.7617</latitude>
+    <longitude>-117.5658</longitude>
+    <elevation>1302.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCNW0011</id>
+    <displayName>SILVERSTREET 5.7 WNW, SC US</displayName>
+    <minDate>2012-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2588</latitude>
+    <longitude>-81.802</longitude>
+    <elevation>139.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9661</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0034</id>
+    <displayName>SILVERTHORNE 0.5 W, CO US</displayName>
+    <minDate>2005-08-03</minDate>
+    <maxDate>2008-01-23</maxDate>
+    <latitude>39.6505</latitude>
+    <longitude>-106.0904</longitude>
+    <elevation>2691.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9414</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0044</id>
+    <displayName>SILVERTHORNE 1.2 NW, CO US</displayName>
+    <minDate>2009-12-11</minDate>
+    <maxDate>2012-03-20</maxDate>
+    <latitude>39.6618</latitude>
+    <longitude>-106.0994</longitude>
+    <elevation>2775.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6005</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0049</id>
+    <displayName>SILVERTHORNE 1.4 SE, CO US</displayName>
+    <minDate>2010-10-31</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.6379</latitude>
+    <longitude>-106.0618</longitude>
+    <elevation>2756.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.277</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0009</id>
+    <displayName>SILVERTHORNE 1.8 SE, CO US</displayName>
+    <minDate>2003-01-29</minDate>
+    <maxDate>2004-05-09</maxDate>
+    <latitude>39.6365</latitude>
+    <longitude>-106.0581</longitude>
+    <elevation>2804.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7923</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0005</id>
+    <displayName>SILVERTHORNE 2.1 NNW, CO US</displayName>
+    <minDate>2003-01-07</minDate>
+    <maxDate>2009-11-04</maxDate>
+    <latitude>39.6645</latitude>
+    <longitude>-106.079</longitude>
+    <elevation>2656</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7374</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0006</id>
+    <displayName>SILVERTHORNE 2.1 WSW, CO US</displayName>
+    <minDate>2002-12-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6239</latitude>
+    <longitude>-106.1018</longitude>
+    <elevation>2951.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6126</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0035</id>
+    <displayName>SILVERTHORNE 21 NW, CO US</displayName>
+    <minDate>2005-08-11</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.9024</latitude>
+    <longitude>-106.305</longitude>
+    <elevation>2485.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0002</id>
+    <displayName>SILVERTHORNE 3.2 WNW, CO US</displayName>
+    <minDate>2003-01-15</minDate>
+    <maxDate>2005-04-29</maxDate>
+    <latitude>39.6414</latitude>
+    <longitude>-106.0722</longitude>
+    <elevation>2664</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2464</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0027</id>
+    <displayName>SILVERTHORNE 7.3 NW, CO US</displayName>
+    <minDate>2004-09-22</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>39.7386</latitude>
+    <longitude>-106.1612</longitude>
+    <elevation>2805.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0809</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0008</id>
+    <displayName>SILVERTHORNE 7.4 NW, CO US</displayName>
+    <minDate>2003-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.722</latitude>
+    <longitude>-106.137</longitude>
+    <elevation>2734.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSU0010</id>
+    <displayName>SILVERTHORNE 7.6 NNW, CO US</displayName>
+    <minDate>2002-12-18</minDate>
+    <maxDate>2008-12-29</maxDate>
+    <latitude>39.7589</latitude>
+    <longitude>-106.1116</longitude>
+    <elevation>2730.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSJ0001</id>
+    <displayName>SILVERTON .16 WSW, CO US</displayName>
+    <minDate>2003-06-20</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>37.8112</latitude>
+    <longitude>-107.6673</longitude>
+    <elevation>2838.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5022</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COSJ0002</id>
+    <displayName>SILVERTON 0.2 NNW, CO US</displayName>
+    <minDate>2006-02-16</minDate>
+    <maxDate>2008-04-03</maxDate>
+    <latitude>37.8135</latitude>
+    <longitude>-107.6651</longitude>
+    <elevation>2834.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357827</id>
+    <displayName>SILVERTON 4 SE, OR US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1962-07-31</maxDate>
+    <latitude>44.96667</latitude>
+    <longitude>-122.73333</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2536</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ISIL</id>
+    <displayName>SILVERTON IDAHO, ID US</displayName>
+    <minDate>1985-05-29</minDate>
+    <maxDate>1998-01-10</maxDate>
+    <latitude>47.5083</latitude>
+    <longitude>-115.9461</longitude>
+    <elevation>1268</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6846</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057656</id>
+    <displayName>SILVERTON, CO US</displayName>
+    <minDate>1899-03-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.8088</latitude>
+    <longitude>-107.6633</longitude>
+    <elevation>2830.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357823</id>
+    <displayName>SILVERTON, OR US</displayName>
+    <minDate>1962-08-29</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>45.0058</latitude>
+    <longitude>-122.7739</longitude>
+    <elevation>124.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418323</id>
+    <displayName>SILVERTON, TX US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.47222</latitude>
+    <longitude>-101.30056</longitude>
+    <elevation>999.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8281</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457657</id>
+    <displayName>SILVERTON, WA US</displayName>
+    <minDate>1910-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.06667</latitude>
+    <longitude>-121.56667</longitude>
+    <elevation>449.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1802</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0018G01S</id>
+    <displayName>SILVIES, OR US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>42.75</latitude>
+    <longitude>-118.6833</longitude>
+    <elevation>2103.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9382</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00157396</id>
+    <displayName>SIMERS, KY US</displayName>
+    <minDate>1941-12-01</minDate>
+    <maxDate>1946-01-31</maxDate>
+    <latitude>37.46667</latitude>
+    <longitude>-82.26667</longitude>
+    <elevation>396.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9816</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAVT0008</id>
+    <displayName>SIMI VALLEY 1.0 NW, CA US</displayName>
+    <minDate>2010-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.2724</latitude>
+    <longitude>-118.7638</longitude>
+    <elevation>258.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAVT0003</id>
+    <displayName>SIMI VALLEY 3.8 SW, CA US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>34.2306</latitude>
+    <longitude>-118.8047</longitude>
+    <elevation>329.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9376</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSIV</id>
+    <displayName>SIMI VALLEY CALIFORNIA, CA US</displayName>
+    <minDate>2001-08-06</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.2911</latitude>
+    <longitude>-118.8144</longitude>
+    <elevation>278.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8744</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0025</id>
+    <displayName>SIMLA .24 SE, CO US</displayName>
+    <minDate>2004-05-16</minDate>
+    <maxDate>2005-09-22</maxDate>
+    <latitude>39.139</latitude>
+    <longitude>-104.0808</longitude>
+    <elevation>1829.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.202</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057664</id>
+    <displayName>SIMLA, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.1397</latitude>
+    <longitude>-104.0877</longitude>
+    <elevation>1828.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168507</id>
+    <displayName>SIMMESPORT, LA US</displayName>
+    <minDate>1904-12-01</minDate>
+    <maxDate>1987-06-30</maxDate>
+    <latitude>30.98333</latitude>
+    <longitude>-91.81667</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9253</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247618</id>
+    <displayName>SIMMS 1 NE, MT US</displayName>
+    <minDate>1984-09-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.4961</latitude>
+    <longitude>-111.9162</longitude>
+    <elevation>1084.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418333</id>
+    <displayName>SIMMS 3 W, TX US</displayName>
+    <minDate>1981-05-01</minDate>
+    <maxDate>1981-08-31</maxDate>
+    <latitude>33.35</latitude>
+    <longitude>-94.55</longitude>
+    <elevation>97.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418335</id>
+    <displayName>SIMMS 4 WNW, TX US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1973-10-31</maxDate>
+    <latitude>33.36667</latitude>
+    <longitude>-94.56667</longitude>
+    <elevation>98.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5118</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357835</id>
+    <displayName>SIMNASHO, OR US</displayName>
+    <minDate>1950-02-01</minDate>
+    <maxDate>1967-05-31</maxDate>
+    <latitude>44.96667</latitude>
+    <longitude>-121.35</longitude>
+    <elevation>732.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5092</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00437310</id>
+    <displayName>SIMONSVILLE, VT US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1896-02-29</maxDate>
+    <latitude>43.25</latitude>
+    <longitude>-72.75</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168515</id>
+    <displayName>SIMPSON 10 ESE, LA US</displayName>
+    <minDate>1969-01-01</minDate>
+    <maxDate>1972-06-30</maxDate>
+    <latitude>31.21667</latitude>
+    <longitude>-92.83333</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247620</id>
+    <displayName>SIMPSON 6 N WILDHORSE, MT US</displayName>
+    <minDate>1931-05-01</minDate>
+    <maxDate>2012-12-30</maxDate>
+    <latitude>48.998</latitude>
+    <longitude>-110.2157</longitude>
+    <elevation>858</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000SIMP</id>
+    <displayName>SIMPSON SPRINGS VERNON 18 W, UT US</displayName>
+    <minDate>1990-09-10</minDate>
+    <maxDate>1997-03-12</maxDate>
+    <latitude>40.0922</latitude>
+    <longitude>-112.7342</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168513</id>
+    <displayName>SIMPSON, LA US</displayName>
+    <minDate>1946-09-30</minDate>
+    <maxDate>1968-09-30</maxDate>
+    <latitude>31.26667</latitude>
+    <longitude>-93</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9685</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0023</id>
+    <displayName>SIMPSONVILLE 2.6 WNW, SC US</displayName>
+    <minDate>2008-07-24</minDate>
+    <maxDate>2012-10-02</maxDate>
+    <latitude>34.746</latitude>
+    <longitude>-82.3003</longitude>
+    <elevation>257.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3668</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0031</id>
+    <displayName>SIMPSONVILLE 4.0 NE, SC US</displayName>
+    <minDate>2009-11-03</minDate>
+    <maxDate>2012-03-02</maxDate>
+    <latitude>34.7739</latitude>
+    <longitude>-82.2119</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4653</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0014</id>
+    <displayName>SIMPSONVILLE 4.7 SSW, SC US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2011-05-04</maxDate>
+    <latitude>34.6704</latitude>
+    <longitude>-82.2964</longitude>
+    <elevation>218.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCGV0020</id>
+    <displayName>SIMPSONVILLE 5.4 N, SC US</displayName>
+    <minDate>2008-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8103</latitude>
+    <longitude>-82.2608</longitude>
+    <elevation>271.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9589</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWN0006</id>
+    <displayName>SIMS 4.0 SW, NC US</displayName>
+    <minDate>2007-09-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7208</latitude>
+    <longitude>-78.1108</longitude>
+    <elevation>68.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9479</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CSIM</id>
+    <displayName>SIMS CALIFORNIA, CA US</displayName>
+    <minDate>1989-11-13</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.075</latitude>
+    <longitude>-122.3733</longitude>
+    <elevation>731.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7423</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYCR0009</id>
+    <displayName>SINCLAIR 0.1 N, WY US</displayName>
+    <minDate>2008-02-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.7788</latitude>
+    <longitude>-107.1169</longitude>
+    <elevation>2011.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.884</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024031</id>
+    <displayName>SINCLAIR CAA AIRPORT, WY US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1951-02-25</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-107.05</longitude>
+    <elevation>2000.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00307772</id>
+    <displayName>SINCLAIRVILLE, NY US</displayName>
+    <minDate>1959-09-01</minDate>
+    <maxDate>2003-07-31</maxDate>
+    <latitude>42.27861</latitude>
+    <longitude>-79.26556</longitude>
+    <elevation>493.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9938</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00188320</id>
+    <displayName>SINES DEEP CREEK 2, MD US</displayName>
+    <minDate>1963-07-01</minDate>
+    <maxDate>1969-11-30</maxDate>
+    <latitude>39.53333</latitude>
+    <longitude>-79.41667</longitude>
+    <elevation>622.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00188315</id>
+    <displayName>SINES DEEP CREEK, MD US</displayName>
+    <minDate>1928-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5227</latitude>
+    <longitude>-79.4131</longitude>
+    <elevation>621.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4285</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00168519</id>
+    <displayName>SINGER, LA US</displayName>
+    <minDate>1954-04-01</minDate>
+    <maxDate>1974-05-31</maxDate>
+    <latitude>30.65</latitude>
+    <longitude>-93.41667</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427850</id>
+    <displayName>SINGLETREE, UT US</displayName>
+    <minDate>1893-03-04</minDate>
+    <maxDate>1894-12-31</maxDate>
+    <latitude>38.233333</latitude>
+    <longitude>-111.366667</longitude>
+    <elevation>2011.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSIN</id>
+    <displayName>SINKIN MISSOURI, MO US</displayName>
+    <minDate>2001-02-13</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.5014</latitude>
+    <longitude>-91.2594</longitude>
+    <elevation>406.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9294</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABR0023</id>
+    <displayName>SINKING SPRING 1.0 N, PA US</displayName>
+    <minDate>2012-03-27</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>40.3394</latitude>
+    <longitude>-76.0199</longitude>
+    <elevation>91.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468172</id>
+    <displayName>SINKS OF GANDY, WV US</displayName>
+    <minDate>1980-11-01</minDate>
+    <maxDate>1986-10-31</maxDate>
+    <latitude>38.71667</latitude>
+    <longitude>-79.63333</longitude>
+    <elevation>1067.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00368145</id>
+    <displayName>SINNEMAHONING, PA US</displayName>
+    <minDate>1951-01-19</minDate>
+    <maxDate>2012-03-31</maxDate>
+    <latitude>41.3202</latitude>
+    <longitude>-78.0958</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9819</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418354</id>
+    <displayName>SINTON 3 NW, TX US</displayName>
+    <minDate>1921-09-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>28.0353</latitude>
+    <longitude>-97.4973</longitude>
+    <elevation>16.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137700</id>
+    <displayName>SIOUX CENTER 2 SE, IA US</displayName>
+    <minDate>1899-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.0558</latitude>
+    <longitude>-96.1525</longitude>
+    <elevation>414.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8768</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IASX0002</id>
+    <displayName>SIOUX CENTER 3.6 NNE, IA US</displayName>
+    <minDate>2009-04-29</minDate>
+    <maxDate>2009-12-08</maxDate>
+    <latitude>43.127</latitude>
+    <longitude>-96.1567</longitude>
+    <elevation>434</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9643</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAWD0007</id>
+    <displayName>SIOUX CITY 0.7 NW, IA US</displayName>
+    <minDate>2009-03-15</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>42.5108</latitude>
+    <longitude>-96.4061</longitude>
+    <elevation>391.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2794</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137703</id>
+    <displayName>SIOUX CITY 8 N, IA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1983-03-31</maxDate>
+    <latitude>42.58333</latitude>
+    <longitude>-96.43333</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9293</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137702</id>
+    <displayName>SIOUX CITY ANG, IA US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.3963</latitude>
+    <longitude>-96.3777</longitude>
+    <elevation>335.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014943</id>
+    <displayName>SIOUX CITY GATEWAY AIRPORT, IA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.3913</latitude>
+    <longitude>-96.3791</longitude>
+    <elevation>333.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137713</id>
+    <displayName>SIOUX CITY PERRY CRK, IA US</displayName>
+    <minDate>1948-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.5355</latitude>
+    <longitude>-96.4108</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.867</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137709</id>
+    <displayName>SIOUX CITY SNOW, IA US</displayName>
+    <minDate>2012-02-13</minDate>
+    <maxDate>2012-02-13</maxDate>
+    <latitude>42.40278</latitude>
+    <longitude>-96.35806</longitude>
+    <elevation>333.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0040</id>
+    <displayName>SIOUX FALLS 1.9 SSW, SD US</displayName>
+    <minDate>2009-07-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.5211</latitude>
+    <longitude>-96.7512</longitude>
+    <elevation>444.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004990</id>
+    <displayName>SIOUX FALLS 14 NNE, SD US</displayName>
+    <minDate>2002-09-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.7346</latitude>
+    <longitude>-96.6222</longitude>
+    <elevation>485.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0002</id>
+    <displayName>SIOUX FALLS 2.6 ESE, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-10-19</maxDate>
+    <latitude>43.5352</latitude>
+    <longitude>-96.6801</longitude>
+    <elevation>474</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0020</id>
+    <displayName>SIOUX FALLS 3.4 ESE, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>43.5267</latitude>
+    <longitude>-96.6658</longitude>
+    <elevation>462.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0001</id>
+    <displayName>SIOUX FALLS 3.4 ESE, SD US</displayName>
+    <minDate>2007-05-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.5236</latitude>
+    <longitude>-96.6678</longitude>
+    <elevation>461.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7077</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0023</id>
+    <displayName>SIOUX FALLS 3.4 WSW, SD US</displayName>
+    <minDate>2007-07-20</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>43.5239</latitude>
+    <longitude>-96.7921</longitude>
+    <elevation>434</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2484</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0018</id>
+    <displayName>SIOUX FALLS 3.6 ESE, SD US</displayName>
+    <minDate>2007-06-05</minDate>
+    <maxDate>2012-10-19</maxDate>
+    <latitude>43.5275</latitude>
+    <longitude>-96.6627</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0041</id>
+    <displayName>SIOUX FALLS 3.9 SW, SD US</displayName>
+    <minDate>2010-04-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.5047</latitude>
+    <longitude>-96.7866</longitude>
+    <elevation>439.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8604</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDLN0001</id>
+    <displayName>SIOUX FALLS 4.1 SSE, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>43.4951</latitude>
+    <longitude>-96.6988</longitude>
+    <elevation>462.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4545</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0038</id>
+    <displayName>SIOUX FALLS 4.2 WNW, SD US</displayName>
+    <minDate>2009-03-05</minDate>
+    <maxDate>2011-05-30</maxDate>
+    <latitude>43.5777</latitude>
+    <longitude>-96.801</longitude>
+    <elevation>455.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3843</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0012</id>
+    <displayName>SIOUX FALLS 4.3 WSW, SD US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2011-08-29</maxDate>
+    <latitude>43.5297</latitude>
+    <longitude>-96.8126</longitude>
+    <elevation>452.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2199</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0027</id>
+    <displayName>SIOUX FALLS 5.5 W, SD US</displayName>
+    <minDate>2007-06-21</minDate>
+    <maxDate>2008-10-07</maxDate>
+    <latitude>43.5444</latitude>
+    <longitude>-96.8371</longitude>
+    <elevation>442.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0021</id>
+    <displayName>SIOUX FALLS 7.7 WSW, SD US</displayName>
+    <minDate>2007-06-24</minDate>
+    <maxDate>2007-11-30</maxDate>
+    <latitude>43.5146</latitude>
+    <longitude>-96.8793</longitude>
+    <elevation>462.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.875</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014944</id>
+    <displayName>SIOUX FALLS FOSS FIELD, SD US</displayName>
+    <minDate>1932-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.5778</latitude>
+    <longitude>-96.7539</longitude>
+    <elevation>435.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9987</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397666</id>
+    <displayName>SIOUX FALLS WEATHER FORECAST OFFICE AIRPORT, SD US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.5877</latitude>
+    <longitude>-96.73</longitude>
+    <elevation>435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247630</id>
+    <displayName>SIOUX PASS, MT US</displayName>
+    <minDate>1924-10-19</minDate>
+    <maxDate>1932-09-30</maxDate>
+    <latitude>47.933333</latitude>
+    <longitude>-104.283333</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9994</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137726</id>
+    <displayName>SIOUX RAPIDS 4 E, IA US</displayName>
+    <minDate>1941-06-23</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>42.893</latitude>
+    <longitude>-95.0652</longitude>
+    <elevation>432.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9658</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357848</id>
+    <displayName>SISKIYOU CLIMAT STATION, OR US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1936-01-31</maxDate>
+    <latitude>42.05</latitude>
+    <longitude>-122.6</longitude>
+    <elevation>1367.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8021</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024236</id>
+    <displayName>SISKIYOU SUMMIT, OR US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1948-09-18</maxDate>
+    <latitude>42.08333</latitude>
+    <longitude>-122.56667</longitude>
+    <elevation>1367</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048265</id>
+    <displayName>SISQUOC RANCH, CA US</displayName>
+    <minDate>1904-01-01</minDate>
+    <maxDate>1915-09-30</maxDate>
+    <latitude>34.833333</latitude>
+    <longitude>-120.166667</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9441</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048266</id>
+    <displayName>SISQUOC SOUTH FORK C, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-03-31</maxDate>
+    <latitude>34.76667</latitude>
+    <longitude>-119.76667</longitude>
+    <elevation>762.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8157</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDRB0006</id>
+    <displayName>SISSETON 0.3 WNW, SD US</displayName>
+    <minDate>2008-06-17</minDate>
+    <maxDate>2009-07-11</maxDate>
+    <latitude>45.6646</latitude>
+    <longitude>-97.0523</longitude>
+    <elevation>369.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2846</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDRB0008</id>
+    <displayName>SISSETON 0.6 WNW, SD US</displayName>
+    <minDate>2010-03-17</minDate>
+    <maxDate>2012-08-12</maxDate>
+    <latitude>45.6655</latitude>
+    <longitude>-97.0587</longitude>
+    <elevation>381.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1636</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDRB0004</id>
+    <displayName>SISSETON 10.4 ENE, SD US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.6948</latitude>
+    <longitude>-96.8348</longitude>
+    <elevation>338</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9613</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDRB0001</id>
+    <displayName>SISSETON 3.8 W, SD US</displayName>
+    <minDate>2007-06-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.6587</latitude>
+    <longitude>-97.1237</longitude>
+    <elevation>468.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9549</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDRB0005</id>
+    <displayName>SISSETON 9.4 ESE, SD US</displayName>
+    <minDate>2008-06-23</minDate>
+    <maxDate>2009-06-07</maxDate>
+    <latitude>45.6205</latitude>
+    <longitude>-96.8599</longitude>
+    <elevation>313.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3657</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094993</id>
+    <displayName>SISSETON MUNICIPAL AIRPORT, SD US</displayName>
+    <minDate>1998-08-23</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.66889</latitude>
+    <longitude>-96.99139</longitude>
+    <elevation>353.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397742</id>
+    <displayName>SISSETON, SD US</displayName>
+    <minDate>1900-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.6656</latitude>
+    <longitude>-97.0393</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7643</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468191</id>
+    <displayName>SISSONVILLE 1 SW, WV US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.51667</latitude>
+    <longitude>-81.64528</longitude>
+    <elevation>187.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9772</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468190</id>
+    <displayName>SISSONVILLE, WV US</displayName>
+    <minDate>1916-10-01</minDate>
+    <maxDate>1926-12-31</maxDate>
+    <latitude>38.533333</latitude>
+    <longitude>-81.633333</longitude>
+    <elevation>181.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3419</coverage>
+  </station>
+</stationCollection>

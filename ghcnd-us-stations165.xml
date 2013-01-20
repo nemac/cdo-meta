@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="165">
+  <station>
+    <id>GHCND:US1COJF0267</id>
+    <displayName>GOLDEN 9.4 WNW, CO US</displayName>
+    <minDate>2005-08-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7738</latitude>
+    <longitude>-105.3864</longitude>
+    <elevation>2660.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8758</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBR0003</id>
+    <displayName>GOLDEN CITY 0.6 SSW, MO US</displayName>
+    <minDate>2007-05-18</minDate>
+    <maxDate>2012-12-09</maxDate>
+    <latitude>37.3864</latitude>
+    <longitude>-94.0985</longitude>
+    <elevation>324</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5981</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233262</id>
+    <displayName>GOLDEN CITY 6 S, MO US</displayName>
+    <minDate>1973-04-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.3016</latitude>
+    <longitude>-94.0827</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2764</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163681</id>
+    <displayName>GOLDEN MEADOW, LA US</displayName>
+    <minDate>1954-07-01</minDate>
+    <maxDate>1982-06-30</maxDate>
+    <latitude>29.38333</latitude>
+    <longitude>-90.26667</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4309</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153295</id>
+    <displayName>GOLDEN POND 8 N, KY US</displayName>
+    <minDate>1953-04-10</minDate>
+    <maxDate>2000-07-31</maxDate>
+    <latitude>36.89639</latitude>
+    <longitude>-88.01389</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0088</id>
+    <displayName>GOLDEN VALLEY 0.8 WSW, MN US</displayName>
+    <minDate>2012-05-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.9846</latitude>
+    <longitude>-93.3744</longitude>
+    <elevation>273.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9634</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0034</id>
+    <displayName>GOLDEN VALLEY 1.6 NNE, MN US</displayName>
+    <minDate>2011-03-20</minDate>
+    <maxDate>2012-01-01</maxDate>
+    <latitude>45.0094</latitude>
+    <longitude>-93.3411</longitude>
+    <elevation>272.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7014</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNHN0055</id>
+    <displayName>GOLDEN VALLEY 1.8 WNW, MN US</displayName>
+    <minDate>2011-04-16</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>45.0033</latitude>
+    <longitude>-93.3901</longitude>
+    <elevation>281</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.322</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMH0001</id>
+    <displayName>GOLDEN VALLEY 10.1 N, AZ US</displayName>
+    <minDate>2009-09-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3678</latitude>
+    <longitude>-114.2429</longitude>
+    <elevation>1061.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMH0003</id>
+    <displayName>GOLDEN VALLEY 2.6 WNW, AZ US</displayName>
+    <minDate>2009-10-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2328</latitude>
+    <longitude>-114.2719</longitude>
+    <elevation>861.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213200</id>
+    <displayName>GOLDEN VALLEY, MN US</displayName>
+    <minDate>1918-06-01</minDate>
+    <maxDate>1924-09-30</maxDate>
+    <latitude>48.316667</latitude>
+    <longitude>-95.883333</longitude>
+    <elevation>353.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8444</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00323529</id>
+    <displayName>GOLDEN VALLEY, ND US</displayName>
+    <minDate>1950-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>47.155</latitude>
+    <longitude>-102.0706</longitude>
+    <elevation>566.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113530</id>
+    <displayName>GOLDEN, IL US</displayName>
+    <minDate>1913-05-01</minDate>
+    <maxDate>2011-02-14</maxDate>
+    <latitude>40.10639</latitude>
+    <longitude>-91.02222</longitude>
+    <elevation>218.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9338</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293592</id>
+    <displayName>GOLDEN, NM US</displayName>
+    <minDate>1903-03-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.2655</latitude>
+    <longitude>-106.2144</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKL0003</id>
+    <displayName>GOLDENDALE 3.3 ENE, WA US</displayName>
+    <minDate>2008-11-01</minDate>
+    <maxDate>2012-01-15</maxDate>
+    <latitude>45.8452</latitude>
+    <longitude>-120.7554</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3006</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKL0005</id>
+    <displayName>GOLDENDALE 4.2 NNW, WA US</displayName>
+    <minDate>2010-10-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.8819</latitude>
+    <longitude>-120.8365</longitude>
+    <elevation>646.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9605</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAKL0001</id>
+    <displayName>GOLDENDALE 7.1 NE, WA US</displayName>
+    <minDate>2008-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.9072</latitude>
+    <longitude>-120.7339</longitude>
+    <elevation>698.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9775</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000WGLD</id>
+    <displayName>GOLDENDALE WASHINGTON, WA US</displayName>
+    <minDate>2002-08-16</minDate>
+    <maxDate>2009-06-04</maxDate>
+    <latitude>45.8672</latitude>
+    <longitude>-120.7231</longitude>
+    <elevation>626.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7054</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453222</id>
+    <displayName>GOLDENDALE, WA US</displayName>
+    <minDate>1905-10-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.8081</latitude>
+    <longitude>-120.8428</longitude>
+    <elevation>499.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7591</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453226</id>
+    <displayName>GOLDENDALE, WA US</displayName>
+    <minDate>1972-05-01</minDate>
+    <maxDate>1995-02-28</maxDate>
+    <latitude>45.81667</latitude>
+    <longitude>-120.81667</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263285</id>
+    <displayName>GOLDFIELD, NV US</displayName>
+    <minDate>1906-02-01</minDate>
+    <maxDate>2010-06-03</maxDate>
+    <latitude>37.708</latitude>
+    <longitude>-117.233</longitude>
+    <elevation>1734.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00393358</id>
+    <displayName>GOLDFIELD, SD US</displayName>
+    <minDate>1914-01-01</minDate>
+    <maxDate>1918-12-31</maxDate>
+    <latitude>44.65</latitude>
+    <longitude>-102.833333</longitude>
+    <elevation>914.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7223</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LANT0001</id>
+    <displayName>GOLDONNA 8.8 SSW, LA US</displayName>
+    <minDate>2008-01-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.9135</latitude>
+    <longitude>-92.9929</longitude>
+    <elevation>52.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3364</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233268</id>
+    <displayName>GOLDSBERRY, MO US</displayName>
+    <minDate>1962-04-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>39.96667</latitude>
+    <longitude>-92.76667</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAYR0007</id>
+    <displayName>GOLDSBORO 0.3 NW, PA US</displayName>
+    <minDate>2007-05-29</minDate>
+    <maxDate>2008-01-20</maxDate>
+    <latitude>40.1579</latitude>
+    <longitude>-76.7552</longitude>
+    <elevation>125.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9241</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAYR0011</id>
+    <displayName>GOLDSBORO 0.4 NW, PA US</displayName>
+    <minDate>2008-04-08</minDate>
+    <maxDate>2010-03-10</maxDate>
+    <latitude>40.1582</latitude>
+    <longitude>-76.7557</longitude>
+    <elevation>120.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3177</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWY0006</id>
+    <displayName>GOLDSBORO 1.5 NE, NC US</displayName>
+    <minDate>2007-11-30</minDate>
+    <maxDate>2011-01-18</maxDate>
+    <latitude>35.3903</latitude>
+    <longitude>-77.9577</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9686</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWY0010</id>
+    <displayName>GOLDSBORO 11.5 WSW, NC US</displayName>
+    <minDate>2011-08-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2966</latitude>
+    <longitude>-78.165</longitude>
+    <elevation>50.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8089</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313515</id>
+    <displayName>GOLDSBORO 3 SSW, NC US</displayName>
+    <minDate>1937-01-01</minDate>
+    <maxDate>1961-12-31</maxDate>
+    <latitude>35.35</latitude>
+    <longitude>-78.03333</longitude>
+    <elevation>24.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWY0004</id>
+    <displayName>GOLDSBORO 4.0 SE, NC US</displayName>
+    <minDate>2007-09-26</minDate>
+    <maxDate>2008-10-11</maxDate>
+    <latitude>35.3317</latitude>
+    <longitude>-77.9276</longitude>
+    <elevation>42.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8246</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWY0001</id>
+    <displayName>GOLDSBORO 4.4 E, NC US</displayName>
+    <minDate>2007-09-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3724</latitude>
+    <longitude>-77.8984</longitude>
+    <elevation>40.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWY0012</id>
+    <displayName>GOLDSBORO 4.6 ENE, NC US</displayName>
+    <minDate>2012-04-07</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.4007</latitude>
+    <longitude>-77.902</longitude>
+    <elevation>37.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9823</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00313503</id>
+    <displayName>GOLDSBORO AG 1 N, NC US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.4244</latitude>
+    <longitude>-77.9919</longitude>
+    <elevation>33.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.99</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013713</id>
+    <displayName>GOLDSBORO SEYMOUR JOHNSON AFB, NC US</displayName>
+    <minDate>1900-02-12</minDate>
+    <maxDate>2009-02-21</maxDate>
+    <latitude>35.3444</latitude>
+    <longitude>-77.9647</longitude>
+    <elevation>33.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9051</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCCH0004</id>
+    <displayName>GOLDSTON 3.8 N, NC US</displayName>
+    <minDate>2007-12-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.6486</latitude>
+    <longitude>-79.3361</longitude>
+    <elevation>173.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7473</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043498</id>
+    <displayName>GOLDSTONE ECHO NUMBER 2, CA US</displayName>
+    <minDate>1973-12-01</minDate>
+    <maxDate>2006-07-31</maxDate>
+    <latitude>35.2813</latitude>
+    <longitude>-116.7844</longitude>
+    <elevation>899.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503368</id>
+    <displayName>GOLDSTREAM CREEK, AK US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2011-06-30</maxDate>
+    <latitude>64.89389</latitude>
+    <longitude>-147.87528</longitude>
+    <elevation>175.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503367</id>
+    <displayName>GOLDSTREAM, AK US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>2005-01-31</maxDate>
+    <latitude>64.92611</latitude>
+    <longitude>-147.87667</longitude>
+    <elevation>289.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9129</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413614</id>
+    <displayName>GOLDTHWAITE 1 WSW, TX US</displayName>
+    <minDate>1923-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.44028</latitude>
+    <longitude>-98.59028</longitude>
+    <elevation>459.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMLS001</id>
+    <displayName>GOLDTHWAITE 5.1 WNW, TX US</displayName>
+    <minDate>2007-09-08</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>31.4745</latitude>
+    <longitude>-98.6538</longitude>
+    <elevation>416.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3767</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASB0001</id>
+    <displayName>GOLETA 3.7 WNW, CA US</displayName>
+    <minDate>2009-09-05</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.4397</latitude>
+    <longitude>-119.8961</longitude>
+    <elevation>48.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MGOL</id>
+    <displayName>GOLF MONTANA, MT US</displayName>
+    <minDate>1999-09-09</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.2417</latitude>
+    <longitude>-112.0917</longitude>
+    <elevation>1313.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0017</id>
+    <displayName>GOLIAD 0.1 S, TX US</displayName>
+    <minDate>2009-09-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.6677</latitude>
+    <longitude>-97.3918</longitude>
+    <elevation>53.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0006</id>
+    <displayName>GOLIAD 0.4 NW, TX US</displayName>
+    <minDate>2007-10-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.6728</latitude>
+    <longitude>-97.3966</longitude>
+    <elevation>61.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2948</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0005</id>
+    <displayName>GOLIAD 0.4 WNW, TX US</displayName>
+    <minDate>2007-10-09</minDate>
+    <maxDate>2010-11-02</maxDate>
+    <latitude>28.6708</latitude>
+    <longitude>-97.3974</longitude>
+    <elevation>47.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1525</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413620</id>
+    <displayName>GOLIAD 1 SE, TX US</displayName>
+    <minDate>1949-04-09</minDate>
+    <maxDate>2005-02-28</maxDate>
+    <latitude>28.67028</latitude>
+    <longitude>-97.37778</longitude>
+    <elevation>51.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9504</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0009</id>
+    <displayName>GOLIAD 10.1 NE, TX US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2012-02-25</maxDate>
+    <latitude>28.7574</latitude>
+    <longitude>-97.2589</longitude>
+    <elevation>53.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9101</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0019</id>
+    <displayName>GOLIAD 10.9 NE, TX US</displayName>
+    <minDate>2009-08-10</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>28.7757</latitude>
+    <longitude>-97.2588</longitude>
+    <elevation>52.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0012</id>
+    <displayName>GOLIAD 11.5 N, TX US</displayName>
+    <minDate>2008-06-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.8349</latitude>
+    <longitude>-97.4077</longitude>
+    <elevation>82.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9507</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0004</id>
+    <displayName>GOLIAD 14.5 WNW, TX US</displayName>
+    <minDate>2007-10-15</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>28.7424</latitude>
+    <longitude>-97.6155</longitude>
+    <elevation>79.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1102</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0003</id>
+    <displayName>GOLIAD 2.4 SE, TX US</displayName>
+    <minDate>2007-09-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.6496</latitude>
+    <longitude>-97.3585</longitude>
+    <elevation>42.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0008</id>
+    <displayName>GOLIAD 4.1 NW, TX US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.7103</latitude>
+    <longitude>-97.4399</longitude>
+    <elevation>65.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413619</id>
+    <displayName>GOLIAD 6 NE, TX US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1959-12-31</maxDate>
+    <latitude>28.71667</latitude>
+    <longitude>-97.33333</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGD0018</id>
+    <displayName>GOLIAD 6.6 NE, TX US</displayName>
+    <minDate>2009-06-24</minDate>
+    <maxDate>2012-07-01</maxDate>
+    <latitude>28.723</latitude>
+    <longitude>-97.3014</longitude>
+    <elevation>46.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9275</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413618</id>
+    <displayName>GOLIAD, TX US</displayName>
+    <minDate>1912-09-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>28.6616</latitude>
+    <longitude>-97.3851</longitude>
+    <elevation>43.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9801</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00263295</id>
+    <displayName>GOLLIHER PASTURE, NV US</displayName>
+    <minDate>1939-06-01</minDate>
+    <maxDate>1945-07-31</maxDate>
+    <latitude>41.916667</latitude>
+    <longitude>-114.45</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4621</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00503378</id>
+    <displayName>GOLOVIN, AK US</displayName>
+    <minDate>1941-07-01</minDate>
+    <maxDate>1945-10-31</maxDate>
+    <latitude>64.55</latitude>
+    <longitude>-163.0167</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00323556</id>
+    <displayName>GOLVA 1 S E, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.73333</latitude>
+    <longitude>-103.95</longitude>
+    <elevation>848</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5223</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00213206</id>
+    <displayName>GONVICK 2 W, MN US</displayName>
+    <minDate>1919-01-29</minDate>
+    <maxDate>1990-10-31</maxDate>
+    <latitude>47.73333</latitude>
+    <longitude>-95.51667</longitude>
+    <elevation>437.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8246</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAAS0003</id>
+    <displayName>GONZALES 0.8 E, LA US</displayName>
+    <minDate>2008-01-18</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>30.2173</latitude>
+    <longitude>-90.9099</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2057</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413622</id>
+    <displayName>GONZALES 1 N, TX US</displayName>
+    <minDate>1915-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.5338</latitude>
+    <longitude>-97.45</longitude>
+    <elevation>115.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7579</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAAS0009</id>
+    <displayName>GONZALES 1.8 NE, LA US</displayName>
+    <minDate>2009-12-15</minDate>
+    <maxDate>2012-09-27</maxDate>
+    <latitude>30.2383</latitude>
+    <longitude>-90.9062</longitude>
+    <elevation>2.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7348</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413624</id>
+    <displayName>GONZALES 10 SW, TX US</displayName>
+    <minDate>1997-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.4359</latitude>
+    <longitude>-97.5177</longitude>
+    <elevation>111.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9825</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413623</id>
+    <displayName>GONZALES 2, TX US</displayName>
+    <minDate>1948-11-20</minDate>
+    <maxDate>1964-12-31</maxDate>
+    <latitude>29.5</latitude>
+    <longitude>-97.45</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAAS0007</id>
+    <displayName>GONZALES 3.7 N, LA US</displayName>
+    <minDate>2008-07-15</minDate>
+    <maxDate>2011-11-26</maxDate>
+    <latitude>30.2706</latitude>
+    <longitude>-90.9274</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8081</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAAS0001</id>
+    <displayName>GONZALES 3.8 S, LA US</displayName>
+    <minDate>2008-01-17</minDate>
+    <maxDate>2009-07-07</maxDate>
+    <latitude>30.1613</latitude>
+    <longitude>-90.9239</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9145</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGZ0005</id>
+    <displayName>GONZALES 3.8 SW, TX US</displayName>
+    <minDate>2007-11-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.4718</latitude>
+    <longitude>-97.4948</longitude>
+    <elevation>93</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LAAS0005</id>
+    <displayName>GONZALES 4.0 S, LA US</displayName>
+    <minDate>2008-01-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1584</latitude>
+    <longitude>-90.9207</longitude>
+    <elevation>4.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGZ0021</id>
+    <displayName>GONZALES 4.4 NNW, TX US</displayName>
+    <minDate>2012-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.5645</latitude>
+    <longitude>-97.4814</longitude>
+    <elevation>110.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7609</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGZ0010</id>
+    <displayName>GONZALES 4.5 SSE, TX US</displayName>
+    <minDate>2000-01-10</minDate>
+    <maxDate>2012-12-26</maxDate>
+    <latitude>29.4461</latitude>
+    <longitude>-97.425</longitude>
+    <elevation>80.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3244</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGZ0004</id>
+    <displayName>GONZALES 6.7 NNW, TX US</displayName>
+    <minDate>2007-09-17</minDate>
+    <maxDate>2011-06-23</maxDate>
+    <latitude>29.602</latitude>
+    <longitude>-97.4795</longitude>
+    <elevation>124.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5516</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043502</id>
+    <displayName>GONZALES 9 ENE, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.53333</latitude>
+    <longitude>-121.28333</longitude>
+    <elevation>716.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9874</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163695</id>
+    <displayName>GONZALES, LA US</displayName>
+    <minDate>1978-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2033</latitude>
+    <longitude>-90.9225</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9967</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLES0015</id>
+    <displayName>GONZALEZ 2.1 E, FL US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.5685</latitude>
+    <longitude>-87.2547</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLES0004</id>
+    <displayName>GONZALEZ 2.5 NNW, FL US</displayName>
+    <minDate>2007-10-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.604</latitude>
+    <longitude>-87.3122</longitude>
+    <elevation>48.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00293609</id>
+    <displayName>GOOD RANCH, NM US</displayName>
+    <minDate>1949-08-14</minDate>
+    <maxDate>1952-05-31</maxDate>
+    <latitude>34.6</latitude>
+    <longitude>-104.78333</longitude>
+    <elevation>1556</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363372</id>
+    <displayName>GOOD SPRINGS 1 NW, PA US</displayName>
+    <minDate>1948-05-04</minDate>
+    <maxDate>1951-02-06</maxDate>
+    <latitude>40.63333</latitude>
+    <longitude>-76.5</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9713</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024142</id>
+    <displayName>GOODING 2 S, ID US</displayName>
+    <minDate>1909-09-01</minDate>
+    <maxDate>1997-09-30</maxDate>
+    <latitude>42.91667</latitude>
+    <longitude>-114.71667</longitude>
+    <elevation>1088.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6894</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0010</id>
+    <displayName>GOODLAND 0.3 SW, KS US</displayName>
+    <minDate>2005-03-13</minDate>
+    <maxDate>2007-02-10</maxDate>
+    <latitude>39.3444</latitude>
+    <longitude>-101.7136</longitude>
+    <elevation>1131.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.89</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INNW0004</id>
+    <displayName>GOODLAND 0.4 SSW, IN US</displayName>
+    <minDate>2007-07-04</minDate>
+    <maxDate>2008-06-30</maxDate>
+    <latitude>40.7588</latitude>
+    <longitude>-87.2965</longitude>
+    <elevation>220.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9945</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0003</id>
+    <displayName>GOODLAND 0.5 ENE, KS US</displayName>
+    <minDate>2005-01-01</minDate>
+    <maxDate>2012-10-04</maxDate>
+    <latitude>39.3523</latitude>
+    <longitude>-101.7007</longitude>
+    <elevation>1124.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4273</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0004</id>
+    <displayName>GOODLAND 0.5 ENE, KS US</displayName>
+    <minDate>2004-11-02</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.3542</latitude>
+    <longitude>-101.6996</longitude>
+    <elevation>1122</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8695</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0005</id>
+    <displayName>GOODLAND 0.5 N, KS US</displayName>
+    <minDate>2004-11-13</minDate>
+    <maxDate>2005-08-28</maxDate>
+    <latitude>39.3553</latitude>
+    <longitude>-101.7104</longitude>
+    <elevation>1127.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8581</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0024</id>
+    <displayName>GOODLAND 0.7 ENE, KS US</displayName>
+    <minDate>2007-06-07</minDate>
+    <maxDate>2011-05-19</maxDate>
+    <latitude>39.3519</latitude>
+    <longitude>-101.6976</longitude>
+    <elevation>1121.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0852</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0006</id>
+    <displayName>GOODLAND 10 SSW, KS US</displayName>
+    <minDate>2005-01-19</minDate>
+    <maxDate>2012-08-14</maxDate>
+    <latitude>39.2268</latitude>
+    <longitude>-101.801</longitude>
+    <elevation>1154</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2843</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0016</id>
+    <displayName>GOODLAND 10.3 WNW, KS US</displayName>
+    <minDate>2005-05-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.3797</latitude>
+    <longitude>-101.8979</longitude>
+    <elevation>1153.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0002</id>
+    <displayName>GOODLAND 11 NNE, KS US</displayName>
+    <minDate>2005-03-03</minDate>
+    <maxDate>2012-08-03</maxDate>
+    <latitude>39.4914</latitude>
+    <longitude>-101.6326</longitude>
+    <elevation>1061.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5124</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0009</id>
+    <displayName>GOODLAND 12 WSW, KS US</displayName>
+    <minDate>2005-03-05</minDate>
+    <maxDate>2006-12-03</maxDate>
+    <latitude>39.2933</latitude>
+    <longitude>-101.9292</longitude>
+    <elevation>1182</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9624</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0017</id>
+    <displayName>GOODLAND 12.0 N, KS US</displayName>
+    <minDate>2006-03-21</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>39.52</latitude>
+    <longitude>-101.668</longitude>
+    <elevation>1079.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.15</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0021</id>
+    <displayName>GOODLAND 12.1 NW, KS US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.4514</latitude>
+    <longitude>-101.8931</longitude>
+    <elevation>1149.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0014</id>
+    <displayName>GOODLAND 13.2 SW, KS US</displayName>
+    <minDate>2005-05-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.2056</latitude>
+    <longitude>-101.8748</longitude>
+    <elevation>1150</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9315</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143156</id>
+    <displayName>GOODLAND 23 SW, KS US</displayName>
+    <minDate>1998-08-01</minDate>
+    <maxDate>2012-10-01</maxDate>
+    <latitude>39.1305</latitude>
+    <longitude>-102.0259</longitude>
+    <elevation>1185.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7547</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143155</id>
+    <displayName>GOODLAND 3 W, KS US</displayName>
+    <minDate>2003-07-01</minDate>
+    <maxDate>2007-06-08</maxDate>
+    <latitude>39.3516</latitude>
+    <longitude>-101.7875</longitude>
+    <elevation>1114.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0018</id>
+    <displayName>GOODLAND 4.8 W, KS US</displayName>
+    <minDate>2006-04-16</minDate>
+    <maxDate>2011-05-25</maxDate>
+    <latitude>39.336</latitude>
+    <longitude>-101.7968</longitude>
+    <elevation>1136</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3842</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSH0028</id>
+    <displayName>GOODLAND 4.9 SW, KS US</displayName>
+    <minDate>2009-03-03</minDate>
+    <maxDate>2010-08-10</maxDate>
+    <latitude>39.2912</latitude>
+    <longitude>-101.7635</longitude>
+    <elevation>1129</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3688</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INJS0003</id>
+    <displayName>GOODLAND 6.7 NNE, IN US</displayName>
+    <minDate>2006-04-28</minDate>
+    <maxDate>2007-08-27</maxDate>
+    <latitude>40.848</latitude>
+    <longitude>-87.2312</longitude>
+    <elevation>203.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8131</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00143158</id>
+    <displayName>GOODLAND CITY, KS US</displayName>
+    <minDate>2009-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.34444</latitude>
+    <longitude>-101.70778</longitude>
+    <elevation>1125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023065</id>
+    <displayName>GOODLAND RENNER FIELD, KS US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.36722</latitude>
+    <longitude>-101.69333</longitude>
+    <elevation>1114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDV0086</id>
+    <displayName>GOODLETTSVILLE 1.1 SW, TN US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>36.3221</latitude>
+    <longitude>-86.7173</longitude>
+    <elevation>154.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNDV0131</id>
+    <displayName>GOODLETTSVILLE 1.5 W, TN US</displayName>
+    <minDate>2012-03-13</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.3367</latitude>
+    <longitude>-86.7308</longitude>
+    <elevation>172.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3734</coverage>
+  </station>
+</stationCollection>

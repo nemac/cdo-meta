@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="234">
+  <station>
+    <id>GHCND:US1NMSM0007</id>
+    <displayName>LAS VEGAS 2.6 SE, NM US</displayName>
+    <minDate>2010-11-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.5704</latitude>
+    <longitude>-105.1889</longitude>
+    <elevation>1976.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0039</id>
+    <displayName>LAS VEGAS 3.9 S, NV US</displayName>
+    <minDate>2010-05-30</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>36.1501</latitude>
+    <longitude>-115.2297</longitude>
+    <elevation>705.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9039</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294860</id>
+    <displayName>LAS VEGAS 4 NW, NM US</displayName>
+    <minDate>1967-05-01</minDate>
+    <maxDate>1969-06-30</maxDate>
+    <latitude>35.63333</latitude>
+    <longitude>-105.26667</longitude>
+    <elevation>2044</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9722</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0008</id>
+    <displayName>LAS VEGAS 5.8 W, NV US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2009-03-13</maxDate>
+    <latitude>36.1919</latitude>
+    <longitude>-115.3253</longitude>
+    <elevation>897.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9892</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053024</id>
+    <displayName>LAS VEGAS 6 NE, NM US</displayName>
+    <minDate>2011-06-25</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.6633</latitude>
+    <longitude>-105.1432</longitude>
+    <elevation>2087</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0020</id>
+    <displayName>LAS VEGAS 6.0 SSW, NV US</displayName>
+    <minDate>2007-06-01</minDate>
+    <maxDate>2010-07-28</maxDate>
+    <latitude>36.1269</latitude>
+    <longitude>-115.268</longitude>
+    <elevation>773.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0016</id>
+    <displayName>LAS VEGAS 6.3 WSW, NV US</displayName>
+    <minDate>2007-04-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1616</latitude>
+    <longitude>-115.3212</longitude>
+    <elevation>899.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9928</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0021</id>
+    <displayName>LAS VEGAS 6.5 WNW, NV US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2010-04-23</maxDate>
+    <latitude>36.2406</latitude>
+    <longitude>-115.3313</longitude>
+    <elevation>907.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9436</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0007</id>
+    <displayName>LAS VEGAS 7.8 SW, NV US</displayName>
+    <minDate>2007-03-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.0972</latitude>
+    <longitude>-115.2642</longitude>
+    <elevation>744.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9031</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NVCK0040</id>
+    <displayName>LAS VEGAS 7.9 S, NV US</displayName>
+    <minDate>2010-09-26</minDate>
+    <maxDate>2012-02-04</maxDate>
+    <latitude>36.0911</latitude>
+    <longitude>-115.2328</longitude>
+    <elevation>717.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7968</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSM0005</id>
+    <displayName>LAS VEGAS 8.4 NW, NM US</displayName>
+    <minDate>2008-04-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.668</latitude>
+    <longitude>-105.3423</longitude>
+    <elevation>2292.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8106</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053123</id>
+    <displayName>LAS VEGAS AIR TERMINAL, NV US</displayName>
+    <minDate>2000-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.21167</latitude>
+    <longitude>-115.19583</longitude>
+    <elevation>671.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294858</id>
+    <displayName>LAS VEGAS EXPERIMENTAL PLOT, NM US</displayName>
+    <minDate>1908-09-01</minDate>
+    <maxDate>1945-02-14</maxDate>
+    <latitude>35.58333</latitude>
+    <longitude>-105.18333</longitude>
+    <elevation>1983</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.706</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023169</id>
+    <displayName>LAS VEGAS MCCARRAN INTERNATIONAL AIRPORT, NV US</displayName>
+    <minDate>1948-09-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.0719</latitude>
+    <longitude>-115.1634</longitude>
+    <elevation>664.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9996</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023054</id>
+    <displayName>LAS VEGAS MUNICIPAL AIRPORT, NM US</displayName>
+    <minDate>1940-11-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.65417</latitude>
+    <longitude>-105.14194</longitude>
+    <elevation>2095.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023112</id>
+    <displayName>LAS VEGAS NELLIS AFB, NV US</displayName>
+    <minDate>1949-01-07</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>36.25</latitude>
+    <longitude>-115.03333</longitude>
+    <elevation>570</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264439</id>
+    <displayName>LAS VEGAS NWFO, NV US</displayName>
+    <minDate>1996-10-01</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>36.0469</latitude>
+    <longitude>-115.1848</longitude>
+    <elevation>693.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9976</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00294862</id>
+    <displayName>LAS VEGAS SEWAGE PLANT, NM US</displayName>
+    <minDate>1983-06-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>35.5677</latitude>
+    <longitude>-105.213</longitude>
+    <elevation>1935.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023173</id>
+    <displayName>LAS VEGAS WEATHER BUREAU AIRPORT, NV US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1948-12-31</maxDate>
+    <latitude>36.23333</latitude>
+    <longitude>-115.03333</longitude>
+    <elevation>573.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264429</id>
+    <displayName>LAS VEGAS, NV US</displayName>
+    <minDate>1895-06-01</minDate>
+    <maxDate>1956-08-31</maxDate>
+    <latitude>36.16667</latitude>
+    <longitude>-115.13333</longitude>
+    <elevation>613</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8017</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0009L03S</id>
+    <displayName>LASAL MOUNTAIN, UT US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>38.4833</latitude>
+    <longitude>-109.2667</longitude>
+    <elevation>3002.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8694</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00405061</id>
+    <displayName>LASCASSAS 3 SW, TN US</displayName>
+    <minDate>1957-10-18</minDate>
+    <maxDate>1979-02-28</maxDate>
+    <latitude>35.91667</latitude>
+    <longitude>-86.33333</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.94</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNRD0041</id>
+    <displayName>LASCASSAS 3.6 NW, TN US</displayName>
+    <minDate>2007-09-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9708</latitude>
+    <longitude>-86.3064</longitude>
+    <elevation>214.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8543</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLAS</id>
+    <displayName>LASSEN LODGE CALIFORNIA, CA US</displayName>
+    <minDate>1990-05-02</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.3442</latitude>
+    <longitude>-121.7136</longitude>
+    <elevation>1267.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8127</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00444745</id>
+    <displayName>LASSITER, VA US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1921-12-31</maxDate>
+    <latitude>37.65</latitude>
+    <longitude>-77.833333</longitude>
+    <elevation>30.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7659</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0021</id>
+    <displayName>LAST CHANCE 6.1 N, CO US</displayName>
+    <minDate>2003-05-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8265</latitude>
+    <longitude>-103.5733</longitude>
+    <elevation>1414.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9791</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00054856</id>
+    <displayName>LAST CHANCE, CO US</displayName>
+    <minDate>1964-07-01</minDate>
+    <maxDate>1965-03-31</maxDate>
+    <latitude>39.75</latitude>
+    <longitude>-103.6</longitude>
+    <elevation>1460.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.438</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415081</id>
+    <displayName>LATEX, TX US</displayName>
+    <minDate>1942-12-01</minDate>
+    <maxDate>1963-05-31</maxDate>
+    <latitude>32.35</latitude>
+    <longitude>-94.1</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9268</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYAB0016</id>
+    <displayName>LATHAM 1.1 NNE, NY US</displayName>
+    <minDate>2009-06-11</minDate>
+    <maxDate>2009-12-12</maxDate>
+    <latitude>42.759</latitude>
+    <longitude>-73.737</longitude>
+    <elevation>104.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.627</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYAB0028</id>
+    <displayName>LATHAM 1.5 SSW, NY US</displayName>
+    <minDate>2011-05-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.7243</latitude>
+    <longitude>-73.757</longitude>
+    <elevation>120.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.97</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264473</id>
+    <displayName>LATHROP WELLS 16 SSE, NV US</displayName>
+    <minDate>1970-11-01</minDate>
+    <maxDate>1977-08-31</maxDate>
+    <latitude>36.41667</latitude>
+    <longitude>-116.35</longitude>
+    <elevation>665.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264457</id>
+    <displayName>LATHROP WELLS, NV US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>1963-01-31</maxDate>
+    <latitude>36.65</latitude>
+    <longitude>-116.4</longitude>
+    <elevation>814.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7464</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044823</id>
+    <displayName>LATHROP, CA US</displayName>
+    <minDate>1906-03-03</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>37.78333</latitude>
+    <longitude>-121.3</longitude>
+    <elevation>8.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00234773</id>
+    <displayName>LATHROP, MO US</displayName>
+    <minDate>1947-03-26</minDate>
+    <maxDate>1965-02-28</maxDate>
+    <latitude>39.55</latitude>
+    <longitude>-94.33333</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8402</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAFR0001</id>
+    <displayName>LATIMER 1.9 NE, IA US</displayName>
+    <minDate>2007-08-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7846</latitude>
+    <longitude>-93.3402</longitude>
+    <elevation>374</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9159</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00505454</id>
+    <displayName>LATOUCHE, US</displayName>
+    <minDate>1917-03-01</minDate>
+    <maxDate>1959-11-30</maxDate>
+    <latitude>60.05</latitude>
+    <longitude>-147.9</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAWT0002</id>
+    <displayName>LATROBE 0.6 NW, PA US</displayName>
+    <minDate>2006-01-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3189</latitude>
+    <longitude>-79.3894</longitude>
+    <elevation>296.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364832</id>
+    <displayName>LATROBE, PA US</displayName>
+    <minDate>1928-10-05</minDate>
+    <maxDate>1956-05-31</maxDate>
+    <latitude>40.31667</latitude>
+    <longitude>-79.38333</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBW0028</id>
+    <displayName>LAUDERHILL 2.3 WNW, FL US</displayName>
+    <minDate>2010-08-01</minDate>
+    <maxDate>2012-02-20</maxDate>
+    <latitude>26.1795</latitude>
+    <longitude>-80.2663</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9525</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLAU</id>
+    <displayName>LAUFMAN CALIFORNIA, CA US</displayName>
+    <minDate>1998-02-20</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.1417</latitude>
+    <longitude>-120.3533</longitude>
+    <elevation>1767.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9512</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00264480</id>
+    <displayName>LAUGHLIN, NV US</displayName>
+    <minDate>1988-01-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1691</latitude>
+    <longitude>-114.5805</longitude>
+    <elevation>184.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9757</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515404</id>
+    <displayName>LAUNIUPOKO INTK 376, HI US</displayName>
+    <minDate>1916-07-01</minDate>
+    <maxDate>2011-04-04</maxDate>
+    <latitude>20.85778</latitude>
+    <longitude>-156.61778</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6688</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515408</id>
+    <displayName>LAUNIUPOKO VLLG 372, HI US</displayName>
+    <minDate>1956-10-02</minDate>
+    <maxDate>2012-09-09</maxDate>
+    <latitude>20.8511</latitude>
+    <longitude>-156.6464</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9696</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00511494</id>
+    <displayName>LAUNIUPOKO VLLG 372, HI US</displayName>
+    <minDate>1942-01-01</minDate>
+    <maxDate>1956-09-30</maxDate>
+    <latitude>20.8511</latitude>
+    <longitude>-156.6464</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00515427</id>
+    <displayName>LAUPAHOEHOE 133.1, HI US</displayName>
+    <minDate>1993-11-01</minDate>
+    <maxDate>2001-09-30</maxDate>
+    <latitude>19.98778</latitude>
+    <longitude>-155.24083</longitude>
+    <elevation>140.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9962</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00154642</id>
+    <displayName>LAURA, KY US</displayName>
+    <minDate>1940-03-15</minDate>
+    <maxDate>1957-06-30</maxDate>
+    <latitude>37.75</latitude>
+    <longitude>-82.43333</longitude>
+    <elevation>207</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9561</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CLAR</id>
+    <displayName>LAURAL MOUNTAIN CALIFORNIA, CA US</displayName>
+    <minDate>1996-01-31</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.4783</latitude>
+    <longitude>-117.6989</longitude>
+    <elevation>1338.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9592</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAHR0008</id>
+    <displayName>LAUREL 0.8 N, VA US</displayName>
+    <minDate>2010-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.646</latitude>
+    <longitude>-77.5048</longitude>
+    <elevation>61.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTYS0020</id>
+    <displayName>LAUREL 1.1 E, MT US</displayName>
+    <minDate>2011-11-20</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>45.6767</latitude>
+    <longitude>-108.7487</longitude>
+    <elevation>1003.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00075217</id>
+    <displayName>LAUREL 2 SW, DE US</displayName>
+    <minDate>1953-01-23</minDate>
+    <maxDate>1953-12-23</maxDate>
+    <latitude>38.53333</latitude>
+    <longitude>-75.56667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDPG0033</id>
+    <displayName>LAUREL 2.0 S, MD US</displayName>
+    <minDate>2006-01-11</minDate>
+    <maxDate>2012-05-16</maxDate>
+    <latitude>39.0694</latitude>
+    <longitude>-76.8575</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8762</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAHR0003</id>
+    <displayName>LAUREL 2.5 SW, VA US</displayName>
+    <minDate>2007-05-01</minDate>
+    <maxDate>2010-06-27</maxDate>
+    <latitude>37.6067</latitude>
+    <longitude>-77.5367</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9679</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0003</id>
+    <displayName>LAUREL 2.7 E, MD US</displayName>
+    <minDate>2005-11-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.0998</latitude>
+    <longitude>-76.809</longitude>
+    <elevation>69.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00185111</id>
+    <displayName>LAUREL 3 W, MD US</displayName>
+    <minDate>1895-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.0847</latitude>
+    <longitude>-76.9002</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9214</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244894</id>
+    <displayName>LAUREL 3 WSW, MT US</displayName>
+    <minDate>1951-08-28</minDate>
+    <maxDate>1994-02-28</maxDate>
+    <latitude>45.66667</latitude>
+    <longitude>-108.81667</longitude>
+    <elevation>1011.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INFR0001</id>
+    <displayName>LAUREL 3.0 W, IN US</displayName>
+    <minDate>2005-08-10</minDate>
+    <maxDate>2011-06-06</maxDate>
+    <latitude>39.5073</latitude>
+    <longitude>-85.2451</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.181</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSJN0004</id>
+    <displayName>LAUREL 5.3 SE, MS US</displayName>
+    <minDate>2010-04-04</minDate>
+    <maxDate>2011-01-06</maxDate>
+    <latitude>31.6357</latitude>
+    <longitude>-89.085</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9281</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364835</id>
+    <displayName>LAUREL CAVERNS, PA US</displayName>
+    <minDate>2008-02-01</minDate>
+    <maxDate>2010-12-31</maxDate>
+    <latitude>39.7925</latitude>
+    <longitude>-79.70167</longitude>
+    <elevation>823</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8122</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0016H05S</id>
+    <displayName>LAUREL DRAW, NV US</displayName>
+    <minDate>1979-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.7833</latitude>
+    <longitude>-116.0333</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.878</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCSC0004</id>
+    <displayName>LAUREL HILL 0.4 NE, NC US</displayName>
+    <minDate>2009-09-16</minDate>
+    <maxDate>2011-09-26</maxDate>
+    <latitude>34.8103</latitude>
+    <longitude>-79.5409</longitude>
+    <elevation>78.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.471</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314844</id>
+    <displayName>LAUREL MOUNTAIN, NC US</displayName>
+    <minDate>1948-09-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>35.15</latitude>
+    <longitude>-83.08333</longitude>
+    <elevation>1299.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00354776</id>
+    <displayName>LAUREL MOUNTAIN, OR US</displayName>
+    <minDate>1978-03-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>44.92306</latitude>
+    <longitude>-123.575</longitude>
+    <elevation>1093.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364836</id>
+    <displayName>LAUREL MOUNTAIN, PA US</displayName>
+    <minDate>1970-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.2004</latitude>
+    <longitude>-79.1882</longitude>
+    <elevation>841.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7038</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCHN0003</id>
+    <displayName>LAUREL PARK 1.7 NW, NC US</displayName>
+    <minDate>2007-09-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3305</latitude>
+    <longitude>-82.5195</longitude>
+    <elevation>666.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9081</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00064096</id>
+    <displayName>LAUREL RESERVOIR, CT US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>41.16667</latitude>
+    <longitude>-73.55</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.91</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314852</id>
+    <displayName>LAUREL SPRINGS 1 MI, NC US</displayName>
+    <minDate>1940-03-29</minDate>
+    <maxDate>1949-10-31</maxDate>
+    <latitude>36.41667</latitude>
+    <longitude>-81.26667</longitude>
+    <elevation>900.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9518</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NLSP</id>
+    <displayName>LAUREL SPRINGS NORTH CAROLINA, NC US</displayName>
+    <minDate>2002-10-10</minDate>
+    <maxDate>2012-04-30</maxDate>
+    <latitude>36.4</latitude>
+    <longitude>-81.2833</longitude>
+    <elevation>914.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9078</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364839</id>
+    <displayName>LAUREL SUMMIT, PA US</displayName>
+    <minDate>1997-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1692</latitude>
+    <longitude>-79.1411</longitude>
+    <elevation>832.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00124867</id>
+    <displayName>LAUREL, IN US</displayName>
+    <minDate>1911-07-01</minDate>
+    <maxDate>1912-08-31</maxDate>
+    <latitude>39.5</latitude>
+    <longitude>-85.18333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00224939</id>
+    <displayName>LAUREL, MS US</displayName>
+    <minDate>1891-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.6755</latitude>
+    <longitude>-89.1236</longitude>
+    <elevation>68.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00254655</id>
+    <displayName>LAUREL, NE US</displayName>
+    <minDate>1940-08-01</minDate>
+    <maxDate>1999-06-30</maxDate>
+    <latitude>42.42639</latitude>
+    <longitude>-97.09111</longitude>
+    <elevation>454.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9905</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454540</id>
+    <displayName>LAUREL, WA US</displayName>
+    <minDate>1909-03-01</minDate>
+    <maxDate>1920-02-29</maxDate>
+    <latitude>45.933333</latitude>
+    <longitude>-121.416667</longitude>
+    <elevation>579.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00415089</id>
+    <displayName>LAURELES RANCH, TX US</displayName>
+    <minDate>1899-05-01</minDate>
+    <maxDate>1918-11-30</maxDate>
+    <latitude>27.583333</latitude>
+    <longitude>-97.966667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7416</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00284700</id>
+    <displayName>LAURELTON 1 E, NJ US</displayName>
+    <minDate>1957-11-01</minDate>
+    <maxDate>1961-04-30</maxDate>
+    <latitude>40.06667</latitude>
+    <longitude>-74.11667</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7377</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00364853</id>
+    <displayName>LAURELTON CENTER, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2006-04-30</maxDate>
+    <latitude>40.90167</latitude>
+    <longitude>-77.21389</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7618</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00334434</id>
+    <displayName>LAURELVILLE, OH US</displayName>
+    <minDate>1951-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.46667</latitude>
+    <longitude>-82.73333</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9885</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IAPC0003</id>
+    <displayName>LAURENS 0.3 WNW, IA US</displayName>
+    <minDate>2010-07-09</minDate>
+    <maxDate>2010-11-14</maxDate>
+    <latitude>42.8495</latitude>
+    <longitude>-94.8527</longitude>
+    <elevation>402</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7752</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOT0005</id>
+    <displayName>LAURENS 2.5 NW, NY US</displayName>
+    <minDate>2007-11-06</minDate>
+    <maxDate>2011-02-28</maxDate>
+    <latitude>42.5555</latitude>
+    <longitude>-75.1265</longitude>
+    <elevation>533.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2015</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00385017</id>
+    <displayName>LAURENS, SC US</displayName>
+    <minDate>1901-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>34.4988</latitude>
+    <longitude>-82.0219</longitude>
+    <elevation>179.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8588</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCM0009</id>
+    <displayName>LAURIE 4.2 SSW, MO US</displayName>
+    <minDate>2007-06-28</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.1467</latitude>
+    <longitude>-92.8583</longitude>
+    <elevation>202.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7885</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00454549</id>
+    <displayName>LAURIER, WA US</displayName>
+    <minDate>1910-04-01</minDate>
+    <maxDate>1986-10-31</maxDate>
+    <latitude>49</latitude>
+    <longitude>-118.23333</longitude>
+    <elevation>501.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8986</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00244896</id>
+    <displayName>LAURIN 2 NE, MT US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>45.3681</latitude>
+    <longitude>-112.0967</longitude>
+    <elevation>1584.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9759</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCSC0003</id>
+    <displayName>LAURINBURG 2.9 SW, NC US</displayName>
+    <minDate>2009-09-17</minDate>
+    <maxDate>2011-09-26</maxDate>
+    <latitude>34.7365</latitude>
+    <longitude>-79.5074</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3189</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCSC0002</id>
+    <displayName>LAURINBURG 5.7 SSW, NC US</displayName>
+    <minDate>2009-09-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6913</latitude>
+    <longitude>-79.5162</longitude>
+    <elevation>50</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9391</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCSC0001</id>
+    <displayName>LAURINBURG 7.6 NNW, NC US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>34.8741</latitude>
+    <longitude>-79.4977</longitude>
+    <elevation>92.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9923</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093782</id>
+    <displayName>LAURINBURG MAXTON AIRPORT, NC US</displayName>
+    <minDate>1998-06-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.79167</latitude>
+    <longitude>-79.36611</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00314860</id>
+    <displayName>LAURINBURG, NC US</displayName>
+    <minDate>1946-05-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7508</latitude>
+    <longitude>-79.4664</longitude>
+    <elevation>64</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00204668</id>
+    <displayName>LAURIUM, MI US</displayName>
+    <minDate>2008-05-01</minDate>
+    <maxDate>2012-09-27</maxDate>
+    <latitude>47.2376</latitude>
+    <longitude>-88.4418</longitude>
+    <elevation>367.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7405</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044255</id>
+    <displayName>LAVA BEDS NATIONAL MONUM, CA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>41.7019</latitude>
+    <longitude>-121.5011</longitude>
+    <elevation>1453.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9961</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00044838</id>
+    <displayName>LAVA BEDS NATIONAL MONUM, CA US</displayName>
+    <minDate>1959-10-07</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.7019</latitude>
+    <longitude>-121.5011</longitude>
+    <elevation>1453.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OLAV</id>
+    <displayName>LAVA BUTTE OREGON, OR US</displayName>
+    <minDate>1986-09-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>43.93</latitude>
+    <longitude>-121.33</longitude>
+    <elevation>1418.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9415</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00105143</id>
+    <displayName>LAVA HOT SPRINGS, ID US</displayName>
+    <minDate>1999-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.6194</latitude>
+    <longitude>-112.0066</longitude>
+    <elevation>1400.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9068</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000LAVA</id>
+    <displayName>LAVA POINT UTAH, UT US</displayName>
+    <minDate>1995-07-31</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>37.3917</latitude>
+    <longitude>-113.0389</longitude>
+    <elevation>2347</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9127</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJOC0008</id>
+    <displayName>LAVALLETTE 1.1 N, NJ US</displayName>
+    <minDate>2008-08-15</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>39.9847</latitude>
+    <longitude>-74.0726</longitude>
+    <elevation>0.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8003</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00024829</id>
+    <displayName>LAVEEN 3 SSE, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.3369</latitude>
+    <longitude>-112.1472</longitude>
+    <elevation>345.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZMR0111</id>
+    <displayName>LAVEEN 3.0 SE, AZ US</displayName>
+    <minDate>2009-10-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3364</latitude>
+    <longitude>-112.1497</longitude>
+    <elevation>340.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKBV0004</id>
+    <displayName>LAVERNE 17.1 WSW, OK US</displayName>
+    <minDate>2012-03-18</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36.596</latitude>
+    <longitude>-100.1739</longitude>
+    <elevation>718.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9404</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345047</id>
+    <displayName>LAVERNE 6 S, OK US</displayName>
+    <minDate>2010-08-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.62278</latitude>
+    <longitude>-99.89528</longitude>
+    <elevation>694</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00345045</id>
+    <displayName>LAVERNE, OK US</displayName>
+    <minDate>1939-02-24</minDate>
+    <maxDate>2010-09-07</maxDate>
+    <latitude>36.69917</latitude>
+    <longitude>-99.89667</longitude>
+    <elevation>644.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9621</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTMH0014</id>
+    <displayName>LAVINA 10.6 E, MT US</displayName>
+    <minDate>2010-10-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.2972</latitude>
+    <longitude>-108.7172</longitude>
+    <elevation>1070.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.261</coverage>
+  </station>
+</stationCollection>

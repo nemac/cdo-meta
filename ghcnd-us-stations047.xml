@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="47">
+  <station>
+    <id>GHCND:USC00291144</id>
+    <displayName>BOYS RANCH, NM US</displayName>
+    <minDate>1953-02-06</minDate>
+    <maxDate>1958-02-28</maxDate>
+    <latitude>34.43333</latitude>
+    <longitude>-106.78333</longitude>
+    <elevation>1439.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6025</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411000</id>
+    <displayName>BOYS RANCH, TX US</displayName>
+    <minDate>1964-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.53028</latitude>
+    <longitude>-102.25639</longitude>
+    <elevation>972.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7148</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00251052</id>
+    <displayName>BOYS TOWN, NE US</displayName>
+    <minDate>1964-06-01</minDate>
+    <maxDate>2001-06-30</maxDate>
+    <latitude>41.26222</latitude>
+    <longitude>-96.14194</longitude>
+    <elevation>378</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00481000</id>
+    <displayName>BOYSEN DAM, WY US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4052</latitude>
+    <longitude>-108.1633</longitude>
+    <elevation>1479.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241050</id>
+    <displayName>BOZEMAN 12 NE, MT US</displayName>
+    <minDate>1950-06-08</minDate>
+    <maxDate>1995-12-31</maxDate>
+    <latitude>45.81667</latitude>
+    <longitude>-110.88333</longitude>
+    <elevation>1813.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241046</id>
+    <displayName>BOZEMAN 2, MT US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>1898-01-31</maxDate>
+    <latitude>45.65</latitude>
+    <longitude>-111.05</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9973</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTGN0003</id>
+    <displayName>BOZEMAN 3.6 S, MT US</displayName>
+    <minDate>2007-06-07</minDate>
+    <maxDate>2008-06-30</maxDate>
+    <latitude>45.6253</latitude>
+    <longitude>-111.0534</longitude>
+    <elevation>1553.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8615</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTGN0008</id>
+    <displayName>BOZEMAN 4.4 S, MT US</displayName>
+    <minDate>2010-05-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.6138</latitude>
+    <longitude>-111.0566</longitude>
+    <elevation>1577.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9122</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241047</id>
+    <displayName>BOZEMAN 6 W EXPERIMENTAL FARM, MT US</displayName>
+    <minDate>1966-11-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.675</latitude>
+    <longitude>-111.155</longitude>
+    <elevation>1455.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTGN0009</id>
+    <displayName>BOZEMAN 7.3 W, MT US</displayName>
+    <minDate>2010-06-16</minDate>
+    <maxDate>2010-11-10</maxDate>
+    <latitude>45.6847</latitude>
+    <longitude>-111.1925</longitude>
+    <elevation>1426.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9459</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00024132</id>
+    <displayName>BOZEMAN GALLATIN FIELD, MT US</displayName>
+    <minDate>1941-01-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.788</latitude>
+    <longitude>-111.1608</longitude>
+    <elevation>1349.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241044</id>
+    <displayName>BOZEMAN MONTANA SU, MT US</displayName>
+    <minDate>1892-04-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.6622</latitude>
+    <longitude>-111.0452</longitude>
+    <elevation>1497.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000IBRA</id>
+    <displayName>BRACE FLAT IDAHO, ID US</displayName>
+    <minDate>1990-05-29</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.3497</latitude>
+    <longitude>-116.69</longitude>
+    <elevation>1493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9694</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILGY0012</id>
+    <displayName>BRACEVILLE 0.5 SSE, IL US</displayName>
+    <minDate>2010-09-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.217</latitude>
+    <longitude>-88.2633</longitude>
+    <elevation>177.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4454</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VABR0002</id>
+    <displayName>BRACEY 6.0 ESE, VA US</displayName>
+    <minDate>2011-04-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.571</latitude>
+    <longitude>-78.0406</longitude>
+    <elevation>62.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0010D35S</id>
+    <displayName>BRACKETT CREEK, MT US</displayName>
+    <minDate>1992-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.8833</latitude>
+    <longitude>-111.9333</longitude>
+    <elevation>2231.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0003</id>
+    <displayName>BRACKETTVILLE 0.1 NE, TX US</displayName>
+    <minDate>2008-05-07</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>29.3188</latitude>
+    <longitude>-100.4088</longitude>
+    <elevation>349.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4165</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0004</id>
+    <displayName>BRACKETTVILLE 0.8 S, TX US</displayName>
+    <minDate>2008-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.3058</latitude>
+    <longitude>-100.4121</longitude>
+    <elevation>338.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8572</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0002</id>
+    <displayName>BRACKETTVILLE 1.2 SW, TX US</displayName>
+    <minDate>2008-03-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.305</latitude>
+    <longitude>-100.4248</longitude>
+    <elevation>349</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9377</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0005</id>
+    <displayName>BRACKETTVILLE 13.6 N, TX US</displayName>
+    <minDate>2008-05-14</minDate>
+    <maxDate>2009-09-28</maxDate>
+    <latitude>29.5129</latitude>
+    <longitude>-100.375</longitude>
+    <elevation>519.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8529</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0015</id>
+    <displayName>BRACKETTVILLE 13.8 W, TX US</displayName>
+    <minDate>2011-10-09</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>29.3119</latitude>
+    <longitude>-100.6389</longitude>
+    <elevation>328</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3682</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0014</id>
+    <displayName>BRACKETTVILLE 15.1 ESE, TX US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2012-03-18</maxDate>
+    <latitude>29.2052</latitude>
+    <longitude>-100.1955</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0007</id>
+    <displayName>BRACKETTVILLE 2.0 W, TX US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2012-09-17</maxDate>
+    <latitude>29.3122</latitude>
+    <longitude>-100.4428</longitude>
+    <elevation>337.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2898</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXVV0004</id>
+    <displayName>BRACKETTVILLE 2.1 W, TX US</displayName>
+    <minDate>2008-05-14</minDate>
+    <maxDate>2011-06-22</maxDate>
+    <latitude>29.3216</latitude>
+    <longitude>-100.4457</longitude>
+    <elevation>344.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2123</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411013</id>
+    <displayName>BRACKETTVILLE 22 N, TX US</displayName>
+    <minDate>1978-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6101</latitude>
+    <longitude>-100.452</longitude>
+    <elevation>536.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0009</id>
+    <displayName>BRACKETTVILLE 3.6 W, TX US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2009-09-22</maxDate>
+    <latitude>29.3174</latitude>
+    <longitude>-100.471</longitude>
+    <elevation>337.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.81</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0013</id>
+    <displayName>BRACKETTVILLE 5.1 W, TX US</displayName>
+    <minDate>2009-12-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.3204</latitude>
+    <longitude>-100.4943</longitude>
+    <elevation>342</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.771</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0006</id>
+    <displayName>BRACKETTVILLE 5.8 ESE, TX US</displayName>
+    <minDate>2008-05-16</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>29.2863</latitude>
+    <longitude>-100.3212</longitude>
+    <elevation>335.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3377</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXKY0010</id>
+    <displayName>BRACKETTVILLE 6.0 NW, TX US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2011-05-12</maxDate>
+    <latitude>29.3671</latitude>
+    <longitude>-100.4924</longitude>
+    <elevation>344.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411007</id>
+    <displayName>BRACKETTVILLE, TX US</displayName>
+    <minDate>1897-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>29.3168</latitude>
+    <longitude>-100.4145</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8697</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360861</id>
+    <displayName>BRADDOCK LOCK 2, PA US</displayName>
+    <minDate>1943-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3916</latitude>
+    <longitude>-79.8594</longitude>
+    <elevation>222.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9896</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMA0010</id>
+    <displayName>BRADENTON 10.8 SE, FL US</displayName>
+    <minDate>2009-12-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.4309</latitude>
+    <longitude>-82.4152</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6784</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMA0011</id>
+    <displayName>BRADENTON 2.0 WSW, FL US</displayName>
+    <minDate>2010-07-10</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>27.4768</latitude>
+    <longitude>-82.6094</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLMA0008</id>
+    <displayName>BRADENTON 3.6 W, FL US</displayName>
+    <minDate>2008-07-26</minDate>
+    <maxDate>2010-03-13</maxDate>
+    <latitude>27.4942</latitude>
+    <longitude>-82.6373</longitude>
+    <elevation>7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6359</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080940</id>
+    <displayName>BRADENTON EXPERIMENT, FL US</displayName>
+    <minDate>1911-01-01</minDate>
+    <maxDate>1972-08-21</maxDate>
+    <latitude>27.48333</latitude>
+    <longitude>-82.55</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00080945</id>
+    <displayName>BRADENTON, FL US</displayName>
+    <minDate>1965-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.4467</latitude>
+    <longitude>-82.5014</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSK0003</id>
+    <displayName>BRADFORD 0.4 E, IL US</displayName>
+    <minDate>2009-12-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.1779</latitude>
+    <longitude>-89.6493</longitude>
+    <elevation>247.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9393</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300816</id>
+    <displayName>BRADFORD 1 NW, NY US</displayName>
+    <minDate>1943-07-16</minDate>
+    <maxDate>1961-02-27</maxDate>
+    <latitude>42.38333</latitude>
+    <longitude>-77.11667</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9324</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300817</id>
+    <displayName>BRADFORD 1 NW, NY US</displayName>
+    <minDate>1961-06-01</minDate>
+    <maxDate>1982-05-31</maxDate>
+    <latitude>42.38333</latitude>
+    <longitude>-77.11667</longitude>
+    <elevation>415.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMC0006</id>
+    <displayName>BRADFORD 1.4 NE, PA US</displayName>
+    <minDate>2012-04-14</minDate>
+    <maxDate>2012-11-23</maxDate>
+    <latitude>41.9746</latitude>
+    <longitude>-78.6195</longitude>
+    <elevation>437.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9866</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00270913</id>
+    <displayName>BRADFORD 2, NH US</displayName>
+    <minDate>1998-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2581</latitude>
+    <longitude>-72.0028</longitude>
+    <elevation>252.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHDR0001</id>
+    <displayName>BRADFORD 2.3 NW, OH US</displayName>
+    <minDate>2009-02-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.1526</latitude>
+    <longitude>-84.4613</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMC0004</id>
+    <displayName>BRADFORD 2.8 WSW, PA US</displayName>
+    <minDate>2008-09-24</minDate>
+    <maxDate>2012-05-05</maxDate>
+    <latitude>41.9456</latitude>
+    <longitude>-78.6915</longitude>
+    <elevation>467.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0985</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILBU0003</id>
+    <displayName>BRADFORD 2.9 NNE, IL US</displayName>
+    <minDate>2011-02-11</minDate>
+    <maxDate>2011-08-04</maxDate>
+    <latitude>41.2171</latitude>
+    <longitude>-89.6382</longitude>
+    <elevation>230.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360875</id>
+    <displayName>BRADFORD 3 NW HEDGEH, PA US</displayName>
+    <minDate>1951-01-25</minDate>
+    <maxDate>1954-10-31</maxDate>
+    <latitude>41.98333</latitude>
+    <longitude>-78.7</longitude>
+    <elevation>686.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00110868</id>
+    <displayName>BRADFORD 3 SSE, IL US</displayName>
+    <minDate>1980-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.146</latitude>
+    <longitude>-89.629</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9856</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSY0008</id>
+    <displayName>BRADFORD 3.2 NNE, NY US</displayName>
+    <minDate>2010-03-29</minDate>
+    <maxDate>2012-11-23</maxDate>
+    <latitude>42.4153</latitude>
+    <longitude>-77.0874</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6694</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360873</id>
+    <displayName>BRADFORD 4 NW HH SUM, PA US</displayName>
+    <minDate>1947-10-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>41.96667</latitude>
+    <longitude>-78.73333</longitude>
+    <elevation>702</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4131</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360868</id>
+    <displayName>BRADFORD 4 SW RES 5, PA US</displayName>
+    <minDate>1934-11-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8975</latitude>
+    <longitude>-78.7144</longitude>
+    <elevation>506</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9818</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VTOG0003</id>
+    <displayName>BRADFORD 4.4 WNW, VT US</displayName>
+    <minDate>2009-04-01</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>44.0215</latitude>
+    <longitude>-72.208</longitude>
+    <elevation>241.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3043</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARWH0009</id>
+    <displayName>BRADFORD 4.5 W, AR US</displayName>
+    <minDate>2012-07-07</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>35.4305</latitude>
+    <longitude>-91.5357</longitude>
+    <elevation>119.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360869</id>
+    <displayName>BRADFORD 5 S, PA US</displayName>
+    <minDate>1948-08-05</minDate>
+    <maxDate>1949-01-31</maxDate>
+    <latitude>41.88333</latitude>
+    <longitude>-78.65</longitude>
+    <elevation>463.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7833</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSK0005</id>
+    <displayName>BRADFORD 6.1 W, IL US</displayName>
+    <minDate>2011-08-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>41.1877</latitude>
+    <longitude>-89.7728</longitude>
+    <elevation>237.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9262</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAMC0002</id>
+    <displayName>BRADFORD 6.8 S, PA US</displayName>
+    <minDate>2007-07-22</minDate>
+    <maxDate>2010-05-31</maxDate>
+    <latitude>41.8623</latitude>
+    <longitude>-78.6373</longitude>
+    <elevation>659.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2201</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARIN0009</id>
+    <displayName>BRADFORD 9.7 NNW, AR US</displayName>
+    <minDate>2012-06-20</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.5449</latitude>
+    <longitude>-91.5416</longitude>
+    <elevation>213.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360867</id>
+    <displayName>BRADFORD CENTRAL FIR, PA US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>2009-03-26</maxDate>
+    <latitude>41.95</latitude>
+    <longitude>-78.65</longitude>
+    <elevation>457.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041031</id>
+    <displayName>BRADFORD RANCH, CA US</displayName>
+    <minDate>1958-12-01</minDate>
+    <maxDate>1963-03-31</maxDate>
+    <latitude>33.48333</latitude>
+    <longitude>-116.8</longitude>
+    <elevation>1022</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9804</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004751</id>
+    <displayName>BRADFORD REGIONAL AIRPORT, PA US</displayName>
+    <minDate>1957-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.8</latitude>
+    <longitude>-78.6333</longitude>
+    <elevation>652.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030872</id>
+    <displayName>BRADFORD, AR US</displayName>
+    <minDate>1945-03-09</minDate>
+    <maxDate>1960-07-31</maxDate>
+    <latitude>35.41667</latitude>
+    <longitude>-91.46667</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014816</id>
+    <displayName>BRADFORD, IL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1959-01-31</maxDate>
+    <latitude>41.23333</latitude>
+    <longitude>-89.61667</longitude>
+    <elevation>242</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00120898</id>
+    <displayName>BRADFORD, IN US</displayName>
+    <minDate>1949-03-01</minDate>
+    <maxDate>1950-12-21</maxDate>
+    <latitude>38.36667</latitude>
+    <longitude>-86.06667</longitude>
+    <elevation>228.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.292</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00270910</id>
+    <displayName>BRADFORD, NH US</displayName>
+    <minDate>1938-09-01</minDate>
+    <maxDate>1998-04-30</maxDate>
+    <latitude>43.25861</latitude>
+    <longitude>-71.98</longitude>
+    <elevation>286.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9519</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYCS0001</id>
+    <displayName>BRADFORDSVILLE 8.5 ENE, KY US</displayName>
+    <minDate>2008-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5245</latitude>
+    <longitude>-84.9965</longitude>
+    <elevation>287.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150940</id>
+    <displayName>BRADFORDSVILLE, KY US</displayName>
+    <minDate>1962-03-16</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>37.495</latitude>
+    <longitude>-85.1516</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9399</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARLF0003</id>
+    <displayName>BRADLEY 7.8 W, AR US</displayName>
+    <minDate>2012-03-13</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.1181</latitude>
+    <longitude>-93.7902</longitude>
+    <elevation>62.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9318</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0001</id>
+    <displayName>BRADLEY BEACH 0.2 ESE, NJ US</displayName>
+    <minDate>2008-12-31</minDate>
+    <maxDate>2010-11-26</maxDate>
+    <latitude>40.201</latitude>
+    <longitude>-74.009</longitude>
+    <elevation>5.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3348</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBDY</id>
+    <displayName>BRADLEY CALIFORNIA, CA US</displayName>
+    <minDate>2002-12-13</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.8644</latitude>
+    <longitude>-120.8031</longitude>
+    <elevation>163.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041034</id>
+    <displayName>BRADLEY, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1971-11-30</maxDate>
+    <latitude>35.86667</latitude>
+    <longitude>-120.8</longitude>
+    <elevation>164.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3536</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230878</id>
+    <displayName>BRADLEYVILLE, MO US</displayName>
+    <minDate>1944-11-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.78333</latitude>
+    <longitude>-92.91667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9715</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHWD0008</id>
+    <displayName>BRADNER 4.2 N, OH US</displayName>
+    <minDate>2009-04-26</minDate>
+    <maxDate>2011-01-03</maxDate>
+    <latitude>41.385</latitude>
+    <longitude>-83.4382</longitude>
+    <elevation>207.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6068</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york031</id>
+    <displayName>BRADSHAW 10.1 NNE, NE US</displayName>
+    <minDate>2007-08-10</minDate>
+    <maxDate>2008-11-09</maxDate>
+    <latitude>41.0261</latitude>
+    <longitude>-97.7034</longitude>
+    <elevation>516.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5633</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10york020</id>
+    <displayName>BRADSHAW 6.4 N, NE US</displayName>
+    <minDate>2007-03-21</minDate>
+    <maxDate>2012-12-28</maxDate>
+    <latitude>40.9758</latitude>
+    <longitude>-97.7336</longitude>
+    <elevation>524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00021508</id>
+    <displayName>BRADSHAW ARMY AIR FIELD, HI US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2012-03-22</maxDate>
+    <latitude>19.76</latitude>
+    <longitude>-155.55361</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5555</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MBRA</id>
+    <displayName>BRADSHAW CREEK MONTANA, MT US</displayName>
+    <minDate>1991-10-25</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.0553</latitude>
+    <longitude>-105.9483</longitude>
+    <elevation>1197.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9644</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00251065</id>
+    <displayName>BRADSHAW, NE US</displayName>
+    <minDate>1898-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8836</latitude>
+    <longitude>-97.7497</longitude>
+    <elevation>524.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMCC007</id>
+    <displayName>BRADY 2.2 ESE, TX US</displayName>
+    <minDate>2012-05-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.1186</latitude>
+    <longitude>-99.3427</longitude>
+    <elevation>532.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241081</id>
+    <displayName>BRADY 27 ENE, MT US</displayName>
+    <minDate>1986-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.075</latitude>
+    <longitude>-111.2597</longitude>
+    <elevation>1013.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9741</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10linc014</id>
+    <displayName>BRADY 5.6 ENE, NE US</displayName>
+    <minDate>2007-05-01</minDate>
+    <maxDate>2011-07-16</maxDate>
+    <latitude>41.0743</latitude>
+    <longitude>-100.2847</longitude>
+    <elevation>851</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2191</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241080</id>
+    <displayName>BRADY AZNOE, MT US</displayName>
+    <minDate>1912-03-01</minDate>
+    <maxDate>1982-07-31</maxDate>
+    <latitude>47.95</latitude>
+    <longitude>-111.33333</longitude>
+    <elevation>1015.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9576</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411017</id>
+    <displayName>BRADY, TX US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>31.1444</latitude>
+    <longitude>-99.3491</longitude>
+    <elevation>521.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6564</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00091155</id>
+    <displayName>BRAG, GA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1899-08-31</maxDate>
+    <latitude>32.45</latitude>
+    <longitude>-81.666667</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.841</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230881</id>
+    <displayName>BRAGG CITY, MO US</displayName>
+    <minDate>1931-08-01</minDate>
+    <maxDate>1943-09-30</maxDate>
+    <latitude>36.28333</latitude>
+    <longitude>-89.91667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9426</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341067</id>
+    <displayName>BRAGGS, OK US</displayName>
+    <minDate>1943-09-04</minDate>
+    <maxDate>1981-01-31</maxDate>
+    <latitude>35.66667</latitude>
+    <longitude>-95.2</longitude>
+    <elevation>173.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8382</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10butl008</id>
+    <displayName>BRAINARD 1.8 SSE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.158</latitude>
+    <longitude>-96.9952</longitude>
+    <elevation>490.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9801</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCW0008</id>
+    <displayName>BRAINERD 11.5 E, MN US</displayName>
+    <minDate>2012-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.3856</latitude>
+    <longitude>-93.9572</longitude>
+    <elevation>374.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9317</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNCW0003</id>
+    <displayName>BRAINERD 6.9 NW, MN US</displayName>
+    <minDate>2010-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.4238</latitude>
+    <longitude>-94.3033</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094938</id>
+    <displayName>BRAINERD CROW WING CO AIRPORT, MN US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.40472</latitude>
+    <longitude>-94.13083</longitude>
+    <elevation>372.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9891</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MBRN</id>
+    <displayName>BRAINERD MINNESOTA, MN US</displayName>
+    <minDate>2003-05-07</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.4006</latitude>
+    <longitude>-94.1272</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9269</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210934</id>
+    <displayName>BRAINERD, MN US</displayName>
+    <minDate>1898-11-01</minDate>
+    <maxDate>1955-04-30</maxDate>
+    <latitude>46.36667</latitude>
+    <longitude>-94.18333</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8498</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210939</id>
+    <displayName>BRAINERD, MN US</displayName>
+    <minDate>1908-01-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.3433</latitude>
+    <longitude>-94.2086</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.605</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00341075</id>
+    <displayName>BRAMAN, OK US</displayName>
+    <minDate>2001-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.9219</latitude>
+    <longitude>-97.3351</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461050</id>
+    <displayName>BRAMWELL, WV US</displayName>
+    <minDate>1939-10-01</minDate>
+    <maxDate>1941-12-31</maxDate>
+    <latitude>37.333333</latitude>
+    <longitude>-81.3</longitude>
+    <elevation>701</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2418</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CBRA</id>
+    <displayName>BRANCH MOUNTAIN CALIFORNIA, CA US</displayName>
+    <minDate>1996-05-14</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>35.1889</latitude>
+    <longitude>-120.0833</longitude>
+    <elevation>1149.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9232</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461075</id>
+    <displayName>BRANCHLAND 1 N, WV US</displayName>
+    <minDate>1940-01-01</minDate>
+    <maxDate>2012-03-18</maxDate>
+    <latitude>38.2348</latitude>
+    <longitude>-82.2033</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9494</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00440975</id>
+    <displayName>BRANCHVILLE 1 S, VA US</displayName>
+    <minDate>1980-09-01</minDate>
+    <maxDate>1982-05-31</maxDate>
+    <latitude>36.56667</latitude>
+    <longitude>-77.25</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6207</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00380972</id>
+    <displayName>BRANCHVILLE 6 SW, SC US</displayName>
+    <minDate>1947-01-01</minDate>
+    <maxDate>2000-04-30</maxDate>
+    <latitude>33.18306</latitude>
+    <longitude>-80.80972</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9618</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00280978</id>
+    <displayName>BRANCHVILLE, NJ US</displayName>
+    <minDate>1954-08-01</minDate>
+    <maxDate>1982-06-30</maxDate>
+    <latitude>41.15</latitude>
+    <longitude>-74.75</longitude>
+    <elevation>177.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9925</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241084</id>
+    <displayName>BRANDENBERG, MT US</displayName>
+    <minDate>1956-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>45.8161</latitude>
+    <longitude>-106.2313</longitude>
+    <elevation>844.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9873</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00150955</id>
+    <displayName>BRANDENBURG, KY US</displayName>
+    <minDate>1999-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.956</latitude>
+    <longitude>-86.1162</longitude>
+    <elevation>187.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSRN0003</id>
+    <displayName>BRANDON 1.9 NE, MS US</displayName>
+    <minDate>2008-07-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.2987</latitude>
+    <longitude>-89.9799</longitude>
+    <elevation>138.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9598</coverage>
+  </station>
+</stationCollection>

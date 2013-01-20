@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="376">
+  <station>
+    <id>GHCND:US1TXGP0057</id>
+    <displayName>SEGUIN 7.0 SSW, TX US</displayName>
+    <minDate>2010-11-29</minDate>
+    <maxDate>2012-12-16</maxDate>
+    <latitude>29.4865</latitude>
+    <longitude>-98.0147</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5113</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXGP0064</id>
+    <displayName>SEGUIN 7.6 N, TX US</displayName>
+    <minDate>2012-02-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.6879</latitude>
+    <longitude>-97.9916</longitude>
+    <elevation>186.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.957</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418186</id>
+    <displayName>SEGUIN, TX US</displayName>
+    <minDate>1922-12-01</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>29.58333</latitude>
+    <longitude>-97.95</longitude>
+    <elevation>156.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0070</id>
+    <displayName>SEIBERT 0.5 NW, CO US</displayName>
+    <minDate>2000-06-18</minDate>
+    <maxDate>2003-06-30</maxDate>
+    <latitude>39.2973</latitude>
+    <longitude>-102.8816</longitude>
+    <elevation>1435.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1146</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0058</id>
+    <displayName>SEIBERT 12 NE, CO US</displayName>
+    <minDate>2000-05-19</minDate>
+    <maxDate>2005-05-13</maxDate>
+    <latitude>39.4331</latitude>
+    <longitude>-102.74</longitude>
+    <elevation>1371</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COKC0083</id>
+    <displayName>SEIBERT 6 S, CO US</displayName>
+    <minDate>2003-04-16</minDate>
+    <maxDate>2010-08-03</maxDate>
+    <latitude>39.2117</latitude>
+    <longitude>-102.8792</longitude>
+    <elevation>1445.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3318</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057519</id>
+    <displayName>SEIBERT, CO US</displayName>
+    <minDate>1949-05-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.295</latitude>
+    <longitude>-102.8676</longitude>
+    <elevation>1444.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.195</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348029</id>
+    <displayName>SEILING 3 N, OK US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.18222</latitude>
+    <longitude>-98.92083</longitude>
+    <elevation>510.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1417</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348027</id>
+    <displayName>SEILING 7 WNW MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>36.19028</latitude>
+    <longitude>-99.04028</longitude>
+    <elevation>545</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9371</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0023D02S</id>
+    <displayName>SEINE CREEK, OR US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.5167</latitude>
+    <longitude>-123.2833</longitude>
+    <elevation>627.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.86</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367926</id>
+    <displayName>SEISHOLTZVILLE, PA US</displayName>
+    <minDate>1899-12-01</minDate>
+    <maxDate>1910-04-30</maxDate>
+    <latitude>40.468667</latitude>
+    <longitude>-75.6025</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8483</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00387775</id>
+    <displayName>SEIVERN, SC US</displayName>
+    <minDate>1901-09-01</minDate>
+    <maxDate>1906-08-31</maxDate>
+    <latitude>33.633333</latitude>
+    <longitude>-81.4</longitude>
+    <elevation>146.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9376</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457522</id>
+    <displayName>SELAH 2 NE, WA US</displayName>
+    <minDate>1998-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.6722</latitude>
+    <longitude>-120.4994</longitude>
+    <elevation>341.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAYK0017</id>
+    <displayName>SELAH 3.0 NE, WA US</displayName>
+    <minDate>2012-07-15</minDate>
+    <maxDate>2012-12-02</maxDate>
+    <latitude>46.6907</latitude>
+    <longitude>-120.4949</longitude>
+    <elevation>352.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.844</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAYK0003</id>
+    <displayName>SELAH 3.6 NW, WA US</displayName>
+    <minDate>2008-06-01</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>46.6964</latitude>
+    <longitude>-120.5822</longitude>
+    <elevation>472.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5736</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ASEL</id>
+    <displayName>SELAWIK ALASKA, AK US</displayName>
+    <minDate>1991-06-14</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>66.6033</latitude>
+    <longitude>-159.1125</longitude>
+    <elevation>32</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8641</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508341</id>
+    <displayName>SELAWIK, AK US</displayName>
+    <minDate>1953-01-03</minDate>
+    <maxDate>1955-04-15</maxDate>
+    <latitude>66.6</latitude>
+    <longitude>-160.03333</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDAA0028</id>
+    <displayName>SELBY ON THE BAY 0.4 N, MD US</displayName>
+    <minDate>2008-06-28</minDate>
+    <maxDate>2010-01-31</maxDate>
+    <latitude>38.921</latitude>
+    <longitude>-76.5217</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6569</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397545</id>
+    <displayName>SELBY, SD US</displayName>
+    <minDate>1907-09-24</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.51</latitude>
+    <longitude>-100.0355</longitude>
+    <elevation>579.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.617</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00078269</id>
+    <displayName>SELBYVILLE, DE US</displayName>
+    <minDate>1954-01-01</minDate>
+    <maxDate>1970-07-31</maxDate>
+    <latitude>38.46667</latitude>
+    <longitude>-75.21667</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147335</id>
+    <displayName>SELDEN 11 NW, KS US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>39.6735</latitude>
+    <longitude>-100.6871</longitude>
+    <elevation>877.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9613</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OSEL</id>
+    <displayName>SELDOM CREEK OREGON, OR US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>42.4075</latitude>
+    <longitude>-122.1914</longitude>
+    <elevation>1485.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9369</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00025516</id>
+    <displayName>SELDOVIA AIRPORT, AK US</displayName>
+    <minDate>1997-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>59.44333</latitude>
+    <longitude>-151.70167</longitude>
+    <elevation>8.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9841</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508355</id>
+    <displayName>SELDOVIA DOCK, AK US</displayName>
+    <minDate>1967-06-01</minDate>
+    <maxDate>1975-06-30</maxDate>
+    <latitude>59.43333</latitude>
+    <longitude>-151.7</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7199</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00508350</id>
+    <displayName>SELDOVIA, AK US</displayName>
+    <minDate>1916-12-01</minDate>
+    <maxDate>1964-06-30</maxDate>
+    <latitude>59.43333</latitude>
+    <longitude>-151.7</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1036</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327952</id>
+    <displayName>SELFRIDGE, ND US</displayName>
+    <minDate>1919-01-01</minDate>
+    <maxDate>1975-04-30</maxDate>
+    <latitude>46.06667</latitude>
+    <longitude>-100.91667</longitude>
+    <elevation>665.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027720</id>
+    <displayName>SELIGMAN 13 SSW, AZ US</displayName>
+    <minDate>1962-07-01</minDate>
+    <maxDate>1982-01-30</maxDate>
+    <latitude>35.13333</latitude>
+    <longitude>-112.91667</longitude>
+    <elevation>1598.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9611</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOBY0003</id>
+    <displayName>SELIGMAN 3.0 N, MO US</displayName>
+    <minDate>2006-07-10</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.5665</latitude>
+    <longitude>-93.9382</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9425</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027718</id>
+    <displayName>SELIGMAN AIRPORT, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-03-31</maxDate>
+    <latitude>35.3</latitude>
+    <longitude>-113.16667</longitude>
+    <elevation>1702</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6365</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027716</id>
+    <displayName>SELIGMAN, AZ US</displayName>
+    <minDate>1904-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.3322</latitude>
+    <longitude>-112.8797</longitude>
+    <elevation>1600.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9327</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237645</id>
+    <displayName>SELIGMAN, MO US</displayName>
+    <minDate>1921-11-01</minDate>
+    <maxDate>2009-02-27</maxDate>
+    <latitude>36.54194</latitude>
+    <longitude>-93.93667</longitude>
+    <elevation>466.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367931</id>
+    <displayName>SELINSGROVE 2 S, PA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7831</latitude>
+    <longitude>-76.8617</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8239</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PASN0002</id>
+    <displayName>SELINSGROVE 2.6 WNW, PA US</displayName>
+    <minDate>2012-07-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8173</latitude>
+    <longitude>-76.9097</longitude>
+    <elevation>178.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00014770</id>
+    <displayName>SELINSGROVE PENN VALLEY AIRPORT, PA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.82056</latitude>
+    <longitude>-76.86417</longitude>
+    <elevation>135.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCK0024</id>
+    <displayName>SELLERSBURG 0.5 SSE, IN US</displayName>
+    <minDate>2010-03-01</minDate>
+    <maxDate>2012-06-18</maxDate>
+    <latitude>38.3842</latitude>
+    <longitude>-85.7532</longitude>
+    <elevation>143.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3127</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INCK0010</id>
+    <displayName>SELLERSBURG 1.4 SW, IN US</displayName>
+    <minDate>2006-06-04</minDate>
+    <maxDate>2011-01-01</maxDate>
+    <latitude>38.3773</latitude>
+    <longitude>-85.7774</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6115</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INFD0016</id>
+    <displayName>SELLERSBURG 2.1 SW, IN US</displayName>
+    <minDate>2010-07-05</minDate>
+    <maxDate>2012-11-02</maxDate>
+    <latitude>38.3698</latitude>
+    <longitude>-85.785</longitude>
+    <elevation>160.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INFD0020</id>
+    <displayName>SELLERSBURG 3.0 SW, IN US</displayName>
+    <minDate>2011-03-23</minDate>
+    <maxDate>2012-12-29</maxDate>
+    <latitude>38.3616</latitude>
+    <longitude>-85.7991</longitude>
+    <elevation>151.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3102</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367938</id>
+    <displayName>SELLERSVILLE, PA US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3589</latitude>
+    <longitude>-75.3222</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3016</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ASES</id>
+    <displayName>SELLES ARIZONA, AZ US</displayName>
+    <minDate>2002-03-27</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>31.91</latitude>
+    <longitude>-111.8975</longitude>
+    <elevation>721.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8551</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027726</id>
+    <displayName>SELLS, AZ US</displayName>
+    <minDate>1911-01-01</minDate>
+    <maxDate>2009-12-31</maxDate>
+    <latitude>31.9123</latitude>
+    <longitude>-111.885</longitude>
+    <elevation>714.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5293</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427735</id>
+    <displayName>SELLS, UT US</displayName>
+    <minDate>1919-02-01</minDate>
+    <maxDate>1920-12-31</maxDate>
+    <latitude>40.4</latitude>
+    <longitude>-112.75</longitude>
+    <elevation>1341.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.46</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR049</id>
+    <displayName>SELMA 0.6 WSW, TX US</displayName>
+    <minDate>2007-10-02</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>29.5821</latitude>
+    <longitude>-98.3257</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6883</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXBXR019</id>
+    <displayName>SELMA 0.9 WSW, TX US</displayName>
+    <minDate>2007-07-13</minDate>
+    <maxDate>2012-10-10</maxDate>
+    <latitude>29.5838</latitude>
+    <longitude>-98.331</longitude>
+    <elevation>239.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2655</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALDS0001</id>
+    <displayName>SELMA 1.5 WSW, AL US</displayName>
+    <minDate>2008-04-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.4042</latitude>
+    <longitude>-87.0546</longitude>
+    <elevation>46</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063858</id>
+    <displayName>SELMA 13 WNW, AL US</displayName>
+    <minDate>2005-05-27</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.4567</latitude>
+    <longitude>-87.2422</longitude>
+    <elevation>58.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357668</id>
+    <displayName>SELMA 4 E, OR US</displayName>
+    <minDate>1998-02-01</minDate>
+    <maxDate>2005-10-06</maxDate>
+    <latitude>42.2783</latitude>
+    <longitude>-123.646</longitude>
+    <elevation>402.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357670</id>
+    <displayName>SELMA 4 W, OR US</displayName>
+    <minDate>1960-11-12</minDate>
+    <maxDate>1961-05-31</maxDate>
+    <latitude>42.28333</latitude>
+    <longitude>-123.7</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00063897</id>
+    <displayName>SELMA 6 SSE, AL US</displayName>
+    <minDate>2007-03-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.3349</latitude>
+    <longitude>-86.9787</longitude>
+    <elevation>47.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCJH0026</id>
+    <displayName>SELMA 7.0 NNE, NC US</displayName>
+    <minDate>2008-07-03</minDate>
+    <maxDate>2012-12-13</maxDate>
+    <latitude>35.6343</latitude>
+    <longitude>-78.2546</longitude>
+    <elevation>64.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00017366</id>
+    <displayName>SELMA, AL US</displayName>
+    <minDate>1895-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.411</latitude>
+    <longitude>-87.0144</longitude>
+    <elevation>44.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9845</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317768</id>
+    <displayName>SELMA, NC US</displayName>
+    <minDate>1894-02-01</minDate>
+    <maxDate>1911-11-30</maxDate>
+    <latitude>35.533333</latitude>
+    <longitude>-78.3</longitude>
+    <elevation>68.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9194</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00408160</id>
+    <displayName>SELMER, TN US</displayName>
+    <minDate>1923-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.1647</latitude>
+    <longitude>-88.5994</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9565</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00108246</id>
+    <displayName>SELWAY LODGE, ID US</displayName>
+    <minDate>2000-04-01</minDate>
+    <maxDate>2012-10-24</maxDate>
+    <latitude>46.0081</latitude>
+    <longitude>-114.8442</longitude>
+    <elevation>786.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.583</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488070</id>
+    <displayName>SEMINOE DAM, WY US</displayName>
+    <minDate>1948-08-05</minDate>
+    <maxDate>2011-08-31</maxDate>
+    <latitude>42.1569</latitude>
+    <longitude>-106.9153</longitude>
+    <elevation>2084.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.771</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00488074</id>
+    <displayName>SEMINOE RSVR USBR, WY US</displayName>
+    <minDate>2012-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>42.1555</latitude>
+    <longitude>-106.9138</longitude>
+    <elevation>2126</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0021</id>
+    <displayName>SEMINOLE 1.1 SSE, FL US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2010-11-18</maxDate>
+    <latitude>27.8264</latitude>
+    <longitude>-82.7824</longitude>
+    <elevation>11</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLPN0005</id>
+    <displayName>SEMINOLE 2.3 NNW, FL US</displayName>
+    <minDate>2007-09-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>27.8705</latitude>
+    <longitude>-82.8039</longitude>
+    <elevation>21</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9406</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKSM0003</id>
+    <displayName>SEMINOLE 2.6 WNW, OK US</displayName>
+    <minDate>2011-10-31</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2448</latitude>
+    <longitude>-96.6944</longitude>
+    <elevation>288.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9257</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00348042</id>
+    <displayName>SEMINOLE, OK US</displayName>
+    <minDate>1933-02-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2316</latitude>
+    <longitude>-96.653</longitude>
+    <elevation>279.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9604</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00418201</id>
+    <displayName>SEMINOLE, TX US</displayName>
+    <minDate>1922-08-01</minDate>
+    <maxDate>2012-05-08</maxDate>
+    <latitude>32.7131</latitude>
+    <longitude>-102.6468</longitude>
+    <elevation>1011</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9548</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MSTT0001</id>
+    <displayName>SENATOBIA 1.5 S, MS US</displayName>
+    <minDate>2008-07-31</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.5959</latitude>
+    <longitude>-89.9709</longitude>
+    <elevation>100.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9969</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227921</id>
+    <displayName>SENATOBIA, MS US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>34.6314</latitude>
+    <longitude>-89.9592</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7021</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10thom012</id>
+    <displayName>SENECA 0.1 WSW, NE US</displayName>
+    <minDate>2009-06-10</minDate>
+    <maxDate>2012-05-07</maxDate>
+    <latitude>42.0428</latitude>
+    <longitude>-100.8355</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2192</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSNM0004</id>
+    <displayName>SENECA 0.4 NNE, KS US</displayName>
+    <minDate>2011-10-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8413</latitude>
+    <longitude>-96.0616</longitude>
+    <elevation>340.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9441</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0024</id>
+    <displayName>SENECA 0.4 SSW, SC US</displayName>
+    <minDate>2010-02-03</minDate>
+    <maxDate>2011-10-12</maxDate>
+    <latitude>34.6805</latitude>
+    <longitude>-82.9618</longitude>
+    <elevation>292.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2593</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSNM0001</id>
+    <displayName>SENECA 0.5 N, KS US</displayName>
+    <minDate>2005-07-13</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>39.8422</latitude>
+    <longitude>-96.0664</longitude>
+    <elevation>352</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.281</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAVN0005</id>
+    <displayName>SENECA 0.7 NNE, PA US</displayName>
+    <minDate>2009-04-29</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3846</latitude>
+    <longitude>-79.6979</longitude>
+    <elevation>459.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4864</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLS0050</id>
+    <displayName>SENECA 1.2 NNE, IL US</displayName>
+    <minDate>2012-07-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3193</latitude>
+    <longitude>-88.6048</longitude>
+    <elevation>156.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9714</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLS0038</id>
+    <displayName>SENECA 1.3 NE, IL US</displayName>
+    <minDate>2009-11-03</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>41.3178</latitude>
+    <longitude>-88.5969</longitude>
+    <elevation>153</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6943</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0020</id>
+    <displayName>SENECA 1.4 E, SC US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.6899</latitude>
+    <longitude>-82.9328</longitude>
+    <elevation>299.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9779</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILLS0005</id>
+    <displayName>SENECA 1.5 SSW, IL US</displayName>
+    <minDate>2007-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2828</latitude>
+    <longitude>-88.6235</longitude>
+    <elevation>197.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0008</id>
+    <displayName>SENECA 1.5 SW, SC US</displayName>
+    <minDate>2008-08-07</minDate>
+    <maxDate>2012-08-09</maxDate>
+    <latitude>34.6699</latitude>
+    <longitude>-82.9758</longitude>
+    <elevation>267.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1742</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027741</id>
+    <displayName>SENECA 3 NW, AZ US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-03</maxDate>
+    <latitude>33.78333</latitude>
+    <longitude>-110.53333</longitude>
+    <elevation>1501.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8914</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0014</id>
+    <displayName>SENECA 3.0 ENE, SC US</displayName>
+    <minDate>2008-05-15</minDate>
+    <maxDate>2009-07-30</maxDate>
+    <latitude>34.6994</latitude>
+    <longitude>-82.9083</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9729</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0023</id>
+    <displayName>SENECA 3.7 NNW, SC US</displayName>
+    <minDate>2010-02-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7328</latitude>
+    <longitude>-82.9881</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0007</id>
+    <displayName>SENECA 4.9 N, SC US</displayName>
+    <minDate>2009-01-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.7568</latitude>
+    <longitude>-82.9571</longitude>
+    <elevation>280.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9396</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCOC0018</id>
+    <displayName>SENECA 5.5 SSE, SC US</displayName>
+    <minDate>2009-05-19</minDate>
+    <maxDate>2010-01-15</maxDate>
+    <latitude>34.6197</latitude>
+    <longitude>-82.9046</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7645</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA119</id>
+    <displayName>SENECA 5.8 SSE, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.7638</latitude>
+    <longitude>-94.5608</longitude>
+    <elevation>334.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147339</id>
+    <displayName>SENECA 8 NW, KS US</displayName>
+    <minDate>2011-05-17</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>39.9566</latitude>
+    <longitude>-96.1082</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9734</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00468051</id>
+    <displayName>SENECA STATE FOREST, WV US</displayName>
+    <minDate>1938-05-01</minDate>
+    <maxDate>2000-03-31</maxDate>
+    <latitude>38.33333</latitude>
+    <longitude>-79.925</longitude>
+    <elevation>746.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6284</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00147338</id>
+    <displayName>SENECA, KS US</displayName>
+    <minDate>1892-05-16</minDate>
+    <maxDate>1903-03-31</maxDate>
+    <latitude>39.783333</latitude>
+    <longitude>-96.033333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5094</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00237656</id>
+    <displayName>SENECA, OK US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>2012-12-12</maxDate>
+    <latitude>36.8336</latitude>
+    <longitude>-94.6248</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3739</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357675</id>
+    <displayName>SENECA, OR US</displayName>
+    <minDate>1908-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.1383</latitude>
+    <longitude>-118.975</longitude>
+    <elevation>1420.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7456</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00397551</id>
+    <displayName>SENECA, SD US</displayName>
+    <minDate>2000-11-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>45.06056</latitude>
+    <longitude>-99.51</longitude>
+    <elevation>582.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337559</id>
+    <displayName>SENECAVILLE LAKE, OH US</displayName>
+    <minDate>1939-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9222</latitude>
+    <longitude>-81.4347</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MSEN</id>
+    <displayName>SENEY MICHIGAN, MI US</displayName>
+    <minDate>2002-09-16</minDate>
+    <maxDate>2012-07-24</maxDate>
+    <latitude>46.2403</latitude>
+    <longitude>-85.9428</longitude>
+    <elevation>221.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203123</id>
+    <displayName>SENEY WILDLIFE REF, MI US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1961-08-31</maxDate>
+    <latitude>46.28333</latitude>
+    <longitude>-85.95</longitude>
+    <elevation>216.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00207515</id>
+    <displayName>SENEY WILDLIFE REF, MI US</displayName>
+    <minDate>1961-09-01</minDate>
+    <maxDate>2001-03-31</maxDate>
+    <latitude>46.28333</latitude>
+    <longitude>-85.95</longitude>
+    <elevation>216.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9169</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACW0014</id>
+    <displayName>SENOIA 0.9 ENE, GA US</displayName>
+    <minDate>2012-03-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.3143</latitude>
+    <longitude>-84.5368</longitude>
+    <elevation>253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7079</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAFY0004</id>
+    <displayName>SENOIA 2.2 E, GA US</displayName>
+    <minDate>2008-06-29</minDate>
+    <maxDate>2009-02-27</maxDate>
+    <latitude>33.312</latitude>
+    <longitude>-84.5138</longitude>
+    <elevation>241.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACW0011</id>
+    <displayName>SENOIA 3.0 SW, GA US</displayName>
+    <minDate>2011-03-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2849</latitude>
+    <longitude>-84.5945</longitude>
+    <elevation>286.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9867</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACW0008</id>
+    <displayName>SENOIA 4.4 S, GA US</displayName>
+    <minDate>2009-06-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.2486</latitude>
+    <longitude>-84.5536</longitude>
+    <elevation>256.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9457</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACW0005</id>
+    <displayName>SENOIA 6.3 SSE, GA US</displayName>
+    <minDate>2008-12-02</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>33.2229</latitude>
+    <longitude>-84.5275</longitude>
+    <elevation>237.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8635</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006P10S</id>
+    <displayName>SENORITA DIVIDE NUMBER 2, NM US</displayName>
+    <minDate>1980-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>36</latitude>
+    <longitude>-106.8333</longitude>
+    <elevation>2621.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00327976</id>
+    <displayName>SENTINEL BUTTE 20 S, ND US</displayName>
+    <minDate>1951-06-01</minDate>
+    <maxDate>1975-11-30</maxDate>
+    <latitude>46.61667</latitude>
+    <longitude>-103.81667</longitude>
+    <elevation>811.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00320149</id>
+    <displayName>SENTINEL BUTTE 20 S, ND US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-05-31</maxDate>
+    <latitude>46.61667</latitude>
+    <longitude>-103.81667</longitude>
+    <elevation>811.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0018A21S</id>
+    <displayName>SENTINEL BUTTE, WA US</displayName>
+    <minDate>2003-08-28</minDate>
+    <maxDate>2005-01-20</maxDate>
+    <latitude>48.85</latitude>
+    <longitude>-118.3833</longitude>
+    <elevation>1499.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027751</id>
+    <displayName>SENTINEL, AZ US</displayName>
+    <minDate>1899-01-01</minDate>
+    <maxDate>1960-03-31</maxDate>
+    <latitude>32.86667</latitude>
+    <longitude>-113.21667</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4533</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00048092</id>
+    <displayName>SEPULVEDA DAM, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1960-06-30</maxDate>
+    <latitude>34.1661</latitude>
+    <longitude>-118.4736</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+</stationCollection>

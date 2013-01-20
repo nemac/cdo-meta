@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="353">
+  <station>
+    <id>GHCND:USC00247049</id>
+    <displayName>RIMINI, MT US</displayName>
+    <minDate>1982-11-01</minDate>
+    <maxDate>1984-08-31</maxDate>
+    <latitude>46.5</latitude>
+    <longitude>-112.25</longitude>
+    <elevation>1585.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00457038</id>
+    <displayName>RIMROCK TIETON DAM, WA US</displayName>
+    <minDate>1917-07-01</minDate>
+    <maxDate>1977-09-30</maxDate>
+    <latitude>46.65</latitude>
+    <longitude>-121.13333</longitude>
+    <elevation>833</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00027131</id>
+    <displayName>RIMROCK, AZ US</displayName>
+    <minDate>1941-06-01</minDate>
+    <maxDate>1962-05-31</maxDate>
+    <latitude>34.65</latitude>
+    <longitude>-111.73333</longitude>
+    <elevation>1097.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAEF0001</id>
+    <displayName>RINCON 1.5 SSE, GA US</displayName>
+    <minDate>2008-05-06</minDate>
+    <maxDate>2011-12-28</maxDate>
+    <latitude>32.2719</latitude>
+    <longitude>-81.2262</longitude>
+    <elevation>13.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8131</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668122</id>
+    <displayName>RINCON 2 NNW, PR US</displayName>
+    <minDate>1957-11-01</minDate>
+    <maxDate>1968-05-31</maxDate>
+    <latitude>18.36667</latitude>
+    <longitude>-67.25</longitude>
+    <elevation>91.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9056</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAEF0004</id>
+    <displayName>RINCON 2.8 S, GA US</displayName>
+    <minDate>2008-05-05</minDate>
+    <maxDate>2008-12-22</maxDate>
+    <latitude>32.2519</latitude>
+    <longitude>-81.2418</longitude>
+    <elevation>15.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8922</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GAEF0006</id>
+    <displayName>RINCON 3.9 NNE, GA US</displayName>
+    <minDate>2008-04-18</minDate>
+    <maxDate>2008-11-28</maxDate>
+    <latitude>32.3412</latitude>
+    <longitude>-81.2007</longitude>
+    <elevation>18</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9022</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000ARIN</id>
+    <displayName>RINCON ARIZONA, AZ US</displayName>
+    <minDate>1994-06-21</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>32.2056</latitude>
+    <longitude>-110.5481</longitude>
+    <elevation>2511.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9315</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668126</id>
+    <displayName>RINCON, PR US</displayName>
+    <minDate>1968-06-01</minDate>
+    <maxDate>2012-11-16</maxDate>
+    <latitude>18.3375</latitude>
+    <longitude>-67.2497</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7444</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297451</id>
+    <displayName>RINESTINE RANCH, NM US</displayName>
+    <minDate>1968-10-01</minDate>
+    <maxDate>1983-10-31</maxDate>
+    <latitude>35.6</latitude>
+    <longitude>-103.33333</longitude>
+    <elevation>1335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9637</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYHD0002</id>
+    <displayName>RINEYVILLE 1 S, KY US</displayName>
+    <minDate>2007-12-10</minDate>
+    <maxDate>2011-03-04</maxDate>
+    <latitude>37.735</latitude>
+    <longitude>-85.9696</longitude>
+    <elevation>226.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KYHD0007</id>
+    <displayName>RINEYVILLE 2.0 SE, KY US</displayName>
+    <minDate>2009-05-18</minDate>
+    <maxDate>2009-12-03</maxDate>
+    <latitude>37.7242</latitude>
+    <longitude>-85.9536</longitude>
+    <elevation>250.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.825</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1VAPT0006</id>
+    <displayName>RINGGOLD 2.6 NNW, VA US</displayName>
+    <minDate>2011-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.643</latitude>
+    <longitude>-79.312</longitude>
+    <elevation>206.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9761</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACS0003</id>
+    <displayName>RINGGOLD 2.8 NW, GA US</displayName>
+    <minDate>2008-06-22</minDate>
+    <maxDate>2009-02-14</maxDate>
+    <latitude>34.9461</latitude>
+    <longitude>-85.1444</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.958</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACS0002</id>
+    <displayName>RINGGOLD 2.8 SW, GA US</displayName>
+    <minDate>2008-06-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.8852</latitude>
+    <longitude>-85.1402</longitude>
+    <elevation>259.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GACS0005</id>
+    <displayName>RINGGOLD 5.0 W, GA US</displayName>
+    <minDate>2009-12-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9166</latitude>
+    <longitude>-85.1979</longitude>
+    <elevation>289.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6283</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097489</id>
+    <displayName>RINGGOLD, GA US</displayName>
+    <minDate>1952-08-13</minDate>
+    <maxDate>2007-07-31</maxDate>
+    <latitude>34.90028</latitude>
+    <longitude>-85.06667</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9691</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00167861</id>
+    <displayName>RINGGOLD, LA US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>1944-01-31</maxDate>
+    <latitude>32.33333</latitude>
+    <longitude>-93.26667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8267</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337107</id>
+    <displayName>RINGGOLD, OH US</displayName>
+    <minDate>1953-06-18</minDate>
+    <maxDate>1984-03-31</maxDate>
+    <latitude>39.6</latitude>
+    <longitude>-81.95</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.269</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417614</id>
+    <displayName>RINGGOLD, TX US</displayName>
+    <minDate>1940-03-03</minDate>
+    <maxDate>1994-09-30</maxDate>
+    <latitude>33.81667</latitude>
+    <longitude>-97.93333</longitude>
+    <elevation>272.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9479</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00247088</id>
+    <displayName>RINGLING 1 E, MT US</displayName>
+    <minDate>1915-06-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>46.26667</latitude>
+    <longitude>-110.76667</longitude>
+    <elevation>1623.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2188</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347640</id>
+    <displayName>RINGLING 1 N MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>34.19361</latitude>
+    <longitude>-97.58806</longitude>
+    <elevation>282.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9365</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00137058</id>
+    <displayName>RINGSTED, IA US</displayName>
+    <minDate>1948-08-15</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>43.2947</latitude>
+    <longitude>-94.5116</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0521</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367497</id>
+    <displayName>RINGTOWN, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1951-08-31</maxDate>
+    <latitude>40.86667</latitude>
+    <longitude>-76.23333</longitude>
+    <elevation>331.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8857</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJPS0010</id>
+    <displayName>RINGWOOD 1.0 ENE, NJ US</displayName>
+    <minDate>2009-05-30</minDate>
+    <maxDate>2011-07-09</maxDate>
+    <latitude>41.1107</latitude>
+    <longitude>-74.2575</longitude>
+    <elevation>92.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2218</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJPS0022</id>
+    <displayName>RINGWOOD 3.0 SSE, NJ US</displayName>
+    <minDate>2011-07-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0653</latitude>
+    <longitude>-74.2571</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.939</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00287587</id>
+    <displayName>RINGWOOD, NJ US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.0917</latitude>
+    <longitude>-74.2683</longitude>
+    <elevation>93</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6343</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227462</id>
+    <displayName>RIO 5 S, MS US</displayName>
+    <minDate>1938-07-01</minDate>
+    <maxDate>1953-03-31</maxDate>
+    <latitude>32.5</latitude>
+    <longitude>-88.83333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668144</id>
+    <displayName>RIO BLANCO LOWER, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.2426</latitude>
+    <longitude>-65.7849</longitude>
+    <elevation>34.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8351</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668155</id>
+    <displayName>RIO BLANCO UPPER, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>18.28333</latitude>
+    <longitude>-65.78333</longitude>
+    <elevation>438.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.767</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668178</id>
+    <displayName>RIO CANAS, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1969-12-31</maxDate>
+    <latitude>18.03333</latitude>
+    <longitude>-66.46667</longitude>
+    <elevation>57</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSC0015</id>
+    <displayName>RIO COMMUNITIES 8.6 SSW, NM US</displayName>
+    <minDate>2007-03-13</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>34.5322</latitude>
+    <longitude>-106.7863</longitude>
+    <elevation>1452.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0736</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRL0014</id>
+    <displayName>RIO FRIO 0.6 NNW, TX US</displayName>
+    <minDate>2010-03-05</minDate>
+    <maxDate>2011-10-10</maxDate>
+    <latitude>29.6444</latitude>
+    <longitude>-99.7385</longitude>
+    <elevation>454.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2137</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417622</id>
+    <displayName>RIO GRANDE CITY, TX US</displayName>
+    <minDate>1892-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.3769</latitude>
+    <longitude>-98.8116</longitude>
+    <elevation>52.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8641</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668245</id>
+    <displayName>RIO GRANDE EL VERDE, PR US</displayName>
+    <minDate>1956-02-01</minDate>
+    <maxDate>1987-12-31</maxDate>
+    <latitude>18.33333</latitude>
+    <longitude>-65.81667</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8261</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297460</id>
+    <displayName>RIO GRANDE INDUSTRIAL SCHOOL, NM US</displayName>
+    <minDate>1911-03-01</minDate>
+    <maxDate>1922-03-31</maxDate>
+    <latitude>35.01667</latitude>
+    <longitude>-106.66667</longitude>
+    <elevation>1508.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9024</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00057050</id>
+    <displayName>RIO GRANDE RESERVOIR, CO US</displayName>
+    <minDate>1977-09-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.7255</latitude>
+    <longitude>-107.2677</longitude>
+    <elevation>2952.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9597</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417624</id>
+    <displayName>RIO GRANDE VILLAGE, TX US</displayName>
+    <minDate>2006-12-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.1852</latitude>
+    <longitude>-102.9623</longitude>
+    <elevation>566.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9303</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357189</id>
+    <displayName>RIO HERMOSA, OR US</displayName>
+    <minDate>1910-11-01</minDate>
+    <maxDate>1919-04-30</maxDate>
+    <latitude>44.65</latitude>
+    <longitude>-121.533333</longitude>
+    <elevation>643.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7847</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXCMR035</id>
+    <displayName>RIO HONDO 9.4 NE, TX US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>26.334</latitude>
+    <longitude>-97.4785</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9975</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668278</id>
+    <displayName>RIO JUEYES, PR US</displayName>
+    <minDate>1955-01-01</minDate>
+    <maxDate>1969-01-31</maxDate>
+    <latitude>18.01667</latitude>
+    <longitude>-66.35</longitude>
+    <elevation>42.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9981</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXMDN025</id>
+    <displayName>RIO MEDINA 5.5 NNW, TX US</displayName>
+    <minDate>2010-08-12</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>29.5173</latitude>
+    <longitude>-98.9109</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3356</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668306</id>
+    <displayName>RIO PIEDRAS EXPERIMENTAL STATION, PR US</displayName>
+    <minDate>1959-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>18.3905</latitude>
+    <longitude>-66.0541</longitude>
+    <elevation>28</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9137</coverage>
+  </station>
+  <station>
+    <id>GHCND:RQC00668301</id>
+    <displayName>RIO PIEDRAS, PR US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>1961-12-31</maxDate>
+    <latitude>18.4</latitude>
+    <longitude>-66.06667</longitude>
+    <elevation>29.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9524</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0052</id>
+    <displayName>RIO RANCHO 1.5 ENE, NM US</displayName>
+    <minDate>2011-06-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2814</latitude>
+    <longitude>-106.6361</longitude>
+    <elevation>1610.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9807</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0003</id>
+    <displayName>RIO RANCHO 1.9 SE, NM US</displayName>
+    <minDate>2005-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2526</latitude>
+    <longitude>-106.6353</longitude>
+    <elevation>1612.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0014</id>
+    <displayName>RIO RANCHO 1.9 SSE, NM US</displayName>
+    <minDate>2005-07-23</minDate>
+    <maxDate>2007-09-17</maxDate>
+    <latitude>35.2489</latitude>
+    <longitude>-106.6427</longitude>
+    <elevation>1609</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8069</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0063</id>
+    <displayName>RIO RANCHO 2.2 SSE, NM US</displayName>
+    <minDate>2011-06-01</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>35.2432</latitude>
+    <longitude>-106.6491</longitude>
+    <elevation>1613.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0070</id>
+    <displayName>RIO RANCHO 2.2 SSE, NM US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2455</latitude>
+    <longitude>-106.6433</longitude>
+    <elevation>1608.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8112</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0069</id>
+    <displayName>RIO RANCHO 2.3 SW, NM US</displayName>
+    <minDate>2011-08-04</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>35.253</latitude>
+    <longitude>-106.6915</longitude>
+    <elevation>1664.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8391</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0054</id>
+    <displayName>RIO RANCHO 2.5 E, NM US</displayName>
+    <minDate>2012-07-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2698</latitude>
+    <longitude>-106.6164</longitude>
+    <elevation>1567.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9692</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0057</id>
+    <displayName>RIO RANCHO 2.5 S, NM US</displayName>
+    <minDate>2010-08-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2372</latitude>
+    <longitude>-106.661</longitude>
+    <elevation>1611.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0073</id>
+    <displayName>RIO RANCHO 2.7 W, NM US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2711</latitude>
+    <longitude>-106.7089</longitude>
+    <elevation>1735.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.929</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0050</id>
+    <displayName>RIO RANCHO 2.8 W, NM US</displayName>
+    <minDate>2011-06-26</minDate>
+    <maxDate>2012-09-30</maxDate>
+    <latitude>35.2698</latitude>
+    <longitude>-106.7096</longitude>
+    <elevation>1727</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.27</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0062</id>
+    <displayName>RIO RANCHO 3.0 WSW, NM US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>35.2643</latitude>
+    <longitude>-106.713</longitude>
+    <elevation>1724.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9395</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0039</id>
+    <displayName>RIO RANCHO 3.3 ENE, NM US</displayName>
+    <minDate>2010-08-10</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>35.2901</latitude>
+    <longitude>-106.6061</longitude>
+    <elevation>1574</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9888</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0064</id>
+    <displayName>RIO RANCHO 3.4 SSW, NM US</displayName>
+    <minDate>2011-07-19</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>35.2264</latitude>
+    <longitude>-106.6795</longitude>
+    <elevation>1610</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6773</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0033</id>
+    <displayName>RIO RANCHO 3.5 S, NM US</displayName>
+    <minDate>2008-05-14</minDate>
+    <maxDate>2011-12-03</maxDate>
+    <latitude>35.2231</latitude>
+    <longitude>-106.6696</longitude>
+    <elevation>1596.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8022</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0043</id>
+    <displayName>RIO RANCHO 3.5 W, NM US</displayName>
+    <minDate>2010-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2823</latitude>
+    <longitude>-106.7207</longitude>
+    <elevation>1736.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9517</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0056</id>
+    <displayName>RIO RANCHO 3.8 WSW, NM US</displayName>
+    <minDate>2011-06-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2435</latitude>
+    <longitude>-106.7164</longitude>
+    <elevation>1694.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7337</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0032</id>
+    <displayName>RIO RANCHO 3.9 ENE, NM US</displayName>
+    <minDate>2007-04-24</minDate>
+    <maxDate>2008-01-03</maxDate>
+    <latitude>35.2894</latitude>
+    <longitude>-106.5942</longitude>
+    <elevation>1545.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8118</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0074</id>
+    <displayName>RIO RANCHO 4.1 WSW, NM US</displayName>
+    <minDate>2011-08-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2444</latitude>
+    <longitude>-106.7231</longitude>
+    <elevation>1727.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2326</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0053</id>
+    <displayName>RIO RANCHO 4.5 ENE, NM US</displayName>
+    <minDate>2011-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2972</latitude>
+    <longitude>-106.5854</longitude>
+    <elevation>1557.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9473</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0066</id>
+    <displayName>RIO RANCHO 4.7 NE, NM US</displayName>
+    <minDate>2011-07-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3133</latitude>
+    <longitude>-106.5924</longitude>
+    <elevation>1590.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9683</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0026</id>
+    <displayName>RIO RANCHO 5.6 NE, NM US</displayName>
+    <minDate>2006-08-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.338</latitude>
+    <longitude>-106.6013</longitude>
+    <elevation>1634.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0051</id>
+    <displayName>RIO RANCHO 5.7 NE, NM US</displayName>
+    <minDate>2011-06-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.3239</latitude>
+    <longitude>-106.5814</longitude>
+    <elevation>1584.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9349</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NMSN0059</id>
+    <displayName>RIO RANCHO 5.8 NNW, NM US</displayName>
+    <minDate>2011-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3546</latitude>
+    <longitude>-106.6884</longitude>
+    <elevation>1785.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8693</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297477</id>
+    <displayName>RIO RANCHO NUMBER 1, NM US</displayName>
+    <minDate>2005-08-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.2836</latitude>
+    <longitude>-106.6194</longitude>
+    <elevation>1594.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9786</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297481</id>
+    <displayName>RIO RANCHO NUMBER 2, NM US</displayName>
+    <minDate>2008-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.2522</latitude>
+    <longitude>-106.6347</longitude>
+    <elevation>1612.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9468</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1AZSC0007</id>
+    <displayName>RIO RICO 3.6 E, AZ US</displayName>
+    <minDate>2010-02-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>31.4677</latitude>
+    <longitude>-110.915</longitude>
+    <elevation>1185.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5916</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047446</id>
+    <displayName>RIO VISTA, CA US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1977-05-31</maxDate>
+    <latitude>38.15</latitude>
+    <longitude>-121.7</longitude>
+    <elevation>11.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417628</id>
+    <displayName>RIOMEDINA, TX US</displayName>
+    <minDate>1922-08-12</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>29.4416</latitude>
+    <longitude>-98.8801</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.956</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVJC0001</id>
+    <displayName>RIPLEY 1.6 WSW, WV US</displayName>
+    <minDate>2009-05-06</minDate>
+    <maxDate>2010-10-15</maxDate>
+    <latitude>38.8083</latitude>
+    <longitude>-81.7345</longitude>
+    <elevation>298.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2822</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVJC0003</id>
+    <displayName>RIPLEY 5.8 S, WV US</displayName>
+    <minDate>2009-05-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.7377</latitude>
+    <longitude>-81.6904</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9642</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337120</id>
+    <displayName>RIPLEY EXPERIMENTAL FARM, OH US</displayName>
+    <minDate>1959-04-01</minDate>
+    <maxDate>2005-12-02</maxDate>
+    <latitude>38.78722</latitude>
+    <longitude>-83.79722</longitude>
+    <elevation>268.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117278</id>
+    <displayName>RIPLEY, IL US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0208</latitude>
+    <longitude>-90.6474</longitude>
+    <elevation>174</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9853</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00146862</id>
+    <displayName>RIPLEY, KS US</displayName>
+    <minDate>1944-08-01</minDate>
+    <maxDate>1963-01-31</maxDate>
+    <latitude>37.78333</latitude>
+    <longitude>-97.35</longitude>
+    <elevation>406</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9812</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227467</id>
+    <displayName>RIPLEY, MS US</displayName>
+    <minDate>1897-11-01</minDate>
+    <maxDate>2009-07-03</maxDate>
+    <latitude>34.7398</latitude>
+    <longitude>-88.9515</longitude>
+    <elevation>160</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6652</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407710</id>
+    <displayName>RIPLEY, TN US</displayName>
+    <minDate>1962-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.7178</latitude>
+    <longitude>-89.4986</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9082</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467552</id>
+    <displayName>RIPLEY, WV US</displayName>
+    <minDate>1941-10-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.8172</latitude>
+    <longitude>-81.7119</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9236</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00177174</id>
+    <displayName>RIPOGENUS DAM, ME US</displayName>
+    <minDate>1925-01-01</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>45.88333</latitude>
+    <longitude>-69.18333</longitude>
+    <elevation>294.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8779</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477207</id>
+    <displayName>RIPON 1 E, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>43.85</latitude>
+    <longitude>-88.81667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7116</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477209</id>
+    <displayName>RIPON 5 NE, WI US</displayName>
+    <minDate>1946-08-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>43.8863</latitude>
+    <longitude>-88.7444</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00477202</id>
+    <displayName>RIPON NEAR, WI US</displayName>
+    <minDate>1910-08-01</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>43.85</latitude>
+    <longitude>-88.81667</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3824</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0007J05S</id>
+    <displayName>RIPPLE CREEK, CO US</displayName>
+    <minDate>1986-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>40.1167</latitude>
+    <longitude>-107.3</longitude>
+    <elevation>3151.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9628</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107727</id>
+    <displayName>RIRIE 12 ESE, ID US</displayName>
+    <minDate>1955-11-07</minDate>
+    <maxDate>1978-05-31</maxDate>
+    <latitude>43.56667</latitude>
+    <longitude>-111.56667</longitude>
+    <elevation>1684</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.839</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00107721</id>
+    <displayName>RIRIE, ID US</displayName>
+    <minDate>1941-04-01</minDate>
+    <maxDate>1952-05-18</maxDate>
+    <latitude>43.63333</latitude>
+    <longitude>-111.78333</longitude>
+    <elevation>1513</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7425</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10butl005</id>
+    <displayName>RISING CITY 2.4 ESE, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>41.185</latitude>
+    <longitude>-97.2542</longitude>
+    <elevation>484.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10butl004</id>
+    <displayName>RISING CITY 3.1 WNW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2008-03-28</maxDate>
+    <latitude>41.219</latitude>
+    <longitude>-97.349</longitude>
+    <elevation>0</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10butl010</id>
+    <displayName>RISING CITY 7.2 NNW, NE US</displayName>
+    <minDate>2007-03-15</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>41.2963</latitude>
+    <longitude>-97.3493</longitude>
+    <elevation>502</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3387</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097499</id>
+    <displayName>RISING FAWN, GA US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.75</latitude>
+    <longitude>-85.53333</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417633</id>
+    <displayName>RISING STAR 1 S, TX US</displayName>
+    <minDate>1942-02-01</minDate>
+    <maxDate>2011-10-31</maxDate>
+    <latitude>32.08167</latitude>
+    <longitude>-98.96583</longitude>
+    <elevation>497.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9061</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417637</id>
+    <displayName>RISING STAR 5 NNE, TX US</displayName>
+    <minDate>1991-09-01</minDate>
+    <maxDate>2002-09-30</maxDate>
+    <latitude>32.16111</latitude>
+    <longitude>-98.92889</longitude>
+    <elevation>489.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9881</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDCC0007</id>
+    <displayName>RISING SUN 2.8 SSW, MD US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2007-01-01</maxDate>
+    <latitude>39.6638</latitude>
+    <longitude>-76.0894</longitude>
+    <elevation>96.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9243</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INOH0002</id>
+    <displayName>RISING SUN 4.1 WSW, IN US</displayName>
+    <minDate>2008-05-28</minDate>
+    <maxDate>2012-10-02</maxDate>
+    <latitude>38.9372</latitude>
+    <longitude>-84.9315</longitude>
+    <elevation>168.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00036174</id>
+    <displayName>RISON, AR US</displayName>
+    <minDate>1893-05-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>33.9539</latitude>
+    <longitude>-92.2019</longitude>
+    <elevation>85.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4322</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00087600</id>
+    <displayName>RITTA, FL US</displayName>
+    <minDate>1913-01-01</minDate>
+    <maxDate>1932-08-31</maxDate>
+    <latitude>26.683333</latitude>
+    <longitude>-80.666667</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8654</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00407728</id>
+    <displayName>RITTA, TN US</displayName>
+    <minDate>1949-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>36.05</latitude>
+    <longitude>-83.86667</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00337145</id>
+    <displayName>RITTMAN, OH US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1912-02-29</maxDate>
+    <latitude>40.966667</latitude>
+    <longitude>-81.733333</longitude>
+    <elevation>301.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9583</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAAD0007</id>
+    <displayName>RITZVILLE 0.2 ESE, WA US</displayName>
+    <minDate>2010-03-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.1257</latitude>
+    <longitude>-118.3728</longitude>
+    <elevation>567.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7228</coverage>
+  </station>
+</stationCollection>

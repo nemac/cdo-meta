@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="344">
+  <station>
+    <id>GHCND:USC00456887</id>
+    <displayName>RAINBOW FALLS PARK 2, WA US</displayName>
+    <minDate>1928-05-20</minDate>
+    <maxDate>1963-04-30</maxDate>
+    <latitude>46.63333</latitude>
+    <longitude>-123.18333</longitude>
+    <elevation>85</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8971</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00026940</id>
+    <displayName>RAINBOW LODGE, AZ US</displayName>
+    <minDate>1952-05-21</minDate>
+    <maxDate>1952-10-31</maxDate>
+    <latitude>37</latitude>
+    <longitude>-110.9</longitude>
+    <elevation>1961.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00476939</id>
+    <displayName>RAINBOW RESERVOIR LAKE TOMAHAWK, WI US</displayName>
+    <minDate>1946-09-01</minDate>
+    <maxDate>1996-09-30</maxDate>
+    <latitude>45.8341</latitude>
+    <longitude>-89.5472</longitude>
+    <elevation>487.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417388</id>
+    <displayName>RAINBOW, TX US</displayName>
+    <minDate>1934-09-21</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>32.2619</latitude>
+    <longitude>-97.7063</longitude>
+    <elevation>197.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9743</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467306</id>
+    <displayName>RAINELLE, WV US</displayName>
+    <minDate>1930-09-18</minDate>
+    <maxDate>1955-06-30</maxDate>
+    <latitude>37.96667</latitude>
+    <longitude>-80.78333</longitude>
+    <elevation>737.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456892</id>
+    <displayName>RAINIER CARBON RIVER, WA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1974-03-31</maxDate>
+    <latitude>46.9938</latitude>
+    <longitude>-121.9113</longitude>
+    <elevation>528.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4753</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456896</id>
+    <displayName>RAINIER OHANAPECOSH, WA US</displayName>
+    <minDate>1926-10-13</minDate>
+    <maxDate>2012-11-01</maxDate>
+    <latitude>46.7322</latitude>
+    <longitude>-121.5727</longitude>
+    <elevation>594.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456898</id>
+    <displayName>RAINIER PARADISE RNG, WA US</displayName>
+    <minDate>1916-12-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.7858</latitude>
+    <longitude>-121.7425</longitude>
+    <elevation>1654.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8793</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00456900</id>
+    <displayName>RAINIER SUNSHINE POINT, WA US</displayName>
+    <minDate>1938-11-17</minDate>
+    <maxDate>1940-08-31</maxDate>
+    <latitude>46.733333</latitude>
+    <longitude>-121.9</longitude>
+    <elevation>609.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9663</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABD0005</id>
+    <displayName>RAINSBURG 5.0 NNW, PA US</displayName>
+    <minDate>2006-05-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9575</latitude>
+    <longitude>-78.5638</longitude>
+    <elevation>387.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9138</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABD0003</id>
+    <displayName>RAINSBURG 9.0 S, PA US</displayName>
+    <minDate>2006-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.7674</latitude>
+    <longitude>-78.4844</longitude>
+    <elevation>362.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6791</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PABD0004</id>
+    <displayName>RAINSBURG 9.0 SSE, PA US</displayName>
+    <minDate>2006-03-29</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>39.7812</latitude>
+    <longitude>-78.4329</longitude>
+    <elevation>349.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9525</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALDK0012</id>
+    <displayName>RAINSVILLE 1.9 S, AL US</displayName>
+    <minDate>2012-07-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.4719</latitude>
+    <longitude>-85.8429</longitude>
+    <elevation>365.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9351</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00016762</id>
+    <displayName>RAINSVILLE, AL US</displayName>
+    <minDate>1956-01-01</minDate>
+    <maxDate>1962-03-31</maxDate>
+    <latitude>34.5</latitude>
+    <longitude>-85.86667</longitude>
+    <elevation>402.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0020A09S</id>
+    <displayName>RAINY PASS, WA US</displayName>
+    <minDate>1981-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>48.55</latitude>
+    <longitude>-120.7167</longitude>
+    <elevation>1456.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9007</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487473</id>
+    <displayName>RAIRDEN 2 WSW, WY US</displayName>
+    <minDate>1951-03-16</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>44.1786</latitude>
+    <longitude>-107.938</longitude>
+    <elevation>1225.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9872</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0075</id>
+    <displayName>RALEIGH 1.5 NNE, NC US</displayName>
+    <minDate>2009-03-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8434</latitude>
+    <longitude>-78.6522</longitude>
+    <elevation>101.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0002</id>
+    <displayName>RALEIGH 1.5 SW, NC US</displayName>
+    <minDate>2007-09-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8057</latitude>
+    <longitude>-78.6759</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9415</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0043</id>
+    <displayName>RALEIGH 1.5 WNW, NC US</displayName>
+    <minDate>2007-09-21</minDate>
+    <maxDate>2009-01-11</maxDate>
+    <latitude>35.8267</latitude>
+    <longitude>-78.6848</longitude>
+    <elevation>93.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0018</id>
+    <displayName>RALEIGH 1.5 WSW, NC US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2009-10-31</maxDate>
+    <latitude>35.8103</latitude>
+    <longitude>-78.6822</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0104</id>
+    <displayName>RALEIGH 1.9 SW, NC US</displayName>
+    <minDate>2011-08-31</minDate>
+    <maxDate>2012-12-10</maxDate>
+    <latitude>35.8064</latitude>
+    <longitude>-78.6858</longitude>
+    <elevation>135.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6453</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0001</id>
+    <displayName>RALEIGH 10.3 N, NC US</displayName>
+    <minDate>2007-08-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9696</latitude>
+    <longitude>-78.6887</longitude>
+    <elevation>113.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0082</id>
+    <displayName>RALEIGH 2.1 SSW, NC US</displayName>
+    <minDate>2009-10-26</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>35.7918</latitude>
+    <longitude>-78.6671</longitude>
+    <elevation>126.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8562</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0051</id>
+    <displayName>RALEIGH 2.2 N, NC US</displayName>
+    <minDate>2007-10-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8535</latitude>
+    <longitude>-78.6534</longitude>
+    <elevation>110</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.252</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0115</id>
+    <displayName>RALEIGH 2.7 NNE, NC US</displayName>
+    <minDate>2012-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8562</latitude>
+    <longitude>-78.636</longitude>
+    <elevation>118.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9041</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0074</id>
+    <displayName>RALEIGH 2.9 N, NC US</displayName>
+    <minDate>2009-01-21</minDate>
+    <maxDate>2010-04-22</maxDate>
+    <latitude>35.8635</latitude>
+    <longitude>-78.6534</longitude>
+    <elevation>91.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2538</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0019</id>
+    <displayName>RALEIGH 3.1 NE, NC US</displayName>
+    <minDate>2007-09-07</minDate>
+    <maxDate>2010-10-13</maxDate>
+    <latitude>35.8508</latitude>
+    <longitude>-78.6171</longitude>
+    <elevation>107</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5296</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0059</id>
+    <displayName>RALEIGH 3.3 E, NC US</displayName>
+    <minDate>2008-01-28</minDate>
+    <maxDate>2012-12-17</maxDate>
+    <latitude>35.8204</latitude>
+    <longitude>-78.6005</longitude>
+    <elevation>83.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2144</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0023</id>
+    <displayName>RALEIGH 3.3 ENE, NC US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8317</latitude>
+    <longitude>-78.6015</longitude>
+    <elevation>84.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3039</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0088</id>
+    <displayName>RALEIGH 3.6 NNW, NC US</displayName>
+    <minDate>2010-04-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.873</latitude>
+    <longitude>-78.6729</longitude>
+    <elevation>127.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2565</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0069</id>
+    <displayName>RALEIGH 3.7 NNE, NC US</displayName>
+    <minDate>2008-08-01</minDate>
+    <maxDate>2010-01-14</maxDate>
+    <latitude>35.8742</latitude>
+    <longitude>-78.6451</longitude>
+    <elevation>103.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6635</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0090</id>
+    <displayName>RALEIGH 3.8 SSW, NC US</displayName>
+    <minDate>2010-07-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.77</latitude>
+    <longitude>-78.68</longitude>
+    <elevation>87.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9227</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317074</id>
+    <displayName>RALEIGH 4 SW, NC US</displayName>
+    <minDate>1921-01-01</minDate>
+    <maxDate>2010-06-01</maxDate>
+    <latitude>35.7294</latitude>
+    <longitude>-78.6838</longitude>
+    <elevation>128</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9763</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0113</id>
+    <displayName>RALEIGH 4.0 NW, NC US</displayName>
+    <minDate>2012-04-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8553</latitude>
+    <longitude>-78.7178</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0073</id>
+    <displayName>RALEIGH 4.5 NNE, NC US</displayName>
+    <minDate>2008-12-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8815</latitude>
+    <longitude>-78.6259</longitude>
+    <elevation>128.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3182</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NDGT0009</id>
+    <displayName>RALEIGH 5.0 SW, ND US</displayName>
+    <minDate>2011-07-27</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>46.3062</latitude>
+    <longitude>-101.3825</longitude>
+    <elevation>678.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5558</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0098</id>
+    <displayName>RALEIGH 5.2 E, NC US</displayName>
+    <minDate>2011-08-15</minDate>
+    <maxDate>2012-11-28</maxDate>
+    <latitude>35.8328</latitude>
+    <longitude>-78.5674</longitude>
+    <elevation>107.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8114</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0055</id>
+    <displayName>RALEIGH 5.3 NNW, NC US</displayName>
+    <minDate>2007-12-31</minDate>
+    <maxDate>2008-05-07</maxDate>
+    <latitude>35.8903</latitude>
+    <longitude>-78.7016</longitude>
+    <elevation>107.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0027</id>
+    <displayName>RALEIGH 5.7 ENE, NC US</displayName>
+    <minDate>2007-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8381</latitude>
+    <longitude>-78.5597</longitude>
+    <elevation>81.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0013</id>
+    <displayName>RALEIGH 5.9 ENE, NC US</displayName>
+    <minDate>2007-10-08</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>35.8624</latitude>
+    <longitude>-78.5665</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9827</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00227276</id>
+    <displayName>RALEIGH 6 N, MS US</displayName>
+    <minDate>2000-06-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>32.1432</latitude>
+    <longitude>-89.5524</longitude>
+    <elevation>135.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9813</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0003</id>
+    <displayName>RALEIGH 6.2 E, NC US</displayName>
+    <minDate>2007-08-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.8143</latitude>
+    <longitude>-78.5478</longitude>
+    <elevation>73.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9681</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0060</id>
+    <displayName>RALEIGH 6.3 ENE, NC US</displayName>
+    <minDate>2008-02-12</minDate>
+    <maxDate>2009-10-06</maxDate>
+    <latitude>35.8421</latitude>
+    <longitude>-78.5485</longitude>
+    <elevation>54.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6235</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0009</id>
+    <displayName>RALEIGH 6.8 NNE, NC US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9114</latitude>
+    <longitude>-78.6058</longitude>
+    <elevation>122.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9457</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0080</id>
+    <displayName>RALEIGH 6.9 ENE, NC US</displayName>
+    <minDate>2009-09-23</minDate>
+    <maxDate>2012-09-09</maxDate>
+    <latitude>35.8647</latitude>
+    <longitude>-78.5482</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4497</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0100</id>
+    <displayName>RALEIGH 6.9 N, NC US</displayName>
+    <minDate>2011-05-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.9214</latitude>
+    <longitude>-78.6741</longitude>
+    <elevation>109.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7044</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0087</id>
+    <displayName>RALEIGH 7.0 NW, NC US</displayName>
+    <minDate>2010-04-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9045</latitude>
+    <longitude>-78.7315</longitude>
+    <elevation>141.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9438</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0011</id>
+    <displayName>RALEIGH 7.2 N, NC US</displayName>
+    <minDate>2007-09-15</minDate>
+    <maxDate>2012-11-19</maxDate>
+    <latitude>35.9266</latitude>
+    <longitude>-78.6703</longitude>
+    <elevation>120.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1675</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0036</id>
+    <displayName>RALEIGH 7.5 NNE, NC US</displayName>
+    <minDate>2007-09-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.926</latitude>
+    <longitude>-78.6205</longitude>
+    <elevation>110.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.913</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0061</id>
+    <displayName>RALEIGH 8.4 N, NC US</displayName>
+    <minDate>2008-03-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.9425</latitude>
+    <longitude>-78.6812</longitude>
+    <elevation>126.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9966</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCWK0091</id>
+    <displayName>RALEIGH 9.5 ENE, NC US</displayName>
+    <minDate>2010-07-13</minDate>
+    <maxDate>2012-08-03</maxDate>
+    <latitude>35.8707</latitude>
+    <longitude>-78.5005</longitude>
+    <elevation>73.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9668</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013722</id>
+    <displayName>RALEIGH DURHAM INTERNATIONAL AIRPORT, NC US</displayName>
+    <minDate>1944-05-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.8923</latitude>
+    <longitude>-78.7819</longitude>
+    <elevation>126.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0007</id>
+    <displayName>RALEIGH HILLS 0.8 WSW, OR US</displayName>
+    <minDate>2008-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4788</latitude>
+    <longitude>-122.7692</longitude>
+    <elevation>78</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.994</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORWS0006</id>
+    <displayName>RALEIGH HILLS 1.1 SW, OR US</displayName>
+    <minDate>2007-12-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>45.4719</latitude>
+    <longitude>-122.7684</longitude>
+    <elevation>75</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORMT0024</id>
+    <displayName>RALEIGH HILLS 2.1 ESE, OR US</displayName>
+    <minDate>2009-09-17</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>45.469</latitude>
+    <longitude>-122.7165</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8435</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORMT0007</id>
+    <displayName>RALEIGH HILLS 3.1 ESE, OR US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2011-12-02</maxDate>
+    <latitude>45.4642</latitude>
+    <longitude>-122.6984</longitude>
+    <elevation>117.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6927</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317081</id>
+    <displayName>RALEIGH MUNICIPAL AIRPORT, NC US</displayName>
+    <minDate>1939-07-01</minDate>
+    <maxDate>1944-12-01</maxDate>
+    <latitude>35.75</latitude>
+    <longitude>-78.61667</longitude>
+    <elevation>114</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.999</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317079</id>
+    <displayName>RALEIGH STATE UNIVERSITY, NC US</displayName>
+    <minDate>1892-01-15</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>35.7944</latitude>
+    <longitude>-78.6988</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9607</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00467320</id>
+    <displayName>RALEIGH, WV US</displayName>
+    <minDate>1916-10-01</minDate>
+    <maxDate>1923-09-30</maxDate>
+    <latitude>37.766667</latitude>
+    <longitude>-81.166667</longitude>
+    <elevation>649.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9566</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00396907</id>
+    <displayName>RALPH 1 N, SD US</displayName>
+    <minDate>1941-06-01</minDate>
+    <maxDate>2003-07-31</maxDate>
+    <latitude>45.78417</latitude>
+    <longitude>-103.06556</longitude>
+    <elevation>850.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9745</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COJF0140</id>
+    <displayName>RALSTON BUTTES 1.1 NNW, CO US</displayName>
+    <minDate>2003-11-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8641</latitude>
+    <longitude>-105.2758</longitude>
+    <elevation>2072</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8785</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00056816</id>
+    <displayName>RALSTON RESERVOIR, CO US</displayName>
+    <minDate>1978-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.8297</latitude>
+    <longitude>-105.2352</longitude>
+    <elevation>1798.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9902</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347390</id>
+    <displayName>RALSTON, OK US</displayName>
+    <minDate>1922-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.5044</latitude>
+    <longitude>-96.7438</longitude>
+    <elevation>251.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9765</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00367272</id>
+    <displayName>RALSTON, PA US</displayName>
+    <minDate>1949-02-02</minDate>
+    <maxDate>1950-04-30</maxDate>
+    <latitude>41.5</latitude>
+    <longitude>-76.95</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7483</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEP0011</id>
+    <displayName>RAMAH 3.8 SE, CO US</displayName>
+    <minDate>2004-03-05</minDate>
+    <maxDate>2012-09-13</maxDate>
+    <latitude>39.0888</latitude>
+    <longitude>-104.108</longitude>
+    <elevation>1975.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0404</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0049</id>
+    <displayName>RAMAH 4.2 WNW, CO US</displayName>
+    <minDate>2006-10-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>39.1503</latitude>
+    <longitude>-104.2359</longitude>
+    <elevation>1940.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9339</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053009</id>
+    <displayName>RAMAH 9 SE, NM US</displayName>
+    <minDate>2010-09-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.0461</latitude>
+    <longitude>-108.3635</longitude>
+    <elevation>2183.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9942</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297248</id>
+    <displayName>RAMAH, NM US</displayName>
+    <minDate>1922-07-01</minDate>
+    <maxDate>1947-05-31</maxDate>
+    <latitude>35.13333</latitude>
+    <longitude>-108.46667</longitude>
+    <elevation>2196.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6883</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00487490</id>
+    <displayName>RAMBLER, WY US</displayName>
+    <minDate>1905-05-01</minDate>
+    <maxDate>1913-08-31</maxDate>
+    <latitude>41.166667</latitude>
+    <longitude>-107.016667</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2322</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PACN0007</id>
+    <displayName>RAMBLEWOOD 3.7 WNW, PA US</displayName>
+    <minDate>2006-11-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.7442</latitude>
+    <longitude>-78.0191</longitude>
+    <elevation>370</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5783</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNMN0002</id>
+    <displayName>RAMER 1.5 S, TN US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0495</latitude>
+    <longitude>-88.6222</longitude>
+    <elevation>152.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8644</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ALMY0006</id>
+    <displayName>RAMER 1.5 SE, AL US</displayName>
+    <minDate>2008-11-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>32.0323</latitude>
+    <longitude>-86.2056</longitude>
+    <elevation>158.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9947</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00097350</id>
+    <displayName>RAMHURST, GA US</displayName>
+    <minDate>1911-01-01</minDate>
+    <maxDate>1922-02-28</maxDate>
+    <latitude>34.7</latitude>
+    <longitude>-84.733333</longitude>
+    <elevation>233.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00297254</id>
+    <displayName>RAMON 8 SW, NM US</displayName>
+    <minDate>1957-03-01</minDate>
+    <maxDate>2009-07-31</maxDate>
+    <latitude>34.1508</latitude>
+    <longitude>-105.0044</longitude>
+    <elevation>1623.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0072</id>
+    <displayName>RAMONA 2.6 ENE, CA US</displayName>
+    <minDate>2012-04-16</minDate>
+    <maxDate>2012-11-21</maxDate>
+    <latitude>33.0504</latitude>
+    <longitude>-116.8277</longitude>
+    <elevation>620</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7864</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00347394</id>
+    <displayName>RAMONA 4 N, OK US</displayName>
+    <minDate>1975-01-01</minDate>
+    <maxDate>1995-04-30</maxDate>
+    <latitude>36.6</latitude>
+    <longitude>-95.91667</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9066</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053120</id>
+    <displayName>RAMONA AIRPORT, CA US</displayName>
+    <minDate>1998-04-16</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.0375</latitude>
+    <longitude>-116.91583</longitude>
+    <elevation>424.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9814</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047228</id>
+    <displayName>RAMONA FIRE DEPARTMENT, CA US</displayName>
+    <minDate>1974-02-01</minDate>
+    <maxDate>2008-09-30</maxDate>
+    <latitude>33.0113</latitude>
+    <longitude>-116.908</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9427</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047226</id>
+    <displayName>RAMONA FIRE DEPARTMENT, CA US</displayName>
+    <minDate>1906-11-01</minDate>
+    <maxDate>1951-04-30</maxDate>
+    <latitude>33.0113</latitude>
+    <longitude>-116.908</longitude>
+    <elevation>448.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.34</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047231</id>
+    <displayName>RAMONA SPAULDING, CA US</displayName>
+    <minDate>1949-05-03</minDate>
+    <maxDate>1973-09-30</maxDate>
+    <latitude>33.06667</latitude>
+    <longitude>-116.85</longitude>
+    <elevation>451.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9972</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00507900</id>
+    <displayName>RAMPART 2, AK US</displayName>
+    <minDate>1963-06-01</minDate>
+    <maxDate>1978-03-31</maxDate>
+    <latitude>65.5</latitude>
+    <longitude>-150.13333</longitude>
+    <elevation>121.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5475</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00507891</id>
+    <displayName>RAMPART, AK US</displayName>
+    <minDate>1900-09-25</minDate>
+    <maxDate>1933-08-31</maxDate>
+    <latitude>65.5</latitude>
+    <longitude>-150.25</longitude>
+    <elevation>116.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8308</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00317089</id>
+    <displayName>RAMSEUR 6 S, NC US</displayName>
+    <minDate>1905-01-01</minDate>
+    <maxDate>1959-06-30</maxDate>
+    <latitude>35.63333</latitude>
+    <longitude>-79.65</longitude>
+    <elevation>134.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBG0006</id>
+    <displayName>RAMSEY 0.6 E, NJ US</displayName>
+    <minDate>2008-03-02</minDate>
+    <maxDate>2011-08-29</maxDate>
+    <latitude>41.0586</latitude>
+    <longitude>-74.1341</longitude>
+    <elevation>112.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5266</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0024</id>
+    <displayName>RAMSEY 1.5 SSW, MN US</displayName>
+    <minDate>2011-05-03</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.2415</latitude>
+    <longitude>-93.4604</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6407</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00117126</id>
+    <displayName>RAMSEY, IL US</displayName>
+    <minDate>1974-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.1483</latitude>
+    <longitude>-89.1022</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8469</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00357000</id>
+    <displayName>RAMSEY, OR US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1918-09-30</maxDate>
+    <latitude>45.433333</latitude>
+    <longitude>-121.233333</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9837</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00427155</id>
+    <displayName>RANCH, UT US</displayName>
+    <minDate>1902-01-01</minDate>
+    <maxDate>1914-11-30</maxDate>
+    <latitude>37.283333</latitude>
+    <longitude>-112.333333</longitude>
+    <elevation>2042.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSH0024</id>
+    <displayName>RANCHESTER 0.3 SW, WY US</displayName>
+    <minDate>2011-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9047</latitude>
+    <longitude>-107.1687</longitude>
+    <elevation>1147.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8065</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYSH0022</id>
+    <displayName>RANCHESTER 1.3 ESE, WY US</displayName>
+    <minDate>2010-06-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>44.9001</latitude>
+    <longitude>-107.14</longitude>
+    <elevation>1146.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYLM0051</id>
+    <displayName>RANCHETTES 15.9 W, WY US</displayName>
+    <minDate>2006-02-18</minDate>
+    <maxDate>2008-09-26</maxDate>
+    <latitude>41.2626</latitude>
+    <longitude>-105.0906</longitude>
+    <elevation>2115.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.584</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WYLM0052</id>
+    <displayName>RANCHETTES 8.5 NNE, WY US</displayName>
+    <minDate>2006-02-20</minDate>
+    <maxDate>2010-05-08</maxDate>
+    <latitude>41.3381</latitude>
+    <longitude>-104.7496</longitude>
+    <elevation>1859.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.655</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CRCH</id>
+    <displayName>RANCHITA CALIFORNIA, CA US</displayName>
+    <minDate>1995-01-01</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>33.2222</latitude>
+    <longitude>-116.4975</longitude>
+    <elevation>1345.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9504</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047244</id>
+    <displayName>RANCHITA, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>33.23333</latitude>
+    <longitude>-116.53333</longitude>
+    <elevation>1253.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9298</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0064</id>
+    <displayName>RANCHO BERNARDO 0.9 WSW, CA US</displayName>
+    <minDate>2011-11-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>33.0345</latitude>
+    <longitude>-117.0823</longitude>
+    <elevation>157.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9537</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASD0035</id>
+    <displayName>RANCHO BERNARDO 1 SE, CA US</displayName>
+    <minDate>2009-08-22</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.018</latitude>
+    <longitude>-117.064</longitude>
+    <elevation>147.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9638</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00047248</id>
+    <displayName>RANCHO BERNARDO, CA US</displayName>
+    <minDate>2011-01-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>33.0216</latitude>
+    <longitude>-117.0813</longitude>
+    <elevation>210.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASR0034</id>
+    <displayName>RANCHO CUCAMONGA 1.6 W, CA US</displayName>
+    <minDate>2012-02-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.1223</latitude>
+    <longitude>-117.5977</longitude>
+    <elevation>420.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00417411</id>
+    <displayName>RANCHO ESCONDIDO, TX US</displayName>
+    <minDate>1943-07-01</minDate>
+    <maxDate>1949-08-19</maxDate>
+    <latitude>30.01667</latitude>
+    <longitude>-103.76667</longitude>
+    <elevation>1464</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7748</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CALA0035</id>
+    <displayName>RANCHO PALOS VERDES 2.0 NW, CA US</displayName>
+    <minDate>2011-11-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>33.7798</latitude>
+    <longitude>-118.3852</longitude>
+    <elevation>330.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8114</coverage>
+  </station>
+</stationCollection>

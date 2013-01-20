@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="153">
+  <station>
+    <id>GHCND:USC00142894</id>
+    <displayName>FREDONIA, KS US</displayName>
+    <minDate>1902-04-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>37.5463</latitude>
+    <longitude>-95.8327</longitude>
+    <elevation>265.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9388</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303033</id>
+    <displayName>FREDONIA, NY US</displayName>
+    <minDate>1914-01-01</minDate>
+    <maxDate>2012-02-14</maxDate>
+    <latitude>42.4496</latitude>
+    <longitude>-79.3119</longitude>
+    <elevation>231.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00443213</id>
+    <displayName>FREE UNION, VA US</displayName>
+    <minDate>1955-07-01</minDate>
+    <maxDate>2013-01-02</maxDate>
+    <latitude>38.0912</latitude>
+    <longitude>-78.5906</longitude>
+    <elevation>179.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8993</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSC0006</id>
+    <displayName>FREEBURG 2.0 SE, IL US</displayName>
+    <minDate>2007-05-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4085</latitude>
+    <longitude>-89.8804</longitude>
+    <elevation>128.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7933</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153046</id>
+    <displayName>FREEBURN 2 SW, KY US</displayName>
+    <minDate>1951-09-01</minDate>
+    <maxDate>1989-01-31</maxDate>
+    <latitude>37.55</latitude>
+    <longitude>-82.16667</longitude>
+    <elevation>223.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8898</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343660</id>
+    <displayName>FREEDOM 16 NNE MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>36.98694</latitude>
+    <longitude>-99.01083</longitude>
+    <elevation>554.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9366</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343363</id>
+    <displayName>FREEDOM 3 SSW MESONET, OK US</displayName>
+    <minDate>2009-02-01</minDate>
+    <maxDate>2013-01-05</maxDate>
+    <latitude>36.72556</latitude>
+    <longitude>-99.14222</longitude>
+    <elevation>529.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9359</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043953</id>
+    <displayName>FREEDOM 8 NNW, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.05</latitude>
+    <longitude>-121.81667</longitude>
+    <elevation>458.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9452</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233043</id>
+    <displayName>FREEDOM, MO US</displayName>
+    <minDate>1962-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4583</latitude>
+    <longitude>-91.7027</longitude>
+    <elevation>245.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9755</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00343358</id>
+    <displayName>FREEDOM, OK US</displayName>
+    <minDate>1948-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.7648</latitude>
+    <longitude>-99.1128</longitude>
+    <elevation>461.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9709</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0055</id>
+    <displayName>FREEHOLD 0.7 SSW, NJ US</displayName>
+    <minDate>2011-10-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.251</latitude>
+    <longitude>-74.2819</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303038</id>
+    <displayName>FREEHOLD 2 NW, NY US</displayName>
+    <minDate>1963-08-01</minDate>
+    <maxDate>1978-11-30</maxDate>
+    <latitude>42.36667</latitude>
+    <longitude>-74.06667</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9384</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYGR0006</id>
+    <displayName>FREEHOLD 3.4 E, NY US</displayName>
+    <minDate>2011-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3605</latitude>
+    <longitude>-73.9835</longitude>
+    <elevation>229.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9664</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00283181</id>
+    <displayName>FREEHOLD MARLBORO, NJ US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.3142</latitude>
+    <longitude>-74.2511</longitude>
+    <elevation>59.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.651</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJMN0016</id>
+    <displayName>FREEHOLD TWP 1.0 WNW, NJ US</displayName>
+    <minDate>2008-05-06</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>40.2279</latitude>
+    <longitude>-74.3142</longitude>
+    <elevation>43</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6561</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MISG0005</id>
+    <displayName>FREELAND 0.7 ENE, MI US</displayName>
+    <minDate>2008-08-22</minDate>
+    <maxDate>2011-07-18</maxDate>
+    <latitude>43.5247</latitude>
+    <longitude>-84.1042</longitude>
+    <elevation>198.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6466</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAIS0016</id>
+    <displayName>FREELAND 1.2 ESE, WA US</displayName>
+    <minDate>2009-11-26</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.0057</latitude>
+    <longitude>-122.5146</longitude>
+    <elevation>78</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4612</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAIS0005</id>
+    <displayName>FREELAND 2.1 W, WA US</displayName>
+    <minDate>2008-11-18</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>48.0145</latitude>
+    <longitude>-122.5841</longitude>
+    <elevation>22.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6096</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WAIS0027</id>
+    <displayName>FREELAND 3.3 NNE, WA US</displayName>
+    <minDate>2012-02-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.0581</latitude>
+    <longitude>-122.5142</longitude>
+    <elevation>10.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8171</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363056</id>
+    <displayName>FREELAND, PA US</displayName>
+    <minDate>1914-07-01</minDate>
+    <maxDate>1989-08-31</maxDate>
+    <latitude>41.01667</latitude>
+    <longitude>-75.9</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9645</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122549</id>
+    <displayName>FREELANDVILLE, IN US</displayName>
+    <minDate>1923-05-01</minDate>
+    <maxDate>1983-04-30</maxDate>
+    <latitude>38.8672</latitude>
+    <longitude>-87.3083</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123104</id>
+    <displayName>FREELANDVILLE, IN US</displayName>
+    <minDate>1983-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8672</latitude>
+    <longitude>-87.3083</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9988</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00463238</id>
+    <displayName>FREEMANSBURG 5 NE, WV US</displayName>
+    <minDate>1948-08-03</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>39.1302</latitude>
+    <longitude>-80.4505</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203023</id>
+    <displayName>FREEMONT, MI US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>1892-12-31</maxDate>
+    <latitude>43.4667</latitude>
+    <longitude>-85.95</longitude>
+    <elevation>249</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9399</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0057</id>
+    <displayName>FREEPORT 0.3 S, ME US</displayName>
+    <minDate>2010-06-02</minDate>
+    <maxDate>2012-12-23</maxDate>
+    <latitude>43.8523</latitude>
+    <longitude>-70.1007</longitude>
+    <elevation>35.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5556</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0009</id>
+    <displayName>FREEPORT 0.3 WNW, ME US</displayName>
+    <minDate>2009-10-04</minDate>
+    <maxDate>2010-05-28</maxDate>
+    <latitude>43.8583</latitude>
+    <longitude>-70.1053</longitude>
+    <elevation>47.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6582</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0016</id>
+    <displayName>FREEPORT 0.5 WSW, ME US</displayName>
+    <minDate>2009-09-20</minDate>
+    <maxDate>2012-06-05</maxDate>
+    <latitude>43.8535</latitude>
+    <longitude>-70.1085</longitude>
+    <elevation>43.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3687</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSP0004</id>
+    <displayName>FREEPORT 1.5M W, IL US</displayName>
+    <minDate>2007-05-13</minDate>
+    <maxDate>2008-11-24</maxDate>
+    <latitude>42.2799</latitude>
+    <longitude>-89.6937</longitude>
+    <elevation>267</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.379</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MIBR0012</id>
+    <displayName>FREEPORT 1.6 S, MI US</displayName>
+    <minDate>2009-09-29</minDate>
+    <maxDate>2012-11-26</maxDate>
+    <latitude>42.7403</latitude>
+    <longitude>-85.3161</longitude>
+    <elevation>264</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2571</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413340</id>
+    <displayName>FREEPORT 2 NW, TX US</displayName>
+    <minDate>1931-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.9845</latitude>
+    <longitude>-95.3809</longitude>
+    <elevation>2.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9756</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILSP0006</id>
+    <displayName>FREEPORT 2.0 NW, IL US</displayName>
+    <minDate>2007-05-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.3095</latitude>
+    <longitude>-89.6637</longitude>
+    <elevation>235.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0013</id>
+    <displayName>FREEPORT 2.0 SSW, ME US</displayName>
+    <minDate>2009-08-04</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.8324</latitude>
+    <longitude>-70.12</longitude>
+    <elevation>62.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9477</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0015</id>
+    <displayName>FREEPORT 2.6 WNW, ME US</displayName>
+    <minDate>2009-08-01</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>43.8668</latitude>
+    <longitude>-70.1507</longitude>
+    <elevation>38.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9614</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MECM0032</id>
+    <displayName>FREEPORT 3.3 SE, ME US</displayName>
+    <minDate>2010-03-30</minDate>
+    <maxDate>2011-08-25</maxDate>
+    <latitude>43.8217</latitude>
+    <longitude>-70.0553</longitude>
+    <elevation>9.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9163</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWT0002</id>
+    <displayName>FREEPORT 3.4 S, FL US</displayName>
+    <minDate>2007-09-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4518</latitude>
+    <longitude>-86.1422</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6957</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWT0001</id>
+    <displayName>FREEPORT 4.0 SSW, FL US</displayName>
+    <minDate>2007-10-01</minDate>
+    <maxDate>2010-06-29</maxDate>
+    <latitude>30.4455</latitude>
+    <longitude>-86.1596</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7268</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLWT0004</id>
+    <displayName>FREEPORT 4.4 SE, FL US</displayName>
+    <minDate>2007-10-24</minDate>
+    <maxDate>2013-01-03</maxDate>
+    <latitude>30.458</latitude>
+    <longitude>-86.0801</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7509</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113262</id>
+    <displayName>FREEPORT WWP, IL US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.2972</latitude>
+    <longitude>-89.6038</longitude>
+    <elevation>228.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00113257</id>
+    <displayName>FREEPORT, IL US</displayName>
+    <minDate>1909-01-01</minDate>
+    <maxDate>1973-08-16</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-89.61667</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9923</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303042</id>
+    <displayName>FREEPORT, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1961-03-31</maxDate>
+    <latitude>40.66667</latitude>
+    <longitude>-73.6</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9862</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00363061</id>
+    <displayName>FREEPORT, PA US</displayName>
+    <minDate>1903-02-01</minDate>
+    <maxDate>1909-02-28</maxDate>
+    <latitude>40.5</latitude>
+    <longitude>-79.75</longitude>
+    <elevation>225.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.914</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413344</id>
+    <displayName>FREER 18 WNW, TX US</displayName>
+    <minDate>1978-07-01</minDate>
+    <maxDate>2003-03-31</maxDate>
+    <latitude>27.94222</latitude>
+    <longitude>-98.87167</longitude>
+    <elevation>102.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9456</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXWB0023</id>
+    <displayName>FREER 29.5 WSW, TX US</displayName>
+    <minDate>2009-01-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.6765</latitude>
+    <longitude>-99.0423</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9581</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00413341</id>
+    <displayName>FREER, TX US</displayName>
+    <minDate>1947-12-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>27.8722</latitude>
+    <longitude>-98.6176</longitude>
+    <elevation>171.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8765</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203013</id>
+    <displayName>FREESOIL 4 SW, MI US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>44.06667</latitude>
+    <longitude>-86.28333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9225</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCR0001</id>
+    <displayName>FREETOWN 2.1 SW, NY US</displayName>
+    <minDate>2006-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.533</latitude>
+    <longitude>-76.0211</longitude>
+    <elevation>476.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2638</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00303050</id>
+    <displayName>FREEVILLE 1 NE, NY US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.5192</latitude>
+    <longitude>-76.331</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9328</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0005</id>
+    <displayName>FREEVILLE 1.5 NE, NY US</displayName>
+    <minDate>2007-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.5253</latitude>
+    <longitude>-76.3218</longitude>
+    <elevation>327.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9165</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0010</id>
+    <displayName>FREEVILLE 2.6 N, NY US</displayName>
+    <minDate>2008-04-18</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>42.5487</latitude>
+    <longitude>-76.3398</longitude>
+    <elevation>370</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7757</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYTM0023</id>
+    <displayName>FREEVILLE 3.7 W, NY US</displayName>
+    <minDate>2008-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.5021</latitude>
+    <longitude>-76.418</longitude>
+    <elevation>352</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9781</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSN0001</id>
+    <displayName>FREMONT 0.7 W, IN US</displayName>
+    <minDate>2006-11-09</minDate>
+    <maxDate>2009-03-02</maxDate>
+    <latitude>41.7303</latitude>
+    <longitude>-84.9466</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1432</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSN0029</id>
+    <displayName>FREMONT 1.0 NW, IN US</displayName>
+    <minDate>2011-06-22</minDate>
+    <maxDate>2011-12-07</maxDate>
+    <latitude>41.7419</latitude>
+    <longitude>-84.9468</longitude>
+    <elevation>330.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6331</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAAL0007</id>
+    <displayName>FREMONT 2.6 ESE, CA US</displayName>
+    <minDate>2010-01-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.515</latitude>
+    <longitude>-121.9523</longitude>
+    <elevation>9.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9003</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MINW0006</id>
+    <displayName>FREMONT 3.5 NNW, MI US</displayName>
+    <minDate>2009-08-15</minDate>
+    <maxDate>2012-12-07</maxDate>
+    <latitude>43.5107</latitude>
+    <longitude>-85.9666</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9909</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00203025</id>
+    <displayName>FREMONT 4 WSW, MI US</displayName>
+    <minDate>2007-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.4458</latitude>
+    <longitude>-86.0265</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9953</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353095</id>
+    <displayName>FREMONT 5 NW, OR US</displayName>
+    <minDate>1909-10-01</minDate>
+    <maxDate>1996-05-31</maxDate>
+    <latitude>43.39361</latitude>
+    <longitude>-121.21222</longitude>
+    <elevation>1404.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9021</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1INSN0014</id>
+    <displayName>FREMONT 6.4 W, IN US</displayName>
+    <minDate>2007-10-18</minDate>
+    <maxDate>2012-09-20</maxDate>
+    <latitude>41.7441</latitude>
+    <longitude>-85.0574</longitude>
+    <elevation>304.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332976</id>
+    <displayName>FREMONT AG STATION, OH US</displayName>
+    <minDate>1996-12-01</minDate>
+    <maxDate>2012-04-30</maxDate>
+    <latitude>41.31194</latitude>
+    <longitude>-83.17194</longitude>
+    <elevation>202.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COWA0057</id>
+    <displayName>FREMONT BUTTE 2.2 NNE, CO US</displayName>
+    <minDate>2006-10-01</minDate>
+    <maxDate>2009-11-18</maxDate>
+    <latitude>40.279</latitude>
+    <longitude>-103.292</longitude>
+    <elevation>1348.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9773</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CFRE</id>
+    <displayName>FREMONT CANYON CALIFORNIA, CA US</displayName>
+    <minDate>1991-07-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>33.8081</latitude>
+    <longitude>-117.7111</longitude>
+    <elevation>542.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00423012</id>
+    <displayName>FREMONT INDIAN S P, UT US</displayName>
+    <minDate>1988-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>38.5777</latitude>
+    <longitude>-112.3347</longitude>
+    <elevation>1804.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9546</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0006K08S</id>
+    <displayName>FREMONT PASS, CO US</displayName>
+    <minDate>1980-07-28</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>39.3833</latitude>
+    <longitude>-106.2</longitude>
+    <elevation>3474.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9346</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00233052</id>
+    <displayName>FREMONT TOWER, MO US</displayName>
+    <minDate>1940-06-01</minDate>
+    <maxDate>1960-05-31</maxDate>
+    <latitude>36.96667</latitude>
+    <longitude>-91.23333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043244</id>
+    <displayName>FREMONT, CA US</displayName>
+    <minDate>1996-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5422</latitude>
+    <longitude>-122.0158</longitude>
+    <elevation>11.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9669</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123134</id>
+    <displayName>FREMONT, IN US</displayName>
+    <minDate>1950-05-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>41.73333</latitude>
+    <longitude>-84.95</longitude>
+    <elevation>310.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8784</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00253050</id>
+    <displayName>FREMONT, NE US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.43</latitude>
+    <longitude>-96.4669</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9699</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332974</id>
+    <displayName>FREMONT, OH US</displayName>
+    <minDate>1901-07-01</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>41.3331</latitude>
+    <longitude>-83.1189</longitude>
+    <elevation>182.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8603</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00223173</id>
+    <displayName>FRENCH CAMP, MS US</displayName>
+    <minDate>1893-09-01</minDate>
+    <maxDate>1948-05-07</maxDate>
+    <latitude>33.283333</latitude>
+    <longitude>-89.4</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1121</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WVUP0001</id>
+    <displayName>FRENCH CREEK 3.4 SE, WV US</displayName>
+    <minDate>2010-12-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.8413</latitude>
+    <longitude>-80.2707</longitude>
+    <elevation>553.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MFRE</id>
+    <displayName>FRENCH CREEK MONTANA, MT US</displayName>
+    <minDate>1999-08-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>45.33</latitude>
+    <longitude>-112.9128</longitude>
+    <elevation>2262.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.693</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043242</id>
+    <displayName>FRENCH GULCH, CA US</displayName>
+    <minDate>1952-01-01</minDate>
+    <maxDate>1982-11-30</maxDate>
+    <latitude>40.7</latitude>
+    <longitude>-122.63333</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9556</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00123146</id>
+    <displayName>FRENCH LICK 3 N, IN US</displayName>
+    <minDate>2006-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.5933</latitude>
+    <longitude>-86.6113</longitude>
+    <elevation>249.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7093</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LALV0003</id>
+    <displayName>FRENCH SETTLEMENT 0.9 SSE, LA US</displayName>
+    <minDate>2008-01-21</minDate>
+    <maxDate>2009-10-06</maxDate>
+    <latitude>30.2995</latitude>
+    <longitude>-90.7981</longitude>
+    <elevation>7.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.648</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1LALV0005</id>
+    <displayName>FRENCH SETTLEMENT 3.0 SSW, LA US</displayName>
+    <minDate>2009-12-31</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.2717</latitude>
+    <longitude>-90.8228</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4535</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00163345</id>
+    <displayName>FRENCH SETTLEMENT, LA US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>30.3</latitude>
+    <longitude>-90.8</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8102</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEHN0022</id>
+    <displayName>FRENCHBORO 0.1 ESE, ME US</displayName>
+    <minDate>2011-01-05</minDate>
+    <maxDate>2012-06-12</maxDate>
+    <latitude>44.1177</latitude>
+    <longitude>-68.3606</longitude>
+    <elevation>21.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3524</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00153052</id>
+    <displayName>FRENCHBURG 2 W, KY US</displayName>
+    <minDate>1941-12-01</minDate>
+    <maxDate>2005-02-28</maxDate>
+    <latitude>37.95</latitude>
+    <longitude>-83.66667</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8732</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00353109</id>
+    <displayName>FRENCHGLEN, OR US</displayName>
+    <minDate>1927-04-01</minDate>
+    <maxDate>1936-12-31</maxDate>
+    <latitude>42.85</latitude>
+    <longitude>-118.88333</longitude>
+    <elevation>1281.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9748</coverage>
+  </station>
+  <station>
+    <id>GHCND:VQC00673380</id>
+    <displayName>FRENCHMANS BAY, US</displayName>
+    <minDate>1972-01-01</minDate>
+    <maxDate>1978-02-28</maxDate>
+    <latitude>18.31667</latitude>
+    <longitude>-64.91667</longitude>
+    <elevation>36</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJHN0031</id>
+    <displayName>FRENCHTOWN 0.5 N, NJ US</displayName>
+    <minDate>2012-07-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.5342</latitude>
+    <longitude>-75.0559</longitude>
+    <elevation>88.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.887</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004836</id>
+    <displayName>FRENCHVILLE NORTHERN AROOSTOOK AIRPORT, ME US</displayName>
+    <minDate>1996-07-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>47.28556</latitude>
+    <longitude>-68.31333</longitude>
+    <elevation>301.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAFR0001</id>
+    <displayName>FRESNO 3.4 SSE, CA US</displayName>
+    <minDate>2008-10-22</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>36.7381</latitude>
+    <longitude>-119.7619</longitude>
+    <elevation>89.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7149</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CAFR0007</id>
+    <displayName>FRESNO 4.3 NNW, CA US</displayName>
+    <minDate>2010-01-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8362</latitude>
+    <longitude>-119.8293</longitude>
+    <elevation>101.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9726</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043256</id>
+    <displayName>FRESNO 5 NE, CA US</displayName>
+    <minDate>1999-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.7525</latitude>
+    <longitude>-119.7017</longitude>
+    <elevation>100</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00093193</id>
+    <displayName>FRESNO YOSEMITE INTERNATIONAL AIRPORT, CA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.78</latitude>
+    <longitude>-119.7194</longitude>
+    <elevation>101.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYCQ0007</id>
+    <displayName>FREWSBURG 4.3 SSE, NY US</displayName>
+    <minDate>2009-06-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.0015</latitude>
+    <longitude>-79.13</longitude>
+    <elevation>429.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9549</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043261</id>
+    <displayName>FRIANT GOVERNMENT CP, CA US</displayName>
+    <minDate>1912-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.9969</latitude>
+    <longitude>-119.7072</longitude>
+    <elevation>125</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8714</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00043260</id>
+    <displayName>FRIANT, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1910-07-31</maxDate>
+    <latitude>37.016667</latitude>
+    <longitude>-119.683333</longitude>
+    <elevation>95.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3191</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0011</id>
+    <displayName>FRIDAY HARBOR 0.8 WSW, WA US</displayName>
+    <minDate>2008-12-14</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.5336</latitude>
+    <longitude>-123.049</longitude>
+    <elevation>48.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5385</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0009</id>
+    <displayName>FRIDAY HARBOR 2.8 S, WA US</displayName>
+    <minDate>2008-12-29</minDate>
+    <maxDate>2011-01-14</maxDate>
+    <latitude>48.4971</latitude>
+    <longitude>-123.0415</longitude>
+    <elevation>38.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7336</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0012</id>
+    <displayName>FRIDAY HARBOR 3.4 SW, WA US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2009-11-19</maxDate>
+    <latitude>48.4981</latitude>
+    <longitude>-123.0774</longitude>
+    <elevation>46.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0486</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0016</id>
+    <displayName>FRIDAY HARBOR 4.0 SSW, WA US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.4819</latitude>
+    <longitude>-123.0613</longitude>
+    <elevation>18.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8368</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0010</id>
+    <displayName>FRIDAY HARBOR 4.6 WNW, WA US</displayName>
+    <minDate>2009-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.5538</latitude>
+    <longitude>-123.128</longitude>
+    <elevation>145.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9566</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0013</id>
+    <displayName>FRIDAY HARBOR 6.0 W, WA US</displayName>
+    <minDate>2009-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.5329</latitude>
+    <longitude>-123.1631</longitude>
+    <elevation>39.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7028</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0008</id>
+    <displayName>FRIDAY HARBOR 6.2 WNW, WA US</displayName>
+    <minDate>2008-12-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.5652</latitude>
+    <longitude>-123.16</longitude>
+    <elevation>40.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9839</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0001</id>
+    <displayName>FRIDAY HARBOR 6.3 SSE, WA US</displayName>
+    <minDate>2008-05-28</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.4566</latitude>
+    <longitude>-122.9645</longitude>
+    <elevation>17.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9457</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1WASJ0002</id>
+    <displayName>FRIDAY HARBOR 6.8 NW, WA US</displayName>
+    <minDate>2008-09-17</minDate>
+    <maxDate>2011-04-14</maxDate>
+    <latitude>48.615</latitude>
+    <longitude>-123.1214</longitude>
+    <elevation>45.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5032</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094276</id>
+    <displayName>FRIDAY HARBOR AIRPORT, WA US</displayName>
+    <minDate>1998-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.52222</latitude>
+    <longitude>-123.02306</longitude>
+    <elevation>33.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9907</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00453010</id>
+    <displayName>FRIDAY HARBOR, WA US</displayName>
+    <minDate>1949-05-13</minDate>
+    <maxDate>1949-11-30</maxDate>
+    <latitude>48.53333</latitude>
+    <longitude>-123.03333</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0023</id>
+    <displayName>FRIDLEY 0.3 W, MN US</displayName>
+    <minDate>2011-04-10</minDate>
+    <maxDate>2012-06-19</maxDate>
+    <latitude>45.0847</latitude>
+    <longitude>-93.2648</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3638</coverage>
+  </station>
+</stationCollection>

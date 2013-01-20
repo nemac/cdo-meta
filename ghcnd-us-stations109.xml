@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="109">
+  <station>
+    <id>GHCND:USC00182450</id>
+    <displayName>DEER PARK, MD US</displayName>
+    <minDate>1894-10-01</minDate>
+    <maxDate>1918-08-31</maxDate>
+    <latitude>39.433333</latitude>
+    <longitude>-79.333333</longitude>
+    <elevation>748.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9286</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472041</id>
+    <displayName>DEER PARK, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>45.2</latitude>
+    <longitude>-92.4</longitude>
+    <elevation>323.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4602</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0008G10S</id>
+    <displayName>DEER PARK, WY US</displayName>
+    <minDate>1997-09-30</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.5833</latitude>
+    <longitude>-108.9</longitude>
+    <elevation>2956.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9522</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102451</id>
+    <displayName>DEER POINT, ID US</displayName>
+    <minDate>1954-12-01</minDate>
+    <maxDate>1970-11-30</maxDate>
+    <latitude>43.75</latitude>
+    <longitude>-116.1</longitude>
+    <elevation>2147</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9326</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0217</id>
+    <displayName>DEER TRAIL 0.4 SSW, CO US</displayName>
+    <minDate>2009-12-02</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.6113</latitude>
+    <longitude>-104.0438</longitude>
+    <elevation>1582.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1554</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052162</id>
+    <displayName>DEER TRAIL 3 NW, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2001-06-30</maxDate>
+    <latitude>39.64194</latitude>
+    <longitude>-104.0775</longitude>
+    <elevation>1554.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1038</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0083</id>
+    <displayName>DEER TRAIL 3.7 NNE, CO US</displayName>
+    <minDate>2003-09-22</minDate>
+    <maxDate>2005-01-13</maxDate>
+    <latitude>39.6667</latitude>
+    <longitude>-104.0284</longitude>
+    <elevation>1620.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6542</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0223</id>
+    <displayName>DEER TRAIL 5.2 N, CO US</displayName>
+    <minDate>2011-05-12</minDate>
+    <maxDate>2012-10-14</maxDate>
+    <latitude>39.6913</latitude>
+    <longitude>-104.0484</longitude>
+    <elevation>1584.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COEL0010</id>
+    <displayName>DEER TRAIL 6.1 SW, CO US</displayName>
+    <minDate>2002-08-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.5482</latitude>
+    <longitude>-104.1273</longitude>
+    <elevation>1677.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.906</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0226</id>
+    <displayName>DEER TRAIL 6.6 E, CO US</displayName>
+    <minDate>2011-07-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6246</latitude>
+    <longitude>-103.9186</longitude>
+    <elevation>1570.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9043</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00022462</id>
+    <displayName>DEER VALLEY, AZ US</displayName>
+    <minDate>1950-01-18</minDate>
+    <maxDate>1985-01-31</maxDate>
+    <latitude>33.58333</latitude>
+    <longitude>-112.08333</longitude>
+    <elevation>383.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9805</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031900</id>
+    <displayName>DEER, AR US</displayName>
+    <minDate>1975-06-01</minDate>
+    <maxDate>2012-05-08</maxDate>
+    <latitude>35.8272</latitude>
+    <longitude>-93.2044</longitude>
+    <elevation>723.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9989</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442315</id>
+    <displayName>DEERFIELD 1 S, VA US</displayName>
+    <minDate>1926-12-01</minDate>
+    <maxDate>1980-12-31</maxDate>
+    <latitude>38.16667</latitude>
+    <longitude>-79.36667</longitude>
+    <elevation>524.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8504</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142040</id>
+    <displayName>DEERFIELD 10 NNW, KS US</displayName>
+    <minDate>1915-10-01</minDate>
+    <maxDate>1975-12-31</maxDate>
+    <latitude>38.11667</latitude>
+    <longitude>-101.2</longitude>
+    <elevation>980.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9462</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSKE0001</id>
+    <displayName>DEERFIELD 14 N, KS US</displayName>
+    <minDate>2005-05-30</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>38.18</latitude>
+    <longitude>-101.123</longitude>
+    <elevation>934.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSKE0002</id>
+    <displayName>DEERFIELD 2 N, KS US</displayName>
+    <minDate>2005-05-01</minDate>
+    <maxDate>2007-10-18</maxDate>
+    <latitude>38.015</latitude>
+    <longitude>-101.138</longitude>
+    <elevation>915.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9345</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392231</id>
+    <displayName>DEERFIELD 3 SE, SD US</displayName>
+    <minDate>1981-07-01</minDate>
+    <maxDate>2002-12-31</maxDate>
+    <latitude>43.99444</latitude>
+    <longitude>-103.78583</longitude>
+    <elevation>1847.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9328</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHRC0018</id>
+    <displayName>DEERFIELD 3.2 WSW, NH US</displayName>
+    <minDate>2009-07-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.1335</latitude>
+    <longitude>-71.2794</longitude>
+    <elevation>114.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392228</id>
+    <displayName>DEERFIELD 4 NW, SD US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1980-05-31</maxDate>
+    <latitude>44.06667</latitude>
+    <longitude>-103.9</longitude>
+    <elevation>1895.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7006</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBW0029</id>
+    <displayName>DEERFIELD BEACH 1.7 WSW, FL US</displayName>
+    <minDate>2010-08-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.3083</latitude>
+    <longitude>-80.147</longitude>
+    <elevation>4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8427</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1FLBW0026</id>
+    <displayName>DEERFIELD BEACH 2.5 ESE, FL US</displayName>
+    <minDate>2009-11-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>26.3038</latitude>
+    <longitude>-80.0813</longitude>
+    <elevation>0.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00392234</id>
+    <displayName>DEERFIELD DAM, SD US</displayName>
+    <minDate>1909-08-01</minDate>
+    <maxDate>1955-11-30</maxDate>
+    <latitude>44.01667</latitude>
+    <longitude>-103.78333</longitude>
+    <elevation>1790.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9234</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00026643</id>
+    <displayName>DEERING AIRPORT, AK US</displayName>
+    <minDate>1998-07-23</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>66.06889</latitude>
+    <longitude>-162.76389</longitude>
+    <elevation>6.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502327</id>
+    <displayName>DEERING, AK US</displayName>
+    <minDate>1917-07-01</minDate>
+    <maxDate>1949-12-31</maxDate>
+    <latitude>66.06917</latitude>
+    <longitude>-162.76667</longitude>
+    <elevation>4.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0466</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00232156</id>
+    <displayName>DEERING, MO US</displayName>
+    <minDate>1941-08-23</minDate>
+    <maxDate>1955-12-31</maxDate>
+    <latitude>36.2</latitude>
+    <longitude>-89.88333</longitude>
+    <elevation>78.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00271950</id>
+    <displayName>DEERING, NH US</displayName>
+    <minDate>1976-05-01</minDate>
+    <maxDate>1997-07-31</maxDate>
+    <latitude>43.09083</latitude>
+    <longitude>-71.86778</longitude>
+    <elevation>325.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9955</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00222275</id>
+    <displayName>DEESON, MS US</displayName>
+    <minDate>1945-08-01</minDate>
+    <maxDate>1946-01-31</maxDate>
+    <latitude>34.01667</latitude>
+    <longitude>-90.86667</longitude>
+    <elevation>49.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00262189</id>
+    <displayName>DEETH, NV US</displayName>
+    <minDate>1951-12-01</minDate>
+    <maxDate>2006-05-31</maxDate>
+    <latitude>41.06611</latitude>
+    <longitude>-115.27111</longitude>
+    <elevation>1627.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHDF0001</id>
+    <displayName>DEFIANCE 0.9 E, OH US</displayName>
+    <minDate>2009-02-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.2812</latitude>
+    <longitude>-84.3454</longitude>
+    <elevation>212.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9797</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004851</id>
+    <displayName>DEFIANCE MEMORIAL AIRPORT, OH US</displayName>
+    <minDate>1998-01-07</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>41.3375</latitude>
+    <longitude>-84.42889</longitude>
+    <elevation>215.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9851</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332103</id>
+    <displayName>DEFIANCE POWER PLANT, OH US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1962-12-19</maxDate>
+    <latitude>41.23694</latitude>
+    <longitude>-84.39944</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8788</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332098</id>
+    <displayName>DEFIANCE, OH US</displayName>
+    <minDate>1893-03-10</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>41.2783</latitude>
+    <longitude>-84.3847</longitude>
+    <elevation>213.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8726</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122122</id>
+    <displayName>DEGONIA SPRINGS, IN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1895-09-30</maxDate>
+    <latitude>38.1</latitude>
+    <longitude>-87.2</longitude>
+    <elevation>100.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031910</id>
+    <displayName>DEGRAY LAKE STATE PARK, AR US</displayName>
+    <minDate>2010-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.253</latitude>
+    <longitude>-93.1486</longitude>
+    <elevation>149.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9889</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00362071</id>
+    <displayName>DEHART DAM, PA US</displayName>
+    <minDate>1998-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.46</latitude>
+    <longitude>-76.8703</longitude>
+    <elevation>163.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9407</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302020</id>
+    <displayName>DEKALB JUNCTION, NY US</displayName>
+    <minDate>1900-03-01</minDate>
+    <maxDate>1906-12-31</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-75.266667</longitude>
+    <elevation>136.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412352</id>
+    <displayName>DEKALB, TX US</displayName>
+    <minDate>1944-02-20</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.4797</latitude>
+    <longitude>-94.6175</longitude>
+    <elevation>103.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8385</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242301</id>
+    <displayName>DEL BONITA, MT US</displayName>
+    <minDate>1951-05-24</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>48.9983</latitude>
+    <longitude>-112.7886</longitude>
+    <elevation>1321.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8625</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042350</id>
+    <displayName>DEL MAR FIRE DEPARTMENT, CA US</displayName>
+    <minDate>2011-01-05</minDate>
+    <maxDate>2011-01-09</maxDate>
+    <latitude>32.9719</latitude>
+    <longitude>-117.2619</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042362</id>
+    <displayName>DEL MONTE, CA US</displayName>
+    <minDate>1911-01-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>36.6</latitude>
+    <longitude>-121.86667</longitude>
+    <elevation>13.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0009</id>
+    <displayName>DEL NORTE 0.25 NW, CO US</displayName>
+    <minDate>2005-04-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.6812</latitude>
+    <longitude>-106.355</longitude>
+    <elevation>2403</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8245</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052184</id>
+    <displayName>DEL NORTE 2 E, CO US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6743</latitude>
+    <longitude>-106.3246</longitude>
+    <elevation>2396.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7568</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0019</id>
+    <displayName>DEL NORTE 2.5 ENE, CO US</displayName>
+    <minDate>2008-08-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6907</latitude>
+    <longitude>-106.3084</longitude>
+    <elevation>2391.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0018</id>
+    <displayName>DEL NORTE 2.6 W, CO US</displayName>
+    <minDate>2008-07-22</minDate>
+    <maxDate>2012-09-04</maxDate>
+    <latitude>37.6735</latitude>
+    <longitude>-106.4001</longitude>
+    <elevation>2422.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.67</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CORG0016</id>
+    <displayName>DEL NORTE 3.3 E, CO US</displayName>
+    <minDate>2008-03-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.6792</latitude>
+    <longitude>-106.2917</longitude>
+    <elevation>2385.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8608</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042369</id>
+    <displayName>DEL PUERTO ROAD CAMP, CA US</displayName>
+    <minDate>1959-11-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>37.41667</latitude>
+    <longitude>-121.38333</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9611</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXVV0001</id>
+    <displayName>DEL RIO 1.0 WNW, TX US</displayName>
+    <minDate>2007-09-10</minDate>
+    <maxDate>2013-01-09</maxDate>
+    <latitude>29.384</latitude>
+    <longitude>-100.9096</longitude>
+    <elevation>324.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6444</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412361</id>
+    <displayName>DEL RIO 2 NW, TX US</displayName>
+    <minDate>1996-08-01</minDate>
+    <maxDate>2012-08-06</maxDate>
+    <latitude>29.4216</latitude>
+    <longitude>-100.912</longitude>
+    <elevation>329.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412362</id>
+    <displayName>DEL RIO 3 S, TX US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>1954-02-28</maxDate>
+    <latitude>29.33333</latitude>
+    <longitude>-100.88333</longitude>
+    <elevation>267.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7228</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412364</id>
+    <displayName>DEL RIO 4 SW, TX US</displayName>
+    <minDate>1923-01-01</minDate>
+    <maxDate>1989-12-29</maxDate>
+    <latitude>29.33167</latitude>
+    <longitude>-100.92972</longitude>
+    <elevation>264.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3814</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXVV0003</id>
+    <displayName>DEL RIO 5.7 NW, TX US</displayName>
+    <minDate>2007-11-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.4421</latitude>
+    <longitude>-100.9536</longitude>
+    <elevation>347.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9619</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXVV0016</id>
+    <displayName>DEL RIO 7.8 NNW, TX US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.4817</latitude>
+    <longitude>-100.9413</longitude>
+    <elevation>361.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.819</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXVV0017</id>
+    <displayName>DEL RIO 9.3 N, TX US</displayName>
+    <minDate>2010-04-22</minDate>
+    <maxDate>2012-12-14</maxDate>
+    <latitude>29.5098</latitude>
+    <longitude>-100.9085</longitude>
+    <elevation>342.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8647</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022010</id>
+    <displayName>DEL RIO INTERNATIONAL AIRPORT, TX US</displayName>
+    <minDate>1951-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>29.3784</latitude>
+    <longitude>-100.927</longitude>
+    <elevation>304.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9107</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022001</id>
+    <displayName>DEL RIO LAUGHLIN AFB, TX US</displayName>
+    <minDate>1953-06-25</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>29.36667</latitude>
+    <longitude>-100.78333</longitude>
+    <elevation>329.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9789</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00022004</id>
+    <displayName>DEL RIO, TX US</displayName>
+    <minDate>1946-01-03</minDate>
+    <maxDate>2004-10-04</maxDate>
+    <latitude>29.36667</latitude>
+    <longitude>-100.91667</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1829</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDVA</id>
+    <displayName>DEL VALLE CALIFORNIA, CA US</displayName>
+    <minDate>1998-11-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>34.4311</latitude>
+    <longitude>-118.6828</longitude>
+    <elevation>389.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00082229</id>
+    <displayName>DELAND 1 SSE, FL US</displayName>
+    <minDate>1892-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>29.0181</latitude>
+    <longitude>-81.3106</longitude>
+    <elevation>7.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9041</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00042346</id>
+    <displayName>DELANO, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>35.7683</latitude>
+    <longitude>-119.26</longitude>
+    <elevation>92</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.687</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00212088</id>
+    <displayName>DELANO, MN US</displayName>
+    <minDate>1977-12-01</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>45.0417</latitude>
+    <longitude>-93.7902</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8158</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302031</id>
+    <displayName>DELANSON 2 NE, NY US</displayName>
+    <minDate>2005-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7672</latitude>
+    <longitude>-74.1711</longitude>
+    <elevation>299.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9122</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYSC0001</id>
+    <displayName>DELANSON 2.5 NNE, NY US</displayName>
+    <minDate>2007-09-16</minDate>
+    <maxDate>2012-10-11</maxDate>
+    <latitude>42.7817</latitude>
+    <longitude>-74.1708</longitude>
+    <elevation>392.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7906</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00442326</id>
+    <displayName>DELAPLANE 1 NW, VA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>38.93333</latitude>
+    <longitude>-77.93333</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.769</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00472050</id>
+    <displayName>DELAVAN, WI US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1922-06-30</maxDate>
+    <latitude>42.63333</latitude>
+    <longitude>-88.31667</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8128</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00132136</id>
+    <displayName>DELAWARE 3 WSW, IA US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>1975-12-31</maxDate>
+    <latitude>42.46667</latitude>
+    <longitude>-91.41667</longitude>
+    <elevation>299</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8394</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHDL0003</id>
+    <displayName>DELAWARE 3.7 NNW, OH US</displayName>
+    <minDate>2009-03-31</minDate>
+    <maxDate>2012-02-03</maxDate>
+    <latitude>40.3492</latitude>
+    <longitude>-83.1064</longitude>
+    <elevation>295</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3692</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00072625</id>
+    <displayName>DELAWARE CITY REEDY, DE US</displayName>
+    <minDate>1902-11-01</minDate>
+    <maxDate>1954-04-30</maxDate>
+    <latitude>39.56667</latitude>
+    <longitude>-75.58333</longitude>
+    <elevation>3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9373</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332124</id>
+    <displayName>DELAWARE LAKE, OH US</displayName>
+    <minDate>1949-10-01</minDate>
+    <maxDate>1987-06-30</maxDate>
+    <latitude>40.3579</latitude>
+    <longitude>-83.0708</longitude>
+    <elevation>283.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9929</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00202045</id>
+    <displayName>DELAWARE, MI US</displayName>
+    <minDate>1938-11-01</minDate>
+    <maxDate>1940-11-30</maxDate>
+    <latitude>47.41667</latitude>
+    <longitude>-88.1</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9369</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00332119</id>
+    <displayName>DELAWARE, OH US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>2001-01-31</maxDate>
+    <latitude>40.3175</latitude>
+    <longitude>-83.07389</longitude>
+    <elevation>280.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302302</id>
+    <displayName>DELHI 1 NW, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1955-06-30</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-74.93333</longitude>
+    <elevation>509</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9992</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302039</id>
+    <displayName>DELHI 1 NW, NY US</displayName>
+    <minDate>1978-07-01</minDate>
+    <maxDate>1979-12-31</maxDate>
+    <latitude>42.3</latitude>
+    <longitude>-74.93333</longitude>
+    <elevation>509</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5009</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDL0005</id>
+    <displayName>DELHI 1.5 NNE, NY US</displayName>
+    <minDate>2005-09-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.3003</latitude>
+    <longitude>-74.9026</longitude>
+    <elevation>462.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9926</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00302036</id>
+    <displayName>DELHI 2 SE, NY US</displayName>
+    <minDate>1924-06-01</minDate>
+    <maxDate>2011-03-24</maxDate>
+    <latitude>42.2558</latitude>
+    <longitude>-74.9127</longitude>
+    <elevation>432.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8886</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDL0001</id>
+    <displayName>DELHI 4.2 WSW, NY US</displayName>
+    <minDate>2005-05-01</minDate>
+    <maxDate>2007-08-31</maxDate>
+    <latitude>42.2519</latitude>
+    <longitude>-74.9874</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.823</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDL0006</id>
+    <displayName>DELHI 5.0 ESE, NY US</displayName>
+    <minDate>2005-05-01</minDate>
+    <maxDate>2008-11-10</maxDate>
+    <latitude>42.2608</latitude>
+    <longitude>-74.8195</longitude>
+    <elevation>534</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8628</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYDL0004</id>
+    <displayName>DELHI 6.3 NNW, NY US</displayName>
+    <minDate>2004-01-01</minDate>
+    <maxDate>2007-01-31</maxDate>
+    <latitude>42.3667</latitude>
+    <longitude>-74.95</longitude>
+    <elevation>562.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9876</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00052178</id>
+    <displayName>DELHI, CO US</displayName>
+    <minDate>1923-07-01</minDate>
+    <maxDate>1980-09-30</maxDate>
+    <latitude>37.63333</latitude>
+    <longitude>-104.01667</longitude>
+    <elevation>1552</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4503</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00162399</id>
+    <displayName>DELHI, LA US</displayName>
+    <minDate>1885-12-01</minDate>
+    <maxDate>1926-08-31</maxDate>
+    <latitude>32.45</latitude>
+    <longitude>-91.5</longitude>
+    <elevation>31.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2702</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARPK0001</id>
+    <displayName>DELIGHT 0.3 NNW, AR US</displayName>
+    <minDate>2012-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.0331</latitude>
+    <longitude>-93.5069</longitude>
+    <elevation>107.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9817</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242313</id>
+    <displayName>DELL 19 SW, MT US</displayName>
+    <minDate>1949-09-01</minDate>
+    <maxDate>1956-09-30</maxDate>
+    <latitude>44.5</latitude>
+    <longitude>-112.91667</longitude>
+    <elevation>2379</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9637</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00412354</id>
+    <displayName>DELL CITY 5 SSW, TX US</displayName>
+    <minDate>1979-07-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>31.877</latitude>
+    <longitude>-105.237</longitude>
+    <elevation>1156.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.989</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDMH0022</id>
+    <displayName>DELL RAPIDS 0.5 NW, SD US</displayName>
+    <minDate>2007-06-22</minDate>
+    <maxDate>2008-07-17</maxDate>
+    <latitude>43.8265</latitude>
+    <longitude>-96.7228</longitude>
+    <elevation>473</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4056</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242312</id>
+    <displayName>DELL, MT US</displayName>
+    <minDate>1957-03-19</minDate>
+    <maxDate>1960-04-30</maxDate>
+    <latitude>44.56667</latitude>
+    <longitude>-112.8</longitude>
+    <elevation>2015</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9956</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242309</id>
+    <displayName>DELL, MT US</displayName>
+    <minDate>1898-12-01</minDate>
+    <maxDate>1958-06-30</maxDate>
+    <latitude>44.71667</latitude>
+    <longitude>-112.68333</longitude>
+    <elevation>1833.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.287</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00422073</id>
+    <displayName>DELLE, UT US</displayName>
+    <minDate>1919-07-01</minDate>
+    <maxDate>1952-12-31</maxDate>
+    <latitude>40.76667</latitude>
+    <longitude>-112.8</longitude>
+    <elevation>1302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MDWC0004</id>
+    <displayName>DELMAR 0.2 NE, MD US</displayName>
+    <minDate>2007-06-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4543</latitude>
+    <longitude>-75.573</longitude>
+    <elevation>14.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYAB0029</id>
+    <displayName>DELMAR 0.8 ESE, NY US</displayName>
+    <minDate>2012-07-08</minDate>
+    <maxDate>2012-12-24</maxDate>
+    <latitude>42.6193</latitude>
+    <longitude>-73.8203</longitude>
+    <elevation>64.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9824</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IACN0008</id>
+    <displayName>DELMAR 2.3 NW, IA US</displayName>
+    <minDate>2010-07-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.0237</latitude>
+    <longitude>-90.6399</longitude>
+    <elevation>246.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9657</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1DESS0001</id>
+    <displayName>DELMAR 2.8 NE, DE US</displayName>
+    <minDate>2009-08-15</minDate>
+    <maxDate>2009-12-09</maxDate>
+    <latitude>38.4863</latitude>
+    <longitude>-75.5332</longitude>
+    <elevation>14.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9402</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1DESS0003</id>
+    <displayName>DELMAR 4.3 E, DE US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.4691</latitude>
+    <longitude>-75.4923</longitude>
+    <elevation>15.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.966</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MDEL</id>
+    <displayName>DELMOE MONTANA, MT US</displayName>
+    <minDate>1991-10-25</minDate>
+    <maxDate>1997-07-16</maxDate>
+    <latitude>45.9458</latitude>
+    <longitude>-112.2706</longitude>
+    <elevation>1706.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8188</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SDHT0008</id>
+    <displayName>DELMONT 4.2 ESE, SD US</displayName>
+    <minDate>2012-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.2399</latitude>
+    <longitude>-98.0844</longitude>
+    <elevation>486.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7684</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CDNO</id>
+    <displayName>DELNORTE CALIFORNIA, CA US</displayName>
+    <minDate>1999-12-02</minDate>
+    <maxDate>2010-08-20</maxDate>
+    <latitude>34.0092</latitude>
+    <longitude>-119.6542</longitude>
+    <elevation>243.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00122149</id>
+    <displayName>DELPHI, IN US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2011-06-30</maxDate>
+    <latitude>40.615</latitude>
+    <longitude>-86.666</longitude>
+    <elevation>169.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9787</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242317</id>
+    <displayName>DELPHIA, MT US</displayName>
+    <minDate>1950-04-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>46.48333</latitude>
+    <longitude>-108.4</longitude>
+    <elevation>933</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9836</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00242322</id>
+    <displayName>DELPHINE, MT US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1910-08-31</maxDate>
+    <latitude>46.633333</latitude>
+    <longitude>-110.566667</longitude>
+    <elevation>1524</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OHAL0008</id>
+    <displayName>DELPHOS 2.3 ESE, OH US</displayName>
+    <minDate>2009-10-06</minDate>
+    <maxDate>2012-05-29</maxDate>
+    <latitude>40.8335</latitude>
+    <longitude>-84.2982</longitude>
+    <elevation>238.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2006</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00142073</id>
+    <displayName>DELPHOS, KS US</displayName>
+    <minDate>1896-06-06</minDate>
+    <maxDate>1903-05-31</maxDate>
+    <latitude>39.273889</latitude>
+    <longitude>-97.771983</longitude>
+    <elevation>395.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8498</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NJBT0009</id>
+    <displayName>DELRAN TWP 1.1 ENE, NJ US</displayName>
+    <minDate>2008-09-21</minDate>
+    <maxDate>2009-09-28</maxDate>
+    <latitude>40.0253</latitude>
+    <longitude>-74.9318</longitude>
+    <elevation>11.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8177</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="45">
+  <station>
+    <id>GHCND:USC00320941</id>
+    <displayName>BOTTINEAU, ND US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.8216</latitude>
+    <longitude>-100.4525</longitude>
+    <elevation>493.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300795</id>
+    <displayName>BOUCKVILLE, NY US</displayName>
+    <minDate>1897-08-01</minDate>
+    <maxDate>1916-10-31</maxDate>
+    <latitude>42.833333</latitude>
+    <longitude>-75.583333</longitude>
+    <elevation>411.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9908</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00030848</id>
+    <displayName>BOUGHTON, AR US</displayName>
+    <minDate>1935-11-01</minDate>
+    <maxDate>1982-10-31</maxDate>
+    <latitude>33.86667</latitude>
+    <longitude>-93.33333</longitude>
+    <elevation>75.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9863</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MTJF0001</id>
+    <displayName>BOULDER 0.3 E, MT US</displayName>
+    <minDate>2008-09-06</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>46.2358</latitude>
+    <longitude>-112.1141</longitude>
+    <elevation>1494.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8927</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0288</id>
+    <displayName>BOULDER 0.5 NNE, CO US</displayName>
+    <minDate>2010-04-21</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.0326</latitude>
+    <longitude>-105.2463</longitude>
+    <elevation>1617</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9241</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0005</id>
+    <displayName>BOULDER 0.8 E, CO US</displayName>
+    <minDate>2001-05-04</minDate>
+    <maxDate>2010-06-30</maxDate>
+    <latitude>40.0354</latitude>
+    <longitude>-105.2434</longitude>
+    <elevation>1615.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8505</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0065</id>
+    <displayName>BOULDER 0.9 WNW, CO US</displayName>
+    <minDate>2002-09-10</minDate>
+    <maxDate>2010-10-26</maxDate>
+    <latitude>40.0278</latitude>
+    <longitude>-105.2771</longitude>
+    <elevation>1645</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.55</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0183</id>
+    <displayName>BOULDER 1.0 ESE, CO US</displayName>
+    <minDate>2004-10-19</minDate>
+    <maxDate>2005-04-09</maxDate>
+    <latitude>40.0175</latitude>
+    <longitude>-105.2433</longitude>
+    <elevation>1605.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8671</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0098</id>
+    <displayName>BOULDER 1.3 N, CO US</displayName>
+    <minDate>2003-06-16</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>40.0392</latitude>
+    <longitude>-105.265</longitude>
+    <elevation>1633.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5649</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTGF0003</id>
+    <displayName>BOULDER 1.3 NNW, UT US</displayName>
+    <minDate>2009-05-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.9478</latitude>
+    <longitude>-111.4328</longitude>
+    <elevation>2185.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.93</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0072</id>
+    <displayName>BOULDER 1.3 NW, CO US</displayName>
+    <minDate>2002-09-09</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0242</latitude>
+    <longitude>-105.2689</longitude>
+    <elevation>1638.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9971</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0038</id>
+    <displayName>BOULDER 1.3 SE, CO US</displayName>
+    <minDate>2002-04-28</minDate>
+    <maxDate>2005-12-30</maxDate>
+    <latitude>40.005</latitude>
+    <longitude>-105.2481</longitude>
+    <elevation>1615.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.959</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0009</id>
+    <displayName>BOULDER 1.4 NNW, CO US</displayName>
+    <minDate>1998-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0311</latitude>
+    <longitude>-105.2883</longitude>
+    <elevation>1663</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.652</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0136</id>
+    <displayName>BOULDER 1.4 W, CO US</displayName>
+    <minDate>2004-05-19</minDate>
+    <maxDate>2005-10-11</maxDate>
+    <latitude>40.0225</latitude>
+    <longitude>-105.2894</longitude>
+    <elevation>1663.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9843</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0035</id>
+    <displayName>BOULDER 1.5 NW, CO US</displayName>
+    <minDate>2002-05-23</minDate>
+    <maxDate>2012-11-12</maxDate>
+    <latitude>40.0397</latitude>
+    <longitude>-105.2778</longitude>
+    <elevation>1659</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5242</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0267</id>
+    <displayName>BOULDER 1.5 S, CO US</displayName>
+    <minDate>2008-06-26</minDate>
+    <maxDate>2011-11-30</maxDate>
+    <latitude>40.0056</latitude>
+    <longitude>-105.2476</longitude>
+    <elevation>1610.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9058</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0051</id>
+    <displayName>BOULDER 1.5 SE, CO US</displayName>
+    <minDate>2002-05-16</minDate>
+    <maxDate>2006-09-27</maxDate>
+    <latitude>40.0056</latitude>
+    <longitude>-105.2424</longitude>
+    <elevation>1613.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2381</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0014</id>
+    <displayName>BOULDER 1.6 S, CO US</displayName>
+    <minDate>2001-07-08</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.9922</latitude>
+    <longitude>-105.2647</longitude>
+    <elevation>1667.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0154</id>
+    <displayName>BOULDER 1.6 SW, CO US</displayName>
+    <minDate>2004-06-09</minDate>
+    <maxDate>2007-11-28</maxDate>
+    <latitude>40.0077</latitude>
+    <longitude>-105.2883</longitude>
+    <elevation>1674</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0907</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0088</id>
+    <displayName>BOULDER 1.7 WNW, CO US</displayName>
+    <minDate>2003-05-17</minDate>
+    <maxDate>2003-11-04</maxDate>
+    <latitude>40.0333</latitude>
+    <longitude>-105.2915</longitude>
+    <elevation>1687.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8547</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0165</id>
+    <displayName>BOULDER 1.8 ESE, CO US</displayName>
+    <minDate>2004-06-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0124</latitude>
+    <longitude>-105.2307</longitude>
+    <elevation>1605.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0061</id>
+    <displayName>BOULDER 1.8 N, CO US</displayName>
+    <minDate>2002-07-29</minDate>
+    <maxDate>2004-06-30</maxDate>
+    <latitude>40.0478</latitude>
+    <longitude>-105.2672</longitude>
+    <elevation>1656</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3001</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0025</id>
+    <displayName>BOULDER 1.9 S, CO US</displayName>
+    <minDate>2000-06-14</minDate>
+    <maxDate>2006-08-25</maxDate>
+    <latitude>39.9896</latitude>
+    <longitude>-105.2533</longitude>
+    <elevation>1645</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0030</id>
+    <displayName>BOULDER 1.9 SE, CO US</displayName>
+    <minDate>2001-07-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9915</latitude>
+    <longitude>-105.2403</longitude>
+    <elevation>1636.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9917</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094075</id>
+    <displayName>BOULDER 14 W, CO US</displayName>
+    <minDate>2003-09-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.0354</latitude>
+    <longitude>-105.5409</longitude>
+    <elevation>2995.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050843</id>
+    <displayName>BOULDER 2, CO US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>40.0338</latitude>
+    <longitude>-105.2811</longitude>
+    <elevation>1650.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9273</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0225</id>
+    <displayName>BOULDER 2.0 NNW, CO US</displayName>
+    <minDate>2006-08-18</minDate>
+    <maxDate>2007-01-07</maxDate>
+    <latitude>40.0534</latitude>
+    <longitude>-105.2642</longitude>
+    <elevation>1655.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0044</id>
+    <displayName>BOULDER 2.1 NW, CO US</displayName>
+    <minDate>2002-04-10</minDate>
+    <maxDate>2004-12-30</maxDate>
+    <latitude>40.0458</latitude>
+    <longitude>-105.2911</longitude>
+    <elevation>1706.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1938</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0036</id>
+    <displayName>BOULDER 2.2 N, CO US</displayName>
+    <minDate>2002-04-06</minDate>
+    <maxDate>2005-05-31</maxDate>
+    <latitude>40.0531</latitude>
+    <longitude>-105.253</longitude>
+    <elevation>1638.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.375</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0196</id>
+    <displayName>BOULDER 2.2 SW, CO US</displayName>
+    <minDate>2005-06-07</minDate>
+    <maxDate>2005-10-27</maxDate>
+    <latitude>40.006</latitude>
+    <longitude>-105.282</longitude>
+    <elevation>1678.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9091</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0016</id>
+    <displayName>BOULDER 2.3 SE, CO US</displayName>
+    <minDate>2001-06-29</minDate>
+    <maxDate>2004-09-24</maxDate>
+    <latitude>39.9891</latitude>
+    <longitude>-105.2308</longitude>
+    <elevation>1627.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1242</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0281</id>
+    <displayName>BOULDER 2.4 S, CO US</displayName>
+    <minDate>2009-10-07</minDate>
+    <maxDate>2011-07-06</maxDate>
+    <latitude>39.9923</latitude>
+    <longitude>-105.253</longitude>
+    <elevation>1638</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4216</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0097</id>
+    <displayName>BOULDER 2.5 NNW, CO US</displayName>
+    <minDate>2003-06-18</minDate>
+    <maxDate>2004-04-09</maxDate>
+    <latitude>40.0547</latitude>
+    <longitude>-105.2822</longitude>
+    <elevation>1688.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3569</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0298</id>
+    <displayName>BOULDER 2.5 S, CO US</displayName>
+    <minDate>2011-06-20</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>39.9908</latitude>
+    <longitude>-105.2557</longitude>
+    <elevation>1643.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4348</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0049</id>
+    <displayName>BOULDER 2.5 SSE, CO US</displayName>
+    <minDate>2002-05-07</minDate>
+    <maxDate>2008-01-12</maxDate>
+    <latitude>39.9854</latitude>
+    <longitude>-105.2461</longitude>
+    <elevation>1652</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.961</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0079</id>
+    <displayName>BOULDER 2.5 SSW, CO US</displayName>
+    <minDate>2004-02-20</minDate>
+    <maxDate>2006-02-03</maxDate>
+    <latitude>39.977</latitude>
+    <longitude>-105.275</longitude>
+    <elevation>1884.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5357</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0200</id>
+    <displayName>BOULDER 2.7 NNW, CO US</displayName>
+    <minDate>2005-06-12</minDate>
+    <maxDate>2008-01-08</maxDate>
+    <latitude>40.0599</latitude>
+    <longitude>-105.2771</longitude>
+    <elevation>1686.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5335</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0211</id>
+    <displayName>BOULDER 2.7 NW, CO US</displayName>
+    <minDate>2005-10-01</minDate>
+    <maxDate>2006-08-17</maxDate>
+    <latitude>40.0538</latitude>
+    <longitude>-105.288</longitude>
+    <elevation>1697.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0264</id>
+    <displayName>BOULDER 2.7 S, CO US</displayName>
+    <minDate>2008-05-25</minDate>
+    <maxDate>2012-12-27</maxDate>
+    <latitude>39.9873</latitude>
+    <longitude>-105.2496</longitude>
+    <elevation>1646.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9625</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0081</id>
+    <displayName>BOULDER 2.8 N, CO US</displayName>
+    <minDate>2003-05-25</minDate>
+    <maxDate>2004-09-04</maxDate>
+    <latitude>40.0609</latitude>
+    <longitude>-105.2633</longitude>
+    <elevation>1651.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.403</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0004</id>
+    <displayName>BOULDER 2.9 S, CO US</displayName>
+    <minDate>2001-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.9941</latitude>
+    <longitude>-105.2573</longitude>
+    <elevation>1645</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0048</id>
+    <displayName>BOULDER 3 NW, CO US</displayName>
+    <minDate>2002-04-07</minDate>
+    <maxDate>2005-11-23</maxDate>
+    <latitude>40.041</latitude>
+    <longitude>-105.3148</longitude>
+    <elevation>2103.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5772</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0120</id>
+    <displayName>BOULDER 3.0 E, CO US</displayName>
+    <minDate>2003-12-22</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.0132</latitude>
+    <longitude>-105.2064</longitude>
+    <elevation>1605.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3623</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0164</id>
+    <displayName>BOULDER 3.0 NNW, CO US</displayName>
+    <minDate>2004-05-30</minDate>
+    <maxDate>2012-12-18</maxDate>
+    <latitude>40.0613</latitude>
+    <longitude>-105.2858</longitude>
+    <elevation>1709</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.401</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0299</id>
+    <displayName>BOULDER 3.0 S, CO US</displayName>
+    <minDate>2011-07-07</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.9838</latitude>
+    <longitude>-105.2433</longitude>
+    <elevation>1648.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5027</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0053</id>
+    <displayName>BOULDER 3.0 SSE, CO US</displayName>
+    <minDate>2002-06-08</minDate>
+    <maxDate>2003-07-17</maxDate>
+    <latitude>39.9769</latitude>
+    <longitude>-105.2456</longitude>
+    <elevation>1674.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.563</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0122</id>
+    <displayName>BOULDER 3.1 NE, CO US</displayName>
+    <minDate>2004-02-10</minDate>
+    <maxDate>2004-08-26</maxDate>
+    <latitude>40.0511</latitude>
+    <longitude>-105.2181</longitude>
+    <elevation>1599.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8794</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0174</id>
+    <displayName>BOULDER 3.3 NNW, CO US</displayName>
+    <minDate>2004-07-16</minDate>
+    <maxDate>2006-10-10</maxDate>
+    <latitude>40.067</latitude>
+    <longitude>-105.2841</longitude>
+    <elevation>1694.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3868</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0033</id>
+    <displayName>BOULDER 3.3 SE, CO US</displayName>
+    <minDate>2002-04-08</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>39.9735</latitude>
+    <longitude>-105.238</longitude>
+    <elevation>1673</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9954</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0195</id>
+    <displayName>BOULDER 3.3 SSE, CO US</displayName>
+    <minDate>2005-07-15</minDate>
+    <maxDate>2007-09-25</maxDate>
+    <latitude>39.977</latitude>
+    <longitude>-105.2396</longitude>
+    <elevation>1667.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1806</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0042</id>
+    <displayName>BOULDER 3.5 S, CO US</displayName>
+    <minDate>2002-04-20</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9707</latitude>
+    <longitude>-105.2505</longitude>
+    <elevation>1681.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9911</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0286</id>
+    <displayName>BOULDER 3.5 S, CO US</displayName>
+    <minDate>2010-05-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.977</latitude>
+    <longitude>-105.2576</longitude>
+    <elevation>1695</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9919</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0159</id>
+    <displayName>BOULDER 3.6 WNW, CO US</displayName>
+    <minDate>2004-06-28</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0395</latitude>
+    <longitude>-105.3275</longitude>
+    <elevation>2104.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2208</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0115</id>
+    <displayName>BOULDER 4.4 NE, CO US</displayName>
+    <minDate>2003-09-17</minDate>
+    <maxDate>2010-02-26</maxDate>
+    <latitude>40.0656</latitude>
+    <longitude>-105.2048</longitude>
+    <elevation>1576.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8701</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0082</id>
+    <displayName>BOULDER 4.5 E, CO US</displayName>
+    <minDate>2003-03-18</minDate>
+    <maxDate>2004-11-06</maxDate>
+    <latitude>40.0206</latitude>
+    <longitude>-105.1784</longitude>
+    <elevation>1597.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.215</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0019</id>
+    <displayName>BOULDER 4.6 E, CO US</displayName>
+    <minDate>2001-07-03</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>40.0046</latitude>
+    <longitude>-105.1715</longitude>
+    <elevation>1620</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5031</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0270</id>
+    <displayName>BOULDER 4.6 ENE, CO US</displayName>
+    <minDate>2008-08-05</minDate>
+    <maxDate>2010-04-07</maxDate>
+    <latitude>40.0582</latitude>
+    <longitude>-105.1737</longitude>
+    <elevation>1591.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3568</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0067</id>
+    <displayName>BOULDER 4.7 E, CO US</displayName>
+    <minDate>2002-10-23</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9996</latitude>
+    <longitude>-105.1794</longitude>
+    <elevation>1623.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8007</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0220</id>
+    <displayName>BOULDER 4.7 ENE, CO US</displayName>
+    <minDate>2006-05-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0591</latitude>
+    <longitude>-105.1717</longitude>
+    <elevation>1606.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0074</id>
+    <displayName>BOULDER 5 SE, CO US</displayName>
+    <minDate>2002-09-11</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.9638</latitude>
+    <longitude>-105.2147</longitude>
+    <elevation>1680.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.821</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0017</id>
+    <displayName>BOULDER 5.0 NE, CO US</displayName>
+    <minDate>2001-06-25</minDate>
+    <maxDate>2004-10-13</maxDate>
+    <latitude>40.0744</latitude>
+    <longitude>-105.1965</longitude>
+    <elevation>1587.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4731</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0059</id>
+    <displayName>BOULDER 5.2 NE, CO US</displayName>
+    <minDate>2002-06-22</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>40.0686</latitude>
+    <longitude>-105.1813</longitude>
+    <elevation>1601.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2323</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0111</id>
+    <displayName>BOULDER 5.4 ENE, CO US</displayName>
+    <minDate>2003-09-02</minDate>
+    <maxDate>2007-10-14</maxDate>
+    <latitude>40.0593</latitude>
+    <longitude>-105.1735</longitude>
+    <elevation>1603.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1536</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0135</id>
+    <displayName>BOULDER 5.4 ESE, CO US</displayName>
+    <minDate>2004-05-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.9873</latitude>
+    <longitude>-105.1703</longitude>
+    <elevation>1681</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9211</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0318</id>
+    <displayName>BOULDER 5.9 W, CO US</displayName>
+    <minDate>2012-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.0394</latitude>
+    <longitude>-105.3612</longitude>
+    <elevation>1931.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8522</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0043</id>
+    <displayName>BOULDER 6 NW, CO US</displayName>
+    <minDate>2002-04-06</minDate>
+    <maxDate>2005-05-12</maxDate>
+    <latitude>40.0865</latitude>
+    <longitude>-105.3439</longitude>
+    <elevation>2169</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6267</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0010</id>
+    <displayName>BOULDER 6.0 NW, CO US</displayName>
+    <minDate>2001-06-02</minDate>
+    <maxDate>2005-02-16</maxDate>
+    <latitude>40.084</latitude>
+    <longitude>-105.346</longitude>
+    <elevation>2235.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.941</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0232</id>
+    <displayName>BOULDER 6.3 NW, CO US</displayName>
+    <minDate>2006-11-07</minDate>
+    <maxDate>2011-01-10</maxDate>
+    <latitude>40.083</latitude>
+    <longitude>-105.3445</longitude>
+    <elevation>2238.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3925</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0301</id>
+    <displayName>BOULDER 6.7 WNW, CO US</displayName>
+    <minDate>2011-09-12</minDate>
+    <maxDate>2012-06-09</maxDate>
+    <latitude>40.0507</latitude>
+    <longitude>-105.3741</longitude>
+    <elevation>2031.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0320</id>
+    <displayName>BOULDER 6.7 WNW, CO US</displayName>
+    <minDate>2012-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>40.0511</latitude>
+    <longitude>-105.3747</longitude>
+    <elevation>2062.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8693</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0041</id>
+    <displayName>BOULDER 6.8 SE, CO US</displayName>
+    <minDate>2002-04-27</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>39.9742</latitude>
+    <longitude>-105.152</longitude>
+    <elevation>1672.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5208</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0230</id>
+    <displayName>BOULDER 6.8 WNW, CO US</displayName>
+    <minDate>2011-07-08</minDate>
+    <maxDate>2012-11-21</maxDate>
+    <latitude>40.0802</latitude>
+    <longitude>-105.3591</longitude>
+    <elevation>2370.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2783</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0280</id>
+    <displayName>BOULDER 7.0 W, CO US</displayName>
+    <minDate>2009-10-01</minDate>
+    <maxDate>2010-08-10</maxDate>
+    <latitude>40.0295</latitude>
+    <longitude>-105.3842</longitude>
+    <elevation>2319.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4045</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0297</id>
+    <displayName>BOULDER 7.4 W, CO US</displayName>
+    <minDate>2011-07-06</minDate>
+    <maxDate>2012-10-08</maxDate>
+    <latitude>40.0305</latitude>
+    <longitude>-105.3918</longitude>
+    <elevation>2335.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4534</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COBO0046</id>
+    <displayName>BOULDER 8 NE, CO US</displayName>
+    <minDate>2002-07-04</minDate>
+    <maxDate>2003-01-16</maxDate>
+    <latitude>40.1032</latitude>
+    <longitude>-105.1535</longitude>
+    <elevation>1553.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8477</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00261071</id>
+    <displayName>BOULDER CITY, NV US</displayName>
+    <minDate>1931-09-01</minDate>
+    <maxDate>2005-10-28</maxDate>
+    <latitude>35.98</latitude>
+    <longitude>-114.84639</longitude>
+    <elevation>762</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9557</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0018</id>
+    <displayName>BOULDER CREEK 2.4 NNW, CA US</displayName>
+    <minDate>2009-10-21</minDate>
+    <maxDate>2011-09-30</maxDate>
+    <latitude>37.1713</latitude>
+    <longitude>-122.1384</longitude>
+    <elevation>180.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9465</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0021</id>
+    <displayName>BOULDER CREEK 3.0 NW, CA US</displayName>
+    <minDate>2010-01-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.1693</latitude>
+    <longitude>-122.1641</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9799</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1CASZ0006</id>
+    <displayName>BOULDER CREEK 3.6 NE, CA US</displayName>
+    <minDate>2008-10-31</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>37.1811</latitude>
+    <longitude>-122.0911</longitude>
+    <elevation>525.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9506</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041005</id>
+    <displayName>BOULDER CREEK LOCAT, CA US</displayName>
+    <minDate>1948-07-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>37.1422</latitude>
+    <longitude>-122.1963</longitude>
+    <elevation>662.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9832</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OBOU</id>
+    <displayName>BOULDER CREEK OREGON, OR US</displayName>
+    <minDate>1985-08-20</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>44.7219</latitude>
+    <longitude>-122.0031</longitude>
+    <elevation>1088.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8821</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041001</id>
+    <displayName>BOULDER CREEK, CA US</displayName>
+    <minDate>1906-03-01</minDate>
+    <maxDate>1916-12-31</maxDate>
+    <latitude>37.116667</latitude>
+    <longitude>-122.116667</longitude>
+    <elevation>143.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8573</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00101105</id>
+    <displayName>BOULDER MINE, ID US</displayName>
+    <minDate>1909-06-01</minDate>
+    <maxDate>1924-10-31</maxDate>
+    <latitude>43.916667</latitude>
+    <longitude>-115.75</longitude>
+    <elevation>1472.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9313</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0011C01S</id>
+    <displayName>BOULDER MOUNTAIN, MT US</displayName>
+    <minDate>1978-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.5667</latitude>
+    <longitude>-111.3</longitude>
+    <elevation>2423.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8852</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00480951</id>
+    <displayName>BOULDER REARING STATION, WY US</displayName>
+    <minDate>1989-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7158</latitude>
+    <longitude>-109.6902</longitude>
+    <elevation>2115.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.997</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00050848</id>
+    <displayName>BOULDER, CO US</displayName>
+    <minDate>1893-10-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>39.9919</latitude>
+    <longitude>-105.2667</longitude>
+    <elevation>1671.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9567</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241008</id>
+    <displayName>BOULDER, MT US</displayName>
+    <minDate>1880-07-23</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>46.2313</latitude>
+    <longitude>-112.1136</longitude>
+    <elevation>1494.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4798</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420849</id>
+    <displayName>BOULDER, UT US</displayName>
+    <minDate>1954-06-11</minDate>
+    <maxDate>2013-01-06</maxDate>
+    <latitude>37.905</latitude>
+    <longitude>-111.42</longitude>
+    <elevation>2036.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9922</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041009</id>
+    <displayName>BOULEVARD 2, CA US</displayName>
+    <minDate>1924-12-17</minDate>
+    <maxDate>1967-12-31</maxDate>
+    <latitude>32.66667</latitude>
+    <longitude>-116.3</longitude>
+    <elevation>1097.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8191</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041010</id>
+    <displayName>BOULEVARD 2, CA US</displayName>
+    <minDate>1969-10-01</minDate>
+    <maxDate>2008-07-09</maxDate>
+    <latitude>32.66667</latitude>
+    <longitude>-116.3</longitude>
+    <elevation>1097.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.726</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00280927</id>
+    <displayName>BOUND BROOK 2 W, NJ US</displayName>
+    <minDate>1956-12-08</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>40.5603</latitude>
+    <longitude>-74.575</longitude>
+    <elevation>15.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9915</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450845</id>
+    <displayName>BOUNDARY DAM 1 W, WA US</displayName>
+    <minDate>1970-12-01</minDate>
+    <maxDate>1973-12-31</maxDate>
+    <latitude>48.98333</latitude>
+    <longitude>-117.35</longitude>
+    <elevation>793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9982</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450844</id>
+    <displayName>BOUNDARY DAM, WA US</displayName>
+    <minDate>1965-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>48.9946</latitude>
+    <longitude>-117.3544</longitude>
+    <elevation>559.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9222</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500910</id>
+    <displayName>BOUNDARY, AK US</displayName>
+    <minDate>1947-10-15</minDate>
+    <maxDate>1957-10-14</maxDate>
+    <latitude>64.06667</latitude>
+    <longitude>-141.11667</longitude>
+    <elevation>793.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8913</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00450839</id>
+    <displayName>BOUNDARY, WA US</displayName>
+    <minDate>1945-02-01</minDate>
+    <maxDate>1952-04-16</maxDate>
+    <latitude>49</latitude>
+    <longitude>-117.63333</longitude>
+    <elevation>424</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5133</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTDV0007</id>
+    <displayName>BOUNTIFUL 0.8 SE, UT US</displayName>
+    <minDate>2008-06-30</minDate>
+    <maxDate>2012-12-21</maxDate>
+    <latitude>40.8693</latitude>
+    <longitude>-111.852</longitude>
+    <elevation>1559.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3924</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTDV0018</id>
+    <displayName>BOUNTIFUL 1.3 S, UT US</displayName>
+    <minDate>2008-10-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8572</latitude>
+    <longitude>-111.867</longitude>
+    <elevation>1549.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6952</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1UTDV0008</id>
+    <displayName>BOUNTIFUL 1.7 NE, UT US</displayName>
+    <minDate>2008-07-16</minDate>
+    <maxDate>2011-11-07</maxDate>
+    <latitude>40.9046</latitude>
+    <longitude>-111.8657</longitude>
+    <elevation>1362.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8058</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00420820</id>
+    <displayName>BOUNTIFUL VAL VERDA, UT US</displayName>
+    <minDate>1912-12-07</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>40.8547</latitude>
+    <longitude>-111.8902</longitude>
+    <elevation>1383.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.326</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041013</id>
+    <displayName>BOUQUET CANYON, CA US</displayName>
+    <minDate>1940-07-01</minDate>
+    <maxDate>1978-03-31</maxDate>
+    <latitude>34.58333</latitude>
+    <longitude>-118.36667</longitude>
+    <elevation>933</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9809</coverage>
+  </station>
+</stationCollection>

@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="20">
+  <station>
+    <id>GHCND:US1COAR0221</id>
+    <displayName>AURORA 5.2 SE, CO US</displayName>
+    <minDate>2010-08-17</minDate>
+    <maxDate>2012-04-27</maxDate>
+    <latitude>39.653</latitude>
+    <longitude>-104.736</longitude>
+    <elevation>1757.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2145</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10hami017</id>
+    <displayName>AURORA 5.8 N, NE US</displayName>
+    <minDate>2007-03-01</minDate>
+    <maxDate>2012-12-19</maxDate>
+    <latitude>40.9503</latitude>
+    <longitude>-97.9988</longitude>
+    <elevation>556</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7067</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0144</id>
+    <displayName>AURORA 5.9 SE, CO US</displayName>
+    <minDate>2004-11-14</minDate>
+    <maxDate>2010-07-05</maxDate>
+    <latitude>39.6652</latitude>
+    <longitude>-104.7575</longitude>
+    <elevation>1731.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5937</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00310375</id>
+    <displayName>AURORA 6 N, NC US</displayName>
+    <minDate>1973-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.3872</latitude>
+    <longitude>-76.7763</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9542</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0207</id>
+    <displayName>AURORA 7.3 SE, CO US</displayName>
+    <minDate>2009-07-11</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.6192</latitude>
+    <longitude>-104.7237</longitude>
+    <elevation>1803.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9463</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0091</id>
+    <displayName>AURORA 7.5 SE, CO US</displayName>
+    <minDate>2004-07-16</minDate>
+    <maxDate>2008-06-11</maxDate>
+    <latitude>39.6532</latitude>
+    <longitude>-104.732</longitude>
+    <elevation>1761.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3462</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0081</id>
+    <displayName>AURORA 7.6 ESE, CO US</displayName>
+    <minDate>2003-10-01</minDate>
+    <maxDate>2012-10-18</maxDate>
+    <latitude>39.6863</latitude>
+    <longitude>-104.6991</longitude>
+    <elevation>1724.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9601</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0231</id>
+    <displayName>AURORA 7.6 SE, CO US</displayName>
+    <minDate>2011-11-18</minDate>
+    <maxDate>2012-08-23</maxDate>
+    <latitude>39.6261</latitude>
+    <longitude>-104.7061</longitude>
+    <elevation>1799.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4214</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSCD0002</id>
+    <displayName>AURORA 7.7 SW, KS US</displayName>
+    <minDate>2010-12-14</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.3595</latitude>
+    <longitude>-97.6105</longitude>
+    <elevation>454.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9882</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0156</id>
+    <displayName>AURORA 8 SE, CO US</displayName>
+    <minDate>2005-04-24</minDate>
+    <maxDate>2012-10-25</maxDate>
+    <latitude>39.6448</latitude>
+    <longitude>-104.7269</longitude>
+    <elevation>1767.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.163</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1COAR0080</id>
+    <displayName>AURORA 9.9 SE, CO US</displayName>
+    <minDate>2003-09-28</minDate>
+    <maxDate>2004-07-26</maxDate>
+    <latitude>39.6158</latitude>
+    <longitude>-104.7199</longitude>
+    <elevation>1818.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7063</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023036</id>
+    <displayName>AURORA BUCKLEY FIELD ANGB, CO US</displayName>
+    <minDate>1961-03-01</minDate>
+    <maxDate>1970-12-31</maxDate>
+    <latitude>39.71667</latitude>
+    <longitude>-104.75</longitude>
+    <elevation>1726.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00300331</id>
+    <displayName>AURORA RESEARCH FARM, NY US</displayName>
+    <minDate>1956-11-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>42.7338</latitude>
+    <longitude>-76.6591</longitude>
+    <elevation>253</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9774</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00094281</id>
+    <displayName>AURORA STATE AIRPORT, OR US</displayName>
+    <minDate>1997-06-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>45.24861</latitude>
+    <longitude>-122.76861</longitude>
+    <elevation>59.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9869</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00500490</id>
+    <displayName>AURORA, AK US</displayName>
+    <minDate>2004-05-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>64.85528</latitude>
+    <longitude>-147.72167</longitude>
+    <elevation>135</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00110338</id>
+    <displayName>AURORA, IL US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.7805</latitude>
+    <longitude>-88.3091</longitude>
+    <elevation>201.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9674</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230342</id>
+    <displayName>AURORA, MO US</displayName>
+    <minDate>1919-10-01</minDate>
+    <maxDate>1932-11-30</maxDate>
+    <latitude>36.916667</latitude>
+    <longitude>-93.716667</longitude>
+    <elevation>417.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5445</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00250445</id>
+    <displayName>AURORA, NE US</displayName>
+    <minDate>1894-11-01</minDate>
+    <maxDate>2008-05-31</maxDate>
+    <latitude>40.8586</latitude>
+    <longitude>-97.9958</longitude>
+    <elevation>544.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8944</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00290646</id>
+    <displayName>AURORA, NM US</displayName>
+    <minDate>1909-07-01</minDate>
+    <maxDate>1960-08-31</maxDate>
+    <latitude>36.26667</latitude>
+    <longitude>-105.05</longitude>
+    <elevation>2479.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9788</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00260495</id>
+    <displayName>AURORA, NV US</displayName>
+    <minDate>1910-01-01</minDate>
+    <maxDate>1910-12-31</maxDate>
+    <latitude>38.283333</latitude>
+    <longitude>-118.9</longitude>
+    <elevation>1981.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4192</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350343</id>
+    <displayName>AURORA, OR US</displayName>
+    <minDate>1899-06-01</minDate>
+    <maxDate>1969-04-30</maxDate>
+    <latitude>45.233</latitude>
+    <longitude>-122.7508</longitude>
+    <elevation>21.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2502</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00240375</id>
+    <displayName>AUSTIN 1 W, MT US</displayName>
+    <minDate>1950-04-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>46.6456</latitude>
+    <longitude>-112.2656</longitude>
+    <elevation>1478.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9405</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0044</id>
+    <displayName>AUSTIN 1.0 N 45TH AND SHCRK, TX US</displayName>
+    <minDate>2008-02-27</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3207</latitude>
+    <longitude>-97.7502</longitude>
+    <elevation>196.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8679</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARLK0009</id>
+    <displayName>AUSTIN 1.1 NNW, AR US</displayName>
+    <minDate>2012-05-24</minDate>
+    <maxDate>2012-11-23</maxDate>
+    <latitude>35.0135</latitude>
+    <longitude>-91.9875</longitude>
+    <elevation>77.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0010</id>
+    <displayName>AUSTIN 1.7 NNW 45TH AND LP1, TX US</displayName>
+    <minDate>2007-08-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.329</latitude>
+    <longitude>-97.7621</longitude>
+    <elevation>219.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6463</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNMW0003</id>
+    <displayName>AUSTIN 1.9 ENE, MN US</displayName>
+    <minDate>2011-03-22</minDate>
+    <maxDate>2013-01-08</maxDate>
+    <latitude>43.6784</latitude>
+    <longitude>-92.9381</longitude>
+    <elevation>367.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4522</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0123</id>
+    <displayName>AUSTIN 10.5 N, TX US</displayName>
+    <minDate>2010-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4189</latitude>
+    <longitude>-97.7578</longitude>
+    <elevation>263.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4828</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0126</id>
+    <displayName>AUSTIN 10.7 N, TX US</displayName>
+    <minDate>2010-07-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.4219</latitude>
+    <longitude>-97.7702</longitude>
+    <elevation>290.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0111</id>
+    <displayName>AUSTIN 10.8 WSW, TX US</displayName>
+    <minDate>2010-04-03</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.1953</latitude>
+    <longitude>-97.9022</longitude>
+    <elevation>277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8096</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0145</id>
+    <displayName>AUSTIN 12.7 NNW, TX US</displayName>
+    <minDate>2011-09-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4382</latitude>
+    <longitude>-97.8273</longitude>
+    <elevation>299.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9777</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0140</id>
+    <displayName>AUSTIN 13.7 WNW, TX US</displayName>
+    <minDate>2011-06-06</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.378</latitude>
+    <longitude>-97.9331</longitude>
+    <elevation>238</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3508</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0116</id>
+    <displayName>AUSTIN 13.8 N, TX US</displayName>
+    <minDate>2010-03-31</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.4631</latitude>
+    <longitude>-97.7726</longitude>
+    <elevation>265.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.526</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXHYS059</id>
+    <displayName>AUSTIN 14.7 WSW, TX US</displayName>
+    <minDate>2011-05-19</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>30.198</latitude>
+    <longitude>-97.9747</longitude>
+    <elevation>338.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2073</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00120336</id>
+    <displayName>AUSTIN 2 NW, IN US</displayName>
+    <minDate>1964-01-01</minDate>
+    <maxDate>1973-03-31</maxDate>
+    <latitude>38.78333</latitude>
+    <longitude>-85.83333</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7208</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0157</id>
+    <displayName>AUSTIN 2.2 NNE, TX US</displayName>
+    <minDate>2012-05-01</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.3341</latitude>
+    <longitude>-97.7327</longitude>
+    <elevation>207.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6926</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ARLK0001</id>
+    <displayName>AUSTIN 2.5 SSE, AR US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>34.9646</latitude>
+    <longitude>-91.9659</longitude>
+    <elevation>90.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9963</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0002</id>
+    <displayName>AUSTIN 2.8 N ALLANDALE, TX US</displayName>
+    <minDate>2006-03-23</minDate>
+    <maxDate>2013-01-12</maxDate>
+    <latitude>30.3456</latitude>
+    <longitude>-97.7461</longitude>
+    <elevation>210</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4666</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0014</id>
+    <displayName>AUSTIN 2.9 NE LAMAR AND ARPT, TX US</displayName>
+    <minDate>2007-07-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3396</latitude>
+    <longitude>-97.7228</longitude>
+    <elevation>220.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9294</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0149</id>
+    <displayName>AUSTIN 2.9 NNW, TX US</displayName>
+    <minDate>2012-03-15</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.3421</latitude>
+    <longitude>-97.7762</longitude>
+    <elevation>185.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9379</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00350356</id>
+    <displayName>AUSTIN 3 S, OR US</displayName>
+    <minDate>1912-01-01</minDate>
+    <maxDate>2012-01-31</maxDate>
+    <latitude>44.5747</latitude>
+    <longitude>-118.4913</longitude>
+    <elevation>1284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8407</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0057</id>
+    <displayName>AUSTIN 3.3 N LP1 AND FARWST, TX US</displayName>
+    <minDate>2008-04-08</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.354</latitude>
+    <longitude>-97.7455</longitude>
+    <elevation>214</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.933</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0119</id>
+    <displayName>AUSTIN 3.5 SSW, TX US</displayName>
+    <minDate>2010-04-01</minDate>
+    <maxDate>2010-09-08</maxDate>
+    <latitude>30.2573</latitude>
+    <longitude>-97.769</longitude>
+    <elevation>175.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7391</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0087</id>
+    <displayName>AUSTIN 3.9 NNE, TX US</displayName>
+    <minDate>2009-04-14</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.3574</latitude>
+    <longitude>-97.7235</longitude>
+    <elevation>229.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023907</id>
+    <displayName>AUSTIN 33 NW, TX US</displayName>
+    <minDate>2008-02-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.6222</latitude>
+    <longitude>-98.0846</longitude>
+    <elevation>414.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360310</id>
+    <displayName>AUSTIN 4 NNW, PA US</displayName>
+    <minDate>1963-11-01</minDate>
+    <maxDate>1981-10-31</maxDate>
+    <latitude>41.68333</latitude>
+    <longitude>-78.11667</longitude>
+    <elevation>542.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8433</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0053</id>
+    <displayName>AUSTIN 4.2 NW 360 AND PENNEB, TX US</displayName>
+    <minDate>2008-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3525</latitude>
+    <longitude>-97.7947</longitude>
+    <elevation>183.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7555</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0118</id>
+    <displayName>AUSTIN 4.5 ENE, TX US</displayName>
+    <minDate>2010-04-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3201</latitude>
+    <longitude>-97.6772</longitude>
+    <elevation>167</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9472</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0150</id>
+    <displayName>AUSTIN 4.5 NNE, TX US</displayName>
+    <minDate>2012-03-26</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3694</latitude>
+    <longitude>-97.7313</longitude>
+    <elevation>224.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7946</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0155</id>
+    <displayName>AUSTIN 4.6 SSW, TX US</displayName>
+    <minDate>2012-04-02</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.2433</latitude>
+    <longitude>-97.7749</longitude>
+    <elevation>182.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9481</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0047</id>
+    <displayName>AUSTIN 4.7 E JORDANPK, TX US</displayName>
+    <minDate>2008-02-24</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>30.3142</latitude>
+    <longitude>-97.6728</longitude>
+    <elevation>167</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.903</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0086</id>
+    <displayName>AUSTIN 4.7 NNE, TX US</displayName>
+    <minDate>2009-04-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.3734</latitude>
+    <longitude>-97.7328</longitude>
+    <elevation>230.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1664</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0138</id>
+    <displayName>AUSTIN 5.2 SW, TX US</displayName>
+    <minDate>2011-09-18</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.2142</latitude>
+    <longitude>-97.805</longitude>
+    <elevation>215.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2942</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0122</id>
+    <displayName>AUSTIN 5.6 WSW, TX US</displayName>
+    <minDate>2010-05-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2808</latitude>
+    <longitude>-97.8392</longitude>
+    <elevation>240.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9427</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0112</id>
+    <displayName>AUSTIN 5.7 SSE, TX US</displayName>
+    <minDate>2010-04-24</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>30.1959</latitude>
+    <longitude>-97.6958</longitude>
+    <elevation>162.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.678</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0104</id>
+    <displayName>AUSTIN 5.9 NE, TX US</displayName>
+    <minDate>2009-12-27</minDate>
+    <maxDate>2012-07-27</maxDate>
+    <latitude>30.3621</latitude>
+    <longitude>-97.677</longitude>
+    <elevation>221.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7775</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0117</id>
+    <displayName>AUSTIN 5.9 NW, TX US</displayName>
+    <minDate>2010-04-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3721</latitude>
+    <longitude>-97.8134</longitude>
+    <elevation>217.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9543</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0142</id>
+    <displayName>AUSTIN 6.5 NE, TX US</displayName>
+    <minDate>2011-06-12</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.3838</latitude>
+    <longitude>-97.6895</longitude>
+    <elevation>223.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7282</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0113</id>
+    <displayName>AUSTIN 7.3 SW, TX US</displayName>
+    <minDate>2010-03-30</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.2072</latitude>
+    <longitude>-97.844</longitude>
+    <elevation>229.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9766</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410431</id>
+    <displayName>AUSTIN 8 SSE, TX US</displayName>
+    <minDate>2004-02-01</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>30.1727</latitude>
+    <longitude>-97.6983</longitude>
+    <elevation>165.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9319</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0114</id>
+    <displayName>AUSTIN 8.2 WSW, TX US</displayName>
+    <minDate>2009-01-17</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.2286</latitude>
+    <longitude>-97.8739</longitude>
+    <elevation>284.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.661</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXTV0121</id>
+    <displayName>AUSTIN 8.9 S, TX US</displayName>
+    <minDate>2010-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.1397</latitude>
+    <longitude>-97.7704</longitude>
+    <elevation>181.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6395</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013904</id>
+    <displayName>AUSTIN BERGSTROM INTERNATIONAL AIRPORT, TX US</displayName>
+    <minDate>1948-03-15</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.1831</latitude>
+    <longitude>-97.6799</longitude>
+    <elevation>146.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5735</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00013958</id>
+    <displayName>AUSTIN CAMP MABRY, TX US</displayName>
+    <minDate>1938-06-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>30.3208</latitude>
+    <longitude>-97.7604</longitude>
+    <elevation>204.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9998</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410430</id>
+    <displayName>AUSTIN DAM, TX US</displayName>
+    <minDate>1948-03-01</minDate>
+    <maxDate>1965-12-31</maxDate>
+    <latitude>30.3</latitude>
+    <longitude>-97.78333</longitude>
+    <elevation>161.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9767</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410433</id>
+    <displayName>AUSTIN GREAT HILLS, TX US</displayName>
+    <minDate>2005-06-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.4144</latitude>
+    <longitude>-97.7663</longitude>
+    <elevation>260.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8943</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410432</id>
+    <displayName>AUSTIN MONTOPOLIS BR, TX US</displayName>
+    <minDate>1903-07-01</minDate>
+    <maxDate>1963-07-31</maxDate>
+    <latitude>30.25</latitude>
+    <longitude>-97.68333</longitude>
+    <elevation>156.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9646</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000NAUS</id>
+    <displayName>AUSTIN NEVADA, NV US</displayName>
+    <minDate>2002-09-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>39.5031</latitude>
+    <longitude>-117.0814</longitude>
+    <elevation>1912.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9303</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00260507</id>
+    <displayName>AUSTIN NUMBER 2, NV US</displayName>
+    <minDate>1887-10-02</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>39.493</latitude>
+    <longitude>-117.0675</longitude>
+    <elevation>2066.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8748</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00210355</id>
+    <displayName>AUSTIN WASTE WATER TREATMENT FACILITY, MN US</displayName>
+    <minDate>1937-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.6542</latitude>
+    <longitude>-92.9739</longitude>
+    <elevation>365.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9702</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410427</id>
+    <displayName>AUSTIN WATER TREATMENT PLANT, TX US</displayName>
+    <minDate>1996-09-01</minDate>
+    <maxDate>1997-07-31</maxDate>
+    <latitude>30.28056</latitude>
+    <longitude>-97.65361</longitude>
+    <elevation>152.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9102</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00220325</id>
+    <displayName>AUSTIN, MS US</displayName>
+    <minDate>1895-10-17</minDate>
+    <maxDate>1934-08-31</maxDate>
+    <latitude>34.63333</latitude>
+    <longitude>-90.43333</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9637</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360307</id>
+    <displayName>AUSTIN, PA US</displayName>
+    <minDate>1910-07-01</minDate>
+    <maxDate>1921-04-30</maxDate>
+    <latitude>41.666667</latitude>
+    <longitude>-78.083333</longitude>
+    <elevation>518.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7407</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00370576</id>
+    <displayName>AUSTIN, RI US</displayName>
+    <minDate>1948-06-01</minDate>
+    <maxDate>1956-11-30</maxDate>
+    <latitude>41.6</latitude>
+    <longitude>-71.65</longitude>
+    <elevation>167.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9936</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410420</id>
+    <displayName>AUSTIN, TX US</displayName>
+    <minDate>1893-02-01</minDate>
+    <maxDate>1942-07-31</maxDate>
+    <latitude>30.28333</latitude>
+    <longitude>-97.73333</longitude>
+    <elevation>180.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9489</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00360313</id>
+    <displayName>AUSTINBURG 2 W, NY US</displayName>
+    <minDate>1948-05-01</minDate>
+    <maxDate>1981-09-30</maxDate>
+    <latitude>42</latitude>
+    <longitude>-77.53333</longitude>
+    <elevation>484.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9166</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRF0005</id>
+    <displayName>AUSTWELL 0.2 ESE, TX US</displayName>
+    <minDate>2009-06-28</minDate>
+    <maxDate>2012-12-05</maxDate>
+    <latitude>28.3888</latitude>
+    <longitude>-96.8409</longitude>
+    <elevation>7.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5975</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TXRF0002</id>
+    <displayName>AUSTWELL 0.3 ESE, TX US</displayName>
+    <minDate>2007-09-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>28.3885</latitude>
+    <longitude>-96.8382</longitude>
+    <elevation>5.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6679</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410436</id>
+    <displayName>AUSTWELL, TX US</displayName>
+    <minDate>1897-03-01</minDate>
+    <maxDate>2001-04-30</maxDate>
+    <latitude>28.37111</latitude>
+    <longitude>-96.83639</longitude>
+    <elevation>29</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4788</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00010440</id>
+    <displayName>AUTAUGAVILLE 3 N, AL US</displayName>
+    <minDate>1940-10-16</minDate>
+    <maxDate>2001-09-30</maxDate>
+    <latitude>32.47056</latitude>
+    <longitude>-86.68</longitude>
+    <elevation>61</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00510175</id>
+    <displayName>AUWAHI 252, HI US</displayName>
+    <minDate>1963-09-01</minDate>
+    <maxDate>1998-06-30</maxDate>
+    <latitude>20.62444</latitude>
+    <longitude>-156.33111</longitude>
+    <elevation>627.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.995</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCW0005</id>
+    <displayName>AUXVASSE 0.3 ESE, MO US</displayName>
+    <minDate>2008-08-02</minDate>
+    <maxDate>2010-01-25</maxDate>
+    <latitude>39.0165</latitude>
+    <longitude>-91.8891</longitude>
+    <elevation>259.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6863</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230357</id>
+    <displayName>AUXVASSE 4 SSW, MO US</displayName>
+    <minDate>1944-06-01</minDate>
+    <maxDate>1979-12-31</maxDate>
+    <latitude>38.96667</latitude>
+    <longitude>-91.91667</longitude>
+    <elevation>262.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9135</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOCW0006</id>
+    <displayName>AUXVASSE 6.0 ESE, MO US</displayName>
+    <minDate>2009-01-16</minDate>
+    <maxDate>2011-01-12</maxDate>
+    <latitude>38.9935</latitude>
+    <longitude>-91.7867</longitude>
+    <elevation>250.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9835</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODG0002</id>
+    <displayName>AVA 0.2 NE, MO US</displayName>
+    <minDate>2006-02-08</minDate>
+    <maxDate>2010-05-10</maxDate>
+    <latitude>36.9546</latitude>
+    <longitude>-92.6627</longitude>
+    <elevation>386.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOFSA067</id>
+    <displayName>AVA 0.8 NNW, MO US</displayName>
+    <minDate>2006-05-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>36.964</latitude>
+    <longitude>-92.6714</longitude>
+    <elevation>401.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.991</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODG0009</id>
+    <displayName>AVA 10.5 SSW, MO US</displayName>
+    <minDate>2008-04-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.8093</latitude>
+    <longitude>-92.7289</longitude>
+    <elevation>332.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9495</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230368</id>
+    <displayName>AVA 12 SW, MO US</displayName>
+    <minDate>2002-02-01</minDate>
+    <maxDate>2012-11-30</maxDate>
+    <latitude>36.8752</latitude>
+    <longitude>-92.8513</longitude>
+    <elevation>344.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9848</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODG0004</id>
+    <displayName>AVA 13.2 SSW, MO US</displayName>
+    <minDate>2006-10-04</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>36.7921</latitude>
+    <longitude>-92.7936</longitude>
+    <elevation>366.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1519</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOOZ0003</id>
+    <displayName>AVA 13.6 SSE, MO US</displayName>
+    <minDate>2006-09-12</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>36.7762</latitude>
+    <longitude>-92.5577</longitude>
+    <elevation>374.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5677</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODG0003</id>
+    <displayName>AVA 4.5 SW, MO US</displayName>
+    <minDate>2006-06-29</minDate>
+    <maxDate>2012-07-08</maxDate>
+    <latitude>36.9154</latitude>
+    <longitude>-92.7324</longitude>
+    <elevation>388.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7266</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODG0012</id>
+    <displayName>AVA 5.3 SW, MO US</displayName>
+    <minDate>2008-09-07</minDate>
+    <maxDate>2009-03-09</maxDate>
+    <latitude>36.9092</latitude>
+    <longitude>-92.7434</longitude>
+    <elevation>371.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8207</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230360</id>
+    <displayName>AVA 6 W, MO US</displayName>
+    <minDate>2006-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.0091</latitude>
+    <longitude>-92.7561</longitude>
+    <elevation>381.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8408</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MODG0011</id>
+    <displayName>AVA 6.0 NW, MO US</displayName>
+    <minDate>2008-05-02</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>37.0083</latitude>
+    <longitude>-92.7496</longitude>
+    <elevation>374.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2084</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOD0026</id>
+    <displayName>AVA 8.0 S, NY US</displayName>
+    <minDate>2009-06-16</minDate>
+    <maxDate>2010-09-20</maxDate>
+    <latitude>43.3018</latitude>
+    <longitude>-75.4393</longitude>
+    <elevation>189.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3831</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000MAVA</id>
+    <displayName>AVA MISSOURI, MO US</displayName>
+    <minDate>2001-02-12</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>36.9431</latitude>
+    <longitude>-92.65</longitude>
+    <elevation>399.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9298</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230365</id>
+    <displayName>AVA RANGER STATION, MO US</displayName>
+    <minDate>1923-07-28</minDate>
+    <maxDate>1972-04-30</maxDate>
+    <latitude>36.95</latitude>
+    <longitude>-92.66667</longitude>
+    <elevation>390.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5446</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00023191</id>
+    <displayName>AVALON CATALINA AIRPORT, CA US</displayName>
+    <minDate>1948-01-01</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>33.405</latitude>
+    <longitude>-118.41583</longitude>
+    <elevation>488.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3562</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00230371</id>
+    <displayName>AVALON, MO US</displayName>
+    <minDate>1896-09-01</minDate>
+    <maxDate>1925-12-31</maxDate>
+    <latitude>39.666667</latitude>
+    <longitude>-93.5</longitude>
+    <elevation>234.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9847</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00410440</id>
+    <displayName>AVALON, TX US</displayName>
+    <minDate>1964-12-01</minDate>
+    <maxDate>2003-12-31</maxDate>
+    <latitude>32.20667</latitude>
+    <longitude>-96.79583</longitude>
+    <elevation>161.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9627</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00040398</id>
+    <displayName>AVENAL 9 SSE, CA US</displayName>
+    <minDate>1955-02-01</minDate>
+    <maxDate>1961-07-31</maxDate>
+    <latitude>35.9</latitude>
+    <longitude>-120.05</longitude>
+    <elevation>159.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9831</coverage>
+  </station>
+</stationCollection>

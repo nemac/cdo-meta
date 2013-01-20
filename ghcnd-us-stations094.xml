@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stationCollection totalCount="46020" pageCount="461" pageSize="100" page="94">
+  <station>
+    <id>GHCND:US1ARFK0011</id>
+    <displayName>CONWAY 2.8 SSE, AR US</displayName>
+    <minDate>2012-06-17</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0489</latitude>
+    <longitude>-92.4415</longitude>
+    <elevation>120.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8972</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NHCR0007</id>
+    <displayName>CONWAY 4.1 SSE, NH US</displayName>
+    <minDate>2009-07-12</minDate>
+    <maxDate>2011-11-18</maxDate>
+    <latitude>43.9295</latitude>
+    <longitude>-71.0841</longitude>
+    <elevation>165.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2744</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NCNR0005</id>
+    <displayName>CONWAY 4.7 SSE, NC US</displayName>
+    <minDate>2009-06-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3786</latitude>
+    <longitude>-77.1858</longitude>
+    <elevation>18.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8665</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCHR0041</id>
+    <displayName>CONWAY 5.4 SSE, SC US</displayName>
+    <minDate>2011-04-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.7732</latitude>
+    <longitude>-79.0086</longitude>
+    <elevation>12.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.785</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCHR0061</id>
+    <displayName>CONWAY 6.2 E, SC US</displayName>
+    <minDate>2011-10-19</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8295</latitude>
+    <longitude>-78.9528</longitude>
+    <elevation>8.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9912</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1SCHR0018</id>
+    <displayName>CONWAY 8.0 E, SC US</displayName>
+    <minDate>2011-06-02</minDate>
+    <maxDate>2013-01-04</maxDate>
+    <latitude>33.8169</latitude>
+    <longitude>-78.9245</longitude>
+    <elevation>12.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6792</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOWB0001</id>
+    <displayName>CONWAY 8.9 SW, MO US</displayName>
+    <minDate>2006-06-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.429</latitude>
+    <longitude>-92.9589</longitude>
+    <elevation>384</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.864</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MOLD0014</id>
+    <displayName>CONWAY 9.0 E, MO US</displayName>
+    <minDate>2009-09-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.5033</latitude>
+    <longitude>-92.6603</longitude>
+    <elevation>393.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9498</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1KSSU0011</id>
+    <displayName>CONWAY SPRINGS 2.8 W, KS US</displayName>
+    <minDate>2011-07-25</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>37.383</latitude>
+    <longitude>-97.6947</longitude>
+    <elevation>436.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9834</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141795</id>
+    <displayName>CONWAY SPRINGS, KS US</displayName>
+    <minDate>1944-12-01</minDate>
+    <maxDate>2013-01-01</maxDate>
+    <latitude>37.3843</latitude>
+    <longitude>-97.6431</longitude>
+    <elevation>417.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00031596</id>
+    <displayName>CONWAY, AR US</displayName>
+    <minDate>1890-08-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>35.0833</latitude>
+    <longitude>-92.4294</longitude>
+    <elevation>96</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9506</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00381997</id>
+    <displayName>CONWAY, SC US</displayName>
+    <minDate>1893-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.8313</latitude>
+    <longitude>-79.0558</longitude>
+    <elevation>6.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.978</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241989</id>
+    <displayName>CONWAYS RANCH, MT US</displayName>
+    <minDate>1925-06-01</minDate>
+    <maxDate>1942-10-31</maxDate>
+    <latitude>44.9</latitude>
+    <longitude>-112</longitude>
+    <elevation>2226.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9514</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GARK0001</id>
+    <displayName>CONYERS 4.0 S, GA US</displayName>
+    <minDate>2008-03-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>33.6064</latitude>
+    <longitude>-84.0139</longitude>
+    <elevation>232.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.717</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PALZ0004</id>
+    <displayName>CONYNGHAM 3.9 NE, PA US</displayName>
+    <minDate>2007-06-25</minDate>
+    <maxDate>2012-12-25</maxDate>
+    <latitude>41.0316</latitude>
+    <longitude>-76.0087</longitude>
+    <elevation>320</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4908</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10otoe005</id>
+    <displayName>COOK 0.9 N, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-11</maxDate>
+    <latitude>40.5233</latitude>
+    <longitude>-96.1657</longitude>
+    <elevation>337.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9401</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211773</id>
+    <displayName>COOK 12 W, MN US</displayName>
+    <minDate>1997-11-01</minDate>
+    <maxDate>1999-06-30</maxDate>
+    <latitude>47.87861</latitude>
+    <longitude>-92.93278</longitude>
+    <elevation>399.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7825</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNSL0034</id>
+    <displayName>COOK 14.8 WSW, MN US</displayName>
+    <minDate>2012-05-24</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.7815</latitude>
+    <longitude>-92.9943</longitude>
+    <elevation>391.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7479</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211776</id>
+    <displayName>COOK 18 W, MN US</displayName>
+    <minDate>1959-09-16</minDate>
+    <maxDate>1995-09-30</maxDate>
+    <latitude>47.86667</latitude>
+    <longitude>-93.06667</longitude>
+    <elevation>400.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9236</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10otoe007</id>
+    <displayName>COOK 3.0 NORTH, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2012-12-20</maxDate>
+    <latitude>40.5525</latitude>
+    <longitude>-96.108</longitude>
+    <elevation>303</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6855</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10john007</id>
+    <displayName>COOK 3.6 ESE, NE US</displayName>
+    <minDate>2007-04-25</minDate>
+    <maxDate>2009-04-13</maxDate>
+    <latitude>40.4799</latitude>
+    <longitude>-96.1068</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5681</coverage>
+  </station>
+  <station>
+    <id>GHCND:US10john002</id>
+    <displayName>COOK 4.0 SW, NE US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-07</maxDate>
+    <latitude>40.4644</latitude>
+    <longitude>-96.2337</longitude>
+    <elevation>360</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9432</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211771</id>
+    <displayName>COOK 8 NE, MN US</displayName>
+    <minDate>1999-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>47.8948</latitude>
+    <longitude>-92.5337</longitude>
+    <elevation>413</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9448</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231870</id>
+    <displayName>COOK STATION, MO US</displayName>
+    <minDate>1943-11-01</minDate>
+    <maxDate>1984-12-31</maxDate>
+    <latitude>37.81667</latitude>
+    <longitude>-91.43333</longitude>
+    <elevation>302.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9879</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00231868</id>
+    <displayName>COOK STATION, MO US</displayName>
+    <minDate>1898-10-01</minDate>
+    <maxDate>1901-09-30</maxDate>
+    <latitude>37.812822</latitude>
+    <longitude>-91.437925</longitude>
+    <elevation>277.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241995</id>
+    <displayName>COOKE CITY 2 W, MT US</displayName>
+    <minDate>1967-11-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>45.019</latitude>
+    <longitude>-109.955</longitude>
+    <elevation>2280.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9233</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201763</id>
+    <displayName>COOKE SITE, MI US</displayName>
+    <minDate>1915-06-14</minDate>
+    <maxDate>1935-12-31</maxDate>
+    <latitude>44.45</latitude>
+    <longitude>-83.466667</longitude>
+    <elevation>206.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9783</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00241993</id>
+    <displayName>COOKE, MT US</displayName>
+    <minDate>1905-04-08</minDate>
+    <maxDate>1914-09-30</maxDate>
+    <latitude>45.016667</latitude>
+    <longitude>-109.95</longitude>
+    <elevation>2316.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.13</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0023</id>
+    <displayName>COOKEVILLE 1.6 SE, TN US</displayName>
+    <minDate>2009-05-01</minDate>
+    <maxDate>2011-01-10</maxDate>
+    <latitude>36.1395</latitude>
+    <longitude>-85.4861</longitude>
+    <elevation>313</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1726</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNJC0009</id>
+    <displayName>COOKEVILLE 11.2 N, TN US</displayName>
+    <minDate>2012-03-10</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.3188</latitude>
+    <longitude>-85.5019</longitude>
+    <elevation>184.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9393</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0005</id>
+    <displayName>COOKEVILLE 2.6 ENE, TN US</displayName>
+    <minDate>2007-05-22</minDate>
+    <maxDate>2012-10-15</maxDate>
+    <latitude>36.1747</latitude>
+    <longitude>-85.4639</longitude>
+    <elevation>335</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6596</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0027</id>
+    <displayName>COOKEVILLE 2.6 NE, TN US</displayName>
+    <minDate>2009-08-09</minDate>
+    <maxDate>2010-02-22</maxDate>
+    <latitude>36.1791</latitude>
+    <longitude>-85.4673</longitude>
+    <elevation>337.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7323</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0007</id>
+    <displayName>COOKEVILLE 3.0 ENE, TN US</displayName>
+    <minDate>2007-07-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1658</latitude>
+    <longitude>-85.453</longitude>
+    <elevation>345</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0031</id>
+    <displayName>COOKEVILLE 3.3 SSW, TN US</displayName>
+    <minDate>2011-03-05</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1153</latitude>
+    <longitude>-85.5332</longitude>
+    <elevation>319.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9474</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0014</id>
+    <displayName>COOKEVILLE 3.5 NNW, TN US</displayName>
+    <minDate>2007-07-14</minDate>
+    <maxDate>2012-12-07</maxDate>
+    <latitude>36.2048</latitude>
+    <longitude>-85.5244</longitude>
+    <elevation>337.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9103</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0003</id>
+    <displayName>COOKEVILLE 3.6 ENE, TN US</displayName>
+    <minDate>2007-06-29</minDate>
+    <maxDate>2008-10-18</maxDate>
+    <latitude>36.1712</latitude>
+    <longitude>-85.4428</longitude>
+    <elevation>338</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.2427</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0021</id>
+    <displayName>COOKEVILLE 3.9 E, TN US</displayName>
+    <minDate>2009-04-03</minDate>
+    <maxDate>2013-01-10</maxDate>
+    <latitude>36.1476</latitude>
+    <longitude>-85.4362</longitude>
+    <elevation>446.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.707</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0024</id>
+    <displayName>COOKEVILLE 4.1 NE, TN US</displayName>
+    <minDate>2009-07-11</minDate>
+    <maxDate>2012-02-13</maxDate>
+    <latitude>36.1917</latitude>
+    <longitude>-85.4469</longitude>
+    <elevation>343.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9346</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0029</id>
+    <displayName>COOKEVILLE 4.1 SE, TN US</displayName>
+    <minDate>2010-07-21</minDate>
+    <maxDate>2012-10-08</maxDate>
+    <latitude>36.1135</latitude>
+    <longitude>-85.4546</longitude>
+    <elevation>295.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9186</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0010</id>
+    <displayName>COOKEVILLE 4.6 WNW, TN US</displayName>
+    <minDate>2007-07-03</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1885</latitude>
+    <longitude>-85.5789</longitude>
+    <elevation>305.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8765</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0018</id>
+    <displayName>COOKEVILLE 5.4 WNW, TN US</displayName>
+    <minDate>2008-06-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1924</latitude>
+    <longitude>-85.5917</longitude>
+    <elevation>313.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9899</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0019</id>
+    <displayName>COOKEVILLE 6.5 NW, TN US</displayName>
+    <minDate>2009-03-13</minDate>
+    <maxDate>2012-10-22</maxDate>
+    <latitude>36.2143</latitude>
+    <longitude>-85.5973</longitude>
+    <elevation>321.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>1</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0011</id>
+    <displayName>COOKEVILLE 7.9 NNE, TN US</displayName>
+    <minDate>2007-07-07</minDate>
+    <maxDate>2009-06-19</maxDate>
+    <latitude>36.2678</latitude>
+    <longitude>-85.4733</longitude>
+    <elevation>303.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9398</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1TNPM0032</id>
+    <displayName>COOKEVILLE 8.0 N, TN US</displayName>
+    <minDate>2011-03-15</minDate>
+    <maxDate>2011-11-20</maxDate>
+    <latitude>36.2718</latitude>
+    <longitude>-85.4933</longitude>
+    <elevation>298.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9203</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402004</id>
+    <displayName>COOKEVILLE, TN US</displayName>
+    <minDate>1950-11-01</minDate>
+    <maxDate>1951-11-30</maxDate>
+    <latitude>36.15</latitude>
+    <longitude>-85.51667</longitude>
+    <elevation>335.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9595</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00402009</id>
+    <displayName>COOKEVILLE, TN US</displayName>
+    <minDate>1896-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>36.1075</latitude>
+    <longitude>-85.5033</longitude>
+    <elevation>332.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7907</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1OKCT0001</id>
+    <displayName>COOKIETOWN 6.3 NNW, OK US</displayName>
+    <minDate>2008-05-04</minDate>
+    <maxDate>2013-01-14</maxDate>
+    <latitude>34.3481</latitude>
+    <longitude>-98.5062</longitude>
+    <elevation>339.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.993</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00201768</id>
+    <displayName>COOKS 2 NE, MI US</displayName>
+    <minDate>2008-10-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>45.9248</latitude>
+    <longitude>-86.4435</longitude>
+    <elevation>225.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8499</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361752</id>
+    <displayName>COOKSBURG 2 NNW, PA US</displayName>
+    <minDate>1955-04-01</minDate>
+    <maxDate>1958-10-31</maxDate>
+    <latitude>41.35</latitude>
+    <longitude>-79.21667</longitude>
+    <elevation>445</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9977</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361751</id>
+    <displayName>COOKSBURG 2 NW, PA US</displayName>
+    <minDate>1994-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.3575</latitude>
+    <longitude>-79.2172</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7675</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361750</id>
+    <displayName>COOKSBURG 2 NW, PA US</displayName>
+    <minDate>1992-06-01</minDate>
+    <maxDate>1993-12-31</maxDate>
+    <latitude>41.3575</latitude>
+    <longitude>-79.2172</longitude>
+    <elevation>442</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9965</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361749</id>
+    <displayName>COOKSBURG RIVER, PA US</displayName>
+    <minDate>1955-04-01</minDate>
+    <maxDate>1991-07-31</maxDate>
+    <latitude>41.33056</latitude>
+    <longitude>-79.20917</longitude>
+    <elevation>359.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9164</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ILMCL008</id>
+    <displayName>COOKSVILLE 1.1 N, IL US</displayName>
+    <minDate>2007-06-30</minDate>
+    <maxDate>2011-09-27</maxDate>
+    <latitude>40.5591</latitude>
+    <longitude>-88.7171</longitude>
+    <elevation>232.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3301</coverage>
+  </station>
+  <station>
+    <id>GHCND:USS0015C16S</id>
+    <displayName>COOL CREEK, ID US</displayName>
+    <minDate>1984-08-04</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>46.7667</latitude>
+    <longitude>-115.3</longitude>
+    <elevation>1914.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9477</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00041985</id>
+    <displayName>COOL, CA US</displayName>
+    <minDate>1960-10-01</minDate>
+    <maxDate>1977-06-30</maxDate>
+    <latitude>38.88333</latitude>
+    <longitude>-121.01667</longitude>
+    <elevation>467</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9421</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1GATH0001</id>
+    <displayName>COOLIDGE 3.2 SSW, GA US</displayName>
+    <minDate>2008-05-21</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>30.9674</latitude>
+    <longitude>-83.8875</longitude>
+    <elevation>65.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9959</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00053162</id>
+    <displayName>COOLIDGE 5 W, AZ US</displayName>
+    <minDate>2010-02-28</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>32.9918</latitude>
+    <longitude>-111.5326</longitude>
+    <elevation>434.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9934</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092238</id>
+    <displayName>COOLIDGE, GA US</displayName>
+    <minDate>1940-06-23</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>31.01667</latitude>
+    <longitude>-83.86667</longitude>
+    <elevation>76.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5708</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00141801</id>
+    <displayName>COOLIDGE, KS US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1918-02-28</maxDate>
+    <latitude>38.033333</latitude>
+    <longitude>-102</longitude>
+    <elevation>1020.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8286</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00292070</id>
+    <displayName>COOLIDGE, NM US</displayName>
+    <minDate>1892-12-01</minDate>
+    <maxDate>1946-10-31</maxDate>
+    <latitude>35.48333</latitude>
+    <longitude>-108.43333</longitude>
+    <elevation>2135.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0251</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1IDBR0018</id>
+    <displayName>COOLIN 3.0 NNE, ID US</displayName>
+    <minDate>2012-07-13</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>48.5231</latitude>
+    <longitude>-116.8224</longitude>
+    <elevation>755.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7234</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102092</id>
+    <displayName>COOLIN, ID US</displayName>
+    <minDate>1928-03-01</minDate>
+    <maxDate>1939-01-31</maxDate>
+    <latitude>48.5</latitude>
+    <longitude>-116.866667</longitude>
+    <elevation>746.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6146</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00102099</id>
+    <displayName>COOLWATER LOOKOUT, ID US</displayName>
+    <minDate>1915-08-01</minDate>
+    <maxDate>1919-10-06</maxDate>
+    <latitude>46.15</latitude>
+    <longitude>-115.45</longitude>
+    <elevation>2114.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.1904</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00211787</id>
+    <displayName>COON CREEK FARM, MN US</displayName>
+    <minDate>1919-05-01</minDate>
+    <maxDate>1919-09-30</maxDate>
+    <latitude>45.166667</latitude>
+    <longitude>-93.333333</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7974</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00421695</id>
+    <displayName>COON PEAK KSL TV, UT US</displayName>
+    <minDate>1952-10-03</minDate>
+    <maxDate>1953-08-31</maxDate>
+    <latitude>40.66667</latitude>
+    <longitude>-112.2</longitude>
+    <elevation>2806</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8499</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0013</id>
+    <displayName>COON RAPIDS 1.4 ESE, MN US</displayName>
+    <minDate>2011-03-29</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.1648</latitude>
+    <longitude>-93.2855</longitude>
+    <elevation>267.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6741</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0002</id>
+    <displayName>COON RAPIDS 1.5 NNW, MN US</displayName>
+    <minDate>2009-12-22</minDate>
+    <maxDate>2012-11-11</maxDate>
+    <latitude>45.1947</latitude>
+    <longitude>-93.3257</longitude>
+    <elevation>263</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.5218</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0003</id>
+    <displayName>COON RAPIDS 2.2 NE, MN US</displayName>
+    <minDate>2010-01-10</minDate>
+    <maxDate>2011-07-31</maxDate>
+    <latitude>45.1962</latitude>
+    <longitude>-93.2755</longitude>
+    <elevation>272.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4437</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MNAA0019</id>
+    <displayName>COON RAPIDS 3.2 WNW, MN US</displayName>
+    <minDate>2011-04-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>45.189</latitude>
+    <longitude>-93.3719</longitude>
+    <elevation>266.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.6897</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00131793</id>
+    <displayName>COON RAPIDS, IA US</displayName>
+    <minDate>1899-03-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.8747</latitude>
+    <longitude>-94.6705</longitude>
+    <elevation>361.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.0622</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00471806</id>
+    <displayName>COON VALLEY EXPERIMENTAL FARM, WI US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>43.75</latitude>
+    <longitude>-91.01667</longitude>
+    <elevation>392.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9732</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1MEWS0004</id>
+    <displayName>COOPER 0.5 SE, ME US</displayName>
+    <minDate>2010-01-02</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>44.9526</latitude>
+    <longitude>-67.4356</longitude>
+    <elevation>69.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9613</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081800</id>
+    <displayName>COOPER CITY, FL US</displayName>
+    <minDate>2005-11-01</minDate>
+    <maxDate>2010-12-27</maxDate>
+    <latitude>26.04722</latitude>
+    <longitude>-80.28389</longitude>
+    <elevation>3.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9703</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411968</id>
+    <displayName>COOPER DAM, TX US</displayName>
+    <minDate>2008-07-01</minDate>
+    <maxDate>2012-10-31</maxDate>
+    <latitude>33.3191</latitude>
+    <longitude>-95.6038</longitude>
+    <elevation>141.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9811</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00092246</id>
+    <displayName>COOPER GAP, GA US</displayName>
+    <minDate>1948-08-01</minDate>
+    <maxDate>1951-09-30</maxDate>
+    <latitude>34.63333</latitude>
+    <longitude>-84.05</longitude>
+    <elevation>580</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9317</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502144</id>
+    <displayName>COOPER LAKE PROJECT, AK US</displayName>
+    <minDate>1958-12-02</minDate>
+    <maxDate>2004-03-31</maxDate>
+    <latitude>60.3925</latitude>
+    <longitude>-149.66611</longitude>
+    <elevation>153.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9434</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502149</id>
+    <displayName>COOPER LANDING 5 W, AK US</displayName>
+    <minDate>1975-02-01</minDate>
+    <maxDate>2012-07-31</maxDate>
+    <latitude>60.4875</latitude>
+    <longitude>-149.9681</longitude>
+    <elevation>114.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8935</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00502147</id>
+    <displayName>COOPER LANDING KENAI R, AK US</displayName>
+    <minDate>1941-09-01</minDate>
+    <maxDate>1956-02-29</maxDate>
+    <latitude>60.49222</latitude>
+    <longitude>-149.80889</longitude>
+    <elevation>127.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.533</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411970</id>
+    <displayName>COOPER, TX US</displayName>
+    <minDate>1944-02-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>33.3744</latitude>
+    <longitude>-95.6933</longitude>
+    <elevation>148.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9052</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00331858</id>
+    <displayName>COOPERDALE, OH US</displayName>
+    <minDate>1948-09-29</minDate>
+    <maxDate>2011-12-31</maxDate>
+    <latitude>40.22111</latitude>
+    <longitude>-82.06667</longitude>
+    <elevation>237.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9948</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00461900</id>
+    <displayName>COOPERS ROCK STATE FOREST, WV US</displayName>
+    <minDate>1978-02-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>39.67722</latitude>
+    <longitude>-79.77194</longitude>
+    <elevation>694.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8659</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00411972</id>
+    <displayName>COOPERS STORE, TX US</displayName>
+    <minDate>1943-09-01</minDate>
+    <maxDate>1951-04-30</maxDate>
+    <latitude>29.58333</latitude>
+    <longitude>-103.13333</longitude>
+    <elevation>885.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.612</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00361766</id>
+    <displayName>COOPERSBURG, PA US</displayName>
+    <minDate>1894-01-01</minDate>
+    <maxDate>1900-12-31</maxDate>
+    <latitude>40.516667</latitude>
+    <longitude>-75.4</longitude>
+    <elevation>158.5</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9984</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOT0002</id>
+    <displayName>COOPERSTOWN 0.3 S, NY US</displayName>
+    <minDate>2005-05-01</minDate>
+    <maxDate>2012-11-13</maxDate>
+    <latitude>42.6952</latitude>
+    <longitude>-74.93</longitude>
+    <elevation>374.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.7389</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1PAVN0007</id>
+    <displayName>COOPERSTOWN 1.3 E, PA US</displayName>
+    <minDate>2010-01-18</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>41.5007</latitude>
+    <longitude>-79.8497</longitude>
+    <elevation>408.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8073</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1NYOT0003</id>
+    <displayName>COOPERSTOWN 2.8 SSW, NY US</displayName>
+    <minDate>2005-05-01</minDate>
+    <maxDate>2007-09-15</maxDate>
+    <latitude>42.6644</latitude>
+    <longitude>-74.9587</longitude>
+    <elevation>359.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4931</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00321766</id>
+    <displayName>COOPERSTOWN, ND US</displayName>
+    <minDate>1903-10-01</minDate>
+    <maxDate>2012-08-31</maxDate>
+    <latitude>47.405</latitude>
+    <longitude>-98.038</longitude>
+    <elevation>420.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.8886</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301752</id>
+    <displayName>COOPERSTOWN, NY US</displayName>
+    <minDate>1893-01-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.7166</latitude>
+    <longitude>-74.9266</longitude>
+    <elevation>383.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9642</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCS0016</id>
+    <displayName>COOS BAY 0.6 WNW, OR US</displayName>
+    <minDate>2010-07-16</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3809</latitude>
+    <longitude>-124.2425</longitude>
+    <elevation>14.3</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9334</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCS0007</id>
+    <displayName>COOS BAY 1 NNW, OR US</displayName>
+    <minDate>2007-01-01</minDate>
+    <maxDate>2013-01-13</maxDate>
+    <latitude>43.3748</latitude>
+    <longitude>-124.2302</longitude>
+    <elevation>54.9</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9456</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCS0014</id>
+    <displayName>COOS BAY 1.7 WNW, OR US</displayName>
+    <minDate>2008-04-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3835</latitude>
+    <longitude>-124.2639</longitude>
+    <elevation>67.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.976</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCS0003</id>
+    <displayName>COOS BAY 2.1 ESE, OR US</displayName>
+    <minDate>2007-12-15</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>43.3647</latitude>
+    <longitude>-124.1933</longitude>
+    <elevation>17.4</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9935</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCS0006</id>
+    <displayName>COOS BAY 4 SE, OR US</displayName>
+    <minDate>2007-12-16</minDate>
+    <maxDate>2011-12-30</maxDate>
+    <latitude>43.3403</latitude>
+    <longitude>-124.1675</longitude>
+    <elevation>39</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.4986</coverage>
+  </station>
+  <station>
+    <id>GHCND:US1ORCS0009</id>
+    <displayName>COOS BAY 7.3 ESE, OR US</displayName>
+    <minDate>2007-12-05</minDate>
+    <maxDate>2012-12-31</maxDate>
+    <latitude>43.3523</latitude>
+    <longitude>-124.0896</longitude>
+    <elevation>5.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9871</coverage>
+  </station>
+  <station>
+    <id>GHCND:USW00004141</id>
+    <displayName>COOS BAY 8 SW, OR US</displayName>
+    <minDate>2008-08-10</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>43.2718</latitude>
+    <longitude>-124.3186</longitude>
+    <elevation>3.7</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9901</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000OCOO</id>
+    <displayName>COOS BAY OREGON, OR US</displayName>
+    <minDate>1997-04-01</minDate>
+    <maxDate>2005-03-17</maxDate>
+    <latitude>43.2131</latitude>
+    <longitude>-124.1225</longitude>
+    <elevation>72.8</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.782</coverage>
+  </station>
+  <station>
+    <id>GHCND:USR0000CCOO</id>
+    <displayName>COOSKIE MOUNTAIN CALIFORNIA, CA US</displayName>
+    <minDate>1985-05-23</minDate>
+    <maxDate>2012-08-30</maxDate>
+    <latitude>40.2569</latitude>
+    <longitude>-124.2661</longitude>
+    <elevation>899.2</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9653</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00081832</id>
+    <displayName>COOT BAY RANGER STATION, FL US</displayName>
+    <minDate>1949-05-01</minDate>
+    <maxDate>1950-12-31</maxDate>
+    <latitude>25.18333</latitude>
+    <longitude>-80.9</longitude>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.9295</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00441986</id>
+    <displayName>COOTES STORE, VA US</displayName>
+    <minDate>1940-10-01</minDate>
+    <maxDate>2013-01-16</maxDate>
+    <latitude>38.63694</latitude>
+    <longitude>-78.85306</longitude>
+    <elevation>326.1</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.3918</coverage>
+  </station>
+  <station>
+    <id>GHCND:USC00301761</id>
+    <displayName>COPAKE, NY US</displayName>
+    <minDate>1988-03-01</minDate>
+    <maxDate>2013-01-15</maxDate>
+    <latitude>42.1131</latitude>
+    <longitude>-73.5522</longitude>
+    <elevation>167.6</elevation>
+    <locationLabels>
+      <type>CNTRY</type>
+      <id>FIPS:US</id>
+      <displayName>United States</displayName>
+    </locationLabels>
+    <coverage>0.907</coverage>
+  </station>
+</stationCollection>
