@@ -5,7 +5,7 @@ open(IN, "<ghcnd-us-stations.csv");
 $n = 0;
 while (<IN>) {
     chomp;
-    if ( ($stationid, $meta) = /^(GHCND:[^,]+),(.*)$/ ) {
+    if ( ($stationid, $meta) = /^(GHCND:[^\|]+)\|(.*)$/ ) {
         $stations->{$stationid} = $meta;
         ++$n;
     } else {
@@ -26,7 +26,7 @@ open(IN, "<ghcnd-us-stations-datatypes.csv");
 $n = 0;
 while (<IN>) {
     chomp;
-    if ( ($stationid, $dt) = /^(GHCND:[^,]+):(.*)$/ ) {
+    if ( ($stationid, $dt) = /^(GHCND:[^\|]+)\|(.*)$/ ) {
         $datatypes->{$stationid} = $dt;
         ++$n;
     } else {
@@ -45,7 +45,7 @@ close(IN);
 
 foreach $id (keys %{$stations}) {
     if ($datatypes->{$id}) {
-        printf("%s,%s,'%s'\n", $id, $stations->{$id}, $datatypes->{$id});
+        printf("%s|%s|%s\n", $id, $stations->{$id}, $datatypes->{$id});
     } else {
         #printf("WARNING: no datatypes for %s\n", $id);
     }

@@ -43,7 +43,7 @@ sub end_element {
     my ($self, $element) = @_;
 
     if ($element->{Name} eq "station") {
-        printf("%s,'%s',%s,%s,%s,%s,%s,%s\n",
+        printf("%s|%s|%s|%s|%s|%s|%s|%s\n",
                $station->{id},
                $station->{displayName},
                $station->{minDate},

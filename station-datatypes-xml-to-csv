@@ -53,7 +53,7 @@ sub end_element {
         if (@{$station->{dataTypeCollections}} > 1) {
             printf("WARNING: multiple dataTypeCollections for station id=%s\n", $station->{id});
         }
-        printf("%s:", $station->{id});
+        printf("%s|", $station->{id});
         if (@{$station->{dataTypeCollections}} > 0) {
             printf("%s\n", join(",", @{$station->{dataTypeCollections}->[0]}));
         }
