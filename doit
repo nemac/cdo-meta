@@ -41,14 +41,50 @@ sub xml_request {
 #xml_request("ghcnd-cntry-locations2.xml",                  "datasets/GHCND/locationtypes/CNTRY/locations", "page=2");
 
 # List stations within FIPS:US location in GHCN-Daily (100 Stations per page limit):
-for ($i=11; $i<=461; ++$i) {
-    $p = sprintf("%03d", $i);
-    xml_request("ghcnd-us-stations$p.xml",                  "datasets/GHCND/locations/FIPS:US/stations", "page=$i");
-    sleep(1);
-}
+#for ($i=11; $i<=461; ++$i) {
+#    $p = sprintf("%03d", $i);
+#    xml_request("ghcnd-us-stations$p.xml",                  "datasets/GHCND/locations/FIPS:US/stations", "page=$i");
+#    sleep(1);
+#}
 
-# List of datatypes available for a given station:
-#xml_request("ghcnd-ca001165793-datatypes.xml",      "datasets/GHCND/stations/GHCND:CA001165793/datatypes");
+@ids = ();
+open(IN, "<ghcnd-us-stations.txt");
+while (<IN>) {
+    chomp;
+    if (/\S/) {
+        push(@ids, $_);
+    }
+}
+close(IN);
+printf("read %1d ids\n", (@ids+0));
+#unlink("ghcnd-us-stations-datatypes.xml");
+open(OUT, ">>ghcnd-us-stations-datatypes.xml");
+print OUT "<stationsDataTypes>\n";
+close(OUT);
+for ($i=$#ids; $i<=$#ids; ++$i) {
+    # List of datatypes available for a given station:
+    #xml_request("ghcnd-ca001165793-datatypes.xml",      "datasets/GHCND/stations/GHCND:CA001165793/datatypes");
+    $id = $ids[$i];
+    sleep(1);
+    xml_request("foo.xml",      "datasets/GHCND/stations/$id/datatypes");
+    open(OUT, ">>ghcnd-us-stations-datatypes.xml");
+    printf(OUT "<datatypes stationid=\"%s\">\n", $id);
+    open(IN, "<foo.xml");
+    while (<IN>) {
+    if (/xml version="1.0" encoding="UTF-8" standalone="yes"/) {
+        # omit this line
+    } else {
+        print OUT $_;
+    }
+    close(IN);
+    printf(OUT "</datatypes>\n");
+    close(OUT);
+    unlink("foo.xml");
+}
+open(OUT, ">>ghcnd-us-stations-datatypes.xml");
+print OUT "</stationsDataTypes>\n";
+close(OUT);
+
 
 # Displays info about a particular data type from a given station (subset of above?):
 # xml_request("tmax.xml",      "datasets/GHCND/stations/GHCND:CA001165793/datatypes/TMAX");

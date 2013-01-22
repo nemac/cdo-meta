@@ -1,0 +1,83 @@
+<datatypes stationid="GHCND:USC00259510">
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>502 Error | National Climatic Data Center</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="content-language" content="en" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Template Page" />
+    <meta name="keywords" content="metadata, climate, weather, data, satellite, temperature, precipitation, rain, snow, drought, normals, dewpoint, wind, hurricane, climate change, El Nino, La Nina, hydrologic, help, data set, product, documentation" />
+    <meta name="author" content="National Climatic Data Center (NCDC)" />
+    <meta name="robots" content="noindex,follow" />
+    <meta name="application-name" content="Metadata" />
+    <link rel="shortcut icon" href="/errors/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/errors/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/errors/css/application.css" />
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="/errors/css/ie.css" />
+<![endif]-->
+  </head>
+  <body>
+    <div id="background">
+      <div id="wrap">
+        <div id="main">
+<!-- Header -->
+          <div id="header">
+            <div class="inset">
+              <div class="title">
+                <a href="http://www.ncdc.noaa.gov/" title="National Climatic Data Center">National Climatic Data Center<span></span></a>
+              </div>
+              <a href="http://www.commerce.gov/" id="headDOC" title="Click to visit the U.S. Department of Commerce Website"></a>
+            </div>
+          </div>
+<!--  
+			<div id="nav">
+				<ul class="floatLeft">
+					<li><a href="http://www.ncdc.noaa.gov/" title="NCDC Home">Home</a></li>
+					<li><a href="http://www.ncdc.noaa.gov/oa/about/ncdccontacts.html" title="Contact Us">Contact Us</a></li>
+					<li><a href="http://www.ncdc.noaa.gov/oa/about/about.html" title="About NCDC">About NCDC</a></li>
+					<li><a href="http://www.ncdc.noaa.gov/cdo-web/faq" title="Website Help">Help</a></li>
+				</ul>
+				<div class="floatRight">
+					<form name="sitesearch" method="get" action="http://search.usa.gov/search">
+						<input type="hidden" name="affiliate" value="NCDC" />
+						<label for="sitesearch">Search Field: </label>
+						<input type="text" name="query" class="searchtext inputbox" id="sitesearch" value="Search articles and pages" maxlength="50" />
+						<input type="image" src="/errors/images/search_submit.png" class="submitbutton" value="Search" />
+					</form>
+				</div>
+			</div>
+			-->
+<!-- Main Content Area -->
+          <div id="content">
+            <h1>502 Error: Service Unavailable</h1>
+            <p>We are sorry, but the website you were looking for is currently unavailable.</p>
+          </div>
+<!--/content-->
+        </div>
+<!-- /main -->
+        <div id="footer">
+          <div class="links"><a href="http://www.noaa.gov/privacy.html" title="Privacy Policy" rel="external" class="external">Privacy Policy</a> | <a href="http://www.rdc.noaa.gov/%7Efoia/" title="Freedom of Information Act" rel="external" class="external">FOIA</a> | <a href="http://www.cio.noaa.gov/Policy_Programs/info_quality.html" title="Information Quality" rel="external" class="external">Information Quality</a> | <a href="http://www.noaa.gov/disclaimer.html" title="Disclaimer" rel="external" class="external">Disclaimer</a> | <a href="http://www.ncdc.noaa.gov/oa/about/ncdccontacts.html" title="Contact Us">Contact Us</a></div>
+          <div class="subfooter">
+            <a href="http://www.commerce.gov/">
+              <img src="/errors/images/logos/logo_doc.png" alt="Click to visit the U.S. Department of Commerce Website" />
+            </a>
+            <a href="http://www.usa.gov">
+              <img src="/errors/images/logos/logo_usagov.png" alt="Click to visit USA.gov" />
+            </a>
+            <a href="http://www.ready.gov">
+              <img src="/errors/images/logos/logo_ready.png" alt="Click to visit Ready.gov" />
+            </a>
+          </div>
+<!-- /subfooter -->
+        </div>
+<!-- /footer -->
+      </div>
+<!-- /wrap -->
+    </div>
+<!-- /background -->
+  </body>
+</html>
+</datatypes>
