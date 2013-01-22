@@ -1,0 +1,29 @@
+#! /usr/bin/perl
+
+use Settings;
+
+my $base  = "http://www.ncdc.noaa.gov/cdo-services/services";
+my $token = $Settings::token;
+
+sub sys {
+    my $cmd = shift;
+    print $cmd, "\n";
+    return system($cmd);
+}
+
+sub xml_request {
+    my $file = shift;
+    my $path = shift;
+    my $args = shift;
+    if ($args) {
+        $args = "&" . $args;
+    }
+    sys(sprintf("curl '%s/%s.xml?token=$token$args' | xmllint --format - > %s", $base, $path, $file));
+}
+
+# List stations within FIPS:US location in GHCN-Daily (100 Stations per page limit):
+for ($i=11; $i<=461; ++$i) {
+    $p = sprintf("%03d", $i);
+    xml_request("ghcnd-us-stations$p.xml",                  "datasets/GHCND/locations/FIPS:US/stations", "page=$i");
+    sleep(1);
+}

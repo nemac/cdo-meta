@@ -1,0 +1,59 @@
+#! /usr/bin/perl
+
+my $stations = {};
+open(IN, "<ghcnd-us-stations.csv");
+$n = 0;
+while (<IN>) {
+    chomp;
+    if ( ($stationid, $meta) = /^(GHCND:[^,]+),(.*)$/ ) {
+        $stations->{$stationid} = $meta;
+        ++$n;
+    } else {
+        printf("WARNING: bad line in ghcnd-us-stations.csv\n");
+    }
+}
+close(IN);
+#printf("read %1d stations from ghcnd-us-stations.csv\n", $n);
+
+#ghcnd-us-stations.csv
+#   GHCND:US1KSCM0007,'19.8 SE COLDWATER, KS US',2008-01-01,2008-12-31,37.0571,-99.09,552.9,1
+#   GHCND:USR0000I3MI,'3 MILE IDAHO, ID US',2001-06-07,2012-08-31,44.3958,-112.1081,2019.3,0.8779
+#   GHCND:US1INWB0019,'AA9SH LAGRO 5.2 NW, IN US',2012-02-02,2013-01-16,40.8989,-85.7871,243.5,0.5686
+#
+
+my $datatypes = {};
+open(IN, "<ghcnd-us-stations-datatypes.csv");
+$n = 0;
+while (<IN>) {
+    chomp;
+    if ( ($stationid, $dt) = /^(GHCND:[^,]+):(.*)$/ ) {
+        $datatypes->{$stationid} = $dt;
+        ++$n;
+    } else {
+        #printf("WARNING: bad line in ghcnd-us-stations-datatypes.csv\n");
+        #print  $_;
+    }
+}
+close(IN);
+#printf("read %1d stations from ghcnd-us-stations-datatypes.csv\n", $n);
+
+#ghcnd-us-stations-datatypes.csv
+#   GHCND:AQC00914000:DAPR,MDPR,PRCP,SNOW,SNWD
+#   GHCND:AQC00914005:DAPR,MDPR,PRCP,SNOW,SNWD
+#   GHCND:AQC00914021:PRCP,SNOW,SNWD,TMAX,TMIN,TOBS,WT01,WT03,WT04,WT05
+#   GHCND:AQC00914060:DAPR,MDPR,PRCP,SNOW,SNWD
+
+foreach $id (keys %{$stations}) {
+    if ($datatypes->{$id}) {
+        printf("%s,%s,'%s'\n", $id, $stations->{$id}, $datatypes->{$id});
+    } else {
+        #printf("WARNING: no datatypes for %s\n", $id);
+    }
+}
+
+foreach $id (keys %{$datatypes}) {
+    if (!$stations->{$id}) {
+        #printf("WARNING: have station datatypes but no basic data for: %s\n", $id);
+    }
+}
+

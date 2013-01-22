@@ -1,0 +1,60 @@
+#! /usr/bin/perl
+
+use Settings;
+
+my $base  = "http://www.ncdc.noaa.gov/cdo-services/services";
+my $token = $Settings::token;
+
+sub sys {
+    my $cmd = shift;
+    print $cmd, "\n";
+    return system($cmd);
+}
+
+sub xml_request {
+    my $file = shift;
+    my $path = shift;
+    my $args = shift;
+    if ($args) {
+        $args = "&" . $args;
+    }
+    sys(sprintf("curl '%s/%s.xml?token=$token$args' | xmllint --format - > %s", $base, $path, $file));
+}
+
+@ids = ();
+open(IN, "<ghcnd-us-stations-list.txt");
+while (<IN>) {
+    chomp;
+    if (/\S/) {
+        push(@ids, $_);
+    }
+}
+close(IN);
+printf("read %1d ids\n", (@ids+0));
+#unlink("ghcnd-us-stations-datatypes.xml");
+open(OUT, ">>ghcnd-us-stations-datatypes.xml");
+print OUT "<stationsDataTypes>\n";
+close(OUT);
+for ($i=$#ids; $i<=$#ids; ++$i) {
+    # List of datatypes available for a given station:
+    #xml_request("ghcnd-ca001165793-datatypes.xml",      "datasets/GHCND/stations/GHCND:CA001165793/datatypes");
+    $id = $ids[$i];
+    sleep(1);
+    xml_request("foo.xml",      "datasets/GHCND/stations/$id/datatypes");
+    open(OUT, ">>ghcnd-us-stations-datatypes.xml");
+    printf(OUT "<datatypes stationid=\"%s\">\n", $id);
+    open(IN, "<foo.xml");
+    while (<IN>) {
+    if (/xml version="1.0" encoding="UTF-8" standalone="yes"/) {
+        # omit this line
+    } else {
+        print OUT $_;
+    }
+    close(IN);
+    printf(OUT "</datatypes>\n");
+    close(OUT);
+    unlink("foo.xml");
+}
+open(OUT, ">>ghcnd-us-stations-datatypes.xml");
+print OUT "</stationsDataTypes>\n";
+close(OUT);
