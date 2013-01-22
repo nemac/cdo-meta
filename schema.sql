@@ -1,15 +1,18 @@
+drop table if exists `stations` ;
 create table stations (
    id            char(17),
    description   varchar(128),
    mindate       date,
    maxdate       date,
-   latitute      float,
+   latitude      float,
    longitude     float,
+   elevation     float,
    coverage      float,
 
    primary key (`id`)
 );
 
+drop table if exists `elements` ;
 create table elements (
    id            char(4),
    description   varchar(256),
@@ -17,9 +20,10 @@ create table elements (
    primary key (`id`)
 );
 
+drop table if exists `station_elements` ;
 create table station_elements (
-   station_id,
-   element_id,
+   station_id    char(17),
+   element_id    char(4),
 
    primary key (`station_id`, `element_id`)
 );

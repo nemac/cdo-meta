@@ -4,17 +4,92 @@ use XML::Parser::PerlSAX;
 
 my $datatypes = {};
 
+#
+# Start by outputting the schema itself
+#
+open(IN, "<schema.sql");
+while (<IN>) {
+    print $_;
+}
+close(IN);
+
+#
+# Generate sql `insert` statements to populate the `elements` table
+# by parsing the file `ghcnd-datatypes.xml`:
+#
 my $my_handler = MyHandler->new;
 $parser = XML::Parser::PerlSAX->new( Handler => $my_handler );
-
 $filename = 'ghcnd-datatypes.xml';
 $parser->parse(Source => { SystemId => $filename });
-
-foreach $id (keys(%{$datatypes})) {
-    printf("%s: %s\n", $id, $datatypes->{$id});
+foreach $id (sort keys(%{$datatypes})) {
+    printf("insert into elements (id,description) values ('%s','%s');\n",
+           $id, $datatypes->{$id});
 }
 
+#
+# Load station data from file `ghcnd-us-stations-final.csv` into $stations array
+#
+$stations = [];
+open(IN, "<ghcnd-us-stations-final.csv");
+while (<IN>) {
+    chomp($_);
+    if (/^GHCND/) {
+        @fields = split(/\|/, $_);
+        my $i=0;
+        push(@{$stations}, {
+            id          => $fields[$i++],
+            description => $fields[$i++],
+            mindate     => $fields[$i++],
+            maxdate     => $fields[$i++],
+            latitude    => $fields[$i++],
+            longitude   => $fields[$i++],
+            elevation   => $fields[$i++],
+            coverage    => $fields[$i++],
+            elementlist => $fields[$i++]
+        });
+    }
+}
+close(IN);
+
+
+#
+# Generate statements to load stations table, and station_elements table, from
+# data loaded into $stations array above.
+#
+foreach $station (@{$stations}) {
+    printf("insert into stations (id,description,mindate,maxdate,latitude,longitude,elevation,coverage) values ('%s','%s','%s','%s',%f,%f,%f,%f);\n",
+           quote($station->{'id'}),
+           quote($station->{'description'}),
+           quote($station->{'mindate'}),
+           quote($station->{'maxdate'}),
+           $station->{'latitude'},
+           $station->{'longitude'},
+           $station->{'elevation'},
+           $station->{'coverage'});
+    foreach $element_id (split(/,/, $station->{'elementlist'})) {
+        printf("insert into station_elements (station_id,element_id) values ('%s','%s');\n",
+               quote($station->{'id'}),
+               quote($element_id));
+    }
+}
+
+#
+# Finish by outputting commands to generate the needed indices
+#
+open(IN, "<indices.sql");
+while (<IN>) {
+    print $_;
+}
+close(IN);
+
 ########################################################################
+
+sub quote {
+    my $x = shift;
+    $x =~ s/'/\\'/g;
+    return $x;
+}
+
 
 package MyHandler;
 
@@ -41,6 +116,9 @@ sub end_element {
     }
     elsif ($element->{Name} eq "description") {
         $description = $current_chars;
+        $description =~ s/\"//g;
+        $description =~ s/\s+$//;
+        $description =~ s/^\s+//;
     }
     elsif ($element->{Name} eq "dataType") {
         $datatypes->{$id} = $description;
