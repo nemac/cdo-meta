@@ -45,3 +45,30 @@
    `ghcnd-us-stations-datatypes.csv`, and creates a single file
    `ghcnd-us-stations-final.csv` containing the information from both
    of them.
+
+
+7. Run
+
+        makesql > load.sql
+
+   to generate `load.sql` file containing script to (re)load inventory
+   database.  Note that `load.sql` contains copies of `schema.sql`,
+   which (re)creates tables, and `indices.sql`, which creates indices
+   after tables have been loaded.  You should NOT load `schema.sql`
+   and/or `indices.sql` separately, but if you want to change
+   `schema.sql` or `indices.sql`, edit them directly and re-run
+   `makesql > load.sql` (it copies `schema.sql` and `indices.sql` to
+   its output).
+
+8. Run
+
+        mysql --user=cdometa --password=******* cdometa < load.sql 
+
+   to (re)load the database.  See Settings.pm for the password.
+
+9. See `q.sql`, and run
+
+        mysql --user=cdometa --password=******* cdometa < q.sql
+
+   for sample query to generate list of stations meeting certain
+   criteria.
